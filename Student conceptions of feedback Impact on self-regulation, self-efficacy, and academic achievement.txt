@@ -1,0 +1,511 @@
+﻿606 
+British Journal of Educational Psychology (2016), 86, 606 629
+' 2016 The British Psychological Society
+www.wileyonlinelibrary.com
+Student conceptions of feedback: Impact on self-regulation, self-ef cacy, and academic achievement
+Gavin T. L. Brown*, Elizabeth R. Peterson and Esther S. Yao
+The University of Auckland, New Zealand
+Background. Lecturers give feedback on assessed work in the hope that students will take it on board and use it to help regulate their learning for the next assessment. However,littleisknownabouthowstudents conceptionsoffeedbackrelatetostudents self-regulated learning and self-efficacybeliefs and academic performance.
+Aims. This study explores student beliefs about the role and purpose of feedback and the relationship of those beliefs to self-reported self-regulation and self-efficacy, and achievement.
+Sample. A total of 278 university students in a general education course on learning theory and approaches in a research-intensive university.
+Methods. Self-reported survey responses for students  conceptions of feedback (SCoF), self-regulation (SRL), academic self-efficacy (ASE), and Grade Point Average (GPA) were evaluated first with confirmatory factor analysis and then interlinked in a structural equation model.
+Results and conclusions. Three SCoF factors predicted SRL and/or GPA. The SCoF factor I use feedback  had positive associations with SRL (b = .44), GPA (b = .45), and ASE (b = .15). The SCoF factors tutor/marker comments  and peers help  both had negative relations to GPA (b =  .41 and  .16, respectively). Peers help  had a positive connection to SRL (b = .21). ASE itself made a small contribution to overall GPA (b = .16), while SRL had no statistically significantrelation to GPA. The model indicates the centrality of believing that feedback exists to guide next steps in learning and thus contributes to SRL, ASE, and increased GPA.
+To date self-regulation of learning research has focused mostly on the studying and learning processes, while devoting much less attention to the adaptive and maladaptive responses and attitudes students might have towards assessment and external feedback. Hence, while it might be expected that self-regulating students make active use of the insights available about their learning from assessment and feedback, this is not a well- attested assumption.
+Teachers, tutors, and instructors generate external feedback (e.g., grades, scores, comments) in the hope, oftentimes vain, that students will use feedback in an adaptive way to improve their future performance. Despite this core assumption, little is known about how student conceptions of feedback (SCoF) interact with self-reported
+*CorrespondenceshouldbeaddressedtoGavinT.L.Brown,FacultyofEducation&SocialWork,SchoolofLearningDevelopment and Professional Practice, The University of Auckland, Private Bag 92019, Auckland 1142, New Zealand (email: gt. brown@auckland.ac.nz).
+DOI:10.1111/bjep.12126
+
+University students  conceptions of feedback607
+metacognitive learning strategies, self-reported academic self-ef cacy (ASE), and overall academic performance. That is, what the student learns from feedback may not be relevant and hence may not lead to the adoption of regulatory strategies that will raise subsequent achievement. A study that seeks to identify potentially adaptive beliefs about feedback and how these relate to self-regulation is therefore needed.
+Among studies of self-regulation, it would seem only Panadero et al. (Panadero, Alonso-Tapia, & Huertas, 2014; Panadero, Alonso-Tapia, & Reche, 2013) have examined the impact of feedback derived from rubrics, scripts, and exemplars upon performance, self-ef cacy, and self-regulation. They reported that feedback had no meaningful impact
+on self-regulation and only process-oriented feedback (as opposed to performance- oriented) increased self-ef cacy. They did not, however, investigate students  concep- tions of feedback and the association of those perceptions with self-regulation. Some research has been carried out linking conceptions of assessment to self-regulation. A variety of studies (summarized in Brown, 2011) have shown that students who endorsed
+the conceptions that assessment is for improvement exhibited adaptive self-regulatory responses (e.g., greater achievement, greater effort in test-taking, and greater attendance atavoluntarytestday)whilestudentswhoviewedassessmentassomethingtobeignored
+had maladaptive responses.
+Self-regulation
+Formal schooling involves a sequential process in which instruction of content takes place, students study and learn the material, and formal assessments (e.g., tests) are conducted to establish learning success and needs, or to certify student pro ciency. The formal evaluative event generates feedback about the quality and success of learning (Evaluation Process in Figure 1). However, this linear schooling process interacts with interactive and cyclical processes students use as they learn and study. Zimmerman s (2008) model of self-regulation of learning involves a cycle of planning, monitoring, and re ectionaroundlearningandstudying(boxattopofFigure 1).Feedbackarises through multiple mechanisms including internal processes (i.e., physical and psychological responses) (Butler & Winne, 1995) and external assessment appraisals. Feedback within Zimmerman s model occurs in a re ective process which can take place during the preparatory study, the assessment process itself, and upon completion of the assessment process. Consequently, self-regulation of learning weaves itself around the complete studying, assessment, and follow-up stages of schooling.
+Feedback based on assessed performance contributes to ASE and the self-regulation processes, and ultimately future learning and achievement. While this general cycle of learning is portrayed in a linear fashion in Figure 1, these processes are interactive and reciprocal such that ASE and self-regulation processes both arise from and contribute to academic performance. Nonetheless, given the chronological sequencing of school processes, linear ows are all that can be observed.
+Feedback
+Feedback is information given byan agent ... regarding aspects of one s performance or understanding (Hattie &Timperley, 2007, p.102). While feedback can be internally self- generated, it is commonly externally generated by the teacher or other people (Butler & Winne, 1995). Four levels of feedback have been identi ed to do with task, process, self- regulation, and self (Hattie & Timperley, 2007). Task, process, and self-regulation
+
+608	 Gavin T. L. Brown et al.
+
+Figure 1. Schematic relationships of self-regulated learning, evaluation, and academic self-efficacy. Constructs used in this study shown in shaded ellipses.
+feedback all contribute to gains in learning outcomes, while self-oriented or ego- enhancing/protecting feedback generally does not (Boekaerts & Corno, 2005; Hattie & Timperley, 2007).
+Feedbackcanalsobeformativeorsummativedependingonitstimingwithinacourse ofstudy,withtheformerhappeningearlyenoughtoallowimprovement,whilethelatter happens at the end of study and involves an evaluation of performance. In its most summativeform,feedbackisrestrictedtoevaluativemarks,grades,orscoresattheendof study.Suchfeedback,evenifprovidedformativelyearlierinacourse,hasbeenfoundnot to be as effective as descriptive feedback commentaries that identify strengths and weaknesses, diagnose problems, and recommend strategies for improvement (Smith & Lipnevich, 2009).
+Higher education assessment is rarely just summative (i.e., 100% nal examination). Coursework completed prior to or instead of a terminal examination is both summative (i.e., counts towards the nal grade) and formative (i.e., indicates quality of performance and potentially diagnoses strengths and weaknesses with recommendations for future actions). Hence, feedback from assessments early in a course can be both evaluative and descriptive while having formative potential.
+Feedback, self-regulation, self-ef cacy, and achievement
+As illustrated by Figure 1, effective feedback results in students implementing learning strategies that contribute to greater learning (Nicol & Macfarlane-Dick, 2006). Students who act on feedback are considered self-regulating because they take responsibility for their learning processes by re ecting on the quality of their work, and make adjustments to their learning in the light of feedback (Zimmerman, 2008). However, while feedback
+
+University students  conceptions of feedback609
+may generate learning effects, these may not be automatically translated into better performanceonfutureassessments.Futureassessmentsgenerallyalignwithcoursegoals rather the student s personal goals, meaning that what the student learns from feedback may not be relevant for a future assessment (Bourke, 2014). Further, feedback from performance on one assessment (e.g., multiple choice test) may not be useful for performance on another type of assessment (e.g., essay). Hence, the relationship of feedback from a speci c task to overall academic performance may not be very strong. Nonetheless, it is expected that a self-regulating response to feedback should result in greater outcomes overall.
+Takingtimetoengagewiththefeedbackandself-regulatesubsequentlearningislikely tobeassociatedwithasenseofASE.Thatis,afterreceivingfeedback,studentswhodonot believe they have capability to achieve on the next assessment would be unlikely to engage in self-regulation, further reducing future performance; unsurprisingly, greater self-regulationisexpectedwhenfeedbackcon rmssuccessfullearning.ButlerandWinne (1995) proposed that learners integrate external feedback with their own internal perceptionsandfeelingsaboutthequalityoftheirworktogeneratearesponsethatought
+to lead to better performance. Feedback from successful performance on assessments is likelytocontributetoastudent ssenseofself-ef cacyandgreaterself-ef cacyreciprocally leads to greater performance (Bandura, 1986, 1997).
+GreaterASEisalsopositivelyrelatedtoeffectiveself-regulatedlearning(SRL)processes (Pintrich & Zusho, 2007; Richardson, Abraham, & Peterson, 2012; Robbins et al., 2004). Thus, ASEandSRLarerelatedtocompetence andcontrolbeliefs(Schunk&Zimmerman, 2006)thatcontributetogreaterachievementandwhichprobablydepend,inpart,onthe qualityoffeedback.Thus,iffeedbackismeanttoimproveperformance,raiseself-ef cacy, and trigger self-regulatory processes, it matters how students perceive it.
+Conceptions of feedback
+Students  conceptions of feedback and its purposes matter because the provision of formative feedback does not guarantee that learners believe that the feedback can help them implement appropriate learning strategies and achieve better outcomes (Hattie, 1999). Instead, it is likely that beliefs about ASE and self-regulation and previous performance interact with how students interpret and use feedback (Bandura, 1986; Hattie & Timperley, 2007). For example, after experiencing positive feedback, students with high and low self-ef cacy might differ in their response to negative feedback on a later assessment; high self-ef cacy students may cope better, while low self-ef cacy students might seek to avoid critical but constructive feedback (Hattie & Timperley, 2007).
+While not directly investigating student conceptions, it has been found that higher achievingstudentsactivelyusedtutorfeedbacktofacilitateself-regulatorytasks,although theywerenotdependentonexternalsourcesoffeedback,whilelowerachievingstudents engaged in little self-regulation, being regulated externally by the feedback they received (Orsmond&Merry,2012).Inasimilarvein,amonghighschoolstudents inNewZealand, the belief that that assessment guided students as to the next things they had to learn predicted greater achievement (Brown, Peterson, & Irving, 2009). These suggest that theremaybeadaptiveandmaladaptivewaysofthinkingaboutwhatfeedbackisandwhat
+it is for.
+Differing perceptions of feedback have also been identi ed between the giver of and receiver of feedback (Carless, 2006; MacLellan, 2001). Tutors and staff perceived their
+
+610	 Gavin T. L. Brown et al.
+feedback as giving detail and beinguseful,while students perceived it as being much less so. Further, there is evidence that students believed feedback was general, vague, negative, or unrelated to assessment criteria (Weaver, 2006). Thus, although assessment feedbackshouldcontributetoimprovedlearningoutcomesandincreasedself-regulation, its effectiveness appears to depend on students  conceptions.
+Conceptions of feedback inventory
+A series of studies with New Zealand secondary school students (Grades 9  10, ages 13 14) developed the SCoF inventory concerning beliefs about the nature and purpose of feedback(Irving,Peterson,&Brown,2007,2008).NewZealandsecondaryschoolinghas no high-stakes external certi cation assessment until Grade 11 (nominally age 15) and a strong policy of formative, school-based assessment, which relies predominantly on teacher observation and interaction rather than formal testing, intended to provide feedback to learners concerning their progress and needs (Crooks, 2010). In these circumstances, it has been found that students strongly endorse the idea that feedback leads to better learning outcomes (Harris, Brown, & Harnett, 2014).
+Seven intercorrelated factors, six of which deemed adaptive to achievement, were found; adaptive factors included: (1) parental feedback helps (e.g., my parents provide constructive feedback about my learning), (2) feedback is enjoyable (e.g., I enjoy getting feedback),(3)feedback tellsmehowwellIhavedonerelative tostandards(e.g.,IknowI have done well when the result is better than last time), (4) teacher feedback helps (e.g., teachers give me trustworthy and honest feedback), (5) feedback motivates (e.g., feedback makes me try harder), and (6) peer feedback helps (e.g., feedback from my classmates really helps me). The one maladaptive factor was feedback is ignored (e.g., I ignore bad comments/grades).
+A study with younger students (55% in primary school) found just three factors: (1) feedback is ignored or negative, (2) feedback is from peers, and (3) feedback is teacher comments (Harris et al., 2014). The students gave most agreement to teacher comments about improvement. This factor had a positive but weak correlation with drawings of feedback that contained teachers giving feedback. Simultaneously, all three feedback factors were negatively correlated with drawings of feedback that showed student-led feedback, suggesting that peer and self-generated feedback were distinguished from teacher-based feedback.
+However, the applicability of the SCoF inventory to university age students is uncertain. The majority of the SCoF factors found in secondary school students seem broadly relevant to the university setting; hence, it is likely university student responses willrecoversomeoftheSCoFfactors.Thatis,theuniversityassessmentsystemstypically require (1) descriptive commentary from tutors or professors on assessed student work, (2) grading relative to assessment criteria or standards, (3) students to interact with each other in group work or peer interaction around formal criteria and standards, and (4) students to improve their performance over time.
+TheSCoFfactorthatseemsmostlikelytodifferinatertiarysampleisparentalfeedback which may work differently for adults in non-compulsory higher education than for     adolescentsandchildrenincompulsoryschooling. Whilebecomingindependentisakey      developmental task for university-aged students (Arnett, 2000; Erikson, 1968), parents     may still be involved in higher education students  lives, partly through their nancial      dependence on parents, the ease of communicating, and contemporary emphases on
+active parenting (NSSE, 2007; Wartman & Savage, 2008). Awareness of parental
+
+University students  conceptions of feedback611
+expectations for academic achievement certainly characterizes Asian higher education students (Brown & Wang, 2013), especially those on international student visas being subsidized by their families (Lee, Farruggia, & Brown, 2013). There may be an optimal level of parental support, because excessive parental involvement is correlated with lower achievement (Harper, Sax, & Wolf, 2012; NSSE, 2007).
+Thegoalofthecurrentstudywastogaininsightsintouniversitystudents conceptions of feedback and to explore how those conceptions related to self-regulation and self- ef cacy beliefs and how they mutually contributed to academic performance.
+Research questions
+Given that previousstudies among school-agestudentswith the SCoF inventory havenot returnedstablefactorialstructures,andthatthisstudywasamonguniversityagestudents, the rstgoalofthestudywastoidentifyawell- ttingfactorialstructure.Second,although thereciprocalrelationshipofSRLandASEhasbeenstudied (Hodges&Kim,2010),lessis known about how SCoF relate to those beliefs and achievement. It is plausible that students who actively seek out andmake useoffeedback toidentify their learning needs, and use this information to guide their subsequent learning behaviour, will have greater ASE, SRL, and overall academic performance. However, without a true longitudinal design, a cross-sectional snapshot cannot capture this cyclical and reciprocal process. Hence, multiplemodelsareneeded toestablish whereintheprocessthedatalie. Asseen
+in Figure 1, the shaded areas represent the constructs available in this study (i.e., academic score, ASE, SRL, and conceptions of feedback).
+To test possible causal pathways, a systematic testing of plausible sources of in uence upon all other constructs was carried out (Table 1). An assumption is made that students have had previous experience with educational study, feedback, and assessment and that such experiences are the origin of their self-rated evaluations of feedback, SRL, and ASE. This assumption is necessary because the survey was administered at the start of the course and students would not have had experience with the course itself. To establish where in the cycle the data have been collected, six logically plausible models were tested.
+However, although Models M1  M4 are causal in design, t of such models to the data does not constitute proof of causation; rather they only suggest causal relations that require testing under proper experimental and/or longitudinal conditions. Thus, the current study rst establishes a measurement model for the SCoF inventory and then examines structural relations among the three constructs and academic achievement. Differences in t were used to identify the most appropriate model for the data.
+Method
+Participants
+The participants were enrolled in an undergraduate General Education course at a large (N  42,000), publically funded, research-intensive, and selective university. The participants in the current study were undertaking a General Education course. General Education courses are elective, introductory-level courses designed for students from outside thefaculty offering thecourse.Allstudents arerequiredtotaketwosuchcourses fortheir degree.Datawerecollected inaGeneralEducationcourseonhowpeople learn. Students completed the questionnaire in the rst week as a required ungraded
+
+612	 Gavin T. L. Brown et al.
+Table 1. Models tested
+ 
+Model               Description                                         Rationale
+M1                  SCoF factors predict                                Conceptions of feedback are
+                    ASE, SRL, and GPA                                   the source of responses
+                                                                        to all other constructs
+M2                  SRL factor predicts                                 Self-regulation of learning
+                    ASE, GPA, and SCoF                                  is source of all other
+                                                                        constructs
+M3                  GPA score predicts                                  Overall academic ability
+                    ASE, SCoF, and SRL                                  is the source of self-beliefs
+M4                  ASE factor predicts                                 ASE is the source of
+                    SCoF, SRL, and GPA                                  all other constructs
+M5                  No paths between                                    Null hypothesis that
+                    constructs                                          there are no causal or
+                                                                        correlational relationships
+                                                                        among constructs
+M6                  All constructs are                                  Counterfactual model that
+                    intercorrelated                                     there all relations are
+                                                                        intercorrelations not causal
+Note. ASE= academic self-efficacy; GPA= Grade Point Average; SCoF = Student Conceptions of Feedback; SRL= self-regulated learning.
+coursework activity. Individual results for each scale were emailed to students, and class results were discussed in a lecture after the mid-term test.
+Ofthe362enrolledstudents,300(83%)gavepermissionfortheirquestionnairedatato
+be used, while 278 gave permission to access their Grade Point Average (GPA) (response rate = 76%).Hence,SCoFanalysesused300students,whilestructuralrelationsused278. While a ratio of 10:1 cases to manifest variables is generally recommended in analytic studies, a number of considerations can modify this standard (Bandalos & Finney, 2010; Costello & Osborne, 2005; Marsh, Hau, Balla, & Grayson, 1998). For example, if (1) there are enough items per factor ( p/f) relative to the sample size (i.e., ≥3 when n = 200), (2) each item has strong loadings on its own factor (i.e., k > .40), and (3) items have weak (i.e., k ≤ .30)loadingsonotherfactors,thensuccessfulestimationcanbeachieved.These recommendations suggest that the sample size is suf cient in this study because the ratio ofcasestoitemswas6.18,onlyoneitemhadaloading under.40,andonlyonefactorhad fewer than three items.
+The majority of participants (Table 2) were female. The mean age was 20.49 (SD = 4.12), and the mean years of completed tertiary study was 2.60 ( SD = 1.33). The majority were studying towards a Bachelor of Science, a Bachelor of Commerce, or a Bachelor of Arts. In terms of ethnicity, most participants were either white or Asian.
+Instruments
+Student conceptions of feedback inventory
+The 32-item Student Conceptions of Feedback Questionnaire-II (SCoF-II; Irving & Peterson,2006)wasadaptedforthetertiarycontext(e.g., teacher waschangedto tutor and/or marker ). Participants rated how much they agreed or disagreed with the items
+
+University students  conceptions of feedback613
+Table 2. Participant demographics (n = 278)
+ 
+Demographic                                                                                        n (%)
+Sex
+Male                                                                                               97 (34.9
+Female                                                                                             181 (65.1
+Years of completed tertiary study
+0                                                                                                  63 (22.7
+1                                                                                                  86 (30.9
+2                                                                                                  64 (23.0
+3                                                                                                  42 (15.1
+4                                                                                                  11 (4.0)
+5+                                                                                                 12 (4.3)
+Degree
+Bachelor of Science                                                                                116 (41.7)
+Bachelor of Commerce                                                                               55 (19.8)
+Bachelor of Arts                                                                                   47 (16.9 )
+Bachelor of Engineering                                                                            3 (1.1)
+LLB                                                                                                3 (1.1)
+Conjoint                                                                                           22 (7.9)
+Other                                                                                              32 (11.5
+Ethnicity
+White                                                                                              110 (39.6
+Asian                                                                                              130 (46.8
+Confucian heritage culture (e.g., Chinese, Japanese, Korean, Taiwanese)                            63 (22.7)
+Other (e.g., Bangladeshi, Filipino, Indian, Sri Lankan, Thai)                                      67 (2 4.1)
+Minority immigrant group                                                                           20 (7.2)
+Minority indigenous                                                                                3 (1.1)
+Middle Eastern                                                                                     2 (0.7)
+Other                                                                                              13 (4.7)
+using a 6-point, positively packed rating scale (Lam & Klockars, 1982) with two negative options(stronglydisagree and mostlydisagree)andfourpositiveoptions(slightlyagree, moderately agree, mostly agree,and stronglyagree). Becausemost students were likely toagreewithalltheconceptionsoffeedback,positive-packinggeneratesgreatervariance in the positive space (Brown, 2004). This scale has been effectively used with higher educationstudentsinHongKongwithrobustpsychometricproperties(Deneen,Brown, Shroff, & Bond, 2013).
+Term grade point average
+Participants generalacademicperformancewastakenfromthecurrentterm sGPA.This
+was the participants  average grade achieved over all courses in the same semester of the survey. GPA is considered a good predictor of academic performance (Kuncel, Cred e, & Thomas,2005;Robbins et al.,2004).GPArangedfrom0(allfail)to9(A +average)andhad a stronger correlation with the course nal grade than mid-term test ( r = .77 vs. r = .69, respectively).Thisapproachwastakenbecausethesurveywasadministeredatthestartof thecourse,meaningthatconceptionshadtohavebeendevelopedonamoregeneralbasis
+than could be attributed to the content of this speci c course. Furthermore, subsequent analyses of the proposed models found that using the nal course score out of 100 as
+
+614	 Gavin T. L. Brown et al.
+dependent variable instead of the term GPA produced much worse t (i.e., DAIC values were greater by 120  300 points).
+Self-regulated learning
+The Metacognitive Self-Regulation subscale from the Motivated Strategies for Learning Questionnaire (MLSQ) was used (Pintrich, Smith, Garcia, & McKeachie, 1991). The subscale was chosen as it focuses on the control of cognition around three key self- regulatory learning strategies shown in Figure 1 (i.e., planning, monitoring, and regulating/re ecting). Planning involves setting goals and analysing the task. This helps activate prior knowledge that will assist with task understanding and comprehension (e.g., before I study new course material thoroughly, I often skim it to see how it is organized). Monitoring strategies help integrate study material with prior knowledge to furtherunderstanding.This isperformedthroughtheregulationofattention, self-testing,
+and questioning (e.g., if course materials are dif cult to understand, I change the way I
+read the material). Regulating strategies involve continual checking and correcting of behaviourswhilestudyingtoimprovelearning(e.g.,IaskmyselfquestionstomakesureI understand thematerial Ihavebeen studying inclass).The MetacognitiveSelf-Regulation subscale has 12 items, two of which (i.e., SRLQ 1 and 8) were reverse-scored. The items were rated with a 6-point, balanced agreement scale (1 = strongly disagree , 2 = dis- agree , 3 = slightly disagree , 4 = slightly agree , 5 = agree , and 6 = strongly agree ). The items were modi ed so that students were asked to consider how they would regulate
+their learning for this course  instead of all courses. This was performed deliberately, as part of the curricular goals of the course, to give students a basis for comparing their espoused strategies with their actual learning strategies. This was performed in tutorial sessions after the mid-term test in which students were given their self-reported scale scores and asked to consider whether they ought to change any of their behaviours or approaches.
+We were unable to include the other cognitive subscales in the MLSQ (i.e.,
+rehearsal, elaboration, organization, and critical thinking) due to concerns about
+participant fatigue. Given that the other cognitive subscales are moderately to strongly
+correlated with the broader metacognitive self-regulation subscale (range r = .58  .73; Pintrich et al., 1991), it seems that by selecting the metacognitive scale, we would at
+least capture some aspects of these more speci c cognitive scales. We did not include
+the MLSQ Resource Management Strategies scales because our study was primarily focused on how cognitive conceptions of feedback relate to other cognitive beliefs
+and achievement outcomes, rather than the in uence of more contextual factors such as the study environments.
+Academic self-efficacy inventory
+The5-itemAcademicEf cacy(ASE)subscalefromthePatternsofAdaptiveLearningScales (Midgley et al., 2000) was used. ASE has been used effectively in studies with university students (Elliot, Murayama, & Pekrun, 2011). The items were modi ed to focus participants  perceptions of their competence to complete work speci c to their academicmajor(e.g.,I mcertainIcan gureouthowtodothemostdif cultclasswork in my major). The items were rated using a 5-point, ordinal, truthfulness rating scale
+(1 = not at all true , 2 = slightly true , 3 = moderately true , 4 = mostly true , and 5 = very true ).
+
+University students  conceptions of feedback615
+Data analysis Missingvaluesanalysis,usingtheexpectation-maximizationprocedure,wasconductedto calculate missing values for participants with <10% missing data.
+SCoF measurement model
+Because the previously developed measurement model for the SCoF had not been well attested to, exploratory approaches were used. The number of dimensions was
+determined using Velicer s Minimum Average Partial Test (MAP2) and Comparison Data using Spearman correlations (Courtney, 2013). Exploratory factor analysis using maximum likelihood estimation and oblique minimization rotation (Costello & Osborne, 2005) was used to examine dimensionality. Items with low-loading ( k < .30) and high cross-loading (k > .30) items were removed (Bandalos & Finney, 2010). The exploratory solution was validated with con rmatory factor analysis using AMOS (IBM, 2011), althoughthisisbetterconstruedasrestrictivefactoranalysis(Anderson&Gerbing,1988)
+as no new data were available to test the solution.
+ASE and SRL measurement models
+These two scales were tested directly with con rmatory factor analysis (IBM, 2011) to establish the validity of the factors for these participants. Special attention was paid to negatively worded items, because such items do not automatically conform to intended factors even after reverse-scoring (Brown, 2004; DiStefano & Motl, 2006). Likewise, items with loadings k < .30 or with statistically non-signi cant weights were removed.
+Structural relations among constructs
+Structural equation modelling (IBM, 2011) was used to investigate the relationships amongconstructs.The vemodelsspeci edaboveweretested,andthebest ttingmodel was selected. Once identi ed, the model was trimmed by removing statistically non- signi cant regression paths and items not exhibiting simple structure.
+Model fitstandards
+Multiplemeasuresof t(i.e., v2,v2/df,ComparativeFitIndex[CFI],gammahat;rootmean squared error of approximation [RMSEA], and standardized root mean squared residual
+[SRMR])wereinspected(Fan&Sivo,2005;Hu&Bentler,1999).The v2 per dfratio,SRMR, andgammahatindicesareconsidered robust againstsample size, modelcomplexity,and
+modelmisspeci cation(Fan&Sivo,2007;Marsh,Hau,&Wen,2004).Modelswith v2 per df < 3.80, CFI and gamma hat > .90, RMSEA< .08 and SRMR < .08 were interpreted as
+having acceptable t; while those with v2 per df < 3.00, CFI and gamma hat > .95, RMSEA< .05 and SRMR < .06 were considered as having good t.
+Selection between models can rest on statistically signi cant differences in t. Difference in the Akaike information criterion ( DAIC>2.00) and proportion of AIC weight ( wi > .95) indicate superior t (Burnham & Anderson, 2004). The z- standardized difference in chi-square between models minus the z-standardized difference in df also indicates a non-equivalent model when p < .05 (Wilson & Hilferty, 1931).
+
+616	 Gavin T. L. Brown et al.
+Results
+SCoF measurement model
+Exploratory analysis identi ed between ve and six dimensions. The only difference between the ve- and six-factor solutions was a two-item factor (I enjoy feedback) which separated from Factor 1 (I learn from Feedback) in the six-factor solution. The solution with six factors t considerably better than the ve-factor solution ( DAIC = 49.36). Consequently,thatEnjoymentfactorwastreatedasasubordinatefactorofFactor1,rather thanasaseparatefactor.TherevisedSCoF( veintercorrelatedfactorswithasubfactorfor
+Factor 1) had suf cient t to be used ( v2 = 793.45; df = 313; v2/df = 2.54, p = .11; CFI = .91; gamma hat = .91; RMSEA= .065;SRMR= .070).Note, evaluationoftheSCoF model comparing responses between the 278 versus 22 who did not have GPA showed
+that the differences in chi-square for the difference in df for the measurement weights (p = .022)andintercepts( p = .96)variedwithinchance, supportingtheconclusionthat using the larger sample size for the SCoF analysis produced invariant responses to those given by the participants in the structural model.
+The veintercorrelatedfactorswerelabelled:(1)Iactivelyusefeedbackwhichcontained
+the subfactor I enjoy feedback, (2) peer feedback helps, (3) I ignore feedback, (4) feedback
+tells me if I am meeting or exceeding expectations, and (5) tutor/marker comments are helpful and clear feedback. Table 3 provides the scale and item statistics. Most positively evaluated were feedback tells me I am meeting or exceeding expected standards, active seeking andusingoffeedback,andtrustingtutor/markercomments.Ignoringfeedbackwas rejected, while feedback from peers was moderately endorsed. Intercorrelationsamong the factors were weak to moderate, except between active use and tutor/marker comments
+(r = .78), perhaps due in part because of two items within active use that refer to a tutor or markers (i.e., cofq13 and cofq7). This overlap suggests that students who actively used feedback especially relied on tutor/marker commentaries because it was clear, formative, anddependable.Theignorefactorwasinverselycorrelatedwithallotherfactorsandmostly strongly negative to the active use and tutor/marker comments factors, indicating internal coherence in how students perceived feedback.
+SRL and ASE measurement models
+Because of the conceptual linking between ASE and SRL, a correlated two-factor model was proposed. After removing two reversed-scored SRL items (i.e., SRLQ 1 and 8) with poorloading,andSRLQ9 withlowloading, thetwo-factorcorrelatedmodel( r = .33)had
+nineSRL and ve ASE items. The tto the data was acceptable ( v2 = 297.49, df = 76; v2/ df = 3.91, p = .048; CFI = .81; gamma hat = .90; RMSEA= .103; SRMR= .075). Only two of the SRL items had loadings <.50, while all the items for the ASE had loadings >.60 andthescalereliabilityestimatesweresuf cientlylarge( a ≥ .80)towarrantfurtheruseof the scales (Table 4).
+Structural model among constructs
+Each of the speci ed models was tested without deletion of non-signi cant paths and without cross-construct paths. Table 5provides themodel tindices andcomparative t results. Model M1 originating from the SCoF factors was best tting to the data, although thiswasonlymarginallybetterthanthefullyintercorrelatedmodel(ModelM6).Itmaybe thatM1 tsbetterbecauseithasmorebetween-constructpaths(i.e.,threepathsperSCoF
+
+University students  conceptions of feedback617
+Table 3. Conceptions of feedback factors, items, and scale descriptive statistics
+ 
+Code                        CoFB factor and item                                                          k
+                            Active use of feedback (M = 4.57,
+                            SD= 0.96,a = .92)
+cofq32                      Iactivelyusefeedbacktohelpmeimprove                                           .8 8
+cofq13                      I make active use of feedback from my                                         .85
+                            tutors and/or markers
+cofq7                       Ipayattentiontofeedbackfrommytutors                                           .83
+                            and/or markers
+cofq9                       I use feedback to set goals/targets for the                                   .80
+                            next assessment
+cofq28                      I look at feedback to see what I did wrong                                    .79
+cofq18                      Feedback makes me try harder                                                  .79
+cofq23                      Feedback changes the way I learn and                                          .66
+                            study
+                            Enjoyment subfactor (M = 4.58,                                                .81
+                            SD= 1.10,a = .78)
+cofq11                      I look forward to feedback from the                                           .84
+                            markers
+cofq3                       I enjoy getting feedback                                                      .7 6
+                            Peershelp(M = 3.73,SD= 0.95,a = .89)
+cofq20                      Feedback from my classmates helps my                                          .89
+                            learning
+cofq30                      Feedback from my classmates really helps                                      .84
+                            me
+cofq17                      ImakeactiveuseofthefeedbackIgetfrom                                           .85
+                            classmates
+cofq12                      I can trust feedback from my peers                                            .71
+cofq22                      I learn better when my friends comment                                        .71
+                            on my works
+cofq5                       I look forward to getting feedback from                                       .62
+                            peers
+                            Ignore (M = 1.93,SD= 0.75,a = .77)
+cofq31                      I ignore comments the markers make                                            .67
+                            about my work
+cofq19                      I ignore bad grades or comments                                               .65
+cofq25                      Feedback is not necessary as I know how                                       .65
+                            well I m doing
+cofq6                       Feedback does not tell me anything new                                        .61
+cofq2                       Feedback on my work doesn t tell me                                           .57
+                            anything useful
+                            Meet expectations (M = 4.67,SD= 0.88,
+                            a = .62)
+cofq27                      I know I have done well if the result is                                      .75
+                            better than last time
+cofq26                      Doing better than my parents expect is                                        .61
+                            doing well
+cofq16                      Doing better than the expected or                                             .52
+                            required standard is a good result
+cofq4                                                                                                     .32
+Continued
+
+618	 Gavin T. L. Brown et al.
+Table 3. (Continued)
+Code CoFB factor and item k
+Good grades will help me get the job I
+want
+Tutor/marker comments ( M = 4.33,
+SD= 0.90,a = .74)
+cofq21 Feedback from my markers makes it clear .77 how to improve
+cofq29 Tutors and/or markers give me .75
+trustworthy and honest feedback
+cofq8 Markers of my work give me clear .59
+feedback
+Interfactor correlations
+CoFB factors II III IV V
+I. Active use of feedback .50  .65 .39 .78
+II. Peers help  .20 .27 .50
+III. Ignore  .16  .46
+IV. Meet expectations .46
+V. Tutor/marker comments
+Note. Loading values are standardized weights.
+factortoSRL,ASE,andGPA)thanModelsM2  M4,inclusive.Nonetheless,Model1didnot
+meet conventions for acceptable t and necessitated further trimming.
+All statistically non-signi cant paths were removed. Then, two items in the SRL factor (i.e.,SRLQ10andSRLQ5)wereremovedforhavingmultiplemodi cationindicestoSCoF items or factors. The trimmed SCoF Source Model 1 (Figure 2) had acceptable t, with a number of indices suggesting good t (see last row of Table 5).
+The model shown in Figure 2 indicates that the self-regulatory conception of feedback      factor (i.e., I actively use feedback) had a positive and substantial contribution to both SRL     and overall academic achievement and a small contribution to ASE. Two other SCoF factors (Peers Help and Tutor Marker Comments) had a negative contribution to GPA suggesting     reliance on external sources of feedback reduced overall academic performance. Nonethe-
+less, the Peers Help SCoF factor had a small positive contribution to SRL, suggesting that active interaction with peers contributed to clarifying confusing and dif cult materials and
+developing new ways of learning. As expected, there was a small positive correlation     betweenSRLandASE,butonlyASEhadasmallbutpositivecontributiontoGPA,suggesting that self-ef cacy rather thanself-regulation of learningwas related to overall achievement. It
+is worth remembering that the analytic framework used here does not prove causality, especially since the intercorrelated model t nearly equally as well.
+Discussion
+SCoF measurement model
+This study partially replicated the previously reported factor structure of the SCoF. The substantialstructuraldifferenceistheabsenceofthefactorconcerningparentalfeedback. This difference seems plausible given the relative independence of university students
+
+University students  conceptions of feedback619
+
+Figure 2. Schematicmodelofstructuralrelationsamongself-regulatedlearning,academicself-efficacy,and conceptions of feedback to term Grade Point Average (GPA). Standardized regression weights shown. Note. Values are standardized b weights; negative values in dashed lines; SMC= squared multiple correlate or R2; SCoFB intercorrelation values removed for simplicity.
+vis-a-vis  theirfamiliesandthatnearlyfour- fthsofthesamplehadalreadycompletedone
+or more years of higher education. Feedback from parents, with their relatively weak understanding of the discipline knowledge students acquire at university, might not be
+very useful. A second clear difference is the subordination of enjoyment to the self- regulatory Use Feedback factor instead of its previous status as a stand-alone factor. It seemsthatenjoymentoffeedbackthatguidesandimprovesstudybehavioursisapositive thing (Pekrun, Elliot, & Maier, 2006).
+Another difference has to do with the somewhat weaker endorsement of feedback
+as coming from peers relative to mostly primary age students ( d = .36) (Harris et al., 2014) but almost identical to secondary students ( d = .05) (Irving et al., 2008). The weaker value for older school and university students seems consistent with the greater anonymity and independence students experience in secondary and higher education. Without knowing one s classmates personally or knowing how competent they might
+be, it may be dif cult to believe valuable feedback could come from them. It is also interesting that the Peers Help factor is quite different in make-up to the Tutor/Marker Comments factor. The latter only focuses on the quality of the feedback (i.e., clarity, formative, and dependable), while the Peers Help factor contains notions of help, active use, enjoyment, and trustworthiness. Interestingly, in contrast to the Peers Help Factor, the active use of feedback from my tutors and/or markers comments is embedded within the Active Use of Feedback factor and not the Tutor/Marker Comments factor, whereas the active use of feedback from peers remains in the Peers help factor. It may be that, as argued by New Zealand secondary students (Harris & Brown, 2013; Peterson & Irving, 2008), feedback from teachers is reliable because the teacher knows what quality looks like within the material being learned and hence it is actively used, while peer feedback is less authoritative and may be based on social
+
+620	 Gavin T. L. Brown et al.
+Table 4. Self-regulated learning (SRL) and academic self-efficacy (ASE) item loadings and scale descriptive statistics
+Factor and item Item loading
+SRL (M = 4.16,SD= 0.68;a = .80)
+SRLQ11. When I study for this class, I set goals for .66
+myself in order to direct my activities in each study period
+SRLQ12. If I get confused taking notes .64
+in class, I make sure I sort it out afterwards
+SRLQ10a. When studying for this course .57
+I try to determine which concepts I don t understand well
+SRLQ6. I ask myself questions to make sure .56
+I understand the material I have been studying in this class
+SRLQ7. I try to change the way I study in order .54
+to fitthe course requirements and instructor s teaching style
+SRLQ3. When I become confused about something I m reading for this class, .53
+I go back and try to figureit out
+SRLQ2. When reading for this course, I make up questions to help focus my reading .50 SRLQ4. If course materials are difficultto understand, .47
+I change the way I read the material
+SRLQ5a. Before I study new course material thoroughly, .44
+I change the way I read the material
+ASE (M = 3.78,SD= 0.74,a = .84)
+ASEQ5. I m certain I can master the skills taught .75
+in my major this year
+ASEQ7. I can do even the hardest work in .75
+my classes for my major if I try
+ASEQ1. I m certain I can figureout how to do the .74
+most difficultclass work in my major
+ASEQ13. Even if the work for my major is hard, I can learn it .71 ASEQ8. I can do almost all the work in class for .62
+my major if I don t give up
+Note. aItem removed in finalstructural model; loading values are standardizedb weights.
+attraction or animosity. The separation of active use from tutors, but not active use from peers, seems to reinforce the expert role that teachers have in providing dependable and authoritative feedback, relative to the possibly well intentioned but relatively novice capacity of peers.
+Themeanscoresindicatedastrongcommitmenttousingfeedbacktoidentifylearning needs and to guide efforts to address those weaknesses so as to meet or exceed expectations. These results are indicative of a self-regulating response to information generated by evaluations and assessments.
+SCoF as a predictor of structural relations Thesuppositionofthisstudywasthatconceptionsoffeedbackwouldbeconsistentwith self-regulation of learning, and this study has con rmed that claim. The core SCoF factor that related to SRL, ASE, and GPA was the construct Use Feedback. The core distinction betweenSRLandthisSCoFfactorseemstobemoreoneoftiming(usingfeedbackafteran
+
+University students  conceptions of feedback621
+   
+
+622	 Gavin T. L. Brown et al.
+assessment or using feedback during studying) than concept, as both factors point to actions taken to improve learning and understanding. Thus, there is a strong conceptual alignment between SRL and SCoF Use Feedback. The model shows that students who report actively taking up feedback, both in general and from markers/tutors, also report taking up self-regulated approaches to studying and have high self-reported ASE. A key contributor to greater academic performance seems to lie in believing that feedback should be used to inform and guide next steps in learning. It is also adaptive to achievement that students actively use external feedback to diagnose and guide improvements, and this is seen in the positive relationships to both GPA and SRL.
+Wehavechosentorepresenttherelationshipsamongtheseconstructsasoneinwhich
+conceptions of feedback cause increases in ASE, SRL, and GPA. However, the literature reviewedearliershowsthatASE,SRL,andGPAhavecyclicalintercorrelatedrelationships that are inherently multidirectional and interactive over time. Thus, the apparent causal      nature of those paths, despite tting better than a correlated model, is simply a plausible
+but tentative hypothesis of how feedback in uences self-regulation, self-ef cacy, and academicperformance.Thismodelhaspossibleadvantagesoveranintercorrelatedmodel
+in that it generates testable claims within longitudinal and/or experimental designs.
+However, there was no direct path from SRL to GPA, suggesting that conventional planning and monitoring processes did not discriminate between higher and lower achievers. This result is consistent with the large meta-analysis of correlates of achievement among university students which showed ASE rather than metacognition predicted GPA (Richardson et al., 2012).
+The lack of relationship between SRL and GPA may also be related to the different formatsofuniversityassessment(e.g.,multiplechoicetestvs.essays)orbecausefeedback
+in the current course, being a generaleducation topic, does not transfer to courses in the student s home faculty or discipline. It may also be that students do not believe that they
+are personally capable of changing in response to feedback; that is, because they hold a belief that ability or intelligence is innate and xed, feedback is not used (Mangels, Butter eld,Lamb,Good,&Dweck,2006).Thismaycontributetothepositivecorrelation between ASE and SRL.
+The lack of direct path from SRL to GPA also highlights the possibility that it is the active attention and use of externally received feedback to identify mistakes and guide learning that is important for raising GPA, rather than the more internally self-driven feedback (self-regulation) that monitors how well studying is going. Perhaps this is also because individuals are worse at attending to or judging their own learning gaps and that attending to and using the feedback from the tutors or markers is more relevant to subsequent performance. Two items in the Use of Feedback factor re ect this: I make active use of feedback from my tutors and/or markers  and I pay attention to feedback from my tutors and/or markers .
+However, this interpretation of using tutor and marker feedback to improve future performance,at rstseemsatoddswiththe ndingthattrustingteacherortutorfeedback
+and receiving clear tutor or marker feedback is associated with weaker overall academic performance. Perhaps this is because those who trust such feedback and think it is clear, interrogate the feedback lessthan those whothink thefeedback isnotright or isunclear. Consequently, trusting feedback results in less attention to it and a more surface-like processing of its content; accordingly, the student s subsequent performance is not improved by feedback because deeper cognitive engagement does not arise. This interpretation to some extent parallels Kapur s (2008) research on productive failure which found that exposing students to ill-structured problems followed by well-
+
+University students  conceptions of feedback623
+structured problems ultimately led to better learning outcomes compared to those were only exposed to well structured problems. Kapur (2016) argued that productive failure (i.e., not being able to easily generate a correct solution) can prepare students for more learning gains in subsequent instruction.
+We also found that peer feedback was negatively associated with GPA, but it did contribute positively to SRL. It may be that academically weaker students were not able to tell that the peers on whom they relied were not a good source of feedback. If peer feedback is not high quality, then it will not effectively guide next learning steps; a concern expressed frequently by school-age students in peer assessment (Peterson & Irving, 2008). Additionally, as peers are not of cial markers of course-work, relying on them rather than of cial tutor or lecturer marking could be maladaptive to performance, especially more likely the more novice peers are. However, the positive association of the peers help  SCoF factor to SRL suggests that feedback from classmates may be a useful check on how their studying is going. But in the end, the successful student is one who does not rely on peers for help, but instead relies on him or herself to use feedback.
+This study poses some challenges for assessment for learning  initiatives in higher education that seek to involve students in more interactive, collaborative group work (Strijbos, 2016). Such reforms are especially common-place in disciplines that seek to mimicpost-graduationemploymentpractices(e.g.,medicine,commerce,andscience),in whichmanystudentsinthisstudyhavetheirmajors.Studentsmaybelievethatsuchgroup work is prone to many negative interpersonal processes (e.g., social loa ng and/or free- riding) which interfere with the validity of peer-based feedback (Strijbos, 2016). Thus, advocates of assessment reform certainly have to deal with students  prevailing belief systems which seem to associate higher grades with those who do not depend on their peers or tutors.
+In the current study, the shared covariance of SRL and ASE allows a more accurate identi cation that it is not the process of regulating one s study, but rather one s active use of the feedback and one s con dence that one can do the academic work assigned that contributes directly to achievement. That is, only the Use Feedback SCoF factor related to ASE, hence, it would seem that self-perceptions of academic ability (ASE) are largely independent of how feedback is perceived and used. Nonetheless, this path from seeking and using feedback to self-ef cacy seems consistent with self- regulation.
+Whileitwasexpected thattheSCoFfactorofignoringfeedback (perhapsbecausethe content was negative or threatening to one s self-esteem) would be a maladaptive responsetoachievement,thiswasnotthecase.ThisfactorhadazerorelationshiptoSRL, ASE,andGPA,suggestingthatwhilethetemptationtoignorefeedbackexists,itclearlyhas no systematic impact. Apparently, both high and low achievers seldom fall prey to ignoring feedback and do so in relatively equal proportions. It may be that each ignores different kindsoraspectsoffeedback andfuturestudiesthatattempttodisentanglewhat kinds of feedback are ignored and under what conditions and by which kinds of students would be helpful.
+Implications for practice
+Clearly, the strong correlation between Use Feedback with Tutor/Marker Comments (r = .78) (Table 3) indicates a positive connection between being given feedback by instructors, lecturers, or tutors and using it. Seeking this feedback is part of being a self-
+
+624	 Gavin T. L. Brown et al.
+regulating learner. However, the negative relationship of Tutor/Marker Comments to achievement is challenging to the simplistic notion that if students perceive they receive good feedback, they will bene t from it. It seems likely that the most effective learners in this sample interrogate and internalize the feedback from external sources and process it
+so as to inform and guide their own formative action. Nonetheless, this is a vexing question for higher education; how do students get feedback that helps them improve, if conceptions of clear and honest teacher- and peer-based feedback have a maladaptive impact on performance?
+A suggested practice worth considering involves tutors and markers not giving feedback directly to students, but rather instead requiring that students generate their own analysis and recommendations as to how their work could be improved early enough in the coursework process that such deeper and engaged self-re ection generates improvement (Hanstedt, 2015). Another suggestion is to avoid giving grades
+or marks to early pieces of work, instead only providing descriptive formative feedback commentary; although, if the institution requires grades, then providing compliments and praise has been shown to mitigate negative effects associated with low grades (Lipnevich & Smith, 2009a,b). A further possibility is the use of structured peer assessment activities (e.g., PeerWise; https://peerwise.cs.auckland.ac.nz/) that require students to answer and evaluate peer-written multiple choice questions. This process requires deeper engagement with peer critique and may generate a positive contribution to performance, transforming the current negative relationship of peer feedback to performance. Additionally, students could be encouraged to engage deeply with feedback, for example, by being required to comment on how they have used previous marker feedback to make changes to their subsequent work. Nonetheless, the
+key requirement is that feedback be descriptive, not only of the current state of performance, but also prescriptive of appropriate courses of action for improvement (Shute, 2008).
+However, with relatively short semesters (approximately 12  15 weeks of instruc- tion), the need to provide frequent and early grade indicators, and the importance of grades to student graduation and life chances, there remain challenges for how high- quality feedback can be generated and used in higher education. Feedback needs to support effort and appropriate study strategies for the next assessment, which is complicated as research has shown that there is high variability and diversity in higher education assessment practices (Boud, Lawson, & Thompson, 2015). Given the dissimilarity among higher education assessments, it is dif cult to see how feedback fromoneassessmentmighthelpastudentknowwhattodoforthenextassessment.Even
+if the feedback is perceived as clear, valid, and motivating, it may not be relevant for the next assessment task or may not warrant deep interrogation. Hence, this study suggests highereducationproviderstellthetruthtotheir learners, butalsoaligntheir assessments andfeedbackpractices,sothatfeedbackfromoneassessmentcanhelpstudentsimprove
+for the next assessment.
+Future research
+A number of factors limit thegeneralizability of this study. As has been stated many times, thisstudyisacross-sectionaldesignandlacksarobustdesigncapableofdisentanglingthe causal paths of such intercorrelated and reciprocal constructs. Future work with experimental treatments (e.g., Panadero et al., 2013, 2014; Smith & Lipnevich, 2009) would be bene cial. The study uses a relatively small sample size drawn from one course
+
+University students  conceptions of feedback625
+meaning that future studies should use larger samples from more diverse courses and faculties so that the current results can be properly tested. The current study has used various trimming processes to generate a statistically acceptable solution and, through selectionofonlyoneofthemanyMSLQscales,hasusedjustafewofthemanycorrelatesof achievement(Richardson et al.,2012).Thus,thestudytakesadvantageofchanceartefacts in the data which need independent corroboration in a replication and extension study.
+Indeed, some interpretations are entirely speculative, albeit plausible, and direct testing of the explanations for some results is needed. Potentially, the use of different reference points for three of the constructs could impact upon the validity of results, perhaps in the same way that response scales with different lengths can distort responses (Adelson & McCoach, 2010). For example, ASE was referenced against the students  major (e.g., I am certain I can master the skills taught in my major), SRL was based on the students experience of the course to date (e.g., when I study for this class... ), and student GPA was based on course grades averages at the beginning of the term, which for some students meant they were based on only one term of study. Thus, future studies would do well to align the reference points so as to make interpretations more coherent. Future research could also exercise control over student beliefs by priming their thinking towards or away from self-regulation or by randomly assigning students to conditions in which different styles of assessment and feedback are implemented. Gaining insight into student motivations for speci c assessments, courses, and degrees might also shed light on these exploratory results. As with much of educational psychology, the results here depend almost entirely on self-reported data. Future studies that could use observable behaviours as proxies for motivational and self-belief constructs would be highly desirable, though dif cult.
+Conclusion
+Although it is not possible to prove the causal paths speci ed among the various constructs, they are suggestive of causal mechanisms that are coherent with self- regulation theory. Students who actively use feedback to guide their learning practices increase in SRL and academic performance. Ensuring that students receive feedback beyond grades and scores early enough to effectively guide subsequent learning is necessary, as is students implementing such an approach to their learning.
+Acknowledgements
+Ethicsapprovalforresearchuseofthedatawasgrantedbytheuniversity sinstitutionalreview board (reference #HPEC597). Preliminary data analyses were conducted by the third author, under the supervision of the two other authors, with funding from the Faculty of Education
+Summer Scholar Programme.
+References
+Adelson, J. L., & McCoach, D. B. (2010). Measuring the mathematical attitudes of elementary
+students: The effects of a 4-point or 5-point Likert-type scale. Educational & Psychological Measurement , 70, 796  807. doi:10.1177/0013164410366694
+
+626	 Gavin T. L. Brown et al.
+Anderson, J. C., & Gerbing, D. W. (1988). Structural equation modeling in practice  a review and
+recommended 2-step approach. Psychological Bulletin , 103, 411  423. doi:10.1037/0033- 2909.103.3.411
+Arnett, J. J. (2000). Emerging adulthood: A theory of development from the late teens through the
+twenties. American Psychologist , 55, 469  480. doi:10.1037/0003-066x.55.5.469
+Bandalos, D. L., & Finney, S. J. (2010). Factor analysis: Exploratory and con rmatory. In G. R.
+Hancock & R. O. Mueller (Eds.), The reviewer s guide to quantitative methods in the social sciences (pp. 93  114). New York, NY: Routledge.
+Bandura, A. (1986). Social foundations of thought and action: A social cognitive theory.
+Englewood Cliffs, NJ: Prentice-Hall.
+Bandura, A. (1997). Self-efficacy:The exercise of control. New York, NY: W. H. Freeman. Boekaerts,M.,&Corno,L.(2005).Self-regulationintheclassroom:Aperspectiveonassessmentand
+intervention. Applied Psychology: An International Review , 54, 199  231. doi:10.1111/j.1464-
+0597.2005.00205.x Boud,D.,Lawson,R.,&Thompson,D.G.(2015).Thecalibrationofstudentjudgementthroughself-
+assessment: Disruptive effects of assessment patterns. Higher Education Research &
+Development , 34(1), 45  59. doi:10.1080/07294360.2014.934328
+Bourke, R. (2014). Self-assessment in professional programmes within tertiary institutions.
+Teaching in Higher Education , 19(8), 908  918. doi:10.1080/13562517.2014.934353
+Brown,G.T.L.(2004).Measuringattitudewithpositivelypackedself-reportratings:Comparisonof
+agreement and frequency scales. Psychological Reports , 94, 1015  1024. doi:10.2466/
+pr0.94.3.1015-1024
+Brown,G.T.L. (2011).Self-regulation ofassessment beliefs andattitudes: Areviewof theStudents 
+Conceptions of Assessment inventory. Educational Psychology , 31, 731  748. doi:10.1080/ 01443410.2011.599836
+Brown, G. T. L., Peterson, E. R., & Irving, S. E. (2009). Beliefs that make a difference:
+Adaptive and maladaptive self-regulation in students  conceptions of assessment. In D. M. McInerney, G. T. L. Brown & G. A. D. Liem (Eds.), Student perspectives on assessment: What students can tell us about assessment for learning (pp. 159  186). Charlotte, NC: Information Age.
+Brown, G., & Wang, Z. (2013). Illustrating assessment: How Hong Kong university students
+conceive of the purposes of assessment. Studies in Higher Education , 38, 1037  1057. doi:10.1080/03075079.2011.616955
+Burnham, K. P., & Anderson, D. R. (2004). Multimodel inference: Understanding AIC and BIC in
+model selection. Sociological Methods & Research , 33, 261  304. doi:10.1177/ 0049124104268644
+Butler, D. L., & Winne, P. H. (1995). Feedback and self-regulated learning: A theoretical synthesis.
+Review of Educational Research , 65, 245  281. doi:10.3102/00346543065003245 Carless,D.(2006).Differingperceptionsinthefeedbackprocess. StudiesinHigherEducation,31,
+219  233. doi:10.1080/03075070600572132
+Costello, A. B., & Osborne, J. W. (2005). Best practices in exploratory factor analysis: Four
+recommendations for getting the most from your analysis. Practical Assessment, Research & Evaluation, 10. Retrieved from http://www.pareonline.net/pdf/v10n7.pdf
+Courtney, M. G. R. (2013). Determining the number of factors to retain in EFA: Using the SPSS R-
+Menu v2.0 to make more judicious estimations. Practical Assessment, Research & Evaluation, 18. Retrieved from http://pareonline.net/getvn.asp?v=18&n=18
+Crooks, T. J. (2010). Classroom assessment in policy context (New Zealand). In B. McGraw, P.
+Peterson & E. L. Baker (Eds.), The international encyclopedia of education (3rd ed., pp. 443 448). Oxford, UK: Elsevier.
+Deneen, C. C., Brown, G. T. L., Shroff, R. H., & Bond, T. G. (2013). Telling the difference: A rst
+evaluation of an outcome-based learning innovation in teacher education. Asia-PacificJournal of Teacher Education , 41, 441  456. doi:10.1080/1359866X.2013.787392
+
+University students  conceptions of feedback627
+DiStefano,C.,&Motl,R.W.(2006).Furtherinvestigatingmethodeffectsassociatedwithnegatively
+worded items on self-report surveys. Structural Equation Modeling: A Multidisciplinary Journal , 13, 440  464. doi:10.1207/s15328007sem1303_6
+Elliot, A. J., Murayama, K., & Pekrun, R. (2011). A 3 9 2 achievement goal model. Journal of
+Educational Psychology , 103, 632  648. doi:10.1037/a0023952
+Erikson, E. H. (1968). Identity, youth, and crisis. New York, NY: Norton.
+Fan, X., & Sivo, S. A. (2005). Sensitivity of t indexes to misspeci ed structural or measurement
+model components: Rationale of two-index strategy revisited. Structural Equation Modeling, 12(3), 343—367.
+Fan, X., & Sivo, S. A. (2007). Sensitivity of t indices to model misspeci cation and model types.
+Multivariate Behavioral Research , 42, 509  529. doi:10.1080/00273170701382864
+Hanstedt, P. (2015). Reconsidering whole person  education: What do we really want for our
+students  and how do we get them there? Plenary address presented at the 7th Annual Conference on Higher Education Pedagogy, Blacksburg, VA.
+Harper, C. E., Sax, L. J., & Wolf, D. S. (2012). The role of parents in college students  sociopolitical
+awareness, academic, and social development. Journal of Student Affairs Research and Practice , 49, 137  156. doi:10.1515/jsarp-2012-6147
+Harris, L. R., & Brown, G. T. L. (2013). Opportunities and obstacles to consider when using
+peer- and self-assessment to improve student learning: Case studies into teachers implementation. Teaching and Teacher Education , 36, 101  111. doi:10.1016/ j.tate.2013.07.008
+Harris, L. R., Brown, G. T. L., & Harnett, J. A. (2014). Understanding classroom feedback
+practices: A study of New Zealand student experiences, perceptions, and emotional responses. Educational Assessment, Evaluation and Accountability , 26(2), 107  133. doi:10.1007/s11092-013-9187-5
+Hattie,J.A.(1999,June). Influencesonstudentlearning.InauguralProfessorialAddress,University
+of Auckland, New Zealand. Retrieved from http://web.auckland.ac.nz/uoa/fms/default/ education/staff/Prof.%20John%20Hattie/Documents/Presentations/in uences/In uences_on_ student_learning.pdf
+Hattie,J.,&Timperley,H.(2007).Thepoweroffeedback. ReviewofEducationalResearch,77(1),
+81  112. doi:10.3102/003465430298487
+Hodges, C. B., & Kim, C. (2010). Email, self-regulation, self-ef cacy, and achievement in a college
+online mathematics course. Journal of Educational Computing Research , 43, 207  223. doi:10.2190/EC.43.2.d
+Hu, L. T., & Bentler, P. M. (1999). Cutoff criteria for t indexes in covariance structure analysis:
+Conventional criteria versus new alternatives. Structural Equation Modeling: A Multidisciplinary Journal , 6(1), 1  55. doi:10.1080/10705519909540118
+IBM (2011). Amos [computer program] (Version 20, Build 817). Meadville, PA: Amos
+Development Corporation.
+Irving, S. E., & Peterson, E. R. (2006). Conceptions of feedback (CoF) inventory (Version 2).
+Auckland, New Zealand: University of Auckland.
+Irving, S. E., Peterson, E. R., & Brown, G. T. L. (2007, August). Student conceptions of
+feedback: A study of New Zealand secondary students. Paper presented at the Biennial Conference of the European Association for Research in Learning and Instruction, Budapest, Hungary.
+Irving, S. E., Peterson, E. R., & Brown, G. T. L. (2008, July). Feedback and academic
+achievement: The relationship between students  conceptions of feedback and achievement. Paper presented at the 6th Biennial Conference of the International Test Commission, Liverpool, UK.
+Kapur, M. (2008). Productive failure. Cognition and Instruction , 26, 379  424. doi:10.1080/
+07370000802212669
+
+628	 Gavin T. L. Brown et al.
+Kapur, M. (2016). Examining productive failure, productive success, unproductive failure, and
+unproductive success in learning. Educational Psychologist , 51, 289  299. doi:10.1080/ 00461520.2016.1155457
+Kuncel, N. R., Cred e, M., & Thomas, L. L. (2005). The validity of self-reported grade point averages,
+classranks,andtest scores:Ameta-analysis andreview oftheliterature. ReviewofEducational Research , 75(1), 63  82. doi:10.3102/00346543075001063
+Lam, T. C. M., & Klockars, A. J. (1982). Anchor point effects on the equivalence of questionnaire
+items. Journal of Educational Measurement , 19, 317  322. doi:10.2307/1435004
+Lee, B., Farruggia, S., & Brown, G. (2013). Academic dif culties encountered by East Asian
+internationaluniversitystudentsinNewZealand. HigherEducationResearch&Development, 32, 915  931. doi:10.1080/07294360.2013.806444
+Lipnevich, A.A.,&Smith, J.K. (2009a). Theeffectsofdifferential feedback on student examination
+performance. Journal of Experimental Psychology: Applied , 15, 319  333. doi:10.1037/ a0017841
+Lipnevich,A.A., &Smith,J.K. (2009b). Ireallyneedfeedback tolearn : Students  perspectives on
+the effectiveness of the differential feedback messages. Educational Assessment, Evaluation and Accountability , 21, 347  367. doi:10.1007/s11092-009-9082-2
+MacLellan, E. (2001). Assessment for learning: The differing perceptions of tutors and students.
+Assessment & Evaluation in Higher Education , 26, 307  318. doi:10.1080/ 02602930120063466
+Mangels, J. A., Butter eld, B., Lamb, J., Good, C., & Dweck, C. S. (2006). Why do beliefs about
+intelligencein uencelearningsuccess?Asocialcognitiveneurosciencemodel. SocialCognitive and Affective Neuroscience , 1, 75  86. doi:10.1093/scan/nsl013
+Marsh, H. W., Hau, K.-T., Balla, J. R., & Grayson, D. (1998). Is more ever too much? The number of
+indicators per factor in con rmatory factor analysis. Multivariate Behavioral Research, 33, 181  220. doi:10.1207/s15327906mbr3302_1
+Marsh, H. W., Hau, K.-T., & Wen, Z. (2004). In search of golden rules: Comment on hypothesis-
+testingapproachestosettingcutoffvaluesfor tindexesanddangersinovergeneralizingHuand Bentler s (1999) ndings. Structural Equation Modeling: A Multidisciplinary Journal, 11,
+320  341. doi:10.1207/s15328007sem1103_2
+Midgley, C., Maehr, M. L., Hruda, L. Z., Anderman, E., Anderman, L., Freeman, K. E., ... Urdan, T.
+(2000). Manual for the patterns of adaptive learning scales. Ann Arbor, MI: University of
+Michigan. Nicol,D.J.,&Macfarlane-Dick,D.(2006).Formativeassessmentandself-regulatedlearning:Amodel
+and seven principles of good feedback practice. Studies in Higher Education , 31, 199  218.
+doi:10.1080/03075070600572090 NSSE(2007).Experiencesthatmatter:Enhancingstudentlearningandsuccess.NationalSurveyof
+Student Engagement. Retrieved from http://nsse.iub.edu/NSSE%5F2007%5FAnnual%
+5FReport/docs/withhold/NSSE_2007_Annual_Report.pdf
+Orsmond, P., & Merry, S. (2012). The importance of self-assessment in students  use of tutors 
+feedback: A qualitative study of high and non-high achieving biology undergraduates. Assessment & Evaluation in Higher Education , 38(6), 737  753. doi:10.1080/ 02602938.2012.697868
+Panadero, E.,Alonso-Tapia, J.,& Huertas, J.-A. (2014).Rubrics vs.self-assessment scripts:Effects on
+ rst year university students  self-regulation and performance. Infancia y Aprendizaje, 37(1), 149  163. doi:10.1080/02103702.2014.881655
+Panadero, E., Alonso-Tapia, J., & Reche, E. (2013). Rubrics vs. self-assessment scripts effect on self-
+regulation, performance and self-ef cacy in pre-service teachers. Studies in Educational Evaluation , 39, 125  132. doi:10.1016/j.stueduc.2013.04.001
+Pekrun, R., Elliot, A. J., & Maier, M. A. (2006). Achievement goals and discrete achievement
+emotions: A theoretical model and prospective test. Journal of Educational Psychology, 98, 583  597. doi:10.1037/0022-0663.98.3.583
+Peterson, E. R., & Irving, S. E. (2008). Secondary school students  conceptions of assessment and
+feedback. Learning and Instruction , 18, 238  250. doi:10.1016/j.learninstruc.2007.05.001
+Pintrich, P. R., Smith, D., Garcia, T., & McKeachie, W. J. (1991). A manual for the use of the
+Motivated Strategies for Learning Questionnaire (MSLQ). Ann Arbor, MI: The University of
+Michigan.
+Pintrich, P. R., & Zusho, A. (2007). Student motivation and self-regulated learning in the college
+classroom.InR.P.Perry&J.C.Smart(Eds.), Thescholarshipofteachingandlearninginhigher
+education: An evidence-based perspective (pp. 731  810). Dordrecht, The Netherlands:
+Springer. Richardson,M.,Abraham,C.,&Peterson,R.(2012).Psychologicalcorrelatesofuniversitystudents 
+academic performance: A systematic review and meta-analysis. Psychological Bulletin, 138,
+353  387. doi:10.1037/a0026838 Robbins,S.B.,Lauver,K.,Le,H.,Davis,D.,Langley,R.,&Carlstrom,A.(2004).Dopsychosocialand
+studyskillfactorspredictcollegeoutcomes?Ameta-analysis. PsychologicalBulletin , 130,261 
+288. doi:10.1037/0033-2909.130.2.261
+Schunk, D. H., & Zimmerman, B. J. (2006). Competence and control beliefs: Distinguishing the
+meansandends.InP.A.Alexander&P.H.Winne(Eds.), Handbookofeducationalpsychology (2nd ed., pp. 349  367). Mahwah, NJ: LEA.
+Shute,V.J.(2008).Focusonformativefeedback. ReviewofEducationalResearch ,78(1),153  189.
+doi:10.3102/0034654307313795
+Smith, J. K., & Lipnevich, A. A. (2009). Formative assessment in higher education: Frequency and
+consequence.InD.M.McInerney,G.T.L.Brown&G.A.D.Liem(Eds.), Studentperspectiveson assessment:Whatstudentscantellusaboutassessmentforlearning (pp.279  295).Charlotte, NC: Information Age.
+Strijbos, J. W. (2016). Assessment of collaborative learning. In G. T. L. Brown & L. R. Harris (Eds.),
+Handbook of human and social conditions in assessment (pp. 302  318). New York, NY: Routledge.
+Wartman, K. L., & Savage, M. (2008). Parental involvement in higher education: Understanding the
+relationship among students, parents, and the institution. ASHE Higher Education Report, 33 (6), 1  125. doi:10.1002/aehe.3306
+Weaver, M. R. (2006). Do students value feedback? Student perceptions of tutors  written
+responses. Assessment & Evaluation in Higher Education , 31, 379  394. doi:10.1080/ 02602930500353061
+Wilson,E.B.,&Hilferty, M.M.(1931).Thedistributions ofchi-square. Proceedings oftheNational
+Academy of Sciences of the USA , 17, 684  688.
+Zimmerman, B. J. (2008). Investigating self-regulation and motivation: Historical background,
+methodological developments, and future prospects. American Educational Research Journal , 45(1), 166  183. doi:10.3102/0002831207312909
+Received 18 December 2015; revised version received 20 July 2016
