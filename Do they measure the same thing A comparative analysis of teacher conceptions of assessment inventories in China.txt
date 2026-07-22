@@ -1,0 +1,684 @@
+﻿Studies in Educational Evaluation 89 (2026) 101585 
+Contents lists available at ScienceDirect 
+Studies  in Educational Evaluation 
+journal homepage: www.elsevier.com/locate/stueduc 
+Do they  measure the  same  thing? A comparative analysis of teacher  conceptions of assessment inventories in China
+Ying Wang *, Eleanor Hawe , Gavin T.L. Brown 
+Faculty of Arts and Education, The University of Auckland, Auckland, New Zealand
+A R T I C L E I N F O A B S T R A C T
+
+Keywords:
+Teachers’ conceptions of assessment Assessment literacy
+Construct overlap
+Jingle–jangle fallacy
+Structural equation modelling Multitrait–multimethod
+Teachers’ conceptions of assessment shape how they interpret and respond to assessment policies. Multiple in- ventories  have  been  developed  to  capture  how  teachers  understand assessment  from  diverse  theoretical per- spectives.  However,  it  remains  unclear  whether  these  inventories  capture  the  same  constructs  with  different terminology or reflect different constructs. To address this issue, this study compared four inventories in China: 
+Chinese  Teachers’ Conceptions  of Assessment  (C-TCoA, 2011),  Chinese  Approaches  to  Classroom  Assessment Inventory  (C-ACAI,  2022),  Science  Teachers’  Assessment  Conceptions  Questionnaire  (STACQ,  2017),  and Teacher  Formative  Assessment  Literacy  Scale  (TFALS, 2022).  Using  a chained  survey  design  (N = 1041),  data 
+were  analysed  with  confirmatory  factor  analysis,  multitrait–multimethod correlations,  and  structural  equation modelling. Results showed partial factorial validity and construct overlap. Improvement and accountability were the  most  consistent  dimensions,  whereas  irrelevance  remained  independent.  These  findings  suggest  similar constructs may be labelled differently across inventories, indicating possible confusion in the field.
+
+1. Introduction
+Research  on  teachers’  beliefs  and  conceptions  of  assessment  has relied heavily on inventories to capture teachers’ views of the purposes and functions of assessment. While these inventories have enabled large- scale investigations, the constructs they represent are often abstract and inconsistently labelled. Because the constructs are not clearly defined, researchers  often  end  up  with  overlapping  categories,  inconsistent in- terpretations,  and  difficulties  comparing  results  across  studies.  This problem  is  widely  recognized  as  the  jingle–jangle  fallacy,  whereby different  labels  are  applied  to  the  same  construct  (jingle), or  the  same label is used for different constructs (jangle) (Kelley, 1927).
+In  educational  assessment,  shifts  from  summative  to  formative assessment,  from  traditional  to  alternative  approaches,  and  from assessment  of  learning  (AoL)  to  assessment  for  learning  (AfL)  have diversified  the  terminology  (Levy-Vered,  2024).  These  shifts  have moved  the  field  forward,  but  they  have  also  made  the  boundaries  be- tween concepts less clear, increasing the risk of jingle–jangle problems. As a result,  evolving  terms  often  have  ambiguous  meanings  (Newton, 2007), giving rise to jingle fallacies when different terms denote essen- tially  the  same  conception  (e.g.,  “improvement” and  “assessment  for learning”)  and  to  jangle  fallacies  when  the  same  term  is  applied  to 
+different  purposes  or  practices  (e.g.,  “formative  assessment”  as  a learning goal versus as classroom practice).
+These  conceptual  difficulties  are  evident  in  the  many  inventories developed  across  cultural  contexts  to  measure  teachers’  beliefs  and conceptions  of  assessment  (Barnes  et  al.,  2015;  DeLuca  et  al.,  2021; Remesal and Brown, 2015). Although grounded in different theoretical frameworks and emphasising various functional aspects (Alonzo et al., 2021;  Bonner,  2016;  Brown  et  al.,  2011;  Remesal,  2011),  these  tools frequently  generate  overlapping  content  and  inconsistent  labelling. Empirical evidence illustrates this problem. Brown & Remesal (2017), 
+for  instance,  found  that  the  Teachers’ Conceptions  of  Assessment  in- ventory (TCoA-III; Brown, 2004) and the Qualitative Model of Concep- tions  of  Assessment  (QMCoA;  Remesal,  2011)  shared  overlapping dimensions  rather  than  capturing  distinct  constructs,  thereby  compli - cating cross-study comparison and theory building (Fulmer et al., 2015; Remesal, 2007).
+1.1. The proliferation of inventories of teachers’ assessment conceptions
+In  an  effort  to  capture  how  teachers  understand  and  interpret assessment,  researchers  across  different  cultural  and  policy  contexts have  developed  a wide  range  of inventories.  Several  researchers  have 
+
+* Corresponding author.
+E-mail addresses: ying.wang@auckland.ac.nz (Y. Wang), e.hawe@auckland.ac.nz (E. Hawe), gt.brown@auckland.ac.nz (G.T.L. Brown). 
+https://doi.org/10.1016/j.stueduc.2026.101585
+Received 25 November 2025; Received in revised form 19 February 2026; Accepted 24 February 2026  
+Available online 27 February 2026 
+0191-491X/© 2026 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/). 
+
+Y. Wang et al.                                                                                                                                                                                                                                   Studies in Educational Evaluation 89 (2026) 101585 
+sought to capture teachers’ views of assessment purposes, while others have  focused  on  related  constructs  such  as  assessment  orientations, beliefs, or classroom practices. Most empirical studies in this field have 
+used inventories that capture teachers’ perceptions of different purposes of assessment (Alonzo et al., 2021; Brown and Gao, 2015; Brown et al., 
+2011; Brown, 2004; Remesal, 2011). Among these, the most influential is the TCoA-III (Teachers’ Conceptions of Assessment-III, Brown, 2004), which  identified  four  core  purposes:  improvement,  school  account - ability,  student  accountability,  and  irrelevance.  It  has  since  been adapted  to  diverse  cultural  contexts,  expanding  its  applicability  and contributing to the diversification of teachers’ assessment conceptions measures (Barnes et al., 2017; Brown and Remesal, 2012; Brown et al., 2011; Brown et al., 2019).
+Teachers’  assessment  conceptions  are  not  restricted  to  purposes alone but also extend to their views of assessment practices, including how assessment is designed, implemented, and interpreted in classroom contexts.  Reflecting  this  recognition, recent  research  has  shifted  from belief-oriented  frameworks  to  more  integrated models  that  conceptu - alize assessment purposes as part of the broader construct of teachers’ assessment literacy (DeLuca et al., 2016; Deneen and Brown, 2016; Lam, 2019;  Zhao  et  al.,  2018).  For  example,  the  Approaches  to  Classroom Assessment  Inventory  (ACAI;  DeLuca  et  al.,  2016)  operationalizes assessment  literacy  across  four  interrelated dimensions:  purpose,  pro- cess, fairness, and theory, linking teachers’ beliefs about purposes with their enactment in practice.
+Another strand of research has emerged that focuses less on general purposes  and  more  on  specific  pedagogical  practices  (Levy-Vered, 2024). A range of inventories have been developed, including measures addressing  conceptions  of  formative  assessment  (Sach,  2012;  Veugen et  al.,  2021;  Yan  and  Pastore,  2022),  Assessment  for  Learning  (AfL) (Abderrahim  and  Tibor,  2021;  Nasr  et  al.,  2018),  and  classroom assessment (Yan et al., 2022; S¸entürk and Bas¸, 2023). These inventories emphasize teachers’ understanding of assessment principles and the role 
+of assessment in supporting student learning. However, they primarily capture  teachers’  self-reported  beliefs  and  intentions,  not  systematic evidence of their actual classroom practices.
+The proliferation of teachers’ assessment conceptions inventories has advanced the field by enabling scholars to examine teachers’ beliefs and practices  from  multiple  perspectives, highlighting the  complexity  and diversity of their conceptions (Barnes et al., 2015; Brown et al., 2011; Brown, 2004). It is useful to propose multiple constructs when theories are still developing, since models need to be tested and refined over time (Whetten, 1989). At the same time, adding too many overlapping con- structs  has  led  to  redundancy  and  fragmentation  in  the  field.  By re-labelling  existing  constructs  without  theoretical  innovation,  some inventories  exacerbate  terminological  confusion,  hinder  scholarly communication, and generate conflicting findings (Anvari et al., 2024).
+1.2. Chinese context: four major assessment conceptions inventories
+China offers an especially relevant context for investigating teachers’ assessment  conceptions. Historically  dominated by  high-stakes  exami - nations  such  as  the  Gaokao,  the  system  has  more  recently  undergone reforms promoting formative and learning-oriented approaches (Brown 
+and  Gao,  2015;  Brown  et  al.,  2011).  Yet classroom  practice  remains largely  exam-driven, underscoring the  complexity  of teachers’ assess- ment  conceptions and  the  need  to  examine  them  through  multiple  in- ventories (Coombs et al., 2022; Yan, 2015; Yu, 2023).
+Within  this  context,  four  inventories  are  among  the  most  widely used, theoretically grounded, and psychometrically validated measures in  China,  each  reflecting  a  distinct  focus.  The  earliest  is  the  Chinese Teachers’  Conceptions  of  Assessment  (C-TCoA; Brown  et  al.,  2011), which  adapted  Brown’s  (2004) TCoA-III to  the  Chinese  cultural  and policy environment. While retaining the core purposes of improvement, accountability,  and  irrelevance,  the  C-TCoA emphasized  the  tension between  traditional  exam-oriented  practices  and  reform-driven 
+formative purposes. The Chinese Approaches to Classroom Assessment Inventory (C-ACAI; Coombs et al., 2022) extended the scope of inquiry 
+to  assessment  literacy,  integrating  beliefs  and  practices  within  a framework  adapted  from  Western  models  (DeLuca  et  al.,  2016).  The Science Teachers’ Assessment Conception  Questionnaire (STACQ; Wu, 2017)  was  indigenously  developed  to  capture  Chinese  teachers’ classroom-based assessment  conceptions, thereby  offering  a  distinctly local perspective rather than an adaptation of Western frameworks such 
+as  the  C-TCoA and  C-ACAI. The  most  recent  inventories, the  Teacher Formative  Assessment  Literacy  Scale  (TFALS; Yan  &  Pastore,  2022), concentrated explicitly  on  formative  assessment,  marking  a shift  from general purposes to teachers’ literacy in applying formative principles 
+and  positioning  their  understanding  of  assessment  as  central  to  sup- porting student learning.
+Although  multiple  inventories  of teachers’ assessment  conceptions are widely used in China, they have largely been examined in isolation. As a result, there is limited empirical evidence regarding whether these inventories  represent  structurally  distinct  constructs  or  exhibit  struc - tural  overlap.  If  this  issue  is  not  addressed,  it  may  create  further confusion in the field, and the observed differences may simply be due to measurement  effects  rather  than  real  differences  in  teachers’ beliefs. Therefore,  a  systematic  comparison  across  inventories  is  needed  to identify  structural  distinctiveness  and  redundancy,  which  can  inform the  appropriate use  and  interpretation of these  instruments  in  future research.
+To address this issue, this study departs from prior work by taking 
+cross-inventory comparison in China as its starting point, clarifying the 
+inventories’  structural  relationships  and  identifying  redundancies. Specifically, this study was guided by the following research questions:
+RQ 1:  How  comparable  are  the  measurement  structures  of  the  C- TCoA, C-ACAI, STACQ, and TFALS in the Chinese context?
+RQ 2: To what extent do conceptually similar constructs across these inventories  exhibit  structural  convergence,  indicating  potential  jin- gle–jangle fallacies?
+2. Methods
+This non-experimental, anonymous survey study examined whether definitionally similar or divergent constructs in four established teacher assessment conception inventories measured the same or different un- derlying dimensions. Primary and secondary school teachers in Chinese public schools were invited to complete one of four survey forms, each containing two inventories arranged in a daisy-chain design: Question -
+naire  1  (Inventories  A  &  B),  Questionnaire  2  (Inventories  B  &  C), Questionnaire 3 (Inventories C & D), and Questionnaire 4 (Inventories D 
+& A). The  distribution of forms  followed  a systematic  rotation  rather than  random  assignment,  ensuring  balanced  representation  of  all  in- ventory pairs while minimising respondent burden.
+This design made it possible to link inventories and compare them across  groups,  so  that  similarities  and  differences  between  constructs could  be  evaluated.  Each  questionnaire  also  collected  basic  de- mographic  information to  examine  the  generalisability of the  sample, with a target of at least 250 responses per form. Data analysis included descriptive  statistics,  confirmatory  factor  analysis  (CFA),  multi - trait–multimethod (MTMM) modelling, and structural equation model -
+ling  (SEM)  to  compare  construct  structures,  assess  convergent  and discriminant validity, and detect potential overlaps across inventories.
+2.1. Participants
+Participants were recruited through convenience sampling, with the 
+survey  distributed online  across  multiple  provinces  in  China.  In total,      1442  in-service  teachers  responded,  and  after  data  screening  and removal  of multivariate outliers,  1041  were  retained  for  analysis.  Re-     spondents  were  allocated  to  four  questionnaire  groups  for  paired  in- ventory  comparisons:  Questionnaire  1  (N = 260),  Questionnaire  2 
+
+2 
+Y. Wang et al.                                                                                                                                                                                                                                   Studies in Educational Evaluation 89 (2026) 101585 
+(N = 263),  Questionnaire 3 (N = 259),  and  Questionnaire 4 (N = 259). The  final  sample  comprised  57.0%  female  and  38.6%  male  teachers, with  4.4%  not  reporting  gender.  Teachers  worked  at  the  primary (26.5%), junior high (48.1%), and high school (25.4%) levels across a 
+range of subject areas. Teaching experience showed a bimodal pattern, with  41.5%  reporting  fewer  than  10  years  and  31.2%  reporting  more than  20  years.  Most  participants  held  a  bachelor’s  degree,  though smaller  groups  reported  other  qualifications.  These  characteristics mirror the feminized and diverse profile of the Chinese teaching work-
+force, offering variation across demographic and professional subgroups (Table 1).
+2.2. Instruments
+This study employed four established inventories of teacher assess-
+ment  conceptions  in  the  Chinese  context.  The  C-TCoA (Brown  et  al., 2011) comprises 31 items organized into three second-order factors of Improvement,  Accountability  and  Irrelevance,  which  include  seven first-order  factors:  Student  Development,  Help  Learning  and  Accuracy under Improvement; Examinations, Error, and Control under Account - ability;  and  Irrelevance.  Developed  through  bilingual  procedures  in Hong  Kong and  South  China,  the  instrument demonstrated configural and  metric  invariance  and  reflects  the  cultural  alignment  of account - ability  and  improvement purposes.  The  TFALS (Yan & Pastore,  2022) includes 22 items across three dimensions of Conceptual, Practical and Socio-emotional,  representing  teachers’  knowledge  of  formative assessment, enactment of classroom practices, and sensitivity to student motivation and ethics. It was developed through a theory-driven process and validated with Hong Kong teachers. The STACQ (Wu, 2017) consists 
+of 36  items  capturing  five  orientations: Management-Oriented, Exam- ination-Oriented,  Teaching-Oriented,  Ability-Oriented  and Subject-Oriented,  which  conceptualize  assessment  as  socially  and culturally situated. Finally, the C-ACAI (Coombs et al., 2022), adapted 
+from DeLuca et al.’s (2016) ACAI, was designed to investigate classroom assessment  practices.  While  its  scenario-based  section  has  not  been validated,  its  16  Likert-type  items  were  revalidated in China,  yielding 
+Table 1 
+Demographic characteristics.
+Category N %
+Gender
+Female 593 57.0
+Male 402 38.6
+Not disclosed 46 4.4 School Level
+Primary 276 26.5
+Junior high school 501 48.1
+High school 264 25.4 Subject Area
+Chinese 195 18.7
+Mathematics 153 14.7
+English 177 17.0
+Science (Physics/Chemistry/Biology) 98 9.4
+Social Science (Politics/History/Geography) 84 8.1
+Art (Music/Physical Education/Fine Arts) 259 24.9
+Other 41 3.9 Teaching Experience
+1–5 years 279 26.8
+6–10 years 153 14.7
+11–15 years 182 17.5
+16–20 years 102 9.8
+More than 20 years 325 31.2 Educational Background
+Associate degree 152 14.6 Bachelor's degree 672 64.6 Master's degree 205 19.7 Doctorate degree 12 1.2
+Note.  Percentages  are  based  on  the  total  sample  (N = 1041)  after  outlier removal.
+two dimensions of Contemporary practice and traditional practice that demonstrated sound validity and reliability. In this study, Section Two of  the  C-ACAI was  adopted  to  ensure  alignment  between  beliefs  and practices for subsequent modelling analyses.
+2.3. Translation
+Only  the  C-ACAI required  translation, as  the  C-TCoA, TFALS, and STACQ had previously been validated and published in Chinese. Since 
+no  Chinese  version  of  the  C-ACAI was  available  at  the  time  of  data collection, the inventory was translated into Simplified Chinese by the research team using a functional equivalence approach that prioritised meaning  and  natural  expression  over  literal  translation (Brown  et  al., 2024).  The  draft  translation  was  independently  reviewed  by  three bilingual  experts,  who  rated  semantic  similarity  between  the  Chinese and  English  items  on  a four-point scale.  Most  items  showed  high  con- sistency,  while  four  items  indicated  some  variability.  These  were re-examined by  an  additional reviewer,  leading  to  minor  wording  re- visions to improve clarity. All 16 items were retained for analysis after this process.
+2.4. Data collection
+This  non-experimental,  anonymous  survey  study  employed  four previously  validated  inventories.  Ethical  approval  was  obtained  from the  appropriate  institutional  review  board.  The  questionnaire  was developed and administered using a widely used Chinese online survey platform  that  supports  the  design  and  delivery  of  questionnaires,  as- sessments, and voting tasks (Mei & Brown, 2018). The survey link was distributed through existing WeChat and QQ social groups and further disseminated via  the  researchers’ personal  and  professional  networks. All participants  were  informed  about  the  purpose  of  the  study,  their right  to  withdraw  at  any  time,  and  the  anonymity  of their  responses. Informed consent was obtained prior to accessing the questionnaire.
+3. Data analysis
+3.1. Data preparation
+To minimize the risk of biased parameter estimates and poor model fit  in  CFA  (Bandalos  &  Finney,  2018),  multivariate  outliers  were detected through Mardia’s kurtosis (Mardia, 1970) and the Mahalanobis 
+d² statistic, applying a conservative cutoff of p < .001. Although Osborne 
+& Overbay  (2004) noted  that  outliers  in  large  samples  may  carry meaningful  information, a model  comparison  strategy  was  adopted  to evaluate  whether  removing  them  improved  model  fit.  Outliers  were identified  using  IBM SPSS Statistics  (Version  29.0),  and  confirmatory factor analyses (CFAs) were conducted using IBM SPSS Amos (Version 30.0; IBM Corp., 2024) on both the full dataset and the dataset excluding outliers.  Comparisons  relied  on  conventional fit indices  as well  as the Akaike  Information Criterion  (AIC; Akaike,  1973), with  ΔAIC used  to assess the relative adequacy of competing models (Burnham & Ander-
+son, 2004).
+3.2. Confirmatory factor analysis
+Prior to cross-inventory analyses, confirmatory factor analysis (CFA) 
+was conducted to examine whether the validated factor structure of each inventory could be replicated in the Chinese context. CFA was used to test  whether  observed  items  adequately  represented  their  intended latent  constructs,  thereby  providing  core  evidence  of  measurement validity  (Kline,  2005;  Schreiber  et  al.,  2006).  As the  C-TCoA, TFALS, STACQ, and C-ACAI had previously been validated in Chinese contexts, 
+a  confirmatory  rather  than  exploratory  approach  was  used.  CFA was conducted in two stages. First, each inventory was analysed separately to examine whether the validated factor structure could be replicated in 
+
+3 
+Y. Wang et al.                                                                                                                                                                                                                                   Studies in Educational Evaluation 89 (2026) 101585 
+the  full  sample.  Model  specifications  followed  the  original  inventory structures, with items loading only on their theoretically specified latent factors.  Second,  CFA  models  were  fitted  for  each  inventory  pair (C-TCoA–TFALS, TFALS–STACQ, STACQ–C-ACAI, and C-ACAI–C-TCoA) based on the chain design, in which each participant completed one pair of inventories. Pairwise  CFAs were  conducted  using  only  participants who  completed  both  inventories  within  each  pair.  This  ensured  that measurement  properties  were  evaluated  within  the  same  subsample used for subsequent cross-inventory analyses.
+Model  fit  was  evaluated  using  established  thresholds:  chi-square divided  by  degrees  of  freedom  (χ²/df)  ≤ 3.8,  Comparative  Fit  Index (CFI)  and  Gamma  Hat  Index  (γˆ)  ≥ 0.90,  Root  Mean  Square  Error  of Approximation (RMSEA) ≤ 0.08,  and  Standardized Root  Mean  Square Residual  (SRMR) ≤ 0.08  (Hu  and  Bentler,  1999;  Kline,  2005).  When 
+models were inadmissible, items with high modification indices (MI >
+10), weak loadings (< 0.30), or cross-loadings were sequentially trim -
+med until an acceptable fit was achieved while preserving the hypoth - esised structure (Bandalos & Finney, 2018). Items were removed one at a  time,  with  model  fit  re-evaluated  after  each  modification.  Item removal  decisions  prioritised  theoretical consistency  with  the  original construct  definitions.  The  trimming  process  stopped  when  acceptable model  fit was achieved and  no further theoretically justifiable modifi - cations were indicated. Analyses were performed using IBM SPSS Amos (Version  30.0),  with  maximum  likelihood  estimation applied  because 6-point ordinal scales function similarly to continuous variables (Finney 
+& DiStefano, 2006).
+3.3. MTMM matrix and SEM analysis
+Once  acceptable  measurement  models  were  established,  a  multi - trait–multimethod (MTMM) approach was employed to assess whether paired  inventories  captured  overlapping  constructs.  MTMM  matrix analysis  (Campbell  &  Fiske,  1959)  was  first  conducted  to  assess convergent and discriminant validity. Convergent validity was indicated when  the  same  trait  measured  by  different  methods  (homo-trait, hetero-method)  showed  high  correlations,  whereas  discriminant  val- idity  was  supported  when  different  traits  across  inventories  (hetero- - trait, hetero-method) demonstrated lower correlations.
+In early MTMM studies, observed composite scores (e.g., summed or averaged  item  scores)  were  commonly  used.  However,  correlations among  manifest  variables  may  confound  true  construct  relationships with  measurement  error,  reducing  interpretability  and  potentially leading  to  misleading  conclusions  about  construct  validity  (DiStefano et al., 2009; Marsh et al., 2025). Therefore, this study used factor scores 
+rather than observed scores in the MTMM analyses (Thurstone, 1978), as they  reduce  measurement error  and  improve  comparability across  in- ventories.  For  each  pair,  CFA models  were  first  fitted  using  the  same subsample  of  teacher  participants  who  completed  both  inventories. Factor  scores  for  each  latent  factor  were  then  extracted  for  each participant.  In  the  MTMM framework,  latent  factors  were  treated  as traits  and  inventories  as  methods.  Factor  scores  from  the  paired  in- ventories were then matched at the participant level to allow compari -
+sons  of  similar  constructs  across  methods.  Inter-correlations  among latent  factors  within  each  inventory  pair  were  then  calculated,  with correlations  of  0.75  or  higher  considered  evidence  of  construct convergence (Taylor, 1990). All MTMM analyses were conducted using 
+IBM SPSS Statistics (Version 29.0).
+To  complement  the  MTMM  matrix  and  provide  a  model-based evaluation,  Structural  Equation  Modelling  (SEM)  was  used.  SEM models  examined  the  structural  relations  between  theoretically corre - sponding  constructs  across  inventories  while  accounting  for  measure - ment error (Kline, 2005). In the SEM models, a two-stage strategy was applied.  First,  first-order  factor  models  were  specified  in  which  latent constructs from paired inventories were allowed to correlate freely. This 
+step estimated latent correlations between theoretically corresponding constructs across inventories to evaluate whether the MTMM-identified 
+overlap  was  supported  at  the  latent  level,  given  acceptable  model  fit. Second,  where  model  fit  was  acceptable,  second-order  factor  models were  tested  to  examine  whether  shared  variance  across  inventories could  be  explained  by  higher-order constructs.  This  provided  a  more parsimonious  representation  of  cross-inventory  relationships.  Latent correlations  were  estimated  using  maximum  likelihood  estimation  in Amos  Version  30  (IBM Corp.,  2024).  Model  adequacy  was  evaluated using  the  same  fit  indices  applied  in  the  CFA analyses.  Strong  latent correlations  (≥.75)  between  theoretically  corresponding  constructs were  interpreted  as  evidence  of  conceptual  overlap,  whereas  weaker 
+correlations were interpreted as evidence of construct differentiation.
+4. Results
+4.1. Outlier analysis
+Across  the  four  inventories,  401  participants  were  identified  as outliers (C-TCoA = 101; TFALS = 96; STACQ = 100; C-ACAI = 104). In 
+each  case,  the  models  estimated  with  outliers  excluded  demonstrated superior  fit,  as  indicated  by  consistent  reductions  in  AIC  values (Table 2). Therefore, the datasets with outliers excluded were retained 
+for all subsequent analyses.
+4.2. Measurement model
+Confirmatory factor analyses (CFAs) were conducted for all four in- ventories  on  datasets  with  outliers  removed  to  evaluate  their  latent structures.  Both  intercorrelated  first-order  and  hierarchical  specifica - tions were compared, and items flagged by modification indices (MIs) 
+were removed when theoretically appropriate. Detailed MI evidence for item  deletion  is reported  in  Supplementary  Table  S1. The  initial  and modified CFA models are presented in Appendix A (C-TCoA: Figs. 4–6; TFALS: Figs. 7–8; STACQ: Figs. 9–13; C-ACAI: Figs. 14–16).
+4.2.1. C-TCoA model fit
+The  original  hierarchical  specification  of  the  C-TCoA  failed  to converge,  whereas  the  intercorrelated  first-order  model  showed  only adequate fit (Table 2). Some items had weak loadings (e.g., ex4 = 0.53), 
+and correlations between Improvement and other factors were very high (all  > 0.90),  undermining  discriminant  validity.  Modification  indices also  suggested  cross-construct  residual  associations  (e.g.,  acy2  with Control  and  Examination). Ten  items  with  the  largest  MI values  were 
+removed. The revised intercorrelated and second-order models both fit the data (Table 3), but the intercorrelated solution consistently provided the better fit.
+4.2.2. TFALS model fit
+The  original  three-factor  TFALS model  showed  adequate  but  not ideal  fit  (Table  2).  Some  items  had  weak  loadings  (e.g.,  co2 = 0.57), factor  correlations  were  very  high  (Conceptual–Practical  r = 0.92; Practical–Socio-emotional r = 0.94), and modification indices suggested 
+cross-construct  residual  associations  (e.g.,  pr8  with  Socio-emotional, co7  with  pr1).  Guided  by  these  diagnostics  and  theoretical  consider - ations,  ten  items  were  removed.  The  respecified  three-factor  model provided  acceptable  fit  (Table  3)  and  was  retained  for  subsequent analyses.
+4.2.3. STACQ model fit
+The  original  five-factor  STACQ specification  demonstrated poor  fit (Table  2). Modification  indices  suggested  extensive  cross-construct re- sidual  associations  (e.g.,  mo2  with  to2),  and  eighteen  items  were therefore  removed.  The  resulting  eighteen-item  version  achieved acceptable  fit  (Table  3).  However,  the  first-order  factors  were  near- perfectly  correlated  (r ≈ 1.0),  suggesting  redundancy. To address  this, four alternative models were tested: a unidimensional model, a bifactor model, a two-factor second-order model, and a one-factor second-order 
+
+4 
+Y. Wang et al.                                                                                                                                                                                                                                   Studies in Educational Evaluation 89 (2026) 101585 Table  
+Model fit indices with and without outliers across four inventories.
+Inventory Model N χ² (df) χ²/df (p) CFI RMSEA (90% CI) SRMR γˆ AIC C-TCoA All data 620 1697.58 (413) 4.10 (0.04) 0.90 0.07 (0.07–0.07) 0.07 0.88 1863.57
+No outliers 519 1407.64 (413) 3.41 (0.06) 0.91 0.07 (0.06–0.07) 0.07 0.89 1573.64 TFALS All data 619 1182.90 (206) 5.74 (0.02) 0.92 0.09 (0.08–0.09) 0.04 0.87 1276.90
+No outliers 523 873.88 (206) 4.24 (0.04) 0.94 0.08 (0.07–0.08) 0.03 0.92 967.88 STACQ All data 622 3173.66 (584) 5.43 (0.02) 0.85 0.09 (0.08–0.10) 0.05 0.81 3337.66
+No outliers 522 2917.17 (584) 5.00 (0.03) 0.86 0.09 (0.08–0.09) 0.05 0.80 3081.17 C-ACAI All data 622 291.58 (94) 3.10 (0.08) 0.97 0.06 (0.05–0.07) 0.03 0.96 375.58
+No outliers 518 279.87 (94) 2.98 (0.08) 0.97 0.06 (0.05–0.07) 0.03 0.96 363.87
+Note. All models were estimated using maximum likelihood (ML). Each inventory retained its hypothesised factor structure (C-TCoA = 7 factors/31 items; TFALS = 3 factors/22 items; STACQ = 5 factors/36 items; C-ACAI = 5 factors/16 items). Models without outliers consistently demonstrated superior fit, as indicated by reductions in AIC values.
+Table 3 
+CFA model fit indices across four inventories (after modification).
+Inventory Model (retained/compared) N χ² (df) χ²/df (p) CFI RMSEA (90% CI) SRMR γˆ AIC C-TCoA First-order intercorrelated 519 459.75 (168) 2.74 (0.10) 0.96 0.06(0.05–0.06) 0.05 0.95 585.75
+Second-order hierarchical 574.33 (180) 3.20 (0.07) 0.94 0.07(0.06–0.07) 0.07 0.93 676.33
+TFALS 3-factor intercorrelated 523 150.90 (51) 2.99 (0.10) 0.98 0.06(0.05–0.07) 0.03 0.97 204.90 STACQ 5-factor intercorrelated 522 388.08 (125) 3.10 (0.07) 0.96 0.06(0.06–0.07) 0.03 0.95 480.08 Model 1: Unidimensional 553.42 (135) 4.10 (0.04) 0.94 0.08(0.07–0.08) 0.04 0.92 625.42
+Model 2: Bifactor (non-converged) - - - - - - - Model 3: Two-factor second-order (retained) 409.85 (129) 3.18 (0.07) 0.96 0.07(0.06–0.07) 0.03 0.94 493.85
+Model 4: One-factor second-order 419.00 (130) 3.22 (0.07) 0.96 0.07(0.06–0.07) 0.03 0.94 501.00 C-ACAI First-order intercorrelated 518 108.59 (46) 2.36 (0.12) 0.99 0.05(0.04–0.06) 0.04 0.98 172.59 Second-order hierarchical 164.11 (50) 3.28 (0.07) 0.98 0.07(0.06–0.08) 0.05 0.96 220.11
+Note. CFA = confirmatory factor analysis. All models were estimated using maximum likelihood (ML). “Retained” indicates the model selected for subsequent analyses. 
+STACQ – Model 2 (bifactor) failed to converge; therefore, fit indices are not reported.
+
+ 
+Y. Wang et al.                                                                                                                                                                                                                                   Studies in Educational Evaluation 89 (2026) 101585 Table  
+model.  The  two-factor  second-order  model  showed  the  best  fit  and corresponded to Wu’s (2017) theoretical distinction between utility- and development-oriented orientations (Table 3). This model, together with 
+the modified five-factor solution, was retained for subsequent analyses.
+4.2.4. C-ACAI model fit
+The  hierarchical  specification  of  the  C-ACAI failed  to  converge, whereas the intercorrelated first-order model fit well (Table 2). Purpose and  Process  were  nearly  collinear  (r = 0.98),  indicating  redundancy. Four items flagged by MIs were removed, and the revised model was re- estimated. Both first order and second-order models achieved acceptable fit (Table 3), but the intercorrelated model consistently yielded superior 
+indices.
+4.2.5. Matched sample model fit
+Outliers were independently removed within each inventory to ac- count for distributional differences and measurement error, resulting in improved  CFA fit compared  to  models  with  outliers  retained.  Because the  excluded  cases  differed  across  inventories, only  participants with valid data in both inventories of each pair (e.g., A–B, B–C) were included in the matched samples. This ensured complete and consistent responses while  maintaining  the  distinct  psychometric  properties  of  each  in- ventory.  As  shown  in  Table  4,  all  four  paired-inventory  models 
+demonstrated satisfactory fit, with negligible differences across models. These results were obtained by specifying a SEM model for each pair, in which all scales from both inventories were freely correlated to repro - duce an MTMM-style correlation matrix.
+4.3. Multitrait–multimethod correlations
+Tables 5–8 present the MTMM correlation matrices for all inventory pairs.  Both  Pearson  r values  and  SEM r values  are  shown,  as  well  as Coefficient H factor robustness based on SEM factor analysis. These ta-
+bles provide an overview of both within-inventory and cross-inventory (hetero-method) correlations. Detailed  results  for  each  inventory  pair are described below.
+For  C-TCoA–TFALS, the  MTMM correlation matrix  is presented  in Table 5. Within each inventory, there were quite distinct intercorrela -
+tion patterns. Within the C-TCoA, Pearson correlations between factors ranged  from  0.05  to  0.94  (M=0.62,  SD=0.26),  suggesting  robust 
+discrimination between scales. In contrast, the three TFALS scales had a high inter-correlation (M=0.88, SD=0.04), indicating very little differ-
+ence  in responding  to  the  three  constructs. In terms  of hetero-method correlations, the three factors in C-TCoA related to Improvement (Stu-
+dent development, Help learning, and Accuracy) had robust correlations with  all  three  of  TFALS’  factors  (0.77 ≤ r ≤ 0.91).  Additionally,  C- 
+
+ 
+Y. Wang et al.                                                                                                                                                                                                                                   Studies in Educational Evaluation 89 (2026) 101585 Table 6 
+Table 4 
+Paired-Inventories Model Fit Indices after modification.
+Paired Inventories Items Factors N χ² (df) χ²/df (p) CFI RMSEA (90% CI) SRMR γˆ C-TCoA – TFALS 33 10 875.46 (452) 1.94 (0.16) 0.94 0.06 (0.05–0.07) 0.06 0.91
+260
+TFALS – STACQ 30 8 792.26 (377) 2.10 (0.15) 0.94 0.07 (0.06–0.07) 0.04 0.90
+263
+STACQ – C-ACAI 30 10 760.09 (361) 2.11 (0.15) 0.94 0.07 (0.06–0.07) 0.04 0.91
+259
+C-ACAI – C-TCoA 33 12 833.96 (429) 1.94 (0.16) 0.93 0.06 (0.05–0.07) 0.05 0.91
+259
+The Pearson and SEM correlation matrix for the C-TCoA-TFALS pair of inventories.
+C-TCoA-TFALS: Correlation Matrix (N = 260)
+Inventory C-TCoA TFALS
+Items Improvement Accountability Irrelevance
+I II III IV V VI VII VIII IX X
+C-TCoA
+I. Student development 4 0.93
+II. Help learning 3 0.82** 0.88
+(0.79)
+III. Accuracy 2 0.91** 0.92** 0.82
+(0.88) (0.88)
+IV. Examination 3 0.64** 0.52** 0.69** 0.80
+(0.64) (0.53) (0.65)
+V. Error 2 0.69** 0.77** 0.78** 0.54** 0.68
+(0.64) (0.72) (0.72) (0.53)
+VI. Control 3 0.80** 0.62** 0.81** 0.94** 0.63** 0.80
+(0.78) (0.61) (0.78) (0.90) (0.60)
+VII. Irrelevance 4 0.12* 0.05 0.25** 0.73** 0.20** 0.53** 0.86
+(0.14) 0.08 (0.25) (0.67) (0.20) (0.48)
+TFALS
+VIII. Conceptual 4 0.83** 0.91** 0.90** 0.53** 0.82** 0.64** 0.07 0.92
+(0.82) (0.87) (0.87) (0.54) (0.76) (0.64) (0.10)
+IX. Practical 4 0.91** 0.85** 0.89** 0.54** 0.84** 0.69** 0.09 0.88** 0.93
+(0.88) (0.83) (0.86) (0.55) (0.80) (0.67) (0.12) (0.85)
+X. Socio-emotional 4 0.91** 0.77** 0.86** 0.60** 0.89** 0.76** 0.20** 0.83** 0.92** 0.87 (0.88) (0.75) (0.82) (0.58) (0.85) (0.73) (0.20) (0.81) (0.89)
+Note:  Pearson’s r above  the  SEM-adjusted  correlations  in  parentheses;  Diagonal  values  in  bold  = Hancock’s Coefficient  H reliability  estimates;  Asterisks  indicate 
+statistical significance (two-tailed): p < .05 (*), p < .01 (**). Significance levels apply equally to both Pearson and SEM estimates. Table 6 
+The correlation matrix for the TFALS- STACQ pair of inventories.
+TFALS- STACQ: Correlation Matrix (N = 263)
+Inventory TFALS STACQ
+Utility- oriented Development-oriented TFALS Items I. II. III. IV. V. VI. VII. VIII.
+I. Conceptual 4 0.91
+II. Practical 4 0.97** 0.93
+(0.94)
+III. Socio-emotional 4 0.91** 0.95** 0.89
+(0.87) (0.92)
+STACQ
+IV. Management-Oriented 3 0.79** 0.81** 0.84** 0.84
+(0.75) (0.77) (0.80)
+V. Examination-Oriented 3 0.83** 0.81** 0.79** 0.97** 0.80
+(0.78) (0.77) (0.72) (0.95)
+VI. Teaching-Oriented 3 0.83** 0.83** 0.81** 0.95** 0.95** 0.84
+(0.79) (0.80) (0.76) (0.91) (0.89)
+VII. Ability-Oriented 4 0.90** 0.90** 0.88** 0.96** 0.98** 0.95** 0.91
+(0.88) (0.87) (0.83) (0.93) (0.95) (0.94)
+VIII. Subject-Oriented 5 0.82** 0.86** 0.91** 0.98** 0.94** 0.92** 0.96** 0.90
+(0.77) (0.82) (0.90) (0.97) (0.89) (0.89) (0.95)
+Note:  Pearson’s r above  the  SEM-adjusted  correlations  in  parentheses;  Diagonal  values  in  bold  = Hancock’s Coefficient  H reliability  estimates;  Asterisks  indicate statistical significance (two-tailed): p < .05 (*), p < .01 (**). Significance levels apply equally to both Pearson and SEM.
+
+6 
+Y. Wang et al.                                                                                                                                                                                                                                   Studies in Educational Evaluation 89 (2026) 101585 Table  
+TCoA’s Error  factor  was  also  highly  correlated  with  the  three  TFALS factors  (0.82 ≤ r ≤ 0.89).  The  Control  factor  had  moderate  in- tercorrelations with  all  three  TFALS factors  (0.64 ≤ r ≤ 0.73). The  Ex-
+amination  factor  had  modest  intercorrelations  with  all  three  TFALS factors  (0.53 <r ≤ 0.60).  In  contrast,  the  Irrelevance  factor  had  very weak  intercorrelations with the  three TFALS factors (0.07 ≤ r ≤ 0.20). 
+This suggests  that  the TFALS relates  strongly  to Improvement and the Error component of Accountability and weakly to the other two aspects of Accountability. The  zero  correlations with Irrelevance  indicate  that 
+this is a substantially independent way of thinking about assessment in the TFALS. Nonetheless, both inventories captured similar responding to the Improvement constructs.
+For  TFALS–STACQ, the  MTMM correlation  matrix  is  presented  in 
+Table  6.  Within  the  TFALS, the  three  scales  were  very  highly  inter - correlated  (0.91 ≤ r ≤ 0.97,  M = 0.93,  SD = 0.03),  indicating  that  re-
+spondents  made  very  little  distinction  among  the  three  constructs. Within  the  STACQ,  the  five  factors  were  also  strongly  interrelated (0.79 ≤ r ≤ 0.98, M = 0.91, SD = 0.06), suggesting limited discrimina -
+tion  among  the  scales.  In terms  of hetero-method correlations, TFALS Conceptual and Practical were both very highly correlated with STACQ Ability-Oriented  (r = 0.90).  Similarly,  TFALS  Socio-emotional  was strongly related to STACQ Subject-Oriented (r = 0.91). By comparison, 
+all  three  TFALS factors  also  had  robust  but  somewhat  weaker  in-
+tercorrelations  with  STACQ  Management-/Examination-/Teaching- Oriented (0.79 ≤ r ≤ 0.84). These results suggest that TFALS converges 
+most strongly with the Ability- and Subject-Oriented factors of STACQ, 
+
+ 
+Y. Wang et al.                                                                                                                                                                                                                                   Studies in Educational Evaluation 89 (2026) 101585 Table  
+The correlation matrix for the STACQ – C-ACAI pair of inventories.
+STACQ-C-ACAI: Correlation Matrix (N = 259)
+Inventory STACQ C-ACAI
+Items Utility- oriented Development-oriented Contemporary Traditional STACQ I II III IV V VI VII VIII IX X
+I. Management-Oriented 3 0.83
+II. Examination-Oriented 3 0.98** 0.79
+(0.98)
+III. Teaching-Oriented 3 0.98** 0.98** 0.87
+(0.97) (0.96)
+IV. Ability-Oriented 4 0.95** 0.95** 0.96** 0.91
+(0.94) (0.90) (0.94)
+V. Subject-Oriented 5 0.96** 0.95** 0.91** 0.95** 0.90
+(0.93) (0.93) (0.87) (0.94)
+C-ACAI
+VI. Assessment purpose 3 0.83** 0.87** 0.92** 0.89** 0.79** 0.91
+(0.79) (0.83) (0.89) (0.86) (0.75)
+VII. Assessment process 2 0.85** 0.90** 0.92** 0.92** 0.81** 0.92** 0.92
+(0.80) (0.88) (0.89) (0.90) (0.77) (0.87)
+VIII. Assessment fairness 2 0.88** 0.88** 0.88** 0.95** 0.87** 0.83** 0.89** 0.90
+(0.84) (0.84) (0.83) (0.93) (0.83) (0.78) (0.85)
+IX. Assessment theory 3 0.94** 0.95** 0.97** 0.97** 0.89** 0.91** 0.94** 0.93** 0.90
+(0.91) (0.93) (0.94) (0.94) (0.85) (0.87) (0.91) (0.89)
+X. Traditional practice 2 0.63** 0.61** 0.62** 0.59** 0.56** 0.52** 0.52** 0.47** 0.64** 0.79
+(0.57) (0.55) (0.56) (0.54) (0.50) (0.46) (0.46) (0.40) (0.58)
+Note:  Pearson’s r above  the  SEM-adjusted  correlations  in  parentheses;  Diagonal  values  in  bold  = Hancock’s Coefficient  H reliability  estimates;  Asterisks  indicate 
+statistical significance (two-tailed): p < .05 (*), p < .01 (**). Significance levels apply equally to both Pearson and SEM estimates.
+Table 8 
+The correlation matrix for the C-ACAI- C-TCoA pair of inventories.
+C-ACAI- C-TCoA: Correlation Matrix (N = 259)
+Inventory Items C-ACAI C-TCoA
+Contemporary Traditional Improvement Accountability Irrelevance C-ACAI I II III IV V VI VII VIII IX X XI XII
+I. Assessment purpose 3 0.86
+II. Assessment process 2 0.97** 0.86
+(0.94)
+III. Assessment fairness 2 0.88** 0.96** 0.78
+(0.87) (0.94)
+IV. Assessment theory 3 0.85** 0.92** 0.95** 0.86
+(0.80) (0.88) (0.92)
+V. Traditional practice 2 0.45** 0.51** 0.60** 0.74** 0.69
+(0.38) (0.44) (0.51) (0.67)
+C-TCoA
+VI. Student Development 4 0.93** 0.94** 0.91** 0.87** 0.52** 0.90
+(0.88) (0.90) (0.87) (0.82) (0.44)
+VII. Help learning 3 0.93** 0.87** 0.78** 0.73** 0.37** 0.86** 0.87
+(0.89) (0.80) (0.72) (0.66) (0.32) (0.80)
+VIII. Accuracy 2 0.94** 0.92** 0.88** 0.85** 0.55** 0.97** 0.89** 0.78
+(0.93) (0.87) (0.80) (0.80) (0.50) (0.94) (0.83)
+IX. Examination 3 0.64** 0.68** 0.80** 0.82** 0.78** 0.78** 0.56** 0.81** 0.83
+(0.57) (0.61) (0.77) (0.75) (0.67) (0.73) (0.50) (0.77)
+X. Error 2 0.75** 0.84** 0.85** 0.75** 0.38** 0.75** 0.72** 0.69** 0.54** 0.78
+(0.65) (0.76) (0.81) (0.66) (0.30) (0.67) (0.64) (0.62) (0.47)
+XI. Control 3 0.71** 0.77** 0.85** 0.90** 0.83** 0.80** 0.64** 0.83** 0.96** 0.58** 0.84
+(0.65) (0.73) (0.82) (0.84) (0.74) (0.74) (0.59) (0.79) (0.91) (0.49)
+XII. Irrelevance 4 0.00 0.007 0.094 0.21** 0.62** 0.09 -0.12 0.13* 0.44** -0.01 0.35** 0.84 (0.004) (0.000) (0.075) (0.19) (0.54) (0.08) (-0.11) (0.11) (0.39) (-0.01) (0.31)
+Note: Pearson’s r above the SEM correlations in parentheses; Diagonal values in bold = Hancock’s Coefficient H reliability estimates; Asterisks indicate statistical significance (two-tailed): p < .05 (*), p < .01 (**). Significance levels apply equally to both Pearson and SEM estimate.
+while maintaining substantial overlap with the other three factors. Practices  factor  showed  only  moderate  associations  with  the  Contem -
+For  STACQ–C-ACAI, the  MTMM correlation matrix  is presented  in  porary practice dimensions (0.47 ≤ r ≤ 0.64, M = 0.56, SD = 0.06). In 
+Table  7.  Within  the  STACQ, the  five  factors  were  extremely  highly  terms  of  hetero-method  correlations,  all  five  STACQ  factors  were 
+intercorrelated  (0.83 ≤ r ≤ 0.98,  M  = 0.91,  SD  = 0.06),  indicating  strongly correlated with the four C-ACAI Contemporary practice scales limited  discrimination among  the  scales.  Within  the  C-ACAI, the  four  (Assessment  Purpose,  Process,  Fairness,  and  Theory;  0.79 ≤ r ≤ 0.97). Contemporary  practice  dimensions  were  also  strongly  intercorrelated  Among them, the Teaching- and Ability-Oriented factors exhibited the 
+(0.83 ≤ r ≤ 0.97,  M  = 0.90,  SD  = 0.05),  whereas  the  Traditional  strongest  correlations  across  these  factors,  while  the  C-ACAI Theory 
+
+ 
+Y. Wang et al.                                                                                                                                                                                                                                   Studies in Educational Evaluation 89 (2026) 101585 
+factor  showed  uniformly  high  correlation with  all  five  STACQ factors (0.89 ≤ r ≤ 0.97).  By  contrast,  their  correlations  with  the  C-ACAI Traditional Practice  scale  were  consistently  weaker  (0.56 ≤ r ≤ 0.63). 
+These results suggest substantial overlap between all five STACQ factors 
+and  the  C-ACAI  Contemporary  practice  scales,  particularly  with Assessment  Theory,  whereas  the  comparatively  weaker  correlations with Traditional Practices indicate a distinct orientation.
+For C-ACAI–C-TCoA, the  MTMM correlation  matrix is presented  in Table 8. The two inventories showed different intercorrelation patterns. Within C-ACAI, factor correlations ranged from 0.45 to 0.97 (M = 0.78, 
+SD = 0.20), while within C-TCoA, correlations ranged from 0.05 to 0.94 
+(M = 0.62, SD = 0.26), suggesting greater variability across its scales. In terms  of hetero-method correlations, C-ACAI Assessment  Purpose  and 
+Process  were  strongly  related  to  the  Improvement  factors  (0.87 ≤ r ≤ 0.94).  C-ACAI Assessment  Fairness  and  Theory  correlated  moder - ately  to  strongly  with  both  Improvement  and  Accountability  (0.73 ≤ r ≤ 0.90).  C-ACAI  Traditional  Practice  showed  weaker  links  with Improvement  related  factors  and  Error  (0.37 ≤ r ≤ 0.55)  but  strong correlations  with  Examination  and  Control  (0.78 ≤ r ≤ 0.83),  while Irrelevance was largely unrelated to the Contemporary practice factors 
+and  only  moderately correlations with  Traditional  Practice  (r = 0.62). 
+The findings indicate that C-ACAI Purpose and Process were primarily aligned  with  C-TCoA  Improvement,  whereas  Fairness  and  Theory overlapped  with  both  Improvement  and  Accountability.  Moreover, Accountability showed additional convergence with Traditional practice 
+and Irrelevance remained largely distinct.
+4.4. Structural equation modelling (SEM)
+Across all inventory pairs, SEM-based intercorrelations were slightly 
+lower than the corresponding MTMM Pearson correlations (Tables 5–8), 
+indicating  that  SEM  effectively  controlled  for  measurement  error. Despite  these adjustments, all inventories  remained multidimensional, 
+and  the  cross-inventory  correlations  derived  from  SEM were  highly consistent  with  those  observed  in  the  MTMM analysis.  Although  the hierarchical model fit less well than the intercorrelated model, it offered 
+a more parsimonious representation of the inter-relationships between inventories.
+For C-TCoA–TFALS, the hierarchical model provided acceptable (χ² 
+= 1066.15,  df  = 475,  χ²/df  = 2.25,  p = .134;  CFI = 0.91;  γˆ = 0.88; RMSEA = 0.069, 90% CI = 0.064–0.075; SRMR = 0.077). As shown in Fig. 1, C-TCoA Improvement correlated  strongly  with  all  three  TFALS factors  (0.88 ≤ r ≤ 0.92).  C-TCoA Accountability  showed  a  moderate correlation  with  all  three  TFALS dimensions  (0.62 ≤ r ≤ 0.71),  while Irrelevance  was  largely  independent, displaying  only  a  weak  positive link  with  Socio-emotional  (r = 0.18).  Overall,  these  results  highlight 
+
+Fig.  1. SEM  Modelling  of  the  Relationship  Between  Second-Order  C-TCoA  and TFALS. Note.  all  values  standardised correlations:  sub-factors,  manifest  items, and residuals removed for simplicity.
+Improvement  as  the  most  consistent  cross-inventory  dimension,  with Accountability playing a limited role and Irrelevance remaining largely distinct.
+For C-ACAI–C-TCoA, the hierarchical model provided acceptable fit 
+(χ² = 1101.79, df = 476, χ²/df = 2.32, p = .128; CFI = 0.90; γˆ= 0.87; RMSEA = 0.071, 90% CI = 0.066–0.077, SRMR = 0.073). As shown in Fig. 2, C-TCoA Improvement was  strongly  correlated  with  the  C-ACAI Contemporary practice factor (r = 0.95) and showed a weaker correla -
+tion  with  Traditional  practice.  C-TCoA Accountability was  also  linked with both Contemporary and Traditional practice (0.74 ≤ r ≤ 0.85). By 
+contrast, Irrelevance displayed only weak correlation, showing a modest link  with  Traditional  (r = 0.53).  Overall,  these  results  indicate  sub-
+stantial  convergence  between  C-TCoA and  C-ACAI on  Contemporary practice  and  accountability-related  beliefs,  with  Irrelevance  playing only a marginal role.
+While the higher-order SEM models  clarified the overarching asso- ciations among C-TCoA, TFALS, and C-ACAI, the case of STACQ required 
+a different approach. The five STACQ factors displayed extremely strong intercorrelations (many approaching unity, r ≈ 1.00), making it difficult 
+to isolate their unique contributions. To address this, regression-based SEM was  conducted,  with  TFALS and  C-ACAI factors  specified  as pre-
+dictors of STACQ factors.
+Model 1 (five-factor STACQ) demonstrated acceptable (χ² = 795, df 
+= 377, χ²/ df = 2.11, p = 0.146; CFI = 0.94; γˆ= 0.90; RMSEA = 0.07, 90% CI= 0.06–0.07; SRMR = 0.04). As shown in Table 9, distinct pre-
+dictive patterns emerged for the two inventories. For TFALS predictors, Conceptual  significantly  predicted  Examination-Oriented  (β  = 0.55, p = .020)  and  Ability-Oriented  (β  = 0.50,  p = .010),  while  Socio- emotional  predicted  Management-Oriented  (β  = 0.58,  p = .003)  and Subject-Oriented (β = 0.96, p < .001). Practical was non-significant. For C-ACAI predictors,  Purpose  predicted  Teaching-Oriented  (β  = 0.30, p = .005), Fairness predicted Ability-Oriented (β = 0.44, p < .001) and Subject-Oriented (β = 0.39, p = .007). Theory showed the strongest ef-
+fects,  predicting  Management-,  Examination-,  and  Teaching-Oriented factors (0.66 ≤ β ≤ 0.76, all p < .01). Process and Traditional practice 
+were non-significant.
+Model 2 (hierarchical STACQ) demonstrated acceptable fit (χ² = 883, 
+df = 390, χ²/df = 2.26, p = .137; CFI = 0.93; γˆ= 0.89; RMSEA = 0.07, 
+90%  CI  = 0.06–0.07;  SRMR = 0.04).  For  TFALS predictors,  Socio- emotional  predicted  both  Utility-Oriented  (β  = 0.32,  p = .049)  and Development-Oriented (β = 0.59, p < .001), while Conceptual showed a marginal  effect  on  Utility-Oriented  (β = 0.38,  p = .051).  For  C-ACAI predictors,  Theory  predicted  Utility-oriented (β = 0.72,  p < .001)  and Development-Oriented (β = 0.37, p = .046), and Fairness also predicted 
+Development-Oriented  (β  = 0.42,  p < .001).  Purpose,  Process,  and 
+
+Fig.  2. SEM Modelling of the Relationship Between Second-Order C-ACAI and C- TCoA. Note.  all  values  standardised correlations;  sub-factors,  manifest  items, and residuals removed for simplicity.
+
+8 
+Y. Wang et al.                                                                                                                                                                                                                                   Studies in Educational Evaluation 89 (2026) 101585 Table 9 
+Standardized regression coefficients comparing TFALS predictors across STACQ first-order and hierarchical factors.
+TFALS predictors C-ACAI predictors
+STACQ Factors Conceptual (β,  Practical (β,  Socio-emotional (β,  Purpose (β, p) Process (β, p) Fairness (β, p) Theory (β, p) Traditional (β, 
+p) p) p) p)
+
+9 
+Y. Wang et al.                                                                                                                                                                                                                                   Studies in Educational Evaluation 89 (2026) 101585 Table  
+Model 1: First order Management- 
+Oriented Examination- 
+Oriented Teaching-Oriented Ability-Oriented Subject-Oriented Model 2: Second order Utility-oriented
+Development- Oriented
+0.19,.395 0.06,.852 0.55*,.020 0.15,.648
+0.35,.076 0.31,.264 0.50*,.010 0.23,.335
+  0.02,.910   0.04,.882
+0.38,.051 0.16,.543 0.25,.141 0.09,.698
+0.58**,.003 0.05,.664 0.11,.569 0.03,.778
+0.17,.293 00.30*,.005 0.19,.207 0.14,.113 0.96***, < .001 0.10,.387
+0.32*,.049 0.13,.153 0.59***, < .001 0.13,.144
+  0.14,.384 0.19,.195 0.19,.191 0.05,.739
+0.01,.923 -  0.03,.820 0.09,.439 0.44***, < .001
+  0.09,.532 0.39**,.007
+0.02,.904 0.06,.576 0.04,.762 00.42***, 
+< .001
+0.76**,.005 0.08,.271 0.66**,.007 0.05,.480
+0.68**,.003 0.03,.667 0.30,.102 0.07,.179 0.45,.063 0.07,.332
+0.72***,  0.05,.348
+< .001
+0.37*,.046 0.07,.188
+
+ 
+Y. Wang et al.                                                                                                                                                                                                                                   Studies in Educational Evaluation 89 (2026) 101585 Table 10 
+Note. All coefficients are standardized (β). Significance: p < .05*, p < .01**, p < .001***.
+Traditional practice were non-significant. TCoA retained  coherent  domains of improvement, accountability, and 
+irrelevance.  The  stability  of  these  domains  suggests  that  assessment 
+5. Discussion purposes form relatively robust cognitive frameworks in teachers’ belief systems, especially in education systems long dominated by high-stakes 
+This study offers a cross-inventory examination of teachers’ assess- testing (Brown et al., 2011; Brown, 2004). For the C-ACAI, the findings ment  conceptions in  the  Chinese  context  and  provides  empirical  evi- suggest that teachers distinguish assessment approaches through broad, dence relevant to Research Questions 1 and 2. The findings clarify the  integrated  belief–practice  orientations  reflecting  contemporary  and comparability of the  measurement structures of the  C-TCoA, C-ACAI,  traditional perspectives. By contrast, the findings for TFALS and STACQ STACQ, and  TFALS (RQ1).  They  also  show  that  conceptually  similar  suggest limited differentiation among assessment-related beliefs. In the constructs  across  these  inventories  exhibit  structural  convergence  Chinese  context,  assessment  theory,  intentions,  conceptions  and (RQ2), suggesting the presence of potential jingle–jangle fallacies. assessment practices tend to be closely intertwined in teachers’ thinking, 
+rather  than  operating  as  clearly  separable  belief  components  (Xu  & Brown,  2016).  Consequently,  the  multidimensional  distinctions  pro-
+5.1. Model replication and differentiation across inventories
+posed in these inventories may overestimate the degree of differentia -
+tion in teachers’ assessment conceptions.
+Across the four inventories, acceptable replication was achieved only 
+after  model  modification,  suggesting  limited  construct  differentiation 
+despite  conceptually  meaningful  core  structures. In  particular, the  C- 
+
+Fig. 3. Construct Overlap Map of Four Assessment Conceptions Inventories, Note. This figure summarises construct overlap across four teachers’ assessment con- ceptions inventories based on MTMM correlations (r) and SEM standardized regression coefficients (β). Concentric circles indicate overlap strength: strong (r ≥ .90; β ≥.85),  high  (r = .85–.89;  β =.80–.85),  and  moderate  (r = .75–.85;  β =.70–.80).  Improvement-related constructs  show  consistently  strong  convergence,  whereas 
+Irrelevance remains largely independent.
+
+10 
+Y. Wang et al.                                                                                                                                                                                                                                   Studies in Educational Evaluation 89 (2026) 101585 
+5.2. Convergent overlap in improvement and accountability
+As illustrated in Fig. 3, cross-inventory patterns of construct overlap 
+are organised around three recurrent domains: improvement, account - ability,  and  irrelevance.  This  figure  provides  a  clear  structure  for interpreting  how  these  constructs  converge  and  where  they  diverge across.  The  observed  overlap  within  the  improvement-  and accountability-related  domains  aligns  well  prior  theoretical  accounts emphasising  assessment  purposes  related  to  teaching,  learning  and accountability (Barnes et al., 2015; Brown, 2008).
+The  improvement-related  domain  exhibits  a  dense  and  extensive overlap  across  inventories,  illustrating  a  classic  jingle  fallacy  where diverse  terminology  masks  a singular  underlying  purpose.  This  termi - nological diversity should not be interpreted as reflecting different types 
+of  teachers’  thinking  about  assessment.  The  latter  masks  the  unified conceptual  core  that  integrates  multiple  improvement-oriented  em- phases.  Some  of  improvement-related  constructs  align  with  interna - tional  evidence  indicating  that  “supporting  teaching  and  learning” constitutes a unifying purpose of assessment (Barnes et al., 2015; Black 
+and Wiliam, 1998; Tan, 2011). At the same time, however, other con- structs  reveal  a  significant  conceptual  expansion.  For  example,  con- structs such as C-TCoA Student Development, STACQ Subject-Oriented 
+and TFALS Socio-emotional, although labelled differently, cluster within the  same  structural  domain.  This  indicates  conceptual  convergence rather than divergence. Such convergence suggests that, in the Chinese context, the conception of assessment for improvement is often under -
+stood to extend beyond narrow instructional functions, incorporating a holistic  developmental  orientation  (e.g.,  affective,  emotional,  and motivational dimensions) (Brown et al., 2011; Brown & Gao, 2015). In contrast,  in  Western  assessment  literature,  much  work  regarding assessment  for  improvement  has  tended  to  view  assessment  as  a formative  or  diagnostic  process  centred  on  instructional decision-making  and  learning  outcomes  (Heritage,  2010;  Remesal, 2011;  Shepard,  2019).  As  a  result,  these  broader  orientations  have received  limited  theoretical  attention  in  global  assessment  literacy literature (Xu and Brown, 2016; Yan and Pastore, 2022).
+In  China,  the  strong  convergence  of  improvement-oriented  con- structs is unsurprising. It can be traced to long-standing policy reforms since the 2001 curriculum reform that explicitly promoted ping cu xue (评促学,  “evaluation  to  promote  learning”),  as  well  as to  cultural  tra- ditions  and  teacher  professional  cultures  emphasizing  instructional improvement (Ministry of Education of the People’s Republic of China, 2001;  Li &  Wegerif,  2014;  Liu  &  Xiu,  2019).  Consistent  with  these contextual  influences,  empirical  studies  show  that  teachers  generally endorse ping cu xue as a mechanism for feedback, diagnostic insight, and targeted support (Maggie & Bui, 2021; Wu, 2017; Yan et al., 2022; Zhao 
+et  al.,  2018).  The  strong  cross-inventory  alignment  among improvement-oriented constructs thus indicates that different tools are tapping into a highly similar latent domain. Importantly, this conception persists even under high-stakes examination pressures, as many Chinese teachers  interpret  examinations  not  merely  as  evaluative  devices  but also  as  instruments  for  promoting  learning  (Brown  et  al.,  2011;  Gan et  al.,  2018;  Gebril  and  Brown,  2014).  This  helps  explain  why improvement emerges as the most stable and widely endorsed concep - tion across inventories, even in contexts where accountability pressures remain strong.
+By contrast,  accountability-related  constructs  showed  weaker  and more  fragmented convergence  across  inventories. This  pattern  can  be interpreted as reflecting the ways in which accountability is recurrently 
+but  unevenly  conceptualised  within  teachers’  assessment  beliefs.  In some  constructs,  accountability  is  primarily  understood  as  a  form  of external  regulation  and  control  enacted  through  examination-based practices.  The  substantial  overlap  between  C-TCoA  Control  and STACQ Examination/Management-Oriented illustrates  a jingle pattern, where  assessment  is understood as  an  external  accountability mecha - nism.  This  interpretation  aligns  with  research  on  high-stakes  testing 
+systems, where examination results are used to judge school and teacher performance and  to  select  students  (Brown  et  al.,  2011; Cheng,  2008; Carless,  2011).  However,  compared  with  studies  reported  in  other high-stakes contexts such as the United States and Egypt (e.g., Au, 2007; Gebril & Brown, 2014), accountability in the Chinese context appears to 
+be shaped by a strong managerial logic, in which high-stakes examina -
+tions function as tools for regulating pedagogical conduct and student behaviour, thereby maintaining institutional order.
+However, accountability is not uniformly conceptualised as external regulation. In other constructs, accountability is conceptualised as a set of  procedurals  and  routinised  practices  embedded  within  everyday testing activities. Constructs such as C-TCoA Examination/Error and C- ACAI Traditional practice exemplify a jangle pattern, where identically labelled examination constructs convey different functional emphases. Here,  examination  practices  are  understood  as  routine  mechanisms concerned  with  procedural  accuracy,  error  detection,  and  result  reli- ability  (Brown,  2004;  Harris  and  Brown,  2009). This  interpretation is consistent  with  China’s  high-stakes  testing  culture  and  resonates  with international  evidence  showing  that  large-scale  examinations  often embed  accountability  functions  within  routine  classroom  assessment practices (Cheng and Hamid,  2025;  Jin, 2022;  Stobart, 2008). In such contexts, teachers’ concerns about the accuracy and trustworthiness of examination  results  become  incorporated  into  their  understanding  of accountability.
+Notably, the Theory and Fairness constructs in the C-ACAI appear to 
+blur  the  conceptual  boundary  between  improvement-  and accountability-oriented  assessment  beliefs.  In  particular,  the  Theory functions  as  a  key  bridge  between  these  two  orientations. This  inter - pretation is further supported by the SEM findings, which indicate that Theory  significantly  predicts  examination-  and  management-oriented beliefs  within  accountability. This  suggests  that  teachers  view  assess- ment theory not only as instructional support, but also as an institutional responsibility  through  which  examination  and  management-related accountability  is  understood  and  legitimised  (Yan  &  Cheng,  2015). Fairness, in turn, may represent teachers’ dual interpretation of assess-
+ment as promoting equal learning opportunities while ensuring exami - nation  justice.  Alternatively,  this  pattern  may  indicate  overlapping operationalisations  of  fairness  across  inventories.  Whether  reflecting genuine teacher beliefs or instrument-level redundancy, this dual posi- tioning  highlights  blurred  construct  boundaries  in  assessment  concep - tions  research.  This  interpretation  is  consistent  with  international findings on the dual pedagogical and accountability functions of fairness (McMillan, 2012; Rasooli et al., 2018).
+5.3. Irrelevance as an independent construct
+Irrelevance appears to function as an independent construct within teachers’  assessment  conceptions. This  suggests  that  teachers  did  not simply  treat  irrelevance  as  the  inverse  of  formative  or  contemporary learning-oriented  assessment  beliefs  but  recognized  it  as  a  separate negative construct. In practice, teachers may acknowledge the positive purposes  of assessment,  while  rejecting  traditional practices  that  they perceive  as  misaligned  with  these  purposes.  Consistent  with  prior research,  irrelevance  has  been  shown  to  represent  a  distinct  and measurable dimension of teachers’ assessment conceptions (Brown and Michaelides,  2011;  Brown  et  al.,  2019;  Brown,  2004).  This  further highlight the multidimensional nature of teachers’ beliefs, showing that positive  and  negative  orientations  can  coexist  within  the  same  belief system (Bonner, 2016; Brown and Gao, 2015).
+5.4. Implications
+These  findings  have  clear  implications  regarding  ways  in  which teachers’ assessment conceptions inventories are used and understood in high-stakes contexts such as China. Most notably, the findings challenge 
+the  assumption  that  structural  complexity  in  teachers’  assessment 
+conceptions  inventories  reflects  clearly  differentiated  belief  systems. Instead, evidence from the Chinese context suggests that assessment for teaching and student improvement is often understood as an integrated orientation,  combining  academic  achievement,  learning  motivation, and  students’  emotional  experience  to  support  overall  development (Brown et al., 2011; Brown & Gao, 2015). Researchers developing and 
+using  assessment  inventories  should  distinguish  between  teachers’ overall improvement-oriented assessment orientation and their specific functional aspects, rather than treating single aspects as representative of the assessment belief orientation as a whole. Without sufficient con- ceptual justification, treating structurally separable factors as theoreti - cally  independent  may  reinforce  jingle  fallacies  and  obscure  the integrated nature  of teachers’ assessment  conceptions (Cronbach  and Meehl,  1955;  Marsh  et  al.,  2014).  This  understanding  of improvement-oriented  assessment  extends  beyond  measurement  and has  implications  for  professional  learning  and  policy.  Professional development programs should support teachers in integrating attention to  student  well-being  into  assessment  for  learning  (McGuire,  2025). Similarly, policy designs should avoid reducing improvement-oriented assessment  to  academic  progress  alone  and  instead  reflect  its  broader developmental purpose.
+The  findings  also  have  implications  regarding  ways  in  which accountability-related constructs are conceptualised and used. In high- stakes  contexts,  accountability  may  encompass  external  policy  pres- sures, embedded in classroom assessment practice, and teachers’ beliefs about  responsibility  (Au,  2007;  Toth ´ &  Csapo, ´ 2022).  Our  findings suggest  that  failing  to  distinguish  these  layers  may  conflate  policy pressures  with  teachers’  own  beliefs.  This  makes  it  unclear  whether observed  responses  reflect  external  demands  or  personal  views.  Re- searchers involved in inventory development or data interpretation need to  specify  which  aspect  of  accountability  their  construct  addresses, rather than assuming multiple accountability dimensions as equivalent. Researchers  working  on  these  inventories  should  avoid  using  a single term  (e.g.,  “examinations”) to  cover  several  different  assessment  pur- poses, as this may lead to jangle fallacies. In practice, inventory items related  to  accountability  should  reflect  local  classroom  assessment practices,  cultural  expectations,  and  policy  imperatives  to  ensure  re- searchers gain a clear picture of teachers’ beliefs.
+More  broadly,  the  limited  differentiation  observed  in  some  in- ventories suggests that assessment beliefs and assessment practices are often  tightly  intertwined in teachers’ mindset  (Buehl  and  Beck, 2015; Fives and Buehl, 2012; Pajares, 1992). Future research should therefore specify  the  analytical  focus  more  precisely.  This  includes  clarifying whether attention is directed toward teachers’ overall assessment belief orientations or toward their practical understandings and application of specific  assessment  practices.  Constructs  should  be  defined  within  a coherent  theoretical hierarchy.  Such  conceptual clarity  is essential  for strengthening  construct  validity,  improving  cross-inventory  compara - bility,  and  supporting  cumulative  theory  building  in  research  on teachers’ conceptions of assessment.
+5.5. Limitations
+There  are  several  limitations  that  need  to  be  considered.  First,  the study was conducted with Chinese primary and secondary teachers, and the findings may not be fully generalizable to teachers at other educa - tional  levels  or  to  different  cultural  and  policy  contexts.  Second,  the analyses focused only on four inventories (C-TCoA, C-ACAI, TFALS, and STACQ), while  other  instruments of teachers’ assessment  conceptions were  not  included,  which  may  limit  the  comprehensiveness  of  cross- inventory  comparisons.  Third,  data  were  collected  primarily  through online  platforms  and  researcher  networks,  which  may  limit  the 
+representativeness  of  the  sample.  Future  research  should  therefore include teachers from different educational levels and cultural contexts to examine whether the patterns of overlap and distinctiveness identi - fied here are consistent across settings.
+6. Conclusion
+This study examined four major assessment conceptions inventories in the Chinese context and found that the structural validity of each tool could only be partially confirmed, with substantial conceptual overlap across  inventories.  Improvement  and  accountability  consistently emerged  as  the  most  stable  and  widely  shared  dimensions,  whereas irrelevance remained relatively independent. Other dimensions such as TFALS  socio-emotional  and  STACQ  subject-oriented  factors  were strongly  related  to  improvement,  indicating  that  they  may  represent context-specific  expressions  of this core  construct  rather  than  fully  in- dependent orientations. Because the inventories capture broadly similar orientations, they highlight a persistent jingle fallacy, as different labels frequently refer to similar constructs, while evidence for jangle fallacies remains  limited.  Current  inventories  converge  on  improvement  and accountability as core  anchors.  Further  research  is needed  to  create  a coherent,  yet  simple  operationalisation  of  teachers’  assessment conceptions.
+CRediT authorship contribution statement
+Brown  Gavin  T.  L.:  Writing  –  review  &  editing,  Supervision, Conceptualization,  Methodology.  Ying  Wang:  Writing  –  review  & editing,  Writing  – original  draft,  Visualization,  Methodology,  Investi - gation,  Formal  analysis,  Data  curation,  Conceptualization.  Eleanor Hawe:  Writing  –  review  &  editing,  Supervision,  Conceptualization, Methodology.
+Ethical statement
+Ethical approval was granted by the University of Auckland Human Participants Ethics Committee (Approval Number: UAHPEC27526), and all procedures were conducted in accordance with the relevant ethical standards. All participants provided informed consent, and all data were anonymised prior to analysis.
+Declaration of Generative AI and AI-assisted technologies in the writing process
+During  the  preparation  of  this  work,  the  authors  used  OpenAI's ChatGPT  (version  GPT-4)  to  improve  the  clarity,  coherence,  and  lan- guage of the manuscript. After using this tool, the authors reviewed and 
+edited the content as needed and take full responsibility for the content of the published article.
+Funding
+This  research  did  not  receive  any  specific  grant  from  funding agencies in the public, commercial, or not-for-profit sectors.
+Appendix A
+C-TCoA Models (Figs. 4–6)
+
+12 
+Y. Wang et al.                                                                                                                                                                                                                                   Studies in Educational Evaluation 89 (2026) 101585 
+
+Fig. 4. C-TCoA’s Initial Model: First-order inter-correlated model
+
+Fig. 5. C-TCoA’s Modified Model: First- order inter-correlated model
+
+Fig. 6. C-TCoA’s Modified Model: Second-order factor model
+TFALS Models (Figs. 7–8)
+
+Fig. 7. TFALS’ Initial Model
+
+Fig. 8. TFALS’ Modified Model
+STACQ Models (Figs. 9–13)
+
+Fig. 9. STACQ’s Initial Model
+
+Fig. 10. STACQ’s Modification Model
+
+Fig. 11. STACQ: Model 1 – Unidimensional Structure
+
+Fig. 12. STACQ: Model 2 – Bifactor Structure (Non-Converged)
+
+Fig. 13. STACQ: Model 2 – Bifactor Structure (Non-Converged)
+C-ACAI Models (Figs. 14–16)
+
+Fig. 14. C-ACAI Initial Model: Five-factor intercorrelated model
+
+Fig. 15. C-ACAI’s Modified Model: First order intercorrelated model
+
+Fig. 16. C-ACAI’s Modified Model: Second-order factor model
+
+19 
+Y. Wang et al.                                                                                                                                                                                                                                   Studies in Educational Evaluation 89 (2026) 101585 
+Appendix B. Supporting information
+Supplementary data associated with this article can be found in the online version at doi:10.1016/j.stueduc.2026.101585.
+Data Availability
+The data that support the findings of this study are available from the corresponding author upon reasonable request.
+References
+Abderrahim, M., & Tibor, V. (2021). Moroccan EFL public high school teachers’ 
+perceptions and self-reported practices of assessment. Journal of Language and Education, 7(3), 119–135. https://doi.org/10.17323/jle.2021.11932
+Akaike, H. (1973). Maximum likelihood identification of Gaussian autoregressive 
+moving average models. Biometrika, 60(2), 255–265. https://doi.org/10.1093/ biomet/60.2.255
+Alonzo, D., Labad, V., Bejano, J., & Guerra, F. (2021). The policy-driven dimensions of 
+teacher beliefs about assessment. The Australian Journal of Teacher Education, 46(3), 35–52. https://doi.org/10.14221/ajte.2021v46n3.3
+Anvari, F., Alsalti, T., Oehler, L., Hussey, I., Elson, M., & Arslan, R. C. (2024). 
+A fragmented field: Construct and measure proliferation in psychology. PsyArXiv. 〈https://osf.io/preprints/psyarxiv/b4muj〉.
+Au, W. (2007). High-Stakes Testing and Curricular Control: A Qualitative Metasynthesis. 
+Educational Researcher, 36(5), 258–267. https://doi.org/10.3102/ 
+0013189X07306523
+Bandalos, D. L., & Finney, S. J. (2018). Factor analysis. The Reviewer’s Guide to 
+Quantitative Methods in the Social Sciences (pp. 98–122). Routledge. https://doi.org/ 10.4324/9781315755649-8
+Barnes, N., Fives, H., & Dacey, C. M. (2015). Teachers’ Beliefs about Assessment. In 
+M. G. Gill, & H. Fives (Eds.), International Handbook of Research on Teachers’ Beliefs (1st ed., pp. 284–300). Routledge. https://doi.org/10.4324/9780203108437-20. 
+Barnes, N., Fives, H., & Dacey, C. M. (2017). U.S. teachers’ conceptions of the purposes of 
+assessment. Teaching and Teacher Education, 65, 107–116. https://doi.org/10.1016/ j.tate.2017.02.017
+Black, P., & Wiliam, D. (1998). Assessment and classroom learning. Assessment in 
+Education: Principles, Policy & Practice, 5(1), 7–74. https://doi.org/10.1080/ 0969595980050102
+Bonner, S. M. (2016). Teachers’ perceptions about assessment: Competing narratives. In 
+G. T. L. Brown, & L. R. Harris (Eds.), Handbook of human and social conditions in assessment (pp. 21–39). Routledge. https://doi.org/10.4324/9781315749136. 
+Brown, G. T. L. (2004). Teachers’ conceptions of assessment: Implications for policy and 
+professional development. Assessment in Education: Principles, Policy & Practice, 11 (3), 301–318. https://doi.org/10.1080/0969594042000304609
+Brown, G.T. (2008). Conceptions of assessment: Understanding what assessment means 
+to teachers and students. (No Title).
+Brown, G. T. L., & Gao, L. (2015). Chinese teachers’ conceptions of assessment for and of 
+learning: Six competing and complementary purposes. Cogent Education, 2(1), Article 993836. https://doi.org/10.1080/2331186X.2014.993836
+Brown, G. T. L., & Michaelides, M. P. (2011). Ecological rationality in teachers’ 
+conceptions of assessment across samples from Cyprus and New Zealand. European Journal of Psychology of Education, 26(3), 319–337. https://doi.org/10.1007/ s10212-010-0052-3
+
+ 
+Y. Wang et al.                                                                                                                                                                                                                                   Studies in Educational Evaluation 89 (2026) 101585 
+Brown, G. T. L., & Remesal, A. (2012). Prospective teachers’ conceptions of assessment: A 
+cross-cultural comparison. The Spanish Journal of Psychology, 15(1), 75. https://doi. org/10.5209/revSJOP.2012.v15.n1.37286
+Brown, G. T. L., & Remesal, A. (2017). Teachers’ conceptions of assessment: Comparing 
+two inventories with Ecuadorian teachers. Studies in Educational Evaluation, 55, 68–74. https://doi.org/10.1016/j.stueduc.2017.07.003
+Brown, G. T. L., Andersson, C., Winberg, M., Palmberg, B., & Palm, T. (2024). Swedish 
+teacher conceptions of assessment: a focus on improving outcomes. Education Inquiry, 1–21. https://doi.org/10.1080/20004508.2024.2375111
+Brown, G. T. L., Gebril, A., & Michaelides, M. P. (2019). Teachers’ conceptions of 
+assessment: A global phenomenon or a global localism. Frontiers in Education (Lausanne), 4, 16. https://doi.org/10.3389/feduc.2019.00016
+Brown, G. T. L., Hui, S. K. F., Yu, F. W. M., & Kennedy, K. J. (2011). Teachers’ 
+conceptions of assessment in Chinese contexts: A tripartite model of accountability, improvement, and irrelevance. International Journal of Educational Research, 50(5), 307–320. https://doi.org/10.1016/j.ijer.2011.10.003
+Buehl, M. M., & Beck, J. S. (2015). The relationship between teachers’ beliefs and 
+teachers’ practices. In H. Fives, & M. G. Gill (Eds.), International Handbook of Research on Teachers’ Beliefs (1st ed., pp. 66–84). Routledge. https://doi.org/ 10.4324/9780203108437-6. 
+Burnham, K. P., & Anderson, D. R. (2004). Multimodel inference. Sociological Methods & 
+Research, 33(2), 261–304. https://doi.org/10.1177/0049124104268644
+Campbell, D. T., & Fiske, D. W. (1959). Convergent and discriminant validation by the 
+multitrait-multimethod matrix. Psychological Bulletin, 56(2), 81–105. https://doi. org/10.1037/h0046016
+Carless, D. (2011). From testing to productive student learning: Implementing formative 
+assessment in confucian-heritage settings (1st edition.,, 52. Routledge. https://doi.org/ 10.4324/9780203128213
+Cheng, L. (2008). The key to success: English language testing in China. Language Testing, 
+25(1), 15–37. https://doi.org/10.1177/0265532207083743
+Cheng, Y., & Hamid, M. O. (2025). Social impact of Gaokao in China: A critical review of 
+research. Language Testing in Asia, 15(1), 22. https://doi.org/10.1186/s40468-025- 00355-y
+Coombs, A., Rickey, N., DeLuca, C., & Liu, S. (2022). Chinese teachers’ approaches to 
+classroom assessment. Educational Research for Policy and Practice, 21(1), 1–18. https://doi.org/10.1007/s10671-020-09289-z
+Cronbach, L. J., & Meehl, P. E. (1955). Construct validity in psychological tests. Psychological Bulletin, 52(4), 281–302. https://doi.org/10.1037/h0040957
+DeLuca, C., LaPointe-McEwan, D., & Luhanga, U. (2016). Approaches to classroom 
+assessment inventory: A new instrument to support teacher assessment literacy. Educational Assessment, 21(4), 248–266. https://doi.org/10.1080/ 10627197.2016.1236677
+DeLuca, C., Rickey, N., & Coombs, A. (2021). Exploring assessment across cultures: 
+Teachers’ approaches to assessment in the U.S., China, and Canada. Cogent Education, 8(1), Article 1921903. https://doi.org/10.1080/ 2331186X.2021.1921903
+Deneen, C. C., & Brown, G. T. L. (2016). The impact of conceptions of assessment on 
+assessment literacy in a teacher education program. Cogent Education, 3(1). https:// doi.org/10.1080/2331186X.2016.1225380
+DiStefano, C., Zhu, M., & Mindrila, D. (2009). Understanding and using factor scores: 
+Considerations for the applied researcher. Practical assessment, research. and evaluation, 14(1). https://doi.org/10.7275/da8t-4g52
+Finney, S. J., & DiStefano, C. (2006). Non-normal and categorical data in structural 
+equation modeling. In G. R. Hancock, & R. D. Mueller (Eds.), Structural equation modeling: A second course (pp. 269–314). Information Age Publishing. 
+Fives, H., & Buehl, M. M. (2012). Spring cleaning for the “messy” construct of teachers’ 
+beliefs: What are they? Which have been examined? What can they tell us? In S. Graham, T. Urdan, J. M. Royer, M. Zeidner, K. R. Harris, & S. Graham (Eds.), APA educational psychology handbook, Vol 2: Individual differences and cultural and contextual factors (pp. 471–499). American Psychological Association. https://doi. org/10.1037/13274-019. 
+Fulmer, G. W., Lee, I. C. H., & Tan, K. H. K. (2015). Multi-level model of contextual 
+factors and teachers’ assessment practices: An integrative review of research. Assessment in Education: Principles, Policy and Practice, 22(4), 475–494. https://doi. org/10.1080/0969594X.2015.1017445
+Gan, Z., Ieong, S. S. L., Su, Y., & He, J. (2018). Understanding Chinese EFL teachers’ 
+conceptions and practices of assessment: Implications for teacher assessment literacy development. Australian Review of Applied Linguistics, 41(1), 4–27. https://doi.org/ 10.1075/aral.17077.gan
+Gebril, A., & Brown, G. T. L. (2014). The effect of high-stakes examination systems on 
+teacher beliefs: Egyptian teachers’ conceptions of assessment. Assessment in Education: Principles, Policy & Practice, 21(1), 16–33. https://doi.org/10.1080/ 0969594X.2013.831030
+Harris, L. R., & Brown, G. T. L. (2009). The complexity of teachers’ conceptions of 
+assessment: tensions between the needs of schools and students. Assessment in Education: Principles, Policy & Practice, 16(3), 365–381. https://doi.org/10.1080/ 09695940903319745
+Heritage, M. (2010). Formative assessment: Making it happen in the classroom. Corwin. Hu, L., & Bentler, P. M. (1999). Cutoff criteria for fit indexes in covariance structure 
+analysis: Conventional criteria versus new alternatives. Structural Equation Modelling: A Multidisciplinary Journal, 6(1), 1–55. https://doi.org/10.1080/ 
+10705519909540118
+Jin, Y. (2022). Consequential research of accountability testing: The case of the CET. 
+Language Testing in Asia, 12(1). https://doi.org/10.1186/s40468-022-00165-6
+Kelley, T. L. (1927). Interpretation of educational measurements. World Book Company. 
+〈http://hdl.handle.net/2027/mdp.39015001994071〉. 
+Kline, T. (2005). Psychological testing: A practical approach to design and evaluation. 
+https://doi.org/10.4135/9781483385693.
+Kline, R. B. (2005). Principles and practice of structural equation modeling (2nd ed.). 
+Guilford Press http://www.loc.gov/catdir/bios/guilford051/2004019784.html. 
+Lam, R. (2019). Teacher assessment literacy: Surveying knowledge, conceptions and 
+practices of classroom-based writing assessment in Hong Kong. System, 81(C), 
+78–89. https://doi.org/10.1016/j.system.2019.01.006
+Levy-Vered, A. (2024). Developing a five-dimensional construct of pre-service teachers’ 
+conceptions of assessment. International Journal of Instruction, 17(1), 715–732. https://doi.org/10.29333/iji.2024.17137a
+Li, L., & Wegerif, R. (2014). What does it mean to teach thinking in China? Challenging 
+and developing notions of ‘Confucian education. Thinking Skills and Creativity, 11, 22–32. https://doi.org/10.1016/j.tsc.2013.09.003
+Liu, P., & Xiu, Q. (2019). Teacher professional collaboration in China: Practices and 
+issues. Beijing International Review of Education, 1(1), 162–178. https://doi.org/ 10.1163/25902547-00101012
+Maggie, M., & Bui, G. (2021). Chinese secondary school teachers’ conceptions of L2 
+assessment: A mixed-methods study. Studies in Second Language Learning and Teaching, 11(3), 445–472. https://doi.org/10.14746/ssllt.2021.11.3.7
+Mardia, K. V. (1970). Measures of multivariate skewness and kurtosis with applications. 
+Biometrika, 57(3), 519–530. https://doi.org/10.1093/biomet/57.3.519
+Marsh, H. W., Guo, J., Lüdtke, O., & Pekrun, R. (2025). Throwing out the bathwater but 
+keeping the baby: Extending Campbell-Fiske’s multitrait-multimethod framework. Journal of Personality and Social Psychology. https://doi.org/10.31234/osf.io/b6ekj_ 
+v1
+Marsh, H. W., Morin, A. J. S., Parker, P. D., & Kaur, G. (2014). Exploratory structural 
+equation modeling: An integration of the best features of exploratory and confirmatory factor analysis. Annual Review of Clinical Psychology, 10(1), 85–110. https://doi.org/10.1146/annurev-clinpsy-032813-153700
+McGuire, M. (2025). Feedback, reflection and psychological safety: rethinking 
+assessment for student well-being in higher education. Assessment and Evaluation in 
+Higher Education, 1–25. https://doi.org/10.1080/02602938.2025.2548590 McMillan, J. H. (2012). Why we need research on classroom assessment. In 
+J. H. McMillan (Ed.), SAGE Handbook of Research on Classroom Assessment (pp. 2–16). SAGE Publications. https://doi.org/10.4135/9781452218649.n1. 
+Mei, B., & Brown, G. T. L. (2018). Conducting online surveys in China. Social Science 
+Computer Review, 36(6), 721–734. https://doi.org/10.1177/0894439317729340
+Ministry of Education of the People’s Republic of China. (2001, June 8). The curriculum 
+reform outline for basic education (trial) [基础教育课程改革纲要 （试行 ）]. Beijing, 
+China: Author. 〈https://www.moe.gov.cn/srcsite/A26/jcj_kcjcgh/200106/t20010 
+608_167343.html〉.
+Nasr, M., Bagheri, M. S., Sadighi, F., & Rassaei, E. (2018). Iranian EFL teachers’ 
+perceptions of assessment for learning regarding monitoring and scaffolding practices as a function of their demographics. Cogent Education, 5(1), 1558916–1558929. https://doi.org/10.1080/2331186X.2018.1558916
+Newton, P. E. (2007). Clarifying the purposes of educational assessment. Assessment in 
+Education: Principles, Policy & Practice, 14(2), 149–170. https://doi.org/10.1080/ 09695940701478321
+Osborne, J. W., & Overbay, A. (2004). The power of outliers (and why researchers should 
+always check for them). Practical Assessment, Research & Evaluation, 9(6), 1–12. https://doi.org/10.7275/qf69-7k43
+Pajares, M. F. (1992). Teachers’ beliefs and educational research: Cleaning up a messy 
+construct. Review of Educational Research, 62(3), 307–332. https://doi.org/10.3102/ 00346543062003307
+Rasooli, A., Zandi, H., & DeLuca, C. (2018). Re-conceptualizing classroom assessment 
+fairness: A systematic meta-ethnography of assessment literature and beyond. Studies in Educational Evaluation, 56, 164–181. https://doi.org/10.1016/j. 
+stueduc.2017.12.008
+Remesal, A. (2007). Educational reform and primary and secondary teachers’ 
+conceptions of assessment: the Spanish instance, building upon Black and Wiliam (2005). Curriculum Journal (London, England), 18(1), 27–38. https://doi.org/ 10.1080/09585170701292133
+Remesal, A. (2011). Primary and secondary teachers’ conceptions of assessment: A 
+qualitative study. Teaching and Teacher Education, 27(2), 472–482. https://doi.org/ 10.1016/j.tate.2010.09.017
+Remesal, A., & Brown, G. T. L. (2015). Conceptions of assessment when the teaching 
+context and learner population matter: Compulsory school versus non-compulsory adult education contexts. European Journal of Psychology of Education, 30(3), 331–347. https://doi.org/10.1007/s10212-014-0236-3
+Sach, E. (2012). Teachers and testing: An investigation into teachers’ perceptions of 
+formative assessment. Educational Studies, 38(3), 261–276. https://doi.org/10.1080/ 03055698.2011.598684
+Schreiber, J. B., Nora, A., Stage, F. K., Barlow, E. A., & King, J. (2006). Reporting 
+Structural Equation Modeling and Confirmatory Factor Analysis Results: A Review. The Journal of Educational Research (Washington, D.C.), 99(6), 323–338. https://doi. org/10.3200/JOER.99.6.323-338
+S¸entürk, C., & Bas¸, G. (2023). Classroom assessment beliefs of teachers: Scale validity and 
+reliability study. Educational Research for Policy and Practice, 22(2), 301–323. https://doi.org/10.1007/s10671-023-09339-2
+Shepard, L. A. (2019). Classroom assessment to support teaching and learning. The 
+Annals of the American Academy of Political and Social Science, 683(1), 183–200. https://doi.org/10.1177/0002716219843818
+Stobart, G. (2008). Testing Times: The Uses and Abuses of Assessment (1st ed.). Routledge. 
+https://doi.org/10.4324/9780203930502
+
+20 
+Y. Wang et al.                                                                                                                                                                                                                                   Studies in Educational Evaluation 89 (2026) 101585 
+Tan, K. (2011). Assessment for learning in Singapore: Unpacking its meanings and 
+identifying some areas for improvement. Educational Research for Policy and Practice, 10(2), 91–103. https://doi.org/10.1007/s10671-010-9096-z
+Taylor, R. (1990). Interpretation of the correlation coefficient: A basic review. Journal of 
+Diagnostic Medical Sonography, 6(1), 35–39. https://doi.org/10.1177/ 875647939000600106
+Thurstone, L. L. (1978). The vectors of mind. In E. R. Hilgard (Ed.), American psychology 
+in historical perspective (pp. 285–308). American Psychological Association. https:// doi.org/10.1037/10049-016. 
+Toth, ´ E., & Csapo, ´ B. (2022). Teachers’ beliefs about assessment and accountability. 
+Educational Assessment, Evaluation and Accountability, 34(4), 459–481. https://doi. org/10.1007/s11092-022-09396-w
+Veugen, M. J., Gulikers, J. T. M., & den Brok, P. (2021). We agree on what we see: 
+Teacher and student perceptions of formative assessment practice (Article) Studies in Educational Evaluation, 70, Article 101027. https://doi.org/10.1016/j. stueduc.2021.101027.
+Whetten, D. A. (1989). What constitutes a theoretical contribution? The Academy of 
+Management Review, 14(4), 490–495. https://doi.org/10.5465/amr.1989.4308371 Wu, W. (2017). Relationship between science teachers’ conceptions of assessment of 
+students’ academic performance and their instructional approaches. In In. X. Liu, L. L. Liang, & G. W. Fulmer (Eds.), Chinese Science Education in the 21st Century: Policy, Practice, and Research (pp. 259–293). Springer Netherlands. https://doi.org/ 10.1007/978-94-017-9864-8_11. 
+Xu, Y., & Brown, G. T. (2016). Teacher assessment literacy in practice: A 
+reconceptualization. Teaching and Teacher Education, 58, 149–162. https://doi.org/ 10.1016/j.tate.2016.05.010
+Yan, C. (2015). We can’t change much unless the exams change’: Teachers’ dilemmas in 
+the curriculum reform in China. Improving Schools, 18(1), 5–19. https://doi.org/ 10.1177/1365480214553744
+Yan, Q., Zhang, L. J., & Dixon, H. R. (2022). Exploring classroom-based assessment for 
+young EFL learners in the Chinese context: teachers’ beliefs and practices. Frontiers in 
+Psychology, 13, Article 1051728. https://doi.org/10.3389/fpsyg.2022.1051728
+Yan, Z., & Cheng, E. C. K. (2015). Primary teachers’ attitudes, intentions and practices 
+regarding formative assessment. Teaching and Teacher Education, 45, 128–136. 
+https://doi.org/10.1016/j.tate.2014.10.002
+Yan, Z., & Pastore, S. (2022). Are teachers literate in formative assessment? The 
+development and validation of the Teacher Formative Assessment Literacy Scale. Studies in Educational Evaluation, 74, Article 101183. https://doi.org/10.1016/j. stueduc.2022.101183
+Yu, J. (2023). Exam culture and formative assessment in China: The Gaokao reform and 
+its sociocultural hindrance. Journal of Education, Humanities and Social Sciences, 23 (1), 1–15. https://doi.org/10.54097/ehss.v23i.12900
+Zhao, X., Van den Heuvel-Panhuizen, M., & Veldhuis, M. (2018). Chinese primary school 
+mathematics teachers’ assessment profiles: Findings from a large-scale questionnaire survey. International Journal of Science and Mathematics Education, 16(7), 1387–1407. https://doi.org/10.1007/s10763-017-9841-3
+21 

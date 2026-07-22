@@ -1,0 +1,646 @@
+﻿COGENT EDUCATION 
+2026, VOL. 13, NO. 1, 2652125 
+https://doi.org/10.1080/2331186X.2026.2652125
+EDUCATIONAL ASSESSMENT & EVALUATION|RESEARCH ARTICLE      
+Exploring conceptual  overlap in teachers  assessment  conceptions: a systematic  review of assessment  inventories
+Ying Wang, Eleanor Hawe and  Gavin T. L. Brown 
+Faculty of Arts and Education, The University of Auckland, Auckland, New Zealand 
+ABSTRACT  ARTICLE HISTORY Understanding  how  teachers  conceptualize  assessment  has  become  increasingly  Received 12 August 2025 important  as  education  systems  worldwide  undergo  reform.  Numerous  inventories  Revised 20 March 2026 have  been  developed  to  measure  teachers   conceptions  of assessment  (TCoA), but  lit- Accepted 23 March 2026 
+tle is known  about  how  these  inventories  overlap,  diverge,  or align theoretically.  This 
+study  presents  a  systematic  review  and  thematic  synthesis  of  26  TCoA inventories  KEYWORDS Teachers  conceptions of published  between  2000 and  2025. Our analysis reveals a broad  but  fragmented  land- assessment (TCoA); teacher 
+scape  of  constructs  related  to  assessment  purposes,  functions  and  values.  Findings  beliefs; systematic review; reveal  seven  core  categories:  five assessment  purposes  (teaching  improvement,  stu- construct validity; 
+dent  development,  student  accountability,  teacher  and  school  accountability  and  assessment literacy  irrelevance/negativity)  and  two assessment  formats  (formal and  informal). The findings 
+also  highlight  conceptual  redundancies,  terminological  inconsistencies  and  limited  SUBJECTS 
+theoretical  integration  across inventories. Education; Classroom 
+Practice; Assessment & 
+Testing; Education; IMPACT STATEMENT Teaching & Learning   
+This study  identifies  conceptual  overlap  across  inventories  of teachers   conceptions  of 
+assessment,  improving  construct  clarity  and  the  comparability  of  assessment  belief 
+measures.
+1. Introduction
+Policies  that  expect  teachers  to  participate  in  assessment  (e.g.,classroom  assessment,  assessment  for learning,  qualifications  assessment,  etc.)  require  an  understanding  of  how  teachers  think  about  the nature  and  purpose  of assessment.  Systematic  survey research  into teachers   assessment  beliefs and  atti- tudes  has proliferated  since Brown s (2004) Teacher Conceptions  of Assessment  inventory.  However, it is possible  that  the  different  inventories  suffer from terminological  overlap, especially because  the  different policy language  around  the  educational  uses  of assessment  seems  to  imply different  constructs.  While there  are  numerous  self-report  inventories  that  measure  what  teachers  believe  and  how  they  act  in assessment,  there  has  been  little work comparing  these  inventories  across  different  research  strands  or contexts.  It remains  unclear  how  the  constructs  used  in  different  inventories  relate  to  each  other,  or whether  they  reflect  similar or distinct  ideas.  The aim  of this  review  is to  map  the  range  of constructs used  in these  inventories  and  examine  the  extent  to which they  overlap  or differ. A systematic  review is therefore  needed  to  summarize  what  has  been  measured  so  far and  to  identify  areas  of similarity and difference  across  inventories.  Thus,  a  systematic  evaluation  of  the  terminology  is  needed  to  identify potential  jingle-jangle  issues in the  field. This paper  contributes  to  the  field by providing  a detailed  sys- tematic  search  and  content  analysis of inventories  developed  since 2000 to  describe  how  teachers  think and  feel about  assessment.
+CONTACT Ying Wang  ying.wang@auckland.ac.nz  Faculty of Arts and Education, The University of Auckland, Auckland, New Zealand 
+Supplemental data for this article can be accessed online at https://doi.org/10.1080/2331186X.2026.2652125. 
+fl  2026 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group 
+This is an  Open Access article distributed under  the  terms of the  Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+
+COGENT EDUCATION 25
+1.1. Teacher conceptions  of assessment
+The role  of assessment  in education  has  evolved  significantly  over  the  past  several  decades.  Although traditionally  associated  with  summative  certification  and  external  accountability,  assessment  is  now increasingly  conceptualized  as a formative  process  aimed  at guiding  instruction,  enhancing  learning  and advancing  equity  across  diverse  educational  contexts  (Black & Wiliam, 2018; Klenowski, 2011). This shift reflects broader  pedagogical  and  policy trends  that  emphasize  student  agency,  responsive  teaching  and data-informed  decision-making.  In this context,  growing  attention  has  been  directed  toward  how  teach- ers  conceptualize  assessment,  specifically  their  underlying  beliefs  about  its  purposes,  principles  and expected  standards  of achievement  (Brown, 2004). These  beliefs, often  referred  to  as teachers   concep - tions  of assessment  (TCoA), are  not  superficial preferences;  they  are  rooted  in deeply  held  professional values and  play a central  role in shaping  how  assessment  is interpreted  and  enacted  in practice  (Barnes et al., 2017; Brown et al., 2009; Remesal, 2007).
+As part  of teachers   broader  belief systems, conceptions  of assessment  (TCoA) operate  at the  intersec- tion  of individual cognition  and  sociocultural  influence.  They shape  how  teachers  make  sense  of assess- ment  tools,  frame  instructional  decisions  and  interact  with  policy  mandates  (Barnes  et  al., 2015). A substantial  body  of research  has demonstrated  that  TCoA are closely associated  with classroom  practices such  as formative  questioning,  feedback  use,  grading  strategies  and  differentiated  instruction  (Brown & Harris, 2009; DeLuca et al., 2019; Remesal, 2011; Xu & Brown, 2016). Accordingly, understanding  teachers  assessment  conceptions  is increasingly  regarded  as essential  for enhancing  assessment  literacy, empow - ering teacher  agency  and  promoting  pedagogical  improvement.
+Over the  past  two  decades,  a number  of inventories  have  been  developed  to  capture  teachers   con- ceptions  of  assessment  (TCoA), in  response  to  the  increasing  diversification  of  assessment  policies (Brown, 2004; Brown et al., 2011; Brown & Remesal, 2012; DeLuca et al., 2016). Among the  most  promin- ent  are  the  Teachers   Conceptions  of  Assessment  Inventory  (TCoA-III; Brown,  2004),  the  Qualitative Model  of  Conceptions  of  Assessment  (QMCoA; Brown  &  Remesal,  2017)  and  the  Approaches  to Classroom  Assessment  Inventory  (ACAI; DeLuca et  al., 2016). Each inventory  offers a distinct  theoretical perspective  on TCoA.
+The TCoA-III and  its abridged  and  culturally adapted  versions  (e.g., C-TCoA; Brown et  al., 2011) focus primarily  on  the  nature  and  purposes  of  assessment,  distinguishing  constructs  such  as  improvement, accountability  and  irrelevance.  In  contrast,  the  QMCoA adopts  a  bifactor  model  that  conceptualizes assessment  beliefs along  a continuum  from formative  regulation  to  summative  accreditation,  emphasiz - ing  their  conceptual  orientations  toward  assessment  functions  (e.g.,  teaching,  learning,  certification, accounting).  The ACAI, meanwhile,  integrates  TCoA within  a broader  framework  of assessment  literacy, categorizing  teachers   beliefs and  practices  across  constructs  such  as purpose,  process,  fairness and  the- ory. Thus, while the  TCoA-III and  QMCoA emphasize  what  teachers  believe  assessment  is for, the  ACAI reflects  how  those  beliefs  are  enacted  in  classroom  practice  and  aligned  with  principles  of  effective assessment.  These  conceptual  differences  underline  the  importance  of understanding  not  only  what  is being  measured,  but  also how  divergent  frameworks  may influence  the  interpretation  and  application  of TCoA in research  and  policy.
+Despite  their  contributions,  existing  inventories  of  teachers   conceptions  of  assessment  (TCoA) fre- quently  exhibit  conceptual  ambiguities  and  construct  overlap.  Constructs  such  as formative  assessment and  assessment  for learning  are sometimes  used  interchangeably,  even  though  they  reflect distinct  the- oretical  orientations  — one  emphasizing  instructional  responsiveness,  the  other  prioritizing  student agency  and  learning  outcomes  (Newton,  2007). Similarly, dimensions  such  as  accountability  or  grading may conflate  external  policy mandates  with  internal  beliefs, making  it unclear  whether  a construct  cap- tures  normative  orientations,  institutional  pressures,  or  classroom  behaviors.  In some  cases,  belief-ori- ented  constructs  are  merged  with  pedagogical  practices  (e.g., questioning,  feedback)  or  compressed alongside  evaluative  outcomes  (e.g.,  fairness,  student  achievement)  without  adequate  theoretical  or operational  justification (Brown & Remesal, 2017).
+These  issues  exemplify  the  jingle-jangle  fallacy  (Kelley, 1927): conceptually  distinct  constructs  are sometimes  given  the  same  term  (i.e., jingle), while similar constructs  are  labeled  differently  (i.e., jangle). For instance,  while  the  TCoA-III model  employs  the  construct  improvement  and  QMCoA uses  teaching and  learning,  both  tap  into  assessment s  formative  purpose.  Likewise, CoA-III separates  student  and school  accountability,  whereas  QMCoA aggregates  these  under  a broader  certification  factor, suggesting potential  overlap  masked  by terminological  variation.
+A further  complication  involves conceptual  slippage  between  psychological  beliefs and  structural  con- straints.  Some  inventories  conflate  internal  belief  systems  with  external  systemic  requirements,  such  as standardized  testing  or institutional  mandates.  Terms like formative  assessment  may  be  operationalized as  observable  practices  rather  than  as  attitudinal  constructs,  while  accountability  may  encompass internal  responsibility, professional  norms, or compliance  with top-down  policy pressures.  These ambigu - ities limit construct  interpretability  and  undermine  the  utility of TCoA inventories  for informing  teacher development,  cross-study  comparisons,  or evidence-based  policy design.
+While individual  studies  have  provided  valuable  insights  into  how  teachers  think  about  assessment, few have  examined  the  broader  conceptual  terrain  in a systematic  way. Existing reviews have  generally focused  on  the  development  or validation  of a single  inventory  (Brown et  al., 2011) or explored  narrow conceptual  areas  such  as  formative  assessment  (Yan & Pastore,  2022) or  assessment  literacy  (DeLuca et  al., 2016). What remains  missing  is a field-level synthesis  that  maps  how  core  constructs  are  defined, differentiated  and  operationalized  across  major  TCoA inventories.  Such  a synthesis  is clearly needed  to address  theoretical  fragmentation,  clarify conceptual  boundaries  and  inform  the  next  generation  of assessment  belief measures.
+1.2. Theoretical framework for cross-inventory conceptual  comparison
+This study  uses  construct  validity theory  (Cronbach  & Meehl, 1955) as the  basis  for examining  whether the  constructs  embedded  in different  inventories  refer to  the  same  underlying  attributes.  From this per- spective,  a construct  is defined  not  by its label but  by the  clarity, coherence  and  theoretical  justification of its definition.  In other  words,  if constructs  are  intended  to  represent  different  aspects  of assessment, their  definitions  should  be  clearly  distinguishable;  conversely,  when  definitions  converge,  they  may plausibly  reflect  shared  underlying  features  (Lawson & Robins, 2021). Within this  framework,  examining how  different  inventories  define  their  constructs  becomes  essential  for evaluating  whether  they  refer to shared  or distinct  conceptual  domains.
+This issue  becomes  particularly  salient  in light  of the  well-known  jingle—jangle problem:  researchers sometimes  assume  similarity simply  because  two  constructs  share  a  name,  or, conversely,  treat  nearly identical  constructs  as different  merely  because  they  are  labeled  differently  (Fischer et  al., 2023; Kelley, 1927). Both tendencies  blur  conceptual  distinctions  and  complicate  attempts  to  compare  inventories  in a  theoretically  meaningful  way. Accordingly, the  present  study  conducts  a  cross-inventory  conceptual analysis  that  examines  how  each  inventory  articulates,  differentiates  and  organizes  its  constructs. Overlap  in definitions  may  reflect  shared  conceptual  ground,  whereas  inconsistency  or ambiguity  high- lights areas  of misalignment.
+1.3. Purpose of the study
+To address  these  concerns,  the  present  study  conducts  a systematic  review and  thematic  synthesis  of 26 empirical  studies  published  between  2000  and  2025  that  that  report  on  TCoA inventories.  Specifically, this  study  aims  to: (1) map  the  core  constructs  embedded  in these  inventories  and  examine  how  they are  defined  and  differentiated;  (2) identify  patterns  of conceptual  convergence  and  divergence;  and  (3) evaluate  the  implications  of these  patterns  for construct  validity, cross-cultural  applicability  and  theoret - ical development.
+By synthesizing  findings  across  contexts  and  inventories,  this  review  seeks  to  clarify the  conceptual landscape  of teachers   assessment  conceptions.  The results  are  intended  to  inform  the  design  of future inventories,  support  cross-cultural  research  on  assessment  beliefs  and  contribute  to  a  more  integrated and  theoretically  grounded  body  of knowledge  in educational  assessment.
+2. Method
+This review followed  PRISMA guidelines  (Page et  al., 2021) to  systematically  synthesize  empirical  studies on teachers   conceptions  of assessment  (TCoA).
+2.1. Search strategy
+A comprehensive  systematic  search  was conducted  to  identify empirical studies  that  investigated  teach- ers   conceptions  of  assessment  through  inventories,  surveys,  or  quantitative  inventories.  The  primary search  was performed  across  three  major  databases  (ERIC, Web of Science  and  Scopus) using  combina - tions of keywords such as  assessment ,  teacher  conception ,  inventory ,  belief , and  attitude .  Synonyms and  related  terms  were  included  to  account  for  terminological  variation  across  disciplines.  Table  1 presents  the  search  strings  used  across databases.
+To ensure  comprehensiveness,  a  supplementary  citation  search  was  conducted  in  the  Dimensions open  access  database  (Stahlschmidt  & Stephen,  2020). Brown et  al. (2011) was used  as a starting  point and  both  backward  and  forward  citation  tracing  was  undertaken  to  identify  relevant  studies  beyond those  retrieved  through  database  searches.  The search  was restricted  to peer-reviewed  articles published between  2000  and  2025  to  ensure  alignment  with  contemporary  assessment  practices  and  inventory development.  A total  of 48 sources  were found  this way.
+2.2. Eligibility criteria and study selection
+Studies  were  included  if they  met  the  following criteria: (1) published  between  2000 and  2025; (2) writ- ten  in English; (3) involved  in-service  primary  or  secondary  school  teachers;  (4) adopted  a  quantitative methodology;  and  (5) employed  a  structured  inventory  to  assess  teachers   conceptions  of assessment. Studies  were  excluded  if they:  (1) were  published  prior  to  2000; (2) were  written  in  languages  other than  English; (3) focused  on  non-school-based  settings  (eg preschools,  higher  education,  or special  edu- cation);  (4) used  qualitative  methods  only  or  (5) addressed  constructs  unrelated  to  teacher  assessment beliefs, such as student  evaluations,  performance  appraisal, or technology-based  assessments.
+2.3. Screening
+The initial database  search  identified  1,072 records  (ERIC à 261, Web of Science  à 318, Scopus  à 445, Dimensions  à 48). After removing  324 duplicates  through  EndNote s automated  matching  (title, author and  DOI fields) and  subsequent  manual  checking, 748 unique  records  remained.
+Title and  abstract  screening  followed  the  pre-established  eligibility criteria, including  publication  year, language,  target  population  (teachers)  and  article  type.  Relevance  to  teachers   conceptions  of  assess- ment  was also assessed  at this stage.  Of the  screened  records, 401 did not  examine  teachers   assessment conceptions  and  were  therefore  excluded.  These studies  focused  on  topics  such  as assessment  technol - ogy  or  digital  tools,  assessment  training  programs,  teacher  or  student  competence,  general  pedagogy, or teacher  beliefs  unrelated  to  assessment.  A further  21 studies  were  excluded  because  they  were  not published  in English and  30 could  not  be  retrieved  in full text.  In total,  296  studies  were  retained  for full-text review. During full-text screening,  239 studies  were  excluded  based  on  the  eligibility criteria. A total  of 131 were  conducted  outside  primary or secondary  education  and  therefore  did not  fit the  focus of this  review. An additional  38 studies  were  quantitative  but  used  structured  instruments  that  did  not 
+Table 1.  Search strings used across databases.
+Database                Search string
+Web of Science Scopus   TIàTS(teacherà (questionnaire⇤ AND assessment⇤ OR scale⇤) ⇤AND OR instrumentTSà (conception⇤ OR survey⇤ OR belief⇤ OR ⇤inventoryOR
+ERIC                     perception⇤) ⇤ OR attitude⇤) AND TITLE-ABS-KEY(teacher⇤ AND assessment⇤ AND (conception⇤ OR belief⇤ OR perception⇤ OR attitude⇤) AND
+                         
+                        (questionnaire⇤ OR scale⇤ OR instrument⇤ OR survey⇤ OR inventory⇤))
+                        (teacher⇤ AND assessment⇤ AND (conception⇤ OR belief⇤ OR perception⇤ OR attitude⇤) AND (questionnaire⇤ OR 
+                        scale⇤ OR instrument⇤ OR survey⇤ OR inventory⇤))
+examine  teachers   beliefs about  the  purposes,  functions  or conceptualizations  of assessment  practises.  A further  70 studies  were excluded  because  they  were qualitative  and  did not  meet  the  quantitative  meth - ods criteria for this review. In total, 57 studies  met  all criteria and  were  retained  for review. At this stage, an  additional  screening  was  conducted  to  identify  duplicate  uses  of the  same  inventory  across  studies. Thirty-one studies  were  excluded  due  to overlap, including  repeated  use of the  Teachers  Conceptions  of Assessment  Inventory  (TCoA-III, n à 20; Brown, 2004), the  Chinese  version  (C-TCoA, n à 3; Brown et  al., 2011),  the  Approaches  to  Classroom  Assessment  Inventory  (ACAI, n à 5;  DeLuca  et  al.,  2016),  the Qualitative  Model  of  Conceptions  of  Assessment  (QMCoA, n à 2;  Brown  &  Remesal,  2017)  and the  Teachers  formative  assessment  literacy scale  (TFALS, n à 1; Yan & Pastore,  2022)). In each  case, the 
+most  comprehensive  or  contextually  relevant  study  was  retained.  After  removing  duplicates  of  each instrument,  this  rigorous  process  yielded  a  final sample  of 26  unique  inventories  suitable  for in-depth analysis. A flow diagram  illustrating  the  identification  and  selection  procedures,  following PRISMA 2020 guidelines,  is presented  in Figure 1.
+2.4. Inter-rater reliability
+To ensure  the  reliability of study  inclusion, 10% of the  full-text articles were  independently  assessed  by two  trained  reviewers  with  expertise  in  educational  assessment.  Inter-rater  agreement  was  calculated using  Cohen s  kappa,  yielding  a coefficient  of 0.80, indicating  strong  reliability (Cohen, 1960). The lead researcher  also independently  reviewed  the  same  subset.  Agreement  with Reviewer 1 remained  at  0.80, while agreement  with Reviewer 2 was 0.63, reflecting  moderate  to substantial  consistency.  Discrepancies primarily  related  to  the  inclusion  of  preservice  teachers  and  teachers  in  non-public  school  settings. Following consensus  discussions,  preservice  teachers  without  practical  experience  were  excluded.  All in- service primary and  secondary  school teachers  were retained,  regardless  of institutional  type.
+2.5. Data extraction and analysis
+The final dataset  comprised  26 distinct  inventories  designed  to measure  teachers   conceptions  of assess- ment  across diverse cultural and  policy contexts.  These inventories  formed  the  basis for subsequent  con- struct  mapping,  thematic  analysis  and  comparative  synthesis.  Table  2 summarizes  26  inventories  of teachers   assessment  conceptions  and  practices,  each  reflecting  a  distinct  emphasis  in the  TCoA litera- ture  and  identified  by a numeric  ID.
+The inventories  can  be  grouped  into  three  major  emphases.  The first emphasis,  General  Conceptions of Assessment,  is represented  by eight  inventories  (#1, #2, #5, #6, #7, #8, #23). These inventories  examine teachers   overarching  beliefs  about  the  nature,  purposes  and  functions  of  assessment.  They  typically emphasize  broad  philosophical  orientations  such  as  improvement  versus  accountability  or  usefulness versus  irrelevance,  without  reference  to  specific  instructional  practices  or  classroom  enactment.  The second  emphasis,  Conceptions  of  Formative  Assessment  and  Assessment  for  Learning  (AfL), includes four  inventories  (#3, #9,  #16,  #21).  These  inventories  focus  on  teachers   understanding  of  formative assessment  principles  and  their intended  role in supporting  student  learning.  Although  more  pedagogic - ally oriented  than  general  belief inventories,  they  tend  to capture  stated  intentions  or perceptions  rather than  systematically examining  enacted  classroom  practices.
+The third  emphasis,  Classroom  Assessment  Alignment:  Beliefs, Attitudes,  and  Practices, is reflected  in 11 inventories  (#4, #10, #11, #13, #15, #17, #18, #19, #20, #22, #24). These inventories  explicitly examine the  alignment  between  teachers   stated  beliefs and  their  reported  assessment  practices.  They commonly incorporate  behavioral  indicators  such as assessment  methods,  classroom  activities, task formats, student involvement,  feedback  provision and  documentation  strategies.  Notably, several more  recent  instruments (#12, #25, #26) move  beyond  the  belief—practice alignment  framework  by  focusing  on  normative  and fairness-related  aspects  of  classroom  assessment.  This trend  suggests  a  gradual  broadening  of  TCoA measurement  beyond  traditional  belief and  practice  constructs.
+
+Figure 1.  Flow diagram of the study selection process following the PRISMA 2020 guidelines.
+2.6. Coding of constructs
+Given the  variation  in  theoretical  emphasis  and  scope  across  the  26  inventories,  content  analysis  was employed  to  systematically  identify,  categorize  and  synthesize  how  key  assessment  constructs  are defined  and  interpreted  in prior  research  (Hsieh & Shannon,  2005; Weber, 1990). This method  involved categorizing  textual  definitions  to  reveal  recurring  themes  and  patterns  in  how  teacher  assessment 
+Table 2.  Included inventories.
+ID   Inventory                                                                                                                Author (year)
+1 2  Teachers  Conceptions of Assessment (TCOA-III)                                                                           Brown (2004)
+ 3 4 Teachers  Conceptions of Assessment in Chinese Contexts (C-TCoA)                                                         Brown et al. (2011)
+ 5 6 Teachers  Perceptions of Formative Assessment                                                                            Sach (2012)
+ 7 8 Teachers  Perceptions, Attitudes, and Practices Toward Formative Assessment Questionnaire Chinese Teachers  Conceptions  Young and Jackman (2014) Brown and
+ 9    of Assessment                                                                                                            Gao
+ 10   Inventory                                                                                                                (2015)
+ 11  Science Teachers  Assessment Conceptions Questionnaire (STACQ)                                                           Wu (2017)
+ 12  Qualitative Model of Conceptions of Assessment (QMCoA)                                                                   Brown and Remesal (2017) Alt (2018)
+ 13  Teaching and Learning Conceptions Questionnaire                                                                          Nasr et al. (2018)
+ 14  Teachers  Perceptions of Assessment for Learning                                                                         Zhao et al. (2018)
+ 15  Chinese Primary School Mathematics Teachers  Assessment Conceptions and Practices Questionnaire Teacher Perceptions      Lam (2019)
+ 16   Toward Knowledge Base, Conceptions and Assessment Practices Questionnaire Students  and Teachers  Fairness Perceptions  Sonnleitner and Kovacs (2020 Akiri
+ 17   (Fairness                                                                                                                et al.
+ 18   Barometer)                                                                                                               (2021)
+ 19  Perception of Teaching and Assessment Methods Questionnaire                                                              Alonzo et al. (2021) Abderrahim and
+20   Teacher Beliefs About Assessment                                                                                          Tibor (2021) Veugen et al.
+ 21  Teachers  Perceptions and Self-Reported Practices of Assessment                                                           (2021)
+ 22  Teacher and Student Perceptions of Formative Assessment Practice                                                         Zeng and Huang (2021) Coombs et al.
+ 23  The Perceptions and Practice of Formative Assessment                                                                      (2022)
+ 24  Chinese Teachers  Approaches to Classroom Assessment (C-ACAI)                                                            Martin et al., 2022
+ 25  Teachers  Perceptions of and Use of Formative Assessment Questionnaire                                                   Takele and Melese (2022)
+ 26  Preferred Classroom Assessment Practice Scale (PCAP)                                                                     Z. Yan and Pastore (2022)
+     Teacher Formative Assessment Literacy Scale (TFALS)                                                                      Q. Yan et al. (2022)
+     The Questionnaire on Primary School Teachers  CBA Beliefs and Practices (CBA)                                            S enturk and Bas  (2023)
+     Classroom Assessment Beliefs Scale (CABS)                                                                                Min and So (2024)
+     Adapted assessment beliefs and practices questionnaire                                                                   Liu et al. (2024)
+     Scenario-based Survey on Ethical Issues in Classroom Assessment                                                          Ahmadi Safa and Nasiri (2025
+     Classroom Assessment Fairness Scale (CAFS)
+Note: Inventory sequence numbers used below refer to this table.
+conceptions  are  defined  and  operationalized.  The  analytic  process  unfolded  in  three  iterative  phases: developing  a coding  framework,  constructing  thematic  categories  and  validating  classifications through inter-rater  reliability.
+2.6.1. Phase I: code and checklist development
+Initial coding  began  by identifying  all constructs  explicitly named  or defined  across  the  included  inven- tories.  A supervisor  and  the  lead  researcher  then  independently  reviewed  each  construct  and  docu- mented  its  defining  features.  For  example,  the  construct  Improvement,  as  described  by  Brown  et  al. (2011), states  that  assessment  improves  students   learning  and  the  quality  of  teaching    this  view [includes]  a range  of techniques,  including  informal  teacher-based  intuitive  judgment  as well as formal assessment  tools   (p.  317).  Based  on  this  definition,  key  features  such  as  improvement  of  student achievement,  instructional  purposes  and  assessment  methods  were  extracted.  The independently  devel- oped  checklists  were  subsequently  compared  and  synthesized  into  a  unified  set  of  features,  which served  as a draft coding  sheet  for further  analysis.
+2.6.2. Phase II: thematic categorization
+Building on  the  draft  coding  sheet  developed  in Phase  I, the  second  phase  focused  on  organizing  the extracted  features  into  broader  conceptual  categories.  Using Braun & Clarke s (2006) thematic  analysis principles,  constructs  sharing  common  definitional  elements  were  grouped  to  form  thematically  coher- ent  categories.  For instance,  features  related  to  instructional  planning,  pedagogical  decision-making  and teaching  enhancement  were  clustered  under  the  category  Assessment  Supports  Improved  Teaching  and Instruction.
+Through  iterative  refinement,  seven  thematic  categories  were  identified.  Table 3 presents  representa - tive  examples  of  these  categories,  including  their  defining  features  and  illustrative  quotations  drawn from the  original  inventories.  These  categories  reflect  the  multidimensional  nature  of teachers   concep - tions of assessment,  encompassing  beliefs about  its role in instruction,  student  learning  and  accountabil - ity. Full details  of  all identified  categories  and  features  are  presented  in  the  supplementary  appendix (see Supplementary  Tables S1 and  S2).
+Table 3.  Examples of categories with illustrative quotations from the constructs.
+Examples of categories                                Features                                                Extracts that illustrate definitions of constructs
+Assessment supports improved teaching and instruction.Feedback, teaching, improvement Guiding instruction, Assessment provides valid information to 
+Assessment supports student learning.                  teaching                                            diagnose the effectiveness of teaching and to guide
+Assessment holds students accountable                  strategies                                           teaching improvements. (Brown & Gao, 2015, p.
+                                                      Guiding student learning                              10)
+                                                      Students, learning-oriented, personalized,           Teachers use assessment results to guide 
+                                                      evidence-based                                       their instruction   such as making instructional
+                                                      Grading, standards-based evaluation,                  decisions and adapting teaching strategies.
+                                                      performance consequences                              
+                                                      Evaluating achievement outcomes                      (Zhao et al., 2018, p. 1396)
+                                                                                                           This is concerned with the use of 
+                                                                                                           assessment information by teachers and students to
+                                                                                                            guide students in their learning. (Alonzo et al.,
+                                                                                                            2021, p.
+                                                                                                            46)
+                                                                                                           The aim is the improvement of learning 
+                                                                                                           which is highly personalized. It involves teachers
+                                                                                                            using evidence and dialogue to identify where pupils
+                                                                                                            are in their learning, where they need to go and how
+                                                                                                            best to get there. (Sach, 2012,
+                                                                                                            
+                                                                                                           p. 262)
+                                                                                                           Assessment holds students accountable for 
+                                                                                                           learning    This is usually done using 
+                                                                                                           performance on examinations or tests. 
+                                                                                                           This requires grading, scoring, or 
+                                                                                                           evaluating student performance against 
+                                                                                                           standards, objectives, targets, or 
+                                                                                                           expectations. (Brown et al., 2011, p. 317). Summative
+                                                                                                            assessment is designed to
+                                                                                                            
+                                                                                                           determine the extent to which learners 
+                                                                                                           meet the instructional goals and 
+                                                                                                           outcomes [i.e., achievement], as well as 
+                                                                                                           to confirm what and how much they 
+                                                                                                           know at the end of the learning process. 
+                                                                                                           (Abderrahim & Tibor, 2021, p. 120)
+2.6.3. Phase III: validation and refinement
+Building on  the  categories  developed  in Phase  II, this  phase  aimed  to  establish  the  reliability and  con- sistency  of construct  classification. Categorization  was  independently  conducted  by the  lead  researcher and  a second  reviewer  with five years of teaching  experience  and  current  doctoral-level  training  in edu- cation. To enhance  analytic rigor, 30% of the  items  were  randomly  selected  for double  coding,  using  the construct  definitions  established  in the  previous  phase  as a reference  point.  Inter-rater  reliability was cal- culated  using  Cohen s kappa,  yielding a coefficient  of 0.86, which indicates  a high  level of agreement  (j 
+  0.81; Landis & Koch, 1977).
+Most  discrepancies  arose  at  the  boundary  between  the  categories  Teaching  Support  and  Informal Assessment  Activity. For  instance,  one  construct  stated:  The  implementation  of  formative  strategies includes  questioning  techniques,  descriptive  (non-graded)  feedback,  and  instructional  modifications based  on student  needs(Young  & Jackman, 2014, p. 401). The second  reviewer categorized  this construct as Teaching  Support,  emphasizing  its instructional  purpose.  In contrast,  the  lead  researcher  coded  it as Informal Assessment  Activity, focusing  on  the  embedded  nature  of assessment  practices  within the  flow of  classroom  interaction.  Following  discussion,  both  reviewers  reached  consensus  that  the  construct aligned  more  closely with Informal Assessment  Activity, and  the  classification was revised accordingly.
+3. Results
+3.1. Overview
+This review  identified  seven  thematic  categories  that  capture  the  diverse  ways in which  teachers   con- ceptions  of assessment  have  been  operationalized  across  26  inventories.  These  categories  reflect  both the  intended  purposes  of assessment  (e.g., supporting  teaching  and  learning,  enforcing  accountability, or  viewing  assessment  as  irrelevant  or  harmful)  and  its  observed  formats  (e.g.,  formal  vs.  informal activity). Despite  originating  from distinct  educational  and  cultural  contexts,  many  inventories  converge on similar core ideas, though  often  described  using  different  terminologies  or with ambiguous  construct boundaries.  The  following  sections  present  each  theme  in  detail,  with  representative  definitions  and illustrative references.
+3.2. Assessment  supports and improves teaching  and instruction
+This category  highlights  the  significant  role  assessment  can  play  in enhancing  the  quality  of teaching and  instruction  (Table  4).  Although  labeled  differently,  such  as  improvement,  facilitation,  formative assessment,  or  teaching,  these  constructs  share  a  strong  conceptual  alignment,  consistently  portraying assessment  as  a  central  tool  for pedagogical  refinement.  One  inventory  (Alonzo et  al., 2021) indicates that  assessment  can  help  identify  areas  for  teachers   professional  development,  ultimately  aimed  at improving  instructional  effectiveness.
+Assessment  is a crucial process  where  teachers  employ  various tools  to gather  information  about  stu- dents   learning,  which  they  use  to  evaluate  the  quality  and  effectiveness  of  their  instruction  (Brown, 2004; Brown & Gao, 2015; Brown et  al., 2011; Wu, 2017). By integrating  different  assessment  techniques, teachers  can  determine  how  well their  methods  support  student  understanding  and  identify  areas  for improvement  in their teaching  practice.  While assessment  tools can be  helpful, these  constructs  assume - that  teachers  have  the  skills to  correctly  implement,  interpret  and  apply  the  data.  If the  assessment results  are  misunderstood,  it  could  lead  to  adjustments  in  teaching  methods  which  may  not  improve teaching  effectiveness  (Brown et  al., 2011). Assessment  provides  teachers  with  valid  information  that enables  them  to  diagnose  students   needs,  which  in turn  supports  the  continuous  refinement  of their instructional  practices.
+Among  the  inventories,  the  term  formative  assessment   is prevalent  with  a  focus  on  the  ongoing gathering  of  information  to  adjust  teaching  strategies  and  enhance  instructional  effectiveness  (Martin et al., 2022; Sach, 2012; Veugen et al., 2021; Zeng & Huang, 2021). Through  this reflective process,  teach- ers  gain  a  deeper  understanding  of  their  instructional  approaches  and  can  make  informed  decisions about  instructional  strategies  and  curriculum  design  (Brown & Remesal,  2017; Min & So, 2024; Zhao et  al., 2018). This process  of  continuous  improvement  helps  refine  teaching  practices  and  ultimately enhances  student  learning  outcomes.  Furthermore,  feedback  acts as a reflection  of the  teacher s  actions, facilitating  further  improvements  in  teaching.  Initially, teachers  gather  student  information  and  upon interpreting  this  data,  they  make  decisions  regarding  the  planning  of teaching  activities. Subsequently, feedback  guides  the  next  steps  in instructional  delivery, allowing for continuous  improvement  and  adap- tation  to students   needs  (Alonzo et al., 2021; Coombs  et al., 2022; Zeng & Huang, 2021).
+In summary,  this  category  underscores  the  crucial role  of using  assessment  information  to  enhance teaching  and  instructional  practices.  This is evident  from  the  consistent  use  of terms  such  as improve- ment  of  instruction  and  improvement  of  teaching,  as  extracted  from  the  descriptions  of  various  con- structs  in Table 4. These  terms  reinforce  the  benefits  of assessment  in the  teaching  process.  However, variations  in descriptions  within  this  category  reflect  the  complexity  of teaching,  indicating  that  assess- ment  information  can be used  in different  ways to tailor and  improve  instruction  (Brown, 2008).
+3.3. Assessment  supports and improves students   learning
+This category  highlights  assessment s  significant  role  in  supporting  and  improving  students   learning and  development  (Table  5). Within  the  constructs,  there  is  strong  conceptual  alignment  in  viewing assessment  not  merely as a means  of evaluating  achievement,  but  as a central  pedagogical  process  that improves  the  quality of students   learning  and  development.
+According  to  Brown (2004) and  Brown et  al. (2011), the  construct  of  improvement   emphasizes  the importance  of high-quality  assessment  information  for driving enhanced  learning.  A range  of assessment approaches  and  techniques  are employed  to evaluate  students   progress  and  performance,  allowing stu- dents  to gather  robust  and  valid information  (Brown, 2004). This concept  focuses  on the  value of assess- ment  outcomes,  specifically how  students  use  assessment  information  to  guide  subsequent  learning. Across  inventories,  a  recurring  assumption  underlying  improvement-oriented  constructs  is  that 
+Table 4.  Category 1: assessment supports and improves teaching and instruction.
+ID Construct Definition/description
+1 Improvement Assessment improves   the quality of teaching.    A range of 
+techniques    are used with the explicit goal of improving the 
+quality of instruction   (Brown, 2004, p. 304).
+2 Improvement Assessment is a means of improving the quality of teachers  instruction. 
+A variety of assessment techniques are used   The goal is answering accurately two key questions: who has learned what and who needs to be taught what next (Brown et al., 2011, p. 317).
+3 Formative assessment Teachers [use] evidence from formative assessment to develop their 
+teaching (Young & Jackman, 2014, p. 266).
+5 Facilitation and diagnosis Assessment provides valid information to diagnose teaching 
+effectiveness and guide teaching improvements. The emphasis is on analyzing student performance, adjusting instruction 
+(Brown & Gao, 2015, p. 10).
+6 Teaching-oriented Assessment [is] an important means of diagnosis of teaching   By 
+doing this, teachers can collect necessary information   In short, assessment here is an integral part of the teaching process and an important tool for teachers to achieve teaching objectives 
+(Wu, 2017, p. 273).
+7 Teaching Assessment is to provide information about student progress and 
+needs so as to guide teachers in how they should plan and implement subsequent teaching   (Brown & Remesal, 2017, p. 68).
+10 General/specific instructional decision-  Teachers use assessment results to guide their instruction   such as making assessment purposes making instructional decisions and adapting teaching strategies 
+(Zhao et al., 2018, p. 1396).
+14 Assessment for professional learning The use of assessment [is] to guide [teachers ] engagement in 
+professional development (e.g., identify professional learning needs; determine the appropriateness of practices, and identify areas for improvement) (Alonzo et al., 2021, p. 44).
+16 Formative assessment Assessments are formative when they gather information about 
+learning processes   to enhance decision-making and adjust 
+teaching to meet student needs (Veugen et al., 2021, p. 1).
+17 Formative assessment [FA] encompassing all those activities   which provide information to 
+be used as feedback to modify the teaching  
+(Zeng & Huang, 2021, p. 7)
+18 Assessment for learning Teachers  and students  use of evidence to provide feedback [and]  
+inform next steps for instruction (Coombs et al., 2022, p. 7).
+19 Formative assessment Formative assessment allows teachers to obtain evidence about student 
+thinking   and use that data to adapt instruction to meet 
+individual needs (Martin et al., 2022, p. 418).
+21 Practical Refers to the formative assessment practices a teacher uses to monitor, 
+judge, and manage the teaching   assuring its soundness and 
+quality, with an aim to promote   and teaching 
+(Z. Yan & Pastore, 2022, p. 3).
+21 Conceptual Conceptual dimension refers to the content knowledge and guiding principles regarding formative assessment, including its purposes 
+and methods. Teacher knowledge base    encompasses theoretical understanding of assessment purposes to guide instructional decisions (Z. Yan & Pastore, 2022, p. 3).
+22 Classroom-based assessment It is viewed as a process that teachers    use in collecting, evaluating, 
+and using evidence of student learning 
+(Q. Yan et al., 2022, p. 4)
+24 Instructional purposes Teachers  beliefs of the purposes of assessment offer substantial 
+evidence supporting their recognition of its significant contribution to improving teaching    (Min & So, 2024, p.17).
+assessment  can  only  support  learning  when  assessment  results  accurately  represent  students   learning and  are  validly  interpreted.  In  this  sense,  constructs  such  as  Accuracy,  Design,  Contextual  and Informational  justice  converge  in highlighting  the  accuracy  and  interpretability  of assessment  results  as prerequisites  for learning-oriented  use  (Brown et  al., 2011; Coombs  et  al., 2022; Sonnleitner  & Kovacs, 2020).
+Importantly,  the  use  of assessment  information  is not  a one-way  process  led only by teachers;  it also serves  as a pathway  for offering  students  insights  on  how  to  enhance  their  learning  (Brown & Remesal, 2017). In contrast  to  the  improvement   construct,  the  prevalent  constructs  Formative  assessment   and  Assessment  for learning   emphasize  the  importance  of using  assessment  information  to  provide  feed- back that  offers insights  to students  on how to enhance  their learning, with a high degree  of conceptual overlap  between  them.  The focus  here  is on  teachers  providing  constructive  feedback  to  and  having  a learning-focused  dialogue  with  their  students.  This  is  supported  by  how  teachers  use  assessment 
+Table 5.  Category 2: assessment supports and improves students  learning.
+ID Construct Definition/description
+1 Improvement Assessment improves students  own learning   In this view, a range of techniques [are 
+used to]    identify the content and processes of student learning, including impediments to learning and unexpected strengths, with the explicit goal of 
+improving   student learning (Brown, 2004, p. 304).
+2 Improvement Assessment is a means of improving the quality of students  learning   A variety of 
+assessment techniques are used to identify the content and processes of student learning   (Brown et al., 2011, p. 317).
+2 Accuracy Assessment results are trustworthy, dependable, and sufficiently accurate to support 
+judgments about student learning (Brown et al., 2011, p.12).
+12 Informational justice It refers to the extent to which students are provided with adequate, truthful, and timely 
+information    regarding assessment (Sonnleitner & Kovacs, 2020, p.3).
+18 Design Focuses on the development of reliable assessments and items that measure student 
+learning in relation to learning objectives (Coombs et al., 2022, p.7).
+18 Contextual Works to ensure assessment or evaluation measures what it claims to measure (i.e., 
+learning objectives) and promote valid interpretations of results (Coombs et al., 
+2022, p.7).
+3 Formative assessment The aim is the improvement of personalized learning   Teachers use evidence and 
+dialogue to identify where pupils are  , where they need to go and how best to get there (Sach, 2012, p. 262).
+4 Formative assessment It is an entity that provides important information that teachers can use to promote 
+learning   (Young & Jackman, 2014, p. 407).
+6 Ability-oriented Assessment views as a significant means of cultivating students  ability and stimulating 
+their interest in learning   (Wu, 2017, p. 274).
+6 Subject-oriented Assessment is viewed as an important way of inducing students  critical thinking, 
+cultivating their personality, and encouraging their independent innovation   (Wu, 2017, p. 274).
+7 Learning The purpose of assessment is to provide information about student progress   providing 
+insights to students as to what they should do to improve their own learning (Brown & Remesal, 2017, p. 68).
+11 Assessment for learning Assessment for learning refers to using assessment information (e.g., self, peer, or teacher 
+feedback) to support learning (Lam, 2019, p. 79).
+11 Assessment as learning Assessment as learning is a subset of AfL, focusing on students  ability to reflect and 
+improve their learning through self-assessment (Lam, 2019, p. 80).
+14 Assessment for learning This is concerned with the use of assessment information by teachers and students to 
+guide students in their learning (Alonzo et al., 2021, p. 46).
+15 Assessment for learning Assessment is a process in which teachers seek to identify and diagnose student learning 
+problems, and provide quality feedback for students on how to improve (Abderrahim & Tibor, 2021, p. 120).
+15 Assessment as learning Assessment as learning is based on learners  reflections on evidence of learning   build 
+knowledge of themselves as autonomous and independent learners (p. 120).
+16 Formative assessment Formative assessment is an ongoing process to   promote learning based on students  
+current performance (Veugen et al., 2021, p. 1).
+17 Formative assessment Formative assessment is interpreted as    activities undertaken by students, which provide 
+information to be used as feedback to modify the learning activities in which they are engaged.  (Zeng & Huang, 2021, p. 5).
+18 Assessment for learning Teachers  and students  use of evidence to generate feedback on progress toward learning 
+objectives, i.e., inform next steps for learning (Coombs et al., 2022, p. 7).
+18 Assessment as learning Assessment as learning focuses on how the student fosters their metacognitive abilities 
+and learning skills through processes such as self-assessment, goal setting, and learning plans (Coombs et al., 2022, p. 7).
+18 Use/scoring Focuses on the adjustment and use of scoring protocols and grading schemes to respond 
+to assessment scenarios (Coombs et al., 2022, p. 7).
+18 Communication Focuses on the interpretation of assessment results and feedback through communication 
+to students (Coombs et al., 2022, p.7).
+18 Differentiated Individualizes learning opportunities and assessments that address each student s unique 
+learning needs and goals (Coombs et al., 2022, p.7).
+21 Practical Refers to the formative assessment practices a teacher uses to monitor, judge, and manage 
+the   and learning process, assuring its soundness and quality, with an aim to promote learning (Z. Yan & Pastore, 2022, p. 3).
+21 Socio-emotional Teachers  awareness of emotional and social aspects of assessment — including emotion, 
+motivation, and well-being, helps improve assessment systems that better support student learning (Z. Yan & Pastore, 2022, p. 3).
+22 Classroom-based assessment It is viewed as a process that   students use in collecting, evaluating, and using evidence 
+of student learning (Q. Yan et al., 2022, p. 4).
+23 Alternative assessment Alternative assessment uses student-centred strategies to support students  progress 
+(S enturk & Bas , 2023, p. 3).
+24 Feedback, grading  Refers to teachers  beliefs and practices about communicating assessment criteria and 
+and reporting of grades results, providing feedback, involving students in understanding or marking criteria, and reporting learning progress (Min & So, 2024, p. 18).
+information,  communicate  feedback  to  students  and  adjust  instruction  in response  to  students   learning needs  (Coombs  et  al., 2022; Min & So, 2024). Such  feedback  not  only  clarifies students   strengths  but also weaknesses  and  helps  them  to bridge  the  gap  between  their current  performance  and  desired  edu- cational  outcomes  (Abderrahim  & Tibor, 2021; Veugen  et  al., 2021; Zeng  & Huang,  2021). This aligns closely with Coombs  et  al. (2022) s description  of assessment  for learning,  which emphasizes  the  impor- tance  of feedback  that  helps  students  identify their errors and  plan the  next  steps  in their learning.
+Expanding  on  this  framework,  the  construct  of  assessment  as  learning,  as  articulated  by  Coombs et  al. (2022) and  Lam (2019), overlaps  with  the  constructs  outlined  above,  focusing  on  how  students actively engage  in self-assessment  and  reflection.  Assessment  for learning  and  as learning  highlight  the importance  of students  taking  an active role in their learning.  This active involvement  not  only enhances their  awareness  of personal  learning  goals  but  also equips  them  with the  skills to  take  responsibility  for their learning.
+In addition,  several constructs  extend  the  scope  of assessment  beyond  immediate  academic  improve- ment,  aiming instead  at the  cultivation  of learning  dispositions  that  have  an impact  beyond  the  immedi- ate  context.  For instance,  socio-emotional  constructs  emphasize  the  role  of  assessment  in  supporting students   motivation,  engagement  and  emotional  well-being  (Yan & Pastore,  2022), while ability-oriented and  subject-oriented  constructs  frame  assessment  as  a  means  to  foster  creativity,  critical thinking  and personal  growth  (Wu, 2017). Rather  than  replacing  academic  aims,  these  constructs  enrich  them  by expanding  the  focus of assessment  to include  social, emotional  and  developmental  dimensions.
+Together,  these  constructs  reflect  a  greater  emphasis  on  supporting  and  fostering  student  learning and  development.  Assessment  is no  longer  limited  to teacher  judgment,  as it is embedded  in the  learn- ing  process  itself. Despite  variations  in terminology,  there  is substantial  conceptual  convergence  in the idea  that  assessment,  when  used  formatively  and  collaboratively,  can  significantly  enhance  students  learning  experiences.
+3.4. Assessment  holds students  accountable
+Assessment  is perceived  as a way of recognizing  and  holding  students  to account  for their  learning  and achievement  (Table 6). This conception  includes  the  idea  that  assessments  are tools to measure  whether students  meet  required  academic  standards.  When  students  recognize  the  association  between  their efforts  and  their  assessment  results,  they  are  more  likely to  take  their  learning  responsibilities  seriously (Brown, 2004; Brown et  al., 2011). These assessments  predominantly  take  the  form of examinations  and tests,  which  require  students  to  demonstrate  whether  they  met  local and/or  national  curriculum  stand - ards. To achieve  academic  success, students  must  engage  deeply  with the  curriculum  and  prepare  thor- oughly  for  these  evaluations  (Brown & Gao,  2015). This active  engagement  not  only  improves  their understanding  but  also fosters a sense  of responsibility  and  accountability  for their learning.
+Moreover, the  assignment  of grades  and  scores provides  teachers  (and others)  with concrete  evidence to  compare  and  rank students,  allowing them  to  distinguish  between  individuals based  on  their  level of understanding  and  proficiency. This comparative  function  reflects a shared  structural  feature  across  con- structs  such  as  norm-referencing  and  certification  of learning,  where  assessment  is used  to  determine relative  performance  within  a cohort  (Alonzo et  al., 2021; Brown & Remesal, 2017). Additionally, grades from  the  various  qualification  examinations  undertaken  by secondary-age  students  are  used  for gradu- ation  and/or  to gain entry  to higher  levels of education  (Brown, 2004; Brown et al., 2011).
+In this  context,  examination-oriented  assessment  emphasizes  student  accountability  through  align- ment  with  high-stakes  testing  standards,  ensuring  that  classroom  assessments  are  structured  as prepar - ation  for externally  organized  examinations  (Brown & Gao, 2015; Wu, 2017). While these  constructs  may focus  on  different  outcomes,  such  as  awards,  certification,  or  selection,  they  converge  in  their  use  of assessment  to  formalize  student  responsibility  through  performance-based  decisions.  In a selective  sys- tem,  where  competition  is intense  and  the  criteria for advancement  are strict, such  assessments  become a driving force.
+In parallel to  outcome-based  evaluation,  assessment  also serves  as a mechanism  for behavioral  regu- lation,  which  in turn  has  the  potential  to  reinforce  student  accountability.  Constructs  such  as  manage - ment-oriented,  control  and  management  and  inspection  (Brown & Gao, 2015; Brown et  al., 2011; Wu, 
+Table 6.  Category 3: assessment holds students accountable.
+ID          Construct                                            Definition/description
+1           Accountability for students                          students are held individually accountable for their learning through assessment. This is seen in
+2           Student accountability Control                        the assignment of grades or scores, checking off student performance against criteria, placing
+2           Institutional targets Management and inspection       students into classes or groups based on performance, as well as various qualifications
+5 5 6        Examination-oriented                                 examinations in which secondary age students participate for graduation or entry selection to
+6           Management-oriented                                   higher levels of educational opportunity (Brown, 2004, p.
+7 11 14 14  Certifying of learning Assessment of learning         304).
+15 18 23     Assessment for evaluation                           Assessment holds students accountable for learning    This is usually 
+             Norm-referencing                                    done using performance on examinations or tests. This requires grading, scoring, or evaluating
+            Assessment of learning Assessment of learning         student performance against standards, objectives targets, or expectations (Brown et al., 2011,
+             Traditional                                          p.
+             assessment                                           317).
+                                                                 Assessment controls student behavior and actions both in and out of 
+                                                                 class   Assessment is used to enhance and maintain the control of the teacher and the dominance
+                                                                  of teacher s opinions over those of the student (Brown et al., 2011, p.
+                                                                  317).
+                                                                 [Here] assessment [is] a way of checking whether students have fulfilled 
+                                                                 the pre-set learning targets and standards as instantiated in public examinations (Brown & Gao,
+                                                                  2015, p.
+                                                                  10).
+                                                                 [Assessment] is used to inspect and control students   including their 
+                                                                 academic performance, conduct, and discipline, as a means to urge better   and learning (Brown &
+                                                                  Gao, 2015, p.
+                                                                  9).
+                                                                 [The term] examination refers to out-of-school and educational-authority- 
+                                                                 organized official tests for higher education selection. The examination- oriented conception
+                                                                  views assessment as pre-training for these tests, requiring that assessments align with their
+                                                                  standards   ensuring students  preparedness (Wu, 2017, p.
+                                                                  272).
+                                                                 [Assessment] focuses on the student s classroom performance by classroom
+                                                                 reviewing, aiming at maintaining classroom discipline, and using assessment as a means to monitor
+                                                                  student engagement and behavior (Wu, 2017, p.
+                                                                  271).
+                                                                   uses assessment to provide an accreditation to or certification of 
+                                                                 learning results (Brown & Remesal, 2017, p. 69).
+                                                                 Assessment of learning is about summarizing and judging student learning 
+                                                                 near the end of a teaching unit or a semester (Lam, 2019, p. 79).
+                                                                 The belief that assessment is used to make judgments about students  
+                                                                 performance, grades, and ranks (Alonzo et al., 2021, p. 41).
+                                                                 This is the belief of   teachers on the use of assessment to compare 
+                                                                 students  academic standing   against their peers. This addresses the concerns of the schools to
+                                                                  determine high-performing students   who will receive academic awards   (Alonzo et al., 2021, p.
+                                                                  41).
+                                                                 Assessment of learning is used to determine and report on student 
+                                                                 achievement at the end of a learning cycle (Abderrahim & Tibor, 2021, 
+                                                                 p. 120).
+                                                                 Teachers  use of evidence to summate student learning and assign a grade to students  achievement
+                                                                                            of learning objectives (Coombs et al., 2022,
+                                                                                                                  
+                                                                 p. 7).
+                                                                 Teachers  evaluate students at the end of the teaching and learning 
+                                                                 process and their primary focus is on the final achievement of students whether [they] pass or
+                                                                  fail (S enturk & Bas , 2023, p.
+                                                                  306).
+2017) conceptualize  assessment  not  merely as a tool  to measure  academic  achievement,  but  as an insti- tutional  means  of shaping  students   conduct  and  participation.  These  constructs  emphasize  the  role  of assessment  in  monitoring  engagement,  enforcing  discipline  and  ensuring  compliance  with classroom  expectations.  Together  with summative  and  performance-based  assessments  that  impose  aca- demic  consequences  through  grades  and  rankings,  the  behavior-focused  function  of  assessment  links students   classroom  behavior  with  specific outcomes,  such  as  praise,  sanction,  promotion,  or  exclusion. Through  both  academic  and  behavioral  consequences,  assessment  functions  as  a  consequence- based  system  that  institutionalizes  student  responsibility  and  aligns student  actions  with school-defined goals.
+3.5. Assessment  holds teachers,  schools  and systems  accountable
+In this  category,  accountability  is not  directed  at  students  but  at  teachers,  schools  and  education  sys- tems.  Across the  inventories,  two  main  emphases  can be  identified:  performance-based  control  and  nor- mative  legitimacy.
+Table 7.  Category 4A: performance-based and control-oriented accountability.
+ID Construct Definition/description
+1 Accountability for teachers and schools Assessment can be used to account for a teacher s, a school s, or a system s 
+use of society s resources. This conception uses assessment results to demonstrate publicly that teachers or schools are doing a good job and imposes consequences    for reaching or not reaching required standards (Brown, 2004, p. 304).
+2 School accountability Assessment    holds teachers, schools, and systems accountable for 
+achieving    goals and expectations. This is usually done using   performance on external, high-stakes examinations    Assessment results are used to demonstrate publicly that    are doing a good job. Schools and teachers are rewarded    or punished    for exceeding or not reaching required standards (Brown et al., 2011, p. 317).
+2 Control Accountability integrates evaluating students and schools   and reframes 
+both as part of control   It is about controlling schools, teachers, and students   not just determining how good they are (Brown et al., 2011, p. 314).
+5 Management and inspection The aims of assessment are inspection and control of schools and 
+teachers   purportedly to urge better teaching and achievement  
+Student performance is an indicator of the quality of teachers and 
+schools (Brown & Gao, 2015, p. 9).
+7 Accounting Offering accountability to different classroom-external agents, including 
+school administrators, families and policy makers. Assessment delivers results to outsiders to judge the performance of students, teachers, or schools (Brown & Remesal, 2017, p. 68).
+14 Assessment for instructional accountability This is the belief of the teachers [about] the use of assessment for 
+accountability (e.g., assessment results can be used to evaluate the effectiveness of [teachers] teaching and educational programs) (Alonzo et al., 2021, p. 44).
+20 Assessment to learning Assessment to learning refers to the reporting of assessment results to 
+parents, and other stakeholders, such as teachers, and schools (Takele & Melese, 2022, p. 4).
+3.5.1. Performance-based and control-oriented accountability
+Assessment  serves as a tool to ensure  the  accountability  of teachers  and  schools  to various stakeholders, including  school  communities,  governments  and  society, by demonstrating  effectiveness  and  adherence to  required  standards  (Table  7). Similar to  student  accountability,  this  form  of accountability  relies  on assessment  data  to evaluate  performance  against  externally defined  expectations.
+Assessment  holds  teachers  and  schools accountable  for facilitating student  learning  and  meeting  local and  national  standards.  As articulated  by Brown (2004) and  Brown et  al. (2011), assessment  results  are used  to  publicly demonstrate  whether  teachers  and  schools  meet  societal  goals  and  expectations.  This category  is  typically  operationalized  through  standardized  tests  and  high-stakes  examinations,  with results  reported  to  parents,  policymakers  and  the  public  to  establish  accountability  for teaching  quality and  educational  effectiveness  (Alonzo et  al., 2021; Brown, 2004; Brown  et  al., 2011; Takele & Melese, 2022).
+Beyond evaluation,  assessment  also functions  as an institutional  mechanism  of management  and  con- trol. Constructs  such  as management-oriented,  control  and  management  and  inspection  emphasize  the use  of  assessment  to  monitor  and  regulate  the  performance  of  schools  and  teachers  through  formal consequences  linked to assessment  outcomes  (Brown & Gao, 2015; Brown et al., 2011; Brown & Remesal, 2017). As noted  by Brown et  al. (2011), schools  and  teachers  may be  rewarded  or sanctioned  based  on whether  required  standards  are  met  (p. 317). Through  these  performance-based  and  control-oriented mechanisms,  assessment  institutionalizes  teacher  and  school  accountability  and  aligns professional  prac- tice with system-level  goals.
+3.5.2. Normative and legitimacy-oriented accountability
+Normative  and  legitimacy-oriented  accountability  treats  accountability  as contingent  on  whether  assess- ment  practices  and  decisions  can  be  justified against  shared  normative  principles  and  legitimacy  stand - ards.  In contrast  to  performance-based  control,  it emphasizes  the  normative  justification  of assessment procedures  which are used  in ways that  minimize measurement  error and  are ethically justified and  pro- cedurally fair.
+Table 8.  Category 4B: normative and legitimacy-oriented accountability.
+ID         Construct                                       Definition/description
+2          Error                                           Error refers to teachers  beliefs that assessment results are inherently imprecise 
+25 26      Avoid score pollution Score pollution avoidance and should therefore be interpreted and used cautiously    to prevent unjust outcomes arising from
+18 18      Balanced                                         measurement error (Brown et al., 2011, p.
+18 18      Consistent                                       9).
+12 25      Standard                                        Test scores accurately reflect students  mastery of content without any score 
+           Equitable                                       inflation (Liu et al., 2024, p. 3)
+           Procedural justice Unambiguity                  Pollution of score occurs when the test score fails to accurately reflect a student s
+                                                           attainment    and is contaminated by factors irrelevant to academic performance (Ahmadi Safa & Nasiri,
+                                                            2025, pp. 1,
+                                                            5)
+                                                           Works to ensure consistency in measuring what an assessment or evaluation 
+                                                           intends to measure    and the degree to which it measures what it claims to measure (Coombs et al.,
+                                                            2022, p.
+                                                            7).
+                                                           Works to ensure consistency in results within assessments, across time periods, 
+                                                           and between teacher (Coombs et al., 2022, p. 7).
+                                                           Maintain equal assessment protocols for all students (Coombs et al., 2022, p. 7). Adjust assessment
+                                                            protocols for formally identified groups (e.g., special
+                                                            education,
+                                                           English language learners) (Coombs et al., 2022, p. 7).
+                                                           Procedural justice focuses on the process of assessment and grading and 
+                                                           emphasizes clear and consistent standards    transparently communicated and applied (Sonnleitner &
+                                                            Kovacs, 2020, p.
+                                                            3).
+                                                           Unambiguity encompasses the idea that prior to an assessment, students ought 
+                                                           to be aware    of how their work will be evaluated (Ahmadi Safa & Nasiri, 2025, pp. 1, 5)
+This category  shows  clear conceptual  convergence  across  constructs  drawn  from different  inventories (Table 8). Specifically, these  constructs  can  be  grouped  into  two  interrelated  aspects:  (1) concerns  with measurement  and  score  validity and  (2) concerns  with  procedural  justification, fairness and  consistency. Constructs  within the  first aspect  emphasize  whether  assessment  results  accurately  reflect students   true abilities  or  what  the  assessment  claims  to  measure,  focusing  on  the  avoidance  of  measurement  error and  construct-irrelevant  influences  that  may distort  assessment  outcomes  (e.g., Error, Avoid score  pollu- tion, Balanced). Constructs  within  the  second  aspect  emphasize  the  procedural  justification  and  fair use of assessment,  highlighting  the  importance  of clear, consistent  and  equitable  assessment  practices  that support  the  credibility  and  appropriate  use  of  assessment  outcomes  (e.g.,  Consistent,  Standard, Equitable, Procedural  justice, Unambiguity).
+It  should  be  noted  that  these  two  aspects  are  not  independent  but  are  closely  intertwined.  This means  that  how  assessment  is conducted  and  used  directly  affects  the  credibility of assessment  scores and  outcomes.  When  assessment  procedures  are  inappropriate  or  unfairly applied,  the  validity of  the resulting  scores  and  interpretations  is undermined.  Accordingly, procedural  fairness and  consistency  are commonly  treated  as conditions  for reducing  score  distortion  and  error, thereby  supporting  the  credibil- ity  of  assessment  outcomes  (Ahmadi  Safa  & Nasiri, 2025;  Brown  et  al.,  2011;  Coombs  et  al.,  2022; Sonnleitner  & Kovacs, 2020). Empirically, concerns  about  measurement  error  or score  pollution  tend  to co-occur  with  evaluations  of  procedural  clarity, fairness  and  consistency  (Ahmadi  Safa & Nasiri, 2025; Brown et  al., 2011; Liu et  al., 2024). Together,  these  patterns  suggest  that  the  identified  constructs  cap- ture  a  coherent  belief  system  concerning  the  accountable,  trustworthy  and  appropriate  use  of assess- ment  outcomes.
+3.6. Assessment  is irrelevant or negative
+In this category,  assessment  is perceived  as irrelevant  in relation  to teaching  and  learning  due  to factors such  as  a  lack of ability to  provide  accurate  and  trustworthy  information  about  student  achievement, the  adverse  effect assessment  has on teacher  autonomy  and  on  the  negative  impact  assessment  has on the  nature  of the  curriculum  and  student  well-being  (Table 9). Assessment  is considered  irrelevant  if it does  not  align  with  class learning  outcomes  or goals,  leading  to  a disconnect  between  the  assessment and  its effectiveness  in evaluating  student  progress  and  achievement  (Brown, 2004; Brown et al., 2011).
+In practice,  teachers  tend  to  rely on  their  deep  understanding  of the  curriculum  and  their  ongoing interactions  with students  instead  of information  from formal assessment  tasks. This is because,  through daily  teaching  activities  such  as  observation,  discussion  and  feedback,  teachers  can  gain  a  more 
+Table 9.  Category 5: assessment is irrelevant or negative.
+ID Construct Definition/description
+1 Irrelevance Assessment    has no legitimate place within teaching and learning. Teachers  
+knowledge of students    preclude[s] the need to carry out any kind of assessment beyond the intuitive in-the-head process that occurs automatically as teachers interact with students. Assessment may be rejected also because of its pernicious effects on teacher autonomy and professionalism,    its distractive power from    student learning [and its]    inaccuracy (Brown, 2004, p. 305).
+2 Irrelevance Assessment serves no legitimate role within teaching and learning. While assessments may be administratively required, teachers  knowledge of students 
+precludes the need for assessment. Externally mandated assessments   have negative effects on teacher autonomy and professionalism    distract from the real purpose of teaching    Since accurate    measurement of assessment is difficult, teachers may have legitimate grounds to ignore assessment (Brown et al., 2011, p. 317).
+5 Negativity In this conception, assessment    is not accurate    may come with errors. 
+Consequently, teachers might view    invalid interpretations leading to negative effects for students. Assessment may disrupt teaching, forcing teachers to adopt methods    incompatible with their beliefs (Brown & Gao, 2015, p. 10).
+10 Acceptance of assessment Teachers express negative attitudes towards assessment, viewing it as a burden 
+that interrupts their teaching and fails to accurately reflect student 
+understanding (Zhao et al., 2018, p. 1398). 
+11 Negative attitude Teachers are inclined to consider assessment negative since it oftentimes links to 
+mastery of technical skills (e.g., scoring methods), involvement in high-stakes decision-making processes, and excessive focus on summative assessment (Lam, 2019, p. 80).
+comprehensive  understanding  of students   learning  progress.  In contrast,  formal assessment  tasks (e.g.,fi- nal  exams  or standardized  tests)  may  fail to  capture  the  subtle  progress  or individualized  performance of students  during  the  learning  process.  This gap  highlights  the  belief that  assessments  are often  discon- nected  from  authentic  class-based  learning  experiences  and  fail to  contribute  meaningfully  to  student learning.  As a result, assessments  disrupt  teaching,  forcing teachers  to adopt  methods  incompatible  with their  beliefs  about  what  constitutes  good   teaching  (Brown & Gao, 2015). This misalignment  between assessment  practices  and  teaching  philosophy  undermines  the  educational  process  and  ultimately  dimin- ishes the  quality of education.
+Three of these  constructs  adopt  the  term  negative   to  highlight  the  adverse  effects  assessments  can have.  Lam (2019) points  out  that  teachers  often  associate  assessment  with  technical  skills and  high- stakes  decision-making,  which  can  create  a  stressful  environment.  This issue  is  compounded  by  the time-consuming  nature  of assessment  tasks that  impose  tedious  administrative  responsibilities  on  teach- ers (Brown & Gao, 2015). This sentiment  is echoed  by Zhao  et  al. (2018) who  noted  that  teachers  view assessment  as a burden  that  interrupts  their  teaching  and  fails to  provide  an  accurate  reflection  of stu- dent  understanding.  Collectively, these  constructs  elucidate  the  multifaceted  challenges  posed  by assess- ments  that  can hinder  teaching  efficacy.
+The  consequences  of  these  negative  impacts  extend  beyond  instructional  practices,  affecting  stu- dents   perceptions  and  experiences  of learning.  Teachers  often  perceive  assessment  tasks  as  prone  to error, leading  them  to doubt  their  accuracy in representing  student  achievement.  When assessments  are not  providing  accurate  information,  this  can  lead  to  misguided  interpretations  and  conclusions  about students   abilities  and  performance  levels. Such  inaccuracies  can  lead  to  a  learning  experience  that  is neither  enriching  nor reflective of students   true  capabilities  (Brown & Gao, 2015).
+3.7. Assessment  as a formal activity
+In this category  (Table 10), assessment  is characterized  in a traditional  manner  as an  activity that  typic- ally utilizes  formal,  standardized  tasks  to  provide  summative  information  about  student  achievement. Constructs  such  as summative  assessment,  traditional  assessment  and  assessment  of learning  reflect  an understanding  of  assessment  as  summarizing  achievement  through  marks  or  grades,  particularly  for reporting  purposes  and  the  awarding  of certificates  or  scholarships.  Extending  earlier  conceptions  that 
+Table 10.  Category 6: assessment as a formal activity.
+ID       Construct                                          Definition/description
+8 13 15  Summative assessment tasks Traditional assessments Summative assessment tasks: final tests, which are used to determine what 
+18 20 23  methods Traditional assessment                    students know at the end of a chapter, unit, or series of lectures on a topic (Alt, 2018, p. 5).
+ 24       methods                                           Standardized assessments are tests that can consist of open-ended questions or 
+         Traditional assessment practices Assessment of     closed-ended ones such as multiple-choice questions. These tests    mostly 
+          learning Traditional assessment practices Methods measure knowledge at different levels of complexity (Akiri et al., 2021, p. 2). Traditional
+          and                                                assessment    forbids students to interact, and provides norm
+          Techniques                                         
+                                                            referenced feedback through comparisons with others  results, including 
+                                                            multiple-choice tests, essays, short-answer tests, matching, fill-in-the-blank, 
+                                                            information transfer, question-and-answer tasks, and completion items 
+                                                            (Abderrahim & Tibor, 2021, p. 121).
+                                                             Traditional assessment practices involve assigning the same task to all students and using the same
+                                                                                    rubric or score for all students (Coombs et al., 2022,
+                                                                                                               
+                                                            p. 11).
+                                                            Assessment of learning refers to activities that determine how students are 
+                                                            performing   and how they compare with others (e.g., paper-pencil tests, mid-term or final exams,
+                                                             etc.) (Takele & Melese, 2022, p.
+                                                             4).
+                                                            Traditional Assessment is often characterized by paper-and-pencil 
+                                                            tests  including multiple-choice tests, exams, quizzes, and text-book exercises (S enturk & Bas ,
+                                                             2023, p.
+                                                             306).
+                                                            Refers to teachers  beliefs and practices regarding different forms of performance 
+                                                            assessment (e.g., paper-and-pencil vs selected-response vs constructed- response items) (Min & So,
+                                                             2024, p.
+                                                             11)
+focused  primarily on  assessment  purposes,  this  category  emphasizes  assessment  formats  as  a  defining feature  of practice.  It is important  to note  that  Brown s (2004, 2011) foundational  work on teachers   con- ceptions  of assessment  primarily focuses  on  the  purposes  and  nature  of assessment,  without  explicitly distinguishing  between  formal and  informal assessment  formats.  This review, however,  extends  the  con- ceptual  framework  by incorporating  assessment  formats  as a key dimension,  providing  a more  compre - hensive  understanding  of how teachers  perceive  and  enact  assessment  practices.
+Building on  this foundational  understanding,  the  focus shifts in Category  6 to  emphasize  the  various tasks and  methods  teachers  use to carry out  such assessments.  In this context,  the  constructs  of summa- tive  assessment,  traditional  assessment  and  assessment  of  learning  embody  formal  and  standardized methods,  tasks  and  practices  designed  to  summarize  and  evaluate  student  learning.  These  approaches are closely aligned  with desired  learning  outcomes,  units, or courses  and  typically involve tasks adminis- tered  uniformly to  the  entire  class. A key feature  is the  use  of standardized  tasks  and  tests,  which  pro- vide  a  consistent  method  for  measuring  student  knowledge  and  understanding  (Abderrahim  & Tibor, 2021; Akiri et  al., 2021, 2021; Alt, 2018; Takele & Melese, 2022). For example,  paper-and-pencil  tests,  as a hallmark  of  traditional  assessment  practices,  offer  a  standardized  format  for  measuring  knowledge (Coombs et al., 2022; S ent urk  & Bas , 2023). These formal assessment  tasks can take various forms, includ- ing multiple-choice,  short-answer  and  fill-in-the-blank items  (Akiri et al., 2021; Abderrahim  & Tibor, 2021). The commonality  lies in their emphasis  on standardization,  ensuring  that  all students  are assessed  under consistent  conditions.  They  primarily  rely  on  quantifiable  outcomes,  such  as  grades  or  scores,  which facilitate  comparisons  among  students.  This norm-referenced  interpretation,  commonly  used  in  tradi- tional  assessment  or assessment  of learning,  allows teachers  to  compare  students   performance  to  their 
+peers  (Takele & Melese, 2022).
+3.8. Assessment  as an informal activity
+In this category  (Table 11), teachers   conceptions  emphasize  informal assessment  practices  embedded  in everyday  instructional  interactions,  including  whole-class, small-group  and  individual settings.  These con- structs  are  closely associated  with  formative  assessment  and  assessment  for learning,  understood  here as  ongoing  and  informal  processes  integrated  into  daily  teaching.  Unlike Categories  1  and  2,  which frame formative  assessment  primarily in terms  of its purpose  to improve  teaching  and  learning,  this cat- egory  focuses  on  real-time  classroom  practices  such  as oral questioning,  dialogue,  observation  and  peer or self-assessment  used  to generate  continuous  feedback  (Nasr et al., 2018; Veugen et al., 2021; Young & Jackman, 2014).
+Table 11.  Category 7: assessment as an informal activity.
+ID Construct Definition/description
+4 Formative assessment practices The implementation of formative strategies includes questioning 
+techniques, feedback without grades, self-assessment, peer assessment (Young & Jackman, 2014, p. 401).
+8 Formative assessment tasks Teachers   use [formative assessment tasks] during teaching—learning— 
+assessing processes  . these [ongoing] tasks    allow[s] for frequent, interactive assessments of student progress, such as research papers, experiments, or simulation games (Alt, 2018, p. 5).
+9 Assessment for learning;-perceived monitoring Monitoring involves informal assessment practices focused on feedback and 
+self-monitoring   such as observing students, asking questions, and 
+providing immediate feedback (Nasr et al., 2018, p. 3).
+9 Assessment for learning-perceived scaffolding Scaffolding refers to temporary assistance from teachers to support 
+learning   When teachers ask guiding questions or provide hints, they are informally assessing students  comprehension and readiness for more complex tasks (Nasr et al., 2018, p. 3).
+11 Assessment practices Assessment practices   refer to how innovative assessments are 
+implemented in teachers  work contexts   including feedback, self/peer assessment, and informal conferencing (Lam, 2019, p. 80).
+13 Alternative assessment methods Alternative assessment refers to non-standardized methods   tailored to 
+the individual, including project portfolios, inquiry portfolios, and oral 
+tests (Akiri et al., 2021, p. 2).
+15 Alternative assessment methods Assessment [is] a prominent approach that combines learning,  
+instruction and evaluation  [which] encourages collaborative and 
+autonomous learning. Techniques include oral interviews, portfolios, 
+observation, self- and peer-assessment (Abderrahim & Tibor, 2021,  
+p. 120—121).
+16 Formative assessment activities Formative assessment is an ongoing process   with specific teacher 
+activities in the classroom   including asking deeper questions, observations, peer explanations, and opportunities for student responses (Veugen et al., 2021, p. 1).
+18 Contemporary assessment It reflects assessment for and as learning   using assessment information 
+to guide planning, promote engagement, and provide feedback. 
+Strategies include adjusting teaching, varied methods, and peer/self- 
+assessment (Coombs et al., 2022, p. 11).
+19 Formative assessment practice Formative assessments are typically informal and embedded within 
+instruction   Examples include observations, interviews, informal 
+question-answer activities, journals, and discussions   (Martin et al., 
+2022, p. 418).
+20 Assessment for learning Assessment for learning focuses on tracking student progress through short 
+quizzes, feedback, and other activities   such as classwork, observation, and questioning (Takele & Melese, 2022, p. 4).
+20 Assessment as learning Assessment as learning refers to task-based activities   crucial in helping 
+students become lifelong learners (e.g., self and peer assessments) 
+(Takele & Melese, 2022, p. 4).
+22 Classroom-based assessment practice Teachers used assessment methods [classroom-based practices] of oral 
+questioning and observations; self-assessment and peer- assessment; 
+providing feedback to students   (Q. Yan et al., 2022, p. 9).
+Informal assessment  is characterized  by its spontaneous  and  interactive  nature,  functioning  alongside instruction  rather  than  as a planned  or scheduled  activity. Through  conversations,  classroom  discussions and  teacher  observations,  assessment  information  is generated  during  instruction  and  used  to  support immediate  pedagogical  responses  (Abderrahim & Tibor, 2021; Martin et al., 2022).
+Self- and  peer-assessment  further  exemplify  the  informal  nature  of  assessment  by  positioning  stu- dents  as active  participants  in the  assessment  process.  These practices  encourage  learners  to  reflect  on their  own  learning  and  that  of others,  fostering  engagement,  agency  and  responsibility  (Abderrahim  & Tibor, 2021; Yan et al., 2022). By emphasizing  student-led  evaluation  and  collaborative  feedback,  informal assessment  supports  deeper  engagement  and  integrates  assessment  into the  learning  process  (Alt, 2018; Nasr et al., 2018).
+4. Discussion  and conclusion
+This systematic  review examined  26 quantitative  inventories  that  aim to  measure  teachers   conceptions of  assessment  (TCoA), revealing  a  complex  and  fragmented  landscape  of  assessment  constructs. Through  inductive  thematic  synthesis,  we  identified  seven  core  categories:  five  purposes  (teaching improvement,  student  development,  student  accountability,  teachers  and  school  accountability,  irrele- vance/negativity)  and  two  reflecting  assessment  formats  (formal, informal). Together,  these  dimensions offer a synthesized  conceptual  framework  for evaluating  how teachers  understand  the  functions  and  val- ues of assessment  in educational  settings.
+4.1. Research limitations
+This review is limited  to  studies  involving primary  and  secondary  school  teachers  and  may  not  capture distinctive  assessment  conceptions  held  by  educators  in early childhood  or  tertiary  education  settings. Moreover,  while  the  review  synthesizes  construct  definitions  across  26 quantitative  inventories,  it does not  examine  how  these  beliefs  are  enacted  within  specific institutional  contexts  or  shaped  by  broader cultural  and  policy environments.  The analysis is based  on  author-defined  constructs  rather  than  item- level  data,  which  may  limit  the  detection  of  subtle  variations  in  construct  meaning  or  measurement structure.  In addition,  the  findings  are  limited  to  constructs  defined  within  a psychometric  perspective. They  primarily  reflect  how  assessment-related  constructs  are  operationalized  in  quantitative  measure - ment  frameworks  and  may  not  capture  alternative  conceptualizations  identified  with  other  methodo - logical  choices.  For example,  in  this  study,  fairness  is defined  as  procedural  equality,  as  derived  from existing  inventories.  However,  research  adopting  critical  perspectives  conceptualizes  fairness  more broadly  in relation  to  ethical  and  contextual  considerations  encompassing  issues  of bias, representation and  the  equitable  treatment  of diverse  groups  (Tajeddin  et  al., 2022). Such  aspects  of fairness  remain largely absent  from the  assessment  instruments  analyzed  in this study.
+Future  research  could  expand  to  other  educational  levels and  further  examine  how  teachers   concep - tions  of assessment  are  shaped  by contextual  factors  such  as teacher—student  accountability  dynamics, school  culture  and  education  policy. It could  also incorporate  qualitative  or mixed-methods  approaches to better  capture  how these  conceptions  are formed,  enacted  and  transformed  in context,  including  eth- ical and  experiential  dimensions  not  represented  in current  inventories.
+4.2. Conceptual convergence  across TCoA inventories
+The  wide  array  of  existing  TCoA inventories  is commonly  assumed  to  reflect  a  diverse  and  evolving understanding  of  assessment  conceptions.  Yet, our  analysis  reveals  a  surprising  degree  of  conceptual convergence.  Most inventories  emphasize  two dominant  functions  of assessment:  (1) improving  teaching and  learning  and  (2) ensuring  student  or institutional  accountability.  This duality has been  noted  in prior work  on  teachers   assessment  conceptions  as  a  recurring  tension  shaping  how  teachers  think  about assessment  (Bonner, 2016; Brown, 2017). Although  policy frameworks  uniquely  shape  teacher  thinking about  assessment  in a potentially  unique  fashion  within  each  jurisdiction  (Xu & Brown, 2016), this  ana- lysis suggests  that  there  are  two  relatively  universal  pressures  that  shape  teacher  thinking  across  the studied  inventories.
+These  purposes  are  not  merely  descriptive;  they  reflect  deeper  ideological  commitments  embedded within  dominant  forms of educational  thinking  and  practice.  The improvement-oriented  view, grounded in  constructivist  and  learner-centred  paradigms  (Black & Wiliam, 1998; Sadler,  1989), positions  assess- ment  as a formative,  dialogic  and  developmental  tool.  In contrast,  the  accountability  perspective  aligns with  managerialist  logics, framing  assessment  as  a  mechanism  of  regulation,  ranking  and  institutional control  (Brown, 2004; Brown & Michaelides,  2011). This dual  orientation  has  been  widely  observed  in empirical  studies.  This finding  is in  parallel  to  Brown s (2004) model,  which  reports  that  teachers  fre- quently  endorse  both  improvement  and  accountability  purposes,  supporting  classroom  learning  while also  complying  with  institutional  expectations.  Similarly, studies  have  been  found  to  navigate  between assessment  for learning  and  assessment  of learning,  reflecting  a dual commitment  to formative  develop - ment  and  systemic accountability  (DeLuca et al., 2016; Remesal, 2011). At the  policy level, efforts to inte- grate  formative  and  summative  functions,  aiming  to  improve  teaching  while  ensuring  public accountability,  have  also been  widely documented  (Looney, 2011).
+4.3. Theoretical ambiguity and construct redundancy
+4.3.1. Different labels, same meaning
+While the  convergence  of core  assessment  purposes  across  TCoA inventories  reflects  a shared  concep - tual  foundation,  it also highlights  a recurring  issue  of construct  redundancy  and  measurement  ambigu - ity. First, many  inventories  suffer  from  terminological  inconsistency,  where  key  constructs  are  labeled ambiguously  or used  interchangeably  without  theoretical  justification. A prominent  source  of confusion lies in  the  inconsistent  use  of  labels  such  as  formative  assessment,  assessment  for  learning  (AfL) and improvement.  These constructs  commonly  appear  across inventories  with overlapping  content  or similar conceptual  intent,  namely  framing  assessment  as  a  tool  to  support  student  learning  and  instructional refinement.  Yet their  meanings  are  seldom  differentiated  in theoretically  meaningful  ways. For example, formative  assessment  is  traditionally  rooted  in  teacher-led  feedback  cycles  (Sadler,  1989),  while  AfL emphasizes  student  agency,  dialogue  and  co-construction  of learning  goals  (Black & Wiliam, 1998). The construct  improvement  frequently  used  in  the  TCoA-III and  its  derivatives  (Brown, 2004; Brown et  al., 2011), is often  loosely  defined,  encompassing  both  student  learning  gains  and  teaching  effectiveness without  specifying underlying  mechanisms.
+Redundancy  is further  exacerbated  by  inventories  that  replicate  the  same  construct  across  multiple measurement  levels. For example,  although  Improvement  is explicitly labeled  as  a  factor  in  only  two inventories  (Brown, 2004; Brown et  al., 2011), several  others  implicitly reflect the  same  idea  through  the construct  content  highlighting  assessment s  instructional  or learning  function  (e.g., Brown & Gao, 2015; Brown & Remesal, 2017; Wu, 2017; Zhao  et  al., 2018). These findings  suggest  a shared  belief in the  for- mative  value of assessment,  but  the  lack of terminological  consistency  contributes  to  semantic  ambigu - ity and  structural  redundancy.
+A  similar  pattern  emerges  in  the  use  of  control-oriented  constructs  such  as  Examination, Accountability,  Summative  Assessment,  Management,  Control  and  Certification.  Although  all  of  these refer to institutional  and  consequential  purposes  of assessment,  their theoretical  origins, policy semantics and  cognitive  interpretations  vary  considerably.  Across inventories,  these  labels  are  often  used  inter- changeably  without  clarifying  their  intended  referents  or  practical  implications,  resulting  in  semantic conflation  and  conceptual  overlap.  For instance,  Brown and  Remesal (2017) use  Control  to  denote  top- down  enforcement  mechanisms,  while  Alonzo  et  al. (2021) conceptualize  similar regulatory  dynamics under  the  label  Instructional  Accountability,  portraying  it as  teachers   beliefs  about  meeting  mandated standards  and  ensuring  student  performance.  Despite  capturing  analogous  phenomena,  the  constructs are embedded  at different  levels of abstraction  and  framed  inconsistently,  thereby  complicating  theoret -
+ical synthesis  and  cross-instrument  comparisons.
+4.3.2. Same label, different meaning
+Conversely, another  form of conceptual  ambiguity  arises when  the  same  label  is used  to  denote  differ- ent  meanings  across  inventories.  Although  such  terminological  convergence  might  suggest  construct alignment,  closer scrutiny often  reveals divergent  theoretical  assumptions  and  operational  definitions.
+This problem  can  be  observed  most  clearly in the  use  of the  labels formative  assessment  and  assess- ment  for learning  (AfL), which  recur  across  many  TCoA-related inventories.  In some  inventories,  forma- tive assessment  is treated  as a broad  belief orientation  reflecting  teachers   views about  learning-centred assessment  (e.g., Sach, 2012; Yan & Pastore,  2022). In others,  however,  the  same  label  is used  to  oper- ationalize  teachers   self-reported  classroom  practices,  shifting  the  construct  away  from  underlying  con- ceptions  toward  enacted  or reported  instructional  behaviors.  This divergence  is evident  in studies  such as Young and  Jackman  (2014), where  formative  assessment  is discussed  in terms  of teachers   perceptions and  attitudes,  yet  the  questionnaire  places  substantial  emphasis  on  the  frequency  of specific practices, including  feedback  provision,  peer  assessment  and  instructional  adjustment.  A similar pattern  appears in Martin et  al. (2022), whose  study  refers  to  teachers   perceptions  of formative  assessment  while  the inventory  primarily captures  reported  use, perceived  benefits  and  implementation  strategies.  As a result, identical  labels  are  used  to  describe  constructs  situated  at  different  levels of abstraction,  ranging  from 
+belief-oriented  orientations  to practice-based  enactments.
+Another  illustrative  example  is  the  construct  Examination.  In  the  C-TCoA inventory  (Brown  et  al., 2011), Examination  is nested  within  a  broader  Accountability  factor  and  refers  to  external  institutional demands,  such  as  high-stakes  testing  and  systemic  performance  monitoring.  In  contrast,  Wu  (2017) presents  Examination as an independent  construct  more  closely associated  with classroom  management and  instructional  regulation.  Although  the  same  term  is used,  it reflects  distinct  meanings:  one  aligned with  institutional  compliance  and  the  other  with  local pedagogical  control,  highlighting  how  superficial label consistency  may obscure  deeper  theoretical  divergence.
+4.4. Implications
+This study  examined  inventories  designed  to  operationalize  teachers   conceptions  of  assessment  and found  substantial  convergence  despite  their  distinct  theoretical  origins.  Teachers   beliefs  were  largely organized  around  two dominant  logics (i.e., improvement  vs accountability)  rather  than  clearly differenti- ated  structures.  This pattern  reflects  a  persistent  jingle—jangle problem,  in  which  conceptually  similar constructs  are  labeled  differently  across  inventories,  complicating  cross-instrument  comparison  and interpretation.
+These  findings  have  important  implications  for  educational  practice.  Survey  evidence  on  teachers  assessment  conceptions  is  widely  used  to  inform  policy,  instructional  reform  and  professional  learn- ing.  When  similar  assessment  purposes  or  functions  are  operationalized  under  different  labels,  inter- pretations  may  become  inconsistent,  obscuring  teachers   underlying  beliefs  and  weakening  links  to assessment  enactment.  Clarifying construct  boundaries  would  enable  more  consistent  interpretation of  survey  results,  thereby  supporting  more  targeted  professional  learning  initiatives  and  more  coher- ent  assessment  reform  efforts.  At a  broader  level, such  clarification  also  facilitates  shared  assessment language  across  frameworks,  strengthening  the  conceptual  basis  for  instructional  planning  and  feed- back  practices.
+These  implications  extend  to  how  teachers   conceptions  are  measured.  Existing inventories  primarily focus  on  how  teachers  conceptualize  assessment  purposes  and  forms; however,  these  orientations  may not  fully capture  how assessment  is enacted  in real classroom  contexts.  Most inventories  rely on abstract and  decontextualized  items,  giving little attention  to  the  specific environments  in which  teachers  work. In practice,  teachers   beliefs about  assessment  are shaped  by a range  of contextual  and  personal  factors, including  policy  and  school  environments  (e.g., Brown & Gao, 2015; Brown & Harris, 2009), emotional experiences  (e.g., Brown et  al., 2018; Estaji et  al., 2026) and  professional  knowledge  (e.g., Xu & Brown, 2016). Therefore,  future  research  could  incorporate  scenario-based  measurements  by  embedding  items within  specific instructional  situations,  prompting  teachers  to  draw  on  their  practical  experience  when making  judgments  (e.g., Banitalebi et  al., 2025; DeLuca et  al., 2016). It is also important  to  consider  the epistemic  and  ethical  foundations  underlying  teachers   conceptions,  as assessment  is not  a purely  tech- nical activity but  is shaped  by  broader  social and  ideological  contexts  (e.g., Tajeddin  et  al., 2022). This helps  avoid oversimplifying what  teachers  actually do in practice  as captured  in assessment  instruments. These  limitations  may  also  point  to  broader  differences  in  how  assessment  is  conceptualized  across 
+paradigms.
+Building on  this, further  research  is needed  to consolidate  conceptually  overlapping  constructs  across TCoA inventories.  Constructs  labeled  as  improvement,  formative  use,  assessment  for learning,  or  feed- back-mediated  learning  often  reflect a shared  belief in assessment  as instructional  support,  while exami- nation,  accountability,  or  external  control  represent  variations  of  a  common  evaluative  logic.  Future studies  should  empirically  test  whether  these  clusters  can  be  integrated  into  theoretically  coherent higher-order  factors. At the  same  time, inventories  should  move  beyond  purpose-oriented  beliefs to bet- ter  capture  teachers   capacity  to  enact  assessment  in practice.  Drawing  on  assessment  capacity  frame- works  (DeLuca  et  al.,  2024),  integrating  dimensions  such  as  professional  judgment  and  contextual responsiveness  would  broaden  construct  coverage,  clarify belief—practice relations  and  improve  the  prac- tical relevance  of future  instruments.
+Author contributions
+CRediT: Ying Wang: Conceptualization,  Data curation,  Formal analysis, Methodology,  Writing — original draft, Writing — review & editing;  Eleanor Hawe: Conceptualization,  Methodology,  Supervision, Validation, Writing — review & edit- ing; Gavin T. L. Brown: Conceptualization,  Methodology,  Supervision, Validation, Writing — review & editing.
+Disclosure  statement
+No potential  conflict of interest  was reported  by the  author(s).
+Use of generative  AI and AI-assisted  technologies
+ChatGPT (OpenAI, GPT-4) was  used  in a  limited  manner  for language  editing  and  proofreading.  All conceptualiza - tion,  data  analysis  and  interpretation  were  conducted  by  the  authors,  who  reviewed  and  approved  the  final manuscript.
+Funding
+This research  received  no specific grant  from any funding  agency  in the  public, commercial,  or not-for-profit  sectors. ORCID
+Gavin T. L. Brown http://orcid.org/0000-0002-8352-2351 
+Data availability  statement
+Data sharing  is not  applicable  to this article as no new data  were created  or analyzed  in this study.
+References
+Abderrahim,  M., & Tibor,  V. (2021).  Moroccan  EFL public  high  school  teachers   perceptions  and  self-reported 
+practices  of  assessment.  Journal  of Language  and  Education, 7(3(27)), 119—135. https://doi.org/10.17323/jle.2021. 12067
+Akiri, E., Tor, H. M., & Dori, Y. J. (2021). Teaching  and  assessment  methods:  STEM teachers   perceptions  and  imple-
+mentation.  Eurasia Journal  of Mathematics,  Science and  Technology Education, 17(6), em1969.  https://doi.org/10. 29333/ejmste/10882
+Ahmadi  Safa, M., & Nasiri, B. (2025). Fairness  in  language  classroom  assessment  practices:  What  do  EFL teachers 
+underscore?  Language Testing in Asia, 15(1), Article 1. https://doi.org/10.1186/s40468-024-00336-7
+Alonzo, D., Labad, V., Bejano, J., & Guerra, F. (2021). The policy-driven  dimensions  of teacher  beliefs  about  assess-
+ment.  Australian Journal of Teacher Education, 46(3), 36—52. https://doi.org/10.14221/ajte.2021v46n3.3
+Alt, D. (2018). Science teachers   conceptions  of teaching,  attitudes  toward  testing,  and  use  of contemporary  educa -
+tional  activities  and  assessment  tasks.  Journal  of  Science Teacher  Education,  29(7), 600—619. https://doi.org/10. 
+1080/1046560X.2018.1485398
+Banitalebi,  Z., Estaji, M., & Brown, G. T. L. (2025). Measuring  teacher  assessment  literacy  in  digital  environments: 
+Development  and  validation  of a scenario-based  instrument.  Journal of Educational Technology and  Society, 28(2), 169—215. https://doi.org/10.30191/ETS.202504_28(2).RP10
+Barnes, N., Fives, H., & Dacey, C. M. (2014). Teachers  beliefs about  assessment.  In International  handbook  of research 
+on teachers  beliefs (pp. 284—300). Routledge.  https://doi.org/10.4324/9780203108437-25
+Barnes, N., Fives, H., & Dacey, C. M. (2015). Teachers   Beliefs about  Assessment.  International  Handbook  of Research 
+on Teachers  Beliefs. (1st ed.284—300Routledge. https://doi.org/10.4324/9780203108437-20
+Barnes, N., Fives, H., & Dacey, C. M. (2017). US teachers   conceptions  of the  purposes  of assessment.  Teaching and 
+Teacher Education, 65, 107—116. https://doi.org/10.1016/j.tate.2017.02.017
+Black, P., & Wiliam, D. (1998).  Assessment  and  classroom  learning.  Assessment in  Education:  principles, Policy & 
+Practice, 5(1), 7—74. https://doi.org/10.4324/9780203108437-25
+Black, P., & Wiliam, D. (2018). Classroom  assessment  and  pedagogy.  Assessment in  Education: Principles, Policy & 
+Practice, 25(6), 551—575. https://doi.org/10.1080/0969594X.2018.1441807
+Bonner, S. M. (2016). Teachers  perceptions  about  assessment:  Competing  narratives.  In G. T. L. Brown & L. R. Harris 
+(Eds.), Handbook of human  and  social conditions in assessment  (pp. 21—39). Routledge.
+Braun, V., & Clarke, V. (2006). Using thematic  analysis in psychology.  Qualitative Research in Psychology, 3(2), 77—101. 
+https://doi.org/10.1191/1478088706qp063oa
+Brown,  G.  T.  L.  (2004).  Teachers   conceptions  of  assessment:  Implications  for  policy  and  professional 
+development.  Assessment  in  Education:  Principles,  Policy  &  Practice,  11(3),  301—318. https://doi.org/10.1080/ 0969594042000304609
+Brown, G. T. L. (2008). Conceptions  of assessment:  Understanding  what  assessment  means  to teachers  and  students. 
+Nova Science Publishers.
+Brown, G. T. L. (2017). Improvement  and  accountability  functions  of assessment:  Impact  on  teachers   thinking  and 
+action.  In  M.  A.  Peters  (Ed.), Encyclopedia  of  educational  philosophy  and  theory  (pp.  1109—1114). Springer Singapore.  https://doi.org/10.1007/978-981-287-588-4_391
+Brown,  G.  T.  L.,  &  Gao,  L.  (2015).  Chinese  teachers   conceptions  of  assessment  for  and  of  learning:  Six 
+competing  and  complementary  purposes.  Cogent Education, 2(1), 993836. https://doi.org/10.1080/2331186X.2014. 993836
+Brown, G. T. L., Gebril, A., Michaelides, M. P., & Remesal, A. (2018). Assessment  as an  emotional  practice:  Emotional 
+challenges  faced  by L2 teachers  within assessment.  In J. D. D. M. Agudo  (Ed.), Emotions in second language  teach-
+ing: Theory, research and  teacher  education  (pp. 205—222). Springer. https://doi.org/10.1007/978-3-319-75438-3_12 Brown, G. T. L., & Harris, L. R. (2009). Unintended  consequences  of using  tests  to  improve  learning:  How improve-
+ment-oriented  resources  heighten  conceptions  of assessment  as school  accountability.  Journal of MultiDisciplinary 
+Evaluation, 6(12), 68—91. https://doi.org/10.56645/jmde.v6i12.236
+Brown, G. T. L., Hui, S. K., Flora, W. M., & Kennedy, K. J. (2011). Teachers  conceptions  of assessment  in Chinese  con-
+texts:  A tripartite  model  of  accountability,  improvement,  and  irrelevance.  International  Journal  of  Educational Research, 50(5-6), 307—320. https://doi.org/10.1016/j.ijer.2011.10.003
+Brown, G. T. L., Kennedy,  K. J., Fok, P. K., Chan, J. K. S., & Yu, W. M. (2009). Assessment  for student  improvement: 
+Understanding  Hong  Kong teachers   conceptions  and  practices  of assessment.  Assessment in Education: Principles, Policy & Practice, 16(3), 347—363. https://doi.org/10.1080/09695940903319737
+Brown, G. T. L., & Michaelides, M. P. (2011). Ecological rationality  in teachers   conceptions  of assessment  across sam-
+ples  from  Cyprus and  New Zealand.  European Journal  of Psychology of Education, 26(3), 319—337. https://doi.org/ 10.1007/s10212-010-0052-3
+Brown, G. T. L., & Remesal, A. (2012). Prospective  teachers   conceptions  of assessment:  A cross-cultural  comparison. 
+The Spanish Journal of Psychology, 15(1), 75—89. https://doi.org/10.5209/rev_sjop.2012.v15.n1.37286
+Brown,  G.  T. L., & Remesal,  A. (2017).  Teachers   conceptions  of  assessment:  Comparing  two  inventories  with 
+Ecuadorian  teachers.  Studies in Educational Evaluation, 55, 68—74. https://doi.org/10.1016/j.stueduc.2017.07.003
+Cohen,  J. (1960). A coefficient  of agreement  for nominal  scales.  Educational  and  Psychological Measurement, 20(1), 
+37—46. https://doi.org/10.1177/001316446002000104
+Coombs,  A., Rickey, N.,  DeLuca,  C.,  & Liu,  S.  (2022).  Chinese  teachers   approaches  to  classroom  assessment. 
+Educational Research for Policy and  Practice, 21(1), 1—18. https://doi.org/10.1007/s10671-020-09289-z
+Cronbach,  L. J., & Meehl, P. E. (1955). Construct  validity in psychological  tests.  Psychological Bulletin, 52(4), 281—302. 
+https://doi.org/10.1037/h0040957
+DeLuca, C., Coombs,  A., & LaPointe-McEwan, D. (2019). Assessment  mindset:  Exploring  the  relationship  between 
+teacher  mindset  and  approaches  to  classroom  assessment.  Studies in Educational Evaluation, 61, 159—169. https:// doi.org/10.1016/j.stueduc.2019.03.012
+DeLuca, C., LaPointe-McEwan, D., & Luhanga,  U. (2016). Approaches  to  classroom  assessment  inventory:  A new 
+instrument  to support  teacher  assessment  literacy. Educational Assessment, 21(4), 248—266. https://doi.org/10.1080/ 10627197.2016.1236677
+DeLuca, C., Willis, J., Cowie, B., Harrison, C., & Coombs,  A. (2024). Learning to  assess. Cultivating assessment  capacity 
+in teacher  education  (1st ed.). Springer. https://doi.org/10.1007/978-981-99-6199-3
+Estaji, M., Momeni,  A., & Brown, G. T. L. (2026). Transformative  learning  in teacher  development:  The impact  of a 
+teacher  education  course  on EFL teachers   perceptions  and  experiences  of the  emotional  dimensions  of language assessment  literacy. Language Testing in Asia, 16(1), 16. https://doi.org/10.1186/s40468-026-00434-8
+Fischer, A., Voracek, M., & Tran, U. S. (2023). Semantic  and  sentiment  similarities contribute  to  construct  overlaps 
+between  mindfulness,  Big Five, emotion  regulation,  and  mental  health.  Personality and  Individual Differences, 210, 112241. https://doi.org/10.1016/j.paid.2023.112241
+Hsieh, H. F., & Shannon,  S. E. (2005). Three  approaches  to  qualitative  content  analysis. Qualitative Health Research, 
+15(9), 1277—1288. https://doi.org/10.1177/1049732305276687
+Kelley, T. L. (1927). Interpretation  of  educational  measurements.  World  Book Company.  http://hdl.handle.net/2027/ 
+mdp.39015001994071
+Klenowski, V. (2011). Assessment  for learning  in the  accountability  era: Queensland,  Australia. Studies in Educational 
+Evaluation, 37(1), 78—83. https://doi.org/10.1016/j.stueduc.2011.03.003
+Lam, R. (2019). Teacher  assessment  literacy: Surveying  knowledge,  conceptions  and  practices  of  classroom-based 
+writing assessment  in Hong Kong. System, 81, 78—89. https://doi.org/10.1016/j.system.2019.01.006
+Landis, J. R., & Koch, G. G. (1977). An application  of hierarchical  kappa-type  statistics  in the  assessment  of majority 
+agreement  among  multiple  observers.  Biometrics, 33(2), 363—374. https://doi.org/10.2307/2529786
+Lawson, K. M., & Robins, R. W. (2021). Sibling constructs:  What are  they,  why do  they  matter,  and  how  should  you 
+handle  them?  Personality  and  Social  Psychology  Review,  25(4),  344—366.  https://doi.org/10.1177/ 10888683211047101
+Liu, X., Fan, X., Guo, H., Zhang,  X., & Gu, M. (2024). Chinese  secondary  school  teachers   views on  ethical  issues  in 
+classroom  assessment.  Asia Pacific Education Review, 25(4), 1097—1114. https://doi.org/10.1007/s12564-024-09948-3 Looney,  J. W. (2011). Integrating  formative  and  summative  assessment:  Progress toward  a  seamless  system? OECD 
+Education  Working Papers, No. 58, OECD Publishing. https://doi.org/10.1787/5kghx3kbl734-en
+Martin, C. L., Mraz, M., & Polly, D. (2022). Examining elementary  school  teachers   perceptions  of and  use of formative 
+assessment  in  mathematics.  International  Electronic Journal  of Elementary Education, 14(3), 417—425. https://doi. org/10.26822/iejee.2022.253
+Min, K., & So, Y. (2024). Exploring performance  assessment:  Teacher beliefs versus classroom  practices  in Korean sec-
+ondary  english  education.  English Teaching, 79(4), 55—77. https://doi.org/10.15858/engtea.79.4.202412.55
+Nasr, M., Bagheri, M. S., Sadighi, F., & Rassaei, E. (2018). Iranian EFL teachers   perceptions  of assessment  for learning 
+regarding  monitoring  and  scaffolding  practices  as  a  function  of  their  demographics.  Cogent  Education,  5(1), 1558916. https://doi.org/10.1080/2331186X.2018.1558916
+Newton,  P. E. (2007). Clarifying the  purposes  of  educational  assessment.  Assessment in Education, 14(2), 149—170. 
+https://doi.org/10.1080/09695940701478321
+Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., Shamseer,  L., Tetzlaff, J. M., Akl, 
+E. A., Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hrobjartsson, ◆ A., Lalu, M. M., Li, T., Loder, E. W., Mayo- Wilson, E., McDonald, S.,    Moher, D. (2021). The PRISMA 2020  statement:  An updated  guideline  for reporting systematic  reviews. Systematic Reviews, 10(1), 89. https://doi.org/10.1186/s13643-021-01626-4
+Remesal, A. (2007). Educational  reform and  primary and  secondary  teachers   conceptions  of assessment:  The Spanish 
+instance,  building  upon  Black  and  Wiliam.  The  Curriculum  Journal,  18(1),  27—38. https://doi.org/10.1080/ 09585170701292133
+Remesal, A. (2011). Primary and  secondary  teachers   conceptions  of assessment:  A qualitative  study.  Teaching and 
+Teacher Education, 27(2), 472—482. https://doi.org/10.1016/j.tate.2010.09.017
+Sach,  E.  (2012).  Teachers  and  testing:  An  investigation  into  teachers   perceptions  of  formative  assessment. 
+Educational Studies, 38(3), 261—276. https://doi.org/10.1080/03055698.2011.598684
+Sadler, D. R. (1989). Formative  assessment  and  the  design  of instructional  systems.  Instructional Science, 18(2), 119— 
+144. https://doi.org/10.1007/BF00117714
+S ent urk,  C., & Bas , G. (2023). Classroom assessment  beliefs of teachers:  Scale validity and  reliability study. Educational 
+Research for Policy and  Practice, 22(2), 301—323. https://doi.org/10.1007/s10671-023-09339-2
+Sonnleitner,  P., & Kovacs, C. (2020). Differences between  students   and  teachers   fairness  perceptions:  Exploring the 
+potential  of a self-administered  questionnaire  to  improve  teachers   assessment  practices.  Frontiers in Education, 5, Article 17. https://doi.org/10.3389/feduc.2020.00017
+Stahlschmidt,  S., & Stephen,  D.  (2020).  Comparison  of  Web  of  Science,  Scopus  and  dimensions  databases.  KB 
+Forschungspoolprojekt, 2020(10), 37. https://bibliometrie.info/downloads/DZHW-Comparison-DIM-SCP-WOS.PDF Tajeddin, Z., Khatib, M., & Mahdavi, M. (2022). Critical language  assessment  literacy of EFL teachers:  Scale construc -
+tion and  validation. Language Testing, 39(4), 649—678. https://doi.org/10.1177/02655322211057040
+Takele, M., & Melese, W. (2022). Primary school  teachers   conceptions  and  practices  of assessment  and  their  relation-
+ships. Cogent Education, 9(1), 2090185. https://doi.org/10.1080/2331186X.2022.2090185
+Veugen, M. J., Gulikers, J. T. M., & Den Brok, P. (2021). We agree  on  what  we see: Teacher  and  student  perceptions 
+of formative  assessment  practice.  Studies in Educational  Evaluation, 70, 101027.  https://doi.org/10.1016/j.stueduc. 2021.101027
+Weber, R. P. (1990). Basic content  analysis (Vol. 49). https://doi.org/10.4135/9781412983488
+Wu, W. (2017). Relationship  between  science  teachers   conceptions  of assessment  of students   academic  perform-
+ance  and  their  instructional  approaches.  In X. Liu, L. L. Liang, & G. W. Fulmer (Eds.), Chinese science education  in the 21st century: Policy, practice, and  research (pp. 259—293). Springer  Netherlands.  https://doi.org/10.1007/978-94- 017-9864-8_11
+Xu, Y., & Brown, G. T. (2016). Teacher  assessment  literacy  in practice:  A reconceptualization.  Teaching and  Teacher 
+Education, 58, 149—162. https://doi.org/10.1016/j.tate.2016.05.010
+Yan, Q., Zhang,  L. J., & Dixon, H. R. (2022). Exploring  classroom-based  assessment  for  young  EFL learners  in  the 
+Chinese  context:  Teachers   beliefs  and  practices.  Frontiers  in  Psychology,  13,  1051728.  https://doi.org/10.3389/ fpsyg.2022.1051728
+Yan, Z., & Pastore,  S. (2022). Are teachers  literate  in formative  assessment?  The development  and  validation  of the 
+Teacher  Formative  Assessment  Literacy  Scale.  Studies  in  Educational  Evaluation,  74,  101183.  https://doi.org/10. 1016/j.stueduc.2022.101183
+Young, J. E., & Jackman,  M. G. A. (2014). Formative  assessment  in the  Grenadian  lower  secondary  school: Teachers  
+perceptions,  attitudes  and  practices.  Assessment in Education: Principles, Policy & Practice, 21(4), 398—411. https:// doi.org/10.1080/0969594X.2014.919248
+Zeng,  J., & Huang,  L. (2021). Understanding  formative  assessment  practice  in  the  EFL exam-oriented  context:  An 
+application  of the  theory  of planned  behavior.  Frontiers in Psychology, 12, 774159.  https://doi.org/10.3389/fpsyg. 2021.774159
+Zhao, X., Van den  Heuvel-Panhuizen,  M., & Veldhuis, M. (2018). Chinese primary school mathematics  teachers   assess-
+ment  profiles: Findings  from  a large-scale  questionnaire  survey. International  Journal  of Science and  Mathematics Education, 16(7), 1387—1407. https://doi.org/10.1007/s10763-017-9841-3

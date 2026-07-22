@@ -1,0 +1,272 @@
+﻿ASSESSMENT & EVALUATION IN HIGHER EDUCATION 
+https://doi.org/10.1080/02602938.2026.2653885 
+
+From belief to behavior: modeling self-assessment and academic achievement in professional disciplines
+Ke Jiang  , Gavin T. L. Brown  and Lawrence May 
+Faculty of Art and Education, The University of Auckland, Auckland, New Zealand
+
+ABSTRACT
+Student  self-assessment  (SA)  is  a  critical  mechanism  for self-regulated  learning  in  higher  education.  This  study  employs structural equation modelling (SEM) to examine the psychological and behavioural precursors of SA and their subsequent association with  academic  attainment.  Using  a  validated  questionnaire,  data were  collected  from  351  New  Zealand  university  students  across two  professional  disciplines:  nursing  (n = 172)  and  teacher  educa - tion (n = 179). The model tested a GPA-terminating pathway, iden - tifying  intention  to  engage  in  SA  as  a  central  mediator.  Results indicate  that  perceived  usefulness  and  self-efficacy  (significantly covarying) are robust predictors of SA intention. Intention, in turn, is significantly associated with a suite of self-regulatory behaviours: feedback  seeking,  criteria  seeking,  reference  to  professional  stan - dards,  and  the  reported  level  of  SA.  Collectively,  these  variables were positively associated with final GPA. The findings underscore the pivotal role of intention in linking motivational beliefs to con - crete evaluative practices. Theoretically, this suggests that interven - tions to improve academic performance in professional disciplines should focus on strengthening students  perceived agency and the perceived  utility  of  self-assessment  to  ensure  motivational  beliefs are linked to productive regulatory actions.
+KEYWORDS
+Student self-assessment; structural equation modelling; self-regulated learning; professional disciplines
+
+Introduction
+Self-assessment  (SA)  is  widely  recognised  as  a  fundamental  pillar  of  self-regulated learning, metacognitive development, and academic achievement in higher education. It empowers students to reflect on their performance, identify areas for improvement, and  take  ownership  of  their  learning  process  (Andrade  and  Du  2007;  Panadero, Brown,  and  Strijbos 2016).  A  key  aspect  of  SA  is  its  volitional  nature,  which  is closely tied to students  beliefs, intentions, and sense of agency (Ajzen 1991; Bandura 1997).  While  previous  research  has  frequently  focused  on  formal  or  teacher-led practices those  prompted  or  scaffolded  by  instructors  (Boud  and  Falchikov  2007; Panadero et al. 2023) there is a growing need to understand how students  internal 
+CONTACT Ke  Jiang   ke.jiang@auckland.ac.nz   Faculty  of  Art  and Education, The  University  of  Auckland, Auckland, New Zealand.
+' 2026  The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons. org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository 
+by the author(s) or with their consent.
+
+ASSESSMENT & EVALUATION IN HIGHER EDUCATION 15
+motivational drivers are associated with active assessment behaviours and subsequent academic attainment.
+This study addresses these gaps by examining the antecedents and consequences of SA in two professional disciplines nursing and initial teacher education within 
+the  New  Zealand  higher  education  context.  Drawing  on  the  Theory  of  Planned Behaviour  (Ajzen 1991)  and  employing  a  validated  survey  instrument,  the  study models  how  SA  is  associated  with  motivational beliefs (e.g. self-efficacy, perceived usefulness),  enacted  through  intentional  behaviours  (e.g.  feedback  seeking,  criteria seeking, reference to professional standards), and connected to academic outcomes (e.g. GPA).
+Impact of self-assessment on the learning processes
+Research  has  consistently  shown  that  SA  in  higher  education  is  associated  with  a range of learning processes. In digital and blended environments, it enables learners to engage more deeply with learning objectives, align their efforts with assessment criteria,  and  make  meaningful  use  of  feedback  (Radović  et al. 2024).  As  a  result, students often develop a stronger understanding of how learning occurs and recog - nise their own agency in the process (Yan 2020).
+SA has been linked to significant cognitive and metacognitive benefits. It promotes self-reflection  (Taylor 2014),  critical  thinking  (Apridayani,  Han,  and  Sakkanayok 2024), metacognitive awareness (Nieminen and Boud 2025), and self-regulated learn- ing  (Radović  et al. 2024).  It  also  supports  deep  learning  (Andrade  2019)  and  the development of lifelong learning competencies (Nieminen and Boud 2025). Academic benefits are similarly well-documented; studies consistently show that SA is associated with  improved  exam  performance  and  stronger  academic  achievement  (Panadero et al. 2024;  Yan,  Wang,  et al. 2023).  It  also  plays  a  role  in  shaping  students   pro- fessional  identity  and  readiness  (K ppe,  Verhoeff,  and  van  Joolingen  2024).  While some  researchers  question  the  consistency  of  its  impact  (Lew,  Alwis,  and  Schmidt 2010),  the  weight  of  evidence  supports  its  positive  association  with  academic outcomes.
+SA also is linked to motivation and self-efficacy. It fosters a sense of ownership and responsibility for learning (Andrade  2019; Yan, Panadero et al. 2023), strengthens students  confidence in their abilities (Planas Llad  et al. 2014; Radović et al. 2024), and can reduce anxiety by giving students greater control over the evaluation process (Ozarslan and Ozan  2017).
+Factors influencing student self-assessment in higher education
+A wide range of factors have been linked to student SA, including assessment cri- teria, training, academic ability, and institutional support (Brown and Harris  2013). However,  little  quantitative  research  has  specifically  examined  the  psychological mechanisms behind student engagement in these practices. Yan et al. (2020) adopted the  Theory  of  Planned  Behaviour  (TPB)  to  conceptualise  SA  as  a  volitional  act, identifying  attitude,  subjective  norms,  and  self-efficacy  as  significant  predictors  of intention.
+Self-efficacy remains a complex factor; while some associate it with overconfidence (Ernst,  Wittwer,  and  Voss  2023),  others  suggest  it  plays  no  significant  role  in  the accuracy  of  SA  (Lew,  Alwis,  and  Schmidt 2010).  However,  students   motivational attitudes such as perceived usefulness and the influence of others appear consis - tently  important  (Yan,  Panadero  et al.  2023).  Other  relevant  dispositions  include mastery goal orientation, which predicts self-directed feedback seeking (Yan 2018), and perseverance, which shows a weak link once academic self-concept is controlled (Yang et al. 2023).
+Instructional  and  contextual  factors  significantly  shape  students   willingness  to engage in SA, including the provision of external feedback and environmental sup- port  (Yan,  Panadero  et al.  2023).  While  formative  design  is  thought  to  influence effectiveness (Wanner and Palmer 2018), repeated practice alone may not improve accuracy (Lew, Alwis, and Schmidt 2010). Cognitive ability is also tied to SA; more competent students generally produce assessments more aligned with external eval- uations (Brown, Andrade, and Chen  2015; Ernst, Wittwer, and Voss 2023).
+Self-assessment in professional disciplines
+The focus on professional disciplines specifically nursing and teacher education is necessitated  by  the  distinctive  nature  of  competency   in  these  fields.  Professional programs  require  students  to  align  their  self-perceptions  with  externally  defined professional standards, ethical codes of conduct, and performance expectations tied directly  to  real-world  practice  (K ppe,  Verhoeff,  and  van  Joolingen  2024).  This emphasis  differs  in  degree  and  form  from  many  academically  oriented  disciplines, where assessment may focus more heavily on conceptual understanding and disci- plinary knowledge. In professional disciplines, SA is not merely a study tool but a core  component  of  professional  identity  and  clinical  or  pedagogical  safety.  For instance, nursing students must accurately assess their clinical skills to ensure patient safety,  while  pre-service  teachers  must  evaluate  their  instructional  efficacy  against national  teaching  standards.  Consequently,  understanding  the  motivational  drivers of SA in these  high stakes  environments is critical, as the ability to self-regulate is a prerequisite for lifelong professional practice (Nieminen and Boud 2025).
+The research gap and research question
+Despite the recognised benefits of student SA, there is a notable dearth of research investigating the integrated psychological pathway from student beliefs to academic attainment,  particularly  within  professional  disciplines.  While  SA  has  been  widely studied  in  general  or  teacher-guided  contexts,  little  is  known  about  how  students in  high-stakes  professional  programs  independently  initiate  and  sustain  evaluative practices. In disciplines such as nursing and teacher education, the significance of SA extends beyond academic achievement; it is a prerequisite for professional safety, ethical practice, and the development of clinical or pedagogical judgement (K ppe, Verhoeff, and van Joolingen 2024; Nieminen and Boud  2025).
+Existing literature tends to focus on the accuracy of student-teacher grade align- ment, leaving a gap in understanding the internal drivers such as the  intention  mediator  identified  in  the  Theory  of  Planned  Behaviour that  are  associated  with students  engagement in behaviours like criteria seeking and referencing professional standards (Yan et al. 2020). This study addresses this gap by exploring the following research  question:  What  are  the  antecedents  and  consequences  of  student self-assessment  in  professional  disciplines?  By  examining  the  association  between motivational  beliefs  and  concrete  regulatory  actions,  the  study  aims  to  advance theoretical  insights  into  how  SA  functions  as  a  mechanism  linked  to  professional excellence and academic success.
+Method
+Research design
+This study employed a quantitative research design utilising a questionnaire survey to investigate the psychological and behavioural dimensions of SA in two professional disciplines:  Nursing  and  Initial  Teacher  Education.  Both  fields  are  governed  by external  entry  requirements  and  mandated  professional  standards  (New  Zealand Nurses Organization 2012; Teaching Council of Aotearoa New Zealand 2017), making them ideal contexts for examining the alignment between student evaluative practices and professional benchmarks.
+Participants and sampling
+Participants were recruited from four higher education institutions in the Auckland region, New Zealand. Due to the specific nature of the professional programs and anticipated  response  constraints,  a  non-probability  convenience  sampling  approach was  utilised.  The  final  sample  comprised  351  students  (n = 172  nursing;  n = 179 teacher education). Sample size adequacy for factor analysis was confirmed following Osborne  and  Costello  (2004),  and  power  estimation  conducted  via  Arifin s  (2024) calculator  corroborated  that  the  sample  was  sufficient  to  detect  significant  effects within the structural model.
+To maximise engagement, a multi-channel recruitment strategy was implemented (Nolte, Shauver, and Chung  2015), including personalised email invitations, phone communications with department heads, and classroom visits. The anonymous survey was administered  via Qualtrics between May and September 2024.
+Instrumentation
+The  questionnaire  consisted  of  37  items.  The  first  section  (Items  1—5)  collected demographic  data  (gender,  age,  discipline,  years  of  study)  and  self-reported  Grade Point Average (GPA), a measure previously validated as a reliable proxy for academic attainment (Cred  and Kuncel  2012; Kuncel, Cred , and Thomas  2005). The remain- ing  32  items  utilised  a  6-point,  positively-packed  Likert  scale  (1 = strongly  disagree to  6 = strongly  agree).  The  scale  incorporated  constructs  adapted  from  the  Theory of  Planned  Behaviour  (Ajzen 1991)  as  applied  by  Yan  et al.  (2020),  alongside self-developed  scales  to  capture  professional-specific  behaviours.  The  constructs included:
+¥ Level of SA (Items 6—10): Frequency and autonomy of evaluative acts.
+¥ Reference  to  Professional  Standards  (Items  11—14):  Explicit  use  of  external professional benchmarks.
+¥ Perceived  Usefulness  of  SA  (Items  15—19):  Beliefs  regarding  the  utility  of SA.
+¥ Self-Efficacy in SA (Items 20—24): Confidence in performing SA tasks.
+¥ Intention  to  Engage  in  SA  (Items  25—29):  Intentionality  and  motivation  to self-assess.
+¥ Criteria Seeking (Items 30—33): Information seeking behaviours.
+¥ Feedback Seeking (Items 34—37): Information seeking behaviours.
+Data analysis
+Data  were  screened  in  SPSS  for  missingness.  Following  Bennett  (2001),  no  cases were excluded as missing data fell well below the 10% threshold. Mean imputation was  applied  to  nine  cases  with  minor  missing  values  to  preserve  the  full  sample (N = 351).
+Structural Equation Modelling (SEM) was conducted using a Multiple Indicators and Multiple Causes (MIMIC) approach (Hancock  2001) to integrate latent constructs with relevant covariates. Measurement invariance was assessed via nested multi-group Confirmatory Factor Analysis (CFA) to ensure the instrument functioned consistently across  disciplines  (Brown  et al. 2017).  Model  fit  was  evaluated  using  the  Akaike Information Criterion (AIC), Comparative Fit Index (CFI), and Root Mean Square Error  of  Approximation  (RMSEA).  Latent  mean  comparisons  were  used  to  avoid the biases inherent in raw scores, with effect sizes (Cohen s d) calculated to interpret the magnitude of differences.
+Ethical considerations
+The  study  was  approved  by  the  Institutional  Ethics  Committee.  Informed  consent was obtained via a Participant Information Sheet provided at the start of the digital survey. Participation was entirely voluntary and anonymous, ensuring adherence to established ethical principles in educational research.
+Results
+Descriptive statistics of participants
+The study sample comprised 351 students enrolled in nursing (n = 172) and teacher education  (n = 179)  programs  across  higher  education  institutions  in  the  Auckland region of New Zealand. Comprehensive demographic characteristics are detailed in Table  1.  The  sample  was  predominantly  female  (88.0%),  a  distribution  consistent 
+Table 1.  Demographic characteristics of the survey participants (N = 351).
+                            Characteristics                              N                         Valid %
+    Gender Age              Male                                                           38 309 4                  10.8 88.0 1.1
+    Discipline              Female                                        57 63 84 77 70 172 179 18  16.2 17.9 23.9 21.9 19.9 49.0
+    Completed tertiary StudyGender diverse or                                15 92 226 28 60 142 85     51.0 5.1 4.3 26.2 64.4 8.0
+    GPA                     prefer not to say 20—24                                              36                 17.1 40.5 24.2
+                            25—29                                                                                             10.3
+                            30—34
+                            35—39
+                            40 and above Nursing
+                            Teaching
+                            0 - less than 1 year 1 — less than 2 years 2
+                             — less than 3 years 3 years or
+                             more
+                            A+ (90—100)
+                            A- and A (80—89) B and B+ (70—79) C + and B-
+                             (60—69) C- and C
+                             (50—59)
+with current workforce data indicating that the vast majority of the nursing profes - sion in New Zealand identifies as female (Nursing Council of New Zealand 2024).
+Participants were all aged 20 or older, with a relatively even distribution across five age cohorts, suggesting a high representation of mature-aged students common 
+in  professional  graduate-entry  or  second-career  programs.  The  sample  showed  a high level of academic experience; over 90% of participants had completed at least two years of tertiary study, and 64.4% had completed three years or more. Regarding academic  performance,  the  largest  cohort  (40.5%)  reported  a  GPA  in  the  B  to 
+B + range (70—79%). Notably, no participants reported a grade of D or below (0—49%), reflecting  the  stringent  progression  requirements  of  these  professional  disciplines, where students with multiple failures are typically excluded from further study.
+Measurement model
+To  evaluate  the  measurement  model,  a  dataset  comprising  seven  constructs  was initially  assessed  for  multivariate  normality.  The  analysis  revealed  significant non-normality (kurtosis = 283.88, critical ratio = 60.69). Consequently, a Bollen-Stine bootstrapping strategy with 2,000 samples was employed in AMOS to ensure robust maximum likelihood estimation. The resulting bootstrap  p-value of 0.344 supported an  adequate  model  fit,  allowing  all  cases  to  be  retained  without  the  removal  of multivariate outliers.
+Each  latent  construct  was  measured  using  three  to  five  observed  items.  Two items Question 14 (Reference to Standards) and Question 23 (Self-efficacy) were excluded during refinement due to insufficient factor loadings (0.29 and 0.33, respec- tively). The final seven-factor measurement model demonstrated high quality across 
+multiple  fit  indices:  χ2  (384)  =  530.26,  χ2/df = 1.38, p < 0.001;  CFI  =  0.985;  TLI  = 0.983;  RMSEA  =  0.033  (90%  CI:  0.026—0.040);  and  SRMR  =  .029.  The  final seven-factor measurement model with standardised factor loadings and covariances 
+is depicted in Figure 1.
+
+Figure 1.  Items, loadings, and covariances of the measurement mode.
+Reliability and validity
+As detailed in Table 2, the reliability and validity of the constructs were established through the following metrics:
+¥ Construct  Reliability:  Coefficient  H  was  calculated  for  each  latent  construct to assess reliability. All values significantly exceeded the recommended thresh- old of .70, ranging from .92 to .95.
+¥ Convergent  Validity:  Average  Variance  Extracted  (AVE)  values  ranged  from .696 to .843, comfortably exceeding the .50 requirement.
+¥ Discriminant Validity: Intersubscale correlations remained below .80, indicating sufficient independence between the constructs.
+The confirmed measurement model serves as a rigorous foundation for the sub - sequent structural model analysis.
+Measurement invariance
+To  ensure  the  7-factor  measurement  model  functioned  consistently  across  diverse student  backgrounds,  measurement  invariance  was  tested  across  four  demographic variables: discipline (Nursing vs. Teacher Education), gender (Male vs. Female), age (five  cohorts),  and  years  of  completed  tertiary  education  (0—3 years  vs.  3+  years). Three levels of invariance were assessed: configural, metric, and scalar (Putnick and Bornstein 2016).
+As  summarised  in  Table  3,  the  model  demonstrated  a  robust  fit  at  the  con - figural  level  across  all  demographic  variables,  indicating  that  the  basic  factor structure  is  shared  among  groups.  Furthermore,  the  change  in  CFI  (ΔCFI) remained  below  the  0.01  threshold  for  both  metric  and  scalar  invariance  across all categories. These results provide strong evidence of measurement invariance, confirming  that  the  factor  loadings  and  item  intercepts  are  equivalent  across the groups.
+Latent mean comparisons
+Given  the  establishment  of  strong  invariance,  latent  mean  differences  were  cal- culated to explore how demographic factors were associated with the seven con- structs. The results, presented in Table 4, indicate that the majority of latent mean 
+Table 2.  Psychometric properties and descriptive statistics of the measurement model.
+Construct                  Items             M              SD              Loading            Reliability (H)          AVE
+Level of SA                Q6—Q10 Q11—Q14    4.11 4.15 4.10 1.18 1.17 1.03  .80—.93 .87—.96    .95 .95 .93 .92 .92 .94  .812 .843
+Prof. Standards Perceived   Q15—Q19 Q20—Q24   3.96 3.99     1.17 1.12 1.16   .76—.89 .76—.90    .93                      .702 .696
+ Usefulness Self-Efficacy   Q25—Q29 Q30—Q33   4.03           1.07            .77—.87 .83—.93                             .701 .780
+ Intention                  Q34—Q37           3.93                           .80—.92                                     .745
+Criteria Seeking Feedback
+ Seeking
+Note: Q14 and Q23 were removed due to low loading.
+Table 3.  Measurement invariance tests across demographic variables (N = 351).
+Demographic variable        Invariance level          RMSEA             Gamma Hat                   CFI       ΔCFI
+Discipline (2 groups)       Configural Metric Scalar  .035 .034 .033    .94 .95 .94 .92 .92 .92 .84 .967 .968  — .001 .001 — .000
+Gender                       Configural Metric Scalar  .040 .040 .039    .83 .82 .94 .93             .968      .002 — .000 .003 —
+(2 groups)                   Configural Metric Scalar  .039 .038 .036    .93                         .956             .000
+Age                          Configural Metric         .036 .035                                     .956             .001
+(5 groups)                   Scalar                    .035                                          .958
+Higher education (2 groups)                                                                          .906
+                                                                                                     .906
+                                                                                                     .909
+                                                                                                     .965
+                                                                                                     .965
+                                                                                                     .964
+Table 4.  Significant latent mean differences in the measurement model.
+Group Comparison Construct Difference p-value                                                                   Cohen s d
+Nursing (vs. Teaching) Intention .295 <.01 Age 40+ (vs. 20—24) Level of SA .462 <.05 Age 40+ (vs.               .310 .427 .454 .327
+ 20—24) Intention .429 <.05 0—3 Years Ed. (vs. 3+) Level of SA .330
+ <.05
+Note: Latent means for reference groups were fixed at 0.
+differences  were  not  statistically  significant,  suggesting  high  stability  across the sample.
+Key significant findings included:
+¥ Discipline: Nursing students exhibited a significantly higher latent mean for Intention compared to teacher education students (p < .01, d = .310).
+¥ Age: Participants aged 40 and above showed significantly higher latent means for  both  Level  of  SA  (p  <  .05, d  =  .427)  and  Intention  (p  <  .05, d  =  .454) compared to the 20—24 age group.
+¥ Experience: Students with fewer than three years of higher education reported a significantly higher Level of SA (p < .05, d = .327) than those with more experience.
+Overall,  while  these  specific  variations  were  noted,  the  effect  sizes  (Cohen s d) remained  in  the  small-to-medium  range.  The  broad  lack  of  significant  differences across most constructs (e.g. feedback seeking, criteria seeking) further confirms the reliability  of  the  measurement  model  across  diverse  professional  student populations.
+Antecedents and consequences of student self-assessment
+To  address  the  research  question,  SEM  was  conducted  to  test  the  hypothesised associations among the seven latent constructs and the observed outcome variable, GPA.  The  initial  structural  model  (Model  1)  was  developed  based  on  established theoretical frameworks and a series of hypotheses derived from the existing literature:
+Hypothesis 1: The  perceived  usefulness  of  SA  is  positively  associated  with  intention (Ajzen 1991; Yan et al. 2020).
+Hypothesis 2: Self-efficacy is positively associated with intention (Yan et al. 2020). Hypothesis 3: Intention is positively associated with the level of SA.
+Hypothesis 4: Intention  is  positively  associated  with  reference  to  professional standards.
+Hypothesis 5: Intention is positively associated with both criteria seeking and feedback seeking (Yan et al. 2020).
+Hypothesis 6: Intention,  level  of  SA,  and  reference  to  professional  standards  are  all positively associated with GPA.
+The  initial  SEM  model  yielded  excellent  fit  indices,  significantly  exceeding  rec- ommended thresholds: χ 2 (423) =583.79, p = 0.24; χ2/df = 1.38; CFI = 0.984; gamma hat  =  0.97;  RMSEA  =  0.033  (90%  CI:  0.026—0.039);  SRMR  =  0.038;  and  AIC  = 729.79. To account for shared variance not explained by the latent constructs them- selves, correlated error terms were established between feedback seeking and criteria seeking (r = 0.59, p < 0.001) and between reference to professional standards and the level of self-assessment (r = 0.23, p < 0.001).
+Path analysis results
+The  model  path  analysis,  illustrated  in  Figure  2,  reveals  the  complex  associations within the SA process.
+¥ Predictors  of  Intention:  Both  perceived  usefulness  (β  =  0.42, p  <  .001)  and self-efficacy  (β  =  0.55, p  <  .001)  were  found  to  be  positive  predictors  of intention. A significant positive covariance between these exogenous variables (r = 0.49, p < .001) indicates that students who view self-assessment as more useful also tend to possess higher self-efficacy.
+¥ The Central Role of Intention: Intention demonstrated significant positive asso- ciations with all subsequent measures: level of SA (β = 0.76, p < .001), criteria seeking (β = 0.70, p < .001), feedback seeking (β = 0.66, p < .001), reference to professional standards (β = 0.64, p < .001), and GPA (β = 0.38, p < .001).
+
+Figure 2.  Antecedents and consequences of SA: Model 1.
+¥ Association with Academic Achievement (GPA): GPA serves as the terminal outcome  of  the  SA  process.  In  addition  to  the  association  with  intention, both the level of SA (β = 0.20, p < .01) and the use of professional standards (β = 0.14, p < .05) were directly and positively associated with GPA.
+No alternative structural models yielded a lower AIC than this initial configura- tion, confirming Model 1 as the optimal representation of the data.
+Discussion
+The role of intention in SA behavior
+This study affirms the central role of intention in being associated with SA behaviours. The  GPA-terminating  model  confirms  that  intention  underpins  not  only  overall  SA engagement but also specific behaviours such as feedback and criteria seeking. Intention was  the  sole  predictor  of  feedback  seeking,  which  links  motivation  quality  with  the quality of self-directed behaviours. This finding also supports prior studies highlighting that  learning  goals,  growth  mindsets,  and  agency  shape  proactive  feedback  seeking (Sung 2023; Sun and Huang 2023; Zhang et al. 2023). Similarly, intention was asso- ciated with criteria seeking a behaviour involving not only locating benchmarks but also  understanding,  calibrating,  and  applying  them.  Stronger  intentions  were  linked to  students  engaging  more  deeply  with  evaluative  standards,  echoing  evidence  that intentional learners seek clearer, more specific criteria (Fastr  et al. 2012).
+The observed correlation between feedback and criteria seeking (r = 0.59, p < 0.001) is both conceptually intuitive and empirically robust. Feedback seeking often facilitates a clearer understanding of evaluative criteria, while efforts to apply criteria may prompt students to seek feedback to verify their alignment. This interplay reflects established findings on the reciprocal roles of feedback and criteria use in supporting self-regulation and academic performance (Brown, Peterson, and Yao 2016; Panadero et al. 2023).
+Predictors of intention: self-efficacy and perceived usefulness
+The study identified self-efficacy and perceived usefulness of SA as key antecedents of  intention.  These  findings  align  with  the  Theory  of  Planned  Behaviour  (Ajzen 1991, 2020) and Social Cognitive Theory (Bandura 1986), both of which emphasise the  role  of  confidence  and  outcome  expectancy  in  shaping  behavioural  intentions. Students  who  believed  in  their  ability  to  self-assess  were  more  likely  to  intend  to engage in SA a pattern supported by existing research (Reychav et al.  2019; Shaddad 2023). Perceived usefulness also contributed to intention formation, consistent with TPB  research  linking  instrumental  attitudes  to  behavioural  intention  (Wan,  Shen, and Choi  2017; Yan et al. 2020).
+Referencing professional standards
+Given the profession-oriented context of the study, the use of professional standards emerged  as  a  significant  component  of  the  SA  process.  Students  who  referenced standards more frequently exhibited higher SA engagement, suggesting that profes- sional benchmarks served both as motivational anchors and as concrete criteria for evaluative  judgement.  This  relationship  was  particularly  salient  in  Nursing  and Teaching, where formal standards are embedded in program outcomes. The align- ment  of  self-assessment  with  these  standards  reflects  a  more  informed,  rigorous approach similar  to  the  design  and  purpose  of  validated  teacher  self-assessment tools based on professional frameworks (Zhang, Wu, and Jiang 2024). Furthermore, the intention to engage in SA was positively associated with the use of professional standards, reinforcing the idea that intentional learners actively seek alignment with field-specific expectations (Kukk and Talts 2007).
+SA and academic achievement: the GPA-terminating model
+The  GPA-terminating  model,  developed  from  the  data,  provides  empirical  support for  the  academic  benefits  associated  with  SA.  Students  who  viewed  SA  as  useful and felt confident in performing it were more likely to form strong intentions, which were linked to greater engagement in SA behaviours especially feedback and criteria seeking, and alignment with professional standards. These actions were moderately associated  with  higher  GPA  scores.  Crucially,  the  model  illustrates  that  intention alone  is  insufficient only  when  coupled  with  action  does  it  relate  to  academic performance.
+These  findings  extend  a  robust  literature  demonstrating  the  positive  association between self-assessment and academic outcomes (Apridayani, Han, and Sakkanayok 2024; Panadero et al. 2024; Radović et al. 2024; Yan, Wang, et al. 2023). In the New Zealand context, they reinforce earlier work by Brown and Harris (2013), who linked active self-assessment engagement with improved academic results.
+Contribution and implication
+This study makes three key contributions to the literature on self-assessment (SA) and  self-regulated  learning  in  higher  education.  First,  it  advances  the  conceptuali- sation  of  SA  as  a  distinct,  volitional  construct,  separate  from  externally  prompted or teacher-directed practices. By focusing on student intention and autonomy, this approach  offers  a  more  authentic  reflection  of  student  agency  within  real-world academic  contexts.  Second,  the  study  proposes  and  empirically  validates  a GPA-terminating model, showing that perceived usefulness and self-efficacy predict the intention to engage in SA, which in turn is linked to core evaluative behaviours feedback  seeking,  criteria  seeking,  and  reference  to  professional  standards culmi - nating  in  improved  academic  performance.  This  model  highlights  intention  as  the linchpin  connecting  motivational  beliefs  and  observable  learning  strategies.  Third, the study offers a nuanced view of SA as a situated practice shaped by disciplinary norms, especially in professional programmes where alignment with formal standards is expected (Nieminen and Boud 2025).
+These  findings  have  practical  implications  for  teaching  and  curriculum  design. Educators can strengthen student engagement in SA by explicitly cultivating intention through  strategies  that  enhance  self-efficacy  and  communicate  the  usefulness  of 
+assessment practices (Yan, Panadero et al. 2023). Instructional practices should also support students in developing specific behaviours such as seeking feedback, clar - ifying criteria, and aligning work with professional expectations while recognising that these practices are differentially emphasised across disciplines (K ppe, Verhoeff, and  van  Joolingen  2024).  Ultimately,  a  more  intentional,  student-driven  approach to self-assessment may enhance not only learning outcomes but also students  read- iness for professional practice (Yan 2020).
+Limitation and future direction
+While the study offers important insights, several limitations should be acknowledged. The  sample  was  restricted  to  students  from  two  profession-oriented  disciplines  in New  Zealand  and  relied  on  voluntary  participation,  potentially  limiting  generalis- ability.  The  use  of  a  self-report  questionnaire,  though  methodologically  consistent with  prior  SA  research  (Brown  and  Harris  2013;  Yan  et al. 2020),  may  introduce bias due to social desirability or inaccurate self-perception (Lew, Alwis, and Schmidt 2010).  In  addition,  while  the  structural  model  captures  hypothesised  associations, the cross-sectional design prevents definitive conclusions about temporal or devel- opmental changes in SA behaviour.
+Future  research  should  explore  these  processes  across  a  broader  range  of  disci- plines and educational settings to examine how contextual factors shape development. Longitudinal  and  mixed-method  studies  could  capture  the  evolution  of  students  intention  and  SA  practices  over  time,  allowing  for  more  precise  modelling  of  the developmental trajectory.
+Conclusion
+This study positions student self-assessment as a vital yet under-examined dimen- sion  of  learning  in  higher  education.  By  distinguishing  these  practices  from teacher-directed  models,  it  shifts  the  focus  towards  learner  agency,  motivation, and  evaluative  decision-making  (Andrade  2019;  Yan  2020).  The  validated GPA-terminating  model  demonstrates  how  students   beliefs  in  their  own  compe - tence and the value of self-assessment are linked to intentional, strategic behaviours that  support  academic  success.  These  behaviours seeking  feedback,  clarifying criteria, and referencing professional standards constitute observable markers of SA  and  mediate  its  association  with  GPA.  Beyond  academic  performance,  SA fosters  habits  of  self-regulation  essential  for  professional  practice  (Nieminen  and Boud  2025).  To  fully  realise  its  potential,  educators  and  institutions  must  move beyond promoting self-assessment as a compliance task and instead cultivate the motivation, intention, and conditions that enable students to self-assess meaning - fully and autonomously.
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+ORCID
+Ke Jiang  http://orcid.org/0009-0007-9493-059X
+Gavin T. L. Brown  http://orcid.org/0000-0002-8352-2351 Lawrence May  http://orcid.org/0000-0002-6676-1721
+References
+Ajzen,  I. 1991.  The  Theory  of  Planned  Behaviour.   Organizational  Behavior  and  Human 
+Decision Processes 50 (2): 179—211. https://doi.org/10.1016/0749-5978(91)90020-T.
+Ajzen,  I. 2020.  The  Theory  of  Planned  Behaviour:  Frequently  Asked  Questions.   Human 
+Behavior and Emerging Technologies 2 (4): 314—324. https://doi.org/10.1002/hbe2.195. Andrade, H. L. 2019.  A Critical Review of Research on Student Self-Assessment.  Frontiers 
+in Education 4 (87): 1—13. https://doi.org/10.3389/fedac.2019.00087.
+Andrade, H., and Y. Du. 2007.  Student Responses to Criteria-Referenced Self-Assessment.  
+Assessment  &  Evaluation  in  Higher  Education  32  (2):  159—181. https://doi.org/10.1080/ 02602930600801928.
+Apridayani, A., W. Han, and K. Sakkanayok. 2024.  Enhancing English Writing Competence 
+in  Higher  Education:  A  Comparative  Study  of  Teacher-Only  Assessment  Versus  Teacher and  Student  Self-Assessment  Approaches.   Asian-Pacific  Journal  of  Second  and  Foreign Language Education 9 (1): 1—15. https://doi.org/10.1186/s40862-024-00263-3.
+Arifin, W. N. 2024. Sample Size Calculator (Web). https://wnarifin.github.io/ssc_web.html Bandura, A. 1986. Social Foundations of Thought & Action: A Social Cognitive Theory. Upper 
+Saddle River, NJ: Prentice-Hall.
+Bandura,  A.  1997.  Self-Efficacy:  The  Exercise  of  Control.  Vol.  11.  New  York,  NY:  W.  H. 
+Freeman. 
+Bennett,  D.  A. 2001.  How  Can  I  Deal  with  Missing  Data  in  my  Study?   Australian  and 
+New Zealand Journal of Public Health 25 (5): 464—469. https://doi.org/10.1111/j.1467-842X.2001. tb00294.x.
+Boud,  D.,  and  N.  Falchikov. 2007.  Rethinking  Assessment  in  Higher  Education,  191—207. 
+London: Routledge.
+Brown, G. T. L., and L. R. Harris. 2013.  Student Self-Assessment.  In  The SAGE Handbook 
+of Research on Classroom Assessment, edited by J. H. McMillan, 367—393. Thousand Oaks, CA: Sage. https://doi.org/10.4135/9781452218649.n21.
+Brown, G. T. L., H. L. Andrade, and F. Chen. 2015.  Accuracy in Student Self-Assessment: 
+Directions  and  Cautions  for  Research.   Assessment  in  Education:  Principles,  Policy  and Practice 22 (4): 444—457. https://doi.org/10.1080/0969594X.2014.996523.
+Brown,  G.  T.  L.,  E.  R.  Peterson,  and  E.  S.  Yao. 2016.  Student  Conceptions  of  Feedback: 
+Impact on Self-Regulation, Self-Efficacy, and Academic Achievement.  The British Journal of Educational Psychology 86 (4): 606—629. https://doi.org/10.1111/bjep.12126.
+Brown,  G.  T.  L.,  L.  R.  Harris,  C.  O Quin,  and  K.  E.  Lane. 2017.  Using  Multi-Group 
+Confirmatory  Factor  Analysis  to  Evaluate  Cross-Cultural  Research:  Identifying  and Understanding Non-Invariance.   International Journal of Research & Method in Education 40 (1): 66—90. https://doi.org/10.1080/1743727X.2015.1070823.
+Cred , M., and N. R. Kuncel. 2012.  Self-Reported Grades and GPA.  In  International Guide 
+to Student Achievement, edited by J. Hattie and E. M. Anderman, 49—50. New York, NY: Routledge.
+Ernst,  H.  M.,  J.  Wittwer,  and  T.  Voss. 2023.  Do  They  Know  What  They  Know?  Accuracy 
+in  Teacher  Candidates   Self‐Assessments  and  Its  Influencing  Factors.  British  Educational Research Journal 49 (4): 649—673. https://doi.org/10.1002/berj.3860.
+Fastr , G. M., M. R. van der Klink, D. Sluijsmans, and J. J. van Merri nboer. 2012.  Drawing 
+Students  Attention to Relevant Assessment Criteria: Effects on Self-Assessment Skills and Performance.   Journal of Vocational Education & Training 64 (2): 185—198. https://doi.org /10.1080/13636820.2011.630537.
+Hancock,  G.  R. 2001.  Effect  Size,  Power,  and  Sample  Size  Determination  for  Structured 
+Means Modelling and Mimic Approaches to between-Groups Hypothesis Testing of Means on  a  Single  Latent  Construct.   Psychometrika  66  (3):  373—388. https://doi.org/10.1007/ BF02294440.
+K ppe,  C.,  R.  P.  Verhoeff,  and  W.  van  Joolingen. 2024.  Elements  for  Understanding  and 
+Fostering Self-Assessment of Learning Artifacts in Higher Education.  Frontiers in Education 9: 1—14. https://doi.org/10.3389/feduc.2024.1213108.
+Kukk, A., and L. Talts. 2007.  Teachers  Self-Assessment of Their Professional Skills accord-
+ing to the Teachers  Professional Standard.   Journal of Teacher Education for Sustainability 8 (2007): 14—24. https://doi.org/10.2478/v10099-009-0009-2.
+Kuncel,  N.  R.,  M.  Cred ,  and  L.  L.  Thomas. 2005.  The  Validity  of  Self-Reported  Grade 
+Point  Averages,  Class  Ranks,  and  Test  Scores:  A  Meta-Analysis  and  Review  of  the Literature.   Review  of  Educational  Research  75  (1):  63—82. https://doi.org/10.3102/ 00346543075001063.
+Lew, M. D. N., W. A. M. Alwis, and H. G. Schmidt. 2010.  Accuracy of Students  Self-Assessment 
+and  Their  Beliefs  about  Its  Utility.  Assessment  &  Evaluation  in  Higher  Education  35  (2): 135—156. https://doi.org/10.1080/02602930802687737.
+New Zealand Nurses Organization. 2012. Standards of Professional Nursing Practice. https://
+www.nursingcouncil.org.nz/Public/Nursing/Standards_and_guidelines/NCNZ/nursing-section/ Standards_and_guidelines_for_nurses.aspx
+Nieminen,  J.  H.,  and  D.  Boud.  2025.  Placing  Authenticity  at  the  Heart  of  Student 
+Self-Assessment:  An  Integrative  Review.  Teaching  in  Higher  Education  30  (3):  640—662. https://doi.org/10.1080/13562517.2024.2367669.
+Nolte, M. T., M. J. Shauver, and K. C. Chung. 2015.  Analysis of Four Recruitment Methods 
+for Obtaining Normative Data through a Web-Based Questionnaire: A Pilot Study.   Hand (New York, N.Y.) 10 (3): 529—534. https://doi.org/10.1007/s11552-014-9730-y.
+Nursing Council of New Zealand. 2024. Workforce Report 2022—23. https://online.flippingbook.
+com/view/947433727/2/
+Osborne, J. W., and A. B. Costello. 2004.  Sample Size and Subject to Item Ratio in Principal 
+Components  Analysis.   Practical  Assessment,  Research,  and  Evaluation  9:  1—9. https://doi. org/10.7275/ktzq-jq66.
+Ozarslan,  Y.,  and  O.  Ozan. 2017.  Self-Assessment  Quiz  Taking  Behaviour  Analysis  in  an 
+Online Course.   European Journal of Open, Distance and E-Learning 19 (2): 15—31. https:// doi.org/10.1515/eurodl-2016-0005.
+Panadero, E., G. T. L. Brown, and J.-W. Strijbos. 2016.  The Future of Student Self-Assessment: 
+A Review of Known Unknowns and Potential Directions.   Educational Psychology Review 28 (4): 803—830. https://doi.org/10.1007/s10648-015-9350-2.
+Panadero, E., J. Fern ndez, L. Pinedo, I. S nchez, and D. Garc a-P rez.  2024.  A Self-Feedback 
+Model  (SEFEMO):  Secondary  and  Higher  Education  Students   Self-Assessment  Profiles.  Assessment  in  Education:  Principles,  Policy  &  Practice  31  (3—4):  221—253. https://doi.org/ 10.1080/0969594X.2024.2367027.
+Panadero,  E.,  D.  G.  P rez,  J.  F.  Ruiz,  J.  Fraile,  I.  S nchez-Iglesias,  and  G.  T.  Brown. 2023. 
+ University Students  Strategies and Criteria during Self-Assessment: Instructor s Feedback, Rubrics,  and  Year  Level  Effects.  European  Journal  of  Psychology  of  Education  38  (3): 1031—1051. https://doi.org/10.1007/s10212-022-00639-4.
+Planas  Llad ,  A.,  L.  F.  Soley,  R.  M.  Fraguell  Sansbell ,  G.  A.  Pujolras,  J.  P.  Planella,  N. 
+Roura-Pascual, J. J. Su ol Mart nez, and L. M. Moreno. 2014.  Student Perceptions of Peer Assessment: An Interdisciplinary Study.  Assessment & Evaluation in Higher Education 39 (5): 592—610. https://doi.org/10.1080/02602938.2013.860077.
+Putnick,  D.  L.,  and  M.  H.  Bornstein. 2016.  Measurement  Invariance  Conventions  and 
+Reporting:  The  State  of  the  Art  and  Future  Directions  for  Psychological  Research.  Developmental Review: DR 41: 71—90. https://doi.org/10.1016/j.dr.2016.06.004.
+Radović,  S.,  N.  Seidel,  J.  M.  Haake,  and  R.  Kasakowskij. 2024.  Analysing  Students   Self‐
+Assessment Practice in a Distance Education Environment: Student Behaviour, Accuracy, and Task‐Related Characteristics.   Journal of Computer Assisted Learning 40 (2): 654—666. https://doi.org/10.1111/jcal.12907.
+Reychav,  I.,  R.  Beeri,  A.  Balapour,  D.  R.  Raban,  R.  Sabherwal,  and  J.  Azuri. 2019.  How 
+Reliable  Are  Self-Assessments  Using  Mobile  Technology  in  Healthcare?  The  Effects  of Technology  Identity  and  Self-Efficacy.  Computers  in  Human  Behavior  91:  52—61. https:// doi.org/10.1016/j.chb.2018.09.024.
+Shaddad,  A. 2023.  Self-Assessment  and  Immunity  in  Online  Language  Learning:  Probing 
+into  the  Impacts  of  Critical  Thinking,  Self-Efficacy,  and  Academic  Resilience.  Computer-Assisted Language Learning Electronic Journal 24 (2): 32—51.
+Sun,  Y.,  and  Y.  Huang. 2023.  The  Relationships  among  Chinese  University  EFL  Learners  
+Feedback-Seeking  Behaviour,  Achievement  Goals,  and  Mindsets.  Behavioral  Sciences  13 (2): 190. https://doi.org/10.3390/bs13020190.
+Sung, C. C. M. 2023.  Agency and Feedback-Seeking: Academic English Socialization of L2 
+Students in Hong Kong.   Language and Education 37 (3): 364—382. https://doi.org/10.1080/ 09500782.2022.2085048.
+Taylor, S. N. 2014.  Student Self-Assessment and Multisource Feedback Assessment: Exploring 
+Benefits,  Limitations,  and  Remedies.  Journal  of  Management  Education  38  (3):  359—383. https://doi.org/10.1177/1052562913488111.
+Teaching  Council  of  Aotearoa  New  Zealand. 2017.  Our  Code,  Our  Standards:  Code  of 
+Professional Responsibility and Standards for the Teaching Profession. https://teachingcouncil. nz/professional-practice/our-code-our-standards/
+Wan, C., G. Q. Shen, and S. Choi. 2017.  Experiential and Instrumental Attitudes: Interaction 
+Effect of Attitude and Subjective Norm on Recycling Intention.  Journal of Environmental Psychology 50: 69—79. https://doi.org/10.1016/j.jenvp.2017.02.006.
+Wanner, T., and E. Palmer. 2018.  Formative Self-and Peer Assessment for Improved Student 
+Learning: The Crucial Factors of Design, Teacher Participation and Feedback.  Assessment &  Evaluation  in  Higher  Education  43  (7):  1032—1047. https://doi.org/10.1080/02602938. 2018.1427698.
+Yan, Z. 2018.  Student Self-Assessment Practices: The Role of Gender, School Level and Goal 
+Orientation.   Assessment in Education: Principles, Policy & Practice 25 (2): 183—199. https:// doi.org/10.1080/0969594X.2016.1218324.
+Yan, Z. 2020.  Self-Assessment in the Process of Self-Regulated Learning and Its Relationship 
+with Academic Achievement.  Assessment & Evaluation in Higher Education 45 (2): 224—238. https://doi.org/10.1080/02602938.2019.1629390.
+Yan, Z., G. T. L. Brown, C. K. J. Lee, and X. L. Qiu. 2020.  Student Self-Assessment: Why 
+Do They Do It?  Educational Psychology 40 (4): 509—532. https://doi.org/10.1080/01443410. 2019.1672038.
+Yan,  Z.,  E.  Panadero,  X.  Wang,  and  Y.  Zhan.  2023.  A  Systematic  Review  on  Students  
+Perceptions  of  Self-Assessment:  Usefulness  and  Factors  Influencing  Implementation.  Educational Psychology Review 35 (3): 81. https://doi.org/10.1007/s10648-023-09799-1.
+Yan, Z., X. Wang, D. Boud, and H. Lao. 2023.  The Effect of Self-Assessment on Academic 
+Performance and the Role of Explicitness: A Meta-Analysis.  Assessment & Evaluation in Higher Education 48 (1): 1—15. https://doi.org/10.1080/02602938.2021.2012644.
+Yang, L., Z. Yan, D. Zhang, D. Boud, and J. A. Datu. 2023.  Exploring the Roles of Academic 
+Self-Concept  and  Perseverance  of  Effort  in  Self-Assessment  Practices.  Assessment  in Education: Principles, Policy & Practice 30 (2): 104—129. https://doi.org/10.1080/0969594X. 2023.2191161.
+Zhang,  X.,  X.  Wang,  F.  Tian,  D.  Xu,  and  L.  Fan. 2023.  Anticipating  the  Antecedents  of 
+Feedback-Seeking Behaviour in Digital Environments: A Socio-Technical System Perspective.  Internet Research 33 (1): 388—409. https://doi.org/10.1108/INTR-09-2021-0672.
+Zhang, Q., W. Wu, and K. Jiang. 2024.  Standardising Professional Standards: A Self-Assessment 
+Scale  for  Chinese  Kindergarten  Teachers.  European  Journal  of  Teacher  Education  47  (4): 730—748. https://doi.org/10.1080/02619768.2022.2124913.

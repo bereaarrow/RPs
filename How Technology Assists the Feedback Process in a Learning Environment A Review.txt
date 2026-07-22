@@ -1,0 +1,108 @@
+﻿2023 IEEE International Conference on Advanced Learning Technologies (ICALT)
+How technology assists the feedback process in a learning environment: A review 
+
+Authorized licensed use limited to: Zhejiang University. Downloaded on July 22,2026 at 06:53:27 UTC from IEEE Xplore.  Restrictions apply. 
+Wanning Huang  
+Faculty of Education and Social Work The University of Auckland 
+Auckland, New Zealand 
+whua616@aucklanduni.ac.nz 
+Gavin T. L. Brown 
+Faculty of Education and Social Work The University of Auckland 
+Auckland, New Zealand 
+gt.brown@auckland.ac.nz 
+Jason M. Stephens 
+Faculty of Education and Social Work The University of Auckland 
+Auckland, New Zealand 
+jm.stephens@auckland.ac.nz
+
+Authorized licensed use limited to: Zhejiang University. Downloaded on July 22,2026 at 06:53:27 UTC from IEEE Xplore.  Restrictions apply. 
+Abstract—The availability and utilization of feedback play a crucial role in the development of students' knowledge and skills. Technology-enhanced feedback is taking on an increasing role in education because of limited resources and large classes. These systems can assist the feedback process holistically by generating, delivering, and supporting the use of feedback. Four databases were  searched  to  identify  empirical  studies  on  technology- enhanced  feedback  between  2015  and  2021.  In  the  61  studies screened, feedback systems were classified and analyzed according to their role in the feedback process, revealing the main techniques used,  the  characteristics  of  the  feedback,  and  the  impact  on students. The results demonstrate the current state of research in technology-enhanced feedback, and future research can refer to this article for further exploration. 
+Keywords—technology-enhanced feedback, automated feedback, delivering feedback, systematic review 
+I. INTRODUCTION
+Feedback is one of the most critical influences on learning, and its quantity and quality are essential to ensure its positive effects. Given the challenges of a large student to teacher ratio, researchers  have  focused  on  technology-enhanced  feedback (TEF)  [1].  TEF  refers  to  technology  being  used  to  benefit student  engagement  with  feedback  and  the  impact  of  that engagement, giving it a positive role in education [2]. TEF has strong potential for use in a wide variety of educational settings, leading to a shift in the form of feedback and demonstrating multiple  benefits  and  future  possibilities.  Nevertheless,  the ultimate goal of TEF development is to help students develop and  reconstruct  meaning  with  feedback,  and  concentrating solely  on  technology  is  insufficient.  Feedback  is  a communication process whose effectiveness relies on shared understandings  between  the  two  parties  [3].  Therefore,  the purpose of this study is to understand how technology plays a role in the feedback process and supports it at each stage of the process (i.e., generation, delivery, and use). In order to provide a global description of technology-enhanced feedback systems in recent years, three research questions were addressed in this study: 
+1: How does technology automatically generate feedback? 
+2: How does technology help teachers or learners provide feedback? 
+II. RESEARCH METHODOLOGY
+A. Search Strategy 
+In order to obtain a standardized and replicable result, a systematic  review  was  used  as  the  research  method  and PRISMA (Systematic reviews and Meta-Analyses) Statement as the  model  [4].  An  advanced  search  used  the  search  terms, “(“technology  enhanced”  OR  “technology  enabled”  OR “technology assisted”) AND (“feedback” OR “feed-forward”, “feed-back” OR “feedforward”) AND (“learn*” OR “educa*” OR “teach*”)” in two prominent social science databases (Web of Science Core Collection and Scopus) and two research topic- related databases (ERIC and PsycINFO).  
+B. Study Selection Process 
+The  inclusion  and  exclusion criteria used are detailed in Table 1. The search and screening ultimately returned 61 papers. To  confirm  that  the  screening  process  was  unbiased,  three educational researchers independently reviewed 10% of the full texts, resulting in a high rater agreement coefficient. 
+TABLE I.   INCLUSION AND EXCLUSION CRITERIA. 
+ 
+                   Inclusion Criteria              Exclusion Criteria 
+ Date              Published 2015–2021             Before 2015 
+ Language          English                         Not English 
+ Field             Education, computer science,    Not in an educational setting  
+                    psychology
+                    
+ Topic             Technology-enhanced feedback    No use of technology- enhanced
+                                                    feedback;
+                                                     
+                                                   No specific description of the
+                                                    feedback
+                                                    
+III. RESULTS AND DISCUSSION 
+A. General Research Status 
+Two aspects of the results related to the educational domains in which the system was applied and the educational phase of the  participants.  Figure  1  shows  the  educational  domains involved in the empirical studies reviewed. TEF systems have been used in a wide variety of educational domains, even in the areas of writing involving complex texts, skill-based physical education,  and  competency-demanding medicine.  This  result reflects both the development of TEF and the recognition of its usefulness. 
+
+Authorized licensed use limited to: Zhejiang University. Downloaded on July 22,2026 at 06:53:27 UTC from IEEE Xplore.  Restrictions apply. 
+3:  How  can  technology  help  learners  use  or  understand 
+feedback? 
+2161-377X/23/$31.00 ©2023 IEEE 326
+DOI 10.1109/ICALT58122.2023.00101
+
+Authorized licensed use limited to: Zhejiang University. Downloaded on July 22,2026 at 06:53:27 UTC from IEEE Xplore.  Restrictions apply. 
+STEM = Science, Technology, Engineering, and Mathematics 
+
+Fig. 1.  Summary based on the educational domain 
+Figure 2 shows the educational stage of the participants in the study. The largest number of articles included undergraduate students as participants, and fewer studies included students in compulsory education. This result can be explained by the fact that teachers have to deal with more students in higher education and need more help through TEF. It may also be that this age group  of  students  is  more  capable  of  using  TEF.  However, researchers need to understand that these findings from higher education do not necessarily apply to compulsory education due to the different ages, knowledge levels, and tasks handled by students [5]. Therefore, more research is needed on the use of TEF in compulsory K-12 education. 
+
+Fig. 2.  The proportion of studies for different educational phases 
+B. Generating Feedback 
+The first research question aimed to explore how technology generates feedback and the current state of its automation. We found 28 articles describing systems that generated automatic feedback,  which  may  be  a  good  solution  to  the  widespread problem of delayed feedback. The variety of systems included those that provided immediate feedback on objective questions, corrected text in real-time and generated adaptive feedback. We describe the three most common types of TEF systems and their impact on learners. 
+The most widely used systems (i.e., 13 articles) were those that had objectively-scored questions as a task, probably the most common and easily implemented method of assessment. The TEF generated immediate feedback after students answered multiple-choice  or  fill-in-the-blank  questions,  by  comparing students'  answers  with  the  expected  answers.  A  number  of studies  demonstrated  that  these  systems  facilitated  learners' performance,  knowledge  comprehension,  motivation, satisfaction, and course engagement [6,7,8]. It is noteworthy that 
+objectively-scored question-based  systems  have continued  to evolve in recent years, with researchers introducing numerous novel features. For example, a virtual patient simulation has additional motivational features that are for clinical diagnosis, in which  medical  students  receive  diverse  gamified  feedback, including  points,  dramatic  storylines,  and  rewards  for  high scores [9]. 
+A number of articles (i.e., 5 articles) investigated feedback systems that focused on text [10]. These systems mostly use natural language processing to provide automatic feedback by calculating  the  similarity  between  the  learner's  answers  and predefined  answers.  Instead  of  simple  choices,  learners  can develop complex responses and receive immediate feedback on them,  which  has  been  shown  to  help  improve  learner performance. For example, the Student Mental Model Analyzer for  Research  and  Teaching  (SMART)  system  uses  natural language processing to compare the textual similarity between learners' answers and experts' answers, giving students feedback on key concepts and relationships they may have missed to help them write better summaries [11]. 
+In  addition,  a  large  amount  of  learner-related  data  has emerged with the development of online learning. As a result, some TEF systems (i.e., 5 articles) gather data on the learning process and utilize learning analytics, by collecting, analyzing, and reporting data on learners and their contexts to improve understanding and optimize learning and learning environments [12]. This approach provides teachers with better information and learners with improved support [13]. Learners' motivation, willingness to seek help, and self-directed learning skills have all improved with the help of such systems. On Task is one such system,  from  which  students  can  get  personalized  feedback related  to  activities  and  assessments  (e.g.,  progress  on  quiz completions,  grades  in  assessments,  and  suggestions  for improving  scores),  which  has  successfully  promoted  course engagement [14]. 
+C. Delivering Feedback 
+The  second  research  question  focused  on  the  role  of technology in delivering feedback. We found 31 articles that reported TEF systems that delivered human-generated feedback to make communication between the sender and receiver easier. Most of the systems used in the study were integrated systems, meaning that delivering feedback is only one of the functions of the system. The GeoGebra system, for example, automatically generates feedback as well as delivering it from teachers and peers [15]. Once students have published their answers and a rationale,  peers  can  give  comments  and  suggestions  for improvement,  which  are  then  delivered  by  the  system.  In addition to text-based feedback, some research has focused on the  delivery  of  audio-visual  feedback.  For  instance,  in  E- Coaching,  instructors  working  with  children  with developmental  disabilities  received  real-time  audio  feedback from coaches over Bluetooth headsets as they interacted with the children. This improved the interventions for children [16].  
+Further exploration of the article content demonstrated two trends. First, the primary focus of giving feedback has shifted from teacher-led to peer-led. The benefits include a reduction in teacher  workload  while  giving  feedback  can  help  learners develop higher-level learning skills [17]. Second, using audio 
+
+Authorized licensed use limited to: Zhejiang University. Downloaded on July 22,2026 at 06:53:27 UTC from IEEE Xplore.  Restrictions apply. 
+327
+
+Authorized licensed use limited to: Zhejiang University. Downloaded on July 22,2026 at 06:53:27 UTC from IEEE Xplore.  Restrictions apply. 
+and video rather than text to deliver feedback, provides more information than text feedback, through tone of voice, gesture, and personality. This seems to be popular with students and helps them to understand [18]. 
+D. Using Feedback 
+We found 24 studies around helping learners understand and use feedback, with some TEF systems having features aimed at aiding comprehension. Some systems help learners understand feedback  by  facilitating  self-generated  feedback  rather  than receiving feedback from others. Self-generated feedback is seen as easier to understand and potentially offers greater gains than external  feedback  [19].  For  example,  simply  watching  a recorded  video  of  a  clinical  medical  suture  recording  was effective in increasing the learners' self-reflection [20]. Other studies have compared different types of feedback to determine which are more beneficial for learners to understand and use. 
+Despite  the  increasing  recognition  of  the  importance  of learners and feedback as a communication process, there is still a  lack of  TEF research that addresses  how  to help  learners comprehend and effectively use feedback. Additionally, current systems aimed at assisting learners in using feedback primarily focus on guiding them to complete specific tasks and improve their performance rather than cultivating transferable skills for future  use.  When  learners  lack  feedback-related  transferable skills, it is difficult to assume that they will be able to effectively use feedback in the future [21]. 
+IV. CONCLUSION
+This paper presents  a review of 61 empirical  studies on technology-enhanced  feedback  published  between  2015  and 2021. The articles were categorized into three groups based on the  way  the  systems  supported  the  feedback  process:  (a) feedback generation, (b) feedback delivery, and (c) feedback utilization assistance. Although various types of TEF systems have been used in practical teaching and learning scenarios, researchers  continue  to  investigate  the  advantages  that innovative  technologies  can  offer  learners.  However,  it  is evident  that  insufficient  attention  has  been  given  to understanding how students can better comprehend and employ feedback, which is a crucial aspect of feedback effectiveness. Therefore,  sustained  efforts  are  required  to  explore  how technology can support the feedback process in order to fully realize the potential of technology-enhanced feedback. 
+REFERENCES
+[1] P. Dawson et al., “What makes for effective feedback: staff and student perspectives,” Assessment & Evaluation in Higher Education, vol. 44, no. 1, pp. 25–36, Apr. 2018, doi: 10.1080/02602938.2018.1467877. 
+[2] C. Munshi and C. C. Deneen, “Technology-Enhanced Feedback,” The Cambridge Handbook of Instructional Feedback, no. 15, pp. 335–356, Nov. 2018, doi: 10.1017/9781316832134.017. 
+[3] Leavitt, Harold J., and Ronald A. H. Mueller. “Some Effects of Feedback on Communication.” Human Relations, vol. 4, no. 4, Nov. 1951, pp. 401– 410, doi: 10.1177/001872675100400406.  
+[4] M. J. Page et al., “The PRISMA 2020 statement: an Updated Guideline for Reporting Systematic Reviews,” British Medical Journal, vol. 372, no. 71, p. n71, Mar. 2021, doi: 10.1136/bmj.n71. 
+[5] Gavin, and Lois Ruth Harris. “Student Conceptions of Assessment by Level of Schooling: Further Evidence for Ecological Rationality in Belief Systems.”  Australian  Journal  of  Educational  and  Developmental Psychology, vol. 12, 1 Jan. 2012, pp. 46–59. Accessed 24 Apr. 2023.  
+[6] M. Fuad, D. Deb, J. Etim, and C. Gloster, “Mobile response system: a novel approach to interactive and hands-on activity in the classroom,” Educational Technology Research and Development, vol. 66, no. 2, pp. 493–514, Jan. 2018, doi: 10.1007/s11423-018-9570-5. 
+[7] S. Kaewunruen, “Enhancing Railway Engineering Student Engagement Using Interactive Technology Embedded with Infotainment,” Education Sciences, vol. 9, no. 2, p. 136, Jun. 2019, doi: 10.3390/educsci9020136. 
+[8] M.  M.  T.  Said,  V.  R.  Aravind,  D.  F.  James,  and  K.  Umachandran, “Dissecting assessment: A paradigm shift towards technology-enhanced assessments,” World Journal on Educational Technology: Current Issues, vol. 11, no. 2, pp. 162–170, Apr. 2020, doi: 10.18844/wjet.v11i2.4256. 
+[9] L. McCoy, R. K. Pettit, J. H. Lewis, J. A. Allgood, C. Bay, and F. N. Schwartz, “Evaluating medical student engagement during virtual patient simulations:  a  sequential,  mixed  methods  study,”  BMC  Medical Education, vol. 16, no. 1, Jan. 2016, doi: 10.1186/s12909-016-0530-7. 
+[10] G. Deeva, D. Bogdanova, E. Serral, M. Snoeck, and J. De Weerdt, “A review  of  automated  feedback  systems  for  learners:  Classification framework, challenges and opportunities,” Computers & Education, vol. 162, no. 162, p. 104094, Mar. 2021, doi: 10.1016/j.compedu.2020.104094. 
+[11] M. K. Kim and K. S. McCarthy, “Improving summary writing through  I R U P D W L Y H   I H H G E D F N    L W Q    ´ D    W H  Journal of Computer Assisted Learning, vol. 3, no. 37, Dec. 2020, doi: 10.1111/jcal.12516. 
+[12] G. Siemens and P. Long, “Penetrating the fog: Analytics in learning and education,” EDUCAUSE review, vol. 46, no. 5, Sep. 2011. 
+[13] D.  Clow,  “An  overview  of  learning  analytics,”  Teaching  in  Higher Education,  vol.  18,  no.  6,  pp.  683–695,  Aug.  2013,  doi: 10.1080/13562517.2013.827653. 
+[14] S. Lewis, G. Heath, L. Lim, and R. Roberts, “‘I’m Not a Number, I’m Someone  to  Them’:  Supporting  Commencing  University  Students’ Through Technology-Mediated Personalised Communication,” Student Success, vol. 11, no. 1, Oct. 2020, doi: 10.5204/ssj.1623. 
+[15] R. Weinhandl, Z. Lavicza, M. Hohenwarter, and S. Schallert, “Enhancing Flipped Mathematics Education by Utilising GeoGebra,” International Journal of Education in Mathematics, Science and Technology, vol. 8, no. 1, p. 1, Jan. 2020, doi: 10.46328/ijemst.v8i1.832. 
+[16] C. G. Coogle, A. L. Larson, J. R. Ottley, A. K. Root, and H. Bougher- Muckian,  “Performance-Based  Feedback  to  Enhance  Early Interventionist’s Practice and Caregiver and Child Outcomes,” Topics in Early Childhood Special Education, vol. 39, no. 1, pp. 32–44, Mar. 2019, doi: 10.1177/0271121419831414. 
+[17] L. Hsia and G. Hwang, “Enhancing students’ choreography and reflection 
+ L Q   X Q L Y H U V L W \   G D Q F H   F R X U V  assessment approach,” British Journal of Educational Technology, vol. 
+52, no. 1, pp. 266–287, Jun. 2020, doi: 10.1111/bjet.12986. 
+[18] Sims, Jane Marie. Instructors' Perspectives of Giving Audio and Video Feedback: Can You Hear Me Now?. The University of North Dakota, 2016. 
+[19] Nicol  D.  Reconceptualising  feedback  as  an  internal  not  an  external process. Italian Journal of Educational Research, vol.7, pp.71-84, Jun. 2019,doi: 10.7346/SIRD-1S2019-P71. 
+[20] T. Sato, J. Sandars, J. Brown, and S. N. Rogers, “Usefulness of smart glasses and point of view for suturing skills training in medical students: pilot study,” BMJ Simulation and Technology Enhanced Learning, vol. 7, no. 3, p. bmjstel-2020-000669, Jun. 2020, doi: 10.1136/bmjstel-2020- 000669. 
+[21] A. Jonsson, “Facilitating productive use of feedback in higher education,” Active Learning in Higher Education, vol. 14, no. 1, pp. 63–76, Dec. 2012, doi: 10.1177/1469787412467125.
+
+Authorized licensed use limited to: Zhejiang University. Downloaded on July 22,2026 at 06:53:27 UTC from IEEE Xplore.  Restrictions apply. 
+328
+Authorized licensed use limited to: Zhejiang University. Downloaded on July 22,2026 at 06:53:27 UTC from IEEE Xplore.  Restrictions apply. 

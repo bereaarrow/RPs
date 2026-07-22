@@ -1,0 +1,299 @@
+﻿ASSESSMENT & EVALUATION IN HIGHER EDUCATION 
+2023, VOL. 48, NO. 8, 1371—1384 
+https://doi.org/10.1080/02602938.2023.2222232 
+
+The tension between impression management and learning: examining the impact of Chinese students  academic integrity perceptions on self-assessment intentions
+Tianxin Lia  , Gavin T. L. Brownb  and Eleanor Haweb 
+aFaculty of Education, Shaanxi Normal University, Xi an, China; bFaculty of Education & Social Work, The University of Auckland, Auckland, New Zealand
+
+ABSTRACT
+Student  self-assessment  research  underscores  the  significance  of  honestly recognizing  strengths  and  weaknesses,  facilitating  self-regulated  learning and  progress. The  Integrated  Quality  Assessment  (IQA)  in  China  combines self-assessment with other data to evaluate achievement, serving dual pur - poses:  promoting  students   awareness  of  their  strengths  and  weaknesses, and providing summative scores and grades that contribute to the alloca - tion  of  scholarships  and  other  valued  outcomes.  This  association  creates tension in Chinese students  self-assessment intentions due to the high-stakes consequences.  Using  a  large-scale,  cross-sectional  survey  of  2,063  Chinese undergraduate  students,  the  factors  influencing  students   self-assessment intentions were examined. Structural equation modeling revealed that pos - itive perceptions of academic integrity and conceptions of IQA as improve - ment predicted learning-oriented self-assessment intentions, while increased perceptions  of  peer  misconduct  and  negative  conceptions  of  IQA  signifi - cantly predicted impression management intentions.
+KEYWORDS Self-assessment; academic integrity; impression management; learning; Integrated Quality Assessment
+
+Introduction
+Student self-assessment is an essential component of effective learning, as it necessitates the evaluation 
+of  one s  own  abilities,  strengths  and  weaknesses  in  an  honest  manner  (Brown  and  Harris  2013). Boekaerts  (1993, 2011) dual processing self-regulation model underscores the potential pathways stu - dents  may  adopt  during  self-assessment:  the  growth  pathway,  fostering  personal  development  albeit emotionally challenging, and the well-being pathway, prioritizing emotional comfort, and self-preservation. Accurate self-assessment can be an arduous and emotionally taxing process, necessitating the acknowl - edgment of both achievements and failures, while simultaneously protecting one s ego (Boekaerts, 1993).
+When  self-assessments  are  associated  with  important  consequences  (e.g.  scholarship  alloca - tion, financial aid, merit recognition, and employment recommendations), there is a strong pos - sibility  that  students  will  rationally  engage  in  impression  management  (i.e.  the  deliberate manipulation of self-presentation to protect self-image or social status; Leary and Kowalski  1990) at  the  cost  of  self-assessment  as  a  learning  instrument.  This  study  explores  factors  leading  to impression management or learning in self-assessment by examining the impact of Chinese stu - dents   academic  integrity  perceptions  on  their  self-assessment  intentions  within  the  Integrated Quality  Assessment  (IQA)  system.  This  study  expands  our  understanding  of  the  psychological 
+CONTACT Tianxin Li  litianxin@snnu.edu.cn
+ Supplemental data for this article can be accessed online at https://doi.org/10.1080/02602938.2023.2222232.
+' 2023  Informa UK Limited, trading as Taylor & Francis Group
+
+ASSESSMENT & EVALUATION IN HIGHER EDUCATION 1383
+barriers  that  impede  learning-oriented  self-assessment  implementation.  Despite  the  study s  ori - gins  in  Chinese  higher  education,  the  findings  have  broader  applicability  to  any  situation  in which  consequences  are  attached  to  self-assessment.  The  identification  of  variables  impacting self-assessment intentions is of universal importance, with the potential to inform and improve global self-assessment practices and policies across varied contexts of learning.
+The dual processing self-regulation model
+Boekaerts  (1993, 2011) dual processing self-regulation model (DPSRM) provides a framework that elucidates  how  individuals  regulate  their  behavior  and  cognition  to  achieve  their  goals.  This model comprises two distinct pathways: the well-being path and the growth path. The well-being path  governs  automatic,  intuitive  and  immediate  responses  that  result  in  impulsive  decisions designed  to  make  the  individual  look  or  feel  good,  such  as  engaging  in  dishonest  practices  or overestimating their abilities. The growth path facilitates conscious, deliberate, and effortful reg - ulation of behavior and cognition, supporting self-regulatory behaviors such as the critical exam - ination  of  one s  work,  identification  of  areas  needing  improvement,  and  the  setting  of  realistic goals  for  future  learning  (Boekaerts,  2011).  The  interplay  between  these  pathways  within  the DPSRM helps explain the impact of consequences attached to assessment practices on academic integrity conceptions and self-assessment perceptions.
+Students committed to maximizing well-being are likely to engage in impression management (i.e. intentional effort to create a positive impression on others; Paulhus  1984) by distorting the veracity  or  realism  of  their  self-assessments.  The  greater  the  consequence  attached  to  the self-assessment and the lower probability of falsehood being exposed, the more likely impression management will happen for those engaged in well-being maximization. However, students who are strongly committed to growth are likely to have a deeper commitment to academic integrity, and engage in realistic, veridical self-assessment practices. Hence, the meaning of self-assessment responses depends in part on students  location within the DPSRM.
+Students  conceptions of self-assessment
+Self-assessment entails evaluating and judging one s academic work or learning rather than eval - uating  oneself  (Brown  and  Harris,  2013).  Scholars  have  approached  self-assessment  as  either  a summative judgement involving grade generation (Nieminen  2022) or a learning activity empha -sizing knowledge acquisition (Brown and Harris  2013, 2014).
+Empirical  research  with  post-secondary  students,  when  self-assessment  mattered  to  summa - tive  grading,  revealed  a  tendency  to  be  influenced  by  how  others  perceive  their  accomplish - ments  (Lew  and  Schmidt  2006).  University  students  have  exhibited  a  desire  to  increase  their grades when self-assessment accounted for 5% of their final grade (Tejeiro et al.  2017) and when a self-grading system was introduced into a history of creativity course (Strong, Davis, and Hawks 2004).  Lew  (2009)  observed  that  Singaporean  students  tended  to  assign  themselves  elevated evaluations and accentuated their favorable outcomes within their reflective journals as mecha - nisms for shaping their tutors  perception of their accomplishments.
+On the other hand, when self-assessment is used formatively, student self-assessment seems 
+to center on a growth-oriented process. For instance, self-assessment in problem-based learning environments has been shown to promote deeper reflection on learning processes and content (Thompson,  Pilgrim,  and  Oliver 2005),  enhance  deep  learning  and  critical  thinking  (Segers  and Dochy 2001), and increase awareness of individual learning and thought processes, encouraging students to address identified weaknesses or areas for improvement (Mok et al.  2006). However, despite the growth potential of formative self-assessment, higher education students may have pessimistic  views  of  it  (Lew 2009).  Self-assessment  may  not  be  taken  seriously  if  there  is  no 
+associated grade, meaning there are insufficient benefits in relation to time required (Hanrahan and  Isaacs  2001).  Students  have  perceived  self-assessment  and  reflection  as  mechanical  and pointless   tasks  that  enabled  strategic  acquisition  of  higher  marks/grades  with  minimal  effort (Maguire, Evans, and Dyas 2001).
+These studies reveal that at times students engage in impression management which is char - acterized  by  the  deliberate  manipulation  of  how  the  self  is  presented  to  protect  self-image  or social status (Leary and Kowalski 1990). This defeats the efficacy of self-assessment as a learning process. Hence, students  perceptions of and responses to self-assessment appear strongly related 
+to their perceptions of the associated consequences, regardless of whether they are designed for formative or summative use. Consequently, examining the implementation of self-assessment and students  perceptions is essential.
+Conceptions of academic integrity
+Previous research has examined reasons contributing to students  engagement in academic mis - conduct,  including  academic  and  non-academic  external  pressure,  laziness  and  a  desire  to improve grades (Bj rklund and Wenestam  1999; Kwong et al. 2010). Students  perceptions about cheating and academic dishonesty are influenced by both personality traits (e.g. goal orientation, self-efficacy, and locus of control) and classroom contextual factors (e.g. classroom goal orienta - tion and social norms) (Murdock, Stephens, and Grotewiel  2016).
+Concerning  the  effect  of  classroom  contextual  factors  on  students   academic  misbehaviour,  two associated components have been identified in the literature: class goal structure and social norms (Murdock, Stephens, and Grotewiel  2016). Several studies have reported that a decrease in students  cheating  was  predicted  by  students   increased  orientation  towards  mastery  goal  structures  and decreased perceptions of performance goal structures (Murdock, Hale, and Weber 2001). Additionally, perceived peer norms are a strong predictor of academic dishonesty (McCabe, Trevi o, and Butterfield 2001). Students have been found to be more inclined to cheat if they believe their classmates are cheating (McCabe and Trevi o  1997), and to overestimate the extent to which others cheat (Prenshaw, Straughan,  and  Albers-Miller  2001).  Factors  such  as  indifference  attitudes  toward  cheating,  norms supportive of cheating and fewer perceived behavioral controls, are positively associated with both intentions to cheat and cheating behaviors (Stone, Jawahar, and Kisamore  2010).
+Confucian cultural values, emphasizing the maintenance of face and social harmony, may influence students   propensity  for  impression  management  over  honest  self-assessment.  A  strong  correlation between perceived cheating norms and dishonesty among Chinese business students was revealed by 
+Tsui and Ngo (2016). Peer influence had a favourable effect on Chinese students  collaborative cheating, indicating  that  some  Chinese  students  prioritised  friendship  over  the  abstract  concept  of  integrity (Zhang  and Yin 2020).  Moreover,  opportunism  and  idealism  have  been  identified  as  two  significant factors  influencing  Chinese  students   attitudes  towards  academic  dishonesty  (Rawwas,  Al-Khatib,  and Vitell 2004). Thus, when presented with the opportunity to cheat to obtain a desired outcome, and the perceived likelihood of peer cheating, students were extremely likely to take advantage of the oppor - tunity to cheat and demonstrate tolerance for academic dishonesty.
+Given the highly competitive assessment environment and the prevalence of face culture in Chinese higher education, it is essential to examine how students from the People s Republic of China perceive the educational and selection functions of IQA self-assessment and the potential role of attitudes towards integrity.
+Self-assessment in Chinese higher education
+Launched  in  1999,  IQA  mitigates  examination-oriented  education  by  promoting  holistic  student development  (Wong  1998).  Emphasizing  assessment  for  learning   (AfL),  IQA  involves  multiple stakeholders, with self-assessment at its core, diverging from conventional teacher-centered grading (Ministry of Education, 2001). While implemented nationwide, each university faculty retains auton - omy over its grading systems and standards. As conducted in one Chinese university (Figure 1), the annual IQA process begins with students conducting their own self-assessment of accomplishments and providing certification for their claimed IQA points. The class leader receives the documentation, which is summarized by their class s assessment committee and turned into a ranking list. The rank - ing  list  is  checked  by  the  department s  counsellor  and  department  assessment  committee,  before being  publicly  displayed  for  five  days.  In  that  five-day  window,  students  can  appeal  their  ranking, though this is seldom changed. The Student Affairs Office receives the IQA rankings and uses them to  make  decisions  concerning  scholarship  allocations,  financial  support,  merit  recognition  and  job referrals  (Li 2016),  thereby  presenting  high-stakes  outcomes.  Consequently,  IQA  self-assessment serves a dual function: fostering self-regulated learning and aiding selection processes (Ministry of Education, 2001). This gives students opportunities to engage in impression management or engage 
+in growth-oriented learning through honest self-assessment (Bolino et al.  2008).
+Most of the extant empirical research on IQA has primarily concentrated on students  percep - tions of IQA self-assessment and the challenges that emerge during its implementation. Although students recognize the improvement-oriented nature of IQA self-assessment, they tend to place greater emphasis on the substantial consequence of elevated IQA scores and scholarship awards (Zhou 2013). The desire to inflate IQA self-assessments has led to incidents of academic dishon - esty, such as paying others to publish papers on their behalf (Zhao  2011), fabricating internship certificates to obtain bonus points (Li, Hawe, and Brown  2021), and employing impression man - agement  to  secure  higher  moral  IQA  self-assessment  scores  (Zhou  2013).  While  the  primary objective  of  IQA  self-assessment  is  to  provide  a  process-oriented  and  authentic  evaluation  that fosters learning and reflection (Li  2016), its connection to scholarship awards has inadvertently, but  logically,  promoted,  reinforced,  and  rewarded  impression  management  through  dishonest 
+and inaccurate self-evaluations.
+The  current  study  investigates  potential  causal  relations  in  how  Chinese  students   attitudes about academic integrity, peer misconduct and self-assessment contribute to intentions towards honest learning appraisal versus ego protective impression management in IQA self-assessment. Thus, two research questions frame this study:
+RQ1: How do perceptions of academic integrity and peer misconduct influence students  intentions of IQA self-assessment?
+Figure 1.  Flow Diagram of Integrated Quality Assessment Practice at one Chinese University.
+RQ2: How do the joint perceptions contribute to learning versus impression management intentions in IQA self-assessment?
+Methods
+This study uses a cross-sectional, nonexperimental survey analyzed with structural equation mod - eling  to  identify  causal  pathways  among  measured  constructs. The  target  population  was  PRC university  students  with  experience  of  self-assessment  in  IQA.  An  anonymous  online  question - naire was disseminated  via Wenjuan Xing, a service provider specializing in online surveys, assess - ments and voting platforms (Mei and Brown  2018). Ethical approval for the study was obtained from the authors  affiliated university.
+Participants
+The survey included 2,063 Chinese undergraduate students from 69 universities, all of whom had prior experience with IQA self-assessment (Table 1). Most participants were female (65.0%). Approximately half of the participants were in their second year of study and the largest proportion of participants were enrolled in the faculties of fine arts (26.7%), engineering (27.1%) and science (16.1%).
+Instruments
+After collecting demographic information, participants completed four inventories. Each inventory used multiple indicators for multiple causes (MIMIC) to estimate a latent factor.
+Students  conceptions of Integrated Quality assessment (SCoIQA)
+The SCoIQA inventory contained 32 items and 7 factors (i.e. selection and societal, gaming strat - egies,  improvement,  positive,  negative,  high-stakes  consequences  and  social  mobility),  adapted from Brown and Wang s (2016) measure of Chinese students  conceptions of the nature and pur - pose of assessments. In this study the word  assessment  was replaced with  IQA  in all items.
+Self-Assessment intentions in the Integrated Quality assessment (SAI-IQA)
+The  SAI-IQA  scale,  consisting  of  9  items  and  3  factors  (i.e.  self-assessment  is  for  appraising  learning, self-assessment is a habitual action, self-assessment is for impression management), was based on a 
+Table 1.  Demographic characteristics of participants.
+                                Characteristics                                                     N                       Valid  %
+  Gender                        Male                                                                 712 1,340 11 237 1,106   34.5 65.0 0.5
+  University Year Level         Female                                                                569 135 16 333 560 97   11.5 53.6 27.6
+  Faculty                       Gender diverse                                                            73 231 165 60        6.5 0.8 16.1
+                                1st year                                                                       542             27.1 4.7 3.6
+                                2nd year                                                                                        11.3 8 2.9
+                                3rd year                                                                                           26.7
+                                4th year
+                                5th year
+                                Science
+                                Engineering
+                                Medicine and pharmacy
+                                Agriculture, life science and environment Humanities
+                                Business studies
+                                Education
+                                Fine arts
+previous  study  by  Lew,  Alwis,  and  Schmidt  (2010).  One  item  was  deleted  from  the  original  scale because IQA self-assessment was not a daily activity, being carried out once or twice a year.
+Students  conceptions of academic integrity (SCoAI)
+The  SCoAI  scale,  with  25  items  and  5  factors  (i.e.  college  deterrence  of  academic  misconduct,  test misconduct,  paper  misconduct,  assignment  misconduct,  and  IQA  misconduct),  incorporated  Ma, McCabe,  and  Liu s  (2013)  Survey  of  Academic  Cheating  and  added  six  IQA  misconduct  items. Tests, papers, assignments and IQA are distinguishable by format: tests are standardized, teacher-supervised tasks; papers are informal, written submissions demonstrating understanding; assignments are formal, assessed  tasks  providing  achievement  data;  and  IQA  is  a  quality-based  evaluation  covering  various performance areas (e.g. morality, intelligence, physical fitness, work, and aesthetics).
+Observation of peer academic misconduct (OPAM)
+The  OPAM  scale,  developed  by  the  authors,  comprised  13  items  and  3  factors  related  to  how strongly  an  assessment  was  invigilated,  to  assess  students   observations  of  peer  academic  mis - conduct  in  various  assessment  types.  The  13  items  were  grouped  into  three  factors  based  on invigilation  levels  during  assessment  administration.  Highly  invigilated  assessments  include  for - mal examinations with assigned seating and roving proctors; moderately invigilated assessments consist of in-class tests with instructor observation and preferred seating; and low or no invigila - tion occurs in take-home coursework with no checks. Two experts from PRC universities reviewed the items to ensure all assessment types were covered.
+Responses  to  the  first  three  scales  were  degree  of  agreement  using  an  ordered  six-point, positively-packed,  agreement  scale  from  1  (strongly disagree)  to  6  (strongly agree)  (Brown 2004). A five-point summated rating scale (Desselle  2005) was used to capture OPAM.
+Data analysis
+A  two-step  structural  equation  modeling  approach  was  used  (Anderson  and  Gerbing  1988). Initially,  the  dimensionality  of  the  four  constructs  was  assessed  through  confirmatory  factor analysis,  which  examined  the  convergent  and  discriminant  validity  of  the  factors  (Fornell  and Larcker 1981). To  assess  the  adequacy  of  models,  multiple  fit  indices  were  consulted  (Hu  and Bentler 1998; Fan and Sivo 2007). A model that did not need to be rejected would have com - parative fit index (CFI) and gamma hat values >0.90, and simultaneously root mean square error of  approximation  (RMSEA)  and  the  standardized  root  mean  residual  (SRMR)  values  >.08.  Once four  measurement  models  were  confirmed,  the  hypothesized  causal  relationships  between  the latent factors (structural model) were modeled using SEM (Weston and Gore  2006).
+Our hypothesis was that intentions to engage in learning appraisal versus impression management would  arise  from  the  interaction  of  attitudes  towards  academic  integrity,  the  IQA,  and  perceptions  of peers engaged in misconduct partially mediated by their conceptions of the purposes and nature of IQA self-assessment. Alternative structures were tested to ensure that this model had superior fit to the data.
+Results
+Measurement models
+Students  conception of IQA
+The original C-SCoA model was not supported. Instead, by combining three C-ScoA factors (i.e. selection and societal uses, high-stakes consequences and social mobility) into one overarching factor (societal uses) and removing five items, a 5 factor, 25 item model had acceptable fit (χ2 = 
+2563.67, df = 265; χ2/df = 9.67; p = 0.002;  CFI  =  0.90;  gamma  hat  =  0.92;  SRMR  =  0.046;  RMSEA  = 0.065, 90% CI = 0.063—0.067) (see Table 6 in supplementary file ). McDonald s omega estimates of factor reliability (Table 2) were good except for gaming strategies and negative uses. High cor - relations between the improvement factor and the factors relating to societal uses and a positive 
+IQA stance indicate that Chinese students integrate societal uses and improvement functions of 
+IQA,  demonstrating  a  positive  disposition  towards  those  joint  uses.  Concurrently,  the  positive interrelation between negative IQA perceptions and viewing IQA as gaming strategies suggests Chinese students conflate IQA with gaming strategies and harbour a negative sentiment towards 
+IQA. These conflicting perspectives coexist alongside other IQA beliefs, leading to the inference 
+that Chinese undergraduates maintain dual, paradoxical beliefs regarding IQA.
+Self-Assessment intentions within IQA
+The  original  3-factor  SAI-IQA  model  did  not  fit  the  data.  A  two-factor  model  with  seven  items had excellent fit (χ2 = 124.78, df = 13; χ2/df = 9.60; p = 0.002; CFI = 0.98; gamma hat = 0.98; SRMR = 0.031; RMSEA = 0.065, 90% CI = 0.055—0.075) (see Table 7 in supplementary file ). The two fac- tors mapped onto appraisal of learning and impression management. Mean scores (Table 3) were more positive for appraisal of learning than impression management, yielding a large effect size (Hattie 2009). The weak positive correlation between these two conflicting conceptions suggests students  possess a pluralistic overlapping conception of self-assessment intentions within IQA as both a means of appraising progress and impression management.
+Students  conceptions of academic integrity
+Because  of  the  strong  overlap  among  the  five  kinds  of  academic  integrity,  a  bifactor  model (Canivez 2016) consisting of five unique, uncorrelated factors and one general factor explaining 
+all items had best fit to the data ( χ2 = 2815.14, df = 18; χ2/df = 14.94; p < 0.001; CFI = 0.92; gamma hat = 0.90; SRMR = 0.04; RMSEA = 0.082, 90% CI = 0.080—0.085) (see Table 8 in supplementary file). All items were strongly explained by the general factor and more weakly by their specific factor. The  means  of  all  factors  (Table  4)  ranged  between  moderately  agree  and  mostly  agree. Although test misconduct had the highest mean scores, the difference was trivial compared to IQA  misconduct.  This  model  indicated  that  Chinese  university  students  agreed  that  the  listed behaviors  constituted  cheating  and  that  this  agreement  applied  equally  across  all  assessment forms, including IQA self-assessment.
+Observation of peer academic misconduct
+Again, a bifactor model with a general factor and three unique factors defined by the degree of invigilation had good fit to the data ( χ2 = 313.65, df = 34; χ2/df = 9.23; p = 0.002; CFI = 0.98; gamma hat = 0.98; SRMR = 0.03; RMSEA = 0.063, 90% CI = 0.057—0.070) (see Table 9 in supplementary 
+Table 2.  SCoIQA factor statistics.
+Cohen s d\intercorrelations
+Factors # Items M SD Omega 1 2 3 4 5
+1. Societal uses 10 3.12 .95 .89 .57 .78 .73 .42
+2. Gaming  3 2.68 .96 .53 -0.46 .43 .40 .46 strategies
+3. Improvement 4 3.34 1.07 .80 .22 .65 .74 .31
+4. Positive 5 3.23 1.06 .88 .11 .54 -0.10 .21
+5. Negative 3 3.08 .97 .53 -0.04 .41 -0.25 -0.15
+Note: Cohen s d effect sizes shown in italics below diagonal; positive values means that the row is stronger than the com-
+parison column, while negative values means that the row is weaker than the comparison column; Correlation coefficients shown above diagonal and values ≥ 0.70 are in boldface.
+Table 3.  SAI-IQA factor statistics. 
+Cohen s d\intercorrelations Factors #Items M SD Omega 1 2
+1. Appraising learning 4 3.55 1.07 .87 .25
+2. Impression management 3 2.90 1.02 .72 -0.62
+Note: Cohen s d effect sizes shown in italics below diagonal; positive values means that the row is stronger than the com-
+parison column, while negative values means that the row is weaker than the comparison column; Correlation coefficients shown above diagonal and values ≥ 0.70 are in boldface.
+Table 4.  SCoAI factor statistics.
+Cohen s d effect sizes
+Factors Items M SD Omega 1 2 3 4 5
+1. General 22 4.71 .98 .96 —
+2. College deterrence 7 4.47 1.05 .88 -0.24 —
+3. Test misconduct 3 5.07 1.18 .86 .33 .54 —
+4. Paper misconduct 4 4.91 1.16 .87 .19 .40 -0.14 —
+5. Assignment misconduct 4 4.42 1.01 .71 -0.29 -0.05 -0.59 -0.45 —
+6. IQA misconduct 4 4.96 1.15 .89 .23 .45 -0.09 .04 .50
+Note: Cohen s d effect sizes shown in italics below diagonal; positive values means that the row is stronger than the com-
+parison column, while negative values means that the row is weaker than the comparison column.
+Table 5.  OPAM factor statistics.
+Cohen s d effect sizes Factors # Items M SD Omega 1 2 3 4
+1. General 11 2.48 .79 .91 —
+2. Assessment with high invigilation 4 2.42 .85 .73 .07 —
+3. Assessment with medium to low invigilation 4 2.54 .91 .84 -0.07 -0.14 —
+4. Assessment with no invigilation 3 2.49 .95 .88 -0.01 -0.08 .05 —
+Note: Cohen s d effect sizes shown in italics below diagonal; positive values mean that the row is stronger than the compar-
+ison column, while negative values means that the row is weaker than the comparison column.
+file).  All  items  were  strongly  predicted  by  the  general  factor. The  means  of  all  factors  (Table  5) ranged between rarely and sometimes, showing little peer misconduct was perceived or admit - ted. The differences in mean scores for the factors were negligible, indicating that peer miscon - duct  was  perceived  equally  across  all  assessment  approaches,  independent  of  invigilation. Descriptive statistics regarding the means, standard deviations, and factor loadings of each item 
+in the four scales are presented in the supplementary file.
+The structure models
+A  causal  model,  with  perceptions  of  peer  misconduct  and  academic  integrity  as  sources,  cap - tured the influence of three constructs on IQA self-assessment intentions. This model (Figure 2) 
+had  acceptable  fit  ( χ2  =  9456.24, df = 1952; χ2/df = 4.84; p = 0.028;  CFI  =  0.91;  gamma  hat  =  0.90; SRMR  =  0.06;  RMSEA  =  0.043,  90%  CI  =  0.042—0.044). The  general  factor  in  academic  integrity directly influenced the appraising learning intention and indirectly influenced it through concep - tions of the IQA purpose. Peer misconduct perceptions had a direct and indirect impact on the impression  management  intention.  Simultaneously,  it  also  influenced  the  appraising  learning intention through conceptions of IQA.
+Students who observed more peer cheating behaviors, employed gaming strategies, and held negative  attitudes  towards  IQA  were  more  likely  to  exercise  impression  management  in  IQA self-assessment. Only in the case of low or no invigilation (e.g. self-assessment) did perceptions 
+of  peer  misconduct  contribute  to  all  five  student  perceptions  of  the  purpose  of  the  IQA.  Its 
+Figure 2.  Structural Equation Model Predicting Intentions in IQA Self-assessment.
+Note: OPAM = Observation of peer academic misconduct; IQA = Integrated Quality Assessment; SCoAI = Students  conceptions of academic integrity; all values are standardized beta regression weights; the negative values are highlighted in purple and the positive value are highlighted in red.
+influence  was  strongest  toward  gaming  strategies  and  negative  attitudes  toward  IQA.  Students with  strong  academic  integrity  conceptions  and  a  focus  on  IQA  for  improvement  rather  than societal  uses  were  more  inclined  to  using  self-assessment  within  IQA  for  learning  appraisal. Endorsement of general academic integrity had a direct positive contribution to beliefs that IQA had societal uses, an improvement purpose, and having a positive attitude towards IQA. In con - trast, academic integrity perceptions within IQA self-assessment had small negative influences on these  same  beliefs. This  suggests  a  discrepancy  between  students   conceptions  of  general  aca - demic integrity and academic integrity in IQA.
+Discussion
+This  survey  identified  two  main  intentions  toward  IQA  self-assessment:  learning  appraisal  and impression  management.  Students   engagement  in  genuine,  trustful  self-assessment  versus ego-protective self-assessment for impression management was influenced by their perceptions 
+of academic integrity and observation of peer cheating, as well as their perceptions of the func - tion  of  the  IQA  assessment  system.  Students  exhibiting  high  levels  of  academic  integrity  and prioritizing IQA for improvement tended to use IQA self-assessment for evaluating and advancing their learning. In contrast, students who witnessed peer misconduct, adopted gaming strategies 
+in IQA, and held negative attitudes towards IQA were more inclined to employ IQA self-assessment as an impression management instrument, impacting how they presented themselves to others.
+This study uncovered that, even in PRC contexts where assessments have high-stakes conse - quences, a positive relationship exists between academic integrity beliefs and the learning func - tion of self-assessment. Students with a heightened sense of integrity seemed more cognizant of IQA s educational role and self-assessment within it, leading them to perceive IQA as a tool for improvement and self-assessment as a means of appraising learning. This result is consistent with previous research about the role strong self-control, mastery goal orientation and focus on the learning  process  have  on  growth-oriented  attitudes  (Boekaerts  and  Niemivirta  2000;  Murdock, Hale, and Weber  2001).
+Previous  research  has  reported  academic  dishonesty  issues  among  Chinese  students  (Zhou 
+2013; Zhang and Yin 2020). However, the present study suggests that Chinese participants pos - sessed  a  general  understanding  of  morally  unacceptable  behavior  and  could  differentiate  aca - demic misconduct based on assessment type. This reinforces the arguments of several researchers 
+(e.g. Leask 2006; Zhang 2014) who warned against stereotyping Chinese students as predisposed 
+to cheating due to low moral standards. This study shows that Chinese students demonstrated awareness  of  academic  integrity  across  all  forms  of  assessment.  It  appears  that  self-regulation and honest appraisal are not foreign or irrelevant concepts for Chinese learners, and their moral attitude supports a learning-appraisal approach to self-assessment. Nonetheless, the high-stakes consequences associated with IQA present challenges for students.
+This  study  discovered  that  when  students  perceived  the  majority  of  their  peers  engaging  in dishonest  behavior,  their  conception  of  academic  integrity  weakened,  and  they  were  more inclined to employ impression management. This finding aligns with prior literature (Ma, McCabe, and  Liu 2013; Tsui  and  Ngo 2016),  suggesting  a  correlation  between  perceived  peer  cheating, students  tolerance for dishonesty and subsequent behaviors. Given that individuals  attitudes and behaviors are influenced by the norms of their social context (Ajzen  2005), it is unsurprising that dishonesty may increase when students observe or experience peer cheating behaviors (Prenshaw, Straughan, and Albers-Miller  2001).
+Despite  Chinese  students   robust  sense  of  integrity,  impression  management  in  high-stakes 
+IQA self-assessment existed. Research indicates that undergraduates from collectivist societies are      prone to using impression management to avoid losing face or facing unfavorable consequences 
+(Lalwani, Shrum, and Chiu 2009). Chinese students  impression management is strongly linked to      the widespread and profound influence of face on social interactions in Confucian heritage cul - tures  (Hwang  1987).  As  a  fundamental  aspect  of  Chinese  society,  the  concept  of  face  (lian  or manzi in Chinese) is centralized on the establishment of a good and respectable public self-image 
+in social interactions (Hwang  1987). The consequence of losing face is serious and undesirable 
+as Hu (1944) commented  Once people lose  lian, it is impossible for them to function properly in the society  (p. 45). As a result, Chinese people are very concerned with preserving and enhanc - ing  their  face,  which  is  a  critical  mechanism  for  sustaining  harmony.  In  this  regard,  it  is  fair  to assume  that  impression  management  serves  as  a  critical  mechanism  for  face  protection,  being closely linked to norms of social acceptability and the significance of interpersonal connections (Paulhus  1984; Danioni and Barni 2021).
+This study suggests that students may adopt impression management and rationalize miscon - duct  based  on  the  importance  of  rewards  and  the  likelihood  of  peer  dishonesty. They  may  not even perceive such behaviors as academic dishonesty. The goal relevance of impressions and the value of desired goals are the two factors driving the motivation to manage impression (Leary and Kowalski 1990). Thus, when people s behavior is public, goals are highly desired, and their desired outcomes and self-created images are contingent on the judgement of others, they are more moti - vated to manage impression. Given that the processes and outcomes of IQA are accessible to the public, students  exposure to peers  various strategic and dishonest behaviors in IQA self-assessment may lead to a perception of widespread self-assessment inflation, thus leading students to consider 
+it reasonable to inflate their own scores to shape their teachers  impressions of them.
+This study suggests that the consequences of self-assessment, such as those linked to the IQA       policy,  play  a  significant  role  in  shaping  students   intentions  to  engage  in  well-being-oriented       impression  management  rather  than  genuine  growth-oriented  learning  improvement.  The 
+high-stakes  nature  of  IQA  self-assessment  may  compromise  the  validity  and  trustworthiness  of      the  process.  The  findings  indicate  that  Chinese  learners  possess  a  strong  sense  of  academic       integrity  and  are  capable  of  honest  self-assessment  for  learning.  However,  the  contextual  con - straints,  rather  than  cultural  factors,  influence  their  focus  on  grades.  Future  research  should examine the impact of learning environments and contexts on Chinese students  perceptions and practices, as suggested by previous scholars (Clark and Gieve  2006).
+This study indicates self-assessment for learning needs to be separated from high-stakes con - sequences. This is consistent with the literature recommending the disconnection of self-assessment from  self-grading  and  summative  course  grades  (Brown  and  Harris  2014).  In  a  gaming-prone environment,  attaching  high-value  rewards  to  self-assessment  may  undermine  its  constructive potential  for  student  improvement  and  learning.  Consequently,  future  research  on  students  self-assessment  should  consider  the  context  and  consequences  associated  with  self-assessment activities, as these factors may contribute to explaining the findings.
+This  study  highlights  a  universal  dilemma  in  higher  education  between  promoting  genuine 
+learning  through  self-assessment  and  the  pressure  students  face  to  manage  impressions  for 
+high-stakes outcomes, indicating the need for educational policies that address this tension glob - ally. The practical utility of the analysis lies in informing the development of self-assessment frame - works and interventions that emphasize academic integrity and learning-oriented intentions. These 
+implications  suggest  the  necessity  of  creating  educational  environments  that  reduce  the  conflict 
+between impression management and learning, thereby fostering authentic self-regulated learning.
+It is noted that all the data used in this study is self-reported, creating a potential for manipu - lation of results for self-serving representations. The causal path model that links impression man - agement to negative perceptions while linking learning appraisal to positive views of the IQA and assessment  may  reflect  participant  desire  to  produce  the  socially  desirable  result.  Measures  were taken  within  this  study  to  mitigate  these  responses  by  maintaining  participant  anonymity  and encouraging honesty. Detailed studies of how students actually complete their IQA self-assessments 
+to discover if they impression manage their accomplishments, and how class assessment commit - tees  go  about  verifying  and  ranking  student  self-assessments,  would  address  these  limitations.  It may  be  the  possibility  of  falsely  presenting  oneself  to  one s  peers  is  minimized  by  the  current system, but without details from within the system, the veracity of self-perceptions cannot be eval - uated. Nevertheless, this study provides valuable insights into the determinants of self-assessment intentions among Chinese students in high-stakes assessment settings.
+Conclusion
+By identifying a tension between impression management and learning in IQA self-assessment, this study reveals that Chinese students  conception of self-assessment intension is influenced by their attitudes towards academic integrity, how they perceive others behave in IQA and their conception 
+of IQA itself. Chinese students have a strong awareness of academic integrity, but the high-stakes consequences, observation of peer dishonesty and the need to protect face compromise Chinese tertiary  students   ability  to  maintain  their  integrity  and  learning  appraisal,  at  least  in  IQA  as  it  is implemented  currently.  Distancing  serious  consequences  from  self-assessment  protects  students from becoming trapped in a competitive dishonest game. This study highlights the complex inter - play  between  Chinese  students   conception  of  self-assessment  in  IQA  intension,  their  attitudes towards  academic  integrity,  peer  behavior  and  the  influence  of  high-stakes  consequences,  ulti - mately suggesting that a shift in the implementation of self-assessment practices may be necessary 
+to foster a more conducive environment for genuine learning and academic honesty.
+Acknowledgments
+This work was part of the first author s PhD dissertation supervised by the co-authors. Disclosure statement
+There are no competing or conflicts of interest to declare.
+Data availability
+Data are available at  https://doi.org/10.17608/k6.auckland.22631233.v1
+Ethical approval
+Approval  for  this  research  was  granted  by  the  University  of  Auckland  Human  Participants  Ethics  Committee  on 04/12/18 (Reference number: 022406).
+Informed consent
+Informed consent was received from all participants.
+Funding
+This research received no grant from any funding agency in the public, commercial or not-for-profit sectors.
+ORCID
+Tianxin Li  http://orcid.org/0000-0002-3888-3334
+Gavin T. L. Brown  http://orcid.org/0000-0002-8352-2351
+Eleanor Hawe  http://orcid.org/0000-0001-9146-2777
+References
+Ajzen, I. 2005. Attitudes, Personality and Behavior. 2nd ed. Open University Press.
+Anderson, J. C., and D. W. Gerbing. 1988.  Structural Equation Modeling in Practice: A Review and Recommended 
+Two-Step Approach.   Psychological Bulletin 103 (3): 411—423. doi:10.1037/0033-2909.103.3.411.
+Bj rklund, M., and C. G. Wenestam. 1999.  Academic Cheating: Frequency, Methods and Causes.  Paper Presented at the 
+European Conference on Educational Research (ECER), September 22—25, Lahti, Finland.
+Boekaerts, M. 1993.  Being Concerned with Well-Being and with Learning.   Educational Psychologist 28 (2): 149—167. 
+doi:10.1207/s15326985ep2802_4.
+Boekaerts,  M.  2011.  Emotions,  Emotion  Regulation,  and  Self-Regulation  of  Learning.   Routledge  eBooks. 
+doi:10.4324/9780203839010.ch26.
+Boekaerts,  M.,  and  M.  Niemivirta. 2000.  Self-Regulated  Learning:  Finding  a  Balance  between  Learning  Goals  and 
+Ego-Protective Goals.  In Handbook of Self-Regulation, edited by M. Boekaerts, P. R. Pintrich, and M. Zeidner, 417— 450. Cambridge: Academic Press.
+Bolino, M. C., K. M. Kacmar, W. H. Turnley, and J. B. Gilstrap. 2008.  A Multi-Level Review of Impression Management 
+Motives and Behaviors.   Journal of Management 34 (6): 1080—1109. doi:10.1177/0149206308324325 .
+Brown,  G. T. 2004.  Measuring  Attitude  with  Positively  Packed  Self-Report  Ratings:  Comparison  of  Agreement  and 
+Frequency Scales.   Psychological Reports 94 (3 Pt 1): 1015—1024. doi:10.2466/pr0.94.3.1015-1024.
+Brown,  G.  T.,  and  L.  R.  Harris. 2013.  Student  Self-Assessment.   In  The  SAGE  Handbook  of  Research  on  Classroom 
+Assessment, edited by J. H. McMillan, 367—393. Sage.
+Brown, G. T., and L. R. Harris. 2014.  The Future of Self-Assessment in Classroom Practice: Reframing Self-Assessment 
+as a Core Competency.   Frontline Learning Research 3: 22—30. doi:10.14786/flr.v2i1.24.
+Brown,  G. T.,  and  Z. Wang. 2016.  Understanding  Chinese  University  Student  Conceptions  of  Assessment:  Cultural 
+Similarities and Jurisdictional Differences between Hong Kong and China.   Social Psychology of Education 19 (1): 151—173. doi:10.1007/s11218-015-9322-x.
+Canivez,  G.  L. 2016.  Bifactor  Modeling  in  Construct  Validation  of  Multifactored  Tests:  Implications  for 
+Multidimensionality and Test Interpretation.  In  Principles and Methods of Test Construction: Standards and Recent Advancements, edited by K. Schweizer and C. DiStefano, 247—271. Hogrefe.
+Clark,  R.,  and  S.  Gieve. 2006.  On  the  Discursive  Construction  of  the  Chinese  Learner.   Language,  Culture  and 
+Curriculum 19 (1): 54—73. doi:10.1080/07908310608668754 .
+Danioni,  F.,  and  D.  Barni. 2021.  Value  Priorities,  Impression  Management  and  Self-Deceptive  Enhancement:  Once 
+Again, Much Substance and a Little Bit of Style.  The Journal of Social Psychology 161 (2): 146—159. doi:10.1080/0 0224545.2020.1778619.
+Desselle,  S.  P. 2005.  Construction,  Implementation,  and  Analysis  of  Summated  Rating  Attitude  Scales.   American 
+Journal of Pharmaceutical Education 69 (5): 97. doi:10.5688/aj690597.
+Fan,  X.,  and  S.  A.  Sivo. 2007.  Sensitivity  of  Fit  Indices  to  Model  Misspecification  and  Model  Types.   Multivariate 
+Behavioral Research 42 (3): 509—529. doi:10.1080/00273170701382864 .
+Fornell,  C.,  and  D.  F.  Larcker. 1981.  Evaluating  Structural  Equation  Models  with  Unobservable  Variables  and 
+Measurement Error.   Journal of Marketing Research 18 (1): 39—50. doi:10.1177/002224378101800104 .
+Hanrahan,  S.  J.,  and  G.  Isaacs. 2001.  Assessing  Self-and  Peer-Assessment:  The  Students   Views.   Higher  Education 
+Research & Development 20 (1): 53—70. doi:10.1080/07294360123776 .
+Hattie, J. 2009. Visible Learning: A Synthesis of Meta-Analyses in Education. Abingdon: Routledge.
+Hu, H. C. 1944.  The Chinese Concepts of  Face.   American Anthropologist 46 (1): 45—64. doi:10.1525/aa.1944.46.1.02a00040. Hu, L. T., and P. M. Bentler. 1998.  Fit Indices in Covariance Structure Modeling: Sensitivity to Underparameterized 
+Model Misspecification.   Psychological Methods 3 (4): 424—453. doi:10.1037//1082-989X.3.4.424.
+Hwang,  K.  K. 1987.  Face  and  Favour:  The  Chinese  Power  Game.   American  Journal  of  Sociology  92  (4):  944—974. 
+doi:10.1086/228588.
+Kwong, T.,  H.  M.  Ng,  K.  P.  Mark,  and  E. Wong. 2010.  Students   and  Faculty s  Perception  of  Academic  Integrity  in 
+Hong Kong.   Campus-Wide Information Systems 27 (5): 341—355. doi:10.1108/10650741011087766/full/html .
+Lalwani, A. K., A. J. Shrum, and C. Chiu. 2009.  Motivated Response Styles: The Role of Cultural Values, Regulatory 
+Focus,  and  Self-Consciousness  in  Socially  Desirable  Responding.   Journal of Personality and Social Psychology  96 (4): 870—882. doi:10.1037/a0014622 .
+Leary, M. R., and R. M. Kowalski. 1990.  Impression Management: A Literature Review and Two-Component Model.  
+Psychological Bulletin 107 (1): 34—47. doi:10.1037/0033-2909.107.1.34.
+Leask,  B. 2006.  Plagiarism,  Cultural  Diversity  and  Metaphor Implications  for  Academic  Staff  Development.  
+Assessment & Evaluation in Higher Education 31 (2): 183—199. doi:10.1080/02602930500262486 .
+Lew, M. D. 2009.  Student Self-Assessment in Higher Education.  Unpublished Doctoral Thesis., Erasmus University Rotterdam. Lew, M. D. N., and H. G. Schmidt. 2006. Reflection upon Learning between Theory and Practice: A Focus-Group Study 
+of Tutors  and Students  Perceptions. The Netherlands: Erasmus University Rotterdam.
+Lew, M. D., W. A. Alwis, and H. G. Schmidt. 2010.  Accuracy of Students  Self-Assessment and Their Beliefs about Its 
+Utility.  Assessment & Evaluation in Higher Education 35 (2): 135—156. doi:10.1080/02602930802687737 .
+Li, C. 2016.  Da xue sheng zong he su zhi ce ping fang fa de dui bi fen xi diao yan bao gao Yi Beijing Yu Yan Da 
+Xue wei li [Comparison and Analysis of the Methods Used in Integrated Quality Assessment for College Students: 
+A Case Study of Beijing Language and Culture University].  Ke Jiao Wen Hui 345: 35—38.
+Li,  T.,  E.  Hawe,  and  G.  T.  Brown. 2021.  How  Chinese  Higher  Education  Students  Perceive  and  Engage  in 
+Self-Assessment  within  the  Integrated  Quality  Assessment  (IQA)  System:  Threats  to  the  Validity  of  IQA Self-Assessment.   Assessment Matters 15: 31—54. doi:10.18296/am.0050 .
+Ma, Y., D. L. McCabe, and R. Liu. 2013.  Students  Academic Cheating in Chinese Universities: Prevalence, Influencing 
+Factors, and Proposed Action.   Journal of Academic Ethics 11 (3): 169—184. doi:10.1007/s10805-013-9186-7.
+Maguire, S., S. E. Evans, and L. Dyas. 2001.  Approaches to Learning: A Study of First-Year Geography Undergraduates.  
+Journal of Geography in Higher Education 25 (1): 95—107. doi:10.1080/03098260125539 .
+McCabe, D. L., and L. K. Trevi o. 1997.  Individual and Contextual Influences on Academic Dishonesty: A Multi-Campus 
+Investigation.   Research in Higher Education 38 (3): 379—396. doi:10.1023/A:1024954224675.
+McCabe,  D.  L.,  L.  K. Trevi o,  and  K.  D.  Butterfield. 2001.  Dishonesty  in  Academic  Environments: The  Influence  of 
+Peer Reporting Requirements.   The Journal of Higher Education 72 (1): 29—45. doi:10.2307/2649132.
+Mei, B., and G. T. Brown. 2018.  Conducting Online Surveys in China.   Social Science Computer Review 36 (6): 721—734. 
+doi:10.1177/0894439317729340.
+Ministry of Education of the People s Republic of China. 2001. Ji chu jiao yu ke cheng gai ge de zhi dao si xiang [The 
+guidelines for curriculum reform in basic education] State Council of the Chinese Central Government.
+Mok,  M.  M.,  C.  L.  Lung,  D.  P.  Cheng,  R.  H.  Cheung,  and  M.  L.  Ng. 2006.  Self-Assessment  in  Higher  Education: 
+Experience in Using a Metacognitive Approach in Five Case Studies.   Assessment & Evaluation in Higher Education 31 (4): 415—433. doi:10.1080/02602930600679100 .
+Murdock, T.  B.,  J.  M.  Stephens,  and  M.  M.  Grotewiel. 2016.  Student  Dishonesty  in  the  Face  of  Assessment: Who, 
+Why, and What We Can Do about It.  In Handbook of Human and Social Conditions in Assessment, edited by G. T. Brown and L. R. Harris, 202—219. Abingdon: Routledge.
+Murdock, T. B., N. M. Hale, and M. J. Weber. 2001.  Predictors of Cheating among Early Adolescents: Academic and 
+Social Motivations.  Contemporary Educational Psychology 26 (1): 96—115. doi:10.1006/ceps.2000.1046 .
+Nieminen,  J.  H.  2022.  Disrupting  the  Power  Relations  of  Grading  in  Higher  Education  through  Summative 
+Self-Assessment.   Teaching in Higher Education 27 (7): 892—907. doi:10.1080/13562517.2020.1753687 .
+Paulhus,  D.  L. 1984.  Two-Component  Models  of  Socially  Desirable  Responding.   Journal  of  Personality  and  Social 
+Psychology 46 (3): 598—609. doi:10.1037/0022-3514.46.3.598.
+Prenshaw, P. J., R. D. Straughan, and N. D. Albers-Miller. 2001.  University Academic Dishonesty Policy and Student 
+Perceptions  of  Cheating:  An  Exploratory  Content  Analysis  across  Fourteen  Universities.   Advances in Marketing  : 203—208.
+Rawwas, M. Y., J. A. Al-Khatib, and S. J. Vitell. 2004.  Academic Dishonesty: A Cross-Cultural Comparison of US and 
+Chinese Marketing Students.   Journal of Marketing Education 26 (1): 89—100. doi:10.1177/0273475303262354 .
+Segers,  M.,  and  F.  Dochy. 2001.  New  Assessment  Forms  in  Problem-Based  Learning:  The  Value-Added  of  the 
+Students  Perspective.   Studies in Higher Education 26 (3): 327—343. doi:10.1080/03075070120076291 .
+Stone, T.  H.,  I.  M.  Jawahar,  and  J.  L.  Kisamore. 2010.  Predicting  Academic  Misconduct  Intentions  and  Behavior  Using  the 
+Theory of Planned Behavior and Personality.   Basic and Applied Social Psychology 32 (1): 35—45. doi:10.1080/01973530903539895 . Strong,  B.,  M.  Davis,  and V.  Hawks. 2004.  Self-Grading  in  Large  General  Education  Classes:  A  Case  Study.  College 
+Teaching 52 (2): 52—57. doi:10.3200/CTCH.52.2.52-57.
+Tejeiro,  R.  A.,  J.  L.  G mez-Vallecillo,  A.  F.  Romero,  M.  Pelegrina,  A.  Wallace,  and  E.  Emberley. 2017.  Summative 
+Self-Assessment  in  Higher  Education:  Implications  of  Its  Counting  towards  the  Final  Mark.   Electronic Journal of Research in Education Psychology 10 (27): 789—812. doi:10.25115/ejrep.v10i27.1528 .
+Thompson,  G.,  A.  Pilgrim,  and  K.  Oliver. 2005.  Self-Assessment  and  Reflective  Learning  for  First-Year  University 
+Geography  Students:  A  Simple  Guide  or  Simply  Misguided?   Journal  of  Geography  in  Higher  Education  29  (3): 403—420. doi:10.1080/03098260500290959 .
+Tsui,  A.  P.,  and  H.  Y.  Ngo. 2016.  Social  Predictors  of  Business  Student  Cheating  Behaviour  in  Chinese  Societies.  
+Journal of Academic Ethics 14 (4): 281—296. doi:10.1007/s10805-016-9266-6.
+Weston, R., and P. A. Gore. 2006.  A Brief Guide to Structural Equation Modeling.   The Counseling Psychologist 34 (5): 
+719—751. doi:10.1177/0011000006286345 .
+Wong,  K.  C. 1998.  Culture  and  Moral  Leadership  in  Education.   Peabody  Journal  of  Education  73  (2):  106—125. 
+doi:10.1207/s15327930pje7302_5.
+Zhang,  C.  2014.  Plagiarism  in  Their  Own  Words:  What  Chinese  and  American  Students  Say  about  Academic 
+Dishonesty.   Chinese Journal of Applied Linguistics 37 (3): 373—391. doi:10.1515/cjal-2014-0023.
+Zhang, Y., and H. Yin. 2020.  Collaborative Cheating among Chinese College Students: The Effects of Peer Influence 
+and Individualism—Collectivism Orientations.  Assessment & Evaluation in Higher Education 45 (1): 54—69. doi:10.10 80/02602938.2019.1608504.
+Zhao, C. 2011.  Da xue sheng zong he su zhi ce ping de wen ti yan jiu Yi N xiao wei ge an [Study on the Integrated 
+Quality Assessment for College Students A Case Study of N University] [Unpublished Master s Thesis]. Nanjing Normal University. 
+Zhou, L. 2013.  Da xue sheng zong he su zhi ce ping de wen ti yu gai jing Yi san suo  985 gong cheng da xue  
+wei li [the Problems and Improvement of the College Students  Comprehensive Quality Assessment Case Study 
+of Three 985 Project Universities] [Unpublished Master s Thesis]. Hunan University. 

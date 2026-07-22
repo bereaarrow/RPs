@@ -1,0 +1,679 @@
+﻿Mohd Bahar et al. BMC Medical Education         (2026) 26:1146  BMC Medical Education https://doi.org/10.1186/s12909-026-09370-w
+RESEARCH Open Access
+The digital well-being among learners   in higher education: a scoping review
+Farhana Harzila Mohd Bahar1,2, Nurhanis Syazni Roslan2, Nicholas Pang  Tze Ping3, Nurul  Alimah Abdul Nasir4,  Mohd Salami Ibrahim5, Siti Khadijah Adam6, Shazrina Ahmad Razali7 and Muhamad Saiful Bahri Yusoff6*
+Abstract
+Introduction  Digitalisation has changed how we learn and share knowledge. The rapid growth of technology has transformed how people interact with themselves, each other, and their environment, impacting their well-being. Despite increasing attention in this area, existing studies often examine related constructs, such as technostress, problematic internet use, or digital addiction, in isolation rather than conceptualising digital well-being as a multidimensional and integrative construct. This review aimed to systematically map the functional elements of digital well-being among higher education learners and their relation with overall well-being outcomes.
+Method  Primary literature from January 2018 to October 2023 was collected using the three-phase search strategy according to the Joanna Briggs Institute (JBI) scoping review guideline. Terms ‘digital well being’ OR ‘digital well- being’ OR ‘digital wellbeing’ AND ‘higher education’ AND ‘learners’ were searched from the Web of Science, PubMed and Scopus databases. In this review, functional elements were conceptualised as both characteristics of the digital environment and the cognitive, behavioural, and emotional processes through which learners engage with these environments. All peer-reviewed articles that describe the effects of digitalisation on the well-being of all learners in higher education institutions were included.
+Results  Out of the 348 articles initially identified, 34 were reviewed, covering 10,838 undergraduate and postgraduate students from 23 countries. Among studies that reported age, participants ranged from 17 to 48 years, reflecting variation across study populations. Eight interconnected themes emerged: digital self-regulation, digital self-efficacy, digital intention, digital conduct, digital engagement, digital support, digital resources, and digital safety. Among these, digital self-efficacy is conceptualised as a central enabling component within the proposed framework, shaping learners’ ability to engage meaningfully in a digital environment. Poor self-regulation was the most frequently reported source of adverse outcomes, while digital conduct and safety remained underexplored with limited 
+evidence of their direct impact on well-being.
+Conclusions  Digital well-being appears to be shaped by the interaction of individual capabilities, behavioural patterns, and digital environments. The proposed framework offers a conceptually grounded synthesis that may inform future research, particularly in the development of measurement tools and context-sensitive strategies to support digital well-being in higher education.
+* C o r r e s p o n d e n c e : 
+Muhamad Saiful Bahri Yusoff
+saifulbahri@upm.edu.my
+Full list of author information is available at the end of the article
+© The Author(s) 2026. Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit h t t p : / / c r e a t i v e c o m m o n s . o r g / l i c e n s e s / b y - n c - n d / 4 . 0/ . 
+Mohd Bahar et al. BMC Medical Education         (2026) 26:1146  Page 2 of 21
+Keywords  Ddigital well-being, Digital technologies, Scoping review, Higher education students
+
+Introduction
+The term ‘digital well-being’ refers to an individual’s state of mind in a society where digital media and technol - ogy permeate every aspect of daily life. It also refers to maintaining one’s well-being or striving for optimal bal - ance  between  benefits  and  drawbacks  when  immersed in a digital and technical setting [1–3]. In the context of higher education learning, digital well-being is an impor - tant consideration, given the increasing use of technology in learning and the potential adverse effects on learners’ well-being.
+Digitalisation  has  generally  transformed  higher  edu - cation  by  changing  how  knowledge  is  acquired  and shared. Online learning platforms and virtual classrooms have  made  education  more  accessible  to  all  learners, allowing  them  to  access  educational  resources,  lecture materials,  and  interactive  simulations  anytime.  These platforms  enable  self-learning  and  more  personalised study approaches [4]. Furthermore, virtual reality (VR) and augmented reality (AR) technologies have enhanced training  opportunities  across  various  disciplines  such as engineering, architecture, medicine and beyond. For instance, in the medical field, VR and AR technologies provide  engaging  and  realistic  simulated  environments for surgical training, anatomy education, and clinical skill development among learners [5].
+This rapid spread and use of digital technology have fundamentally  altered  how  people  interact  with  them - selves, others, and their surroundings. In fact, technology has become an integral feature of contemporary society, transforming every aspect of human life, including per - sonal, professional, social, and educational [6]. In higher education, the information ecosystem and digital tools significantly influence the success of both learners and training  programs.  However,  these  advancements  also raise important concerns regarding the effects of digital technology on human health, including increased cogni - tive load, digital fatigue, sleep disruption, and psycholog - ical stress, which require careful consideration [7].
+Existing  literature  highlights  the  importance  of  bal - anced  technology  use  to  optimise  learning  outcomes while minimising negative psychological and behavioural effects. Current research has explored various interven - tions, including digital well-being applications, technol - ogy-enhanced learning platforms, and the use of artificial intelligence (AI) and chatbots to support teaching and learning  in  higher  education  [8–11].  However,  much of the existing literature tends to examine specific con - structs such as technostress, problematic internet use, or digital addiction in isolation, rather than conceptualising 
+digital well-being as a multidimensional and integrative construct [12–14].
+While  prior  studies  have  provided  valuable  insights into  these  individual  outcomes,  there  remains  limited integrative evidence on digital well-being as a compre - hensive  concept,  particularly  among  higher  education learners. Furthermore, the rapid shift to remote learn - ing and increased reliance on digital technologies during the COVID-19 pandemic introduced specific challenges, including social isolation, reduced face-to-face interac - tion,  increased  screen  exposure,  and  heightened  aca - demic stress, which may have influenced learners’ digital experiences  and  well-being  [15].  Notably,  a  large  pro- portion  of  existing  studies  were  conducted  during  the COVID-19 period, which may influence the generalisabil - ity of findings to post-pandemic learning environments.
+The literature also lacks consensus on the reliable and valid measurement tools as well as formal models of digi - tal well-being. To move forward, a framework of digital well-being  should  be  developed  that  recognises  differ - ences between individuals in how they balance the ben - efits  and  drawbacks  of  technology.  Instead  of  viewing digital well-being through a simple cause-and-effect lens, it should be understood as a dynamic system shaped by individual, technological, and situational factors [1]. This calls for a descriptive and rigorous theoretical develop - ment of a digital well-being framework that captures the complex  interactions  between  technology  use,  mental health, and social dynamics [12–14].
+Hence,  this  study  examines  the  literature  on  digi - tal  well-being  in  the  context  of  higher  education  and addresses two research questions: [1] What are the func - tional elements that negatively and positively influence the impact of digital technologies on higher education learners’  well-being?  and  [2]  How  do  these  functional elements of digital well-being relate to overall well-being outcomes? In this review, the term ‘functional elements’ refers to both characteristics of the digital environment and the cognitive, behavioural, and emotional processes through which learners engage with these environments, collectively  influencing  their  well-being.  Furthermore, this study extends beyond prior reviews by systematically synthesising these functional elements into an integrated conceptual framework, thereby addressing the lack of a comprehensive model that explains how digital experi - ences shape well-being among higher education learners.
+Methods
+This  scoping  review  was  conducted  following  a  proto - col [16] developed in accordance with the Joanna Briggs Institute  (JBI)  guideline  for  scoping  reviews  [17].  The 
+
+Mohd Bahar et al. BMC Medical Education         (2026) 26:1146 
+Page 4 of 23
+review  process  took  place  from  December  1,  2023,  to April 30, 2024. It was carried out by a team consisting of three medical educationists and one psychiatrist from various  medical  institutions  in  Malaysia  (FHMB,  NSR, MSBY, and NPTP), all with expertise in educational the - ory and well-being research.
+Inclusion criteria
+Types of participants
+The  scoping  review  focused  on  published  primary research on the effects of digitalisation on the well-being of  all  learners  in  higher  education  institutions.  These include undergraduate and postgraduate students across universities,  colleges,  and  other  recognised  post-sec - ondary education settings. Resources that illustrate the impact of digitalisation on the general population were excluded from the review.
+Concept
+This  scoping  review  included  primary  resources  that examined  the  factors  influencing  digital  well-being among learners in higher education. These impacts on digital well-being may manifest as positive or negative, significantly  shaping  individuals’  overall  experiences  in the digital environment. Positive digital well-being refers to the capacity to maintain and promote one’s well-being while navigating digital and technological spaces [2]. In contrast, negative impacts highlight the potential adverse consequences of ineffective digital engagement manage - ment. This review also included articles examining the impacts and relationships of digitalisation across various dimensions of overall well-being, encompassing mental, intellectual, emotional, professional, spiritual, and physical aspects [3, 7, 18].
+Context
+This review specifically focused on the context of higher education,  encompassing  a  diverse  range  of  learners, including both undergraduate and postgraduate students, who  are  engaged  in  various  academic  disciplines  and fields of knowledge within the broader scope of higher education institutions. By including this wide spectrum, the  review  aimed  to  provide  a  more  comprehensive understanding of the topic within the context of higher education.
+Sources
+This scoping review focused on original research articles that employed quantitative, qualitative, or mixed-meth - ods approaches, specifically addressing digital well-being among higher education learners. Only studies published in English between January 2018 and October 2023 were included.  The  timeframe  from  January  2018  onwards 
+was  selected  to  reflect  the  rapid  expansion  of  digital technologies in higher education, particularly in relation to online learning. Other types of research papers were excluded to maintain the data’s relevance, authenticity, and reliability.
+Search strategy
+This  review  followed  a  three-phase  search  strategy,  as recommended  by  the  JBI  Scoping  Review  Guidelines [17].  In  the  first  phase,  initial  keywords  were  identi - fied from the titles and index terms of relevant reviews. These keywords were further refined using Medical Sub - ject Headings (MeSH) and tested with a combination of Boolean search terms. The keyword search terms were: (“digital well being” OR “digital well-being” OR “digital wellbeing”) AND “higher education” AND “learners”. To ensure conceptual clarity and alignment with the review objective,  the  search  strategy  focused  specifically  on “digital well-being” as the primary construct, rather than incorporating  related  constructs  such  as  technostress, problematic internet use, or digital addiction, which were considered conceptually overlapping but beyond the pri - mary scope of this review. In the second phase, a com - prehensive search was conducted using these identified keywords  and  index  terms  across  databases,  including Scopus, PubMed, and Web of Science. These databases were selected due to their broad interdisciplinary cov - erage  across  health,  education,  and  technology-related fields, and their widespread use in systematic and scoping reviews. The third phase involved reviewing the reference lists of all included studies.
+Selection of sources
+All identified sources were exported to Microsoft Excel, and duplicates were removed. The record selection pro - cess was conducted using predefined inclusion criteria. An initial screening was conducted independently by two researchers (FHMB, NSR) based on titles and abstracts. Inter-rater reliability was assessed using Cohen’s kappa based on independent screening decisions, demonstrat - ing substantial agreement (κ = 0.77) [19]. Discrepancies were  initially  resolved  by  a  third  researcher  (MSBY). Full-text  screening  was  subsequently  conducted  inde - pendently  by  two  researchers  (FHMB,  NSR).  Any  dis - agreements  were  further  evaluated  independently  by two  additional  researchers  (MSBY,  NPTP),  and  where discrepancies remained, consensus was reached through discussion among all four researchers. Records not meet - ing the inclusion criteria were excluded, and reasons for exclusion were documented. The selection process was then  reported  using  the  Preferred  Reporting  Items  for Systematic  Reviews  and  Meta-Analyses  Extension  for Scoping Reviews (PRISMA-ScR) flow diagram [20].
+
+Mohd Bahar et al. BMC Medical Education         (2026) 26:1146 
+Page 5 of 23
+Data extraction
+The data from the included records were extracted using the  data  extraction  form  (Appendix  A).  The  extracted data of interest included the title, authors, year of pub - lication,  methods,  geographical  distribution,  age,  par - ticipant  category,  digital  components  and  well-being outcomes. The data extraction was conducted indepen - dently by FHMB. To ensure the reliability and consistency of  the  data  extraction  process,  the  involved  reviewer discussed her extraction strategy and conducted a pilot extraction of five records. The reviewer also addressed the outcome of the data extraction with other reviewers. Due to resource constraints, full dual-independent data extraction was not conducted.
+Data presentation
+Using a thematic analysis approach, the reviewer system - atically examined the data with the assistance of ATLAS. ti version 23. The analysis followed the structured six- step framework outlined by Naeem et al. (2023) [21] as illustrated  in  Fig. 1.  The  process  began  with  selecting quotations,  extracting  relevant  excerpts  and  findings from  each  included  article.  These  excerpts  were  then 
+examined to derive keywords that captured salient con - cepts. Next, the keywords were organised into codes to preserve contextual meanings and functional attributes. The  codes  were  subsequently  clustered  into  broader themes, which were iteratively reviewed and refined. The themes  were  synthesised  during  conceptualisation  to articulate their interrelationships and their links to posi - tive,  neutral,  or  negative  well-being  outcomes.  Finally, these insights were integrated into a conceptual model of digital well-being, providing a clear link between the evidence in the literature and the theoretical framing.
+While scoping reviews are commonly associated with descriptive mapping approaches, a thematic analysis was adopted in this study to enable a structured synthesis of patterns across heterogeneous studies. This approach is appropriate when the objective is to explore conceptual relationships  within  the  literature,  rather  than  merely describe  study  characteristics.  In  this  review,  thematic analysis was applied in a systematic and iterative manner to identify functional elements and organise them into meaningful categories, supporting conceptual interpreta - tion without extending to theory generation.
+
+Mohd Bahar et al. BMC Medical Education         (2026) 26:1146 
+Page 6 of 6
+
+Fig. 1  Systematic thematic analysis process [21]
+
+Mohd Bahar et al. BMC Medical Education         (2026) 26:1146  Page 6 of 23
+
+
+Mohd Bahar et al. BMC Medical Education         (2026) 26:1146  Page 7 of 7
+Fig. 2  : Flowchart of the literature selection process
+Table 1 Types of participants and research designs across the 
+included studies 
+No. of Participants/ 
+Articles, n (%)
+Type of Participants Undergraduate 7813 (72)
+Postgraduate 1018 (9)
+Not mentioned / Mix 2007 (19)
+Methods Quantitative 17 (50)
+Qualitative 7 (21)
+Mixed method 10 (29)
+The  extracted  data  were  then  presented  in  tabular form,  including  the  frequencies  and  percentages  for geographical distribution, age, and participant category. The  scoping  review  findings  were  reported  in  adher - ence  to  the  PRISMA-ScR  reporting  standards  [20].  As this study is a scoping review, a formal quality appraisal of the included studies was not conducted. While criti - cal appraisal can be incorporated in scoping reviews, JBI guidance indicates that it is not mandatory, as the pri - mary aim is to map the breadth and nature of available evidence rather than evaluate study quality. Nevertheless, study  characteristics  were  systematically  charted  and presented in tabular form to enhance transparency and provide a comprehensive overview of the included evi - dence (Appendix A).
+Result
+As shown in Fig. 2 and 34 studies were selected from an initial screening of 348 identified records. Of these, the majority of studies (n = 32, 94%) were conducted during and following the COVID-19 period from 2020 onwards. Among the 34 included studies, 50% (n = 17) used quan- titative methods, 21% (n = 7) used qualitative methods, and  the  remaining  29%  (n = 10)  used  mixed  methods (Table 1).  Demographically,  these  34  studies  encom - passed 10,838 students, of whom 72% were undergradu - ates and 9% were postgraduate students representing 66 higher education institutions across 23 countries, as illus - trated in Fig. 3. However, approximately 19% of studies did not specify whether participants were undergraduate or postgraduate students, limiting the ability to classify them into distinct academic levels.
+Through a systematic coding process, we identified a wide range of functional elements that shape the posi - tive and negative impacts of digital technologies on the well-being  of  higher  education  learners.  Initially,  indi - vidual factors were extracted from the reviewed studies, each accompanied by its citation number (Table2). These were then coded based on conceptual similarities, and we identified eight emerging themes: Digital Self-regulation, Digital Self-efficacy, Digital Intention, Digital Conduct, Digital  Engagement,  Digital  Support,  Digital  Resource, and Digital Safety.
+
+Mohd Bahar et al. BMC Medical Education         (2026) 26:1146  Page 7 of 23
+
+Fig. 3  Global representation of higher education institutions in the reviewed studies
+
+Mohd Bahar et al. BMC Medical Education         (2026) 26:1146  Page 10 of 10
+To provide conceptual clarity, we developed our own working definitions for each theme. Rather than adopt - ing existing definitions, our approach was to synthe - sise insights from the literature and translate them into definitions  that  are  theoretically  grounded  yet  con - textually relevant to the focus of digital well-being in higher education. Each theme represents a cluster of related functional elements, which are described below along  with  their  observed  relationships  to  positive, neutral, or negative well-being outcomes as reported in the literature (Table 3).
+To further address the second research question, the identified  themes  were  systematically  mapped  across multiple  dimensions  of  well-being,  including  mental, emotional, intellectual, professional, spiritual, and physi - cal domains (Table4). This mapping was derived directly from the reported well-being outcomes in the included studies, as summarised in Table2. It illustrates how func - tional elements, as grouped into themes, contribute to different dimensions of well-being.
+As shown in Table4, the identified themes demonstrate varying  degrees  of  representation  across  the  six  well- being  dimensions.  Notably,  Digital  Self-regulation  was associated with all six dimensions, indicating its broad presence in the literature in relation to learners’ mental, emotional, intellectual, academic, spiritual, and physical well-being. This pattern suggests that challenges related to regulating digital use are frequently reported across multiple aspects of well-being. In contrast, themes such as  Digital  Conduct  and  Digital  Safety  were  linked  to fewer well-being dimensions. However, this more limited 
+representation may reflect the relatively smaller number of studies addressing these themes, rather than indicating a lesser role in digital well-being.
+Overall,  the  pattern  observed  indicates  that  learner- related functional elements, such as self-regulation, self- efficacy,  and  intention,  are  more  consistently  reported across  multiple  well-being  dimensions,  whereas  other elements appear more context-specific within the current body of literature. These findings directly address the sec - ond research question by demonstrating that functional elements  are  unevenly  distributed  across  well-being dimensions, highlighting the multidimensional nature of digital well-being among higher education learners.
+Digital self-regulation
+We defined digital self-regulation as the ability to regu - late  an  individual’s  behaviour,  emotions,  and  interac - tions  in  digital  environments.  It  involves  managing online  impulses,  maintaining  focus  on  academic  tasks, and  regulating  screen  time  while  navigating  digital distractions.  Functional  elements  within  this  domain captured multiple facets of learners’ struggles to man - age their digital behaviours in both academic and per - sonal contexts. Specific behaviours associated with this theme included smartphone use at night, which was fre - quently linked to disrupted sleep cycles, fatigue, anxiety and  diminished  academic  concentration  [22].  Closely aligned  were  patterns  of  smartphone  addiction,  mani - fested through compulsive use and a loss of control over screen time, often resulting in procrastination, reduced focus, and negative emotional outcomes such as stress, 
+
+Mohd Bahar et al. BMC Medical Education         (2026) 26:1146  Page 10 of 23
+Table 2  Summary of codes and their alignment with themes of the digital well-being and general well-being outcomes
+Codes                                                                        Themes                                       General Well-being outcomes
+Smartphone use at night [22]                                                 Digital Self-regulation                      Poor sleep quality [22]
+Smartphone addiction [22–26]                                                                                              Anxiety, panic, insecure, discon-
+Mobile checking habit [27]                                                                                                nected, less self-control / higher 
+Screen time [28–30]                                                                                                       disturbances [22]
+Internet addiction [23, 31, 32]                                                                                           Procrastination, lower wellbeing [27]
+Social media addiction [23, 33]                                                                                           No effect on wellbeing [28, 30]
+Smartphone distraction [34, 35]                                                                                           Depression [23, 31, 33]
+Intensive technology use/overload [36, 37]                                                                                Stress, anxiety [29]
+Mental focus [22]                                                                                                         lower general satisfaction [35]
+Spiritual mindfulness (coping strategy) [38]                                                                              Techno-isolation (loneliness) [37]
+Digital self-control [38, 39]                                                                                             More aware & mindful [39]
+Financial compulsiveness [25]                                                                                             Depression, anxiety, stress and 
+                                                                                                                          neuroticism [26]
+                                                                                                                          Anxiety, depression, amotivation [36]
+                                                                                                                          Academic anxiety [32]
+                                                                                                                          Reducing Nomophobia [38]
+Analyzing skills [40]                                                        Digital Self-efficacy                        Satisfaction [42]
+Critical thinking skills [40]                                                                                             Stress, anxiety, losing temper easily 
+Communication skills [40, 41]                                                                                             [29]
+Referencing skills [42]                                                                                                   Satisfaction [28]
+Adaptability [29)]                                                                                                        Increase Motivation [29]
+Digital literacy [28, 29, 37, 41, 43, 44]                                                                                 Less confident / confident [41]
+Digital proficiency [45]                                                                                                  More adaptable [44]
+                                                                                                                          Positive psychological wellbeing [45]
+                                                                                                                          Less stress [37]
+Goal setting [22, 39]                                                        Digital Intention                            More aware & mindful [39]
+Goal -help seeking [41]                                                                                                   Relieve stress [41]
+Goal - make friends [46]                                                                                                  Satisfaction [46]
+Academic motivation [36]
+Positive behaviour online [43]                                               Digital Conduct                              Comfortable, feel safe [43]
+Professionalism [43]
+ethical conduct [43]
+Interaction with peers [47–49]                                               Digital Engagement                           Satisfaction, Anxiety [48]
+Psychological contract (interaction with institute) [32]                                                                  Discomfort [46]
+Emoji - language [41]                                                                                                     Academic anxiety [32]
+Flexibility - not to show face/ camera [41, 47]                                                                           Help in expression / positive atmo-
+Camera use [47]                                                                                                           sphere [41]
+Interaction with teachers [47, 48]                                                                                        Comfortable / confident with 
+Fast feedback & correction [48]                                                                                           stranger [41]
+Interaction with AI [42]                                                                                                  Anxiety, Stress, Satisfaction, Reduce 
+                                                                                                                          Reduce cognitive load [47]
+                                                                                                                          Satisfaction [49]
+                                                                                                                          Comfort, peace, happiness, increase 
+                                                                                                                          motivation [42]
+Family support [29, 50]                                                      Digital Support                              Increase motivation [29, 50]
+Acquaintances support [37]                                                                                                Stress, anxiety [29]
+flexibility - work at own pace (organization support) [48]                                                                less stress [37]
+University support [29]
+Tech company support [28]
+Organization guideline [37]
+Educational course support [28, 51]
+Table 2  (continued)
+Codes Themes General Well-being outcomes Accessibility [40, 48] Digital Resource Frustration [37, 48]
+functionality [52] Satisfaction [52]
+Device compatibility [37] Anxiety, stress (More distraction than Digital self-control tools [53] assistance) [53]
+Notification disabling [54] No effect on wellbeing [54] Techno-ease, techno reliability, techno sociality [36] Increase intrinsic motivation [36] Screen share [53] Increase motivation, self-satisfaction, unresponsive tools [48] students’ control [51]
+multiple devices [48] Satisfaction [49]
+Flexibility of chatbot [42] Positive psychological wellbeing [45] User friendly [55]
+learning design/variety of pedagogy [49, 55]
+Interactive features [45, 52]
+Financial risks [25] Digital Safety Mental and emotional friction [25] Table 3 Thematic distribution of well-being outcomes in the  depression,  and  neuroticism  [22–26].  Mobile  checking 
+reviewed literature
+habits, as described in prior research, further illustrated this compulsive dimension, as the repeated urge to moni - tor devices was shown to fragment attention and under - mine productivity, reinforcing cycles of procrastination and lower well-being [27]. Excessive screen time further highlighted mixed findings, while some studies reported associations with eyestrain, stress, and academic dissat - isfaction [29], others found no significant effects on well- being [28, 30]. In more severe cases, internet and social media addiction were consistently linked to depression, social withdrawal, and academic anxiety [23, 31–33]. In addition,  smartphone  distraction  underscored  the  dif - ficulty of sustaining concentration in study contexts, as constant notifications and alerts disrupted learning pro - cesses [34, 35]. The sense of technology overload cap - tured broader emotional strain, with learners reporting 
+                             Positive             Neutral         Negative 
+                             Well-being                           Well-being
+Digital Self-regulation      *                    *               ****
+Digital Self-efficacy        ***                                  *
+Digital Intention            **
+Digital Conduct              *
+Digital Engagement           ***                                  **
+Digital Support              ***                                  *
+Digital Resource             ***                  *               **
+Digital Safety                                                    *
+* 1-2 articles 
+** 3-4 articles 
+*** >=5 articles 
+**** >10 articles
+Table 4  Mapping of digital well-being themes across general well-being dimension
+Themes Mental Emotional Intellectual Professional/ Spiritual Physical
+Academic
+Digital  Anxiety, panic,  Insecure, disconnected, emo- Reduced focus [22] Procrastination, lower  Mindful- Poor Self-regulation depression, stress [22,  tional disturbance, neuroticism well-being, academic  ness [38,  sleep 
+23, 29, 31, 33, 36] techno-isolation [22, 26, 37] anxiety [27, 32] 39] quality [22]
+Digital  Reduced stress,  Satisfaction, motivation,  Critical thinking,  Adaptability, performance,  - - Self-efficacy positive psychological  confidence analytical skills [40] digital literacy [28, 29, 44]
+well-being [37, 45] [28, 29, 41, 42]
+Digital Intention Relieve stress [41] Satisfaction [45] Goal setting [22, 39] Academic motivation [36] Mindful- -
+ness [39] Digital Conduct - Comfortable, feel safe [43] - Professionalism, [43] Ethical  -
+behaviour 
+[43]
+Digital  Anxiety, stress [32,  Satisfaction, comfort, happi- Expression, under- Academic anxiety [32] - Reduced Engagement 47, 48] ness [41, 42, 49] standing [41, 47] cognitive 
+load [47]
+Digital Support Stress, anxiety [29] Motivation, reassurance [29, 50] - Academic support [28, 51] - - Digital Resource Anxiety, stress, frustra- Satisfaction [49, 51, 52] Learning efficiency, Students’ control, produc- - -
+tion [37, 48, 53] intrinsic motivation  tivity [51]
+[36]
+Digital Safety Mental friction [25] Emotional insecurity [25] - - - -
+
+Mohd Bahar et al. BMC Medical Education         (2026) 26:1146 
+Page 11 of 23
+anxiety, amotivation, and loneliness as a result of inten - sive digital demands [36, 37]. Beyond academic perfor- mance, financial compulsiveness was also noted because of poor digital control, which has implications for poorer well-being [25].
+Despite  the  predominantly  adverse  effects  related  to difficulties  in  digital  self-regulation,  coping  strategies were  also  identified.  Spiritual  mindfulness  emerged  as a  protective  factor,  promoting  awareness,  balance,  and reduced nomophobia [38]. Similarly, digital self-control techniques,  including  intentional  disconnection,  app- blocking  tools,  and  time-management  practices,  were reported  to  enhance  focus  and  reduce  stress  [38, 39]. These findings highlight the difficulty of resisting con - stant  digital  stimuli  and  indicate  the  importance  of adopting strategies that promote concentration and emo - tional balance within digital environments.
+Digital self-efficacy
+Digital  self-efficacy  refers  to  an  individual’s  confidence in their ability to effectively use digital tools and tech - nologies to accomplish tasks. It emphasises the belief in one’s capacity to solve problems, navigate software, and learn new digital skills in rapidly changing technological environments.  Functional  elements  within  this  domain reflected the skills and capacities that enable learners to operate  effectively  in  digital  environments.  Analytical skills supported the ability to interpret and apply digital information  in  academic  contexts,  while  critical  think - ing  emphasised  evaluating  sources  for  credibility  and relevance [40]. These skills were complemented by com - munication competencies, ranging from participation in online discussions to collaboration on digital platforms, improving academic engagement and building learners’ confidence  and  adaptability  in  group  settings  [40, 41]. Moreover, referencing skills emerged as an essential indi - cator of learners’ ability to use digital resources responsi - bly in academic work [42].
+Adaptability  was  another  critical  element,  reflecting learners’ capacity to adjust to new software, platforms, and technological changes without significantly disrupt - ing  learning  progress  [29].  Broader  aspects  of  digital literacy also featured prominently, encompassing compe - tencies such as navigating learning management systems, using  productivity  tools,  and  leveraging  digital  plat - forms for research and collaboration [28, 29, 37, 41, 43, 44]. Significantly, digital proficiency, which goes beyond literacy to reflect greater fluency, efficiency, and adapt - ability in managing complex digital tasks, was associated with enhanced psychological well-being, as learners with stronger proficiency reported higher confidence, motiva - tion, and adaptability in balancing digital demands [45].
+Across  the  studies,  digital  self-efficacy  was  consis - tently  linked  with  well-being  outcomes.  Learners  with higher  digital  competence  reported  greater  satisfaction with their academic experience [28, 42], higher motiva- tion and adaptability [29, 44] and improved confidence in managing digital learning environments [41]. Conversely, lower self-efficacy was associated with stress, anxiety, and emotional  reactivity,  including  frustration  or  irritability when navigating digital challenges [29]. Stronger digital literacy also correlated with reduced stress and improved psychological balance [37]. Collectively, these functional elements highlight the centrality of self-efficacy in digital contexts and extend beyond technical competence. Learn - ers with strong digital self-efficacy demonstrate resilience, adaptability,  and  confidence,  which  not  only  support effective academic performance but also strengthen their ability to regulate behaviours, engage intentionally, and participate meaningfully in digital communities.
+Digital intention
+Digital  intention  suggests  a  deliberate  and  thoughtful approach  to  using  digital  resources  for  goals  and  sup - port. Unlike impulsive or passive use, intentional digi - tal behaviours reflect self-directed choices that promote focus, connection, and well-being. Goal setting emerged as  an  essential  functional  element,  with  learners  using digital tools to plan tasks, monitor progress, and align activities with their academic objectives. Such purpose - ful engagement not only enhanced learning efficiency but also  encouraged  greater  mindfulness  and  awareness  in digital practices [22, 39]. Building on this, help-seeking behaviours highlighted learners’ intentional use of digi - tal platforms to access academic support and peer guid - ance. This proactive approach was consistently linked to stress relief and improved confidence in managing aca - demic challenges [41]. Digital intention also extended to the social domain, as learners deliberately engaged with online  spaces  to  form  new  friendships  and  strengthen social networks. These connections contributed to higher satisfaction and a sense of belonging, underscoring how intentional  digital  interaction  can  reinforce  emotional well-being  [46].  Building  on  these  intentions,  learn - ers  also  demonstrated  sustained  academic  motivation 
+through purposeful digital use, drawing on online plat - forms and resources to reinforce their goals [36].
+Collectively,  these  functional  elements  indicate  that digital intention was consistently associated with positive outcomes. Across the reviewed studies, intentional digi - tal use was linked to greater mindfulness, reduced stress, 
+enhanced  satisfaction,  and  sustained  academic  moti - vation. Notably, no neutral or negative outcomes were reported in relation to this theme.
+
+Mohd Bahar et al. BMC Medical Education         (2026) 26:1146 
+Page 12 of 23
+Digital conduct
+Digital conduct, as defined in this review, refers to the behaviours  and  actions  individuals  exhibit  while  inter - acting  with  digital  technologies  and  online  environ - ments. Among the themes identified, this area was the least explored in the literature, with only limited studies directly  addressing  it.  The  functional  elements  identi - fied included positive online behaviour, such as respect - ful  and  constructive  peer  interactions,  professionalism in maintaining appropriate standards of communication and responsibility, and adherence to ethical guidelines, including responsible information sharing and academic integrity [43]. Collectively, these behaviours were associ - ated with a greater sense of comfort and safety in digital environments,  as  well  as  the  development  of  interper - sonal trust [43].
+Digital engagement
+We  defined  digital  engagement  as  the  active  interac - tion of individuals with digital platforms, content, and communities.  This  theme  was  well  represented  in  the literature, with studies identifying a wide range of func - tional  elements  shaping  learners’  experiences.  Peer interaction emerged as a notable aspect, fostering col - laboration,  social  support,  and  a  sense  of  community [47–49].  Engagement  with  educators  was  also  high - lighted, where meaningful exchanges and opportunities for dialogue reinforced learning processes and promoted learner  confidence  [47,  48].  At  the  institutional  level, digital  communication  with  universities  and  academic systems influenced perceptions of support; particularly, a reduced sense of institutional commitment was associ - ated with heightened academic anxiety [32].
+In  addition  to  these  interpersonal  and  institutional interactions,  digital  engagement  extended  to  using  AI agents, which offered comfort, motivation, and a sense of companionship in academic contexts [42]. Other func - tional elements were linked to communication practices, including the use of emoji language, which helped learn - ers express emotions more effectively and contributed to a  positive  online  atmosphere  [41].  Flexible  approaches to camera use, such as the option not to show one’s face, were identified as reducing anxiety and increasing com - fort, particularly in interactions with peers and strangers [41, 47]. Related to this, camera usage in online class - rooms was associated with both reduced cognitive load when flexibility was allowed and with stress or discom - fort  when  mandatory  [47].  Rapid  feedback  and  timely correction were also noted as essential aspects of digital engagement, contributing to learner satisfaction and sup - porting sustained attention to academic tasks [48].
+Overall, digital engagement demonstrated a dual pro - file.  Positive  outcomes  included  satisfaction,  comfort, motivation,  and  reduced  cognitive  load.  In  contrast, 
+negative outcomes were observed in experiences of dis - comfort  during  high-stakes  interactions  and  increased academic anxiety associated with a weakened sense of institutional commitment.
+Digital support
+Digital support is the help given to an individual using digital technologies. It aims to assist users in effectively using digital tools, improving their skills, and address - ing  any  problems  they  encounter.  Digital  support  was found to originate from diverse sources. Family members played an essential role in sustaining motivation and pro - viding emotional reassurance [29, 50], while peers and acquaintances offered encouragement and reduced stress through  collaborative  assistance  [37].  Universities  also contributed by establishing structures that helped learn - ers manage academic tasks more effectively [29].
+Beyond interpersonal forms, institutional and organ - isational  support  further  shaped  learners’  experiences. Organisational guidelines and flexibility, such as oppor - tunities to work at one’s own pace, were linked to lower stress and improved coping [37, 48]. In addition, support from technology companies and structured educational courses provided technical scaffolding, equipping learn - ers with strategies and resources to better engage with digital tools [28, 51].
+The outcomes associated with digital support were pre - dominantly positive. Increased motivation was frequently reported [29, 50]  alongside  reduced  stress  and  anxiety when  adequate  support  was  accessible  [37].  Negative effects were only noted in isolated cases where support mechanisms were absent or perceived as insufficient [29].
+Digital resource
+Another  emerging  theme  from  our  review  is  digital resource, which refers to any tool or digital feature that helps  improve  accessibility  and  usability  of  digital  sys - tems. Studies highlighted a wide range of positive fea - tures.  Accessibility  options  and  device  compatibility were  central  in  ensuring  inclusive  participation  and smoother user experiences [37, 40, 48]. Tools that pro - moted self-regulation, such as digital self-control features and notification management systems, supported learn - ers in managing distractions and maintaining focus [53, 54].  Pedagogical  design  elements,  including  interactive and varied learning approaches, further contributed to learner satisfaction and engagement [49, 52, 55]. Simi- larly, resources emphasising techno-ease, reliability, and sociality were associated with increased intrinsic motiva - tion and enhanced perceptions of control [36, 51].
+However,  limitations  of  digital  resources  were  also evident.  Unresponsive  systems,  the  need  for  multiple devices, and poorly designed or distraction-prone tools were linked to frustration, anxiety, and stress [48, 53]. 
+
+
+Mohd Bahar et al. BMC Medical Education         (2026) 26:1146  Page 11 of 21
+
+Fig. 4  Digital well-being framework: leads to feeling good and functioning well in the digital space
+
+
+In  particular,  when  digital  platforms  imposed  exces - sive demands on learners, the resulting cognitive strain undermined their ability to focus effectively. While most outcomes  highlighted  the  benefits  of  well-designed resources,  one  to  two  studies  reported  neutral  effects, suggesting that certain features, such as notification dis - abling,  may  not  directly  influence  well-being  despite improving usability [54].
+Overall,  digital  resources  were  most  strongly  associ - ated with positive outcomes, including satisfaction [49, 52], improved motivation [36] and greater self-regulated learning capacity [51]. At the same time, the evidence demonstrated that the quality and responsiveness of digi - tal tools play a decisive role, with poorly functioning or overwhelming resources more likely to contribute to neg - ative well-being outcomes.
+Digital safety
+Another  comparatively  underexplored  theme  identified in  the  review  was  digital  safety.  Digital  safety  involves protecting individuals and their data while using digital platforms. This field of cybersecurity focuses on main - taining the integrity, confidentiality, and privacy of infor - mation and ensuring a safe online experience by being aware  of  risks  and  implementing  protective  measures. Evidence  on  digital  safety  was  comparatively  limited across the reviewed studies, yet the theme emerged as a critical concern in digital environments. The discussion of safety focused primarily on financial risks, such as vul - nerability to online fraud or scams, and the associated sense of insecurity [25]. The perception of being unsafe online was consistently linked with negative outcomes, 
+particularly  mental  and  emotional  friction,  which  dis - rupted participants’ sense of stability and confidence in digital  spaces  [25].  No  positive  or  neutral  associations were identified.
+Framework for digital well-being
+The  synthesis  of  findings  from  the  reviewed  studies informed  the  development  of  a  conceptual  framework that positions digital self-efficacy at the core of learners’ digital experiences (Fig. 4). This framework is organised into four interrelated clusters encompassing eight themes. The  behavioural  regulation  and  intention  cluster  com - prises digital self-regulation and digital intention, reflect - ing learners’ ability to monitor and control their digital behaviours while engaging purposefully in a digital envi - ronment.  The  interaction  and  conduct  cluster  includes digital  engagement  and  conduct,  which  capture  how individuals  connect  with  peers,  educators,  institutions, and technologies, as well as the standards of profession - alism,  respect,  and  ethical  responsibility  that  underpin those interactions. The support and resource utilisation cluster  combines  digital  support  and  digital  resources, highlighting the significance of accessible assistance and the  effective  deployment  of  technological  tools  in  sus - taining participation and productivity. The digital safety cluster  integrates  data  safety  and  psychological  safety, encompassing  the  protection  of  personal  information and learners’ sense of comfort, trust, and security in digi - tal contexts. Together, these clusters illustrate the multi - dimensional nature of digital self-efficacy, showing how regulation,  interaction,  support,  and  safety  intersect  to shape learners’ academic and psychological experiences.
+
+Mohd Bahar et al. BMC Medical Education         (2026) 26:1146 
+Page 16 of 23
+Discussion
+Digital self-efficacy as the core component of digital well- being
+Our  synthesis  suggests  that  digital  self-efficacy  can  be conceptualised as a central functional element within the proposed framework. Learners’ confidence in navigating digital tools not only directly supported positive well-being outcomes  but  also  enhanced  the  effectiveness  of  other themes  mentioned  in  the  framework.  Evidence  demon - strates that higher levels of self-efficacy function as a pro - tective factor, mitigating stress and reinforcing academic motivation. Conversely, lower self-efficacy has been con - sistently associated with disengagement, elevated anxi - ety,  and  broader  psychological  distress,  often  serving as a key mediator in the relationship between academic stress and negative well-being outcomes [56, 57].
+When learners feel capable of managing digital tasks, they are more likely to approach them with persistence and effective strategies. This idea is consistent with Self- Determination  Theory  (SDT),  developed  by  Deci  and Ryan [58]. SDT explains that motivation is driven by three basic psychological needs: autonomy, competence, and relatedness. Within the digital context, these needs inter - sect with well-being in meaningful ways. Competence is nurtured  through  digital  self-efficacy,  as  confidence  in one’s ability to navigate tools and platforms reduces frus - tration and fosters sustained engagement. This interpre - tation  is  also  supported  by  Bandura’s  Social  Cognitive Theory, which emphasises the role of self-efficacy beliefs in shaping behaviour, motivation, and adaptive responses in complex environments [59]. Autonomy is reflected in learners’ ability to regulate their digital use purposefully, choosing  when  and  how  to  engage  online  rather  than feeling controlled by technology. From another perspec - tive, Technostress Theory highlights how excessive digital demands and information overload may challenge indi - viduals’ capacity for self-regulation, leading to cognitive strain and reduced well-being [60]. Relatedness emerges in digital spaces through collaborative platforms and peer interactions, which provide social support and a sense of belonging. Together, these perspectives help explain how digital  self-efficacy,  self-regulation,  and  social  interac - tion collectively contribute to digital well-being. Rather than attributing these mechanisms to a single theoretical model,  these  complementary  frameworks  offer  a  more nuanced understanding of how learners engage with digi - tal environments [61, 62].
+Importantly,  the  prominence  of  digital  self-efficacy within the synthesised literature is consistent with empir - ical evidence demonstrating its role in reducing psycho - logical distress while enhancing motivation and academic performance  in  digital  learning  environments  [56, 57]. This provides conceptual support for its positioning as a  central  enabling  component  within  the  framework. 
+However, it should be noted that this positioning reflects a  conceptual  model  grounded  in  SDT,  rather  than  a definitive empirical conclusion, and should be considered a foundation for future empirical validation.
+Interconnections between self-efficacy and other themes Digital self-efficacy does not function in isolation. Instead, it  interconnects  with  and  amplifies  the  effectiveness  of other  dimensions  of  digital  well-being.  From  SDT  per - spective,  self-efficacy  promotes  the  internalisation  of behaviours  by  enhancing  perceived  competence,  which in turn allows for more independent control over learning activities [58]. This offers a theoretical justification for why certain  learners  benefit  more  from  functional  elements like self-regulation, engagement, and support than others.
+Learners with higher self-efficacy are more likely to set deliberate goals and sustain purposeful digital intention, minimising cognitive overload during digital tasks [63]. Their  confidence  also  enhances  digital  engagement,  as they participate more actively in online communities and collaborative platforms, strengthening social connections and peer learning [64].
+Self-efficacy also shapes how learners work with digi - tal resources. It mediates the link between digital literacy and  academic  performance,  indicating  that  confidence and capability are how skills translate into outcomes [65]. Relatedly, self-efficacy underpins digital self-regulation by enabling strategic learning behaviours such as planning, monitoring,  and  managing  attention.  It  helps  learners resist distraction and persist with complex tasks in online settings.  Evidence  in  e-learning  contexts  consistently associates higher self-efficacy with stronger self-regulated learning strategies [66, 67]. Supportive conditions further amplify these effects. Digital support from peers, educa - tors, and institutional systems plays a compensatory role for learners with lower baseline self-efficacy, offering guid - ance and reassurance that help sustain motivation [68].
+These  interconnections  indicate  that  digital  well- being  emerges  from  the  interaction  between  multiple functional  elements  rather  than  any  single  domain  in isolation. Positive outcomes are more likely when digi - tal  self-efficacy  co-occurs  with  strong  support,  effec - tive engagement, and well-designed resources, whereas negative outcomes are often associated with poor self- regulation and insufficient support. This interpretation is further supported by structural equation modelling evi - dence demonstrating that engagement, teacher support, and  facilitating  conditions  jointly  influence  academic performance and well-being [69].
+Notably, digital conduct and digital safety remain com - paratively underexplored domains. While existing studies suggest their role in promoting respectful interactions, ethical awareness, and psychological comfort, environ - ments  characterised  by  poor  digital  conduct  or  safety 
+concerns  may  heighten  social  anxiety  and  negatively impact well-being [70]. This highlights the need for fur - ther research to better understand how ethical behaviour, privacy,  and  perceived  safety  contribute  to  sustainable digital  well-being.  Collectively,  these  findings  reinforce that digital self-efficacy operates as an integrative mecha - nism that enables other functional elements to translate into meaningful well-being outcomes.
+Broader perspectives on digital well-being
+Our findings align with broader conceptualisations that define digital well-being as a dynamic equilibrium between connectivity  and  disconnectivity,  shaped  by  individual characteristics, technological design, and contextual cir - cumstances [1]. From this perspective, digital well-being is  not  a  static  condition  but  a  continuous  adjustment process that requires individuals to disrupt maladaptive usage patterns while cultivating healthier digital practices.
+Notably, the literature cautions against equating occa - sional  digital  struggles  with  clinical  disorders.  While many learners experience distractions, fatigue, or peri - ods of over-engagement, these fluctuations should not be pathologised. Mislabelling such experiences as disorders risks stigmatising normal variations in technology use. Instead, they should be understood as signals of reduced digital well-being, which can be mitigated through proac - tive strategies such as strengthening digital self-efficacy, fostering peer and institutional support, and promoting meaningful engagement in digital environments [1, 71].
+Implications for higher education
+Emerging evidence indicates that educational interven - tions targeting digital self-efficacy, such as digital training modules,  informal  practice,  and  autonomy-supportive learning environments, can measurably improve learners’ mental well-being, reduce stress, and increase resilience when navigating online tasks (72). These findings demon - strate the importance of positioning digital self-efficacy as a core component of digital well-being strategies in higher education.
+From  the  learners’  perspective,  the  findings  of  this review highlight the importance of strengthening both digital self-efficacy and digital self-regulation. As dem - onstrated in the results section, poor self-regulation was the most frequently associated factor with negative well- being outcomes, including stress, anxiety, and reduced satisfaction. Therefore, learners need to develop not only technical  competence  but  also  behavioural  strategies to manage distraction, regulate screen time, and main - tain focus during digital learning [66, 67]. In addition, 
+the  consistent  positive  association  observed  for  digi - tal intention suggests that purposeful and goal-directed engagement with digital tools can enhance motivation, satisfaction, and emotional well-being. These findings are 
+aligned with evidence indicating that learners’ stress lev - els, well-being, and perceived support are closely inter - related,  with  supportive  environments  contributing  to improved learning experiences (73). This is particularly relevant in programmes that involve complex and digi - tally mediated learning environments, such as medical and  healthcare  education,  where  learners  engage  with simulations,  integrated  learning  systems,  and  informa - tion-rich content that require high levels of self-regula - tion and sustained cognitive focus.
+For educators, the findings emphasise the importance of fostering supportive and well-structured digital learn - ing environments. The results demonstrated that digital engagement, particularly through interaction with peers and  instructors,  timely  feedback,  and  flexible  partici - pation, was associated with both positive and negative outcomes depending on how it was implemented. This suggests  that  the  quality  of  engagement  is  critical  in shaping learners’ experiences. Educators play an impor - tant role in reducing anxiety and enhancing motivation by providing clear guidance, responsive communication, and opportunities for meaningful interaction. Consistent with prior evidence, teacher support has been shown to enhance  learners’  well-being,  increase  learning  inter - est, and reduce stress levels (73). In healthcare education contexts, this includes guiding learners through digitally mediated  clinical  training,  simulation-based  learning, and online case discussions, where structured support is essential to reduce cognitive overload and anxiety.
+At  the  institutional  level,  the  findings  highlight  the critical importance of facilitating conditions, reflected in the themes of digital support and digital resources. The results  showed  that  accessible  support  systems,  reliable infrastructure,  and  user-friendly  platforms  were  consis - tently associated with positive outcomes such as increased motivation, satisfaction, and reduced stress, whereas inad - equate systems and limited support were linked to frustra - tion, anxiety, and disengagement. This indicates that digital well-being is not solely determined by individual capability but is strongly shaped by institutional environments.
+Importantly,  the  significant  effect  of  facilitating  con - ditions identified in this review suggests that they func - tion as structural enablers of both digital self-efficacy and well-being. When learners are supported by stable sys - tems, clear guidance, and accessible assistance, they are more likely to develop confidence in using digital tools, sustain  engagement,  and  effectively  manage  academic demands.  In  contrast,  poorly  supported  environments increase cognitive load, reduce usability, and undermine both confidence and well-being. This is consistent with evidence indicating that facilitating conditions, together with  engagement  and  support,  are  key  determinants of  academic  performance  and  psychological  outcomes in higher education contexts [65, 69]. This is especially 
+critical in healthcare training environments, where unre - liable systems or poorly designed platforms may not only hinder  learning  but  also  affect  learners’  confidence  in applying digital tools in clinical practice.
+From a policy perspective, these findings highlight the need  for  institutions  to  move  beyond  individual-level interventions and adopt a systemic approach to digital well-being.  This  includes  integrating  digital  well-being into institutional strategies, ensuring platform usability and  reliability,  providing  proactive  technical  and  aca - demic  support,  and  designing  learning  environments that minimise unnecessary cognitive burden. In addition, institutions should regularly assess learners’ digital readi - ness and experiences to identify gaps in access and sup - port. Such system-level strategies are essential to ensure 
+that facilitating conditions effectively support both aca - demic performance and learners’ digital well-being.
+However,  building  self-efficacy  in  isolation  is  insuffi- cient. Instead, a holistic strategy is needed, like the one that  integrates  individual  skill  confidence  with  institu - tional supports and sensitivity to contextual challenges. Even learners with strong self-efficacy benefit when fac - ulty provide encouragement, when digital infrastructures are reliable and accessible, and when institutional poli - cies actively reduce sources of technological stress. To that  end,  developing  a  digital  well-being  measurement scale  may  help  identify  gaps  in  learners’  digital  readi - ness, including self-efficacy, support, and self-regulation, thereby informing more targeted interventions.
+Limitation
+This scoping review has several limitations. The review was  conducted  using  three  major  bibliographic  data - bases: Scopus, PubMed, and Web of Science, which were selected for their broad interdisciplinary coverage across health,  education,  and  technology-related  fields.  While this  approach  was  considered  sufficient  to  capture  the majority  of  relevant  literature  aligned  with  the  review objectives, the exclusion of additional specialised data - bases, such as ERIC and PsycINFO, as well as grey litera- ture including conference proceedings, theses, and policy reports, may have limited the identification of some con - text-specific or emerging studies.
+In addition, the focus on digital well-being as the pri - mary  construct  may  have  excluded  studies  addressing related concepts such as technostress, problematic inter - net use, and digital addiction, which represent overlap - ping  dimensions  of  digital  experience.  Furthermore, the search strategy also focused on the population term ‘learners’, which may not have captured all relevant syn - onyms  such  as  students,  undergraduates,  or  university students, potentially limiting retrieval.
+The  review  was  also  restricted  to  English-language publications,  which  may  have  limited  the  inclusion  of 
+culturally  and  regionally  diverse  perspectives.  Further - more,  the  data  extraction  process  was  primarily  con - ducted by a single researcher, which may introduce a risk of bias despite efforts to ensure consistency through dis - cussion and verification.
+Finally,  a  large  proportion  of  the  included  studies (n = 32, 94%) were conducted during and following the COVID-19  period  from  2020  onwards,  with  only  two studies published prior to this period in 2018 and early 2020. This context may have influenced learners’ digital experiences,  as  increased  reliance  on  remote  learning, social isolation, and heightened stress levels could have amplified both positive and negative outcomes. There - fore, the generalisability of the proposed framework to post-pandemic  educational  settings  should  be  inter - preted with caution.
+Conclusion
+This scoping review synthesises existing evidence on digi - tal well-being among higher education learners by identi - fying eight functional elements and organising them into a multidimensional conceptual framework. Rather than examining isolated constructs, this study brings together current findings to illustrate how digital well-being may emerge  from  the  interaction  between  individual  capa - bilities, behavioural patterns, and digital environments. Within this framework, digital self-efficacy is conceptu - alised as a central enabling component that interacts with other functional elements to shape learners’ digital expe - riences. This highlights the importance of understand - ing  digital  well-being  as  a  multidimensional  construct shaped  by  the  interaction  between  learner-related  and environmental factors.
+Future research should focus on empirically examin - ing the proposed framework, particularly through longi - tudinal and mixed-methods approaches that can explore how  these  functional  elements  interact  over  time.  In addition, further investigation is warranted for underex - plored domains such as digital conduct and digital safety, as well as the development of more consistent and psy - chometrically sound measurement approaches for digital well-being.
+The findings also have broader implications for stake - holders involved in the design and governance of digi - tal  environments.  In  particular,  the  roles  of  digital self-regulation and digital resources point to the need for user-centred  design  that  supports  focus,  usability,  and manageable cognitive load. Similarly, digital support and digital  safety  highlight  the  importance  of  institutional systems and policies that promote accessibility, trust, and psychological  security.  Aligning  individual  capabilities with technological design and institutional support may help inform more context-sensitive approaches to digital well-being in higher education.
+
+Mohd Bahar et al. BMC Medical Education         (2026) 26:1146  Page 21 of 23
+Appendix
+ 
+No.   Title of articles Author, year of               Geographical         Participants        Participants         Digital compo-            Well-being             Methods
+      publication                                     distribution         Age (Average        Category (n)         nents / functional        outcomes
+                                                                           or range)                                elements
+1   Smartphone Use  [22]                           7 colleges in        Not mentioned       Undergraduate        1. Nomophobia             1. Anxiety,            Quali
+    and Psychological                              China                                    (70)                 (smartphone addic-        insecure, panic, 
+    Well-Being Among                                                                                             tion) / Fear of miss-     disconnected 
+    College Students in                                                                                          ing out (FOMO)            (Nomophobia) 
+    China: A Qualitative                                                                                         2. Smartphone use         2. Disturbed 
+    Assessment                                                                                                   late night                sleep quality 
+                                                                                                                 3. Smartphone high        (Smartphone use 
+                                                                                                                 dependency                late night)3. less 
+                                                                                                                 4. Individual goal        self-control / 
+                                                                                                                 setting5. Mental          higher distur-
+                                                                                                                 focus                     bances (Smart-
+                                                                                                                                           phone high 
+                                                                                                                                           dependency)
+2   Studying problems,  [27]                       Johannes             23                  Undergraduate        Mobile checking           Procrastination,       Quanti
+    not problematic                                Gutenberg Uni-                           (532)                habit                     lower well-being
+    usage: Do mobile                               versity of Mainz, 
+    checking habits                                Germany.
+    increase procrastina-
+    tion and decrease 
+    well-being?
+3   Teaching and  [28]                             Politecnico di       21                  Undergraduate        1. Educational            1. Satisfaction        Mixed. Case 
+    learning "Digital                              Torino, Italy.                           (102)                course on DWB             (Educational           study
+    Wellbeing"                                                                                                   (Benessere Digitale       course) 2. No 
+                                                                                                                 course)2. Digital         effect on Well-
+                                                                                                                 literacy3. Tech           being (Screen 
+                                                                                                                 company support4.         time)
+                                                                                                                 Screen time
+4   Problematic use  [23]                          Mbarara Univer-      23.37 ± 3.38        Medical Under-       Internet addiction,       Depression             Quanti
+    of the internet,                               sity of Science                          graduate (269)       social media addic-
+    smartphones, and                               and Technology                                                tion, smartphone 
+    social media among                             (MUST), Ugand        a                                        addiction
+    medical students 
+    and relationship 
+    with depression: An 
+    exploratory study
+5   Designing and  [40]                            Shahid Sa-           19-30               Undergraduate        1. Accessibility          Not mentioned          Experimental 
+    implementing virtual                           doughi Univer-                           (27) & Post-         2. Analyzing skills                              study, quanti
+    education course                               sity of Medical                          graduate (61)        3. Communication 
+    of media literacy for                          Sciences, Yazd                                                skills 
+    medical sciences                               Iran                                                          4. Think critically  
+    students: An experi-                                                                                         about content (All 
+    mental study                                                                                                 are media literacy)
+6   Exploring the  [29]                            Few Public & pri-    18-28               Undergraduate        1. Sudden online          1. Stress, anxiety     Mixed quali 
+    impact of the covid-                           vate universities                        (419) & Post-        (adaptability)2.          (Sudden online,        quanti
+    19 pandemic on                                 in Malaysia                              graduate (67)        Digital literacy3.        screen time, fam-
+    university students’                                                                                         Screen time4. Family       ily support, uni-
+    learning life: An in-                                                                                        support5. University      versity support) 
+    tegrated conceptual                                                                                          support                   2. Losing temper 
+    motivational model                                                                                                                     easily 3. Increase 
+    for sustainable                                                                                                                        Motivation (Digi-
+    and healthy online                                                                                                                     tal literacy, family 
+    learning                                                                                                                               support)
+7   Design an Adaptive  [51]                       Saudi Arabia         Not mentioned       Undergraduate        1. Specified mobile       1. Increase            Mixed. Quasi-
+    Mobile Scaffolding                                                                      (71)                 scaffolding accord-       motivation, self       experimental
+    System According                                                                                             ing to cognitive          satisfaction, stu-
+    to Students’ Cogni-                                                                                          style (educational        dents' control
+    tive Style Simplicity                                                                                        application)
+    vs Complexity for 
+    Enhancing Digital 
+    Well-Being
+  
+No.   Title of articles Author, year of               Geographical         Participants        Participants         Digital compo- Well-being  Methods
+      publication                                     distribution         Age (Average        Category (n)         nents / functional  outcomes
+                                                                           or range)                                elements
+8    Defining Digital  [41]                         Australian-          Not mentioned       Undergraduate        1. Digital wellbeing  1. Less confident /  Quali
+     Wellbeing Literacy                             basedUniversity                          (6) -Others are      literacy capability2.  confident (literacy 
+     in Remote Work                                 Business School.                         Higher educa-        Language - wellbe- capability)2. Com-
+     Integrated Learning                                                                     tion staff)          ing literacy (com- fortable / confident 
+                                                                                                                  munication skill)3.  with stranger (Flex-
+                                                                                                                  Flexibility (not to  ibility)3. Help in 
+                                                                                                                  show face)4. Emoji  expression / posi-
+                                                                                                                  - language5. Goal -  tive atmosphere 
+                                                                                                                  Help seeking (Emoji)4. Relieve 
+                                                                                                                  stress (Goal – Help 
+                                                                                                                  seeking)
+9    Use of digital  [53]                           1 institute in       27.18               Undergraduate        1. Digital self-control 1. Anxiety, stress  Mixed quanti 
+     self-control tools in                          Germany                                  (219) & Post-        tools (app)2. Screen  -More distraction  quali
+     higher education –                                                                      graduate (54)        share (one of digital  than assistance 
+     a survey study                                                                                               self-control tool (Digital self-
+                                                                                                                  control tools)
+10   Digital proficiency  [45]                      Public univer-       Not mentioned       Undergraduate        1. Digital Profi- 1. Positive  Quanti
+     and psychological                              sity on the west                         (309)                ciency 2. Interactive  psychological 
+     well-being in online                           coast of the                                                  features wellbeing
+     learning: Experienc-                           United States
+     es of first-generation 
+     college students and 
+     their peers
+11   “Seeing and Being  [47]                        Universitat          18-25               Undergraduate        1. Camera use dur- 1. Anxiety, Stress,  Quali
+     Seen” or Just “See-                            Ramon Llull                              (79)                 ing online learning2.  Satisfaction 
+     ing” in a Smart Class-                         (URL), La Salle,                                              Interaction (student  (Camera use dur-
+     room Context When                              Barcelona, Spain                                              to student & to in- ing online learn-
+     Videoconferencing:                                                                                           structor), distraction ing) 2. Reduce 
+     A User Experience-                                                                                           Cognitive load 
+     Based Qualitative                                                                                            -due to increase 
+     Research on the Use                                                                                          understanding
+     of Cameras
+12   Digital Well-Being  [52]                       Faculty of Aero-     Not mentioned       Undergraduate        Characteristic of  Satisfaction Mixed quanti 
+     and Satisfaction of                            nautics, Techni-                         (53)                 online platform  quali
+     University Students                            cal University of                                             (functionality, inter-
+     with Online                                    Košice, Slovakia                                              active features)
+     Education
+13   Exploring the Dimen- [34]                      English-speak-       21.1                Undergraduate        Smartphone distrac- Positive and  Quanti
+     sions of Smartphone                            ing university                           (730) & Post-        tion (problematic  negative well-
+     Distraction: Develop-                          in the United                            graduate (95)        smartphone use) being (Item only)
+     ment, Validation,                              Kingdom (UK)
+     Measurement Invari-
+     ance, and Latent 
+     Mean Differences of 
+     the Smartphone Dis-
+     traction Scale (SDS)
+14   Nurturing Minds  [48]                          STEM (science,       Not mentioned       Undergraduate        1. Flexibility - work  1. More engaged  Quanti
+     and Sustainability:                            technology,                              (871)                at own pace2. fast  -satisfaction 
+     An Exploration of                              engineering,                                                  feedback & correc- (Interaction)2. 
+     Educational Interac-                           andmathemat -                                                 tion3. Interaction4.  Isolated, poor en-
+     tions and Their                                ics) university,                                              Accessibility (in- gagement (Inter-
+     Impact on Student                              Romania                                                       ternet connection,  action)3. Anxiety 
+     Well-Being and                                                                                               unresponsive tools,  - Lack interaction 
+     Assessment in a Sus-                                                                                         multiple devices) 4. Frustration 
+     tainable University                                                                                          (Accessibility)
+15   Co-Designing AI  [46]                          Georgia Tech’s       24-31               Undergraduate        1. Characteristic of AI 1. Discomfort  Quali, 
+     Agents to Support                              Online Master                            (23)                 agent in facilitating  (Characteristic  co-design 
+     Social Connected-                              of Science in                                                 social connec- of AI agent)2.  workshop
+     ness Among Online                              Computer Sci-                                                 tion2. Goal - Social  Satisfaction 
+     Learners: Functional-                          ence (OMSCS)                                                  connection beyond  (Goal- Social 
+     ities, Social Charac-                          program, USA                                                  classes / make  connection)
+     teristics, and Ethical                                                                                       friends
+     Challenges
+  
+No.   Title of articles Author, year of               Geographical         Participants  Participants               Digital compo-            Well-being             Methods
+      publication                                     distribution         Age (Average  Category (n)               nents / functional        outcomes
+                                                                           or range)                                elements
+16   Examination of non- [30]                       Turkey               17-48 Undergraduate                      Screen time               No significant         Quanti
+     cognitive variables                                                 (241)                                                              relation on 
+     affecting academic                                                                                                                     psychological 
+     achievement: a                                                                                                                         wellbeing
+     conceptual model 
+     proposal
+17   Chatbot Positive  [42]                         Master of Educa-     Not mentioned Postgraduate               1. Referencing skills     1. Satisfaction        Quanti, 
+     Design to Facilitate                           tion, King Faisal    (150)                                    (AI) 2. Interaction       (Referencing skills     experimental 
+     Referencing Skills                             University, King-                                             with AI3. Facilitating     AI)2. Motivation,     study
+     and Improve Digital                            dom of Saudi                                                  independent / flex-       comfort, peace, 
+     Well-Being                                     Arabia                                                        ibility of chatbot        happiness (Inter-
+                                                                                                                                            action with AI)
+18   Raising Awareness  [24]                        Portugal             18-24 Undergraduate                      Period of smart-          Decrease               Mixed quali 
+     of Smartphone                                                       (16)                                     phone usage               well-being             quanti
+     Overuse among 
+     University Students: 
+     A Persuasive Sys-
+     tems Approach
+19   Wellbeing Amid  [25]                           Universities in      Not mentioned Undergraduate              Digital risk:-1.          Fear of online         Quali
+     Digital Risks: Impli-                          Norway               (4) & Postgradu-                         Physical- muscle          fraud, mental & 
+     cations of Digital                                                  ate (13)                                 overused, tired eyes ,    emotional friction 
+     Risks, Threats, and                                                                                          postural problems2.       (Financial)
+     Scams on Users’                                                                                              Psychological - ad-
+     Wellbeing                                                                                                    diction,3. Financial 
+                                                                                                                  - buying compulsive-
+                                                                                                                  ness, scam4. Social 
+                                                                                                                  - need for attention, 
+                                                                                                                  acknowledgement, 
+                                                                                                                  fear of isolation, 
+                                                                                                                  fear of missing out 
+                                                                                                                  (GOAL)
+20   Participatory digital  [55]                    The Open             <25 - >56  Undergraduate                 1. User friendly2.        Feel valued (User      Mixed quali 
+     approaches to                                  University &         (mixed with  (17) & Under-               Variety of pedagogy       friendly & variety     quanti
+     embedding student                              University of        others) graduate (13)                    / learning design         of pedagogy)
+     wellbeing in higher                            Warwick, Cov-
+     education                                      entry, United 
+                                                    Kingdom.
+21   A study of university  [43]                    Law School           Baby boomers -  Undergraduate            1. Positive behaviour     Comfortable, feel      Mixed quanti 
+     law students’ self-                            within a UK          Gen Z (28) & Under-                      online2. Digital          safe (Positive be-     quali
+     perceived digital                              university           graduate (31)                            Literacy3. Profes-        haviour online)
+     competences                                                                                                  sionalism / Ethical 
+                                                                                                                  conduct4. Digital 
+                                                                                                                  Competencies
+22   A cross-sectional  [44]                        Royal College of      Baby boomers -  Undergraduate           Digital literacy          More Adaptable         Mixed quanti 
+     study of discipline-                           Nursing, UK          Gen Z (146) & Post-                                                                       quali
+     based self-perceived                                                graduate (36)
+     digital literacy com-
+     petencies of nursing 
+     students
+23   The Analysis of  [31]                          Kerman Univer-       22 +- 4 Undergraduate                    Internet addiction        1. Decrease            Quanti
+     Psychological                                  sity ofMedical       (400) & Post-                                                      happiness 2. 
+     Aspects of Online                              Sciences, Iran       graduate (110)                                                     Depression
+     Education: Depres-
+     sion andHappiness 
+     and Their Relation-
+     ship with College 
+     Students’ Academic 
+     Achievement
+ 
+No.   Title of articles Author, year of               Geographical  Participants                Participants  Digital compo-                    Well-being  Methods
+      publication                                     distribution  Age (Average                Category (n) nents / functional                 outcomes
+                                                      or range)                                 elements
+24   Assessing stress,  [50]                        Bachelor of  36.23                        Undergradu- Family support                      Motivation Quanti
+     protective factors                             nursing, Aus-                             ate(538) & post-
+     and psychological                              tralian regional                          grad experience 
+     well-being among                               university                                (working)(7)
+     undergraduate nurs -
+     ing students
+25   Exploring college  [37]                        Management- Not mentioned                 Undergraduate  1. Digital literacy2.            1. Less stress  Quali
+     students’ tech-                                study program,                            (46) Organization guid-                         (Digital literacy 
+     nostress phenom -                              private college                           ance3. Device                                   & Acquaintances 
+     enon in using                                  of economics in                           compatibility4.                                 support)2. Frus-
+     ed-tech                                        Garut, West Java,                         Acquaintances                                   tration (Device 
+                                                    Indonesia                                 support 5. Intensive                            compatibility)3. 
+                                                                                              technology use                                  Techno-isolation 
+                                                                                                                                              -loneliness (Inten-
+                                                                                                                                              sive technology 
+                                                                                                                                              use)
+26   The relationship of  [26]                      Faculty of  19 - 23                       Medical Under- Smartphone                       Depression,  Quanti
+     smartphone addic -                             medicine, USM,                            graduate (574) addiction                        anxiety, stress and 
+     tionwith psycho-                               Malaysia                                                                                  neuroticism
+     logical distress and 
+     neuroticismamong 
+     university medical 
+     students
+27   Beyond the Buzz:  [54]                         University of  24.45                      Mix univer- Notification-dis-                   Unaffected / not  Mixed 
+     Investigating the                              Amsterdam,                                sity students &  abling                         significant method, RCT
+     Effects of aNotifi-                            Netherlands                               panel company) 
+     cation-Disabling                                                                         (205)
+     Intervention on 
+     SmartphoneBehavior 
+     and Digital Well-Being
+28   Digital distraction  [35]                      Sakarya univer- 22.75                     Mix under- Digital distractions                 lower general  Quanti
+     levels of univer-                              sity, Turkey                              graduate &  (sending instant                    satisfaction
+     sity students in                                                                         postgraduate  messages, control-
+     emergency remote                                                                         (1532) ling the clock, bore-
+     teaching                                                                                 dom, social media 
+                                                                                              posting, and system 
+                                                                                              usability scores)
+29   Factors for Sus- [49]                          11 universities in  Not mentioned         Undergraduate  1. Interaction                   Satisfaction Quanti
+     tainable Online                                Hong Kong                                 (400) between students2. 
+     Learning in Higher                                                                       Course design
+     Educationduring the 
+     COVID-19 Pandemic
+30   Technostress and  [36]                         five European  22.36                      Undergraduate  1. Techno overload2.             1. Anxiety, depres- Quanti
+     academic motiva-                               countries (Czech                          (1211) & Post- Academic motiva-                 sion & amotiva-
+     tion: direct and                               Republic,                                 graduate (330) tion3. Techno-ease,              tion (Techno 
+     indirect effects on                            Greece, Italy,                            techno-reliability,                             overload)2. 
+     university students’                           Serbia, United                            techno-sociality                                Increase intrinsic 
+     psychological health                           Kingdom)                                                                                  motivation 
+                                                                                                                                              (Techno-ease, aca-
+                                                                                                                                              demic motivation)
+31   Internet Addiction  [32]                       11 universities  Not mentioned            (270) 1. Internet addic-                        Lesser psycho- Quanti
+     and Academic Anxi-                             and colleges in                           tion2. Psychological                            logical contract 
+     ety AmongChinese                               China                                     contract (interaction                           then increased 
+     College Students                                                                         with institution)                               academic anxiety 
+     During COVID-19:                                                                                                                         (not directly 
+     TheMediating Role                                                                                                                        impacted by in-
+     of Psychological                                                                                                                         ternet addiction)
+     Contract
+32   Social Media Usage  [33]                       2 public univer- 20-31                    Undergraduate  Social media (no                 Depression Quanti
+     and Depressive                                 sities in Pakistan                        (104) & Post- specific factors on 
+     Symptoms in Uni-                                                                         graduate (26) social media)
+     versityStudents: A 
+     Correlation Study
+  
+No.   Title of articles         Author, year of      Geographical         Participants       Participants         Digital compo-            Well-being           Methods
+                                publication          distribution         Age (Average       Category (n)         nents / functional        outcomes
+                                                                          or range)                               elements
+33    Spiritual Mind-           [38]                 Private universi-    21-24              Undergraduate        Spiritual mindful-        Reducing             Quanti,  
+      fulness-Based                                  ty in Yogyakarta,                       (60)                 ness, self control skil   lNomophobia          RctInterven-
+      Intervention for                               Indonesia                                                                                                   tion - practice 
+      Nomophobia: A                                                                                                                                              of zikr + other 
+      Randomized Con-                                                                                                                                            skills
+      trolled trial
+34    “I finally felt I had     [39]                 University of        18 - >36           Undergraduate        1. Goal setting2.         More aware &         Mixed quanti 
+      the tools to control                           Oxford, UK                              (98) & Post-         Digital self-control      mindful              quali (feed-
+      these urges”:                                                                          graduate (182)       skills (time, blocking /                       back post 
+      Empowering                                                                                                  hide distraction                               workshop) 
+      Students to Achieve                                                                                                                                        open trial 
+      Their Device Use                                                                                                                                           without con-
+      Goals Withthe Re-                                                                                                                                          trol group
+      duce Digital Distrac-
+      tion Workshop
+ 
+
+Mohd Bahar et al. BMC Medical Education         (2026) 26:1146  Page 22 of 23
+Acknowledgements
+Not applicable.
+Authors' contributions
+FHMB, NSR, and MSBY substantial contributions to the design of the work; the acquisition, analysis, interpretation of data for the work; AND draft the work for important intellectual content; AND approve the final version to 
+be published; AND agree to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.NPTP, NAAN, MSI, SKA, and SAR substantial contributions to the interpretation of data for the work; AND draft the work or reviewing it critically for important intellectual content; AND approve the final version to be published; AND Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
+Funding
+This research is part of a larger project supported by the Fundamental 
+Research Grant Scheme (FRGS/1/2024/SSI09/USM/02/12), Ministry of Higher Education, Malaysia.
+Data availability
+All data generated or analysed during this study are included in this published article and its supplementary information files. This study is a scoping review based on previously published literature; therefore, no primary datasets were generated.
+Declarations
+Ethics approval and consent to participate Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare no competing interests.
+Author details
+1Department of Medical Education, Faculty of Medicine and Health Sciences, Universiti Malaysia Sabah, Kota Kinabalu, Sabah, Malaysia
+2Department of Medical Education, School of Medical Sciences, Universiti Sains Malaysia, Kota Bharu, Kelantan, Malaysia
+3Psychiatry and Psychological Health Department, Faculty of Medicine and Health Sciences, Universiti Malaysia Sabah, Kota Kinabalu, Sabah, Malaysia
+4Department of Medical Education, Faculty of Medicine, Universiti Teknologi MARA, Sungai Buloh, Selangor, Malaysia
+5Department of Medical and Health Professional Education, Faculty of Medicine, Universiti Sultan Zainal Abidin, Kuala Terengganu, Terengganu, Malaysia
+6Department of Medical Education, Faculty of Medicine and Health Sciences, Universiti Putra Malaysia, Serdang 43400, Selangor, Malaysia
+7Medical Education Unit, Faculty of Medicine and Health Sciences, Universiti Malaysia Sarawak, Kota SamarahanSarawak, Malaysia
+Received: 7 March 2026 / Accepted: 30 April 2026
+
+References
+1. Vanden Abeele, Mariek MP. Digital wellbeing as a dynamic construct. Com- munication Theory Acad oup com. 2021;31(4):932–55.  h t t p s : / / d o i . o r g / 1 0 . 1 0 9 
+3 / c t / q t a a 0 2 4 . 
+2. Arslankara VB, Demir A, Öztaş Ö, Usta E, Altıparmak AA. Digital well-being scale validity and reliability study. J Teacher Educ Lifelong Learn (TELL). 2022;4(2):263–74.
+3. Gui M, Fasoli M, Carradore R. Digital well-being. Developing a new theoretical tool for media literacy research. Italian J Sociol Educ. 2017;9(1):155–73. https:/ /doi.or g/10.14 658/ pupj-ijse-2017-1-8.
+4. Lazarenko VA, Kalutskiy PV, Dremova NB, Ovod AI. Adaptation of higher medical education to the conditions of digitalization of healthcare. Vysshee Obrazovanie v Rossii=Higher Education in Russia. 2020;29(1):105–15. Avail- able from: https:/ /vovr.e lpub.ru /jou r/arti cle/vie w/2080? loca le=en_US.  Cited 2025 Jan 17.
+5. Hsieh MC, Lee JJ. Preliminary study of VR and AR applications in medical and healthcare education. J Nurs Health Stud. 2018;3(1):1.  h t t p s : / / d o i . o r g / 1 0 . 2 1 7 6 
+7 / 2 5 7 4 - 2 8 2 5 . 1 0 0 0 3 0  . 
+6. Khan M, Mahar A. New technologies and digital literacy in education: a shift- ing paradigm. Pakistan Social Sci Rev. 2018;2(1):108–18.
+7. Burr C, Taddeo M, Floridi L. The ethics of digital well-being: a thematic review. Sci Eng Ethics. 2020;26(4):2313–43.  h t t p s : / / d o i . o r g / 1 0 . 1 0 0 7 / S 1 1 9 4 8 - 0 2 0 - 0 0 1 7 5 - 8 / F I G U R E S / 2 . PubMed PMID: 31933119.
+8. Almoallim S, Sas C. Toward research-informed design implications for inter- ventions limiting smartphone use: functionalities review of digital well-being apps. JMIR Form Res. 2022;6(4):e31730. doi:10.2196/31730 PubMed PMID: 35188897.
+9. Alshammary FM, Alhalafawy WS. Digital platforms and the improvement of learning outcomes: evidence extracted from meta-analysis. Sustainability. 2023;15(2):1305. https:/ /doi.or g/10.33 90/S U15021305.
+10. Fang X, Ng DTK, Leung JKL, Chu SKW. A systematic review of artificial intelligence technologies used for story writing. Educ Inf Technol (Dordr). 2023;28(11):14361–97.  h t t p s : / / d o i . o r g / 1 0 . 1 0 0 7 / S 1 0 6 3 9 - 0 2 3 - 1 1 7 4 1 - 5 / M E T R I CS  .  
+
+Mohd Bahar et al. BMC Medical Education         (2026) 26:1146  Page 23 of 23
+11. Pereira DSM, Falcão F, Costa L, Lunn BS, Pêgo JM, Costa P. Here’s to the future:  college students’ academic achievement corresponding author. J Educa- conversational agents in higher education- a scoping review. Int J Educ Res.  tional Psychol Res J Edu Psyc Res. 2022;4. Available from:  h t t p s : / / w w w . o p a 2023;122:102233. https:/ /doi.or g/10.10 16/J .IJER.2023.102233. s t o n l i n e . c o m .  
+12. Büchi M. Digital well-being theory and research. New Media Soc.  32.  Chen S, Wang W. Internet addiction and academic anxiety among chinese 2024;26(1):172–89.  college students during COVID-19: the mediating role of psychological 
+13. Smits M, Kim CM, van Goor H, Ludden GDS. From digital health to digital  contract. Psychol Res Behav Manag. 2023;16:3949–62.  h t t p s : / / d o i . o r g / 1 0 . 2 1 4 7 well-being: systematic scoping review. J Med Internet Res. 2022;24(4):e33787  / P R B M . S 4 2 8 59 9  . 
+https:/ /www.jm ir.org/ 2022 /4/e33787. 2022;24(4):e33787. doi:10.2196/33787  33.  Mateen M, Agha SA. Social media usage and depressive symptoms in univer- PubMed PMID: 35377328. sity students: a correlation study. Clin Counselling Psychol Rev. 2023;5(1):1–
+14. Al-Mansoori RS, Al-Thani D, Ali R, Yan Z. Designing for digital wellbeing:  16. https:/ /doi.or g/10.32 350/ ccpr.51.01.
+from theory to practice a scoping review. Hum Behav Emerg Technol.  34.  Throuvala MA, Pontes HM, Tsaousis I, Griffiths MD, Rennoldson M, Kuss 2023;2023(1):9924029. https:/ /doi.or g/10.11 55/2 023/9924029. DJ. Exploring the dimensions of smartphone distraction: development, 
+15. Sá MJ, Serpa S. COVID-19 and the promotion of digital competences in  validation, measurement invariance, and latent mean differences of the 
+education. Univers J Educational Res. 2020;8(10):4520–8.  h t t p s : / / d o i . o r g / 1 0 . 1  smartphone distraction scale (SDS). Front Psychiatry. 2021;12.  h t t p s : / / d o i . o r g / 
+3 1 8 9 / U J E R . 2 0 2 0 . 0 8 1 0 2 0  .  1 0 . 3 3 8 9 / f p s y t . 2 0 2 1 . 6 4 2 6 3 4  . 
+16. Bahar FHM, Roslan NS, Ping NPT, Yusoff MSB. Digital well-being among learn- 35.  Göl B, Özbek U, Horzum MB. Digital distraction levels of university students in ers in higher education: a scoping review protocol. Education in Medicine  emergency remote teaching. Educ Inf Technol (Dordr). 2023;28(7):9149–70. Journal. Penerbit Universiti Sains Malaysia. 2024;181–6.  h t t p s : / / d o i . o r g / 1 0 . 2 1 3  https:/ /doi.or g/10.10 07/s 10639-022-11570-y.
+1 5 / e i m j 2 0 2 4 . 1 6 . 4 . 14  .  36.  Vallone F, Galvin J, Cattaneo Della Volta MF, Akhtar A, Chua S, Ghio E, et al. 
+17. Peters MD, Godfrey, Christina, McInerney P, et al. Chapter 11: Scoping reviews.  Technostress and academic motivation: direct and indirect effects on univer-
+JBI manual for evidence synthesis. JBI Adelaide, Australia; 2020:467–73. sity students’ psychological health. Front Psychol. 2023;14.  h t t p s : / / d o i . o r g / 1 0 . 
+18. Yusoff M. Digital wellbeing in medical education. In: Conference: The webinar  3 3 8 9 / f p s y g . 2 0 2 3 . 1 2 1 1 1 3 4  . 
+on future of medical education - adaptation for medical education in the  37.  Yunita S, Susilawati S, Riniawati R, Fajriah YN. Exploring college students’ tech- post-pandemic era at University of Lahore & University College of Medicine  nostress phenomenon in using ed-tech. J Res Instructional. 2023;3(2):242–57. and Dentistry, Pakistan. University of Lahore & University College of Medicine  https:/ /doi.or g/10.30 862/ jri.v3i2.280.
+and Dentistry, Pakistan; 2020. 38.  Safaria T, Arini DP, Saputra NE. Spiritual mindfulness-based intervention 
+19. Landis JR, Koch GG. The measurement of observer agreement for categorical  for nomophobia: a randomized controlled trial. Islamic Guidance Couns J. 
+data. Biometrics. 1977;33(1):159. doi:10.2307/2529310 PubMed PMID: 843571. 2023;6(2). https:/ /doi.or g/10.25 217/ 0020236404400.
+20. Tricco AC, Lillie E, Zarin W, O’Brien KK, Colquhoun H, Levac D, et al. PRISMA 39.  Lyngs U, Lukoff K, Slovak P, Inzlicht M, Freed M, Andrews H et al. I finally felt i extension for scoping reviews (PRISMA-ScR): Checklist and explanation. Ann  had the tools to control these urges: empowering students to achieve their 
+Intern Med. 2018;169(7):467–73.  h t t p s : / / d o i . o r g / 1 0 . 7 3 2 6 / M 1 8 - 0 8 5 0 / S U P P L _ F I  device use goals with the reduce digital distraction workshop. in: conference 
+L E/. M18-0850_SUPPLEMENT.PDF PubMed PMID: 30178033. on human factors in computing systems - proceedings. association for 
+21. Naeem M, Ozuem W, Howell K, Ranfagni S. A step-by-step process of  computing machinery; 2024. https:/ /doi.or g/10.11 45/3 613904.3642946.
+thematic analysis to develop a conceptual model in qualitative research. Int J  40.  Ahmadi M, Madadizadeh F, Aghda MA, Khodayarian M. Designing and 
+Qual Methods. 2023;22.  h t t p s : / / d o i . o r g / 1 0 . 1 1 7 7 / 1 6 0 9 4 0 6 9 2 3 1 2 0 5 7 8 9 / ASS E T /  implementing virtual education course of media literacy for medical sciences 
+E 3 5 7 F D 5 3 - F 4 1 B - 4 C 1 4 - 9 E 5 F - 7 B 0 D 7 D E 0 7 1 81/ A S S E T S / I M A G E S / L A R G E / 1 0 . 1 1 7 7  students: an experimental study. J Health Lit. 2021;6(3):32–46.  h t t p s : / / d o i . o r g / 
+_ 1 6 0 9 4 0 6 9 2 3 1 2 0 5 7 8 9 - F I G 2 . JP G  .  1 0 . 2 2 0 3 8 / j hl . 2 0 2 1 . 5 9 6 4 0 . 1 1 77  . 
+22. Dai C, Tai Z, Ni S. Smartphone use and psychological well-being among  41.  An N, Vesty G, Cheong C. Defining digital wellbeing literacy in remote work college students in China: a qualitative assessment. Front Psychol. 2021;12.  integrated learning. Australasian J Inform Syst. 2023;27.  h t t p s : / / d o i . o r g / 1 0 . 3 1 2 https:/ /doi.or g/10.33 89/f psyg.2021.708970. 7 / A J I S . V 2 7 I 0 . 3 9 6 9  . 
+23. Sserunkuuma J, Kaggwa MM, Muwanguzi M, Najjuka SM, Murungi N, Kajjimu 42.  Zaky YAM. Chatbot positive design to facilitate referencing skills and improve 
+J, et al. Problematic use of the internet, smartphones, and social media  digital well-being. Int J Interact Mob Technol. 2023;17(9):106–26.  h t t p s : / / d o i . o among medical students and relationship with depression: an exploratory  r g / 1 0 . 3 9 9 1 / i j i m . v 1 7 i 0 9 . 3 8 3 9 5  . 
+study. PLoS ONE. 2023;18(5 May).  h t t p s : / / d o i . o r g / 1 0 . 1 3 7 1 / j o ur n a l . p o n e . 0 2 8 6 4  43.  Martzoukou K, Kostagiolas P, Lavranos C, Lauterbach T, Fulton C. A study of 
+2 4. PubMed PMID: 37235547. university law students’ self-perceived digital competences. J Librariansh 
+24. Abreu C, Campos PF. Raising awareness of smartphone overuse among  Inform Sci. 2022;54(4):751–69. https:/ /doi.or g/10.11 77/0 9610006211048004. university students: a persuasive systems approach. Informatics. 2022;9(1).  44.  Martzoukou K, Luders ES, Mair J, Kostagiolas P, Johnson N, Work F, et al. A https:/ /doi.or g/10.33 90/i nformatics9010015. cross-sectional study of discipline-based self-perceived digital literacy com-
+25. Dutt B. Wellbeing amid digital risks: implications of digital risks, threats, and  petencies of nursing students. J Adv Nurs. 2024;80(2):656–72.  h t t p s : / / d o i . o r g / scams on users’ wellbeing. Media Commun. 2023;11(2):355–66.  h t t p s : / / d o i . o r  1 0 . 1 1 1 1 / j a n . 1 5 8 0 1 . PubMed PMID: 37489586.
+g / 1 0 . 1 7 6 4 5 / m a c . v 1 1 i 2 . 6 4 8 0  .  45.  Deng X, Yang Z. Digital proficiency and psychological well-being in online 
+26. Lei LYC, Al-Aarifin Ismail M, Mohammad JAM, Bahri Yusoff MS. The relation- learning: Experiences of first-generation college students and their peers. Soc ship of smartphone addiction with psychological distress and neuroticism  Sci. 2021;10(6). https:/ /doi.or g/10.33 90/s ocsci10060192.
+among university medical students. BMC Psychol. 2020;8(1).  h t t p s : / / d o i . o r g / 1  46.  Wang Q, Jing S, Goel AK, Co-Designing AI. Agents to support social con-
+0 . 1 1 8 6 / s 4 0 3 5 9 - 0 2 0 - 0 0 4 6 6 - 6  . PubMed PMID: 32917268. nectedness among online learners: functionalities, social characteristics, and 
+27. Meier A. Studying problems, not problematic usage: Do mobile checking  ethical challenges. In: DIS 2022 - proceedings of the 2022 ACM Designing 
+habits increase procrastination and decrease well-being? Mob Media Com- interactive systems conference: digital wellbeing. association for computing 
+mun. 2022;10(2):272–93. https:/ /doi.or g/10.11 77/2 0501579211029326. machinery, Inc; 2022:541–56. https:/ /doi.or g/10.11 45/3 532106.3533534.
+28. Monge Roffarello A, De Russis L. Teaching and learning digital wellbeing.  47.  Petchamé J, Iriondo I, Azanza G. Seeing and being seen or just seeing in 
+Future Generation Comput Syst. 2023;149:494–508.  h t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 /j .  a smart classroom context when videoconferencing: a user experience-
+f u t u r e . 2 0 2 3 . 0 8 . 0 0 3  .  based qualitative research on the use of cameras. Int J Environ Res Public 
+29. Al-Kumaim NH, Alhazmi AK, Mohammed F, Gazem NA, Shabbir MS, Fazea Y.  Health. 2022;19(15). https:/ /doi.or g/10.33 90/i jerph19159615. PubMed PMID: Exploring the impact of the covid-19 pandemic on university students’ learn- 35954978.
+ing life: an integrated conceptual motivational model for sustainable and  48.  Tripon C, Gonța I, Bulgac A. Nurturing minds and sustainability: an explora- healthy online learning. Sustain (Switzerland). 2021;13(5):1–21.  h t t p s : / / d o i . o r g  tion of educational interactions and their impact on student well-being and 
+/ 1 0 . 3 3 9 0 / s u 1 3 0 5 2 5 4 6  .  assessment in a sustainable university. Sustain (Switzerland). 2023;15(12). 
+30. Yildiz Durak H, Şimşir Gökalp Z, Seki T, Saritepeci M, Dilmaç B. Examination  https:/ /doi.or g/10.33 90/s u15129349.
+of non-cognitive variables affecting academic achievement: a conceptual  49.  Chu AMY, Liu CKW, So MKP, Lam BSY. Factors for sustainable online learning model proposal. Qual Quant. 2023;57(6):4985–5006.  h t t p s : / / d o i . o r g / 1 0 . 1 0 0 7 / s  in higher education during the COVID-19 pandemic. Sustain (Switzerland). 
+1 1 1 3 5 - 0 2 2 - 0 1 5 8 0 - w .  2021;13(9). https:/ /doi.or g/10.33 90/s u13095038.
+31. Nouhi E, Avaznia A, Shoraka HR. The analysis of psychological aspects of  50.  He FX, Turnbull B, Kirshbaum MN, Phillips B, Klainin-Yobas P. Assessing stress, online education: depression and happiness and their relationship with  protective factors and psychological well-being among undergraduate 
+nursing students. Nurse Educ Today. 2018;68:4–12.  h t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 /j . n  engagement. Int J Educational Technol High Educ. 2024;21(1):1–20.  h t t p s : / / d 
+e d t . 2 0 1 8 . 0 5 . 0 13 . PubMed PMID: 29870871. o i . or g / 1 0 . 1 1 8 6 / S 4 1 2 3 9 - 0 2 3 - 0 0 4 3 7 - Y / T A B L E S/6  . 
+51. Alhalafawy WS, Najmi AH, Zaki MZT, Alharthi MA. Design an adaptive  63.  Zakir S, Hoque ME, Susanto P, Nisaa V, Alam MK, Khatimah H, et al. Digital mobile scaffolding system according to students’ cognitive style simplicity  literacy and academic performance: the mediating roles of digital infor- vs complexity for enhancing digital well-being. Int J Interact Mob Technol.  mal learning, self-efficacy, and students’ digital competence. Front Educ 2021;15(13):108–27. https:/ /doi.or g/10.39 91/i jim.v15i13.21253. (Lausanne). 2025;10:1590274.  h t t p s : / / d o i . o r g / 1 0 . 3 3 8 9 / F E D U C . 2 0 2 5 . 1 5 9 0 2 
+52. Sekelová I, Korba P, Koščáková M, Al-Rabeei S. Digital well-being and satisfac- 7 4 / B I B T EX  .  
+tion of university students with online education. EAI/Springer innovations  64.  Tao X, Hanif H, Lieqin W. The effects of self-regulated learning strategies on 
+in communication and computing. Springer Science and Business Media  academic procrastination and academic success among college EFL students Deutschland GmbH; 2023. pp. 35–51.  h t t p s : / / d o i . o r g / 1 0 . 1 0 0 7 / 9 7 8 - 3 - 0 3 1 - 2 8 2  in China. Front Psychol. 2025;16:1562980.  h t t p s : / / d o i . o r g / 1 0 . 3 3 8 9 / F P S Y G . 2 0 2 5 
+2 5 - 6 _ 3  .  . 1 5 6 2 9 8 0 / B I B TE X  . 
+53. Biedermann D, Kister S, Breitwieser J, Weidlich J, Drachsler H. Use of digital  65.  Faza A, Lestari IA. Self-regulated learning in the digital age: a systematic self-control tools in higher education – a survey study. Educ Inf Technol  review of strategies, technologies, benefits, and challenges. Int Rev Res Open (Dordr). 2024;29(8):9645–66. https:/ /doi.or g/10.10 07/s 10639-023-12198-2. Distrib Learn. 2025;26(2):23–58. https://doi.org/10.19173/ IR RODL .V26I 2.8119.
+54. Dekker CA, Baumgartner SE, Sumter SR, Ohme J. Beyond the buzz: investi- 66.  Mensah C, Kugbonu MA, Appietu ME, Nti GA, Forson MA. Social support, gating the effects of a notification-disabling intervention on smartphone  computer self-efficacy, online learning engagement and satisfaction among behavior and digital well-being. Media Psychol. 2024.  h t t p s : / / d o i . o r g / 1 0 . 1 0 8 0  undergraduate hospitality students. Cogent Educ. 2024;11(1).  h t t p s : / / d o i . o r g / / 1 5 2 1 3 2 6 9 . 2 0 2 4 . 2 3 3 4 0 2 5  .  1 0 . 1 0 8 0 / 2 3 3 1 1 86  . X.2024.2335803;CTYPE:STRING:JOURNAL.
+55. Lister K, Riva E, Kukulska-Hulme A, Fox C. Participatory digital approaches to  67.  Wijaya TT, Yu B, Xu F, Yuan Z, Mailizar M. Analysis of factors affecting academic embedding student wellbeing in higher education. Front Educ (Lausanne).  performance of mathematics education doctoral students: a structural equa - 2022;7. https:/ /doi.or g/10.33 89/f educ.2022.924868. tion modeling approach. Int J Environ Res Public Health. 2023;20(5):4518. 
+56. Li X, Matar Hasan Alharbi W. Impact of digital feedback, self-efficacy, and  https:/ /doi.or g/10.33 90/i jerph20054518. PubMed PMID: 36901528. autonomy on motivation and general english performance in online courses.  68.  Ifenthaler D, Cooper M, Daniela L, Sahin M. Social anxiety in digital learning Learn Motiv. 2025;90:102121. https:/ /doi.or g/10.10 16/J .LMOT.2025.102121. environments: an international perspective and call to action. Int J Educa-
+57. Kristensen SM, Larsen TMB, Urke HB, Danielsen AG, Academic, Stress.  tional Technol High Educ. 2023;20(1):1–18.  h t t p s : / / d o i . o r g / 1 0 . 1 1 8 6 / S 4 1 2 3 9 - 0 2 Academic self-efficacy, and psychological distress: a moderated mediation of  3 - 0 0 4 1 9 - 0 /T A B L E S/5  . 
+within-person effects. J Youth Adolesc. 2023;52(7):1512–29.  h t t p s : / / d o i . o r g / 1 0  69.  Van Der Linden M. Commentary on: Are we overpathologizing everyday . 1 0 0 7 / S 1 0 9 6 4 - 0 2 3 - 0 1 7 7 0 - 1 /. METRICS PubMed PMID: 36995523. life? A tenable blueprint for behavioral addiction research. Addictions as a 
+58. Ryan RM, Deci EL. Self-Determination Theory. Encyclopedia of quality of life  psychosocial and cultural construction. J Behav Addict. 2015;4(3):145–7.  
+and well-being research. 2023;6229–35.  h t t p s : / / d o i . o r g / 1 0 . 1 0 0 7 / 9 7 8 - 3 - 0 3 1 - 1  h t t p s : / / d o i . or g / 1 0 . 1 5 5 6 / 2 0 0 6. 4.2015.025 PubMed PMID: 26551902.
+7 2 9 9 - 1 _ 2 6 3 0  .  70.  Rohde J, Marciniak MA, Henninger M, Homan S, Ries A, Paersch C et al. Effects 
+59. Wang X, Zhang R, Wang Z, Li T. How does digital competence preserve  of a digital self-efficacy training in stressed university students: a randomized university students’ psychological well-being during the pandemic? An  controlled trial. PLoS One. 2024;19(10).  h t t p s : / / d o i . o r g / 1 0 . 1 3 7 1 / J O U R N A L . P O investigation from self-determined theory. Front Psychol. 2021;12:652594.   N E . 0 3 0 5 1 0 3. PubMed PMID: 39480821.  h t t p s : / / d o i . o r g / 1 0 . 3 3 8 9 / F P S Y G . 2 0 2 1 . 6 5 2 5 9 4. /FULL PubMed PMID: 33967915. 71.  Wijaya TT, Rahmadi IF, Chotimah S, Jailani J, Wutsqa DU. A Case study of 
+60. Rosli MS, Saleh NS, Md. Ali A, Abu Bakar S. Self-determination theory and  factors that affect secondary school mathematics achievement: teacher-
+online learning in university: advancements, future direction and research  parent support, stress levels, and students’ well-being. Int J Environ Res Public gaps. Sustain (Switzerland). 2022;14(21).  h t t p s : / / d o i . o r g / 1 0 . 3 3 9 0 / S U 1 4 2 1 1  Health. 2022;19(23):16247. https: //d oi. or g/10 .33 90/ijerph192316247. PubMed 
+4 6 5 5  .   PMID: 36498321.
+61. Zhang H. Cognitive load as a mediator in self-efficacy and English 
+learning motivation among vocational college students. PLoS ONE. 
+2024;19(11):e0314088. 10.1371/. JOURNAL.PONE.0314088 PubMed PMID:  Publisher’s note
+39570816. Springer Nature remains neutral with regard to jurisdictional claims in 
+62. Getenet S, Cantle R, Redmond P, Albion P. Students’ digital technology  published maps and institutional affiliations.
+attitude, literacy and self-efficacy and their effect on online learning 
