@@ -1,0 +1,269 @@
+﻿JOURNAL OF MORAL EDUCATION                      
+2024, VOL. 53, NO. 3, 592—607  
+https://doi.org/10.1080/03057240.2023.2268298 
+
+Enhancing moral sensitivity in the aftermath of academic misconduct: Results from a quasi-experimental  eld study
+Jason M. Stephens a  and Tricia Bertram Gallant b
+aFaculty of Education and Social Work, The University of Auckland, Auckland, New Zealand; bAcademic Integrity O ce,  University of California, San Diego, CA, USA
+
+ABSTRACT
+Most secondary  and  postsecondary  institutions  take  a behavioral approach  in  dealing  with  student  cheating punishing  those caught  with  grade  reductions  and/or  suspensions.  While some form of punishment  may  be  necessary,  it is not  su cient.  As an instantiation  of negative  morality, academic  misconduct  o ers  an opportunity  for moral education.  The present  investigation  builds on the literature  related  to developmental  approaches  in respond - ing to  academic  misconduct.  It does  so by describing  theoretical underpinnings  and  instructional  design  of  a  developmental approach  (Intervention),  as  well  as  results  from  a  quasi- experimental  study  of its e ects  on  moral sensitivity. Participants (N = 798) included university students who had been found respon - sible for academic  misconduct  and completed  the Intervention.  As hypothesized,  participants  not only reported  greater  attentiveness to moral issues after completing the Intervention, they also demon - strated  greater  awareness  of the  moral values related  to academic misconduct.  The implications  and  limitations of these  ndings  are discussed.
+ARTICLE HISTORY Received 15 December 2022  Accepted 3 October 2023 
+KEYWORDS 
+Academic misconduct; moral functioning; moral sensitivity; developmental approaches
+
+In a 1996 edition of the Journal of Moral Education, Oser (1996) posited that educational institutions were not capitalizing on what he called  negative morality  or  negative moral knowledge  as an opportunity for students  moral development.  [N]egative moral knowl- edge  can be acquired directly through personal engagement in misconduct (e.g., bully- ing, cheating, lying, stealing) but  also vicariously by seeing or  hearing  about  the consequences of negative actions committed by others. This  negative moral knowledge  is, of course, opposite of positive moral knowledge in which we focus on the good things that people do and the rewards that follow. While both can be powerful learning tools, Oser argued that educational institutions seemed to have shied away from the learning power of  negative morality .
+Oser s (1996) claim still holds true today, at least in the arena of academic misconduct. The typical response to academic misconduct (e.g., cheating and plagiarism) is almost always strictly punitive (e.g., grade reduction and/or suspension). Although some form of 
+CONTACT Jason M. Stephens  jm.stephens@auckland.ac.nz  Faculty of Education and Social Work, The University of Auckland, Private Bag 92601, Auckland 1150, New Zealand
+'  2023 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.  
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License (http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any med- ium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+
+607 J. M. STEPHENS AND T. BERTRAM GALLANT
+punishment  may be warranted,  it is when  delivered alone with no  opportunity  for structured reflection and learning insufficient and contraindicated (Bertram Gallant & Stephens, 2020). From a cognitive-development perspective, emphasizing  punishment and obedience  or  law and order  for university students is regressive and unlikely to stimulate moral growth (Kohlberg & Hersh, 1977). In contrast, Oser hypothesized that negative moral experience responded to with opportunities  to learn from it  leads to higher sensitivity to moral and social problems  (p. 72).
+In this study, we focus on an educational intervention  (Intervention  hereafter) that was designed to leverage learning from a moral mistake. Specifically, the Intervention was designed to develop students  moral functioning (e.g., Rest et al., 1999) particularly their moral sensitivity in the aftermath of being found responsible for academic mis- conduct. Broadly speaking, moral sensitivity is concerned with awareness of how our actions affect other people (Bebeau et al., 1999). While Narvaez and Endicott (2009) have operationalized moral (or ethical) sensitivity as comprising seven skills (e.g., reading and expressing emotions,  taking  the  perspective of others,  preventing  social bias), the Intervention  focuses on enhancing the recognition and ascription of importance to the moral values (e.g., honesty, respect, responsibility, fairness, and trustworthiness) at stake, or in conflict, in a particular situation. As previously argued (e.g., Stephens & Wangaard,  2016), developing moral sensitivity is critical because failure to perceive a situation as presenting a moral problem makes it difficult, if not impossible, to render a principled judgment and be moved to act in accordance with it.
+Leveraging moral mistakes for learning
+Oser s call for learning from negative moral experiences (or  moral mistakes ) has been echoed by other  researchers who study errors  at work (e.g., Harteis  & Bauer, 2014; Stevenson & Stigler, 1992). The common thread in the literature is that moral mistakes can be leveraged for changing patterns of thinking and behavior if there is a  culture of mistakes  within  the  organization  or  institution.  Such a culture  defines mistakes as normal  and helping people learn from them as critical to furthering  personal growth and development and to building cultures in which the negative impacts from errors do not fester and spread.
+In making these arguments, Oser and others have (often implicitly) applied Kolb s (1984) experiential learning theory to the theory of moral development. Kolb s work suggested that  the most powerful learning comes not  from reading or hearing about others  experiences, but through personal experience combined with the opportunity for reflection, conceptualization, and experimentation. This idea of learning from experience is constructivist in nature, positing that people best construct meaning from their own experiences, and that negative experiences are particularly powerful for learning because they cause a dissonance that needs to be reconciled (Bertram Gallant, 2020; Mezirow,  1997).
+The present  study took place at a university that  defines academic misconduct  as a mistake that can be leveraged for learning. This focus on a student s actions as a mistake is meant to emphasize that many students do not intentionally violate standards or ethics but do so because they lack the knowledge or skill needed to achieve with integrity (e.g., Bertram  Gallant, 2020; Bertram  Gallant & Stephens, 2020; East, 2010; Jamieson & Howard, 2019). When students at this university accept responsibility for such a mistake, or they are held responsible by a hearing board,  their  learning is facilitated through several different structured  opportunities  that  are assigned according  to  the  type of mistake that occurred.
+The Intervention
+The Intervention  was grounded  primarily  in  neo-Kohlbergian  conceptions  of moral functioning  (Rest et al., 1999), which posits that  effective moral functioning  involves the  integrated  use of at least four  processes: sensitivity (the  ability to  perceive and interpret the moral issues or values inherent in a given situation), judgment (the capacity to deliberate or reason through  a given dilemma to determine  the morally principled course of action), motivation (the desire to prioritize morality above other values and commit to acting in ways consonant with one s judgment), and character/implementa - tion  (a constellation of abilities needed to stay the course and  implement  the moral course of action). As suggested by the word  integrated,  the four components act as an  ensemble of processes  and the failure to act morally may result from a deficiency in any one of them (Narvaez & Rest, 1995, p. 387).
+In keeping with Kohlbergian approaches to moral education, the Intervention  used dilemma discussions, role-plays, and other techniques to help students all of whom had recently been responsible for academic misconduct learn  from their  moral mistake. These pedagogical activities took place in-person  over several weeks, totaling approxi- mately seven hours of learning. First, students completed a pre-assessment and wrote a reflection about their moral mistake. This was followed by a 20-minute peer-to-peer meeting to discuss the  reflection and  prepare  for the learning experience. Then,  the students attended four class meetings (along with 20—50 other students), which included two hours  of instruction  in  ethical decision-making  (facilitated by an  instructor). Students  completed  assignments  before attending  meetings 2—4, which formed  the basis of one-and-a-half-hours  of peer-facilitated discussions (in groups of 5) about how to recognize and prioritize ethical values in future situations.
+Students also received feedback on their assignments during  these discussions. For example, one  of the  assignments  asked students  to  use an  ethical decision-making framework to analyze and write about an ethical dilemma they were experiencing, and then share that analysis with their small group. Consistent with Narvaez and Endicott s (2009) suggestions for enhancing moral or ethical sensitivity, students were instructed to address several questions  related to  noticing  the  problem,  stating  the  situation,  and identifying the interested parties.1  After the Intervention,  students were asked to com- plete a post-assessment.
+The present investigation
+The present  quasi-experimental  field study sought  to  test the  potential  effects of an intervention  designed to enhance participants  moral sensitivity. We chose to focus on moral sensitivity (and not other components of moral functioning) for several reasons. First, while the Intervention was likely to affect the other three components, most of the discussions and assignments centered or depended on perceiving and interpreting  aca- demic misconduct as a moral situation.
+Second, previous research has found that students who fail to see academic miscon- duct as a moral situation are more likely to cheat (e.g., McDonald et al., 2014; Schab,  1991; Stephens, 2018). For example, Stephens (2018) found that compared to students who categorized unpermitted  collaboration  and  plagiarism as a  personal choice  or  social convention  (i.e., wrong only because school rules say so), students who perceived those behaviors to be  morally wrong  were significantly less likely to report engagement in them.
+Third, and finally, previous research has shown that educational interventions can be effective in increasing moral/ethical sensitivity in numerous disciplines, such as account- ing (e.g., Taylor, 2013), dentistry (e.g., Bebeau & Brabeck, 1987), military training (Seiler et al., 2010) and nursing (e.g., Uncu & G ne ,  2021). However, none of these studies (or any we could find)  had  assessed the  effects of an  intervention  on  moral  sensitivity delivered in the aftermath of a moral mistake like academic misconduct. Nonetheless, based on this previous research and Oser s (1996) hypothesis, we believed that comple- tion of the Intervention would be associated with enhanced moral sensitivity. Specifically, we hypothesized that after completing the Intervention participants would:
+(a) report significantly higher  levels of perceptual  moral  attentiveness  (H1) and reflective moral attentiveness (H2); and
+(b) demonstrate significant increases in implicit moral awareness (H3) and explicit moral awareness (H4).
+Methods
+To assess the  potential  effects of the  Intervention  on  participants   moral  sensitivity, a quasi-experimental (single group, pre-posttest) research design was employed.
+Participants
+The final sample of participants  (N = 798) included  491 (61.5%) males, 306 (38.3%) females, and  1 (0.1%) gender  diverse student;  125 (15.7%) Freshmen,  169 (21.2%) Sophomores, 198 (24.8%) Juniors, 179 (22.4%) Seniors, 68 (8.5%) fifth year students, and 59 (7.4%) graduate students; and 356 (44.6%) students who indicated that they had attended secondary school outside the United States.
+Procedures
+The final sample of participants described above was derived from a larger population (N = 1,134) of students who were responsible for engaging in some form of academic misconduct  (e.g., plagiarism, cheating, collusion) and  subsequently enrolled  in  the Intervention.  The data  comes from  the  pre-  and  post-assessment  that  the  university assigned to all students enrolled in the Intervention. Students were required to complete the pre-assessment before starting the Intervention (Time 1; T1 hereafter), and the post- assessment shortly after completion (Time 2; T2 hereafter). Both assessments were the same and  administered  online (via SurveyMonkey), but  the post-assessment was not required. Of the 336 students  (29.6%) who were removed from the final sample, 305 (26.9%) were eliminated because they did not complete the T2 assessment and 31 (2.7%) because one or both of their assessments had significant amounts of missing or invalid 
+data.2
+Measures
+As detailed below, a mix of existing measures were employed to assess changes in partici- pants  moral attentiveness and awareness. While moral or ethical sensitivity has typically been assessed with self-report questionnaires  using Likert-type response scales (e.g., Maxwell et al., 2021), we also wanted to incorporate the use of constructed or open response questions that require participants to demonstrate moral sensitivity. The latter can be more challenging and time-consuming for participants to complete, but they are also less suscep- tible to social desirability bias. We were especially interested in assessing implicit moral awareness as previous research suggests that many unethical acts take place without the conscious awareness of the actor (Banaji et al., 2003). We decided to use a word-fragment completion task, which has been shown to assess implicit cognitive processes (e.g., Bassili & Smith, 1986). Gino and Bazerman (2009) developed such a task for their study on unethical behavior and we ve adopted it here to test if participants  implicit thought  processes (as assessed by their choice of words) may have been affected by the Intervention.
+Moral attentiveness
+An existing measure (adapted  from Reynolds, 2008) was used to assess the extent to which participants  noticed and  thought  about  the morality of their  circumstances or actions. Specifically, participants  used a seven-point scale (1 = Strongly disagree to 7 =  Strongly agree) to respond to eight items that assessed two types of moral attentiveness (MA): Perceptual MA (4 items; T1    = .86, T2    = .86), which included items such as,  In a typical day, I face several ethical dilemmas  and  I frequently encounter ethical situa- tions ; and Reflective MA (4 items; T1    = .81, T2    = .80), which included items such as,  I think about the morality of my actions almost every day  and  I often reflect on the moral aspects of decisions. 
+Implicit moral awareness
+A measure developed by Gino and Bazerman (2009) was adapted to assess participants  implicit moral awareness (i.e., the extent to which moral values or principles were more readily  activated  or  accessible than  equally valid non-moral  words  or  concepts). Specifically, participants  were presented  with word  fragments  and  asked to  replace missing spaces with letters to form complete words. This word-completion task consisted of seven items, four of which could form words related to morality:
+(1) C A _ _(CARE as opposed to CAPE, CARP, CART, etc.)
+(2) _ _ R P
+(3) G _ E _ T
+(4) _ _ RAL(MORAL as opposed to MURAL, CORAL, RURAL, etc.)
+(5) _I_ _ UE(VIRTUE as opposed to TISSUE, BISQUE, RISQUE, etc.)
+(6) S_ _S_ _
+(7) E_ _ _C_ _(ETHICAL as opposed to EFFECTS, EFFACED, etc.)
+Participants received a score  1  for each of the four moral-related words they spelled, which were subsequently summed to create a single variable (range = 0 to 4). As reported in  Gino  and  Bazerman (2009), the  inter-rater  reliability coefficient for the  original measure was 0.99. In the present study, the reliability was 1.00; that is, the two raters had 100% agreement that the four words being scored  1  (i.e., care, moral, virtue and ethical) were related to the moral domain, while other words being scored  0  (e.g., cape, mural, tissue, and effects) were not related to morality or ethics.
+Explicit moral awareness
+To  assess  participants   moral  awareness  in  a  more  explicit  manner,  we  used a hypothetical vignette adapted from Stephens and Wangaard (2016). The vignette was designed to present participants  with a moral dilemma a  situation wherein an agent (Laura, in this case) has moral reasons for taking two distinct actions, but cannot do both actions  (McConnell, 2022). Specifically, participants  were asked to  read  the  vignette below and  then  to  describe the moral/ethical  values or  principles . . . present  in the situation. 
+Laura and Her Friend 
+Laura is really smart and her classmates know it. Her reputation, however, sometimes causes unwelcome attention and difficult choices. Here s an example: After taking a midterm test, one of Laura s friends starts grilling her about it. The friend is taking the midterm  later that day and she wants Laura to tell her all of the test questions and answers that she can remember. Laura feels torn and doesn t know what to do.
+The authors used both inductive and deductive thematic analysis the  latter rooted in the  fundamental  values of academic integrity  (International  Center  for Academic Integrity  [ICAI], 2021) and  moral  foundations  theory  (Haidt,  2013) to  create an original coding scheme consisting of eight moral or ethical values (e.g., fairness, honesty, loyalty). Each value was coded (0 = absent or  1 = present) based on  its inclusion  or expression in the participants  responses. Inter-rater agreement was assessed by calculat- ing Cohen s (1960)    on a random  subset of the data (40 responses) that the authors classified independently  with results indicating  strong  or  almost perfect  agreement (range of   = .86 to 1.00; McHugh, 2012). Please see Appendix for details of the coding scheme, including examples and kappa statistics for each code.
+Data analyses
+Confirmatory factor analysis (CFA) was used to confirm the structure and fit of the two- factor measurement  model for moral attentiveness. Based on recommendations  by Hu and Bentler (1999) and Ullman and Bentler (2003), normed chi-square values and several other indices were used to determine model fit, where   2/df < 5.0, CFI > .90, TLI > .90, RMSEA < .08, and SRMR < .08 constituted an  acceptable  fit. To ensure that the latent constructs were measured equivalently across the two time points, multigroup  confir- matory  factor analysis (MGCFA) was employed to  test for measurement  invariance. Based on recommendations  by Chen (2007), change in CFI, RMSEA, and SRMR values were used to determine the level of invariance achieved:  CFI of < .010 and  RMSEA of  < .015 for each successive level (i.e., metric, scalar, and residual), and  SRMR of <.030 for metric invariance and <.015 for scalar or residual invariance.
+Finally, to test study hypotheses, both frequentist (e.g., repeated measures ANOVA and  paired-samples  z-test  of proportions)  and  Bayesian statistical techniques  were employed. With respect to the latter, BF10  scores (i.e., the Bayes factor in favor of the alternative over the  null  hypothesis)  were calculated, where BF10  values >150 = very strong evidence against the null hypothesis, 20—150 = strong evidence, 3—20 = positive evidence, and 1—3 = anecdotal evidence  not worth more than a bare mention  (Kass & Raftery, 1995, p. 777). All frequentist statistical analyses were conducted using SPSS and AMOS (Version  26), and  all Bayesian statistical analyses were conducted  in  JASP (Version 0.16.4).
+Results
+Results from the CFA and MGCFA are reported first, followed by results pertaining to the hypotheses tested.
+Con rmatory  factor analyses
+CFA was used to  test the  validity of the  two-factor  measurement  model  for moral attentiveness at Time 1 (T1) and Time 2 (T2). The data at both time points offered an 
+acceptable fit to the model:   2/df = 4.42, CFI = .983, TLI = .974, RMSEA = .049 (90%CI = .040—.059), and  SRMR = .050 at T1; and   2/df = 2.99, CFI = .981, TLI = .971, RMSEA  
+= .051 (90%CI = .037—.064), and SRMR = .051 at T2. Table 1 provides a summary of the factor items, loadings, and alphas at both time points. Except for item 4 on reflective moral  attentiveness, all factor loadings were good to  excellent (range = .71 to  .88). Similarly, the Cronbach s alpha values for all four factors were also good (range = .80 to .88).
+MGCFA was conducted to test (progressively) the metric, scalar, and residual invar- iance of the two-factor measurement model across time. As detailed in Table 2, based on change ( )  in CFI, RMSEA, and SRMR values, the model demonstrated  strict  invariance 
+Table 1. Factors, items, and loadings for moral attentiveness by time.
+ Factor/Item                                                                         Loading Time 1             Loading Time 2
+ Perceptual Moral Attentiveness                                                      .74 .78 .88 .71 (.86)      .79 .83 .86 .75 (.88)
+ 1. In a typical day, I face several ethical dilemmas.                               .77 .83 .73 .52 (.81)      .79 .80 .65 .58 (.80)
+ 2. I regularly face decisions that have signi cant ethical implications.
+ 3. My life has been  lled with one moral predicament after another.
+ 4. I frequently encounter ethical situations.
+ (Cronbach s alpha)
+ Re ective Moral Attentiveness
+ 1. I regularly think about the ethical implications of my decisions.
+ 2. I think about the morality of my actions almost every day.
+ 3. I often re ect  on the moral aspects of my decisions.
+ 4. I like to think about ethics.
+ (Cronbach s alpha)
+N = 798. Loadings are standardised beta weights.
+Table 2. Results from tests of measurement invariance for moral attentiveness based on time.
+Model CFI RMSEA SRMR CFI   RMSEA   SRMR Decision
+Unconstrained .953 .067 .046 — — — — Metric Invariance .952 .063 .048 .001 .004 .002 Accept Scalar Invariance .949 .063 .053 .003 .000 .005 Accept Residual Invariance .943 .062 .057 .006 .001 .004 Accept
+N = 798.
+(i.e., equivalence of residuals). As only  strong  invariance (i.e., metric and scalar equiva- lence) is required to allow comparison of latent factor means across time, we proceeded as planned with hypothesis testing.
+Tests of hypotheses
+As hypothesized,  results  indicated  statistically significant increases over  time  on all  four  of  the  measures  related  to  moral  sensitivity.  As  detailed  in  Table  3, participants  reported  greater  perceptual  and  reflective moral  attentiveness  and demonstrated  greater  implicit and  explicit moral  awareness. As indicated,  all the differences were  statistically significant  (all  p-values < .001); however,  given  the large samples, even small changes in  mean  values can  achieve statistical signifi- cance. Accordingly, partial eta-squared  values and  Bayes Factors were also exam- ined  to  determine  the  magnitude  of observed differences and  probability that  T1 and  T2  means  were  different.  With  respect  to  the  former,  the  increases  in perceptual moral  attentiveness and  explicit moral  awareness were large in  magni-
+tude  (  2 = .290  and  .281,  respectively), while  the  increases  in  reflective moral attentiveness  and  implicit  moral  awareness  were  small  and  medium  (  2 = .025 
+and  .084, respectively).
+Similarly, the BF10 values for perceptual moral attentiveness and explicit and implicit moral awareness were much larger than  150, indicating  very strong evidence  for the hypothesis that their T1 and T2 means were different. In contrast, BF10 value for reflective moral attentiveness was only 2.80, indicating  anecdotal evidence  for the hypothesis. Finally, examination  of the  95% Credible Intervals of the  T1 and  T2 distributions provides further evidence of the foregoing results except reflective moral attentiveness, 
+Table 3. Descriptive statistics for moral awareness and  attentiveness by time with results from frequentist and Bayesian repeated measures ANOVA.
+Time 1 Time 2
+ n Mean SD 95% CI Mean SD 95% CI F-value Partial ƞ2 BF10
+Moral Attentiveness
+Perceptual 798 3.60 1.22 3.52—3.69 4.30 1.22 4.21—4.38325.47*** .290 2.355    10+34
+Re ective 798 4.76 1.08 4.60—4.84 4.87 1.04 4.80—4.94 20.21*** .025 2.80 Moral Awareness
+Implicit 798 1.57 1.17 1.49—1.65 1.91 1.23 1.82—1.99 73.20*** .084 6.413    10+13 Explicit 721 1.34 0.85 1.27—1.40 2.04 0.91 1.98—2.11281.94*** .281 1.037    10+52
+CI = Credible Interval. Partial ƞ2 values between .01 and .06 constitutes a small e ect,  .07 to .12 a medium e ect,  and .13 
+or greater a large e ect.  BF10 values >150 = very strong evidence for the hypothesis and values between 1 and 3 =  anecdotal evidence for the hypothesis. 
+***p < .001.
+none  overlapped. In sum, results of both  frequentist and  Bayesian statistical analyses provide strong and consistent evidence for three of the four hypotheses; only H2 related to reflective moral attentiveness produced weak and conflicting evidence.
+Increased complexity in explicit moral awareness
+As reported above, participants demonstrated  greater explicit moral awareness after the intervention as measured by their capacity to identify and name moral values at stake in a hypothetical dilemma involving academic misconduct. However, additional analyses indicated that the observed change was not distributed evenly among the eight values that were coded and scored. As depicted in Figure 1, there were significant increases from T1 to T2 for six of the eight moral values or principles and a significant decrease for one of them (i.e., integrity:   =  12.0%; z =  5.07, p < .001). The only value that did not change significantly over time was care (  =  0.4%; z =  0.49,  p = .627). Among the values that increased significantly, honesty (   = 29.5%; z = 12.95, p < .001) and loyalty (   = 30.4%; z  
+= 12.26, p < .001) had the largest gains in terms of percentage points as well as effect size (Cohen s d s = 0.55 and 0.51, respectively).
+Although not hypothesized, as we coded participants  responses to  Laura and Her Friend  we noticed not only an increase in the number of moral values being expressed but also an increase in the complexity of their expression. Specifically, two distinct but related  types of conceptual  complexity appear  evident  in  participants   responses: a decrease in the generic use of the word  integrity  (e.g.,  It violates the rule of academic integrity  803_T1) and a concomitant increase in the juxtaposition of moral values in the form of a moral dilemma, such as honesty vs. loyalty (e.g.,  In this situation Laura is faced with a choice between loyalty to  her  friend  and  honesty  to  herself, classmates, and 
+
+Figure 1. Moral values participants reported as present in Laura s situation: mean percentages by time. Error bars represent standard errors. CI = Con dence Interval (Lower Limit, Upper Limit). For Cohen s d, 0.20 = small e ect,  0.50 = medium e ect,  and 0.80 = large e ect.  **p < .01 ***p < .001.
+
+Figure 2. Participants  perception of Laura s situation as a moral dilemma by time. Error bars represent standard errors. CI = Con dence Interval (Lower Limit, Upper Limit). For Cohen s d, 0.20 = small e ect, 0.50 = medium e ect,  and 0.80 = large e ect.  ***p < .001.
+professor  745_T2). As illustrated in Figure 2, while instances of  integrity vs. loyalty  did not increase significantly from T1 to T2 (   = 1.8%; z = 0.09, p = .369), the increases were significant for both  fairness vs. loyalty  (   = 14.4%; z = 7.71, p < .001) and  honesty vs. loyalty  (   = 24.8%; z = 12.69, p < .001).
+While the  foregoing quantitative  data  provide  clear evidence that  participants  responses, on  average, demonstrated  an  increased complexity, the  change is also evident at the individual level. For example, participant  850 wrote only one word ( Honesty ) at T1 but the following sentence at T2:  It s an ethical issue since Laura is facing a decision between loyalty and  honesty  (850). Similarly, participant  823 wrote  one  sentence  to  describe  Laura s  situation  at  T1:  It s  a  choice  between helping  a  friend  and  honoring  the  academic  integrity.   At  T2,  this  participant wrote a lengthy response that  not  only acknowledged the presence of a dilemma, but  demonstrated  a  clear understanding  of  several moral  values at  stake  in  the decision:
+The conflict I see here is friendship vs. honesty/responsibility/fairness. If Laura doesn t help her friend, their friendship might be undermined. However, giving away the test questions/ answers will violate academic integrity . . . . Laura would be violating her responsibility to not share test material with other students and to report students who cheat in exams. Last but not least, their action is not fair for other students who pay a lot of effort to get a good grade in the class. (823_T2)
+In this T2 response, the participant identified that loyalty (friendship) was at odds with (other) moral values such as honesty and fairness. This demonstrates a more sophisti- cated understanding of academic integrity and a greater awareness that the situation goes beyond a simple right versus wrong to a moral dilemma Laura has moral reasons for taking two distinct actions but can only choose one.
+Discussion
+The  results  from  this  quasi-experimental  field  study  indicate  that  it  may  be possible  to  develop  students   moral  sensitivity  in  the  aftermath  of  academic misconduct.  Consistent  with  our  hypotheses,  participants after  completing  the four-week  Intervention reported  increases  in  moral  attentiveness  and  demon- strated  increases  in  moral  awareness.  In  particular,  the  T1  to  T2  changes  in perceptual moral  attentiveness  and  explicit moral  awareness were both  large (in effect  size  as  derived  from  frequentist  statistics)  and  very  strong  (as  evidence against  the  null  hypothesis  as determined  by Bayesian statistics). Finally, results from  additional  analysis indicated  that  participants   explicit moral  awareness not only  increased  quantitatively  (in  terms  of  the  number  of  moral  values  they perceived) but also qualitatively (in terms of complexity with an enhanced percep- tion  of Laura s situation  as a moral  dilemma).
+Signi cance
+The present study makes three important  contributions  to the literature related to moral  education  and  academic integrity. First, while previous studies have shown educational  interventions  to  be  associated with  increases  in  moral  sensitivity in various professions (cf. Bebeau & Brabeck, 1987; Seiler et al., 2010; Taylor, 2013; Uncu  & G ne ,  2021),  this  study  is the  first  do  so  in  the  domain  of academic integrity.  To  be  clear,  other  researchers  have  studied  the  effects of  academic integrity instruction  on other  outcomes, including self-reported academic miscon- duct (e.g., Dee & Jacob, 2010; Stephens et al., 2021), but none have focused on or assessed changes in  moral  sensitivity.
+Second, this is the first study to focus on or assess changes in moral sensitivity in the aftermath  of academic misconduct,  a moral  mistake. In fact, to the best of our knowledge, this is the first study to test and provide support  for Oser s (1996) hypothesis  that  negative  moral  experience responded  to  with  opportunities  to learn  from  it  leads  to  higher  sensitivity to  moral  and  social problems   (p.  72). That  is,  we  do  not  know  of  any  other  empirical  research  that  used  academic misconduct  or  any  other  moral  mistake  as  a  teachable  moment  for  enhancing moral  sensitivity (or  any  other  component  of  moral  functioning).  In  providing strong  evidence of this possibility, the present  study offers an important  example  and  inspiration,  we hope for  other  researchers and  practitioners.
+The third  contribution  of the present study concerns the enhanced  complexity of participants   responses to  Laura and Her Friend  at T2. Although not hypothesized, we believe the  observed shift (among  some participants)  from  a simplistic view of Laura s situation as  right vs. wrong  to its perception as a moral dilemma (e.g., loyalty vs. honesty) necessitating a difficult choice is an important  one. This shift in percep- tion represents not only enhanced cognitive complexity but also entails greater moral responsibility there  is  no  longer  a  single moral  mandate  to  follow, but  rather 
+a genuine  choice to  be made.  And  with  that  choice, as Isaiah Berlin declared and several of  our  participants  recognized,  the  potential  for  irreparable  loss  (e.g., a friendship, in Laura s case).
+Limitations and future directions
+As with all studies, the present  study is not  without  its limitations,  which of course provide  intellectual fodder  for possible future  research  directions.  First, and  most importantly,  the use of a quasi-experimental  research design precludes the possibility of making  any firm  claims that  the  intervention  caused the  observed changes. It  is possible that other factors (e.g., history and testing effects; see Cook & Campbell, 1979) are responsible (at least in part) for observed increases associated with moral sensitivity. Where  possible, future  research  should  employ true  experimental  designs, such  as randomized waitlist control trials, to test more rigorously the associations observed here.
+Second, the measures used in the present assessed only a fraction of perceptual and interpretative capacities associated with moral sensitivity. Future research should employ other measures associated with moral sensitivity and perhaps other components of moral functioning. It is possible, for example, that this intervention or interventions like it  affect other processes associated with moral functioning, such as judgment and motiva- tion. Relatedly, future studies could consider comparing student gains in a more inten- sive and prolonged training as the ethical development literature suggests that at least eight weeks of instruction  is needed  to  develop moral  reasoning  skills (Christensen Hughes & Bertram Gallant, 2015).
+A third limitation is that our study assessed gains immediately after the Intervention was completed. It is unknown if the effects would persist over time or if students would be able to apply their enhanced moral sensitivity to new situations (hypothetical or real). Similarly, because only some of the Intervention students completed the T2 assessment, our results may be affected by selection bias - students who followed through were more engaged in the learning and therefore demonstrated gains. Future research could address both limitations by including longitudinal studies that assess all the Intervention students over an extended period, ranging from a single six-month follow-up to repeated mea- sures over the remainder  of their studies. Such research designs would also allow for more  robust  testing of the  effects of enhancing  moral  sensitivity on  engagement  in academic misconduct.
+Finally, this study was limited to a single university in the United States. This presents two limitations. First, the students  actions determined to have been moral mistakes may not have been determined as such in a different institution. And second, the effects of the Intervention  may be conditional on the context and the facilitators of the Intervention. Thus, the generalizability of the results remains  uncertain.  However, the sample was diverse in terms of educational backgrounds, ethnicity, and academic majors, so it seems reasonable to extrapolate that a similarly structured intervention at different institutions could be similarly successful. Nonetheless, we hope more studies of this nature will take place in other  contexts with different populations  and with different interventions  to establish generalizability of the broader concept tested here that moral mistakes can be leveraged as learning opportunities to enhance moral sensitivity.
+Conclusion
+In closing, our findings lend empirical support to Oser s (1996) theoretical concept that moral mistakes can be leveraged for learning, and in particular, the development of moral sensitivity. The Intervention  investigated in this study offers only one example of how this might  be accomplished. We hope the results associated with its completion  will inspire others (institutions and individuals) to take up Oser s call to create a  culture of 
+mistakes  and, in doing so, turn moral mistakes into teachable moments. Notes
+1. Readers who are interested in replicating this Intervention, with or without a corresponding empirical study, can contact the authors for more details.
+2. Given the data are sensitive and  owned by the University, those wishing access should contact the authors directly. All requests will be considered on a case-by-case basis.
+Acknowledgments
+We would like to thank the students who participated in the program and Amanda Brovold and Alan Gutierrez for their assistance with data collection and entry.
+Disclosure  statement
+No potential conflict of interest was reported by the author(s).
+Notes  on contributors
+Jason M. Stephens is an  Associate Professor in  the  School of Learning, Development  and Professional Practice at  the  University of Auckland. His primary  research  interests  include human motivation, moral functioning, cheating behavior, and the promotion  of academic integ- rity during adolescence.
+Tricia Bertram Gallant is the Director of the Academic Integrity Office and Triton Testing Center at the University of California, San Diego. Her primary  research interest centers on academic integrity as a teaching and learning issue, which means she explores how pedagogy and assessment design can enhance learning and reduce cheating, as well as how students  can learn from the experience of cheating.
+ORCID
+Jason M. Stephens  http://orcid.org/0000-0003-2404-6321 Tricia Bertram Gallant  http://orcid.org/0000-0003-1824-6845
+References
+Banaji, M. R., Bazerman, M. H., & Chugh, D. (2003). How (un)ethical are you? Harvard Business 
+Review, 81(12), 56—64. https://hbr.org/2003/12/how-unethical-are-you 
+Bassili, J. N., & Smith, M. C. (1986). On the spontaneity of trait attribution. Converging evidence 
+for the role of cognitive strategy. Journal of Personality and Social Psychology, 50(2), 239—245.  https://doi.org/10.1037/0022-3514.50.2.239
+Bebeau, M. J., & Brabeck, M. M. (1987). Integrating care and justice issues in professional moral 
+education: A gender perspective. Journal of Moral Education, 16(3), 189—203. https://doi.org/10. 1080/0305724870160304
+Bebeau, M. J., Rest, J. R., & Narvaez, D. (1999). Beyond the promise: A perspective on research in 
+moral  education.  Educational  Researcher,  28(4),  18—26.  https://doi.org/10.3102/ 0013189x028004018
+Bertram Gallant, T. (2020). Leveraging the teachable moment:  What, if anything, can students 
+learn from cheating? In T. Bretag (Ed.), A research agenda for academic integrity (pp. 55—68). Edward Elgar.
+Bertram Gallant, T., & Stephens, J. M. (2020). Punishment is not enough: The moral imperative of 
+responding to cheating with a developmental approach. Journal of College and Character, 21(2), 57—66. https://doi.org/10.1080/2194587X.2020.1741395
+Chen,  F. F. (2007). Sensitivity of goodness of fit indexes to  lack of measurement  invariance. 
+Structural Equation Modeling: A Multidisciplinary Journal, 14(3), 464—504. https://doi.org/10. 1080/10705510701301834
+Christensen Hughes, J., & Bertram Gallant, T. (2015). Infusing ethics and ethical decision making 
+into the curriculum. In T. Bretag (Ed.), Handbook of academic integrity (pp. 1—15). Springer.  https://doi.org/10.1007/978-981-287-079-7_12-1
+Cohen, J. (1960). A coefficient of agreement for nominal  scales. Educational and Psychological 
+Measurement, 20(1), 37—46. https://doi.org/10.1177/001316446002000104
+Cook, T. D., & Campbell, D. T. (1979). Quasi-experimentation: Design & analysis issues for field 
+settings. Rand McNally.
+Dee, T. S., & Jacob, B. A. (2010). Rational ignorance in education: A field experiment in student 
+plagiarism (working paper 15672). National Bureau of Economic Research. Retrieved January 23, 2010, from www.nber.org/papers/w15672 
+East, J. (2010). Judging plagiarism: A problem of morality and convention. Higher Education, 59 
+(1), 69—83. https://doi.org/10.1007/s10734-009-9234-9
+Gino, F., & Bazerman, M. H. (2009). When  misconduct  goes unnoticed:  The acceptability of 
+gradual erosion in others  unethical behavior. Journal of Experimental Social Psychology, 45(4), 708—719. https://doi.org/10.1016/j.jesp.2009.03.013
+Haidt, J. (2013). Moral psychology for the twenty-first century. Journal of Moral Education, 42(3), 
+281—297. https://doi.org/10.1080/03057240.2013.817327
+Harteis, C., & Bauer, J. (2014). Learning from errors at work. In S. Billet, C. Harteis, & H. Gruber 
+(Eds.), International  handbook of researching professional and practice-based learning (p. 699‒ 732). Springer.
+Hu, L.-T., & Bentler, P. M. (1999). Cutoff criteria for fit indexes in covariance structure analysis: 
+Conventional  criteria  versus  new  alternatives.  Structural  Equation  Modeling: 
+A Multidisciplinary Journal, 6(1), 1—55. https://doi.org/10.1080/10705519909540118 International  Center  for Academic Integrity.  (2021). The Fundamental  Values of Academic 
+Integrity. www.academicintegrity.org/the-funSeminarmental-valuesof-academic-integrity Jamieson, S., & Howard,  R. M. (2019). Rethinking  the  relationship  between plagiarism and 
+academic integrity. International  Journal of Technologies in Higher Education, 16(2), 69—85.  
+https://doi.org/10.18162/ritpu-2019-v16n2-07
+Kass, R. E., & Raftery, A. E. (1995). Bayes factors. Journal of the American Statistical Association, 90 
+(430), 773—795. https://doi.org/10.1080/01621459.1995.10476572
+Kohlberg, L., & Hersh, R. H. (1977). Moral development: A review of the theory. Theory into 
+Practice, 16(2), 53—59. https://doi.org/10.1080/00405847709542675
+Kolb, D. A. (1984). Experiential learning: Experience as a source of learning and  development. 
+Prentice-Hall.
+Maxwell, B., Boon, H., Tanchuk, N., & Rauwerda, B. (2021). Adaptation and validation of a test of 
+ethical sensitivity in teaching. Journal of Moral Education, 50(3), 267—292. https://doi.org/10. 1080/03057240.2020.1781070
+McConnell, T. (2022). Moral dilemmas. In  E. N. Zalta & U. Nodelman  (Eds.) The Stanford 
+encyclopedia of philosophy (Fall). https://plato.stanford.edu/archives/fall2022/entries/moral- dilemmas 
+McDonald, K. L., Malti, T., Killen, M., & Rubin, K. H. (2014). Best friends  discussions of social 
+dilemmas. Journal of Youth and Adolescence, 43(2), 233—244. https://doi.org/10.1007/s10964- 013-9961-1
+McHugh,  M. L. (2012). Interrater  reliability: The  kappa  statistic. Biochemia Medica, 22(3), 
+276—282. https://doi.org/10.11613/BM.2012.031
+Mezirow, J. (1997). Transformation  theory out of context. Adult Education Quarterly, 48(1), 60‒ 
+62. https://doi.org/10.1177/074171369704800105
+Narvaez, D., & Endicott, L. (2009). Nurturing  character in the classroom, EthEx series, book 1: 
+Ethical sensitivity. ACE Press.
+Narvaez, D., & Rest, J. R. (1995). The four components of acting morally. In W. M. Kurtines (Ed.), 
+Moral development: An introduction (pp. 385—400). Allyn & Bacon.
+Oser, F. K. (1996). Learning from negative morality. Journal of Moral Education, 25(1), 67—74.  
+https://doi.org/10.1080/0305724960250107
+Rest, J., Narvaez, D., Bebeau, M. J., & Thoma, S. J. (1999). Postconventional moral thinking: A neo- 
+Kohlbergian approach. Lawrence Erlbaum Associates Publishers.
+Reynolds, S. J. (2008). Moral attentiveness: Who pays attention to the moral aspects of life? Journal 
+of Applied Psychology, 93(5), 1027—1046. https://doi.org/10.1037/0021-9010.93.5.1027
+Schab, R. (1991). Schooling without learning: Thirty years of cheating in high school. Adolescence, 
+26(104), 839—847.
+Seiler, S., Fischer, A., & Ooi,  Y. P. (2010). An  interactional  dual-process  model  of moral 
+decision-making  to guide military training.  Military Psychology, 22(4), 490—509. https://doi. org/10.1080/10508422.2011.622177
+Stephens, J. M. (2018). Bridging the divide: The role of motivation and self-regulation in explain-
+ing the judgment-action  gap related to academic dishonesty. Frontiers in Psychology, 9(246), 1—15. https://doi.org/10.3389/fpsyg.2018.00246
+Stephens, J. M., & Wangaard, D. B. (2016). The achieving with integrity seminar: An integrative 
+approach  to  promoting  moral  development  in  secondary school classrooms. International 
+Journal of Educational Integrity, 12(3), 1—16. https://doi.org/10.1007/s40979-016-0010-1 Stephens, J. M., Watson, P. W. S. J., Alansari, M., Lee, G., & Turnbull, S. M. (2021). Can online 
+academic integrity instruction  affect university students   perceptions  of and  engagement in 
+academic  dishonesty?  Results from  a  natural  experiment  in  New Zealand.  Frontiers in 
+Psychology, 12(366). https://doi.org/10.3389/fpsyg.2021.569133
+Stevenson, H., & Stigler, J. W. (1992). The learning gap: Why our schools are failing and what we 
+can learn from Japanese and Chinese education. Simon and Schuster.
+Taylor, A. (2013). Ethics training for accountants: Does it add up? Meditari Accountancy Research, 
+21(2), 161—177. https://doi.org/10.1108/MEDAR-06-2012-0020
+Ullman,  J. B., & Bentler, P. M. (2003). Structural  equation  modeling. In  I. B. Weiner  (Ed.), 
+Handbook of psychology (pp. 607—634). John Wiley & Sons.
+Uncu,  F., & G ne ,  D. (2021). The  importance  of moral  sensitivity in  nursing  education: 
+A comparative study. Nursing Forum, 56(3), 635—639. https://doi.org/10.1111/nuf.12584
+Appendix
+Coding Scheme for the  Laura and Her Friend .
+Code Meaning Examples 
+Fairness The quality or state of being fair; lack of  Giving the answers to her friend would give said  1.00
+favouritism or bias; equal or reasonable  friend an unfair advantage over other students  treatment of others. (802_T1);  If Laura tells her friend the questions 
+in the exam, it will not be fair to other students 
+taking the same exam  (807_T1).
+Honesty The quality of being honest, free from  It is not honest to share the test contents   .98
+fraud or deception, legitimate, truthful. (1119_T1);  If Laura goes through with the 
+request her friend made, then she would be 
+violating the moral issue of being honest  
+(893_T1).
+Trust The assured reliance on the character or  Breaking the trust of the Professor  (922_T1);  If  1.00 truth of someone or something. Laura tells all of the test questions that she can 
+remember to her friend, then Laura and her 
+friend have the value  trust  between them  
+(937_T2).
+Responsibility The quality or state of being responsible or  Laura would be violating her responsibility to not  1.00
+reliable; moral accountability. share test material with other students  
+(823_T2);  Laura feels  she has some sort of responsibility to be kind and help her friend  (1037_T2).
+Respect High or special regard; the quality of being  She s showing a lack of respect for herself   a lack  1.00
+esteemed. of respect for all the students  (713_T2);  It is 
+ethical and moral issue because it would be 
+disrespectful to the class, the professor  
+(1048_T2).
+Care To feel interest or concern; to be  Laura cares for her friend and wants her to  .88
+concerned about. succeed  (775_T1);  Laura will be hurting the 
+people around her  (1083_T2).
+Loyalty The quality or state or an instance of being  Laura wants to assist her friend, and not be a  bad  .86
+loyal; faithful to a person, group or  friend  or  uptight  by refusing her help  
+cause). (1069_T1);  Laura, I presume, would want to give 
+her friend the test questions because they are 
+friends and she wants to be loyal to her  
+(621_T1).
+Integrity Firm adherence to a code of especially  The moral/ethical issue is that she knows by  .94
+moral or artistic values academic integrity standards she shouldn t tell 
+her friends  (723_T1);  Laura needs to select 
+between friendship and integrity  (728_T1).
+Note. Meanings adapted from merriam-webster.com. T1 = Time 1, T2 = Time 2.    = Cohen s (1960) kappa coe cient  of 
+interrater reliability, where 0-.20 = none, .21—.39 = minimal, .40—.59 = weak, .60—.79 = moderate, .80—.90 = strong, and above .90 = almost perfect (McHugh, 2012).

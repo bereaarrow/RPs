@@ -1,0 +1,596 @@
+﻿EDUCATIONAL RESEARCH AND EVALUATION 
+2020, VOL. 26, NOS. 5—6, 221—251 
+https://doi.org/10.1080/13803611.2021.1963938 
+
+Manipulating the consequences of tests: how Shanghai teens react to di erent consequences
+Anran Zhao a, Gavin T. L. Brown a,b and Kane Meissel a
+aFaculty of Education and Social Work, The University of Auckland, Auckland, New Zealand; bDepartment of Applied Educational Sciences, Ume  University, Ume , Sweden
+
+ABSTRACT
+Students  test-taking motivation has been found to be a predictor of performance. This study tests whether Shanghai students  conceptions of tests and test-taking motivation di er when the consequence of tests have di erent foci (i.e., none, country, or personal). A between- subjects experiment with vignette instructions systematically assigned 1,003 Shanghai senior secondary school students to one of the three vignettes. Students conceptions of tests and test-taking motivation scales were evaluated using factor analyses. Invariance testing suggested invariant relationships between the two constructs across the three groups. Students  general conception of tests meaningfully predicted their reported e ort (  =.18). Latent mean analyses suggested that students  reported e ort, anxiety, and importance were not signi cantly di erent between country at stakes and personal stakes groups, but higher than when no consequences were attached. This study suggests that Shanghai students  test-taking attitudes may contribute to high e ort and consequently high performance on international large-scale assessments.
+KEYWORDS
+Students  conceptions of assessment; test-taking motivation; e  ort; test consequences
+
+Introduction
+It is presumed that when students are tested, they do their best (Dorans, 2012; Wise,2015). This assumption arises because tests usually have important conse- quences for individual test-takers (e.g., selection, promotion, opportunities). However, considerable research (Knekta & Ekl f, 2015; Thelk et al.,2009; Wise
+& DeMars,2005) has shown that test-taking motivation is not automatically high and is highly variable across jurisdictions (Akyol et al., 2018; Gneezy et al., 2019; Zamarro et al., 2019) when tests are designed to describe jurisdic- tional performance rather than evaluate individuals as such. This is important
+in the case of high-pro le international large-scale assessments (ILSA) such as the Programme for International Student Assessment (PISA) and the Trends in
+CONTACTAnran Zhao anran.zhao@auckland.ac.nz
+' 2021 Informa UK Limited, trading as Taylor & Francis Group
+
+EDUCATIONAL RESEARCH AND EVALUATION 239
+International Mathematics and Science Study (TIMSS). Clearly, ranks and scores on ILSAs are invalid if it cannot be assumed all students in all jurisdictions have tried their best (Cronbach, 1960).
+As one of the most high-performing societies in PISA1, Shanghai was treated as a role model for its e ective educational system (Organisation
+for Economic Co-operation and Development [OECD], 2014). It is thus impor- tant to understand Shanghai students  motivation to perform well when sitting a test that is not personally relevant but is important for a country s international ranking. It may well be that Shanghai s stellar performance
+re ects persistent test e ort independent of the consequence attached to a test. Because test-taking e ort may lie in the beliefs students have about
+the nature and purposes of tests (Brown, Peterson, & Irving, 2009; Brown & Hirschfeld, 2008; Wise & Cotten, 2009), it may be that Shanghai students think that high e ort is needed on all and any tests. This study attempts
+to disentangle this problem by asking Shanghai teens to indicate what they consider the purpose of a test is and how hard they might try on a hypothetical test that varies in consequence (i.e., it matters to their grades,
+it matters to the country reputation, and it matters only for research pur- poses). This experimental study helps us understand how test-taking motiv- ation and e ort are construed in a jurisdiction that has outperformed the world more than once.
+We rst present a theoretical review focused on test-taking motivation, the impact of consequences on motivation, and the relationship between students attitudestowardstestsandtest-takingmotivation.Then,weintroduceempirical work on di erences in test-taking motivation by jurisdiction and describe the testing culture of Shanghai (China). Finally, we present our theoretical model and hypotheses pertaining to the problem of test-taking motivation by type
+of test consequence.
+The expectancy-value framework and its relationship with e ort expenditure
+Rebranded from its broad usage in achievement motivation (i.e., domain- speci c motivation), the expectancy-value theory (EVT; Eccles & Wig eld, 2002) is the most common framework in conceptualising test-taking motivation (i.e., situation-speci c motivation). EVT assumes that students  achievement behaviour (i.e., performance, e ort, persistence) is in uenced by the combi- nation of the value they perceived on the test (i.e., importance, interest, useful- ness, and anxiety) and their expectancies for success.
+Research has consistently found that students  perceived importance of the test is a signi cant and positive predictor of reported e ort expenditure (Finney et al., 2018; Knekta & Ekl f,2015; Zilberberg et al., 2014). In terms of the e ect of test anxiety on e ort expenditure, literature has shown inconsistent results. For example, Knekta and Ekl f (2015) found that students reported Test Anxietydid not statistically signi cantly predict their E ort expenditure in both high- and low-stakes contexts among Swedish secondary school students. Instead, among the ve constructs under EVT, only Expectanciesand Importance were shown to be signi cantly related to E ort. Similarly,Penk and Schipolowski (2015) reported that Anxietyhad negligible impact on E ort in a low-stakes large-scale assessment in Germany (similar result seen in Ekl f & Nyroos, 2013). On the other hand, Putwain (2008) found that students  perceived test Anxietywas negatively related to performance in low-stakes (i.e., mock exam) and mid-stakes (i.e., modular exam) conditions, but a small positive relationship was detected in the high-stakes condition (i.e., terminal exam). Meanwhile, Pekrun et al. (2002) also found that Anxiety had an activating e ect which could induce e ort as a means to avoid failure. It appears that there might be
+a moderation e ect of stakes on the relationship between Anxietyand E ort. However, the direction and magnitude of the e ect requires further investi- gation. Lastly, the positive relationship between perceived Anxietyand Impor- tance were consistently reported in literature (Ekl f & Nyroos, 2013; Knekta & Ekl f, 2015).
+Test-taking motivation, test consequences, and test performance
+The consequences attached to a test have an impact on test-taking motivation,
+with higher reported e ort in high-stakes exams (Ekl f et al., 2014; Hawthorne
+et al., 2015;Smith&Smith,2004;Wolf& Smith,1995).Highlymotivated students tend to outperform less motivated students with the same skill level (Ekl f, 2010). An open question is whether the consequences attached to ILSA have
+the same impact on motivation and e ort as those with personal consequences
+(e.g., passing a grade, winning a scholarship, etc.).
+Increased motivation as a result of higher test consequences is usually linked to higher performance. For example, making the tests relevant to themselves (i.e., count towards grades) or to their teachers (i.e., impact their teachers  employment) were both e ective on increasing test performance when compared to the low-stakes control group (Rutkowski & Wild, 2015). Meta-analyses have also shown that incentives and consequences raise test- taking motivation and performance (Duckworth et al., 2011; Wise & DeMars, 2005). Many empirical studies into the relationship of consequences to
+e ort have shown that the level of consequence seems to be associated
+with e ort and motivation (Ekl f et al., 2014; Hawthorne et al., 2015; Knekta
+& Ekl f, 2015; Lau et al., 2009; Liu et al.,2012; Silm et al., 2013; Thelk et al., 2009). For example, far fewer students demonstrated rapid guessing when institutional consequences were attached to a reading test than when similar students took the same test with no consequences attached (Liu
+et al., 2015). Similarly, Knekta (2017) reported that ve motivational constructs
+of EVT all increased among ninth-grade pupils when assessed in the oper- ational national test compared to the earlier national test eld trial.
+On the other hand, lack of consequences does not always interfere with test- taking motivation and test score performance. Among American university stu- dents, di erent consequences (i.e., test evaluates institution, test provides feed- back, and test matters to personal academic record) revealed no instructional
+e ects on their perceived importance, e ort expenditure, and test performance (Finney et al., 2016, 2018). Likewise, Baumert and Demmrich (2001) found no statistically signi cant di erences on test-taking motivation and performance among ninth-grade German pupils assigned to four di erent consequences (i.e., PISA instruction, feedback, personal, and nancial award). Finney et al. (2018) proposed that the inconsistent inferences revealed in literature on the
+e ects of test-taking stakes on test-taking motivation (TTM) and performance could be due to the unrealistic instructions provided, arguing that telling stu- dents that test scores will be used for research purposes is overly nuanced. Instead, the lowest stakes in their study speci ed that the test score will be used in a school accountability programme.
+Literature on the moderation e ect of test stakes on test-taking motivation
+and test-taking e ort is limited. Contrary to the ndings from Putwain (2008), Knekta and Ekl f (2015) found that stakes did not moderate the relationship between perceived importance and e ort expenditure. Finney et al. (2018) reported similar results in that the fully mediated relationship from perceived importance to test performance via e ort expenditure was not moderated by test instructions.
+Students  attitudes on tests
+Brown (2011) identi ed that students have four major conceptions of assess- ment (i.e., improves learning and teaching; generates social and a ective bene ts; it is ignored; and it is about external factors outside students control). Within a general model of self-regulation, it has been empirically demonstrated that students who make use of assessments to improve their learning have higher test scores than those who view assessments as some- thing to be ignored (Brown & Hirschfeld, 2008; Brown, Irving, et al., 2009). M. Gao (2010) investigated the relationship between students  conceptions of the high-stakes school-based assessments in Hong Kong and found that higher anxiety was associated with increased awareness that the assessments were unfair, inaccurate, and accountable. Wise and Cotten (2009) found that students who agreed that assessment was for improvement had greater test- taking e ort compared with those who endorsed the concept that assessment
+was irrelevant. Zilberberg and co-authors (2014) measured US college stu- dents  attitudes towards K—12 (Kindergarten to Grade 12) accountability testing (low stakes) and examined the impact of the attitudes on their test-
+taking motivation and performance in a university accountability test (low stakes). They found that students  attitudes on K—12 accountability testing (i.e., test fairness, purpose, parents  concern, and their own dissatisfaction of the test) had negligible e ects on their test-taking motivation (i.e., perceived importance and e ort expenditure) and performance. Nonetheless, as univer- sity-level tests are distinct contexts from K—12 tests, the relationship among attitudes, motivation, and performance under the same context requires further investigation.
+Test-taking motivation and jurisdictional heterogeneity
+Wise and DeMars (2010) stated that the results from international achieve- ment programmes, such as TIMSS, PISA and PIRLS [Progress in International Reading Literacy Study], will be distorted to the extent that there are cross- country di erences in the mean e ort exhibited by their students  (p. 40). Pre- sumably, students in societies that use high-stakes tests for grade promotion, university admission, et cetera, may hold di erent test-taking motivation than students where low-stakes tests are predominant. Zamarro and her colleagues (2019) found that e ort could account for 32% to 38% of cross-country vari- ation in the three PISA 2009 test domains (i.e., mathematics, reading, and science). Further, students from East Asian societies invested higher levels
+of e ort than elsewhere when reanalysing data from PISA 2009. Similarly, Bor- gonovi and Biecek (2016) investigated students  test-taking behaviour using PISA 2015 data, where they used item-position e ect on students  perform- ance for the item as a proxy for endurance level throughout the test, which is argued to be re ective of test-taking motivation. They found that country-level endurance was positively associated with societal attitudes valuing hard work. Further, evidence from PISA 2015 data suggests that after taking into consideration the non-seriousness shown in rapid responding behaviours, country ranking could change by 15 places (Akyol et al., 2018). It is worth noting that the ranking change was less apparent in societies such as Singapore, B-S-J-G2 (China), but more so in jurisdictions such as Brazil, Sweden, and New Zealand.
+However, within a jurisdiction, di erences in e ort may not be highly vari- able. For example, although non-e ortful test-taking behaviour existed in a study of response time among 15-year-old students across 86 schools in the
+US (Wise et al.,2019), once non-e ortful responses were removed, the mean scores of each school were stable. This suggests that the impact of e ort motiv- ation may matter only when cross-jurisdictional comparisons are made such as seen in the PISA rankings.
+The negative e ect of low stakes in the context of ILSA on e ort expenditure
+is not always consistent throughout literature. For example, Ekl f (2007, 2008) found high perceived importance and e ort spent on TIMSS 2003 for eighth- grade students in Sweden. Moreover, Hopfenbeck and Kj rnsli (2016) found that, among the Norwegian PISA 2012 sample, though students did not think
+the test was important, they invested maximum e ort. In contrast, low reported motivation for TIMSS Advanced Field trial 2008 was found in Sweden (Ekl f, 2010) and in Sweden, Slovenia, and Norway (Ekl f et al., 2014). Further, a study contrasting the same cohort of Swedish PISA 2012 students with those
+in the 2012 national test sample (Ekl f & Knekta, 2017) found a large discre- pancy on strength of endorsement for statements such as I felt motivated to do my best on this test  (Cohen s d =.80).
+Recently, Gneezy and his colleagues (2019) conducted an experimental study which investigated US and Shanghai high school students response di erences under the in uence of monetary incentives when completing a short test of 25 public PISA items. Speci cally, in both the US and Shanghai groups, they ran- domly assigned participants to a control group with no incentives for perform- ance on the test and a treatment group with $25 (or the equivalent in renminbi RMB for Shanghai students) for performance on the test. Students in the treat- ment group were informed that one dollar (approximately 7 RMB) would be taken away for each incorrectly answered item. They found that US students
+in the treatment group gave more e ort (measured in questions attempted, attempted questions answered correctly in proportion, and questions answered correctly in proportion), and achieved substantially higher scores compared to
+the control group (e ect size ranged from d =.24 to .28). In contrast, the incen- tives did not elicit di erential performance behaviours between the control and
+the treatment groups in Shanghai, as if Shanghai students were immune to the incentives provided in the study.
+Testing in Shanghai (China)
+Students in China are no strangers to high-stakes tests. In China, education [is] basically examination preparation  (OECD,2011, p. 84). Students are expected to overcome two high-stakes whole-cohort examinations (i.e., the entrance examinations for senior high schools and for universities —zhongkao and gaokao, respectively) as a means of upward social mobility (T. K. Y. Cheung, 2008; Dorgan, 2000). As a result, students are extensively examined as prep- aration for these examinations (Chen & Brown, 2018).
+It is worth noting that the promotion rate from junior secondary school to regular senior high school as opposed to vocational pathway was 55% in 2012 (Shanghai Government, 2013). Thus, in a way, the zhongkao has even higher stakes than the gaokao, which had a higher acceptance rate of 88% in 2012.
+This means that most of the Shanghai PISA cohort3 is either going to take, or has just passed or failed, arguably the most high-stakes test in Chinese schooling. This feature of the Shanghai PISA cohort is very similar to samples and populations in eastern Asia (e.g., Korea, Hong Kong, Singapore),
+where high-stakes assessments and high average PISA performance is the norm. However, it is a considerable di erence to the Scandinavian samples studied previously (Ekl f et al., 2014).
+Given the importance of zhongkao and gaokao in Chinese society, students are expected on the part of their parents and teachers to exert maximum
+e ort regardless of the test form. Diligence and good attitudes and behaviours
+are valued and expected as much as academic performance (L. Gao & Watkins, 2001,2002; Li,2002). Chinese teachers also perceive assessments as a means for students  holistic development, which contribute to their life-long learning and becoming good citizens (Brown et al., 2011). Chinese students have demon- strated their acceptance of the societal pressure of the high expectations on performance and attitudes (Peterson et al., 2013). Research shows that Chinese students are expected, and accustomed to, exerting persevering
+e ort for tests regardless of the test form (e.g., in class or public examinations; Chen & Brown,2018; L. Gao & Watkins,2001; Peterson et al., 2013). Li (2002) has argued that persistence, high levels of e ort, as well as achievement, are highly valued in Chinese societies.
+Research into Chinese students  conceptions of assessment has found that secondary school students hold strong beliefs on assessment and that they have internalised the purpose of assessment as student moral and skill develop- ment and associated that with positive emotions towards assessment such as feeling proud and enjoyable (Chen & Brown, 2018). Chen and Brown (2018) indi- cated that the emphasis on political and moral education in China shaped the
+idea that loving the people and the nation requires doing well  (p. 105). Simi- larly, university students in Hong Kong recognise the purpose of assessment as being important for determining self-worth, and that it demands self-regulation (Wang & Brown,2014).
+Literature has consistently portrayed an image of a highly competitive assessment culture in China. As a result, Chinese students have formed strong perceptions of the purposes of assessments through schooling. However, the e ect of their conceptions of assessments on their e ort expen- diture in the context of test-taking remains unknown. Taken together with the expectancy-value theory of test-taking motivation, the question then becomes: Will students  attitudes about assessments in uence their perceived importance and anxiety of the upcoming test? Subsequently, given the het- erogeneity of test-taking motivation under di erent test-taking stakes, will
+the impact of attitudes on test-taking motivation be consistent across
+di erent test-taking stakes? Finally, considering the emphasis on moral edu- cation in China, will students perceive the importance and anxiety of tests without personal consequences similarly to the personally relevant ones? Or will they di erentiate the perceived importance and anxiety of the tests between high- and low-stakes contexts, but nonetheless exert optimal test- taking e ort?
+The current study
+The current study speci ed a partially mediated model linking students  con- ceptions of tests and their perceived test-taking motivation (Figure 1). Speci  - cally, we proposed six hypotheses (H) pertaining to the relationships among students  conceptions of assessments (SCoA), students  perceived Importance and Anxietyof the test, and their test-taking E ort:
+(1) H1: Adaptive conceptions of assessment would be positively associated with the perceived importance of the tests (Zilberberg et al., 2014).
+(2) H2: Adaptive conceptions of assessment would be positively associated with Anxiety(M. Gao,2010).
+(3) H3: Adaptive conceptions of assessment would also be positively associated with e ort expenditure (Wise & Cotten, 2009).
+(4) H4: E ort expenditure would be positively related to the perceived impor- tance of the test (Knekta & Ekl f, 2015; Zilberberg et al., 2014).
+(5) H5: E ort expenditure would be positively related to the perceived anxiety of the test (Ekl f & Nyroos, 2013; Pekrun et al., 2002).
+(6) H6: A positive correlation between perceived Importance and Anxiety(Ekl f
+& Nyroos,2013; Knekta & Ekl f,2015)
+Additionally, test-takingconsequences weremanipulated using an experimen- talmanipulationofvignettesthatspeci edthreedi erentstakesoftest-taking(i.e., personal stakes, country at stakes, and no stakes). The relationship between stu- dents  attitudes on tests and their test-taking motivation was examined in each test-taking consequence condition. Speci cally, the hypotheses were:
+(7) H7: Consistent with literature (Finney et al., 2018; Knekta & Ekl f,2015), and considering the emphasis on moral education in China, we hypothesise that the structural relationships speci ed in Figure 1 (i.e., SCoA on TTM and Importance and Anxietyon E ort) would not be moderated by di erent test-taking instructions (H7-1).
+(8) H8: The latent factor covariances would be invariant across test-taking stakes (Knekta & Ekl f, 2015).
+(9) H9: Drawn on the results from Gneezy et al. (2019) and the societal emphases on e ort in China, we expect that the e ort expenditure would be similar across di erent test-taking conditions (i.e., personal stakes, country at stakes, and no stakes).
+(10) H10: Consistent with literature (Knekta & Ekl f, 2015), we expect higher levels of endorsement for Importance and Test Anxietyin groups assigned with higher levels of stakes (personal stakes > country at stakes > no stakes).
+
+Figure 1. Hypothetical framework between students  conceptions of tests and test-taking motivation.
+Note: Test-taking motivation system in dotted ellipse. SCoA=students  conceptions of assessments; TTM=test- taking motivation.
+Method
+Participants
+Online questionnaires were distributed through the WeChat social network, while paper-based forms were distributed at schools which permitted their stu- dents to be approached. The target population was students over the age of 16 studying in Shanghai secondary schools. It is worth noting that the sample in the current study did not match the PISA cohort for ethical considerations (i.e., parental consents required for participants under 16). Nonetheless, these students would have experienced the high-stakes Zhongkao giving them fam- iliarity with the di erent stakes involved.
+In the data-screening stage, questionnaires that appear to be inherently invalid were deleted (7 for identical response to each item, 64 for completing under 150 seconds). Within the remaining 1,010 responses, cases with more than 10% missing values on construct items were removed (n =7 deletions, .07%). Missing value analysis was conducted using expectation maximisation (Dempster et al., 1977) separately for the SCoA (n =14) and TTM (n =2) con- structs. Little s Missing Completely at Random (MCAR) test for SCoA (  2 (318) = 341, p =.18) and TTM ( 2 (24) =28, p =.26) indicated that the missing pattern was random. The nal sample contained 1,003 cases (Table 1), with equivalent sample sizes >300 in each test-consequences condition.
+Only institutions with at least 10 respondents were identi ed to avoid identi cation of participants. Of the participants, 90% came from 12 schools, with one third from two vocational high schools and 57% from 10 high schools, three of which were a liated with a university. These numbers roughly correspond to the population statistics of the proportion of students
+in high school and vocational secondary education. The sample is thus almost 2:1 senior secondary to vocational students. Most high school students were
+in Year 10, while a larger proportion of vocational students were in their nal
+year. Ages ranged from 16 to 18, with almost half being in the youngest group. The sample was slightly skewed towards girls (55%) versus boys (44%). Nearly 80% of all returned surveys were administered online as opposed to paper.
+Instruments
+Students  conceptions of assessment inventory
+The Students  Conceptions of Assessmentinventory (SCoA-VI; Brown,2008) was adapted by changing the word assessment  to test  whenever it appeared. The inventory consists of 33 items related to four meta-categories (i.e., improve- ment, irrelevance, a ect, external attribution) and eight speci c categories. Speci cally, aspects of self-improvement and teacher-improvement under the Improvement category re ects self-regulation. Likewise, External Factoralso con- sists of two sub-categories, namely, student future and school quality. It re ects maladaptive external attribution beliefs about assessment. The A ect category also has two rst-order factors that are related to the aspects that assessments
+are enjoyable and bene cial to class environment. Lastly, the Irrelevance cat- egory evaluates the degree to which students think they ignore assessments
+and that assessments are not fair. The inventory has been successfully implemented in multi-cultural contexts such as Hong Kong, mainland China, Brazil, New Zealand, and Portugal (Brown, 2013; Flores et al., 2019; Matos & Brown, 2015). Students rate their responses to items using a 6-point, positively packed scale (Lam & Klockars,1982). Participants can choose from two negative options (i.e., strongly disagree and mostly disagree) or four positive options (i.e., slightly agree, moderately agree, mostly agree, and strongly agree). This response scale has been shown to be e ective when participants are inclined to endorse
+the substance of statements (Deneen et al., 2013). Previous work on the SCoA inventory has identi ed ve di erent model structures as listed below:
+. Model 1: Full hierarchical Model #1 of four second-order factors predicting seven rst-order factors plus three items that pertain to the aspect that assessments are irrelevant (Brown, Peterson, & Irving, 2009).
+. Model 2: Simpli ed hierarchical Model #2, of four second-order factors pre- dicting eight rst-order factors (Brown, Irving, et al., 2009).
+. Model 3: inter-correlational Model #1 of eight inter-correlated factors (Matos
+& Brown,2015).
+. Model 4: inter-correlational Model #2 of four major inter-correlated factors (Weekers et al., 2009).
+. Model 5: bi-factor Model #1 consisting of four orthogonal major factors pre- dicting their respective items (as per Model #4) and one general factor pre- dicting all items (Matos et al., 2019; Weekers et al., 2009).
+Table 1. Demographic characteristics of the Shanghai sample.
+Demographic characteristics                                                                N             Percentage (%)
+School                                                                                       117 95 52 45 11.6 9.5 5.2 4.5 4.4
+High school A                                                                                          44                  3.1
+High school B                                                                                          31    10.9 3.1 2.4 32.7
+High school C                                                                               109 31 24 3282.4 9.6 0.6
+High school D                                                                                          2464.3 35.7
+High school E                                                                                          97   38.3 15.2 10.7 0.2
+High school F                                                                                           6    12.5 11.2 8.6 3.5
+University a  liated high school A                                                         645 358           43.8 55.1 0.9 0.2
+University a  liated high school B                                                          384 152 107 2   47.9 31.8 15.1 4.8
+University a  liated high school C                                                          125 112 86 35                  0.4
+Vocational high school A                                                                        439 553 978.8 21.2
+Vocational high school B                                                                   2              34.2 32.3 33.4 100.0
+Other High Schools (not speci  ed or with less than 10 responses)                             480 319 151
+Other Vocational high schools (not speci  ed or with less than 10 responses) Grade Level               48
+Senior Secondary Level                                                                                  5
+Secondary Vocational Level                                                                 790 213
+Country Speci  ed Grade Level                                                                 343 326 334
+High School                                                                                          1003
+Year 10
+Year 11
+Year 12
+Missing
+Vocational High School
+Year 10
+Year 11
+Year 12
+Missing
+Gender
+Male
+Female
+Gender Diverse
+Missing
+Age
+16
+17
+18
+19 and above
+Missing
+Data Source
+Digital
+Paper
+Experimental Condition
+No Stakes
+Country
+Personal
+Total
+Test-taking motivation scale
+The test-taking motivation scale was adapted from Knekta and Ekl f (2015) and the Student Opinion Scale (Thelk et al., 2009). The original ve factors and 19 items had to be changed because in this study students were not taking an actual test; rather, they were asked to respond to one of three hypothetical test-taking scenarios. Speci cally, Expectancy and Interest are only relevant to situations where students have just nished a real-life test (e.g., I did well on this test  from Expectancy, or It was fun to do this test  from Interest). Therefore, these two constructs were not included in the study. Moreover, several items from the other three constructs were excluded for not tting one or more of the conditions (e.g., I could have tried harder on this test  from E ort, and I was so nervous when I took this test that I forgot things I usually know  from Anxiety). These changesleftthreeitems fortheanxiety scale(i.e., Before takingthis test, I worried about how di cult it would be ; I was scared of failing on this test ; I
+felt relaxed while taking this test ). While it might be argued that these items
+re ect student self-e cacy or con dence in test-taking, we follow the original
+scale meaning of Knekta and Ekl f (2015) that these re ect student anxiety when faced with a test.
+Thelk et al. (2009) demonstrated that test importance consisted of both knowing the test results (e.g., I would like to know how well I did on this test ) and that the test itself is important (e.g., It was important to me to get
+a good result on this test ). The Knekta and Ekl f (2015) importance scale did not have any items for knowing the test results. Thus, three items from the Student Opinion Scale were included in the study so that the number of retained items per construct would be at least three. An additional item ( I would like to know where I went wrong in the test ) was inserted to the Impor- tance construct, because having feedback regarding tests results has been found to have a positive impact on students  learning (Brown et al., 2016) and the common practice in China of students keeping a notebook consisting
+of errors they made in tests (cuo ti ji; Zhou, 2017).
+The instrument consists of a 6-point Likert-type scale with three negative and three positive options (i.e., 1= strongly disagree, 2=moderately disagree, 3= slightly disagree, 4=slightly agree, 5=moderately agree, and 6= strongly agree).
+Chinese adaptation
+The SCoA inventory and the TTM scale were translated into Chinese by the rst author using a functional equivalence approach (Jin & Nida, 2006). Four bi- lingual informants (two in the education eld, one in engineering, one in com- merce) were asked to rate their con dence in the accuracy (on a scale of 1 to 6)
+and note their concerns about the translation (Tran et al., 2017). The rst author then revised the translations and repeated the above procedure until all raters gave sixes on all the items.
+Procedures
+All students completed a self-reported inventory concerning their understand-
+ing of the purposes and nature of assessment (i.e., SCoA). Then, within the fra- mework of experimental study using vignettes (Hughes & Huby, 2004; Skilling & Stylianides, 2020), students were randomly assigned to one of three di erent test-taking consequence conditions. Vignettes are e ective at eliciting partici- pants responses when the vignette situation is di cult to create (Skilling & Sty- lianides, 2020), such as the administration of an o cial ILSA. Speci cally,
+students were asked to imagine themselves having just nished a test that would in uence their own academic results (i.e., personal stakes), their country s international ranking(i.e., countryat stakes),orhaving no in uenceatall (i.e., no stakes). Then participants were asked to complete a test-taking motivation questionnaire where their perceived importance, anxiety, and e ort expendi- ture were elicited. Given the importance of simplicity and familiarity of vignette instructions (Bradbury-Jones et al., 2014), the exact wording for each vignette was adapted from Liu et al. (2015) as follows:
+. Personal stakes. Imagine you have just taken a test that is going to in uence your nal grades, report card, or results for this year s course of study.
+. Country at stakes. Imagine you have just taken a test that will in uence your country s ranking in an international assessment. The result will not in uence your personal academic result but will be utilised to compare China with other countries. You yourself will not be given the result from the test, nor will you be identi ed.
+. No stakes. Imagine you have just taken a test that is NOT going to in uence your nal result for this semester. You will not be given the results of the test. The result will be used for research purposes only.
+Notethat,despitetherecommendationofFinneyetal.(2018),novignettefor the scenario of school accountability testing was used because this is not a common practice in China.
+Data analysis
+Data analyses were conducted in SPSS for missing value analysis and R package lavaan (Rosseel, 2012) for factor analyses. In the current study, both the SCoA and TTM constructs were adopted from previous research; hence, it is appropri- ate to examine if the pre-existing models t well with the new samples using con rmatory factor analysis (CFA). Maximum likelihood estimation method was used as the response options for SCoA and TTM both ranged from 1 to 6 and could be considered as continuous responses (Finney & DiStefano, 2013). The absolute values of univariate skewness and kurtosis ranged from 0.07 to 1.14 and 0.01 to 1.04, respectively. Further, robust standard error (MLR) was appliedbecausethedatawerenotmultivariatenormal(Satorra&Bentler, 2001).
+Amulti-criteriaformodelacceptancewasspeci edinlinewithcurrentpractice (G.W.Cheung&Rensvold,2002;Fan&Sivo,2007;Hu&Bentler,1999;Marshetal., 2004). Speci cally, model t indices such as 2, 2/df, comparative t index (CFI), root-mean-square error of approximation (RMSEA), the 90% con dence interval of RMSEA, standardised root-mean-square residual (SRMR), and gamma hat wereexaminedtoevaluatemodelquality.A model isconsideredtohavedemon- stratedagood ttothedatawhen 2/df<3.00,SRMR<.06,gammahatandCFIare
+> .95, and RMSEA and the 90% con dence interval of RMSEA < .06. Further, a model is considered acceptable when the p value associated with the ratio of 2
+and degree of freedom is not statistically signi cant (i.e., 3.00< 2/df < 3.80), CFI and gamma hat .90, RMSEA .08, with 90% CI .08, and SRMR .08.
+As CFI tends to punish complex models with more than three factors (G. W. Cheung & Rensvold,2002) and RMSEA falsely rewards complex models with misspeci cations (Fan & Sivo,2007), emphasis was given to more stable
+ t indices such as SRMR and gamma hat. Additionally, Akaike s information cri- terion (AIC) was used to determine the relative advantages of competitive models, with a di erence of AIC larger than 10 indicating that the model with smaller AIC is more favourable (Burnham & Anderson, 2004). When a model did not meet conventional thresholds for acceptance, local t inspection of modi cation indices and correlation residuals (Kline, 2016) was carried out in order to develop an admissible model. Modi cation indices identi ed items
+that violated simple structure by being highly attracted to other factors, whereas correlation residual signals whether the model has a good represen- tation of the relationship between pairs of variables (i.e., an absolute value < .01 indicates good representation). The initial model was modi ed according
+to local t measurements to improve the correspondence to the sample, but
+may not generalise to other samples, and its applicability to the population remains to be determined; further testing with independent samples is still needed (MacCallum et al., 1992).
+Measurement models
+Initially, the SCoA scale was tested against ve existing models using con rma- tory factor analysis to identify the model that best t the data. The best tting model was selectedby evaluation of the various tindices (e.g., AIC, chi-square).
+The test-taking motivation model proposed in Knekta and Ekl f (2015) is a structural model with e ort being the dependent latent variable. In the current study, a three factor inter-correlated model (i.e., Importance, Test Anxiety, and E ort) was examined using con rmatory factor analysis prior to linking them to the SCoA construct.
+Final structural model
+To address hypotheses H1 to H6, after establishing the equivalence of measure- ment models of SCoA and TTM across the three vignette groups, the constructs (i.e., SCoA and TTM) were linked together according to the hypothesised model (Figure 1). Speci cally, E ort is predicted by SCoA directly and indirectly as mediated by perceived Importance and Test Anxiety.
+Invariance testing
+To establish whether measurement and structural models were statistically equivalent across the three vignette conditions, invariance was examined using a nested model approach (Brown et al., 2017; Byrne,2013). First, con  - gural, metric, and scalar invariance were examined for the two measurement models. Second, given that both measurement models demonstrated scalar invariance, the two constructs were evaluated for equivalence in a structural model. Third, in two separate tests, (a) the structural relationships among the latent factors and (b) the latent factor covariances (H8) were examined for invar- iance. Di erences in CFI ( CFI) <.01 indicate that the introduction of constraints has not made model t worse than a less constrained model (G. W. Cheung & Rensvold, 2002; Vandenberg & Lance, 2000).
+Latent mean analysis
+To address H9 and H10, latent mean analyses were performed to determine whether students  endorsement of the instruments di ered across three con- ditions after controlling for level of invariance (G. W. Cheung & Rensvold, 2002; Vandenberg & Lance, 2000). To compare latent mean di erences across three groups, the latent mean of the no stakes group was set as zero (i.e., the reference), allowing the means of the other two conditions to be freely esti- mated.Then,takethe countryatstakes groupasreference,allowingthe personal stakes group latent mean to be freely estimated. The estimated means of the non-reference groups are relative mean di erences to the reference group (Bentler,2005; Hong et al., 2003; Teo & Kam,2014). E ect sizes of the di erences were calculated according to guidelines given by Hancock (2001). A critical ratio (CR) > 1.96 indicates a statistically signi cant latent mean di erence (p <.05). As the prompts for the manipulation of test-taking instructions were not intro- duced until after participants had already nished the SCoA, we expect that any di erences on the endorsement of SCoA should be due to chance —and therefore that any meaningful di erences re ect underlying di erences between the experimental conditions.
+Results
+Measurement models
+For the measurement models of SCoA, the bifactor model with four unique factors had the best t relative to all other models ( AIC=467 over Model 3) (Table 2). All items had loadings >.30) on both speci c and general factors. Nonetheless, a t with 33 items was not robust for all indices. Inspection of modi cation indices identi ed items that could be removed for violation of simple structure, that is, sq1 (highly attracted to other factors) and pe1 (highly correlated residuals). Model 6 had an acceptable t with both RMSEA and SRMR indicating a good t. Intra-scale reliability estimates indicated each of the unique and general scales had strong internal consistency (i.e., McDo- nald s omega ranged from .80 to .93).
+The regression weights on the general factor were >.35 for all Improvement and A ect items, all but oneof the External Factoritems, and only one of the Irrelevance items.Similartoanearlierbifactorstudy(Weekersetal., 2009),mostofthe Improve- ment itemsloadedstronglyonthegeneralfactor,whilethe Irrelevanceitemsloaded onlyontheirspeci cuniquefactor.Appendix1reportsthescaleanditemstatistics. Overall, the model replicated previous studies in New Zealand junior secondary school and higher education contexts (Matos et al., 2019; Weekers et al., 2009) and a Brazilian higher education context (Matos et al., 2019). The relationship of the irrelevance items to the general factor is logically inverse, suggesting that the general factor captures the positive impact of assessment/testing on student beliefs or attitudes, and plausibly their self-regulating behaviours. The loadings from the unique factors are su ciently large to justify having the sub-factors. The positive role of the self-improvement factor continues to reinforce the self-regu- lated learning interpretation of student conceptions of assessment.
+In terms of the test-taking motivation scale, a three-factor (i.e., importance, anxiety, and e ort) inter-correlated measurement model was examined. The orig-
+inal model had a poor model t (Table 2). The item I felt relaxed while taking this test  in Anxiety, which had been reverse coded before analysis, had a statistically non-signi cant loading on its factor. Removing this item produced a two-item scalefor Anxiety,withreasonableestimateofscalereliability(  =.75).Whileincon- sistentwithexpectationsthatfactorshavethreeormoreitems(Bandalos&Finney, 2010), this type of scale is viable in a multi-factor inventory (Bollen, 1989).
+Within the Importance factor, Items ip1 ( Doing well on this test was impor- tant to me ) and ip2 ( It was important to me to get a good result on this test )
+had high residual correlations, suggesting redundancy. Rather than correlate
+the residuals in violation of classical test theory assumptions concerning the independence of errors, removal of each of the items was systematically evalu- ated for t in all three conditions. However, regardless of which item was removed, the t in all three groups was poor. Consequently, both items were removed and an acceptable to good t was obtained. It would seem that these two items relate to the test itself is important facet of importance, which may not have validity in this study because the students were responding to
+a vignette with a hypothetical test rather than a real test. Importance then refers to the importance of results rather than the importance of the test. The
+ nal measurement model consists of three items for the construct Importance.
+Within the E ort factor, Items ef2 ( I worked with all items in the test without givingup,evenwhenanitemwasdi cult )andef3( Ifeltmotivedtodomybest onthistest )hadhighmodi cationindicestothefactor Importance, violatingthe assumptionofsimplestructure.Removalofthesetwoitemsresultedinanaccep- table to good t (i.e., three items retained in the nal measurement model). It seems that these two items refer to actual within-test behaviours that did not apply to this hypothetical test vignette. Consequently, E ort in this study refers to diligent application of energy to do the work required by the test.
+Table 2. Model  t indices of tested SCoA measurement models.
+                                   MLR 2 2                                           MLR  2/df (p)CFIr    g       RMSEAr      90%CI         SRM      R AIC
+                                   (df)
+                                   Students  Conceptions of Assessment               4.51 (.03)  .869    .873    .068 .068        .065—.071.066     10286
+                                   1. Full Hierarchical 2900 2173 (482)              4.49 (.03)   .870    .873    .067 .073       .065—.071 .064     10284
+                                   2. Simpli  ed hierarchical 2883 2161 (481)        4.37 (.04)   .878    .880    .059            .064—.070 .060     10270
+                                   3. Full Inter-correlated 2715 2039 (467)          5.00 (.03)   .847    .855    .054            .070—.076 .066     10323
+                                   4. Simpli  ed Inter- 3286 2447 correlated (489)   3.68 (.06)   .905    .903   .135 .067        .056—.062 .054     10223
+                                   5. Bifactor with 4 Unique 2238 1699 Factors (462) 3.23 (.07)   .926    .922                    .051—.058 .051    95792
+                                   6. Trimmed #5 1720 1301 (403)                     12.38 <.001 .880    .848                .126—.144     .070 .03238552
+                                   Test-Taking Motivation Original                   3.95 <.05    .984    .979                .051—.085              24065
+                                   1231 768
+                                   (62) Trimmed 104 67
+                                   (17)
+Note: CFIr and RMSEAr denote robust robust comparative  t index and robust root-mean-square error of approxi-
+mation under MLR estimator; CI=con  dence interval; SRMR=standardised root-mean-square residual; AIC= Akaike s information criterion. Values in bold and italics represent a good and acceptable  t, respectively.
+By deleting these four items, the trimmed measurement model achieved an acceptable to good model t with conceptual coherence with Knekta and Ekl f s (2015) results (Table 2). Similar to Knekta and Ekl f (2015), the factors E ort, Importance, and Anxiety are positively and signi cantly related with each other. Appendix2 reports the nal model scale and item statistics.
+Measurement model invariance testing
+Results from multiple-group (i.e., three test-consequence conditions) invariance testing for both SCoA and TTM scales had CFI < .01 for metric and scalar equiv- alence (Appendix3). The models had an acceptable to good t for all test-taking groups. The strong equivalence and t gave warrant for creating a structural equation model using these constructs.
+Structural relations between SCoA and TTM
+Prior to evaluating the hypothesised structural relationships between SCoA and TTM (Figure 1), invariance testing was conducted to examine the moderation e ect of the vignette conditions on the structural model. Multiple-group invar- iance testing demonstrated that this model had strong equivalence across test- consequence conditions (Table 3), suggesting the structural relationships as well as the factor covariances demonstrated in the nal model were not mod- erated by the test-taking consequences (con rming H7 and H8).
+The invariance testing indicated a non-signi cant moderation e ect of vign- ette conditions on the structural relations between SCoA and TTM. Therefore, the nal structural model presents an unconditional e ect of SCoA on TTM per- taining to the hypothesised model (Figure 1). The nal SEM model was a par- tially mediated model where SCoA constructs predicted E ort directly and indirectly mediated by Importance and Test Anxiety(Figure 2). This model had
+2 2
+a good t to the data with MLR  (664)=1790, MLR  /df=2.70, p=.100, CFIr =.929, RMSEAr =.046, 90%CI=[.044—.049], SRMR=.048, and gamma hat=.924.
+The general conception of tests had a positive and moderate impact on their perceptionsofthe Importance oftestsandtheir Anxietylevels,consistentwithour hypotheses (H1 and H2). The importance of knowing the results and feeling anxious about tests depend in part on believing that tests in uence student emotions, classroom climate, improved performance, are not irrelevant, and relate to external attributions. The general conception also directly, but weakly
+(  =.18),predictedstudents e ortexpenditure(H3).Theserelationssuggeststu- dents generalideasabouttestshaveanimpactonincreasinge ortandsenseof importance and at the same time increasing anxiety around test-taking.
+Somewhat unexpectedly, only the external attributions factor had a unique contribution to the test-taking motivations. The External Factorhad a negative but trivial regression weight to Importance. The negative relationship suggests that when students believe that tests relate to external factors (e.g., school quality or parental perceptions), they are less inclined to think that the hypothe- tical test is important. This is consistent with previous research that the endor- sement of the external factor relates to depressed performance and re ects maladaptive self-regulation of learning beliefs (Brown, 2011).
+Consistent with the expectation on the e ect of perceived Importance on
+E ort (H4), a signi cant and positive relationship (  =.38) was observed in the model. Similarly, consistent with expectation, a signi cant and positive relation- ship was seen between Anxietyand E ort (H5:  =.33) and between Anxietyand Importance (r=.70).
+Latent mean analysis
+To determine if the test-taking consequence vignettes elicited di erent levels of test-taking motivation (H9 and H10), latent mean comparisons were conducted to examine di erences in mean scores across the three test-taking conditions (Table 4). The latent means were not signi cantly di erent among groups for the SCoA factors. This result is expected because students responded to the SCoA items before being assigned to test-consequence conditions; therefore, any di erences detected should be due to chance.
+In contrast, statistically signi cant mean score di erences were observed by consequence of test vignette conditions, though generally small in scale. The di erence between no consequences and country at stake was statistically sig- ni cant only for E ort, which was higher in the country consequence condition. In contrast, the di erences between no consequences and personal stakes were
+Table 3. MG-SEM invariance testing for the  nal SEM model, grouping by test-taking condition.
+MLR  2 MLR  2/df
+Group (df) (p) CFIr  CFIr g RMSEAr 90%CI SRMR
+
+EDUCATIONAL RESEARCH AND EVALUATION 
+Separate
+No stakes Country at stakes Personal stakes Combined Unconstrained Metric
+Latent Regressiona Scalarb
+Latent Variancec Latent Covarianced
+1189 (664) .18 1163 (664) .19 1108 (664) .20
+3462 (1992) .19 3576 (2116) .19
+3580 (2128) 1.68 (.20) 3660 (2178) .20 3599 (2132) 1.69 (.19) 3598 (2134) 1.69 (.19)
+.913 .895 .914 .897 .929 .911
+.919 .901 .919 .000 .900 .919 .000 .900 .918 .001 .899 .918 .899 .918 .001 .899
+.053 .048-.058 .057 .053 .047-.057 .056 .048 .043-.053 .061
+.051 .048-.054 .057 .050 .047-.053 .064 .050 .047-.052 .065 .049 .047-.052 .064 .050 .047-.053 .065 .050 .047-.053 .065
+
+EDUCATIONAL RESEARCH AND EVALUATION 251
+Note: MG-SEM=multiple-group structural equation model; CFIr and RMSEAr denote robust comparative  t index
+and robust root-mean-square error of approximation under MLR estimator; CI=con  dence interval; SRMR= standardised root-mean-square residual. Values in bold and italics represent a good and acceptable  t, respect- ively.
+aLatent regressioninvariance was examined after metric invariance was established.bScalar invariance was exam-
+ined after metric invariance was established.cLatent variance invariance was examined after metric invariance was established.dLatent covariance invariance was examined after latent variance invariance was established.
+consistently statistically signi cant, although e ect sizes were small for both
+E ort and Anxietyand trivial for Importance. The di erences between country at stake and personal stakes were statistically di erent only for Anxiety, again with a small e ect.
+Taken together, the results con rmed our hypothesis (H9) that students did not meaningfully di erentiate country at stakes and personal stakes conditions on e ort expenditure. The results suggest that Shanghai students expected
+to exert full e ort for a test that is not personally relevant, but important for their country s international ranking. However, higher levels of Anxietywere not seen when the country was at stakes. Given the small di erences in mean Importance, contrary to the expectation (H10), it seems students in the study were equally concerned about the test results regardless of test-taking stakes.
+Discussion
+Addressing the concern that students in high-performing societies might have merely tried harder than students elsewhere, this experimental between-sub- jects study established that the level of consequence had an impact on self- reported test-taking motivation. In general, motivational factors (i.e., E ort, Importance, and Anxiety) were all greater as consequences shifted from none, to country at stakes, and were highest in individual consequences. However,
+di erences between country and individual at stake were statistically signi  - cant, albeit trivial, and only for Anxiety. Otherwise, students in these two di erent conditions were indistinguishable.
+The latent mean score analyses reveal that in this sample of Shanghai stu- dents, distinctions between country and personal stakes are not made, unlike previous studies carried out in the Nordic region. This result reinforces Li s
+
+Figure 2. Structural relationships between students conceptions of assessment and test-taking motivation in Shanghai.
+Note: The model applies equivalently to all three condition groups. SMC=squared multiple correlate (R2); values are standardised; non-signi  cant at .05 level regression paths not shown; non-signi  cant at .05 level factor load- ings presented in dashed lines; negative latent regression paths shown in dashed lines.
+claim (2002) that e ort is highly valued in Chinese societies regardless of the task. Though Zhao (2014) argues that promoting e ort in Chinese education
+is a cover up for the government s ignoring of students  diverse abilities, it seems to have had the e ect of instilling hard work, especially on tests, among Chinese students. The result is consistent with Gneezy et al. (2019) in that Shanghai students seemed to be motivated to make an e ort on a test regardless of experimental conditions. Participants in the study were aware that the country at stakes consequence was not personally relevant to them as they did not report elevated anxiety or importance compared to those in the no stakes group. Yet, they claimed to exert as much e ort as if it mattered personally. Together, these lead us to conclude that there may be no such thing
+as a low-consequence test in Shanghai insofar as test-taking motivation is concerned.
+Consistent with the theoretical model, Shanghai students conceptions of the purposes of tests had a statistically signi cant but small impact on test-taking motivation. The stronger the general conception of test as improving learning, being related to external attributions, class climate, and personal emotions, the more students thought tests were important, stimulated greater anxiety, and exerted more e ort. It is noteworthy that the SCoA in uence was through a
+general factor rather than the subordinate independent factors as seen in pre- vious studies with New Zealand high school students (Brown & Hirschfeld, 2008; Brown, Peterson, & Irving,2009; Brown & Walton,2017). This may arise because of the extensive usage of summative testing in Shanghai rather than the more formative uses of standardised tests in New Zealand. Nonetheless, this result is consistent with Wise and Cotten (2009), who showed that unique factors in stu- dents  conceptions of assessment predicted test e ort on a low-stakes test.
+Regarding the relationship between Anxietyand E ort, the path values all suggest, regardless of condition, that greater anxiety resulted in greater
+e ort. This is consistent with research that positions the negative emotion anxiety as an activating force for greater e ort and performance (Pekrun
+et al., 2002). This suggests that all students in this study, and potentially all Chinese students, see testing as anxiety-prone, but such negative emotions
+are not handicapping but rather contribute to more e ort.
+The generalisability of this result is somewhat limited because the sample was marginally older than the PISA cohort, but nearly half were only 1 year older than the PISA target age. Nevertheless, the age e ect may be signi cant, as other studieshavefoundthatolderagehighschoolstudentswithexperienceofquali ca-
+tion assessments do have di erent conceptions of assessment (Hirschfeld & Brown, 2009). Future studies, provided they can obtain informed parental consent, should replicate this study with age-appropriate students to better match PISA cohorts.
+Second,thedatare ectstudents self-reportedtest-takingbehaviours,motiv- ations, and beliefs in hypothetical rather than real-life test circumstances. It is possible that participants will react di erently in real-life testing situations (Paddam et al., 2010). Nonetheless, the experiment revealed logical responses from participants, which constitutes a version of reality  (Torres,2009, p. 105)
+Table 4. Latent mean analyses based on the scalar invariance model.
+Scale Statistic                             No vs. Country             No vs. Personal                 Country vs. Personal
+Student Conceptions of Assessment External  .06                        .05                              .01
+ Factor                                     .14ns                      .12ns                            .01ns
+ M                                          .00                        .00                             .00
+d Improvement M                             .01ns                      .02ns  .01                      .00ns  .02
+d Irrelevance M                             .01                         .01ns  .08                      .04ns  .04
+d                                           .02ns  .04                         .13ns .03 .06            .07ns
+A  ect M                                     .07ns  .04                .48                             .07 .14ns
+d General M                                  .08ns                     .39***                          .17
+d Test-Taking Motivation                    .31 .24** .05              .19                             .14ns .14
+E  ort M                                    .04ns .10                  .17*                            .13ns .27 .22*
+d                                           .07ns                      .36 .26**
+Importance
+Test Anxiety
+M
+d
+M
+d
+Note:d=Cohen s d; ns =not statistically signi  cant.
+*p<.05. **p<.01. ***p<.001.
+that is helpful to unravel participants  interpretations of the di erent scenarios (Jenkins et al., 2010). Future studies should investigate how these results trans- late to real-life assessments.
+However, it is possible that students might over- or underreport their TTM for various reasons (i.e., self-protection mechanism, items too di cult, fatigue, etc.; Myers & Finney,2019, 2021; Penk & Richter,2017). For example, Myers and Finney (2021) found that students  self-reported scores of E ort decreased sig-
+ni cantly on average when asked to rate their e ort expenditure both prospec-
+tively and retrospectively. Therefore, future research could measure students TTM both prior and after a computerised real-life test (with di erent conse- quences attached), where both behavioural TTM (in response time) and self- reported TTM could be analysed together while observing change in TTM and the impact of consequences on TTM. Nevertheless, considering that unrealistic test-taking instructions might contribute to biased results (Finney et al., 2018), creating a convincing real-life context of country at stakes will not be feasible if close collaboration with PISA, TIMSS, or other ILSAs is not possible.
+The stability of the structural model across the three experimental con- ditions indicates that the participants are drawn from a single population of test-taking students. The results reinforce the importance of reporting test- taking motivation on any international comparative test because of the non-negligible e ect of motivation on e ort and logically performance. This study expands our understanding of Chinese students  test-taking behaviours
+in assessment situations such as PISA or TIMSS. Potentially due to high societal expectations on performance, Shanghai students are ready to expend good e ort regardless of the task consequence. It suggests a possible causal factor for the high results seen in Shanghai and suggests caution when evaluating the rank-order results reported by PISA. Even though the results cannot be linked directly to assessments such as PISA itself, the study helps
+us to understand how students from di erent contexts behave when test con- sequences are at di erent levels.
+Notes
+1. Shanghai (China) ranked the rst place in both PISA 2009 and 2012. In PISA 2018, the aggregated sample of Beijing, Shanghai, Jiangsu, and Zhejiang also ranked the rst.
+2. Four jurisdictions in China participated in PISA 2015, namely, Beijing, Shanghai, Jiangsu, and Guangzhou.
+3. The ShanghaiPISA2012sampleof 15-year-oldsismostlyeitherinthelastyearof junior high schools (39.8%) or the rst year of senior secondary schools (53.6% in total, within which, 63.4% attended regular schools and 36.6% vocational schools).
+Disclosure statement
+No potential con ict of interest was reported by the authors.
+Notes on contributors
+Anran Zhao is now a data analyst at the New Zealand Ministry of Education. Her research focuses on international large-scale assessments with a special interest in its comparability across di erent cultures. This paper arises from her PhD thesis, now under examination.
+Gavin T. L. Brownis a professor specialising in quantitative data analysis and psychometrics. He is also an a liated professor at Ume  University. His research focuses on the relationship of assessment qualities and purposes to student and teacher responses around assessment including learning outcomes across a variety of cultural and social contexts.
+Kane Meisselis a senior lecturer in educational psychology. His research focuses on the use of advanced quantitative methodologies to identify and reduce educational disparities, as well as promote equity and social justice for traditionally marginalised learners.
+ORCID
+Anran Zhao http://orcid.org/0000-0001-6813-8995 Gavin T. L. Brownhttp://orcid.org/0000-0002-8352-2351
+Kane Meissel http://orcid.org/0000-0003-1867-8218
+References
+Akyol,  . P., Krishna, K., & Wang, J. (2018). Taking PISA seriously, how accurate are low stakes
+exams (Working Paper No. 24930). http://www.nber.org/papers/w24930
+Bandalos, D. L., & Finney, S. J. (2010). Factor analysis: Exploratory and con  rmatory. In G. R.
+Hancock & R. O. Mueller (Eds.),The reviewer s guide to quantitative methods in the social sciences (pp. 93—114). Routledge.
+Baumert, J., & Demmrich, A. (2001). Test motivation in the assessment of student skills: The
+e ects of incentives on motivation and performance. European Journal of Psychology of Education, 16(3), 441—462. https://doi.org/10.1007/BF03173192
+Bentler, P. M. (2005).EQS 6 structural equations program manual . Multivariate Software. Bollen, K. A. (1989). Structural equations with latent variables . John Wiley & Sons.
+Borgonovi, F., & Biecek, P. (2016). An international comparison of students  ability to endure
+fatigue and maintain motivation during a low-stakes test. Learning and Individual Di  erences, 49, 128—137. https://doi.org/10.1016/j.lindif.2016.06.001
+Bradbury-Jones, C., Taylor, J., & Herber, O. R. (2014). Vignette development and adminis-
+tration: A framework for protecting research participants. International Journal of Social
+Research Methodology, 17(4), 427—440. https://doi.org/10.1080/13645579.2012.750833 Brown, G. T. L. (2008). Students  conceptions of assessment inventory (SCoA Version VI)
+[Measurement instrument]. University of Auckland. https://doi.org/10.17608/k6.auckland.
+4596820.v1
+Brown, G. T. L. (2011). Self-regulation of assessment beliefs and attitudes: A review of the stu-
+dents  conceptions of assessment inventory. Educational Psychology, 31(6), 731—748. https://doi.org/10.1080/01443410.2011.599836
+Brown, G. T. L. (2013). Student conceptions of assessment across cultural and contextual
+di  erences. In G. A. D. Liem & A. B. I. Bernardo (Eds.),Advancing cross-cultural perspectives on educational psychology (pp. 143—167). Information Age Publishing.
+Brown, G. T. L., Harris, L. R., O Quin, C., & Lane, K. E. (2017). Using multi-group con  rmatory factor analysis to evaluate cross-cultural research: Identifying and understanding non-
+invariance. International Journal of Research & Method in Education, 40(1), 66—90. https:// doi.org/10.1080/1743727X.2015.1070823
+Brown, G. T. L., & Hirschfeld, G. H. F. (2008). Students conceptions of assessment: Links to out-
+comes. Assessment in Education: Principles, Policy & Practice, 15(1), 3—17. https://doi.org/10. 1080/09695940701876003
+Brown, G. T. L., Hui, S. K. F., Yu, F. W. M., & Kennedy, K. J. (2011). Teachers  conceptions of
+assessment in Chinese contexts: A tripartite model of accountability, improvement, and irrelevance. International Journal of Educational Research, 50(5—6), 307—320. https://doi. org/10.1016/j.ijer.2011.10.003
+Brown, G. T. L., Irving, S. E., Peterson, E. R., & Hirschfeld, G. H. F. (2009). Use of interactive—infor-
+mal assessment practices: New Zealand secondary students  conceptions of assessment.
+Learning and Instruction, 19(2), 97—111. https://doi.org/10.1016/j.learninstruc.2008.02.003 Brown, G. T. L., Peterson, E. R., & Irving, S. E. (2009). Beliefs that make a di  erence: Adaptive
+and maladaptive self-regulation in students  conceptions of assessment. In D. M.
+McInerney, G. T. L. Brown, & G. A. D. Liem (Eds.),Student perspectives on assessment:
+What students can tell us about assessment for learning (pp. 159—186). Information Age
+Publishing.
+Brown, G. T. L., Peterson, E. R., & Yao, E. S. (2016). Student conceptions of feedback: Impact on
+self-regulation, self-e cacy, and academic achievement. British Journal of Educational Psychology, 86(4), 606—629. https://doi.org/10.1111/bjep.12126
+Brown, G. T. L., & Walton, K. F. (2017). The e ect of conceptions of assessment upon reading
+achievement: An evaluation of the in uence of self-e cacy and interest. Interdisciplinary
+Education and Psychology, 1(1): 3.https://doi.org/10.31532/InterdiscipEducPsychol.1.1.003 Burnham, K. P., & Anderson, D. R. (2004).Multimodel inference: Understanding AIC and BIC in
+model selection. Sociological Methods & Research, 33(2), 261—304. https://doi.org/10.1177/
+0049124104268644
+Byrne, B. M. (2013).Structural equation modelling with AMOS: Basic concepts, applications, and
+programming (2nd ed.). Routledge.
+Chen, J., & Brown, G. T. L. (2018). Chinese secondary school students  conceptions of assess- ment and achievement emotions: Endorsed purposes lead to positive and negative feel-
+ings. Asia Paci c Journal of Education, 38(1), 91—109. https://doi.org/10.1080/02188791. 2018.1423951
+Cheung, G. W., & Rensvold, R. B. (2002). Evaluating goodness-of- t indexes for testing
+measurement invariance. Structural Equation Modeling: A Multidisciplinary Journal, 9(2), 233—255. https://doi.org/10.1207/S15328007SEM0902_5
+Cheung, T. K. Y. (2008). An assessment blueprint in curriculum reform. Journal of Quality
+School Education, 5, 23—37.
+Cronbach, L. J. (1960). Essentials of psychological testing(2nd ed.). Harper & Row.
+Dempster, A. P., Laird, N. M., & Rubin, D. B. (1977). Maximum likelihood estimation from
+incomplete data via the EMalgorithm. Journal of the Royal Statistical Society: Series B (Methodological), 39(1), 1—22. https://doi.org/10.1111/j.2517-6161.1977.tb01600.x
+Deneen, C. C.,Brown, G. T.L., Bond,T.G., & Shro  , R. H. (2013).Understanding outcome-based education changes in teacher education: Evaluation of a new instrument with preliminary
+ ndings. Asia-Paci c Journal of Teacher Education, 41(4), 441—456. https://doi.org/10.1080/ 1359866X.2013.787392
+Dorans, N. J. (2012). The contestant perspective on taking tests: Emanations from the statue
+within. Educational Measurement: Issues and Practice,31(4),20—37. https://doi.org/10.1111/ j.1745-3992.2012.00250.x
+Dorgan, M. (2000, July 9). In China, examinations determine fate. Chicago Tribune. https://
+www.chicagotribune.com/news/ct-xpm-2000-07-09-0007090206-story.html
+Duckworth,A.L.,Quinn,P.D.,Lynam,D.R.,Loeber,R.,&Stouthamer-Loeber,M.(2011).Roleof
+test motivation in intelligence testing. Proceedings of the National Academy of Sciences,108 (19), 7716—7720. https://doi.org/10.1073/pnas.1018601108
+Eccles, J. S., & Wig  eld, A. (2002). Motivational beliefs, values, and goals. Annual Review of
+Psychology, 53, 109—132. https://doi.org/10.1146/annurev.psych.53.100901.135153
+Ekl f, H. (2007). Test-taking motivation and mathematics performance in TIMSS 2003.
+InternationalJournalofTesting,7(3),311—326.https://doi.org/10.1080/15305050701438074 Ekl f,H. (2008).Test-takingmotivationonlow-stakestests:A SwedishTIMSS2003example.In
+M. von Davier & D. Hastedt (Eds.),IERI monograph series: Vol. 1. Issues and methodologies in large-scale assessments (pp. 9—21). IEA-ETS Research Institute.
+Ekl f, H. (2010). Skill and will: Test-taking motivation and assessment quality. Assessment in
+Education: Principles, Policy and Practice, 17(4), 345—356. https://doi.org/10.1080/ 0969594X.2010.516569
+Ekl f, H., & Knekta, E. (2017). Using large-scale educational data to test motivation theories: A
+synthesis of ndings from Swedish studies on test-taking motivation. International Journal of Quantitative Research in Education, 4(1—2), 52—71. https://doi.org/10.1504/IJQRE.2017. 086499
+Ekl f, H., & Nyroos, M. (2013). Pupil perceptions of national tests in science: Perceived impor-
+tance, invested e ort, and test anxiety. European Journal of Psychology of Education, 28(2), 497—510. https://doi.org/10.1007/s10212-012-0125-6
+Ekl f, H., Pave i , B. J., & Gr¿nmo, L. S. (2014). A cross-national comparison of reported e ort
+and mathematics performance in TIMSS advanced. Applied Measurement in Education, 27
+(1), 31—45. https://doi.org/10.1080/08957347.2013.853070 Fan,X.,&Sivo,S.A.(2007).Sensitivityof tindicestomodelmisspeci cationandmodeltypes.
+Multivariate Behavioral Research, 42(3), 509—529. https://doi.org/10.1080/0027317070138
+2864
+Finney, S. J., & DiStefano, C. (2013). Non-normal and categorical data in structural equation
+modeling. In G. R. Hancock & R. O. Mueller (Eds.),Structural equation modeling: A second course (pp. 439—492). Information Age Publishing.
+Finney, S. J., Mathers, C. E., & Myers, A. J. (2016). Investigating the dimensionality of examinee
+motivation across instruction conditions in low-stakes testing contexts. Research & Practice in Assessment, 11, 5—17.
+Finney, S. J., Myers, A.J., & Mathers, C.E. (2018). Test instructions donot moderate the indirect
+e ect of perceived test importance on test performance in low-stakes testing contexts. International Journal of Testing, 18(4), 297—322. https://doi.org/10.1080/15305058.2017. 1396466
+Flores, M. A., Brown, G., Pereira, D., Coutinho, C., Santos, P., & Pinheiro, C. (2019). Portuguese
+university students  conceptions of assessment: Taking responsibility for achievement. Higher Education, 79(3), 377—394. https://doi.org/10.1007/s10734-019-00415-2
+Gao, L., & Watkins, D. A. (2002). Conceptions of teaching held by school science teachers in
+P.R. China: Identi cation and cross-cultural comparisons. International Journal of Science Education, 24(1), 61—79. https://doi.org/10.1080/09500690110066926
+Gao, L., & Watkins,D. (2001). Identifying andassessing theconceptions of teaching of second-
+ary school physics teachers in China. British Journal of Educational Psychology, 71(3), 443— 469. https://doi.org/10.1348/000709901158613
+Gao, M. (2010).Student perspectives of school-based assessment [Unpublished doctoral disser-
+tation]. University of Hong Kong.
+Gneezy, U., List, J. A., Livingston, J. A., Qin, X., Sado  , S., & Xu, Y. (2019). Measuring success in
+education: The role of e ort on the test itself. American Economic Review: Insights, 1(3), 291—308. https://doi.org/10.1257/aeri.20180633
+Hancock, G. R. (2001). E ect size, power, and sample size determination for structured means
+modeling and mimic approaches to between-groups hypothesis testing of means on a
+single latent construct. Psychometrika,66(3), 373—388.https://doi.org/10.1007/BF02294440 Hawthorne, K. A., Bol, L., Pribesh, S., & Suh, Y. (2015). E  ects of motivational prompts on
+motivation, e ort, and performance on a low-stakes standardized test. Research Practice
+in Assessment, 10(1), 30—38.
+Hirschfeld,G. H.F.,&Brown,G. T.L.(2009).Students conceptionsofassessment:Factorial and
+structural invariance of the SCoA across sex, age, and ethnicity. European Journal of Psychological Assessment, 25(1), 30—38. https://doi.org/10.1027/1015-5759.25.1.30
+Hong, S., Malik, M. L., & Lee, M.-K. (2003). Testing con  gural, metric, scalar, and latent mean
+invariance across genders in sociotropy and autonomy using a non-western sample. Educational and Psychological Measurement, 63(4), 636—654. https://doi.org/10.1177/ 0013164403251332
+Hopfenbeck, T.N., &Kj rnsli, M. (2016). Students test motivation in PISA: The caseof Norway.
+The Curriculum Journal, 27(3), 406—422. https://doi.org/10.1080/09585176.2016.1156004 Hu, L., & Bentler, P. M. (1999). Cuto  criteria for t indexes in covariance structure analysis:
+Conventional criteria versus new alternatives. Structural Equation Modeling: A
+Multidisciplinary Journal, 6(1), 1—55. https://doi.org/10.1080/10705519909540118
+Hughes, R., & Huby, M. (2004). The construction and interpretation of vignettes in social
+research. Social Work and Social Sciences Review, 11(1), 36—51. https://doi.org/10.1921/ 17466105.11.1.36
+Jenkins, N., Bloor, M., Fischer, J., Berney, L., & Neale, J. (2010). Putting it in context: The use of
+vignettes in qualitative interviewing. Qualitative Research, 10(2),175—198. https://doi.org/ 10.1177/1468794109356737
+Jin, D., & Nida, E. A. (2006).On translation: An expanded edition. City University of Hong Kong
+Press.
+Kline, R. B. (2016). Methodology in the social sciences. Principles and practice of structural
+equation modeling (4th ed.). The Guilford Press.
+Knekta, E. (2017). Are all pupils equally motivated to do their best on all tests? Di erences in
+reported test-taking motivation within and between tests with di erent stakes. Scandinavian Journal of Educational Research, 61(1), 95—111. https://doi.org/10.1080/ 00313831.2015.1119723
+Knekta, E., & Ekl f, H. (2015). Modeling the test-taking motivation construct through investi-
+gation of psychometric properties of an expectancy-value-based questionnaire. Journal of
+Psychoeducational Assessment,33(7), 662—673. https://doi.org/10.1177/0734282914551956 Lam, T.C. M., & Klockars, A. J. (1982). Anchor point e ects on the equivalence of questionnaire
+items. Journal of Educational Measurement, 19(4), 317—322. https://doi.org/10.1111/j.1745-
+3984.1982.tb00137.x
+Lau, A. R., Swerdzewski, P. J., Jones, A. T., Anderson, R. D., & Markle, R. E. (2009). Proctors
+matter: Strategies for increasing examinee e ort on general education program assess-
+ments. The Journal of General Education,58(3), 196—217. https://doi.org/10.1353/jge.0.0045 Li, J. (2002). A cultural model of learning: Chinese heart and mind for wanting to learn .
+Journal of Cross-Cultural Psychology, 33(3), 248—269. https://doi.org/10.1177/
+0022022102033003003
+Liu, O. L., Bridgeman, B., & Adler, R. M. (2012). Measuring learning outcomes in higher edu-
+cation: Motivation matters. Educational Researcher, 41(9), 352—362. https://doi.org/10. 3102/0013189X12459679
+Liu,O. L., Rios, J. A., & Borden, V. (2015). The e  ects of motivational instruction on college stu-
+dents  performance on low-stakes assessment. Educational Assessment, 20(2), 79—94. https://doi.org/10.1080/10627197.2015.1028618
+MacCallum, R. C., Roznowski, M., & Necowitz, L. B. (1992). Model modi  cations in covariance
+structure analysis: The problem of capitalization on chance. Psychological Bulletin, 111(3), 490—504. https://doi.org/10.1037/0033-2909.111.3.490
+Marsh, H. W., Hau, K.-T., & Wen, Z. (2004). In search of golden rules: Comment on hypothesis- testing approaches to setting cuto  values for t indexes and dangers in overgeneralizing
+Hu and Bentler s (1999) ndings. Structural Equation Modeling, 11(3), 320—341. https://doi. org/10.1207/s15328007sem1103_2
+Matos, D. A. S., & Brown, G. T. L. (2015). Comparing university student conceptions of assess-
+ment: Brazilian and New Zealand beliefs. In C. Carvalho & J. Conboy (Eds.),Feedback, iden- tidade, trajet rias escolares: Din micas e consequ ncias (pp. 177—194). Universidade de Lisboa, Instituto de Educa  o.
+Matos, D. A. S., Brown, G. T. L., & Gomes, C. (2019). Bifactor invariance analysis of Student
+Conceptions of Assessment Inventory. Psico-USF, 24(4), 737—750. https://doi.org/10.1590/ 1413-82712019240411
+Myers, A. J., & Finney, S. J. (2019). Does it matter if examinee motivation is measured before or
+after a low-stakes test? A moderated mediation analysis. Educational Assessment, 26(1), 1— 19. https://doi.org/10.1080/10627197.2019.1645591
+Myers, A. J., & Finney, S. J. (2021). Change in self-reported motivation before to after test com-
+pletion: Relation with performance. The Journal of Experimental Education, 89(1), 74—94. https://doi.org/10.1080/00220973.2019.1680942
+Organisation for Economic Co-operation and Development. (2011). Strong performers and
+successful reformers in education: Lessons from PISA for the United States. https://doi.org/ 10.1787/2220363x
+Organisation for Economic Co-operation and Development. (2014).PISA 2012 technical report.
+https://www.oecd.org/pisa/pisaproducts/PISA-2012-technical-report- nal.pdf
+Paddam, A., Barnes, D., & Langdon, D. (2010). Constructing vignettes to investigate anger in
+multiple sclerosis. Nurse Researcher, 17(2), 60—73. https://doi.org/10.7748/nr2010.01.17.2. 60.c7463
+Pekrun, R., Goetz, T., Titz, W., & Perry, R. P. (2002). Academic emotions in students  self-
+regulated learning and achievement: A program of qualitative and quantitative research. Educational Psychologist, 37(2), 91—105. https://doi.org/10.1207/ S15326985EP3702_4
+Penk, C., & Richter, D. (2017). Change in test-taking motivation and its relationship to test per-
+formance in low-stakes assessments. Educational Assessment, Evaluation and Accountability, 29(1), 55—79. https://doi.org/10.1007/s11092-016-9248-7
+Penk, C., & Schipolowski, S. (2015). Is it all about value? Bringing back the expectancy com-
+ponent to the assessment of test-taking motivation. Learning and Individual Di erences, 42, 27—35. https://doi.org/10.1016/j.lindif.2015.08.002
+Peterson, E. R., Brown, G. T. L., & Hamilton, R. J. (2013). Cultural di  erences in tertiary students 
+conceptions of learning as a duty and student achievement. International Journal of Quantitative Research in Education, 1(2), 167—181. https://doi.org/10.1504/IJQRE.2013. 056462
+Putwain, D. (2008). Do examinations stakes moderate the test anxiety—examination perform-
+ance relationship? Educational Psychology, 28(2), 109—118. https://doi.org/10.1080/
+01443410701452264 Rosseel,Y.(2012).lavaan:AnRpackageforstructuralequationmodeling. Journal ofStatistical
+Software, 48(2), 1—36. https://doi.org/10.18637/jss.v048.i02
+Rutkowski, D., & Wild, J. (2015). Stakes matter: Student motivation and the validity of student
+assessments for teacher evaluation. Educational Assessment, 20(3), 165—179. https://doi. org/10.1080/10627197.2015.1059273
+Satorra, A., & Bentler, P. M. (2001). A scaled di erence chi-square test statistic for moment
+structure analysis. Psychometrika, 66(4), 507—514. https://doi.org/10.1007/BF02296192 Shanghai Government. (2013). Shanghai statistical yearbook 2013. https://tjj.sh.gov.cn/tjnj/
+zgsh/tjnj2013en.html
+Silm, G., Must, O., & T ht, K. (2013). Test-taking e ort as a predictor of performance in low-
+stakes tests. TRAMES: A Journal of the Humanities and Social Sciences, 17(4), 433—488. https://doi.org/10.3176/tr.2013.4.08
+Skilling, K., & Stylianides, G. J. (2020). Using vignettes in educational research: A framework for
+vignette construction. International Journal of Research & Method in Education, 43(5), 541— 556. https://doi.org/10.1080/1743727X.2019.1704243
+Smith, L. F., & Smith, J. K. (2004). The in uence of test consequence on national examinations.
+North American Journal of Psychology, 6(1), 13—25. http://scholar.google.com/scholar?hl= en&btnG=Search&q=intitle:The+In uence+of+Test+Consequence+on+National+Examina tions#0
+Teo, T., & Kam, C. (2014). A measurement invariance analysis of the General Self-E cacy Scale
+on two di erent cultures. Journal of Psychoeducational Assessment,32(8), 762—767. https:// doi.org/10.1177/0734282914531707
+Thelk, A. D., Sundre, D. L., Horst, S. J., & Finney, S. J. (2009). Motivation matters: Using the
+Student Opinion Scale to make valid inferences about student performance. The Journal of General Education, 58(3), 129—151. https://doi.org/10.1353/jge.0.0047
+Torres, S. (2009). Vignette methodology and culture-relevance: Lessons learned through a
+project on successful aging with Iranian immigrants to Sweden. Journal of Cross-Cultural Gerontology, 24, 93—114. https://doi.org/10.1007/s10823-009-9095-9
+Tran, T. V., Nguyen, T., & Chan, K. (2017).Adopting or adapting existing instruments. In T. V.
+Tran, T. H. Nguyen, & K. T. Chan (Eds.),Developing cross-cultural measurement in social work research and evaluation (2nd ed.). Oxford University Press. https://doi.org/10.1093/acprof: oso/9780190496470.003.0003
+Vandenberg,R. J.,& Lance,C.E. (2000). Areview andsynthesisof the measurementinvariance
+literature: Suggestions, practices, and recommendations for organizational research.
+Organizational Research Methods, 3(1), 4—70. https://doi.org/10.1177/109442810031002 Wang, Z., & Brown, G. T. L. (2014). Hong Kong tertiary students conceptions of assessment of
+academic ability. Higher Education Research and Development, 33(5), 1063—1077. https://
+doi.org/10.1080/07294360.2014.890565
+Weekers, A. M., Brown, G. T. L., & Veldkamp, B. P. (2009). Analyzing the dimensionality of the
+Students ConceptionsofAssessment(ScoA)inventory.InD.M.McInerney,G.T.L.Brown,& G. A. D. Liem (Eds.),Student perspectives on assessment: What students can tell us about assessment for learning (pp. 133—157). Information Age Publishing.
+Wise, S. L. (2015). E ort analysis: Individual score validation of achievement test data. Applied
+Measurement in Education, 28(3), 237—252. https://doi.org/10.1080/08957347.2015. 1042155
+Wise,S.L.,&Cotten,M.R.(2009).Test-takinge ort andscore validity:Thein uenceofstudent
+conceptions ofassessment.InD.M. McInerney,G. T.L.Brown,&G.A.D. Liem(Eds.),Student perspectivesonassessment:Whatstudentscantellusaboutassessmentforlearning (pp.187— 205). Information Age Publishing.
+Wise, S. L., & DeMars, C. E. (2005). Low examinee e ort in low-stakes assessment: Problems
+and potential solutions. Educational Assessment, 10(1), 1—17. https://doi.org/10.1207/ s15326977ea1001_1
+Wise, S. L., & DeMars, C. E. (2010). Examinee none ort and the validity of program
+assessment results. Educational Assessment, 15(1), 27—41. https://doi.org/10.1080/ 10627191003673216
+Wise, S. L., Soland, J., & Bo, Y. (2019). The (non)impact of di erential test taker engagement on
+aggregated scores. International Journal of Testing, 20(1), 57—77. https://doi.org/10.1080/ 15305058.2019.1605999
+Wolf, L. F., & Smith, J. K. (1995). The consequence of consequence: Motivation, anxiety, and
+test performance. Applied Measurement in Education, 8(3), 227—242. https://doi.org/10. 1207/s15324818ame0803_3
+Zamarro,G., Hitt,C.,& Mendez,I.(2019).Whenstudentsdon t care:Reexamininginternational
+di erences in achievement and student e ort. Journal of Human Capital, 13(4), 519—552. https://doi.org/10.1086/705799
+Zhao, Y. (2014). Who s afraid of the big bad dragon: Why China has the best (and worst) edu-
+cation system in the world. Jossey-Bass.
+Zhou, L. (2017).Gao zhong sheng shuxue cuotiji jianli yu shiyong de tansuo [The exploration of
+establishment and use in mathematical errors of senior high school students] [Master s
+thesis, Hunan Institute of Science and Technology]. CNKI. http://gb.oversea.cnki.net/
+KCMS/detail/detail.aspx? lename=1017257688.nh&dbcode=CMFD&dbname=CMFDTEMP Zilberberg, A., Finney, S. J., Marsh, K. R., & Anderson, R. D. (2014). The role of students  atti-
+tudes and test-taking motivation on the validity of college institutional accountability
+tests: A path analytic model. International Journal of Testing, 14(4), 360—384. https://doi.
+org/10.1080/15305058.2014.928301
+Appendix1. Students  conceptions of assessment scale factors, items, and scale descriptive statistics
+Code Item ExF Imp A  Irr G
+External Factor (ExF) (M=3.26,SD=1.08,  =.80)
+sf1 Test results show how intelligent I am. .285 .340 sf2 Test results predict my future performance. .654 .553 sf3 Tests are important for my future career or job. .418 .610 sf4 Tests tell my parents how much I ve learnt.  .051 .694 sq2 Tests measure the worth or quality of schools. .285 .515 Improvement (Imp) (M=4.18,SD=1.08,  =.93)
+si1 I pay attention to my test results in order to focus on what I .210 .474
+could do better next time.
+si2 I make use of the feedback I get to improve my learning. .448 .717 si3 I look at what I got wrong or did poorly on to guide what I .152 .689
+should learn next.
+si4 I use tests to take responsibility for my next learning steps. .126 .766 si5 I use tests to identify what I need to study next. .108 .784 ti1 Tests help teachers track my progress. .314 .611 ti2 Tests are a way to determine how much I have learned from .654 .630
+teaching.
+ti3 Testing involves checking o  my progress against .605 .674
+achievement objectives or standards.
+ti4 My teachers use tests to help me improve.  .006 .707 ti5 Teachers use my test results to see what they need to teach  .134 .592
+me next.
+ti6 Tests show whether I can analyse and think critically about a .059 .710
+topic.
+A  ect (A  ) (M=3.77,SD=1.13,  =.91)
+ce1 Tests encourage my class to work together and help each .400 .557
+other.
+ce2 Tests motivate me and my classmates to help each other. .450 .685 ce3 Our class becomes more supportive when we are tested. .561 .626 ce4 When we are taking tests, there is a good atmosphere in our .351 .505
+class.
+ce5 Tests make our class cooperate more with each other. .515 .612 ce6 When we know we are going to be tested, our class becomes .164 .653
+more motivated to learn.
+pe2 I  nd myself really enjoying learning when I am going to be .136 .629
+tested.
+Irrelevance (Irr) (M=2.74,SD=1.00,  =.88)
+ig1 I ignore test information .491  .137 ig2 I ignore or throw away my test results. .653  .275 ig3 Tests have little impact on my learning. .569  .213 bd1 Testing is unfair to students. .507  .263 bd2 Tests interfere with my learning. .662  .332 bd3 Teachers are over-testing .545  .204 bd4 Test results are not very accurate. .504  .188 bd5 Tests are valueless. .725  .403
+Note: G=general.  =McDonald s Omega estimate of reliability. Numbers in bold represent regression weights
+higher than .30.
+Appendix 2. Test-taking motivation factors, items, and scale descriptive statistics
+Code Item Factor Loading
+E  ort (M =4.36,SD =1.24,  = .85)
+ef1 I did my best on this test. .913 ef4 I spent more e  ort on this test than I do on other tests we have in school. .670 ef5 I gave this test my full attention while completing it. .842 Importance (M =4.64,SD =1.27,  = .89)
+ip3 I am very curious about the result I received on this test. .847 ip4 I would like to know how well I did on this test. .923 ip5 I would like to know where I did wrong on the test. .799 Test Anxiety (M =4.42,SD =1.42,  = .75)
+ta1 Before taking this test, I worried about how di  cult it would be. .873 ta2 I was scared of failing on this test. .684
+Inter-factor correlations
+TTM factors II III
+I. E  ort .706 .663
+II. Importance - .733
+III. Test Anxiety - -
+Note.  = McDonald s Omega estimate of reliability; TTM = test-taking motivation. Loading values are standar-
+dised weights. Numbers in bold represent regression weights higher than .30.
+Appendix3. Result from MG-CFA invariance testing for SCoA and test-taking motivation scales
+MLR  2 MLR  2/df
+Group (df) p CFIr  CFI g RMSEAr 90%CI SRMR
+SCoA Scale
+Separate
+No stakes 794 (403) .16 .909 .898 .060 .054—.066 .060 Country at stakes 738 (403) .18 .920 .906 .057 .050—.063 .055 Personal stakes 783(403) .16 .918 .906 .058 .052—.064 .064 Combined
+Unconstrained 2314 (1209) .17 .915 .903 .058 .055—.062 .058 Metric 2427 (1323) .18 .915 0 .901 .056 .052—.059 .068 Scalar 2485 (1375) .18 .915 0 .901 .055 .051—.058 .068 TTM scale
+Separate
+No stakes 34 (17) .16 .985 .976 .066 .032—.098 .030 Country at stakes 51 (17) .08 .969 .960 .092 .064—.122 .047 Personal stakes 28 (17) .20 .989 .981 .054 .007—.089 .043 Combined
+Unconstrained 112 (51) .14 .981 .973 .072 .054—.090 .036 Metric 121 (61) .16 .982 .001 .973 .065 .048—.081 .039 Scalar 150 (71) .15 .978  .004 .968 .067 .052—.082 .043
+Note: MG-CFA=multiple-group con  rmatory factor analysis; SCoA=students  conceptions of assessments; CFIr
+and RMSEAr denote robust comparative  t index and robust root-mean-square error of approximation under MLR estimator; CI=con  dence interval; SRMR=standardised root-mean-square residual; TTM=test-taking motivation. Values in bold and italics represent a good and acceptable  t, respectively.

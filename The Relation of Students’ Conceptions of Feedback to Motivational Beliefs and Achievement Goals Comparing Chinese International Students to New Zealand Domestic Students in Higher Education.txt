@@ -1,0 +1,552 @@
+﻿education  
+sciences 
+Article
+The Relation of Students’ Conceptions of Feedback to Motivational Beliefs and Achievement Goals: Comparing Chinese International Students to New Zealand Domestic Students in Higher Education
+Xiaoying Gao * and Gavin T. L. Brown 
+Faculty of Education & Social Work, The University of Auckland, Private Bag 92019, Auckland 1142, New Zealand; gt.brown@auckland.ac.nz
+* Correspondence: xgao484@aucklanduni.ac.nz
+Abstract: Extant research on students’ feedback conceptions has reported effects on performance, but the relationship of feedback conceptions to important motivational factors is not empirically evidenced. This study fills this gap by providing empirical data about students’ conceptions of feedback in relation to their motivational beliefs and achievement goals. Measurement and struc- tural modelling analyses were based on undergraduate student data from New Zealand domestic
+(n = 832) and Chinese (People’s Republic of China, PRC) international students (n = 504) in New Zealand universities. Based on cross-ethnic invariant measurement models of conceptions of feed- back, motivational beliefs, and achievement goals, a structural equation model uncovered links between feedback conceptions, motivational beliefs, and achievement goals. Specifically, feedback conceptions believing in actively using feedback and the value of teacher comments significantly promoted self-efficacyand task value beliefs, as well as mastery and performance-approach goals. In contrast, maladaptive feedback perceptions (i.e., feedback is ignored or used for judging performance against external standards or relative to others) had a minimal-to-negative impact on motivational beliefsandtriggeredstrongerperformance-avoidancegoals. Thisstudyempiricallydemonstratesthat
+Citation: Gao, X.; Brown, G.T.L. The conceptions of feedback support motivational beliefs and goal approaches consistent with previous Relation of Students’ Conceptions of claims concerning their self-regulatory role.
+Feedback to Motivational Beliefs and
+Achievement Goals: Comparing
+Keywords: conceptions of feedback; self-efficacy;task value; achievement goals
+Chinese International Students to
+New Zealand Domestic Students in
+Higher Education. Educ. Sci. 2023, 13,
+1090. https://doi.org/10.3390/
+educsci13111090 1. Introduction
+Feedback on performance informs students about their current learning status and Academic Editor: how well it fitsthe expected achievement [1,2]. The benefitof feedback is well-documented
+Leonidas Kyriakides and widely acknowledged, yet not practically universal [3–6], meaning that it is dependent Received: 28 September 2023 on students’ understanding of and responses to the feedback they receive [7,8]. Construc-
+Revised: 16 October 2023 tive feedback is presumed to confer a sense of achievement and efficacyon students [9,10], Accepted: 25 October 2023 encouraging them to have greater confidenceand motives to learn and achieve [11]. Thus, Published: 27 October 2023 feedback supposedly encourages students to take further actions for continued improve-
+ment. Motivational beliefs are proximal antecedents of students’ achievement goals [12–14], and the two jointly affect students’ adoptions of adaptive cognitive and metacognitive
+Copyright: © 2023 by the authors. strategies [15,16], resulting in varied academic performance [17,18]. Consequently, it is Licensee MDPI, Basel, Switzerland. vital to understand whether student conceptions of the nature and purpose of feedback
+This article is an open access article would support more desirable motivation and goal orientations beyond contributing to distributed under the terms and academic performance. Thus, this paper addresses the interconnections between students’ conditions of the Creative Commons conceptions of feedback, motivational beliefs, and achievement goals in a survey study Attribution (CC BY) license (https:// of undergraduate students from two ethnic groups (i.e., New Zealand domestic students creativecommons.org/licenses/by/ and PRC international students) in the New Zealand tertiary education context. The mea- 4.0/). surement models and resulting structural model revealed that conceptions of feedback
+Educ. Sci. 2023, 13, 1090. https://doi.org/10.3390/educsci13111090 https://www.mdpi.com/journal/education
+
+Educ. Sci. 2023, 13, 1090 8 of 23
+strongly enhanced adaptive motivational beliefs and achievement goals, consistent with hypothesised relations within self-regulated learning paradigms.
+1.1. Students’ Conceptions of Feedback
+In this study, feedback refers to any information students receive from teachers and peers or self-generated about their performance [19]. Performance feedback, particularly from external agents against specific evaluation standards [20,21], not only informs students of the gap between their attained and the expected performance but can also initiate self-regulatory processes by raising students’ awareness of the quality of their performance, motivating them to adjustandmonitortheirlearningingoal-settingandthecourseofaction[22,23]. Thisknowledge may fine-tune their competence beliefs and perceived values related to upcoming tasks [24]. This motivational regulation is essential to self-regulated learning [25–28].
+Feedback also serves as the currency through which classroom goals are communicated to students by instructional practices, informing students of what outcomes in learning are rewarded, approved, and anticipated. Thereby, students are affected by how they perceive this information about outcomes toward possible adjustments to their achievement motivations. Classroomgoalstructures[29], dependingonhowstudentsinterpretthem, serveasanexternal force to orientate their intentions towards pursuing different outcomes [30,31]. Conceptions of feedback reflect subjective agencies of how students interpret learning requirements and task properties through participating in assessments and obtaining feedback from teachers, peers, or themselves on their performance to draw new inferences about the value of different tasks and personal abilities, resulting in changes to their initial value and self-efficacy beliefs and goal orientations in the face of new task situations.
+To understand how students conceive of feedback, this study adopts the term concep- tions to refer to beliefs, perceptions, intentions, and attitudes individuals hold toward a phenomenon [32]. Research on students’ conceptions of feedback has been extensive, but few studies exhibit high-quality methodologies [33]. Existing evidence shows that when students perceive feedback as valuable and essential to future learning, their performance improves [33]. For example, in a study with undergraduate students in New Zealand [34], those who endorsed the conception that they actively used feedback had enhanced aca- demic self-efficacybeliefs, improved self-regulation of learning, and higher GPAs at the end of the semester in which they were surveyed. In contrast, students who trusted their peers’ or teachers’ feedback and comments had reduced GPAs, suggesting that better performance requires enhanced self-reliance and regulation rather than relying primarily on external informants. This adaptive view of feedback presumes that students’ adaptive perceptions contribute to increased task value, self-efficacy, and mastery goal orientations asintermediaryfactorsbetweenthefeedbackandtheirperformance. Inanutshell, feedback can only be expected to enhance learning if it makes students aware of the need to adjust their knowledge, beliefs, or strategies toward appropriate action [8,22,35–38].
+In summary, there lacks explicit empirical evidence as to whether conceptions of feedback contribute directly to motivational and goal orientation regulations. To address that need, this paper reports a survey study in which conceptions of feedback were linked to such motivational and goal constructs. As a starting point, the following provides a brief overview of the key achievement motivational constructs used in this study.
+1.2. Achievement Motivation
+Achievement motivation relates to the underlying impulses and driving forces behind learning behaviours and activities students choose to undertake [16,39–43]. Achievement motivation concerns three fundamental questions, “Can I do this?”, “Why should I do this?”, and “What do I want to achieve?”. Students’ competence beliefs (i.e., Whether I can do this), subjective task value beliefs (i.e., Why should I do this?), and achievement goals (i.e., What do I want to achieve from doing this?) are primary motivational constructs concerning the expectancy (of success), reasons, and aims for participating in various achievement-related activities. The expectancy–value theory, recently renamed as situated expectancy–value theory
+(SEVT, [44]), provides a comprehensive framework for the study of academic motivation. The addition of the situation to the original EVT model emphasises the situationally and momentarily ascendant nature of self-efficacy beliefs and task conceptions that are dependent on the proximal environment, in which both conscious and unconscious choices are made [44]. The outcomes related to expectancy for success and task values include academic performance, cognitive engagement, effort, persistence, and choice [39,44]. The expectancy for success and the subjective value students place on the task are theorised to predict their choices of learning activities, persistence in learning, and learning achievement [39,44].
+1.2.1. Self-EfficacyBeliefs
+Self-efficacy[45,46] refers to individuals’ confidencein their capability to organise and execute a given course of action to tackle a problem or accomplish a task at designated levels. Self-efficacy is analogous to the (personal) expectance for success within the situated expectancy–value theory [39,41,47,48] and attribution theory [49].
+There is abundant empirical evidence that the more students believe they can suc- ceed in various activities, the more likely they are to engage in challenging tasks, hope to master the subject-matter contents and skills, invest more time and effort, and stay planful in adopting learning strategies, and persist longer in the face of difficulties and obstacles [50–52]. Higher academic self-efficacy beliefs have been proven to predict stu- dents’ academic achievement, course enrolment, and choices of career aspiration [45,53,54], and the effect on achievement can be independent of a student’s actual math ability [55].
+From self-regulated learning perspectives, self-efficacyplays a key role in empowering students to gain a sense of control over their learning outcomes through goal-directed behaviours [27,56–58]. Hence, we would expect self-efficacyto act as a predictor of goal orientations and arise partly from student conceptions of feedback.
+1.2.2. Task Value Beliefs
+Task value refers to the situational worth of learning activities perceived by students, usually tied to specific tasks [48]. Per the SEVT, individual students have personalised hierarchies of values for different tasks [44]. These play a critical role in determining their achievement-related decisions (i.e., achievement goals and learning strategies). Typically, students prefer to engage in tasks that rank higher in their value hierarchies than those placed lower, leading them to devote more time, effort, and greater persistence when confronted with difficultiesin such tasks [44,48].
+SEVT posits that individuals’ competence beliefs and subjective task values are the most proximal psychological determinants of achievement-related task and activity choices, performance, and engagement in the chosen activities [59]. Thus, the impact of feedback is likely moderated by the values students associate with the tasks on which they have received feedback.
+1.2.3. Achievement Goals
+Achievement goals represent the specific aims that students are committed to in guiding their strategy adoptions within given task situations [60,61]. The trichotomous structure of achievement goals for academic scenarios is adopted in the current study [62].
+The reason for choosing a three-dimensional rather than a four-dimensional achievement goal structure (incorporating an additional mastery-avoidance goal factor [16]) was threefold. First, in empirical work, the primary focus to date has still been on three of the four goals in the 2  2 conceptualisation: mastery approach, performance approach, and performance- avoidance[63]. Thesethreegoalsareemphasisedbecausetheyhavebeenextensivelyvalidated by empirical research as the most prevalent goals among students across diverse achievement settings. The mastery-avoidance goal dimension, on the other hand, although conceptually relevant, lacks empirical evidence for its existence [63]. Second, it has been suggested that mastery-avoidance goals are likely to be more applicable for senior-age populations (i.e., >65 years), who experience declines in mental and physical abilities and tend to shift their attention
+from approaching upward goals to avoiding reductions in attained skills and abilities [64]. Another concrete example of mastery-avoidance situations is athletes reaching peak status and then shifting to maintenance rather than upward pursuit [16]; yet none of these examples seems compatible with the current study’s target population: undergraduate students in young adulthood. Furthermore, although gaining data related to mastery-avoidance goals might be helpful, this study focused on measuring the most prevalent motivational constructs that have been backed by sufficient empirical evidence.
+The three-dimensional goal model distinguishes between mastery goals, performance- approach goals, and performance-avoidance goals [63]. Mastery goals have to do with maximising learning, regardless of grades or scores or the performance of others; it is learning for oneself. Mastery-oriented students expect challenging tasks and are more concerned with self-referenced progress rather than comparing to others, and tend to focus on actual improvement in knowledge, skills, and understanding that test-taking can bring to their current learning [65]. The performance-approach goals imply engage- ment in achievement tasks to attain optimal results by outperforming others, whereas the performance-avoidance goals concern doing well enough to avoid appearing incom- petent relative to others [66]. Because students with performance-approach goals aim to outperform others, they are likelier to choose tasks they can perform confidently. Generally, students with performance-approach goals have more positive achievement results than those with performance-avoidance goals [67]. Students with different goals are influenced by their self-efficacy and task value beliefs. Indirectly, their conceptions of feedback from previous learning achievement and teachers influencehow they understand their abilities, task values, and goals [68].
+The formation of the above learning-related beliefs (e.g., task value, self-efficacy, and achievement goals) is culturally, socially, and contextually dependent. Previous cross- cultural research has consistently demonstrated that students from collectivist cultures, like China, tend to rate their academic self-efficacylower than those from individualistic cultures [69–72]. This tendency appears persistent despite students from collectivistic countries often outperforming counterparts from individualistic cultures [73]. A partial explanationfortheseresultsrelatestotheprevalentstrivingforacademicsuccessinChinese society, which makes students from China more vulnerable to failure experiences [74], leading to insecure competence beliefs. Moreover, Chinese culture often emphasises the importance of effort in academic success, in which failure is generally attributed to a lack of effort [75], providing an additional lens through which the cross-cultural differences in students’ competence beliefs can be understood.
+Similarly, research found that Chinese students and students from other Asian countries place a higher value on tasks that are valued by hierarchically superior others (e.g., parents and teachers) than Western students [76,77] and more readily accept and endorse extrinsic or instrumental values [78]. There are also cultural differences in vertical goals, which pertain to studying to please authority figures [79,80]. Such goals are likely more of an effective motivator in Chinese settings than in Western contexts [81]. In this sense, it is reasonable to assume an obvious intention among Chinese students to approach expected performance while avoiding getting undesirable results that deviate from authority figures’ desires.
+The observed cross-cultural differences in students’ motivational constructs have led to recent motivational researchers increasingly emphasising the need to pay particular attention to sociocultural stimuli and forces that underlie individual differences in competence beliefs and subjective task values, as well as the corresponding predictive power of each of these constructs for the various achievement-related choices available to the individuals [82].
+1.3. Conceptual Framework
+This study extends existing research about students’ achievement motivation by exploring the impact of students’ feedback conceptions on their motivational beliefs and achievement goals. The conceptual model consists of three sequential blocks, creating a partially mediated model from conceptions of feedback through motivational beliefs to achievement goals (Figure 1). Key insights drawn from the relevant theories embedded in this conceptual model are briefly summarised in Table 1. The model presumes that students’ motivational self-efficacy beliefs and task value beliefs are influenced by their conceptions of feedback, and their conceptions of feedback and their motivational beliefs jointly and individually affect the achievement goals students report. Within each block,
+the factors or constructs are inter-correlated.
+
+Figure 1. Schematic diagram of a structural model linking conceptions of feedback to motivational beliefs and achievement goals.
+Table 1. Connections of this study’s conceptual model with other motivation and learning theories.
+Relevant Motivation and Learning Theories
+Model Constructs 
+SEVT Achievement Goals Theory Self-Regulated Learning Theory
+ 
+  Conceptions of feedback              Interpretations of experiences inform competence Feedback informs whether learning- or          Feedback is an inherent catalyst of self-regulated
+                                        beliefs and task value appraisal                 performance-focused goals are emphasised in    learning; learners’ interpretations of performance
+                                        [44,82].                                         the classroom goal structures and whether      feedback shape their judgement of competence and task
+                                                                                         mastery or performance goals have been met     values
+                                                                                         [29–31].                                       [22,83].
+  Self-efficacybeliefs                 A proxy of expectancy for success, in the        Competence beliefs are the underlying reason   Self-efficacyinfluencesgoals a student sets and
+                                        present model, acted as a predictor of           and determinant of achievement goals           commitment to those goals
+                                        achievement goals rather than being the outcome  [16,66].                                       [
+                                        of goals, as conceptualised in the SEVT model                                                  27].
+                                        [44,82].
+  Task value beliefs                   Subjective task value, in the present model,     Task value beliefs (intrinsic or extrinsic)    Subjective task value appraisals motivate learning
+                                        acted as a predictor of achievement goals        are the psychological force of achievement     towards different goals and the commitment to the
+                                        rather than being the outcome of goals, as       goals                                          goals
+                                        conceptualised in the SEVT model                 [16,66].                                       [28].
+                                        [44,82].
+  Achievement goals                    Differing from the short-term and long-term      The trichotomous structure of achievement goal Judgement of abilities and task importance based on
+                                        goals categorised in the SEVT model              models (i.e., mastery, performance-approach,   reflectionof previous performance guide goal settings
+                                        [44,82].                                         and performance avoidance)                     in the following learning
+                                                                                         [16].                                          [22,83].
+Given the paucity of previous research, explicit assumptions about the valence of path values (i.e., positive or negative) are not made. Nonetheless, consistent with general principles of self-regulated learning theory, we consider there will be positive associations among adaptive feedback conceptions (e.g., active use of feedback and appreciation of
+teacher comments) and adaptive achievement motivations (i.e., self-efficacy, task value, and mastery goals). Simultaneously, we expect maladaptive feedback conceptions (e.g., ignoring feedback) to be associated with maladaptive achievement motivations, such as performance-avoidance goals.
+2. Materials and Methods
+2.1. Design
+A multi-group (i.e., New Zealand domestic students and People’s Republic of China international students) self-report, anonymous survey of university students was adminis- tered in New Zealand. A multiple indicator, multiple cause [84] survey design was used by having multiple items for each proposed construct. A two-step analytic approach [85] was taken in which measurement models for each construct were validated before testing the structural model shown in Figure 1. To compare groups, multi-group invariance testing was imposed to establish parameter equivalence prior to mean score comparison [86]. The survey was administrated online using the Qualtrics survey platform, with approval from the institutional review board of the authors’ affiliation(#HPEC 021984). The survey was accessed by clicking on a URL link or scanning a QR code embedded in the survey invitations distributed via WeChat and Facebook, the two most popular social platforms among Chinese international students and NZ domestic students.
+2.2. Participants
+Participants in the present study were convenience self-selected samples of undergrad- uate students from New Zealand universities, incorporating New Zealand domestic stu- dents(n =832, 62%)andPRCinternationalstudents(n =504, 38%)(Table2). Therewerepro- portionally more women in the NZ domestic group than in the PRC group (67% vs. 48%). In terms of faculty enrolment, the groups (based on the fivemost reported disciplines) had quite different patterns ( 2 = 19.85, p < 0.001). The PRC group was dominated by students
+in commerce (47%), whereas the NZ domestic group were distributed more equally across multiple faculties, with notable minorities in science (23%) and engineering (20%). Over halfthestudentswereenrolledinthesecondandthirdyears, withnostatisticallysignificant difference between groups ( 2 = 0.69, p = 0.88).
+2.3. Measures
+Previously published self-report survey inventories were used for a total of 39 items. All responses were recorded on a 6-point positively packed agreement rating scale with two negative (i.e., 1 = strongly disagree; 2 = mostly disagree) and four positive options (i.e., 3 = slight agree; 4 = moderately agree; 5 = mostly agree; 6 = strongly agree). This format has been found to be effective when participants are inclined to endorsement [87]. All items administered are provided in Supplementary Table S1.
+2.3.1. Students’ Conceptions of Feedback Questionnaire
+The Students’ Conceptions of Feedback(SCoF; Version-III) [88] was developed with New Zealand secondary students and a study with New Zealand university students [34] identi- fiedfivefactors (i.e., active use of feedback, peer help feedback, ignoring feedback, feedback meeting expectations, and teachers’ or markers’ comments) with 21 items. The question- naire was validated with New Zealand university students, translated into Mandarin, and verifiedwith Chinese university students in the mainland Chinese Context [89].
+2.3.2. Motivational Beliefs Questionnaire
+Two scales (nine items) measuring motivational self-efficacy and task value beliefs were taken from the Motivational Strategies for Learning Questionnaire (MSLQ [90]). The MSLQ has been widely used in studies across different contexts and demonstrated validity
+with New Zealand [91] and Chinese tertiary students [92].
+Table 2. Participant demographics.
+Overall NZ Domestic PRC International Demographic 
+n (%) n (%) n (%)
+
+Educ. Sci. 2023, 13, 1090 17 of 17
+Sex
+Men
+Women Diverse/not given Faculty
+Arts
+Agriculture Commerce Engineering
+Law
+Medical sciences Science
+Social sciences Conjoint majors Study year
+1st
+2nd
+3rd
+4th
+Others
+Total
+535 (40) 272 (32.7) 263 (52.2) 797 (59.7) 557 (66.9) 240 (47.6) 4 (0.3) 3 (0.4) 1 (0.2)
+124 (9.3) 87 (10.5) 37 (7.3) 19 (1.4) 7 (0.8) 12 (2.4) 351 (26.3) 113 (13.6) 238 (47.2) 228 (17.1) 167 (20.1) 61 (12.1)
+91 (6.8) 89 (10.7) 2 (0.4) 86 (6.4) 74 (8.9) 12 (2.4)
+286 (21.4) 189 (22.7) 97 (19.2) 117 (8.8) 75 (9.0) 42 (8.3) 33 (2.5) 30 (3.6) 3 (0.6)
+222 (16.6) 147 (17.7) 75 (14.9) 460 (34.4) 290 (34.9) 170 (33.7) 386 (28.9) 230 (27.6) 156 (31.0) 184 (13.8) 125 (15.0) 59 (11.7) 84 (6.3) 40 (4.8) 44 (8.7) 1336 (100) 832 (100) 504 (100)
+
+Educ. Sci. 2023, 13, 1090 17 of 23
+2.3.3. Achievement Goals Questionnaire
+The Achievement Goals Questionnaire (AGQ, [93]) provided nine items for measuring three achievement goals (i.e., mastery, performance approach, and performance-avoidance). These scales have been validated repeatedly in multiple studies conducted with univer- sity students across different cultural contexts, including mainland China [94] and New Zealand [95], and affirmed to be a robust measure of students’ academic achievement goals.
+2.4. Analysis
+All the analyses were accomplished in RStudio version 4.0.2, primarily using lavaan [96] and semTools [97] packages. Descriptive analyses were performed prior to measurement and structural model testing. Data were first screened for univariate and multivariate normality [98,99]. Variables were used if the absolute value of univariate skewness was be- tween  0.5 and 0.5 [100,101], and the absolute value of univariate kurtosis was <7.00 [102]. Multivariate outliers were identified if the p-value for Mardia’s multivariate kurtosis was <0.05 [103].
+2.4.1. Model Fit
+The degree of discrepancy between measurement and structural models against the underlyingvariance–covariancematrixofthedatawasusedtodetermineifamodelneeded to be rejected. Confirmatoryfactor analysis (CFA) and structural equation modelling (SEM) provide multiple fitindices to assess the goodness of fit. Acceptable fitwas demonstrated whenthenormedchi-square(i.e.,chi-squareperdegreeoffreedomratio( 2/df)had p-value > 0.05, the comparative fitindex (CFI) > 0.90, the root mean square error of approximation (RMSEA) < 0.08, the standardised root mean square residual (SRMR) < 0.08, and the gamma hat (g)ˆ > 0.90 [104–106].
+Modification index (MI) and the Standardised Expected Parameter Change (SEPC) were used to detect and correct misfitsand differences in Akaike’s Information Criterion (DAIC) helped identify models with a statistically significantbetter fit. As a rule of thumb, DAIC < 2 indicates no statistically significant difference between models, 4 < DAIC < 7 indicates smaller AIC values are statistically superior to models with larger values, and DAIC > 10 indicates models with the smallest AIC is statistically preferable [107].
+2.4.2. Multigroup Invariance Testing
+Once a measurement model was developed for each group, the comparison of groups was examined using multigroup confirmatoryfactor analysis (MGCFA) and multigroup structural equation modelling (MGSEM) in a nested sequential testing approach. Statistical equivalence is needed in the configurationof factors, items, and paths (configural),factor- to-item regression weights or loadings (metric/weak equivalence), and item intercepts at the factor (scalar/strong equivalence) to make comparisons of means and structural- level covariances and regression weights. Statistical equivalency was determined from the size of changes in the comparative fitindex ( DCFI) and the root mean square error of approximation ( DRMSEA). These two fitindices have been shown to perform well with different sample sizes and levels of model complexity. Models are deemed to be metric and scalar invariant if the DCFI is <0.01 and the DRMSEA is 0.015 after sequentially increasing parameter constraints [108,109]. Partial invariance was permitted if a model failed to demonstrate full invariance. This was performed by relaxing equality constraints from a small number of items. An effect size measure of dMACS (mean and covariance structures) was used to gauge the magnitude of non-invariance [110]. The dMACS values are interpreted as per Cohen’s [111] criteria with adjusted cutoff values for medium and large effects, with a value of 0.20–0.40 indicating a small effect, 0.40–0.7 indicating a medium effect, and over 0.70 indicating a large effect [110].
+2.4.3. Latent Mean Analysis
+Models demonstrating strong invariance between groups were examined for cross- group latent mean differences with one group (usually the one with a larger sample size) set as the reference group having its latent means constrained to zero. Regression invariance was assessed if both measurement and structural invariances were established [112,113]. Cohen’s [114] criteria for standardised regression coefficientswere applied to evaluate the strength of the regression paths, with values of 0.1 representing small, 0.3 for medium, and 0.5 for strong. Squared multiple correlations (SMC) were computed to measure the proportion of variance explained in the dependent variables, and the corresponding effect sizes were assessed using the adjusted version of Cohen’s f2 [114] according to the guideline that values of f2 = 0.02, f2 0.15, f2 0.35 denote small, medium, and large effect sizes, respectively.
+3. Results
+3.1. Measurement Models and Invariances
+Descriptive analysis of items revealed that the responses were acceptably univariate and multivariate normally distributed (Supplementary Table S1), thus permitting maximum likelihood estimation with robust standard errors (MLR, [115,116]) for CFA and SEM analyses. Measurement models with a good fit for both groups were identified for the SCOF, motivational beliefs, and achievement goals (fit statistics are presented in Appendix A Table A1).
+3.1.1. Students’ Conceptions of Feedback (SCOF)
+CFA replicated the original 5-factor, 21-item model with good fit. All the factor load- ings were statistically significantat p < 0.001, and the reliability coefficient Omega ! and coefficient H indicated good internal consistency of the scale items (Table 3). Active Use
+of Feedback had a strong positive score between “moderately agree” and “mostly agree”, whereas Ignore Feedback had a rejection score of almost exactly “mostly disagree”. The three other factors were centred around “moderately agree”. In general, the factor inter- correlations were weaker among NZ domestic students compared to PRC international students, suggesting greater independence of factors among the former group. Measure- ment invariance testing between the NZ domestic, and the PRC international student
+groups revealed full configural and metric invariance and partial scalar invariance (see
+Supplementary Table S2 for effect sizes of non-invariances), after freeing two items related to peer feedback helps (i.e., items 7 and 11 in Table 3) from the intercept–equality constraint.
+Table 3. Standardised factor loadings and scale statistics of the partially strong invariant SCOF model.
+Loadings
+Scales and Items  NZ PRC-IN-NZ
+Active use (M = 4.63, SD = 1.05, coefficient Hoverall = 0.93)
+1. I actively use feedback to help me improve. 0.85 0.84
+2. I make active use of feedback from my tutors and/or markers. 0.87 0.89
+3. I pay attention to feedback from my tutors and/or markers. 0.87 0.84
+4. I use feedback to set goals/targets for the next assessment. 0.70 0.80
+5. I look at feedback to see what I did wrong. 0.77 0.77
+6. Feedback makes me try harder. 0.67 0.77
+Peer help (M = 3.91, SD = 1.18, coefficient Hoverall = 0.92)
+7. Feedback from my classmates helps my learning. 0.86 0.84
+8. I make active use of the feedback I get from classmates. 0.88 0.88
+9. I can trust feedback from my peers. 0.78 0.82
+10. I learn better when my friends comment on my work. 0.76 0.84
+11. I look forward to getting feedback from peers. 0.78 0.86
+Ignore (M = 2.14, SD = 1.19, coefficient Hoverall = 0.92)
+12. I ignore comments the markers about my work. 0.72 0.83
+13. I ignore bad grades or comments. 0.79 0.87
+14. Feedback is not necessary, as I know how well I am doing. 0.81 0.92
+15. Feedback does not tell me anything new. 0.81 0.89
+Meet expectation (M = 3.93, SD = 1.16, coefficient Hoverall = 0.86)
+16. I know I have done well if the result is better than last time. 0.67 0.73
+17. Doing better than my parents expect is doing well. 0.65 0.74
+18. Doing better than the expected or required standard is a good result. 0.71 0.78 Teacher comments (M = 4.30, SD = 1.04, coefficient Hoverall = 0.84)
+19. Feedback from my markers makes it clear how to improve. 0.72 0.81
+20. Tutors and/or markers give me trustworthy and honest feedback. 0.80 0.87
+21. Markers of my work give me clear feedback. 0.78 0.85 Intercorrelations
+Factor scale Omega !
+1 2 3 4 5
+1. Active use — 0.91 0.93
+2. Peer help 0.29NZ *** — 0.90 0.93 0.69PRC ***
+3. Ignore  0.37NZ *** 0.07NZ — 0.86 0.93  0.07PRC 0.15PRC **
+4. Meet expectation 0.17NZ *** 0.18NZ *** 0.12NZ * — 0.71 0.79 0.44PRC *** 0.48PRC *** 0.36PRC
+5. Teacher comments 0.53 NZ *** 0.28NZ ***  0.15 ** 0.36NZ *** — 0.81 0.88 0.68PRC *** 0.63PRC *** 0.03PRC 0.54PRC ***
+Note. All factor loadings were statistically significantat p < 0.001; the unstandardised factor loadings were equal across groups; italicised numbers indicate the factor correlation coefficientsin the PRC sample without equality constraints; NZ = New Zealand; PRC = People’s Republic of China; * p < 0.05, **p < 0.01, ***p < 0.001.
+3.1.2. Motivational Beliefs
+Aftertrimmingtwoitems, acorrelatedtwo-factor, seven-itemmodelhadagoodfit. All
+factor loadings were statistically significantat p < 0.001, and the scale items were sufficiently reliableandinternallyconsistent(seeTable4). BothTaskValueandSelf-efficacyfellbetween
+“moderately agree” and “mostly agree”, with a modest difference in favour of Task Value.
+The inter-correlation was stronger among the Chinese international students than the NZ domesticstudents, thoughthedifferencewassmall. Invariancetestingdemonstratedstrong measurement invariance between the NZ domestic and PRC international student groups. Table 4. Standardised factor loadings and scale statistics of strong invariant motivational be- liefs model.
+Loadings
+Scales and Items 
+NZ PRC-IN-NZ
+Self-efficacybeliefs (M = 4.52, SD = 1.07, coefficient Hoverall = 0.90)
+1. I am certain I can master the skills taught in my major. 0.75 0.78
+2. I can do even the hardest work in my courses for my major if I try. 0.87 0.88
+3. Even if the work for my major is hard, I can learn it. 0.89 0.85 Task value beliefs (M = 4.84, SD = 1.04, coefficient Hoverall = 0.91)
+4. It is important for me to learn the course material in this class. 0.80 0.80
+5. I am very interested in the content area of this course. 0.82 0.81
+6. I think the course material in this class is useful for me to learn. 0.88 0.87
+7. Understanding the subject matter of this course is very important to me. 0.82 0.86
+Intercorrelations
+Factor scale Omega !
+1 2
+1. Self-efficacy 1.00 0.88 0.88
+2. Task value 0.65NZ *** 1.00 0.90 0.90 0.72PRC ***
+Note. All factor loadings were statistically significantat p < 0.001; the unstandardised factor loadings were equal across groups; italicised numbers indicate the factor correlation coefficientsin the PRC sample without equality constraints; NZ = New Zealand; PRC = People’s Republic of China; *** p < 0.001.
+3.1.3. Achievement Goals
+After trimming two items, a correlated three-factor, seven-item measurement model for achievementgoalswasfound. Allthefactorloadingsachievedstatisticalsignificance at p < 0.001, and the scale reliability coefficients showed strong internal consistency (see Table 5). Mastery
+goals had the higher score, close to “mostly agree”, whereas the two performance goals were close to “moderately agree”. Again, the inter-correlations were stronger among the Chinese international students than the NZ domestic students. This model had full configural and metric invariances and partial scalar invariance (see Supplementary Table S2 for effect sizes of non-invariances), with one mastery goal item (i.e., item 3 in Table 5) having different intercepts
+between the NZ domestic and PRC international student groups.
+Table 5. Standardised factor loadings and scale statistics of partially strong invariant achievement goals model.
+Loadings
+Scales and Items 
+NZ PRC-IN-NZ
+Mastery goals (M = 4.88, SD = 1.02, coefficient Hoverall = 0.91)
+1. I want to learn as much as possible from my attended courses. 0.82 0.87
+2. It is important for me to understand the content of my attended course as thoroughly as possible. 0.87 0.90
+3. I desire to completely master the material presented in my attended courses. 0.69 0.87 Performance-approach goals (M = 4.11, SD = 1.37, coefficient Hoverall = 0.91)
+3. It is important for me to do better than other students in my course. 0.93 0.79
+4. It is important for me to do well compared to others in my course. 0.95 0.84 Performance-avoidance goals (M = 4.22, SD = 1.51, coefficient Hoverall = 0.99)
+6. I just want to avoid doing poorly in my courses. 0.86 0.92
+7. My goal in my courses is to avoid performing poorly. 0.84 0.87
+Intercorrelations
+Factor scale Omega !
+1 2 3
+1. Mastery goals 1.00 0.91 0.85
+2. Performance-approach goals 0.28NZ *** 1.00 0.80 0.93 0.68PRC ***
+3. Performance-avoidance goals 0.19NZ ***  0.07NZ 1.00 0.89 0.87 0.08PRC 0.28PRC ***
+Note. All factor loadings were statistically significantat p < 0.001; the unstandardised factor loadings were equal across groups; italicised numbers indicate the factor correlation coefficientsin the PRC sample without equality constraints; NZ = New Zealand; PRC = People’s Republic of China; *** p < 0.001.
+3.2. Structural Model
+The structural model had an excellent fit(c2 = 1773.85, df = 529, c2/df = 3.35, p = 0.07; RMSEA = 0.047, 95% CI = 0.044–0.049; CFI = 0.952; gˆ = 0.937; SRMR = 0.040). Appendix A Table A2 provides invariance test results between the NZ domestic and PRC international student groups. Figure 2 presents the direct and statistically significantregression paths
+(p < 0.05). The standardised regression coefficients of direct, indirect, and total effects are summarised in Appendix A Table A3.
+
+Figure 2. The schematic diagram of the structural relationship between students’ conceptions of feedback, motivational beliefs, and achievement goals; items and factor intercorrelations were removed for simplicity; values are standardised b coefficients;bold lines denote b > 0.30 and dash linesdenotenegativevalues; SMC=squaredmeancorrelation, alsoknownas R2; *p<0.05, **p < 0.01, ***p < 0.001.
+Students’ endorsement of the adaptive conception of actively using feedback and appreciating teachers or markers’ comments were direct and positive predictors of stu- dent motivational self-efficacy (b = 0.34, p < 0.001; b = 0.30, p < 0.001, respectively) and task value (b = 0.40, p < 0.001; b = 0.26, p < 0.001, respectively) beliefs. These two feed- back conceptions also positively enhanced the two adaptive achievement goals, with the active use of feedback conception contributing both directly and indirectly to mastery goals (bdirect = 0.13, p < 0.001; bindirect = 0.32, p < 0.001) and performance approach goals (bdirect = 0.16, p < 0.001; bindirect = 0.14, p < 0.001), whereas the teacher comments feedback conception only indirectly promoted mastery goals (b = 0.21, p < 0.001).
+There was no statistically significantpath from the feedback conception of peer help to motivational beliefs and achievement goals. The maladaptive conception of ignoring feed- back showed a small, negative, and direct effect on task value beliefs (b =  0.06, p < 0.05) while negatively affecting mastery goals both directly (b =  0.07, p < 0.001) and indirectly (b =  0.05, p < 0.05). It also contributed slightly and positively to performance approach goals (b = 0.07, p < 0.01).
+Thefeedbackconceptionregardingmeetingexpectations,althoughhavinglittleimpact on students’ motivations, contributed positively and directly to the performance-approach goals (b = 0.28, p < 0.001) and performance-avoidance goals (b = 0.32, p < 0.001).
+Combined, the model explained 31% (f2 = 0.13) and 36% (f2 = 0.10) of the variance in students’ self-efficacy and task value beliefs, respectively, corresponding to small-to- medium effects. The highest proportion of variance was explained for mastery goals, up
+to 80% (f2 = 0.71), followed by 26% (f2 = 0.15) for performance-approach goals and 11%
+(f2 = 0.05) for performance-avoidance goals. These effect sizes were large, medium, and small, respectively.
+3.3. Latent Mean Analysis
+Latent mean differences, based on the invariant structural model (Figure 2), used the NZ domestic group as the reference group. Table 6 shows that statistically significantlatent mean differences were detected in all the latent factors except in two feedback conceptions (i.e., meeting expectations and teacher comments) and mastery achievement goals. Just four factors had large differences (i.e., d > 0.50) split equally in favour of both groups. The NZ domestic student group had substantially higher mean scores for the two motivational beliefs (i.e., self-efficacyand task value), whereas the international Chinese students had higher means for ignoring feedback and performance-avoidance goals. This suggests
+strongly a more adaptive approach among domestic students and a less adaptive approach among international students.
+Table 6. Latent mean comparisons for SCOF, motivational beliefs, and achievement goals factors.
+Latent Mean Differences
+Construct and Factor (NZ Domestic Students as the Reference Group)
+PRC SD Cohen’s d
+ 
+                                                  Conceptions of Feedback                    0.74 ***                           2.20                                    0.70  0.46 0.04
+                                                  Ignore                                      0.36 ***                          1.23 1.02 1.17 0.98            0.00 0.32
+                                                  Active use                                 0.03 ns
+                                                  Meet expectation Teacher comments Peer help0.00 ns
+                                                                                             0.23 ***
+                                                  Motivational Beliefs                        0.65 ***  0.43 ***                0.92 1.28                       0.96  0.54
+                                                  Self-efficacy Task value
+                                                  Achievement Goals                          0.38 ***                           0.31 1.36 0.99                          0.97 0.19  0.77
+                                                  Performance-approach Mastery               0.15 ns
+                                                   Performance-avoidance                      0.54 ***
+Note. Negative values of d indicate NZ domestic students had higher means; positive d values denote PRC international students had higher means; bold values indicate differences with effect sizes d > 0.50; ns = non-significantmean differences; *** p < 0.001.
+4. Discussion
+This study surveyed a large sample of New Zealand domestic students and interna- tional Chinese students in New Zealand institutions. Using a theory-based conceptual model that linked students’ feedback conceptions to their motivational beliefs and achieve- ment goals, this study aimed to understand how conceptions of feedback related to achieve- ment beliefs and goals. Although much work has been conducted separately on student feedback perceptions, motivational beliefs, and achievement goals, this is one of the first studies to examine the interconnections of these constructs in higher education. This study explicitly extends previous research that showed how conceptions of feedback contributed to academic self-efficacyand self-regulated learning [34] by including achievement goals and task values. Further, it addresses the presumption that Chinese learners’ beliefs, goals, and attitudes may differ substantively from those of Western domestic students. This also raises the possibility that Chinese learning approaches and motivational dispositions are not inherent traits but rather rational responses to environmental pressures.
+4.1. Understanding Feedback Conceptions as Sources of Motivational Beliefs and Achievement Goals
+Consistent with the situated expectancy–value theory, achievement goal theory, and self-regulated learning theory, the survey found that students’ feedback conceptions acted as motivational precursors of self-efficacyand task value beliefs, which, in turn, regressed onto achievement goals. The results suggested that students’ feedback conceptions of actively using feedback and valuing teachers’ comments adaptively increased motivational beliefs and desirable achievement goals. In contrast, the conceptions of ignoring feedback and perceiving it as a means of knowing if expectations had been met weakened students’ motivations by undermining their self-efficacyand task value beliefs and loaded onto less effective achievement goals.
+Among the key findings,students’ adaptive conceptions of feedback (i.e., I actively use feedback to adapt my learning; I value peers’ feedback; teacher comments help me) had significantlysustained benefitsfor promoting their motivational self-efficacyand task value beliefs, as well as mastery and performance-approach goals. The positive prediction from the active use of feedback conception to students’ self-efficacybeliefs mirrored prior findingswith NZ university students [34]. Thus, it appears adaptive for students, within a self-regulating learning perspective, to endorse actively seeking and acting on feedback; the positive impact on self-efficacy and task value manifests students’ self-regulatory initiatives to arrive at improvement. More evidence of the adaptive nature of actively using feedback conceptions is their relationship to greater endorsement of performance-approach goals and more strongly to mastery goals.
+Task value beliefs mediated the relationships between feedback conceptions and mastery or performance-approach goals. For students who conceived that they should actively use feedback, that endorsement contributed to the importance of tasks (perhaps because they were weighted toward summative grades or were fundamentally of interest). This, in turn, positively enhanced the endorsement of mastery and performance-approach goals. These results reaffirmthe salient role of students’ task value beliefs in goal setting and goal revisions, according to SEVT theory [44], achievement goal theory [16,60,62,117], and self-regulation theories [46,83,118].
+However, unlike Brown et al. [34], which showed no statistically significantpath from tutor or marker comments to self-efficacyand self-regulated learning, this study found that valuing tutor/marker comments contributed to students’ self-efficacy. This is consistent withself-efficacyandsocialcognitivetheoriesinthatinformationfromauthoritativefigures, like teachers, acts as social persuasion towards students’ evaluative accounts of their abilities [46,50,119]. Even for Chinese students, this result echoes findingsamong mainland Chinese students, where teachers’ feedback was essential for motivating students [120]. The path from self-efficacybeliefs to performance-approach goals conforms to previous research findings [17,27,121–124] in that greater self-efficacy instigated increased mastery or performance-approach goals. The discrepancy between the current results and Brown et al.’s findings may reflect a difference in samples; the sample of Brown et al. [34] was from one university and the same course, whereas this study’s sample came from multiple institutions and diverse course situations.
+Equally significant and in line with the authors’ expectations, the present findings revealed that when students conceived of feedback maladaptively (i.e., ignoring it or simply comparing it against standards and expectations [125]), their learning became more targeted at performance-oriented goals instead of mastery-oriented goals. Although there were no direct data about students’ actual feedback experiences, it is possible to speculatethatstudents’endorsementofmaladaptiveconceptionsoffeedbacktendstooccur more frequently after getting negative evaluative feedback [126,127]. Such feedback likely triggers a need to avoid making unfavourable inferences about the “self” and personal abilities [128,129], resulting in an intentional ignoring of feedback. These conceptions are likely to drive students towards performance-oriented goals, especially performance- avoidance goals, because of an underlying concern of not being able to sustain performance or avoid experiencing further failure after trying. The positive path from the feedback conception of meeting expectations to performance-approach goals may reflect a case of students having reasonably high competence beliefs, and instead of worrying about slippingdown, aremotivatedbyconfirmationthattheyaresucceedinginmeetingwhatever standards they are meant to achieve.
+Although feedback from peers has been shown to support self-regulated learning beliefs [34] and is arguably a contributor to greater learning outcomes [130], it is not
+entirely surprising that the present study found no significant effect of endorsing the value of peer feedback on students’ motivational beliefs and achievement goals. One plausible explanation could be that peers are not experts in the discipline of study, meaning the quality and benefit of their feedback cannot be guaranteed [131]. Thus, feedback from peers may not influencestudents’ self-efficacybeliefs, task values, or achievement goals [10,132,133]. Hence, whereas giving and receiving peer feedback may be intellectually beneficial, the current result reflects a rational response of relying more on tutors and markers than peers, who are likely perceived as less reliable and fallible.
+4.2. The Chinese Learner
+Justasimportant, despitethestereotypicalviewofthe“Chineselearner”[134,135], this study showed that the predictive links among the three constructs produced statistically equivalent results for Chinese and New Zealand students studying in the same overall learning environment. The result supports the argument that Chinese learners can adapt their learning approaches to fitthe context in which learning takes place [136] rather than exhibit essentially trait-like learning styles associated with less adaptive features in learning. Nonetheless, theanalysisoflatentfactormeansrevealedthatChineseinternationalstudents had lower scores than their NZ counterparts for self-efficacy and task value beliefs and higher means for ignoring feedback and performance-avoidance goals.
+Despite the appearance of trait-like responses, it is plausible that these means may reflectthe impact of studying in a language other than one’s home language [137,138]. It is easier to ignore feedback if one does not understand it well. The lower self-efficacy may be a sign of Chinese students’ realistic self-appraisals in addressing learning challenges in the foreign learning environment. The tendency to avoid feedback looking like a failure may make sense for Chinese international students who have obligations, perhaps economic particularly, to families [139]. It may also be possible that lower values placed on tasks reflectthe agentic response of international students to focus on doing enough to pass to ensure the attainment of qualifications[140]. These findingsreasonably reflectthe plausible differences in academic beliefs between international and domestic students.
+4.3. Limitations and Future Research
+The firstweakness of this study is that it is a nonexperimental, cross-sectional design. This means the causal links discovered through structural equation modelling are not proof of the causal claims [141]. Further evidence from experimental or longitudinal studies is required to establish such causations. Related to this, the structural model imposed a directional sequence, meaning reciprocal causations were not identified. Thus, longer- term longitudinal data would permit the identificationof potential reciprocal causations among these psychological constructs. More importantly, the specificityof the feedback students experienced interacting with their actual performance is unknown and not ac- counted for. It could be that students’ motivational profilesand goal orientations and their inter-relationships would differ in response to different performance outcomes and feed- back [13,142]. Because the current study was undertaken with Chinese and New Zealand undergraduate students in the New Zealand university context, the generalisability of these results to other stages of learning (e.g., postgraduate, secondary school), to other ethnic groups, or to other educational jurisdictions cannot be assumed. Nonetheless, the current results suggest that there may be universal responses to feedback processes, and replication studies are warranted.
+5. Conclusions
+The present study provides compelling evidence, with cross-ethnic data, that students’ conceptions of feedback modulate intentions regarding motivational beliefs and achieve- ment goals, creating adaptive and maladaptive patterns among constructs. The findings align with existing feedback and achievement motivation research insights, reaffirming the significanceof the assertions made. Equally prominent and educationally rewarding are findingsdemonstrating that Chinese international students responded in a similar manner to New Zealand domestic students, providing support for the idea that Chinese learners ra- tionally adapt to context, rather than function in a stereotypical trait-like way. The findings illuminate that educational interventions focused on enhancing students’ adaptive beliefs of feedback and active engagement in feedback will likely yield practical benefitsto their learning. It would seem that understanding students’ feedback conceptions would be an essential firststep in facilitating effective feedback uptake for productive motivation and achievement goal prioritisation.
+Supplementary Materials: The following supporting information can be downloaded at: https:// www.mdpi.com/article/10.3390/educsci13111090/s1, Table S1: descriptive statistics of measurement items; Table S2: effect sizes of measurement nonequivalence for SCOF and achievement goals models.
+Author Contributions: Conceptualization, X.G. and G.T.L.B.; methodology, X.G.; validation, X.G. and G.T.L.B.; formal analysis, X.G.; investigation, X.G.; data curation, X.G.; writing—original draft preparation, X.G. and G.T.L.B.; writing—review and editing, X.G. and G.T.L.B.; visualization, X.G.; supervision, G.T.L.B. All authors have read and agreed to the published version of the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: The study was conducted in accordance with the protocol approved by the Human Participants Ethics Committee of the University of Auckland (protocol code: HPEC 021984, 20 September 2018).
+InformedConsentStatement: Informedconsentwasobtainedfromallsubjectsinvolvedinthisstudy.
+Data Availability Statement: Data and analysis code used in the present study have been made publicly available at The University of Auckland figshare.com repository at https://doi.org/10.176 08/k6.auckland.16571525.v1 (accessed on 24 October 2023).
+Acknowledgments: This work was part of the first author’s PhD dissertation, supervised by the co-author. The authors would like to acknowledge the contribution of Richard J. Hamilton as a co-supervisor of the thesis from which this article originated.
+Conflictsof Interest: The authors declare no conflictof interest.
+Appendix A
+Table A1. Fit statistics of measurement models and cross-group invariance testing for SCOF, motiva- tional beliefs, and achievement goals.
+Chi-Square Statistics RMSEA
+Compared 2 Decision Model 2 df 2/df Value 90% CI Model Dc Ddf DRMSEA CFI DCFI SRMR
+(p)
+SCOF (Five-factor, 21 items)
+ 
+    Overall Model                            1082.83                179              6.05 (0.01) 4.27    0.069 0.067 0.065    [0.065, 0.073] [0.063, 0.072]    M1 M2 M2           42.80 175.95 136.84  16 16 14       0.000 0.004 0.003 0.937 0.929      0.001  0.011      0.045 0.047      Accept Accept
+    NZ group                                 764.49                 179               (0.04) 2.52 (0.11)  0.066 0.066 0.070    [0.057, 0.072] [0.062, 0.071]                                                                             0.953 0.940      0.009             0.040 0.044      Accept
+    Chinese group M1-Configuralinvariance    450.97 1186.58         179 358           3.31                0.069                [0.062, 0.070] [0.066, 0.074]                                                                             0.939 0.928                        0.047 0.049      Accept
+     M2-Metric invariance M3-Scalar          1229.37                374               (0.07)                                   [0.065,                                                                                                   0.930                              0.049           Accept Reject
+     invariance M4-Partial scalar            1405.32 1366.21        390 388          3.29 (0.07) 3.60                          0.073]                                                                                                                                                        Accept
+     invariance                                                                       (0.06) 3.52
+                                                                                      (0.06)
+    Motivational Beliefs (Two-factor, 7 items)
+    Overall Model                        40.93                      13               3.15 (0.08) 2.48    0.051 0.053 0.079    [0.034, 0.069] [0.030, 0.077]    M1 M2              15.94 19.40          5 5            0.000 0.001       0.993 0.992      0.002  0.003      0.022 0.024      Accept Accept
+    NZ group                             32.28                      13                (0.12) 3.17 (0.08)  0.064                [0.053, 0.107] [0.047, 0.082]                                                                             0.982 0.988                        0.028 0.026      Accept Accept
+    Chinese group                        41.17 73.01                13 26             2.80 (0.09) 2.87   0.064 0.065           [0.049, 0.080] [0.051,                                                                                    0.986                              0.035            Accept
+     M1-Configuralinvariance M2-Metric   88.95                      31                (0.09) 3.01                              0.079]                                                                                                    0.983                              0.039            Accept
+     invariance M3-Scalar                108.35                     36                (0.08)
+     invariance
+Table A1. Cont.
+Chi-Square Statistics RMSEA
+Compared 2 Decision Model 2 df 2/df Value 90% CI Model Dc Ddf DRMSEA CFI DCFI SRMR
+(p)
+Achievement Goals (Three-factor, 7 items)
+ 
+  Overall Model                     57.42           12        4.78 (0.03) 3.85       0.058 0.062      [0.043, 0.073] [0.044,     M1 M2 M2        18.16 88.04     4 4 3       0.005 0.028    0.989 0.987    0.003  0.021   0.031 0.033      Accept
+  NZ group                          46.15           12         (0.05)                 0.033 0.053      0.082] [0.000,                             18.14                       0.004          0.997 0.991    0.003          0.024 0.030      Accept
+  Chinese group                     17.39 62.38     12 24      1.45                   0.058 0.086      0.065]                                                                                0.988 0.969                   0.039 0.039      Accept
+   M1-Configuralinvariance          80.54           28        (0.23) 2.60 (0.11)      0.062           [0.037, 0.070] [0.043,                                                                 0.985                         0.041            Accept
+   M2-Metric invariance M3-Scalar   168.58 98.68    32 31      2.88 (0.09) 5.27                        0.073] [0.051, 0.079]                                                                                                                Accept
+   invariance M4-Partial scalar                                (0.02) 3.18                             [0.048,                                                                                                                              Reject
+   invariance                                                  (0.07)                                  0.076]                                                                                                                               Accept
+                                                              Note. Estimator = MLR; df = degree of freedom; CFI = comparative fitindex; RMSEA = root mean square error of approximation; CI = confidenceinterval; D = change in fitindices;
+                                                               SRMR = standardised root mean
+                                                               residual.
+                                                              Table A2. Fit statistics of structural model invariances between NZ domestic and PRC in NZ groups.
+2 RMSEA
+Compared 2 Decision Model Dc Ddf DRMSEA CFI DCFI SRMR
+Value df c2/df Value 90% CI Model
+(p)
+
+Educ. Sci. 2023, 13, 1090  of 
+Overall Model M1-Configuralinvariance M2-Metric invariance M3-Scalar invariance M4-Factor variance invariance M5-Factor covariance invariance M6-Regression invariance
+3.35 1773.851 529
+(0.07)
+2.23 2393.035 1075
+(0.13)
+2.22 2446.404 1100
+(0.14)
+2.42 2719.137 1125
+(0.12)
+2.54 2883.279 1135
+(0.11)
+2.64 303.855 1149
+(0.10)
+2.64 303.855 1149
+(0.10)
+0.47 [0.044, 0.049]
+0.48 [0.045, 0.050]
+0.047 [0.045, 0.050]
+0.051 [0.048, 0.053]
+0.053 [0.051, 0.055]
+0.055 [0.052, 0.057]
+0.055 [0.052, 0.057]
+0.952
+0.948 M1 53.37 25  0.001 0.948 M2 272.73 25 0.004 0.938 M3 164.14 10 0.002 0.932 M4 147.58 14 0.002 0.927 M5 0 0 0.000 0.927
+0.040 Accept
+0.057 Accept
+ 0.000 0.051 Accept  0.010 0.053 Accept  0.006 0.078 Accept  0.005 0.097 Accept  0.000 0.097 Accept
+
+Educ. Sci. 2023, 13, 1090 18 of 18
+Note. Estimator = MLR; df = degree of freedom; CFI = comparative fitindex; RMSEA = root mean square error of approximation; CI = confidenceinterval; D = changes in fitindices; SRMR = standardised root mean residual.
+Table A3. Standardised path coefficients of direct, indirect, and total effects between students’
+conceptions of feedback, motivational beliefs, and achievement goals.
+Independent Variables Dependent Variables Direct Indirect Total
+
+Educ. Sci. 2023, 13, 1090 18 of 23
+Conceptions of Feedback Active use of feedback
+Ignoring feedback
+Feedback meeting expectation Teacher comment feedback
+Motivational Beliefs Self-efficacy
+Task value
+Motivational Beliefs
+Self-efficacybeliefs 0.34 ***   0.34 ***
+Task value beliefs 0.40 ***   0.40 *** Achievement Goals
+Mastery goals 0.13 *** 0.32 *** 0.45 *** Performance-approach goals 0.16 *** 0.14 *** 0.30 *** Motivational Beliefs
+Task value beliefs  0.06 *    0.06 * Achievement Goals
+Mastery goals  0.07 ***  0.05 *  0.12 *** Performance-approach goals 0.07 **   0.07 ** Achievement Goals
+Performance-approach goals 0.28 ***   0.28 *** Performance-avoidance goals 0.32 ***   0.32 *** Motivational Beliefs
+Self-efficacybeliefs 0.30 ***   0.30 *** Task value beliefs 0.26 ***   0.26 *** Achievement Goals
+Mastery goals   0.21 *** 0.21 ***
+Performance-approach goals  0.17 *** 0.11 ***  0.06 Achievement Goals
+Performance-approach goals 0.21 ***   0.21 *** Achievement Goals
+Mastery goals 0.80 ***   0.80 *** Performance-approach goals 0.16 *** 0.16 ***
+
+Educ. Sci. 2023, 13, 1090 23 of 23
+Note. The bold values indicate the effects with weights above 0.30; italicised numbers indicate negative effects; *p < 0.05, **p < 0.01, ***p < 0.001.
+References
+1. Hattie, J.; Timperley, H. The Power of Feedback. Rev. Educ. Res. 2007, 77, 81–112. [CrossRef]
+2. Nicol, D.; MacFarlane-Dick, D. Formative Assessment and Self-regulated Learning: A Model and Seven Principles of Good Feedback Practice. Stud. High. Educ. 2006, 31, 199–218. [CrossRef]
+3. Evans, C. Making Sense of Assessment Feedback in Higher Education. Rev. Educ. Res. 2013, 83, 70–120. [CrossRef]
+4. Gibbs, G.; Simpson, C. Conditions Under Which Assessment Supports Students’ Learning. Learn. Teach. High. Educ. 2005, 5, 3–31.
+5. Shute, V.J. Focus on Formative Feedback. Rev. Educ. Res. 2008, 78, 153–189. [CrossRef]
+6. Wisniewski, B.; Zierer, K.; Hattie, J. The Power of Feedback Revisited: A Meta-Analysis of Educational Feedback Research. Front. Psychol. 2020, 10, 3087. [CrossRef]
+7. Jonsson, A.; Panadero, E. Facilitating Students’ Active Engagement with Feedback. In Cambridge Handbook of Instructional Feedback; Lipnevich, A.A., Smith, J.K., Eds.; Cambridge University Press: Cambridge, UK, 2018; pp. 531–553. [CrossRef]
+8. Van der Kleij, F.M.; Lipnevich, A.A. Student Perceptions of Assessment Feedback: A Critical Scoping Review and Call for Research. Educ. Assess. Eval. Account. 2021, 33, 345–373. [CrossRef]
+9. Lipnevich, A.A.; Panadero, E. A Review of Feedback Models and Theories: Descriptions, Definitions,and Conclusions. Front. Educ. 2021, 6, 720195. [CrossRef]
+10. Panadero, E.; Lipnevich, A.A. A Review of Feedback Models and Typologies: Towards an Integrative Model of Feedback Elements. Educ. Res. Rev. 2022, 35, 100416. [CrossRef]
+11. Fong, C.J.; Schallert, D.L. “Feedback to the Future”: Advancing Motivational and Emotional Perspectives in Feedback Research. Educ. Psychol. 2022, 58, 146–161. [CrossRef]
+12. Bandura, A. Social Cognitive Theory and Exercise of Control Over HIV Infection. In Preventing AIDS: Theories and Methods of Behavioral Interventions; DiClemente, R.J., Peterson, J.L., Eds.; ACS Book Series; American Chemical Society: Washington, DC, USA, 1994; pp. 25–59.
+13. Hong, W.; Bernacki, M.L.; Perera, H.N. A Latent ProfileAnalysis of Undergraduates’ Achievement Motivations and Metacognitive Behaviors, and Their Relations to Achievement in Science. J. Educ. Psychol. 2020, 112, 1409–1430. [CrossRef]
+14. Ransdell, S. Predicting College Success: The Importance of Ability and Non-Cognitive Variables. Int. J. Educ. Res. 2001, 35, 357–364. [CrossRef]
+15. Bandura, A. On the Functional Properties of Perceived Self-EfficacyRevisited. J. Manag. 2012, 38, 9–44. [CrossRef]
+16. Elliot, A.J.; Thrash, T.M. Achievement Goals and the Hierarchical Model of Achievement Motivation. Educ. Psychol. Rev. 2001, 13, 139–156. [CrossRef]
+17. Liem, A.D.; Lau, S.; Nie, Y. The Role of Self-Efficacy, Task Value, and Achievement Goals in Predicting Learning Strategies, Task Disengagement, Peer Relationship, and Achievement Outcome. Contemp. Educ. Psychol. 2008, 33, 486–512. [CrossRef]
+18. Wilson, K.; Narayan, A. Relationships among Individual Task Self-Efficacy, Self-Regulated Learning Strategy Use and Academic Performance in a Computer-Supported Collaborative Learning Environment. Educ. Psychol. 2016, 36, 236–253. [CrossRef]
+19. Lipnevich, A.A.; Smith, J.K. (Eds.) The Cambridge Handbook of Instructional Feedback; Cambridge University Press: Cambridge, UK, 2018.
+20. Muis, K.R.; Winne, P.H.; Ranellucci, J. The Role of Calibration Bias and Performance Feedback in Achievement Goal Regulation. Int. Educ. Res. 2016, 4, 14–36. [CrossRef]
+21. Stone, E.R.; Opel, R.B. Training to Improve Calibration and Discrimination: The Effects of Performance and Environmental Feedback. Organ. Behav. Hum. Decis. Process. 2000, 83, 282–309. [CrossRef]
+22. Butler, D.L.; Winne, P.H. Feedback and Self-Regulated Learning: A Theoretical Synthesis. Rev. Educ. Res. 1995, 65, 245–281. [CrossRef]
+23. Labuhn, A.S.; Zimmerman, B.J.; Hasselhorn, M. Enhancing Students’ Self-Regulation and Mathematics Performance: The Influenceof Feedback and Self-Evaluative Standards. Metacognition Learn. 2010, 5, 173–194. [CrossRef]
+24. Stone, E.F.; Stone, D.L. The Effects of Multiple Sources of Performance Feedback and Feedback Favorability on Self-Perceived Task Competence and Perceived Feedback Accuracy. J. Manag. 1984, 10, 371–378. [CrossRef]
+25. Boekaerts, M.; Cascallar, E. How Far Have We Moved toward the Integration of Theory and Practice in Self-Regulation? Educ. Psychol. Rev. 2006, 18, 199–210. [CrossRef]
+26. Panadero, E. A Review of Self-Regulated Learning: Six Models and Four Directions for Research. Front. Psychol. 2017, 8, 422. [CrossRef] [PubMed]
+27. Zimmerman, B.J.; Bandura, A.; Martinez-Pons, M. Self-Motivation for Academic Attainment: The Role of Self-EfficacyBeliefs and Personal Goal Setting. Am. Educ. Res. J.1992, 29, 663–676. [CrossRef]
+28. Zimmerman, B.J. Motivational Sources and Outcomes of Self-Regulated Learning and Performance. In Handbook of Self-Regulation of Learning and Performance; Zimmerman, B.J., Schunk, D.H., Eds.; Routledge: London, UK, 2011; pp. 49–64.
+29. Ames, C.; Archer, J. Achievement Goals in the Classroom: Students’ Learning Strategies and Motivation Processes. J. Educ. Psychol. 1988, 80, 260–267. [CrossRef]
+30. Anderman, E.M.; Wolters, C.A. Goals, Values, and Affect: Influenceson Student Motivation. In Handbook of Educational Psychology; Alexander, P.A., Winne, P.H., Eds.; Lawrence Erlbaum Associates Publishers: Mahwah, NJ, USA, 2006; pp. 369–389.
+31. Meece, J.L.; Anderman, E.M.; Anderman, L.H. Classroom Goal Structure, Student Motivation, and Academic Achievement. Annu. Rev. Psychol. 2006, 57, 487–503. [CrossRef]
+32. Brown, G.T.L. Conceptions of Assessment: Understanding What Assessment Means to Teachers and Students; Nova Science: New York, NY, USA, 2008.
+33. Brown, G.T.L.; Zhao, A. In Defence of Psychometric Measurement: A Systematic Review of Contemporary Self-Report Feedback Inventories. Educ. Psychol. 2023, 58, 178–192. [CrossRef]
+34. Brown, G.T.L.; Peterson, E.R.; Yao, E.S. Student Conceptions of Feedback: Impact on Self-Regulation, Self-Efficacy, and Academic Achievement. Br. J. Educ. Psychol. 2016, 86, 606–629. [CrossRef]
+35. Black, P.; Wiliam, D. Developing the Theory of Formative Assessment. Educ. Assess. Eval. Account. 2009, 21, 5–31. [CrossRef]
+36. Jonsson, A. Facilitating Productive Use of Feedback in Higher Education. Act. Learn. High. Educ. 2013, 14, 63–76. [CrossRef]
+37. Lipnevich, A.A.; Smith, J.K. Effects of Differential Feedback on Students’ Examination Performance. J. Exp. Psychol. Appl. 2009, 15, 319–333. [CrossRef] [PubMed]
+38. Sadler, D.R. Beyond Feedback: Developing Student Capability in Complex Appraisal. Assess. Eval. High. Educ. 2010, 35, 535–550. [CrossRef]
+39. Eccles, J.S.; Wigfield, A. Motivational Beliefs, Values, and Goals. Annu. Rev. Psychol. 2002, 53, 109–132. [CrossRef] [PubMed]
+40. Schunk, D.H.; Usher, E.L. Social Cognitive Theory and Motivation. In The Oxford Handbook of Human Motivation, 2nd ed.; Ryan, R.M., Ed.; Oxford University Press: Oxford, UK, 2012; pp. 10–26.
+41. Wigfield, A.; Muenks, K.; Eccles, J.S. Achievement Motivation: What We Know and Where We Are Going. Annu. Rev. Dev. Psychol. 2021, 3, 87–111. [CrossRef]
+42. Covington, M.V.; Dray, E. The Developmental Course of Achievement Motivation. In Development of Achievement Motivation; Wigfield,A., Eccles, J.S., Eds.; Academic Press: Cambridge, MA, USA, 2002; pp. 33–56. [CrossRef]
+43. Ryan, R.M.; Ryan, W.S.; Di Domenico, S.I.; Deci, E.L. The Nature and the Conditions of Human Autonomy and Flourishing: Self-Determination Theory and Basic Psychological Needs. In The Oxford Handbook of Human Motivation; Ryan, R.M., Ed.; Oxford University Press: Oxford, UK, 2019; pp. 89–110.
+44. Eccles, J.S.; Wigfield,A. From Expectancy-Value Theory to Situated Expectancy-Value Theory: A Developmental, Social Cognitive, and Sociocultural Perspective on Motivation. Contemp. Educ. Psychol. 2020, 61, 101859. [CrossRef]
+45. Bandura, A. Self-Efficacy: The Exercise of Control; Freeman: New York, NY, USA, 1997.
+46. Bandura, A. Social Foundations of Thought and Action: A Social Cognitive Theory; Prentice-Hall: Hoboken, NJ, USA, 1986.
+47. Eccles, J.S. Subjective Task Value and the Eccles et al. Model of Achievement-Related Choices. In Handbook of Competence and Motivation; Elliot, A.J., Dweck, C.S., Eds.; The Guilford Press: New York, NY, USA, 2005; pp. 105–121.
+48. Wigfield, A.; Eccles, J.S. 35 Years of Research on Students’ Subjective Task Values and Motivation: A Look Back and a Look Forward. In Advances in Motivation Science; Elliot, A.J., Ed.; Elsevier Academic Press: Cambridge, MA, USA, 2020; pp. 161–198.
+49. Weiner, B. An Attributional Theory of Achievement Motivation and Emotion. Psychol. Rev. 1985, 92, 548–573. [CrossRef] [PubMed]
+50. Pajares, F. Self-Efficacy Beliefs, Motivation, and Achievement in Writing: A Review of the Literature. Read. Writ. Q. 2003, 19, 139–158. [CrossRef]
+51. Schunk, D.H.; Mullen, C.A. Toward a Conceptual Model of Mentoring Research: Integration with Self-Regulated Learning. Educ. Psychol. Rev. 2013, 25, 361–389. [CrossRef]
+52. Zimmerman, B.J.; Cleary, T.J. Motives to Self-Regulate Learning: A Social Cognitive Account. In Handbook of Motivation at School; Wenzel, K.R., Wigfield,A., Eds.; Routledge/Taylor & Francis Group: New York, NY, USA, 2009; pp. 247–264.
+53. Bandura, A.; Barbaranelli, C.; Caprara, G.V.; Pastorelli, C. Self-EfficacyBeliefs as Shapers of Children’s Aspirations and Career Trajectories. Child Dev. 2001, 72, 187–206. [CrossRef]
+54. Ferrari, J.R.; Parker, J.T. High School Achievement, Self-Efficacy, and Locus of Control as Predictors of Freshman Academic Performance. Psychol. Rep. 1992, 71, 515–518. [CrossRef]
+55. Collins, A. Toward a Design Science of Education. In New Directions in Educational Technology; Scanlon, E., O’Shea, T., Eds.; Springer: Berlin/Heidelberg, Germany, 1992; pp. 15–22.
+56. Schunk, D.H.; Usher, E.L. Assessing self-efficacy for self-regulated learning. In Handbook of Self-Regulation of Learning and Performance; Zimmerman, B.J., Schunk, D.H., Eds.; Routledge/Taylor & Francis Group: New York, NY, USA, 2011; pp. 282–297.
+57. Schunk, D.H.; Zimmerman, B.J. Competence and Control Beliefs: Distinguishing the Means and Ends. In Handbook of Educational Psychology; Alexander, P.A., Winne, P.H., Eds.; Lawrence Erlbaum Associates Publishers: Mahwah, NJ, USA, 2006; pp. 349–367.
+58. Zimmerman, B.J. Attaining self-regulation: A social cognitive perspective. In Handbook of Self-Regulation; Boekaerts, M., Pintrich, P.R., Zeidner, M., Eds.; Academic Press: Cambridge, MA, USA, 2000; pp. 13–39.
+59. Wigfield, A. Expectancy-Value Theory of Achievement Motivation: A Developmental Perspective. Educ. Psychol. Rev. 1994, 6, 49–78. [CrossRef]
+60. Elliot, A.J.; Church, M.A. A Hierarchical Model of Approach and Avoidance Achievement Motivation. J. Pers. Soc. Psychol.1997, 72, 218–232. [CrossRef]
+61. Boekaerts, M.; Corno, L. Self-Regulation in the Classroom: A Perspective on Assessment and Intervention. Appl. Psychol. 2005, 54, 199–231. [CrossRef]
+62. Elliot, A.J.; Covington, M.V. Approach and avoidance motivation. Educ. Psychol. Rev. 2001, 13, 73–92. [CrossRef]
+63. Bardach, L.; Oczlon, S.; Pietschnig, J.; Lüftenegger, M. Has Achievement Goal Theory Been Right? A Meta-Analysis of the Relation between Goal Structures and Personal Achievement Goals. J. Educ. Psychol. 2020, 112, 1197–1220. [CrossRef]
+64. Bong, M. Age-Related Differences in Achievement Goal Differentiation. J. Educ. Psychol. 2009, 101, 879–896. [CrossRef]
+65. Senko, C.; Hulleman, C.S.; Harackiewicz, J.M. Achievement Goal Theory at the Crossroads: Old Controversies, Current Challenges, and New Directions. Educ. Psychol. 2011, 46, 26–47. [CrossRef]
+66. Murayama, K.; Elliot, A.J. Achievement goals. In The Oxford Handbook of Human Motivation, 2nd ed.; Ryan, R.M., Ed.; Oxford University Press: Oxford, UK, 2019; pp. 228–245.
+67. Anderman, E.M.; Eccles, J.S.; Yoon, K.S.; Roeser, R.; Wigfield, A.; Blumenfeld, P. Learning to value mathematics and reading: Relations to mastery and performance-orientated instructional practices. Contemp. Educ. Psychol. 2001, 26, 76–95. [CrossRef]
+68. Wigfield,A.; Cambria, J. Students’ Achievement Values, Goal Orientations, and Interest: Definitions,Development, and Relations to Achievement Outcomes. Dev. Rev. 2010, 30, 1–35. [CrossRef]
+69. Earley, P.C.; Gibson, C.B.; Chen, C.C. “How did I do?” versus “How did we do?”: Cultural Contrasts of Performance Feedback Use and Self-Efficacy. J. Cross-Cult. Psychol. 1999, 30, 594–619. [CrossRef]
+70. Klassen, R.M. Optimism and Realism: A Review of Self-Efficacy from a Cross-Cultural Perspective. Int. J. Psychol. 2004, 39, 205–230. [CrossRef]
+71. Mahat, G.; Scoloveno, M.A.; Ayres, C. Comparison of Adolescents’ HIV/AIDS Knowledge and Self-Efficacyacross Two Cultures.
+J. Cult. Divers. 2014, 21, 152–158. [PubMed]
+72. Oettingen, G. Cross-cultural perspectives on self-efficacy. In Self-Efficacy in Changing Societies; Bandura, A., Ed.; Cambridge University Press: Cambridge, UK, 1995; pp. 149–176.
+73. Lee, J. Universals and Specificsof Math Self-Concept, Math Self-Efficacy, and Math Anxiety across 41 PISA 2003 Participating Countries. Learn. Individ. Differ. 2009, 19, 355–365. [CrossRef]
+74. Ahn, H.S.; Usher, E.L.; Butz, A.; Bong, M. Cultural Differences in the Understanding of Modelling and Feedback as Sources of Self-EfficacyInformation. Brit. J. Educ. Psychol. 2016, 86, 112–136. [CrossRef] [PubMed]
+75. Phillipson, S.N.; Lam, B.H. Learning and Teaching in the Chinese Classroom: Responding to Individual Needs; Hong Kong University Press: Hong Kong, China, 2011.
+76. Chang, L.; Mak, M.C.K.; Li, T.; Wu, B.P.; Chen, B.B.; Lu, H.J. Cultural Adaptations to Environmental Variability: An Evolutionary Account of East-West Differences. Educ. Psychol. Rev. 2011, 23, 99–129. [CrossRef]
+77. Xie, M.; King, R.B.; Luo, Y. Social Motivation and Deep Approaches to Learning: A Nationwide Study among Chinese College Students. High. Educ. 2023, 85, 669–687. [CrossRef]
+78. Liu, Y.; Zheng, X.; Hau, K.T. Would Emphasizing the Instrumental Value of Learning Help Unmotivated Students? Large-Scale Cross-Cultural Comparisons. Pers. Individ. Dif. 2023, 207, 112148. [CrossRef]
+79. Chen, S.W.; Wang, H.H.; Wei, C.F.; Fwu, B.J.; Hwang, K.K. Taiwanese Students’ Self-Attributions for Two Types of Achievement Goals. J. Soc. Psychol.2009, 149, 179–194. [CrossRef]
+80. Cheng, R.W.; Lam, S. The Interaction Between Social Goals and Self-Construal on Achievement Motivation. Contemp. Educ. Psychol. 2013, 38, 136–148. [CrossRef]
+81. King, R.B.; Datu, J.A.D.; McInerney, D.M. Personal Investment Theory: A Cross-Cultural Framework for the Study of Student Motivation. In Big Theories Revisited 2; Liem, G.A.D., McInerny, D.M., Eds.; Information Age Publishing: Charlotte, NC, USA, 2018; pp. 69–88.
+82. Eccles, J.S.; Wigfield,A. Expectancy-Value Theory to Situated Expectancy-Value Theory: Reflectionson the Legacy of 40+ Years of Working Together. Motiv. Sci. 2023, 9, 275. [CrossRef]
+83. Pintrich, P.R. A Conceptual Framework for Assessing Motivation and Self-Regulated Learning in College Students. Educ. Psychol. Rev. 2004, 16, 385–407. [CrossRef]
+84. Jöreskog, K.G.; Goldberger, A.S. Estimation of a model with multiple indicators and multiple causes of a single latent variable. J. Am. Stat. Assoc. 1975, 70, 631–639.
+85. Anderson, J.C.; Gerbing, D.W. Structural equation modeling in practice-A review and recommended 2-step approach. Psychol. Bull. 1988, 103, 411–423. [CrossRef]
+86. Brown, G.T.L.; Harris, L.R.; O’Quin, C.; Lane, K.E. Using multi-group confirmatory factor analysis to evaluate cross-cultural research: Identifying and understanding non-invariance. Int. J. Res. Method Educ. 2017, 40, 66–90. [CrossRef]
+87. Brown, G.T.L.; Shulruf, B. Response Option Design in Surveys. In The SAGE Handbook of Survey Development and Application; Ford, L.R., Scandura, T.A., Eds.; SAGE Publications Limited: Thousand Oaks, CA, USA, 2023; pp. 120–132.
+88. Irving, S.E.; Peterson, E.R. Student Conceptions of Feedback (SCoF) Inventory (V. 3), Measurement Instrument; University of Auckland: Auckland, New Zealand, 2007. [CrossRef]
+89. Gao, X.TheImpactofContext-DrivenAssessmentandFeedbackConceptionsonUniversityStudents’ApproachestoLearning—A Cross-Cultural Perspective. Ph.D. Thesis, The University of Auckland, Auckland, New Zealand, 2022. Available online: https://hdl.handle.net/2292/64118 (accessed on 16 August 2023).
+90. Pintrich, P.R.; Smith, D.A.; Garcia, T.; McKeachie, W.J. A Manual for the Use of the Motivated Strategies for Learning Questionnaire (MSLQ); National Center for Research to Improve Postsecondary Teaching and Learning, The University of Michigan: Ann Arbor, MI, USA, 1991.
+91. Hamilton, R.J.; Akhter, S. Construct Validity of the Motivated Strategies for Learning Questionnaire. Psychol. Rep. 2009, 104, 711–722. [CrossRef] [PubMed]
+92. Gan, Z.; Liu, F.; Nang, H. The Role of Self-Efficacy, Task Value, and Intrinsic and Extrinsic Motivations in Students’ Feedback Engagement in English Learning. Behav. Sci.2023, 13, 428. [CrossRef]
+93. Elliot, A.J.; McGregor, H.A. A 2  2 achievement goal framework. J. Pers. Soc. Psychol.2001, 80, 501–519. [CrossRef]
+94. Chen, C.; Zhang, L.F. Temperament, Personality and Achievement Goals among Chinese Adolescent Students. Educ. Psychol. 2011, 31, 339–359. [CrossRef]
+95. Alrakaf, S.; Abdelmageed, A.; Kiersma, M.; Coulman, S.A.; John, D.N.; Tordoff, J.; Anderson, C.; Noreddin, A.; Sainsbury, E.; Rose, G.; et al. An International Validation Study of Two Achievement Goal Measures in a Pharmacy Education Context. Adv. Med. Educ. Pract. 2014, 5, 339–345. [CrossRef]
+96. Rosseel, Y. Lavaan: An R Package for Structural Equation Modeling. J. Stat. Soft. 2012, 48, 1–36. [CrossRef]
+97. Jorgensen, T.D.; Pornprasertmanit, S.; Schoemann, A.M.; Rosseel, Y. semTools: Useful Tools for Structural Equation Modelling. R Package Version 0.5-6. 2022. Available online: https://CRAN.R-project.org/package=semTools (accessed on 5 April 2022).
+98. Jackson, D.L.; Gillaspy, J.A.; Purc-Stephenson, R. Reporting Practices in ConfirmatoryFactor Analysis: An Overview and Some Recommendations. Psychol. Methods 2009, 14, 6–23. [CrossRef] [PubMed]
+99. Ullman, J.B. Structural Equation Modeling: Reviewing the Basics and Moving Forward. J. Pers. Assess. 2006, 87, 35–50. [CrossRef] [PubMed]
+100. Cramer, D.; Howitt, D.L. The SAGE Dictionary of Statistics: A Practical Resource for Students in Social Sciences; SAGE Publications
+Ltd.: London, UK, 2004. [CrossRef]
+101. Kline, R.B. Principles and Practice of Structural Equation Modeling, 2nd ed.; Guilford Press: New York, NY, USA, 2005.
+102. Byrne, B.M. Structural Equation Modeling with AMOS: Basic Concepts, Applications, and Programming, 2nd ed.; Routledge/Taylor &
+Francis Group: New York, NY, USA, 2010.
+103. Mardia, K.V. Measures of Multivariate Skewness and Kurtosis with Applications. Biometrika1970, 57, 519–530. [CrossRef]
+104. Fan, X.; Sivo, S.A. Sensitivity of Fit Indices to Model Misspecification and Model Types. Multivar. Behav. Res. 2007, 42, 509–529.
+[CrossRef]
+105. Hu, L.T.; Bentler, P.M. Cutoff Criteria for Fit Indexes in Covariance Structure Analysis: Conventional Criteria versus New
+Alternatives. Struct. Equ. Model. 1999, 6, 1–55. [CrossRef]
+106. Marsh, H.W.; Wen, Z.; Hau, K.T.StructuralEquationModelsofLatentInteractions: EvaluationofAlternativeEstimationStrategies
+and Indicator Construction. Psychol. Methods 2004, 9, 275–300. [CrossRef]
+107. Burnham, K.P.; Anderson, D.R. Multimodel Inference: Understanding AIC and BIC in Model Selection. Sociol. Methods Res.2004,
+33, 261–304. [CrossRef]
+108. Cheung, G.W.; Rensvold, R.B. Evaluating Goodness-of-Fit Indexes for Testing Measurement Invariance. Struct. Equ. Model. 2002,
+9, 233–255. [CrossRef]
+109. Chen, F.F. Sensitivity of Goodness of Fit Indexes to Lack of Measurement Invariance. Struct. Equ. Model. 2007, 14, 464–504.
+[CrossRef]
+110. Nye, C.D.; Drasgow, F. Effect Size Indices for Analyses of Measurement Equivalence: Understanding the Practical Importance of
+Differences Between Groups. J. Appl. Psychol. 2011, 96, 966–980. [CrossRef]
+111. Cohen, J. Quantitative Methods in Psychology: A Power Primer. Psychol. Bull. 1992, 112, 155–159. [CrossRef] [PubMed]
+112. Putnick, L.D.; Bornstein, H.M. Measurement Invariance Conventions and Reporting: The State of the Art and Future Directions
+for Psychological Research. Dev. Rev. 2016, 41, 71–90. [CrossRef] [PubMed]
+113. Wu, A.D.; Li, Z.; Zumbo, B.D. Decoding the Meaning of Factorial Invariance and Updating the Practice of Multi-Group
+ConfirmatoryFactor Analysis: A Demonstration with TIMSS Data. Pract. Assess. Res. Eval. 2007, 12, 3. [CrossRef]
+114. Cohen, J. Statistical Power Analysis for the Behavioral Sciences, 2nd ed.; Lawrence Erlbaum Associates: Mahwah, NJ, USA, 1988.
+115. Kelloway, E.K. Using Mplus for Structural Equation Modeling: A Researcher’s Guide; SAGE Publications Inc.: Thousand Oaks, CA,
+USA, 2014.
+116. Satorra, A.; Bentler, P. Is Used as a Chi-Square Test Statistic with Degrees of Freedom Equal to the Difference on the Number of
+Independent Parameters Estimated under the Models AdO and Adl. As in the Case of the Goodness-of-Fit Test, It Is of Interest to Scale the Statistic. Psychometrika 2001, 66, 507–514. [CrossRef]
+117. Ames, C. Classrooms: Goals, structures, and student motivation. J. Educ. Psychol. 1992, 84, 261–271. [CrossRef]
+118. Schunk, D.H.; Zimmerman, B. Handbook of Self-Regulation of Learning and Performance, 2nd ed.; Routledge: Oxfordshire, UK, 2011. 119. Schunk, D.H. Self-efficacy and education and instruction. In Self-Efficacy, Adaptation, and Adjustment: Theory, Research, and
+Application; Maddux, J.E., Ed.; Plenum Press: New York, NY, USA, 1995; pp. 281–303.
+120. Zhao, H. Investigating learners’ use and understanding of peer and teacher feedback on writing: A comparative study in a
+Chinese English writing classroom. Assess. Writ. 2010, 15, 3–17. [CrossRef]
+121. Azar, H.K.; Lavasani, M.G.; Malahmadi, E.; Amani, J. The Role of Self-Efficacy, Task Value, and Achievement Goals in Predicting
+Learning Approaches and Mathematics Achievement. Procedia. Soc. Behav. Sci.2010, 5, 942–947. [CrossRef]
+122. Dull, R.B.; Schleifer, L.L.; McMillan, J.J. Achievement goal theory: The relationship of accounting students’ goal orientations with
+self-efficacy, anxiety, and achievement. Account. Educ. 2015, 24, 152–174. [CrossRef]
+123. Elliot, A.J. Approach and avoidance motivation and achievement goals. Educ. Psychol. 1999, 34, 169–189. [CrossRef]
+124. Fenollar, P.; Román, S.; Cuestas, P.J. University Students’ Academic Performance: An Integrative Conceptual Framework and
+Empirical Analysis. Br. J. Educ. Psychol. 2007, 77, 873–891. [CrossRef]
+125. Tolli, A.P.; Schmidt, A.M. The Role of Feedback, Causal Attributions, and Self-Efficacyin Goal Revision. J. Appl. Psychol. 2008,
+93, 692–701. [CrossRef] [PubMed]
+126. Henderson, M.; Ryan, T.; Phillips, M. The challenges of feedback in higher education. Assess. Eval. High. Educ. 2019, 44, 1237–1252.
+[CrossRef]
+127. Stobart, G. Becoming Proficient: An Alternative Perspective on the Role of Feedback. In The Cambridge Handbook of Instructional
+Feedback; Lipnevich, A.A., Smith, J.K., Eds.; Cambridge University Press: Cambridge, UK, 2018; pp. 29–51. [CrossRef]
+128. Gregg, A.P.; Sedikides, C.; Gebauer, J.E. Dynamics of Identity: Between Self-Enhancement and Self-Assessment. In Handbook of Identity Theory and Research; Schwartz, S.J., Luyckx, K., Vignoles, V.L., Eds.; Springer Science + Business Media: New York, NY,
+USA, 2011; pp. 305–327. [CrossRef]
+129. Sedikides, C. The need for positive feedback–Socialcultural consideration of self-evaluative motives in education. In Big Theories
+Revisited 2, 2nd ed.; Liem, A.D., McInerney, D.M., Eds.; Information Age Publishing: Charlotte, NC, USA, 2018; pp. 381–400. 130. Harris, L.R.; Brown, G.T.L.; Harnett, J.A. Understanding Classroom Feedback Practices: A Study of New Zealand Student
+Experiences, Perceptions, and Emotional Responses. Educ. Assess. Eval. Account. 2014, 26, 107–133. [CrossRef]
+131. Falchikov, N.; Goldfinch,J. Student Peer Assessment in Higher Education: A Meta-Analysis Comparing Peer and Teacher Marks.
+Rev. Educ. Res. 2000, 70, 287–322. [CrossRef]
+132. Hanrahan, S.J.; Isaacs, G. Assessing Self-and Peer-Assessment: The Students’ Views. High. Educ. Res. Dev. 2001, 20, 53–70.
+[CrossRef]
+133. Panadero, E.; Alqassab, M. An Empirical Review of Anonymity Effects in Peer Assessment, Peer Feedback, Peer Review, Peer
+Evaluation and Peer Grading. Assess. Eval. High. Educ. 2019, 44, 1253–1278. [CrossRef]
+134. Watkins, D.A.; Biggs, J.B. The Chinese Learner: Cultural, Psychological, and Contextual Influences; Comparative Education Re-
+search Centre, The University of Hong Kong/Australian Council for Educational Research: Hong Kong, China; Melbourne, Australia, 1996.
+135. Watkins, D.A.; Biggs, J.B. Teaching the Chinese Learner: Psycho-Logical and Pedagogical Perspectives; Comparative Education
+Research Centre, The University of Hong Kong/Australian Council for Educational Research: Hong Kong, China; Melbourne, Australia, 2001.
+136. Kennedy, K.J. Exploring the Influenceof Culture on Assessment: The Case of Teachers’ Conceptions of Assessment in Confucian
+Heritage Cultures. In Handbook of Human and Social Conditions in Assessment; Brown, G.T., Harris, L.R., Eds.; Routledge: Oxfordshire, UK, 2016; pp. 404–419.
+137. Guan, X.; Jones, G. Unlearning and Relearning: Chinese Students in a New Zealand First Year Undergraduate Class. N. Z. J. Teach.
+Work. 2011, 8, 208–219.
+138. Tait, C. The Chinese Learner in the New Zealand University Environment. N. Z. Annu. Rev. Educ. 2012, 21, 165–183. [CrossRef] 139. Gieve, S.; Clark, R. “The Chinese Approach to Learning”: Cultural Trait or Situated Response? The Case of a Self-Directed
+Learning Programme. System 2005, 33, 261–276. [CrossRef]
+140. Harris, L.R.; Brown, G.T.; Dargusch, J. Not Playing the Game: Student Assessment Resistance as a Form of Agency. Aust. Educ.
+Res. 2018, 45, 125–140. [CrossRef]
+141. Levin, K.A. Study Design III: Cross-Sectional Studies. Evid. Based. Dent. 2006, 7, 24–25. [CrossRef] [PubMed]
+142. Hoyle, R.H.; Dent, A.L. Developmental Trajectories of Skills and Abilities Relevant for Self-Regulation of Learning and Perfor-
+mance. In Handbook of Self-Regulation of Learning and Performance, 2nd ed.; Schunk, D.H., Greene, J.A., Eds.; Routledge: Oxfordshire,
+UK, 2018; pp. 49–63.
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
