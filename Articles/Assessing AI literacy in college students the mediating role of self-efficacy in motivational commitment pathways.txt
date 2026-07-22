@@ -1,0 +1,381 @@
+﻿Education and Information Technologies (2025) 30:23957–23979 https://doi.org/10.1007/s10639-025-13753-9
+Assessing AI literacy in college students: the mediating role of self-efficacy in motivational commitment pathways
+JingKong1· JialiangLiu2 · GaoweiChen3· WengangShang2
+Received: 8 May 2025 / Accepted: 10 August 2025 / Published online: 23 August 2025
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2025
+Abstract
+This study assesses AI literacy among college students and examines its interplay with  motivation  and  self-efficacy,  proposing  a  multidimensional  framework  (AI literacy conceptual model, AICM) that integrates AI literacy (understanding, ap- plying, evaluating, and creating AI) and ethical considerations alongside affective factors. A 29-item self-report questionnaire, validated with data from 1,034 col- lege  students,  measured AI  literacy  components,  motivational  commitment,  and self-efficacy. Structural equation modeling (SEM) revealed that motivational com- mitment positively associated with self-efficacy and AI literacy, with self-efficacy serving as a significant mediator. Multi-group analyses highlighted this mediation effect was stronger for male students, underscoring gendered dynamics in efficacy- driven learning. Key barriers included limited AI experience, technical challenges, and insufficient curricular support. The AICM equips educators to benchmark AI literacy, design gender-responsive interventions, and address systemic access gaps, fostering AI literacy development. Generalizability may be limited by self-report data. Future work should validate the AICM cross-culturally, examine longitudi- nal attitude impacts, and investigate socio-cultural drivers of efficacy disparities through mixed-method approaches.
+Keywords AI literacy · Motivational commitment · Self-efficacy 1  Introduction
+Artificial intelligence (AI) has emerged as a pivotal force driving the new wave of technological revolution and industrial transformation. Its profound impact is evident across various fields, including education. AI is not only transforming the way we communicate with the world but also revolutionizing how we live, learn, and work 
+Extended author information available on the last page of the article
+1 3
+
+in society (Ng et al., 2023a, b; UNESCO, 2022). In this context, it is crucial for individuals to attain a certain level of AI literacy, which encompasses understanding, applying, evaluating, and creating AI in our daily lives (Carolus et al., 2023a, b; Ng et al., 2021a).
+Recent research indicates that developing curricula or learning activities incorpo- rating AI tools can significantly enhance students’ AI literacy (Long et al., 2021; Ng et al., 2022; Su & Yang, 2023; Yang et al., 2024). Engaging in AI learning equips stu- dents with the necessary knowledge and ability to thrive in an increasingly AI-driven world. (Cantú-Ortiz et al., 2020; Southworth et al., 2023). While these efforts aim to foster AI literacy among students, it’s equally important to develop and validate scales that measure students’ understanding of AI.
+Validated instruments are valuable for assessing individuals’ AI capacity, iden- tifying deficits, and designing targeted interventions and programs to promote AI literacy. Recently, several researchers have introduced questionnaires to investigate AI literacy, particularly in K-12 settings (Chai et al., 2020; Ng et al., 2022, 2023a, b; Stolpe & Hallström, 2024; Xia et al., 2022). These pioneering efforts highlight the importance of AI intervention in fostering children AI literacy and pave the way for future studies. Additionally, other researchers have developed scales for assessing adults’ AI literacy (Carolus et al., 2023a, b; Laupichler et al., 2023a, b; Wang Ng et al., 2023a, b). Karaca et al. (2021) evaluated medical students’ readiness for AI tech- nologies and applications. Kong et al. (2021) successfully enhanced 36 university students’ AI literacy by developing an AI program focusing on machine learning, deep learning, and application development.
+The integration of AI into higher education is crucial for preparing students to succeed in the modern workplace (Cantú-Ortiz et al., 2020; Long & Magerko, 2020). Higher education institutions, such as universities, have the responsibility to develop students with AI skills and awareness. However, there remains a significant gap in AI initiatives targeting college students (Southworth et al., 2023). Furthermore, research on instruments for measuring AI literacy among higher education students is still scarce.
+Measuring AI literacy typically involves assessing various dimensions: affective (Kong et al., 2021; Ng et al., 2023a, b), attitude (Chai et al., 2020; Xia et al., 2022), cognitive (Carolus et al., 2023a, b; Karaca et al., 2021; Kong et al., 2021; Ng et al., 2023a, b; Wang et al., 2023), and ethical aspects (Carolus et al., 2023a, b; Chai et al., 2020; Kong et al., 2021; Ng et al., 2023a, b). Although different research on scales may have varying concerns due to differences in objects or methods used, they com- monly emphasize the comprehension and capability of AI. However, research on the relationship between different variables (e.g., the link between self-efficacy and AI literacy) is largely ignored in these studies, particularly the mediating role. As AI literacy is an evolving and dynamic field, further research is urgently needed to explore AI literacy among non-professionally restricted university students and the links between various influencing factors.
+
+Education and Information Technologies (2025) 30:23957–23979 23959
+2  Theoretical background
+2.1 AI literacy and related frameworks
+AI literacy, first introduced by Kandlhofer et al. (2016), was identified as a series of competencies that equip people with the ability to know, understand, and utilize the AI technologies and applications. Long and Magerko (2020) defined “AI literacy as a set of competencies that enables individuals to critically evaluate AI technolo- gies; communicate and collaborate effectively with AI; and use AI as a tool online, at home, and in the workplace.” Laupichler et al. (2023a, b) described AI literacy as competencies, including “basic knowledge and analytical evaluation of AI, as well as critical use of AI applications by non-experts.” Touretzky et al. (2019) proposed five big ideas for K-12 to demonstrate how AI interact with the human and physi- cal world and how AI benefits our society, which guide the students’ AI learning at different ages. In “K-12 AI curricula” report, UNESCO (2022, p. 11) suggest that AI literacy comprise both data literacy and algorithm literacy, individuals need to understand how AI collects, purifies, operates, and analyses data, and how AI algo- rithms detect patterns and associations in the data for human-machine communica- tions. Zhang et al. (2023) introduced a workshop to enhance middle school students’ AI literacy regarding AI concepts and processes, ethical and societal implications, and AI career future. As various definitions of AI literacy enter the stage, Ng et al. (2021b) argue that most of the definitions of AI literacy parallel Bloom’s taxonomy. A 30-articles review was conducted to conceptualize the new concept of AI literacy, including knowing and understanding AI, using and applying AI, evaluating and cre- ating AI, and AI ethics (pp. 4–5). To explore a deeper understanding of learners’ socio-emotional within AI literacy, Ng, Wu, Ng et al. (2023a, b) expand affective and behavioral aspects to assess individual’s motivation, self-efficacy, behavioral inten- tion, and collaboration in using AI (p. 5).
+So far, several instruments have been designed and validated to measure indi- vidual’s AI literacy. Karaca et al. (2021) developed Medical Artificial Intelligence Readiness Scale for Medical Students (MAIRS-MS) to assess and monitor medi- cal students’ perceived readiness for using AI in healthcare. The self-report scale, included 22 items, attempted to measure students’ AI readiness in the four-factor structure of cognition, ability, vision, and ethics. Wang et al. (2023) created AI Liter- acy Scale (AILS) to measure high school students’ AI literacy. 12 items were retained into four dimensions of awareness, use, evaluation, and ethics after reliability and validity tests. Based on Ng et al. (2021b)’s conceptualization of AI literacy, Caro- lus et al. (2023a, b) established and validated a Meta AI Literacy Scale (MAILS) for adults. The confirmatory factor analysis resulted in a 34-items questionnaire to measure AI literacy and psychological competencies. Further, Ng et al. (2023a, b) defined an updated concept of AI literacy by adding behavioral and affective aspects. A self-reported questionnaire on AI literacy (AILQ) was initiated. 32 item scales were preserved to measure students’ literacy development in terms of affective learn- ing (intrinsic motivation and self-efficacy), behavioral learning (behavioral commit- ment and collaboration), cognitive learning (know and understand; apply, evaluate and create) and ethical learning. Laupichler et al. (2023b) employed the Delphi 
+
+3 3
+method to generate potential items and evaluate the validity, resulting in a 38 items questionnaire for measuring AI literacy. A follow-up study was conducted to examine the latent factor model using exploratory factor analysis. The validated instrument reflected AI literacy in three domains of technical understanding, critical appraisal, and practical application (Laupichler et al., 2023a, b). Additionally, some knowledge tests or questionnaires were created to explore the effectiveness of the intervention in AI learning (Chen et al., 2022; Kong et al., 2021; Ng et al., 2022; Stolpe & Hallström, 2024; Yang et al., 2024). The numerous studies show that AI literacy is an increas- ingly important area in AI education. However, these tests mainly stay close to the content of the curriculums or the interventions that need to be evaluated.
+Research on AI literacy is revealing emerging trends that uncover some personal factors, like attitude, closely related to learners’ AI literacy. Chai et al. (2020) inves- tigate factors that shape students’ intention to learn AI. The findings suggest that students’ attitudes to behavior positively linked to the AI literacy and served as signif- icant predictors for behavioral intentions. In another study, adults’ self-management, including AI persuasion literacy and emotion regulation, was found closely linked to AI literacy (Carolus et al., 2023a, b). Ng et al. (2023a, b) examined intrinsic moti- vation, self-efficacy, and social-emotional aspects as parts of AI literacy, which are associated with AI cognitive domain in the confirmatory factor structure. Kong et al. (2021) developed a course for fostering AI literacy, suggesting the prior knowledge was not a prerequisite and gender digital divide was alleviated. Wang and colleagues created a scale for measuring ordinary users’ AI literacy. The results illustrated that their attitude and daily usage of AI significantly associated with AI literacy (Wang et al., 2023). A study was conducted by Chen et al. (2022) to explore factors that affected university students’ intention to join the AI software development. The find- ings of the research demonstrated that students’ self-efficacy and AI literacy directly influence their intention.
+These studies primarily focused on measuring AI literacy, with slightly different orientations due to different AI interventions or curriculums. Some studies examine factors that influence learners’ use of AI technology. Generally, these literacy compo- nents can be categorized into four domains of affective learning (motivation, attitude and self-efficacy), behavioral learning (behavioral commitment and collaboration), AI literacy (know and understand; apply, evaluate and create) and AI ethics (Carolus et al., 2023a, b; Chai et al., 2020; Ng et al., 2023a, b; Wang et al., 2023). As dem- onstrated in the literature, these factors are corelated. For instance, individuals’ self- efficacy significantly linked to AI literacy (Wang et al., 2023). However, such studies have often focused on bivariate relationships (Chai et al., 2020), rather than system- atically analyzing a complex model with mediating interactions. Further research is needed to develop a deeper understanding of AI literacy and interrelationship among various factors. Simultaneous research on the scale for measuring university stu- dents’ AI literacy remains scarce. As such, this study integrates these variables into a conceptual framework for measuring university students’ AI literacy and identify relationships between various variables.
+
+Education and Information Technologies (2025) 30:23957–23979 23961
+2.2 AI literacy conceptualization
+Ryan and Deci’s (2020) self-determination theory, specifically its organismic integra- tion principle positing that intrinsic motivation catalyzes internalization of behav- ioral persistence, provides the theoretical foundation for motivational commitment. This unified construct integrates inherent interest (intrinsic motivation) and sustained action (behavioral commitment) in AI learning contexts. Motivational commitment emerges when learners satisfy psychological needs through autonomous activities (e.g., selecting Natural Language Processing projects aligned with personal curios- ity), enabling the progression from initial interest to sustained behavioral investment. The construct further operationalizes Ajzen’s (1991) Theory of Planned Behavior (TPB) by demonstrating how attitudinal drivers (e.g., enjoyment of problem-solving) enhance perceived behavioral control, thereby bridging psychological engagement and actionable persistence. Empirical studies confirm motivational commitment’s predictive validity for critical AI learning. it drives sustained tool usage (Ng et al., 2023a, b; Xia et al., 2022), contributes significantly to technical proficiency devel- opment (Lin et al., 2021). Chiu and Chai (2020) emphasize the critical role of culti- vating intrinsic motivation to not only deepen AI understanding but also encourage proactive use of AI technologies.
+Bandura’s (1997, 2001) social cognitive theory (SCT) provides the theoretical the mechanism linking behavior to literacy through self-efficacy—learners’ confidence in executing behaviors necessary to achieve specific performance goals. While SCT traditionally emphasizes behavior-literacy pathways, this conceptualization extends its applicability by positioning motivational commitment as the antecedent catalyst. Specifically, motivational commitment fuels mastery experiences (e.g., debugging models), generating the very competence-building opportunities SCT identifies as foundational. The resultant efficacy beliefs then enable the translation of commit- ment into literate action (Kong et al., 2021). This integrative perspective addresses SCT’s under specification of motivation’s role in AI contexts, clarifying how psycho- logically embedded drivers (Ryan & Deci, 2020) initiate the literacy development cascade described by Bandura.
+Collectively, these reconciled theoretical perspectives inform our proposed AI Literacy Conceptual Model (AICM, Fig. 1), which characterizes the dynamics of AI literacy development. This parsimonious structure clarifies the causal pathway (Motivational Commitment → Self-Efficacy → AI Literacy) while accommodating theoretical foundations and prior empirical findings (Chen et al., 2022; Lin et al., 2021; Xia et al., 2022). The model more accurately represents how psychological investment initiates skill acquisition, where commitment triggers efficacy-building behaviors, which in turn enable sophisticated literacy development. The framework thus offers both theoretical economy and practical utility for designing AI education environments that convert engagement into measurable competence.
+2.3 The present study
+This study attempts to establish an instrument for measuring university students’ perceived AI literacy and identify relationships between various variables. To reach 
+
+3 3
+
+Fig. 1 AI literacy Conceptual Model (AICM)
+
+Table 1  Demographic character- istics of the sample (N = 1,034)
+Gender Male Female
+n 382 652
+% 36.9 63.1
+Degree Ph.D. Bachelor’s
+n 2 1032
+% 0.2 99.8
+Age ranges (years) 15–20 20–25 25–35 Over 35 n 516 515 1 2
+% 49.9 49.8 0.1 29.6
+
+a deep understanding of the effects of these factors on their AI literacy, we hypoth- esize that: (a) motivational commitment as independent variables associated with AI literacy. (b) motivational commitment is related to self-efficacy. (c) self-efficacy positively links to AI literacy. (d) self-efficacy plays a mediating role between moti- vational commitment and AI literacy.
+3  Method
+3.1 Participants
+Participants were recruited from a single medical university in southern mainland China. An online questionnaire was distributed to all enrolled students university- wide. Participation was voluntary, inclusive of all academic levels and majors. A total of 1034 questionnaires were collected without any missing value. This approach aimed to capture the overall student population within this specific medical educa- tion context. Detailed demographic characteristics (e.g., age, gender) are provided in Table 1.
+
+Education and Information Technologies (2025) 30:23957–23979 23963
+3.2 Self-assessment instrument
+This study developed a self-report questionnaire to measure college students’ per- ceived AI literacy and examine its links to motivation and self-efficacy. The ques- tionnaire drew on items adapted from established scales (Carolus et al., 2023a, b; Karaca et al., 2021; Laupichler et al., 2023a, b; Ng et al., 2023; Wang et al., 2023) was developed to assess college students’ AI literacy. For instance, key components of the AI literacy items were specifically tailored from the works of Ng et al. (2023a, b; Carolus et al. (2023a, b). The design ensured theoretical alignment with contem- porary AI competency frameworks, while integrating motivation and self-efficacy measures to holistically explore their interplay.
+The questionnaire comprised 26 items across four sub-scale. Participants were asked to rate how well each statement reflected their thoughts or practices using a 5-point Likert scale: 1 = Strongly Disagree, 2 = Generally Disagree, 3 = Neutral or Undecided, 4 = Generally Agree, and 5 = Strongly Agree. As well as basic demo- graphic information, we collected data on the different dimensions of AICM, includ- ing motivational commitment (MC01: Learning AI is interesting; MC03: I am curious to explore new AI technologies; MC04: I will continue to explore and use AI in the future;) Self-efficacy (AISE01: I believe I can master AI knowledge and skills; AISE02: I believe I can handle problems in daily life.) AI literacy encompassed AI Understand (AIU01: I know what AI is and provides the definitions of AI), AI Appli- cation and Evaluation (AIAE03: I can explain the strengths and weaknesses of AI), AI Creation (AIC02: I can develop AI applications and tools), and AI Ethics (AIE01: I can use AI in accordance with legal and ethical norms; AIE06: I think that AI sys- tems should be transparent and disclose their risks).
+3.3 Construct validity of the instrument
+The factorial analysis was used to test the validity and model fit of each sub-scale and the instrument using Mplus 8.3. To assess the hypothesized model and links between the variables, the structural equation model was employed in the study. First, the exploratory factor analysis (EFA) with maximum likelihood estimation and oblique rotation was conducted to identify the items of the instrument. With factors loading exceeding 0.4 and cross-loading of below 0.3, the items of each scale were deter- mined. Subsequently, a confirmatory factor analysis (CFA) was employed to examine the model-fit of each sub-scale. The fit indices of the hypothesized model were mea- sured to determine the goodness of the model fit. Adjustments were made to improve the model fit as deemed necessary by incorporating correlated errors that show the largest modification index (MI). For example, AIAE01with AIAE02 showed the larg- est MI: 379.458. We permitted error covariance between AIAE01 and AIAE02 due to substantive content overlap (everyday AI use encompassing problem-solving) and shared cognitive assessment processes. By incorporating these two items, the model fit of the scale AI literacy got improved. The revised fit indices of all sub-scales are shown in Table 2. Normally, an RMSEA of 0.06–0.10, an SRMR of 0.08–0.10 and IFI, CFI, and TLI values of above 0.90 are considered reasonable and acceptable (Hu 
+
+3 3
+Table 2  The model fit of each sub-scale (N = 1,034)
+CFA χ2 df RMSEA CFI TLI SRMR AI Literacy 887.495*** 107 0.084 0.936 0.919 0.073 Motivational Commitment 41.502* 5 0.084 0.971 0.943 0.022 Self-efficacy 190.058* 2 0.302 0.832 0.496 0.052 ***p < 0.01, * p < 0.05
+& Bentler, 1999). Overall, all models demonstrated good model fit, as evidenced by the CFA fit indices across all sub-scales.
+Despite suboptimal global fit statistics (χ²(2) = 190.058, p < 0.001; RMSEA = 0.302; CFI = 0.832) of the Self-efficacy scale, all items demonstrated strong standardized loadings (λs = 0.73-0.89), and the scale exhibited excellent reliability (ω = 0.905). Following  methodological  recommendations  for  models  with  limited  indicators (Kenny, 2020; Marsh et al., 2004), we consider these local fit indices sufficient evi- dence of construct validity. The misfit likely stems from mathematical artifacts of small degrees of freedom rather than substantive measurement issues.
+In this study, we focused on the standardized coefficients and standard errors for each scale, including AI Literacy, motivational commitment, and self-efficacy. These findings are given in Table 3.
+3.4 Reliability of the instrument
+We conducted a reliability analysis to determine the reliability of the instrument using SPSS. The Cronbach’s α value of each sub-scale (AI literacy: 0.902; MC: 0.924; AISE:0.905;) were all above 0.88, demonstrating high reliability. Hence, considering the concurrent validity analysis through CFA, the instrument was suitable for struc- tural equation modeling (SEM) analysis.
+3.5 Analysis
+3.5.1 Variables
+A structural equation modeling (SEM) was conducted to test the AICM and its rela- tionship with motivation and self-efficacy. There were four latent variables employed in the model. The exogenous latent variables (i.e., independent variables) was moti- vational commitment, while the endogenous variable (i.e., dependent variable) was AI literacy. Self-efficacy and played a moderating role in the hypothesized model.
+3.5.2 Common method bias
+In the study, the data was obtained through an online self-reported survey. Even dif- ferent measures were taken that all responses were anonymous, and data were col- lected across various time periods, the common method bias issue was still a concern (Podsakoff et al., 2003). To address potential common method bias (Harman’s first factor = 44%), we employed a latent methods factor approach. The methods factor model showed no significant improvement in fit over the baseline (ΔCFI = + 0.022; 
+
+Education and Information Technologies (2025) 30:23957–23979 23965
+Table 3  Standardized coefficients and standard errors for each dimension of the CASE model (N = 1,034) AI literacy Mean/Variance Median Standardized  S.E.
+coefficients 
+
+3 3
+Education and Information Technologies (2025) 30:23957–23979 23965
+AI Understand
+AIU01: I know what AI is and provides the  3.449/0.580 definitions of AI.
+AIU02: I know how to use AI tools and ap- 3.430/0.723 plications (e.g., chatbot).
+AIU03: I can tell the differences between  3.180/0.759 AI concepts (e.g., deep learning, machine 
+learning).
+AIU04: I know some working principles behind  2.809/0.897 AI (e.g., linear model, decision tree, machine 
+learning)
+AIU05: I understand how AI perceives the  2.945/0.847 world (e.g., see, hear) to handle various tasks.
+3.000 0.734*** 0.017
+3.000 0.837*** 0.014
+3.000 0.866*** 0.018
+3.000 0.906*** 0.025
+3.000 0.919*** 0.022
+
+ 
+Education and Information Technologies (2025) 30:23957–23979 23965
+AI Application and Evaluation
+AIAE01: I can use AI in everyday life. AIAE02: I can use AI tools to solve problems. AIAE03: I can explain the strengths and weak-
+nesses of AI
+AIAE04: I can evaluate the potential risks and benefits associated with the use of AI.
+AI Creation
+AIC01: I can integrate Application Program- ming Interface (API) into a system.
+AIC02: I can develop new AI tools and applications.
+AI Ethics
+AIE01: I can use AI in accordance with legal and ethical norms.
+AIE02: I do not engage in any form of snoop- ing when I utilize AI.
+AIE03: I am perpetually mindful of the neces- sity to safeguard my privacy and information to prevent the leakage of such data.
+AIE04: I believe that everyone has a legitimate entitlement to utilize AI.
+AIE05: believe that everyone should be ac- countable for their actions and interactions with AI
+AIE06: I believe that AI systems should be transparent and disclose their risks
+Motivational commitment MC01: Learning AI is interesting.
+MC02: Learning AI makes my everyday life more meaningful.
+3.309/0.775 3.000 3.322/0.743 3.000 3.319/0.658 3.000
+3.273/0.661 3.000
+2.515/0.946 3.000 2.274/1.019 2.000
+3.773/0.862 4.000 3.939/0.864 4.000 3.908/0.741 4.000
+3.980/0.749 4.000 4.068/0.756 4.000
+3.908/0.797 4.000
+3.628/0.702 4.000 3.522/0.716 3.000
+0.698*** 0.019 0.753*** 0.017 0.777*** 0.017
+0.732*** 0.018
+0.900*** 0.018 0.843*** 0.018
+0.799*** 0.014 0.828*** 0.011 0.836*** 0.011
+0.843*** 0.011 0.867*** 0.010
+0.733*** 0.016
+0.824*** 0.011 0.872*** 0.009
+
+ 
+Education and Information Technologies (2025) 30:23957–23979 23965
+MC03: I am curious to explore new AI  3.578/0.727 4.000 0.862*** 0.010 technologies.
+MC04: I will continue to explore and use AI in  3.601/0.731 4.000 0.838*** 0.012 the future.
+MC05: I utilize artificial intelligence (AI) to  3.691/0.701 4.000 0.823*** 0.011 enhance my learning and quality of life.
+
+3 3
+Table 3 (continued)
+AI literacy Mean/Variance Median Standardized  S.E.
+coefficients 
+Self-efficacy 
+AISE01: I believe I can master AI knowledge  3.429/0.736 3.000 0.863*** 0.010 and skills
+AISE02: I believe I can handle problems in  3.491/0.664 3.000 0.896*** 0.009 daily life.
+AISE03: I am convinced that I can perform  3.153/0.824 3.000 0.734*** 0.016 well in AI-related projects.
+AISE04: I believe that I can achieve a good  3.221/0.775 3.000 0.754*** 0.015 performance in AI-related assessments. 
+***p < 0.001 
+ΔRMSEA = −0.009), with average method loadings = 0.177. This aligns with Podsa- koff et al.’s (2003) finding that Harman’s test frequently overestimates bias in multi- construct models.
+3.5.3 Mediation
+We assessed self-efficacy’s mediating role using Baron and Kenny’s (1986) approach: (1) significant independent variable-mediator relationships, (2) a significant mediator- dependent variable link, and (3) reduced independent-dependent variable coefficient after mediator inclusion. Formal mediation significance was confirmed by bootstrap 95% confidence intervals excluding zero and the indirect effect size of mediation was estimated by bootstrap test (Wen & Ye, 2014).
+3.5.4 Multi-group SEM
+To assess hierarchical differences in variable relationships, we conducted multi-group structural equation modeling (SEM) to test measurement and structural invariance across gender groups. Following established invariance testing procedures (Little, 1997; Vandenberg & Lance, 2000), three nested models were sequentially exam- ined: (a) Configural invariance (baseline model): The factor structure (e.g., number of factors, item-factor assignments) was specified as equal across groups, with all parameters (e.g., loadings, intercepts) freely estimated; (b) Metric invariance: Factor loadings were constrained to equality across groups to test whether constructs were measured equivalently. C)Scalar invariance: Item intercepts were further constrained to equality to enable meaningful latent mean comparisons.
+Invariance was supported if two criteria were met: (1) model fit indices met accept- able thresholds (RMSEA ≤ 0.08, CFI ≥ 0.90; Little, 1997), and (2) the comparative fit index (CFI) difference (ΔCFI) between nested models did not exceed 0.01 (Cheung 
+& Rensvold, 2002). After establishing measurement invariance, structural invari- ance was tested by constraining path coefficients between latent variables to be equal across groups and comparing the fit of this constrained model to the unconstrained baseline model. To directly test differences in path coefficients across groups, we employed a nonparametric bootstrap procedure with 5,000 resamples (Preacher & 
+
+Education and Information Technologies (2025) 30:23957–23979 23967
+Hayes, 2008; Shrout & Bolger, 2002). Path differences were considered statistically significant if the 95% CIs for the bootstrapped coefficients did not overlap between groups.
+4  Results
+4.1 Descriptive statistics and correlations
+Table 4 presents the descriptive statistics of the latent variables and the correlations between them. The correlation matrix (Table 4) revealed strong positive associations among the three variables: motivational commitment, self-efficacy, and AI literacy. All pairwise correlations were statistically significant at p < 0.001, with coefficients ranging from 0.729 to 0.850, indicating robust relationships.
+The strongest correlation was observed between motivational commitment and self-efficacy (r = 0.850, p < 0.001), indicating that individuals with higher integrated motivation demonstrate substantially stronger confidence in their AI-related capa- bilities. Self-efficacy maintained a robust association with AI literacy (r = 0.729, p < 0.001), confirming that technical AI proficiency coexists with perceived AI lit- eracy. Notably, AI literacy showed significant positive correlations with both moti- vational commitment (r = 0.732, p < 0.001) and self-efficacy (r = 0.729, p < 0.001), revealing a triadic interdependence: higher AI literacy manifests simultaneously in elevated motivation to engage with AI technologies, greater persistence in learning/ application efforts, and strengthened confidence in task mastery.
+These results establish that AI adoption is driven by synergistic psychological drivers—where technical knowledge (AI literacy), motivational commitment, and efficacy beliefs operate as mutually reinforcing components of successful technology engagement.
+4.2 Assessing the structural equation modeling
+To test the hypothesis of the AICM, a structural equation modeling approach was adopted  to  establish  the  relationship  between  students’  motivational  commit- ment, self-efficacy, and AI literacy. The fit indices indicated a good model fit, with χ2(284) = 1882.987,  RMSEA = 0.074,  IFI = 0.925, TLI = 0.914,  and  SRMR = 0.090. Results from the Structural Equation Modeling (SEM) of the AICM (Fig. 2) revealed that AI literacy was significantly associated with both self-efficacy and motivational commitment. Additionally, a significant positive relationship was observed between self-efficacy and motivational commitment.
+
+3 3
+Education and Information Technologies (2025) 30:23957–23979 23967
+Table 4  Correlations between latent variables (N = 1,034)
+Cronbach’s a > 0.70 (Nunnally 
+& Bernstein, 1994)
+**p < 0.001
+1. Motivational commitment −
+2. Self-efficacy 0.850*** −
+3. AI literacy 0.732*** 0.729*** −
+M 3.604 3.429 3.446 SD 1.189 0.868 0.772 Cronbach’s α 0.924 0.905 0.902
+
+3 3
+
+Fig. 2  Structural equation model of AICM, examining the links between latent variables: motivational commitment, self-efficacy, and AI literacy. The items of each latent variable are not shown in the figure. All the correlations and path coefficients shown in the figure are standardized. ***p < 0.001
+
+Table 5  Effects of motiva- tional commitment (AIMB) on AI literacy (AI), with Self- Efficacy (AISE) as a mediator (N = 1,034)
+Effect  Path Unstd. (SE) P 95% Type Std. Coefficient  CI
+(SE)
+AIMB →  0.932 (0.045) p < 0.001 [0.854, 
+AISE 0.850 (0.018) 1.032]
+AISE → AI  0.255 (0.060) p < 0.001 [0.148, 
+Literacy 0.384 (0.085) 0.382]
+AIMB → AI  0.296 (0.066) p < 0.001 [0.169, 
+Literacy 0.406 (0.086) 0.421] Mediating Effect 0.238 (0.054) p < 0.001 [0.140, 
+0.326 (0.073) 0.332]
+Total Effect (Mediating  0.534 (0.038) p < 0.001 [0.464, Effect + Direct Effect) 0.732 (0.113) 0.610]
+
+4.3 Mediation of self-efficacy
+Based on a bootstrap analysis (Preacher & Hayes, 2008; Shrout & Bolger, 2002), self-efficacy demonstrated a significant mediating role in the relationship between motivational commitment and AI literacy (Table 5). The analysis revealed a sig- nificant positive indirect effect of motivational commitment on AI literacy via self- efficacy (β = 0.326, SE = 0.073, 95% CI [0.140, 0.332], p < 0.001). This significant mediation indicates that higher motivational commitment contributes to greater AI literacy partly through fostering enhanced self-efficacy in engaging with AI tech- nologies. While both the direct path from motivational commitment to AI literacy (β = 0.406, SE = 0.086, p < 0.001) and the paths comprising the indirect effect (motiva- tional commitment → self-efficacy: β = 0.850, SE = 0.018, p < 0.001; self-efficacy → AI literacy: β = 0.384, SE = 0.085, p < 0.001) were significant, the significant indirect effect confirms partial mediation by self-efficacy. The total effect of motivational commitment on AI literacy was also significant (β = 0.732, SE = 0.113, p < 0.001).
+
+Education and Information Technologies (2025) 30:23957–23979 23969
+4.4 Structural invariance across genders
+We conducted multi-group structural equation modeling (SEM) to evaluate potential gender differences in the relationships between motivational motivation, self-effi- cacy, and AI literacy. Structural invariance testing proceeded only after establishing measurement invariance across gender groups, as this is a prerequisite for valid cross- group comparisons of structural parameters. Model fit indices showed that the over- all model fits were good, and differences in comparative fit indices (ΔCFI) between nested models were ≤ 0.008, well below the critical threshold of 0.01(Table 6). The results indicate that configural, metric and scalar invariances were established in the proposed model for gender. Therefore, we proceeded to test structural invariance by constraining path coefficients between latent variables to equality across genders. The bootstrap confidence intervals were used to identify significant differences in structural relationships.
+Multi-group  analysis  revealed  significant  gender  differences  in  the  mediation pathway.  While  self-efficacy  demonstrated  a  significant  mediating  role  between motivational commitment and AI literacy for both males (β = 0.447, SE = 0.083, 95% CI [0.296, 0.510], p < 0.001) and females (β = 0.255, SE = 0.054, 95% CI [0.143, 0.244], p < 0.001), the direct effect of self-efficacy on AI literacy was significantly stronger among males than females (95% CI [0.059, 0.299], p < 0.01). This indicates that males’ AI literacy development is more substantially influenced by self-efficacy, whereas females exhibit alternative pathways beyond this mediator. The significant gender contrast in indirect effects (Δβ = 0.192) further confirms that motivational commitment  enhances  AI  literacy  primarily  through  self-efficacy  amplification in males, while females rely comparatively less on this psychological mechanism despite its persistent significance in their developmental trajectory.
+4.5 Barriers for AI literacy
+To further investigate barriers influencing students’ motivation toward AI literacy, an additional multiple-choice question was administered, asking participants to iden- tify perceived obstacles to AI competency development. As shown in Fig. 3, lack of hands-on AI experience emerged as the most prevalent barrier, cited by approxi- mately 25% of respondents (N = 690). This was closely followed by technical chal- lenges (22.3%, N = 230) and insufficient access to AI-specific coursework (21.9%, N = 226). Additionally, limited accessibility to AI tools and resources was identified as a critical impediment by 17.0% of students (N = 176), underscoring systemic ineq- uities in AI education infrastructure. These findings highlight the interplay between experiential, curricular, and resource-based barriers, suggesting that enhancing AI 
+Table 6  Fit indices for measurement invariance tests of the model across genders (N = 1,034) 
+Model χ2 df CFI ΔCFI TLI RMSEA SRMR M1: Baseline Model 1,535.630 276 0.941 − 0.930 0.066 0.063 M2: Configural Invariance 2,044.023 550 0.933 0.008 0.921 0.071 0.066 M3: Metric Invariance 2,059.030 571 0.930 0.003 0.920 0.071 0.067 M4: Scalar Invariance 2,100.854 596 0.929 0.004 0.923 0.072 0.072
+
+3 3
+
+Fig. 3  Barriers for AI literacy (N = 1034)
+literacy requires not only skill-building initiatives but also institutional investments in accessible technologies and tailored curricula to address motivationally relevant challenges.
+5  Discussion
+This study aimed to develop and validate a comprehensive instrument for assessing college students perceived AI literacy, addressing three critical gaps in existing mea- sures: theoretical grounding, modular adaptability, and integration of affective dimen- sions. Synthesizing insights from established frameworks (Carolus et al., 2023a, b; Laupichler et al., 2023a, b; Ng et al., 2023a, b), the instrument was designed with a modular architecture to enable flexible application across diverse institutional AI contexts while incorporating affective factors such as self-efficacy and motivational commitment alongside AI literacy. Structural equation modeling (SEM) analysis of data from 1,034 college students yielded a rigorously validated 26-item question- naire, the AI Competency Model (AICM), that not only assesses core AI literacy but also identifies self-efficacy as a significant mediator in the relationship between motivational commitment and AI literacy. Multi-group analyses further revealed pro- nounced gender differences: self-efficacy played a stronger mediating role for male students compared to females, with the gender contrast in mediation effects being statistically significant. The AICM holds significant practical utility, serving as a tool to motivate AI adoption among students, pinpoint critical knowledge and capability gaps, and evaluate the effectiveness of AI-focused educational interventions, thereby supporting  institutions  in  cultivating  ethically  informed,  technically  skilled,  and motivationally resilient learners in an AI-driven landscape.
+The findings of this study revealed several key mechanisms underlying AI literacy development among college students. First, motivational commitment exhibited a significant positive association with AI literacy, suggesting that both consistent usage 
+
+Education and Information Technologies (2025) 30:23957–23979 23971
+and inherent interest are critical for literacy development. Second, motivational com- mitment was strongly correlated with self-efficacy, indicating that this integrated drive is reinforced by confidence in one’s AI capabilities. Crucially, self-efficacy emerged as a mediator in the relationship between motivational commitment and AI literacy. Furthermore, multi-group SEM analysis revealed a mediation pathway that self-efficacy significantly mediated the relationship between motivational commit- ment and AI literacy. A statistically significant gender difference in the indirect effect was observed, aligning with socio-cognitive theories of gendered efficacy dynamics (Bandura, 1997).
+5.1 Motivational Commitment and AI Literacy
+This study establishes motivational commitment, an integrated construct combin- ing sustained behavioral engagement (e.g., active usage, future exploration) and intrinsic drive (e.g., curiosity, perceived meaningfulness), as pivotal to AI literacy development. Findings reveal a significant positive association between motivational commitment and AI literacy (β = 0.38, p < 0.001), corroborating technology adoption literature (Ng et al., 2023a, b; Wang et al., 2023). Students exhibiting high moti- vational commitment through active AI exploration and autonomous project work demonstrated advanced competency, confirming experiential learning as a critical determinant of literacy. Additionally, motivational commitment correlated strongly with self-efficacy, reinforcing that confidence in one’s capabilities amplifies both engagement and intrinsic drive. While motivational commitment directly drives lit- eracy, self-efficacy mediates this relationship between motivational commitment and AI literacy. Factor loadings further revealed that learning AI was rated as highly interesting (λ = 0.824), life-enriching (λ = 0.872), and curiosity-inducing (λ = 0.862) and participants reported strong intentions for sustained AI use (λ = 0.838) and active application to enhance learning/life (λ = 0.823).
+Notably, motivational commitment alone may insufficiently navigate algorithmic complexity or ethical dilemmas inherent to AI systems. Future research should inves- tigate contextual moderators, such as institutional support, or cultural perceptions of AI, that might amplify or attenuate motivation’s role in AI-specific contexts. Practi- cally, educators could integrate scaffolded AI training (e.g., AI courses) to bridge motivational gaps, pairing intrinsic drive with structured skill-building to mirror successful literacy development. These efforts could harmonize self-determination theory’s emphasis on autonomy (Deci & Ryan, 2000) with AI’s unique pedagogical challenges, fostering motivationally resilient and technically adept learners.
+Creating a supportive learning environment is equally vital for sustaining motiva- tional commitment. Educators can democratize access by providing open-source plat- forms, cloud-based computational resources and datasets, thereby reducing technical barriers to experimentation. Supplementing these resources with AI-focused events, such as guest lectures from industry practitioners, fosters communal engagement and mirrors real-world AI ecosystems. Setting clear goals and expectations for AI learn- ing can help students stay focused and committed. For example, educators can define specific learning outcomes for an AI course and provide students with a roadmap to achieve those outcomes. By aligning pedagogical design with both individual agency 
+
+4 4
+and collaborative effort, institutions can cultivate a generation of AI-literate learners equipped to navigate the sociotechnical complexities of an AI-driven future.
+The barriers to AI learning identified in this study aligned with established research on technology adoption and digital competency development. Pérez-Calderón et al. (2021) highlighted the critical role of experiential engagement with digital technolo- gies, a finding echoed here, as students cited lack of hands-on AI experience as the foremost obstacle. This experiential gap may be mitigated through embodied learn- ing approaches (Yang et al., 2024), which leverage physical interaction with AI tools to deepen conceptual understanding and foster motivation, a key predictor of AI tool adoption (Celik, 2023). Furthermore, ease of use (Al-Mamary & Al-Shammari, 2023) and accessibility (Masoumi & Noroozi, 2023) emerged as interdependent factors, with 17% of students citing limited access to AI resources as a barrier, underscoring their foundational role in both AI literacy and broader digital competency frame- works. By contextualizing these barriers through college students’ perceptions, this study extends prior work by revealing a growing demand for AI-related coursework (21.9%) and institutional support systems to democratize access. Students expressed strong interest in expanding AI engagement, anticipating that enhanced accessibil- ity and user-friendly design could lower entry barriers, thereby aligning with self- determination theory’s emphasis on autonomy and competence (Ryan & Deci, 2020). These insights advocate for curriculum reforms that prioritize experiential, embodied AI learning alongside infrastructural investments to bridge motivation-accessibility gaps. This study contributes to the literature on AI learning by providing evidence from college students’ perception of AI.
+5.2 The mediating role of self-efficacy
+The study confirms self-efficacy’s significant mediation between motivational com- mitment and AI literacy for both genders, though with notable gender differences. While mediation was significant for males (β = 0.447, p < 0.001) and females (β = 0.255, p < 0.001), a significant gender contrast emerged in indirect effects (Δβ = 0.192, 95% CI [0.059, 0.299], p < 0.01). Furthermore, self-efficacy’s direct effect on AI literacy was substantially stronger for males. This pattern indicates that males’ AI literacy development is predominantly mediated through self-efficacy amplification, whereas females employ distinct complementary pathways alongside this mechanism.
+These findings align with Bandura’s (1997) socio-cognitive theory of gendered efficacy dynamics, wherein confidence-based mechanisms disproportionately gov- ern competency development in males. This effect mirrors established technical self-efficacy disparities where males report higher confidence in technology domains (Fraillon et al., 2020; Gebhardt et al., 2019), despite self-efficacy’s persistent baseline relevance for females.
+Pedagogically, this underscores the need for differentiated approaches: Efficacy- driven strategies (e.g., mastery experiences) may optimally support males, while females may benefit more from interventions addressing systemic barriers like col- laborative  learning  environments.  By  contextualizing  these  gendered  dynamics, educators can design inclusive curricula that leverage motivational drivers while fos- tering equitable AI literacy development.
+
+Education and Information Technologies (2025) 30:23957–23979 23973
+Self-efficacy pertains to an individual’s beliefs in their ability to control their own level of functioning in a particular domain (Bandura, 1982). In the context of AI learning, students with higher self-efficacy are more likely to engage in AI activities, persist in the face of difficulties, and achieve better learning outcomes. The mediation analysis showed that self-efficacy influenced the relationship between motivational commitment and AI literacy by affecting students’ beliefs and effort in AI learning. For male students, this pathway was markedly more pronounced, suggesting that confidence in technical mastery plays a disproportionately critical role in sustaining their commitment to AI activities. When students, particularly males, believe they can master AI knowledge and skills, they are more likely to commit to AI activities and, as a result, improve their AI literacy.
+The result corroborates the findings of certain studies in this field (Chen et al., 2022; Ng et al., 2023a, b). Self-efficacy can lead to more commitment and have a substantial impact on the intention to use technology (Al-Ghurbani et al., 2022). The confidence in using AI technologies encourages them to get involved in learning, application, and innovation with AI in their daily life. For males, this confidence- to-action link is particularly robust, as evidenced by their stronger indirect effects. By engaging in various AI activities, students can improve AI literacy gradually. Therefore, building strong AI self-efficacy is important as it leads to greater AI adop- tion. It should be incorporated in AI courses or training programs, such as providing examples and integrating activities that enable students to interact with AI, increasing their awareness of mastery and confidence.
+The mediating role of self-efficacy has important implications for AI adoption and innovation. Students with higher self-efficacy are more likely to embrace new AI technologies and apply them in different contexts. They are also more likely to be innovative in their use of AI, coming up with new ideas and applications. Male stu- dents demonstrate a stronger tendency to leverage self-efficacy as a springboard for experimentation and innovation. This can have a positive impact on the development and diffusion of AI in society. For example, students with high self-efficacy may be more likely to develop AI-based solutions for real-world problems, such as using AI to optimize traffic flow or improve energy efficiency.
+To build self-efficacy in AI courses or training programs, educators can implement several strategies. First, providing students with opportunities to succeed in small, achievable tasks can boost their confidence. For example, starting with simple AI programming exercises and gradually increasing the complexity can help students build a sense of mastery. Second, using positive role models can inspire students and increase their self-efficacy. Educators can invite AI experts or successful AI stu- dents to share their experiences and insights. Third, providing students with feed- back that focuses on their progress and improvement rather than just their mistakes can help them feel more confident in their abilities. For example, highlighting the improvements a student has made in their AI coding skills over time can enhance their self-efficacy.
+
+3 3
+5.3 AI literacy
+AI literacy encompasses multiple components, including understanding, applying, evaluating, creating AI, and ethical considerations (Ng et al., 2023a, b). The study found that these components interact differentially with motivational commitment and self-efficacy in different ways, highlighting the need for a holistic framework that integrates cognitive, technical, and ethical competencies.
+This  study  revealed  that  foundational  competencies,  such  as  understanding, application and evaluation of AI, as well as the ethical considerations surrounding AI, demonstrated stronger factor loadings compared to advanced AI creation tasks, suggesting students prioritize mastering AI’s operational impacts before engaging in complex system design. These findings align with calls for curricula emphasiz- ing interaction with AI technologies, particularly as their integration into daily life (Southworth et al., 2023; Zimmerman, 2018). The pervasive integration of AI into a wide range of areas of human experience created opportunities for students to be able to use AI. For instance, understanding AI’s inherent limitations and biases is critical for students to ethically navigate its applications in fields like healthcare.
+To cultivate these competencies, educators should adopt blended pedagogical strategies such as project-based learning, where students tackle real-world chal- lenges like ethical case studies analyzing controversies such as facial recognition misuse. Multimodal assessments, combining written exams, practical assignments, and reflective presentations (e.g., debating AI’s role in education equity), can holisti- cally evaluate growth across technical and ethical domains.
+Ethical AI literacy demands a particular focus on privacy, bias, and transparency. Students demonstrated strong declarative awareness of AI ethics principles, par- ticularly accountability (λ = 0.867), access equity (λ = 0.843), and privacy vigilance (λ = 0.836). However, the lowest mean in applied ethics (λ = 0.799) signals a gap between theoretical knowledge and practical implementation. High factor loadings (all λ > 0.73) confirm scale reliability but reveal opportunities for pedagogical refine- ment. Educators can operate these principles through workshops on data anonymiza- tion techniques and bias audits using tools and AI platforms. By anchoring instruction in real-world relevance and ethical vigilance, institutions empower students to har- ness AI as both a transformative tool and a societal responsibility, equipping them to innovate while mitigating risks in an AI-driven future.
+5.4 Significance, limitations and future study
+This study contributes to both theoretical and practical advancements in AI education by establishing and validating the AI Competency Model (AICM) framework within the university context, demonstrating its stability and applicability for assessing mul- tidimensional AI literacy. The AICM empirically examines the interplay between AI literacy components (understanding, application, evaluation, ethics), motivational commitment, and self-efficacy, revealing that self-efficacy cultivation serves as a sig- nificant mediator for literacy development, particular for male students. The AICM offers institutions a robust tool to (1) benchmark AI literacy across student popula- tions; (2) identify high-impact pedagogical factors (e.g., project-based learning); and 
+
+Education and Information Technologies (2025) 30:23957–23979 23975
+(3) evaluate the efficacy of AI curricula, particularly as accessible AI tools lower technical barriers and enable broader engagement.
+Despite these contributions, several limitations warrant consideration. First, given evidence that positive and negative attitudes differentially predict competency devel- opment (Carolus et al., 2023a, b), subsequent research should integrate attitudinal dimensions (e.g., AI anxiety) to refine the AICM’s predictive power. Addressing these gaps will strengthen the model’s utility for designing equitable, motivationally informed AI education strategies.
+Second, while this study provides valuable insights into AI literacy within a uni- versity setting, its single-institution sampling limits generalizability across diverse educational contexts. Future research should address this through four targeted strat- egies: (1) Stratified multi-institutional sampling across BRICS and OECD systems (e.g., 3 universities per Global North/South region) to test AICM’s cross-cultural invariance; (2) Longitudinal mixed-methods tracking, combining annual AI literacy assessments with ethnographic classroom observations to capture contextual adop- tion barriers; and (3) Disciplinary crossover trials implementing differentiated AICM versions in STEM vs. humanities programs to establish transdisciplinary thresholds. Such approaches would not only broaden participation but systematically identify which AICM components require contextual adaptation, while preserving the frame- work’s core theoretical architecture.
+Third, since this study employed validated scales to assess AI literacy constructs, we acknowledge that self-reported measures may be susceptible to social desir- ability tendencies and potential overestimation of competencies. To enrich method- ological robustness in future research, several complementary approaches could be considered: (1) incorporating performance-based tasks such as debugging biased AI outputs in practical environments; (2) implementing observational protocols to docu- ment authentic project workflows (e.g., recording feature engineering choices during model development); and (3) utilizing think-aloud techniques to capture real-time reasoning during tool interactions (e.g., verbalizing ChatGPT prompt-tuning strate- gies). Such multi-method approaches particularly when grounded in applied contexts could help establish convergent validity while revealing nuanced behavioral insights that may not surface through self-report alone. This integrative perspective may offer a balanced pathway toward preserving scalability while addressing subjective report- ing limitations.
+Fourth, the cross-sectional design precludes causal inferences regarding the rela- tionships between motivational commitment, self-efficacy, and AI literacy. Future longitudinal studies should track student cohorts across academic terms to implement growth curve modeling for quantifying self-efficacy’s mediating trajectories between motivational commitment and literacy gains, conduct time-lagged analyses testing early-semester motivational drivers against end-term competency development, and establish intervention-response mapping to identify curricular exposure thresholds where efficacy-literacy pathways accelerate. Embedding mixed-methods elements could further reveal how motivational and efficacy dynamics co-evolve during skill acquisition. These designs would advance theoretical understanding of AI literacy as a developmental process rather than a static outcome while providing actionable insights for sequencing pedagogical interventions.
+
+3 3
+Lastly, while this study identified significant gender divergence in self-effica- cy’s mediation between motivational commitment and AI literacy (Δβ = 0.192), we acknowledge the need to deepen analysis of socio-cultural drivers underlying these disparities. Future research should adopt mixed-methods designs to investigate insti- tutional and cultural mechanisms, such as stereotype threat in male-dominated AI environments (Shapiro & Williams, 2012). Specifically, we could conduct semi- structured interviews exploring gendered experiences in AI project teams, perform discourse analysis of classroom interactions documenting bias patterns, and quantita- tive test stereotype threat’s moderating effects through priming experiments. Such approaches  could  reveal  how  environmental  cues,  like  competitive  pedagogies, suppress female efficacy development. This dual-method lens would shift the focus from documenting disparities to dismantling their structural roots, advancing inter- sectional interventions in AI education.
+Funding  Guangdong Provincial Education Science Planning Project (Grant No. 2024GXJK530). Guangdong Provincial Philosophy and Social Sciences Planning Project (Grant No. GD24CJY37).
+Data availability  Data will be made available on reasonable request.
+Declarations
+During the preparation of this work the author(s) used AI-assisted technologies in order to language and readability. After using this tool/service, the author(s) reviewed and edited the content as needed and take(s) full responsibility for the content of the publication.
+Conflict of interest  The authors declare no financial, personal, or professional conflicts of interest that could influence the research or its interpretation.
+Ethics Statement  The study was approved by the institutional review board. Declaration of competing interest  The authors have no competing interest to declare.
+References
+Al-Ghurbani, A. M., Jazim, F., Abdulrab, M., Al-Mamary, Y. H. S., & Khan, I. (2022). The impact of 
+internal factors on the use of technology in higher education in Saudi Arabia during the COVID-19 
+pandemic. Human Systems Management, 41(2), 283–302. https://doi.org/10.3233/HSM-211219
+Al-Mamary, Y. H. S., & Al-Shammari, K. K. (2023). Determining factors that can influence the understand-
+ing and acceptance of advanced technologies in universities’ teaching and learning. International 
+Journal of Advanced and Applied Sciences,10(3), 87–95. https://doi.org/10.21833/ijaas.2023.03.012 Bandura, A. (1982). Self-efficacy mechanism in human agency. American Psychologist, 37(2), 122–147. 
+https://doi.org/10.1037/0003-066X.37.2.122
+Bandura, A. (1997). Self-efficacy: The exercise of control. W.H. Freeman.
+Baron, R. M., & Kenny, D. A. (1986). The moderator-mediator variable distinction in social psychologi-
+cal research: Conceptual, strategic, and statistical considerations. Journal of Personality and Social Psychology,51(6), 1173–1182. https://doi.org/10.1037/0022-3514.51.6.1173
+Cantú-Ortiz, F. J., Galeano Sánchez, N., Garrido, L., Terashima-Marin, H., & Brena, R. F. (2020). An arti-
+ficial intelligence educational strategy for the digital transformation. International Journal on Inter- active Design and Manufacturing, 14(4), 1195–1209. https://doi.org/10.1007/s12008-020-00702-8
+
+Education and Information Technologies (2025) 30:23957–23979 23977
+Carolus, A., Augustin, Y., Markus, A., & Wienrich, C. (2023a). Digital interaction literacy model – Con-
+ceptualizing competencies for literate interactions with voice-based AI systems. Computers and Edu- cation Artificial Intelligence, 4, 100114. https://doi.org/10.1016/j.caeai.2022.100114
+Carolus, A., Koch, M. J., Straka, S., Latoschik, M. E., & Wienrich, C. (2023b). MAILS - Meta AI literacy 
+scale: Development and testing of an AI literacy questionnaire based on well-founded competency models and psychological change- and meta-competencies. Computers in Human Behavior: Artifi- cial Humans, 1(2), 100014. https://doi.org/10.1016/j.chbah.2023.100014
+Celik, I. (2023). Exploring the determinants of artificial intelligence (AI) literacy: Digital divide, compu-
+tational thinking, cognitive absorption. Telematics and Informatics, 83, 102026. https://doi.org/10.1 016/j.tele.2023.102026 
+Chai, C. S., Wang, X., & Xu, C. (2020). An extended theory of planned behavior for the modelling of Chi-
+nese secondary school students’ intention to learn artificial intelligence. Mathematics (Basel), 8(11), 2089. https://doi.org/10.3390/math8112089
+Chen, S. Y., Su, Y. S., Ku, Y. Y., Lai, C. F., & Hsiao, K. L. (2022). Exploring the factors of students’ inten-
+tion to participate in AI software development. Library Hi Tech. https://doi.org/10.1108/LHT-12-2 021-0480 
+Cheung, G. W., & Rensvold, R. B. (2002). Evaluating goodness-of-fit indexes for testing measurement 
+invariance. Structural Equation Modeling: A Multidisciplinary Journal, 9(2), 233–255. https://doi.o rg/10.1207/S15328007SEM0902_5 
+Chiu, T. K. F., & Chai, C. (2020). Sustainable curriculum planning for artificial intelligence education: A 
+self-determination theory perspective. Sustainability,12(14), Article 5568. https://doi.org/10.3390/s u12145568 
+Deci, E. L., & Ryan, R. M. (2000). The what and why of goal pursuits: Human needs and the Self-
+Determination of behavior. Psychological Inquiry, 11(4), 227–268. https://doi.org/10.1207/S15327 965PLI1104_01 
+Fraillon, J., Ainley, J., Schulz, W., Friedman, T., & Duckworth, D. (2020). Preparing for life in a digital 
+world: IEA international computer and information literacy study 2018 international report (1st edi- tion 2020 ed). Springer Nature. https://doi.org/10.1007/978-3-030-38781-5
+Gebhardt, E., Thomson, S., Ainley, J., & Hillman, K. (2019). Gender differences in computer and informa-
+tion literacy: An In-depth analysis of data from ICILS. Springer Nature, 8. https://doi.org/10.1007/9 78-3-030-26203-7. 1 ed.
+Hu, L., & Bentler, P. M. (1999). Cutoff criteria for fit indexes in covariance structure analysis: Conven-
+tional criteria versus new alternatives. Structural Equation Modeling, 6(1), 1–55. https://doi.org/10. 1080/10705519909540118 
+Kandlhofer, M., Steinbauer, G., Hirschmugl-Gaisch, S., & Huber, P. (2016). Artificial intelligence and 
+computer science in education: From kindergarten to university. Proceedings of the IEEE Frontiers in Education Conference (FIE), IEEE.
+Karaca, O., Çalışkan, S. A., & Demir, K. (2021). Medical artificial intelligence readiness scale for medical 
+students (MAIRS-MS) - Development, validity and reliability study. BMC Medical Education,21(1), 112–112. https://doi.org/10.1186/s12909-021-02546-6
+Kenny, D. A. (2020). Measuring model fit. Retrieved from http://davidakenny.net/cm/fit.htm
+Kong, S. C., Man-Yin Cheung, W., & Zhang, G. (2021). Evaluation of an artificial intelligence literacy 
+course for university students with diverse study backgrounds. Computers and Education Artificial Intelligence, 2, 100026. https://doi.org/10.1016/j.caeai.2021.100026
+Laupichler, M. C., Aster, A., Haverkamp, N., & Raupach, T. (2023a). Development of the scale for the 
+assessment of non-experts’ AI literacy – An exploratory factor analysis. Computers in Human Behav- ior Reports, 12, 100338. https://doi.org/10.1016/j.chbr.2023.100338
+Laupichler, M. C., Aster, A., & Raupach, T. (2023b). Delphi study for the development and preliminary 
+validation of an item set for the assessment of non-experts’ AI literacy. Computers and Education Artificial Intelligence, 4, 100126. https://doi.org/10.1016/j.caeai.2023.100126
+Lin, P. Y., Chai, C. S., Jong, M. S. Y., Dai, Y., Guo, Y., & Qin, J. (2021). Modeling the structural relation-
+ship among primary students’ motivation to learn artificial intelligence. Computers and Education Artificial Intelligence, 2, 100006. https://doi.org/10.1016/j.caeai.2020.100006
+Little, T. D. (1997). Mean and covariance structures (MACS) analyses of cross-cultural data: Practical 
+and theoretical issues. Multivariate Behavioral Research,32(1), 53–76. https://doi.org/10.1207/s15 327906mbr3201_3 
+
+4 4
+Long, D., & Magerko, B. (2020). What is AI Literacy? Competencies and Design Considerations. Pro-
+ceedings of Conference on Human Factors in Computing Systems, 1–16. https://doi.org/10.1145/33 13831.3376727 
+Long, D., Blunt, T., & Magerko, B. (2021). Co-designing AI literacy exhibits for informal learning spaces. 
+Proceedings of the ACM on Human-Computer Interaction,5(CSCW2), 1–35. https://doi.org/10.114 5/3476034 
+Marsh, H. W., Hau, K. T., & Grayson, D. (2004). Psychological Methods, 9(4), 466–491.
+Masoumi, D., & Noroozi, O. (2023). Developing early career teachers’ professional digital competence: 
+a systematic literature review. European Journal of Teacher Education, 1–23. https://doi.org/10.108 0/02619768.2023.2229006
+Ng, D. T. K., Leung, J. K. L., Chu, K. W. S., & Qiao, M. S. (2021a). AI Literacy: Definition, Teaching, 
+Evaluation and Ethical Issues. Proceedings of the ASIST Annual Meeting, Hoboken, USA.
+Ng, D. T. K., Leung, J. K. L., Chu, S. K. W., & Qiao, M. S. (2021b). Conceptualizing AI literacy: An 
+exploratory review. Computers and Education Artificial Intelligence, 2, 100041. https://doi.org/10.1 016/j.caeai.2021.100041 
+Ng, D. T. K., Luo, W., Chan, H. M. Y., & Chu, S. K. W. (2022). Using digital story writing as a pedagogy 
+to develop AI literacy among primary students. Computers and Education Artificial Intelligence, 3, 100054. https://doi.org/10.1016/j.caeai.2022.100054
+Ng, D. T. K., Su, J., Leung, J. K. L., & Chu, S. K. W. (2023a). Artificial intelligence (AI) literacy education 
+in secondary schools: A review. Interactive Learning Environments, 1–21. https://doi.org/10.1080/1 0494820.2023.2255228
+Ng, D. T. K., Wu, W., Leung, J. K. L., Chiu, T. K. F., & Chu, S. K. W. (2023b). Design and validation of the 
+AI literacy questionnaire: The affective, behavioural, cognitive and ethical approach. British Journal of Educational Technology. https://doi.org/10.1111/bjet.13411
+Nunnally, J. C., & Bernstein, I. H. (1994). Psychometric theory (3rd ed.). McGraw-Hill.
+Pérez-Calderón, E., Prieto-Ballester, J. M., & Miguel-Barrado, V. (2021). Analysis of digital competence 
+for Spanish teachers at pre-University educational key stages during COVID-19. International Jour- nal of Environmental Research and Public Health,18(15), 8093. https://doi.org/10.3390/ijerph1815 8093 
+Podsakoff, P. M., MacKenzie, S. B., Lee, J. Y., & Podsakoff, N. P. (2003). Common method biases in 
+behavioral  research: A  critical  review  of  the  literature  and  recommended  remedies.  Journal  of Applied Psychology, 88(5), 879–903. https://doi.org/10.1037/0021-9010.88.5.879
+Preacher, K. J., & Hayes, A. F. (2008). Asymptotic and resampling strategies for assessing and comparing indirect effects in multiple mediator models. Behavior Research Methods, 40(3), 879–891. https://d oi.org/10.3758/BRM.40.3.879 
+Ryan, R. M., & Deci, E. L. (2020). Intrinsic and extrinsic motivation from a self-determination theory 
+perspective: Definitions, theory, practices, and future directions. Contemporary Educational Psy- chology, 61, 101860. https://doi.org/10.1016/j.cedpsych.2020.101860
+Shapiro, J. R., & Williams, A. M. (2012). The role of stereotype threats in undermining girls’ and women’s 
+performance and interest in STEM fields. Sex Roles, 66(3–4), 175–183. https://doi.org/10.1007/s11 199-011-0051-0 
+Shrout, P. E., & Bolger, N. (2002). Mediation in experimental and nonexperimental studies: New proce-
+dures and recommendations. Psychological Methods, 7(4), 422–445. https://doi.org/10.1037/1082-9 89X.7.4.422 
+Southworth, J., Migliaccio, K., Glover, J., Glover, J. N., Reed, D., McCarty, C., Brendemuhl, J., & Thomas, 
+A. (2023). Developing a model for AI across the curriculum: Transforming the higher education landscape via innovation in AI literacy. Computers and Education Artificial Intelligence, 4, 100127. https://doi.org/10.1016/j.caeai.2023.100127
+Stolpe, K., & Hallström, J. (2024). Artificial intelligence literacy for technology education. Computers and 
+Education Open, 6, 100159. https://doi.org/10.1016/j.caeo.2024.100159
+Su, J., & Yang, W. (2023). Artificial intelligence (AI) literacy in early childhood education: An intervention 
+study in Hong Kong. Interactive Learning Environments, 32(9), 1–15. https://doi.org/10.1080/1049 4820.2023.2217864
+Touretzky, D., Gardner-McCune, C., Martin, F., & Seehorn, D. (2019). Envisioning AI for K-12: What 
+should every child know about AI? Proceedings of the AAAI Conference on Artificial Intelligence, 33, 9795–9799. https://doi.org/10.1609/aaai.v33i01.33019795
+UNESCO (2022). K-12 AI curricula: A Mapping of Government-Endorsed AI Curricula. Retrieved from 
+https://unesdoc.unesco.org/ark:/48223/pf0000380602
+
+Education and Information Technologies (2025) 30:23957–23979 23979
+Vandenberg, R. J., & Lance, C. E. (2000). A review and synthesis of the measurement invariance literature: 
+Suggestions, practices, and recommendations for organizational research. Organizational Research Methods, 3(1), 4–70. https://doi.org/10.1177/109442810031002
+Wang, B., Rau, P. L. P., & Yuan, T. (2023). Measuring user competence in using artificial intelligence: 
+Validity and reliability of artificial intelligence literacy scale. Behaviour & Information Technology, 42(9), 1324–1337. https://doi.org/10.1080/0144929X.2022.2072768
+Wen, Z., & Ye, B. (2014). Analyses of mediating effects: The development of methods and models. 
+Advances in Psychological Science, 22(5), 731–745. https://doi.org/10.3724/SP.J.1042.2014.00731 Xia, Q., Chiu, T. K. F., Lee, M., Sanusi, I. T., Dai, Y., & Chai, C. S. (2022). A self-determination theory 
+(SDT) design approach for inclusive and diverse artificial intelligence (AI) education. Computers 
+and Education, 189, 104582. https://doi.org/10.1016/j.compedu.2022.104582
+Yang, W., Hu, X., Yeter, I. H., Su, J., Yang, Y., & Lee, J. C. K. (2024). Artificial intelligence education 
+for young children: A case study of technology enhanced embodied learning. Journal of Computer Assisted Learning, 40(2), 465–477. https://doi.org/10.1111/jcal.12892
+Zhang, H., Lee, I., Ali, S., DiPaola, D., Cheng, Y., & Breazeal, C. (2023). Integrating ethics and career 
+futures with technical learning to promote AI literacy for middle school students: An exploratory study. International Journal of Artificial Intelligence in Education, 33(2), 290–324. https://doi.org/1 0.1007/s40593-022-00293-3 
+Zimmerman, M. R. (2018). Teaching AI: Exploring new frontiers for learning. International Society for 
+Technology in Education.
+Publisher’s Note  Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and appli- cable law.
+Authors and Affiliations
+JingKong1· JialiangLiu2 · GaoweiChen3· WengangShang2
+  Jialiang Liu
+liujialiang@gdmu.edu.cn
+Jing Kong
+kongjing_2022@fosu.edu.cn
+Gaowei Chen
+gwchen@hku.hk
+Wengang Shang
+shangwengang@gdmu.edu.cn
+1	 Faculty of humanities, Foshan University, Foshan, China
+2	 Network and Information Center, Guang Dong Medical University, Dong Guan, China
+3	 Faculty of Education, The University of Hong Kong, Hong Kong, China
+3 3

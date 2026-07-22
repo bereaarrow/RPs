@@ -1,0 +1,303 @@
+﻿European Journal of Education
+ The Role of Artificial Intelligence in Education
+ORIGINAL ARTICLE
+Learning Motivation and Digital Literacy in AI Adoption for Self-Regulated English Learning
+Fang Huang1   |  AliDerakhshan2 
+1School of Education, Shanghai International Studies University, China  |  2English Language and Literature Department, Golestan University,Iran Correspondence: Fang Huang (huangfang@shisu.edu.cn; huang311fang@163.com)
+Received: 25 March 2025  |  Revised: 30 August 2025  |  Accepted: 1 September 2025
+Funding: This study was funded by the Shanghai Philosophy and Social Sciences Planning Office under the project “Factors Influencing University Foreign Language Teachers' Acceptance of Artificial Intelligence and Intervention Mechanism: A Study in Shanghai” (Grant NO. 2024BYY008).
+Keywords: AI| digital literacy| EFL| motivation| self-regulated learning
+ABSTRACT
+While artificial intelligence in language learning has garnered extensive research attention, the specific roles of motivation 
+and digital literacy (DL) in shaping students' self-regulated language learning within AI remain largely unexplored. Based on 
+the theory of planned behaviour (TPB), this study endeavoured to understand how learning motivation (LM) and DL influence university EFL learners' adoption of AI in self-regulated learning (SRL). Data collected from 363 EFL learners in Chinese univer - sities were analysed using the structural equation modelling technique. Results indicated that Chinese university EFL learners 
+had positive responses to the adoption of AI in facilitating SRL. Except for attitude, perceived behavioural control (PBC), and subjective norm (SN), their AI usage was significantly influenced by LM and DL. The proposed model explained 47% of the var - iance. This study indicated the validity of TPB in explaining AI-assisted self-regulated English learning. The findings offer EFL teachers actionable insights to enhance AI-assisted SRL by fostering student motivation and DL.
+
+1   |   Introduction
+Derived from autonomous learning or learner autonomy, self- regulated learning (SRL) has garnered extensive attention among educational scholars. It enables people to decide what, when, and how to conduct learning, as well as the necessity to resort to others for support, resulting in lifelong learning (Breitwieser etal.2023; Derakhshan and Bai2025; Jiang etal.2022; Loyens etal.2008; Qi and Derakhshan2025; Zare etal.2024). Recently, innovative technologies such as artificial intelligence (AI) have greatly transformed pedagogy and brought benefits to language learners,  including  providing  instant  feedback,  synthesising online  learning  materials,  and  improving  learning  engage - ment through reducing learners' anxiety (Huang and Zou2024; 
+Huang et al.2025; Wang et al. 2025). In this way, AI is highly beneficial in addressing individuals' learning needs, enhanc - ing learning autonomy (Feraco etal.2023), and thus improving learners' sense of achievement.
+It is worth noting that EFL learners have demonstrated varying levels of competence in both AI adoption and SRL, with studies suggesting tech-savvy learners effectively utilised technologies to aid their studies (Liu, Darvin, etal.2024a, 2024b), while oth - ers employed them primarily for entertainment rather than ed - ucational purposes (Huang, Teo, and Zhou 2020; Panagiotidis et al. 2023). The proficiency with which students strategically harness AI tools to regulate their learning has emerged as a paramount determinant of academic success and competitive 
+
+© 2025 John Wiley & Sons Ltd.
+European Journal of Education, 2025; 60:e70254 1 of 11 https://doi.org/10.1111/ejed.70254
+
+advantage in the digital age. However, it remains unclear which factors influence the acceptance of AI, which further impacts students' SRL using AI (An etal.2024).
+To understand successful AI adoption, scholars have contextu - alised their studies in diverse contexts and, using various the - oretical frameworks, suggested factors that influenced users' attitudes  towards  AI  technology  and  intentional  behaviour (Huang and Zou 2024; Huang et al. 2025; Yao et al. 2022). These include the Theory of Planned Behaviour (TPB; Ajzen 1991) and the Technology Acceptance Model (TAM; Davis 1989), among others. The TPB framework is widely used in technology accep - tance research due to its ability to explain behavioural inten - tions. TAM focuses on two factors, perceived usefulness and perceived ease of use, to predict if a user will adopt a new tech - nology. However, regarding Chinese students' AI adoption in the SRL context, in-saturated understanding was achieved in terms of how psychological factors (e.g., motivation, attitudes), technology-related factors (e.g., digital literacy (DL)), perceived behaviour  control  (PBC),  and  social  factors  (e.g.,  subjective norm (SN)) concurrently influence Chinese learners' AI uptake 
+in SRL. In addition, even fewer studies were conducted in the foreign language learning setting to understand EFL learners' SRL with AI. Therefore, this study extended TPB, a widely used framework in technology acceptance research due to its ability 
+to explain behavioural intentions, to the AI-assisted SRL con- text to explore the interplay of psychological and technological factors.
+In the digital age, DL can help students with real-time feed- back,  customised  online  learning  materials,  and  improve learning engagement by reducing learners' anxiety, meeting many self-regulating learning goals. Thus, it also guarantees the effectiveness of SRL (Tang and Chaw 2016). This study believed that DL is a critical variable in framing AI usage, as 
+it empowers learners to master the basic operations of digi - tal technology, understand how to access and utilise digital resources, and learn how to effectively learn and communi - cate in a digital environment (Huang et al. 2023). Thus, it also guarantees the effectiveness of SRL (Tang and Chaw 2016). Likewise, learning motivation (LM), an important psycholog - ical factor, also has a significant influence on language learn - ers' learning (Viberg et al. 2023; You and Kang 2014; Zhang et al. 2025). So, the impact of motivation on AI adoption must also be considered.
+Unfortunately, relatively few studies have been conducted in the foreign language learning setting to understand how EFL learners self-regulate their learning with AI. To address the ex - isting research gap in the literature on technology acceptance and SRL, it is crucial to investigate how DL interacts with emo - tional and psychological factors to impact language learners' adoption of AI, thereby facilitating SRL. Therefore, this study extended TPB to an AI-assisted SRL context to explore the inter - play of psychological and technological factors. The objective of the present research was to investigate how motivation and DL influence Chinese university students' behavioural intentions 
+in AI-assisted self-regulated English learning, using the TPB framework as a lens. The study was guided by the following re - search questions:
+RQ1.  To what extent does the research model explain Chinese university EFL learners' AI adoption in SRL?
+RQ2.  Do LM and DL significantly influence their AI adoption during SRL?
+2   |   Literature Review
+2.1 |   Self- Regulated Learning and Technology Adoption
+SRL is an ongoing process in which students systematically plan, activate, and regulate their learning behaviours to satisfy their learning needs or achieve goals (Derakhshan and Fathi 2024; Zhi  and  Derakhshan 2024;  Zimmerman  and  Schunk  2001). Studies suggested learners who are more independent in reg - ulating learning achieve better academic outcomes than those with lower levels of SRL (An etal.2024; Feraco etal.2023). In addition, SRL has a profound influence on learners' lifelong de - velopment, suggesting that learners who exhibit a greater will - ingness to engage in SRL are more inclined to broaden their knowledge base and fulfil their self-development needs, even after graduation (Pan etal.2025; Zhang and Zou2022). SRL en- compasses three phases: the performance phase (self-motivation and task analysis), the forethought phase (self-control and self- observation), and the self-reflective phase (self-judgement and self-reflection)  (Zimmerman 2002).  SRL  also  highlights  the importance of individual traits (metacognition, motivation, and strategies) and learning context (Zimmerman2002). The culti- vation of SRL skills and strategies encompasses the interactions 
+of personal factors with behavioural and environmental factors (Zimmerman 2002). This process involves the interplay between cognitive, emotional, and psychological perceptions, as well as the contextual factors surrounding them (Schunk2008).
+Students interacting with integrated technology can facilitate SRL (Derakhshan and Zhang2024; Elliott 2016). Internal fac - tors,  such  as  goal  orientation,  learning  beliefs,  and  technol - ogy self-efficacy, play important roles in technology adoption (An  et al. 2021;  Huang,  Teo,  and  Zhou  2020;  McWhaw  and Abrami 2001). External factors, such as influences from signifi - cant others and technology support, were found to significantly influence  technology  adoption  for  specific  purposes  (Huang etal.2023).
+Integrating technology in the SRL context, Barnard etal.(2009) proposed  the  Online  Self-regulated  Learning  Questionnaire (OSLQ)  to  examine  university  students'  SRL  in  the  online learning context. Since its emergence, it has been adapted in diverse contexts and proven its validity in measuring SRL in online learning contexts, including Chinese students' mathe - matics learning (Fung etal.2018) and Russian MOOC learning (Martinez-Lopez etal.2017). The OSLQ questionnaire contains six dimensions to assess SRL: goal setting (GS), environment structuring (ES), task strategies (TS), time management (TM), help-seeking (HS), and self-evaluation (SE).
+GS indicates the degree to which students set a goal to achieve, ES indicates that students build up a learning context that has 
+
+3 of 3
+few distractions and enables high efficiency, TS measures the degree to which students adopt several strategies or methods to complete desired learning tasks, TM indicates how students plan and control their learning time for specific tasks, HS measures the degree to which students look for help and interact with others to solve a problem, and SE indicates the degree to which students critically evaluate their learning process (e.g., learn - ing behaviour, learning effect). Considering its validity as men - tioned above, as well as its reliability (Cronbach's alpha = 0.94) and suitability for the AI-enhanced language learning context, the current study used this framework to measure EFL learners' AI adoption in their SRL.
+2.2 |   Theory Underpinning: The Theory of Planned Behaviour
+Based on the theory of reasoned action, Ajzen (1991) proposed the TPB to explain people's intention to perform a given task. Existing literature on technology acceptance has robustly evi - denced the explanatory capability of TPB through its incorpo - ration of three core dimensions: individual attitudes, social SNs, and environmental PBCs (Campbell and Frawley2024). Thus, scholars have contextualised TPB in diverse fields (e.g., finance, education, psychology) to explain users' behavioural intentions (Bosnjak etal.2020; Teo etal.2011; Yeo etal.2024), suggesting that TPB is a competitive model in predicting users' intentions (Ahmed and Ward2016; Liu and Wang2024).
+TPB suggested that an individual's intention of behaviour (BI) is the key factor that captures a user's readiness and willingness 
+to perform, leading to actual behaviour. This study employed TPB's concept of BI to investigate AI technology's ability to fa -cilitate self-regulated English learning. Ajzen (1991) proposed several constructs that exert influence on people's BI, including attitude towards behaviour (AT), SN, and PBC (Figure1).
+Attitude indicates one's positive or negative feelings about the behaviour of interest (Ajzen 1991). TPB speculated that peo - ple's  attitude  significantly  influences  their  intention  to  per - form a given task. In this study, attitude was contextualised in AI-assisted self-regulated English learning (AI-SREL), which measures EFL learners' perceptions of using AI to assist their SRL. SN indicates an individual's perception of social pressure that influences his or her engagement in a particular behaviour 
+
+FIGURE 1    |    The Theory of Planned Behaviour (Ajzen1991). AT, at- titude towards behaviour; BI, behavioural intention; PBC, perceived be - haviour control; SN, subjective norm.
+(Ajzen 1991). SN describes perceived expectations from signifi - cant others, such as family members, friends, teachers, super - visors, and peers. In this study, the SN refers to the degree to which EFL learners perceive that significant people (e.g., par - ents, teachers, and peers) think they should use AI to facilitate self-regulated  English  learning.  Previous  studies  in  an  EFL setting have highlighted the importance of social influence in framing learners' behavioural intentions regarding technology adoption (Huang etal.2023). Moreover, traditional Chinese cul - ture highly values power distance, and educational policy plays 
+a significant role in shaping the thinking and behaviour of ed - ucational stakeholders (Huang and Teo2021). Thus, we believe that EFL learners' adoption of AI would be influenced by signif - icant others.
+According to TPB, PBC indicates the extent to which people perceive they have the necessary skills and abilities to perform 
+a behaviour (Ajzen1991). It also involves the technical and re - source availability that an individual can obtain for a given task. Regarding technology adoption in teaching and learning, PBC encompasses both internal factors, such as ability (including self-control) and knowledge, as well as external factors, such as resources (e.g., devices) and time. These factors either facil - itate or impede students' adoption of technology in their SRL. Previous studies have also highlighted the roles of PBC in in - fluencing educational stakeholders' intentions to use technology (Huang, Teo, and Zhou 2020; Teo etal. 2018). Three hypotheses based on the TPB were proposed in these studies.
+H1.  Attitude significantly influenced AI-SREL.
+H2.  Subjective norms significantly influenced AI-SREL.
+H3.  Perceived  behavioural  control  significantly  influenced TA- SREL.
+Although studies have shown the good reliability and validity of TPB in explaining people's complex mental processes regarding behaviours (Armitage and Conner2001; Du 2025), one limita - tion is that it lacks consideration of specific learning tasks and contexts (Teo etal.2011). Moreover, while TPB is a useful frame - work for understanding and predicting behaviour in general, it may not fully capture the nuances and complexities of behaviour in specific situations, particularly in learning and educational contexts (Teo etal.2011).
+SRL  is  driven  by  psychological  and  emotional  factors (Balashov 2022). In addition, when technology is used as an im - portant tool to mediate learning, DL needs to be considered as 
+it influences technology adoption (Du2025; Huang etal.2023). Therefore,  this  study  included  emotional,  psychological,  and technological factors based on TPB to examine EFL learners' AI adoption in their SRL.
+2.3 |   Learning Motivation
+Although attitude (fondness of using a tool) and behavioural intention (likelihood of using a tool) are included in TPB, the operational definitions of the two variables do not capture this study's meaning of motivation. LM, in this study, refers to the 
+
+3 of 11
+degree to which EFL learners are motivated to engage in self- regulated English learning.
+Suggesting  one's  tendency  to  put  effort  into  achieving  goals, people's LM determines the choices they make, strategies they adopt, and commitment they devote (Dörnyei 1998; Ryan and Deci 2000; Zhao and Huang2024). In an EFL setting, learners who are more motivated or inspired towards a goal tend to be more engaged in learning, and vice versa (Li et al. 2022). LM helps  people  to  initiate  and  maintain  the  learning  process, which involves devotion, aspiration, and engagement to achieve goals; it also facilitates the formation of favourable attitudes to - wards learning (Dörnyei1998; Li etal.2022).
+To categorise motivation, Gardner and Lambert(1972) proposed the well-known dichotomy of integrative and instrumental mo - tivations. Integrative motivation indicates one's impetus to learn 
+a target language for social–emotional purposes, such as com - munication with members of the target language community; whereas instrumental motivation indicates one's learning for pragmatic purposes (e.g., examination, job opportunities, bet - ter education). Later, motivation was categorised into intrinsic and  extrinsic  types,  garnering  widespread  consensus  among scholars. Learners who expect to derive satisfaction, enjoyment, and  self-determination  are  typically  intrinsically  motivated; those who attempt to obtain extrinsic rewards (such as good grades) or avoid punishment through learning are extrinsically motivated. In addition, intrinsically motivated people may per - form a task driven by external pressures or promises of reward (Dörnyei 1998).
+Comparing the above dichotomies, Zimmerman (1990) sug- gested the instrumental versus integrative division neglects the  importance  of  mental  mechanisms  in  people's  learn - ing. Considering that SRL is initiated by learners' cognitive, motivational,  and  affective  factors  (Zimmerman 1990;  Li et al. 2022), this study measured LM from intrinsic and extrin - sic perspectives. SRL and LM are interdependent and cannot be understood separately. Motivation influences one's inten - tion and behaviour (Pintrich 2004; Genc and Aydin 2017). In addition, perceptions of significant others (e.g., teachers and peers) influence students' LM (Wentzel  1998). Similarly, Ly and Doeur (2024) suggested that social influence influenced one's motivation through their attitude. These studies provide the following hypotheses.
+H4.  Learning  motivation  is  significantly  associated  with AI- SREL.
+H5.  Subjective norm is significantly associated with learning motivation.
+2.4 |   Digital Literacy
+TPB includes PBC to indicate the importance of the internal (e.g., computer efficacy) and external control (e.g., facilitating condi - tions) in influencing people's technology usage. However, these control variables do not capture people's abilities to effectively utilise digital tools for a given task. Prensky (2001) suggested that students of today are mostly digital natives who grew up 
+with technology, feel comfortable using diverse digital tools, and are familiar with digital language. They rely on technologies to access, create, and share information for diverse purposes. The ability to embrace digital tools indicates that individuals possess 
+a certain level of DL (Ng2012). University students of the digital age are believed to have certain levels of DL; they also have ac - cess to digital technologies and sufficient knowledge and skills to utilise them for various tasks (Prensky2001).
+DL was defined by Appel (2012) as one's ability or competency to seek, acquire, locate, and process information by using dig - ital tools. It also describes one's ability to produce digital in - formation (Hatlevik and Christophersen 2013). In the context of this study, DL refers to students' ability to use digital tools for learning tasks, including basic operations and resource ac - quisition. The development of DL demonstrates a continuum, specifically, from instrumental and cognitive skill acquisition to productive and strategic competence (Mohammadyari and Singh2015). This process involves motor, emotional, and social skills (Ng 2012), and therefore, this study measured DL from technical, cognitive, and social–emotional dimensions.
+To be specific, technical literacy (TL) refers to one's ability to possess information and operate digital tools for learning pur - poses. Cognitive literacy (CL) refers to one's critical ability when searching, evaluating, and creating digital information; it also suggests one's ability to evaluate and select appropriate software programmes for a specific learning task. Social–emotional liter - acy (SEL) measures people's ability to use digital tools respon - sibly and effectively for communication, social interaction, and learning.
+Existing studies indicate the association between DL and PBC with  technology  in  learning  (Černochová  and  Selcuk 2019; Ting2015; Du2025). People with a higher level of DL would be more capable of using technology to facilitate online learning and experience less negative impact of technologies or insufficient DL leading to a low level of self-control (Mohammadyari and Singh2015). These studies produced the following hypothesis.
+H6.  Digital  literacy  significantly  influenced  perceived  be- havioural control.
+The proposed research model is based on the above rationales (Figure2).
+3   |   Methods
+3.1 |   Research Participants
+Research participants in this study were 363 students from five Chinese universities. They were selected through a convenience sampling approach, and all of them had utilised AI tools for SRL. Among them, 273 were female students and 90 were males. Their majors were categorised as “Science and Engineering” (n = 188)  and  “Humanities  and  Social  Sciences”  (n = 175),  ac - counting for 51.8% and 48.2%, respectively. They all had expe - rience with AI for self-regulated English learning, and 33% of them currently spend 0.5 to 1 h per day using AI to support their self-regulated English learning.
+
+5 of 5
+
+FIGURE 2    |    Proposed Research Model. AT, attitude towards behaviour; LM, learning motivation; PBC, perceived behaviour control; SN, subjec - tive norm; TA-SREL, Technology-assisted self-regulated English learning.
+
+5 of 11
+3.2 |   Instruments
+This study employed a survey questionnaire to examine Chinese university EFL learners' AI adoption for self-regulated English learning. The first part of the questionnaire inquires into par - ticipants'  demographic  information,  including  gender,  major, and experience with AI for self-regulated English learning. The second part includes items underlying constructs proposed in this study. The items were from diverse sources. Specifically, AI-assisted self-regulated English learning was measured by six constructs (GS, ES, TS, TM, HS, and SE), and these items were adapted from the OSLQ proposed by Barnard et al. (2009). For the TPB constructs, items measuring attitude (3 items), SN (3 items), and PBC (4 items) were all adapted from Fishbein and Ajzen (2011). Items underlying LM (7 items) were adapted from Vallerand et al. (1992). According to Ng (2012), DL was mea- sured by technology, cognitive, and SEL, comprising a total of 11 items underlying DL.
+3.3 |   Procedure and Data Analysis
+The authors of the study collected data using WeChat, a widely used social media platform in China with a default data col - lection function. Before data collection, all participants were informed that participation was voluntary, as well as the study aims,  their  rights,  and  data  protection.  Considering  partic - ipants' English proficiency, the authors used the Chinese lan - guage to present the items, ensuring sufficient understanding 
+of the measurement items. The translation and back-translation went through a standardised process with assistance from two 
+research assistants who are bilingual in Chinese and English. Overall, participants spent approximately 15 min completing the questionnaires.
+Data were processed and analysed in SPSS 23.0 and Amos 23.0.  Specifically,  descriptive  analyses  were  performed  to report  students'  demographic  information  and  their  re - sponses to items, including means and standard deviations. Furthermore,  confirmatory  factor  analyses  (CFAs)  using the  structural  equation  modelling  technique  (SEM)  were performed to examine the factor loadings of items, reliabil - ity, and validity, as well as to test the hypotheses. That is to say, the data analysis involved two steps: the measurement model and the structural model (Kline 2010). In addition, the results were interpreted based on multiple model fit indices (Kline 2010), including Goodness of Fit Index (GFI), Normed Fit Index (NFI), Comparative Fit Index (CFI), Tucker–Lewis Index (TLI), the Root Mean Square Error of Approximation (RMSEA), and SRMR.
+4   |   Results
+4.1   |   Results of Descriptive Analyses
+Descriptive analyses were performed using SPSS 23.0, and the results indicated that the data showed a normal distribution, with the skewness and kurtosis ranging from −1.225 to −0.057 and  −0.36 to 2.725, respectively, and within the recommended ranges of |3| and |8|, respectively (Kline2010). Generally, partic - ipants provided positive responses to the constructs, indicating 
+
+ of 
+TABLE 1    |    Results of descriptive analyses.
+Constructs Number of items Cronbach's alpha Mean SD Skewness Kurtosis Goal setting 3 0.780 4.99 1.22 −0.53 0.082 Environmental structuring 4 0.843 5.93 0.94 −1.225 2.725 Task strategy 4 0.777 4.96 1.03 −0.192 −0.063 Time management 3 0.846 5.03 1.21 −0.611 0.36 Help-seeking 4 0.890 4.71 1.37 −0.434 −0.196 Self-evaluation 3 0.850 5.00 1.14 −0.267 −0.054 Attitude 3 0.870 5.78 0.93 −0.359 −0.204 Subjective norm 3 0.912 5.41 1.04 −0.449 0.61 Perceived behaviour control 4 0.861 5.59 0.89 −0.838 2.415 Intrinsic motivation 4 0.911 4.93 1.43 −0.704 0.251 Extrinsic motivation 3 0.823 5.97 0.82 −0.404 −0.347 Technical literacy 5 0.880 5.15 1.09 −0.552 0.025 Cognitive literacy 3 0.855 5.33 1.01 −0.546 0.294 Social–emotional Literacy 3 0.834 5.41 1.02 −0.554 0.525
+
+ of 
+a preference for using AI for self-regulated English learning. Table 1 shows the mean values of the constructs ranged from 4.71 to 5.97, and the SD ranged from 0.80 to 1.43. In addition, the  reliability  of  the  constructs  achieved  a  satisfactory  level (Christmann and Van Aelst2006), with Cronbach's alpha values ranging from 0.777 to 0.912.
+4.2 |   Testing the Measurement Model
+CFA with maximum likelihood estimation was performed to test the factor loadings of the items. As Table 2 indicates, the standardised factor loadings of items were all above 0.50, sug - gesting the significance of the items measuring the underlying constructs (Hair et al. 2010). Additionally, the composite reli - ability (CR) and average variance extracted (AVE) were exam - ined to prove the reliability and validity of the model's variables. Results suggested values of CR and AVE were within the con - fidence interval of 0.7–0.50, respectively, indicating adequate reliability and validity (Fornell and Larcker1981).
+Table 3  presents  the  discriminate  validity  of  the  measured variables in this study, which was assessed using the Fornell– Larcker criterion (Fornell and Larcker 1981). The square roots of the AVEs were greater than the correlations between those variables, ensuring the discriminate validity of the constructs.
+Additionally, model fit indices were used to assess the fitness of the data to the proposed research model. A χ2/df ratio with a value of 3.0 or lower is desirable (McIver and Carmines1981). The CFI and TLI with values greater than 0.90 are considered acceptable (Hair etal.2010). Additionally, the RMSEA was less than  0.05,  proving  its  rationality.  The  Standard  Root  Mean- square  Residual  (SRMR)  with  a  value  lower  than  0.05  indi - cates a good fit, and 0.08 is considered a convergent fit (Hu and Bentler 1998). Based on the above, the results confirmed that the 
+measurement model achieved a good model fit (χ2/df = 1.647, TLI = 0.92,  CFI = 0.928,  CLI = 0.937;  RMSEA = 0.042[0.039, 0.046], SRMR = 0.0488).
+4.3 |   Testing the Structural Model
+The structural model was used to examine the hypotheses pro - posed in the research model. Results indicated a good fit for the structural model ( χ2/df = 2.034, TLI = 0.900, CFI = 0.900, RMSEA = 0.053 [0.050, 0.057]), and all the hypotheses pro - posed in this study were supported. University EFL learners' 
+AI adoption for self-regulated English learning (AI-SREL) was significantly influenced by attitude (H1), PBC (H2), SN (H3), and LM (H4). In addition, LM was significantly associated with SN (H5), with a variance in motivation of 9%. PBC was significantly influenced by DL (H6), with a variance of 23%. In total, the research model explained 47% of the variance of AI-SREL. Table 4 presents the results of the structural model. Moreover, the standardised regressions for sub-scales of AI- SREL were GS, 0.43, ES, 0.43, TS, 0.49, TM, 0.61, HS, 0.76, SE, 0.83.  The  standardised  regressions  of  sub-scales  indicating DL were TL, 0.83, CL, 0.98, and SEL, 0.74. The standardised regressions for LM are intrinsic motivation (IM, 0.55) and ex - trinsic motivation (EM, 0.43).
+5   |   Discussion
+5.1 |   Validity of the Extended TPB in Explaining EFL Learners' AI Adoption in Self-Regulated English Learning
+This research examined Chinese university EFL learners' AI adoption for SRL by using an extended TPB model. Results of the study approved the validity of TPB in explaining Chinese 
+
+7 of 7
+TABLE 2    |    Results of the measurement model.
+Standardised 
+Constructs Items estimates AVE CR Goal setting  GS1 0.687 0.545 0.781
+(GS) GS2 0.720
+GS3 0.802
+Environment  ES1 0.751 0.577 0.845 structuring  ES2 0.720
+(ES)
+ES3 0.740
+ES4 0.823
+Task strategy  TS1 0.676 0.500 0.780 (TS) TS2 0.676
+TS3 0.682
+TS4 0.707
+Time  TM1 0.757 0.662 0.854 management  TM2 0.805
+(TM)
+TM3 0.874
+Help-seeking  HS1 0.794 0.674 0.892 (HS) HS2 0.838
+HS3 0.886
+HS4 0.760
+Self-evaluation  SE1 0.662 0.680 0.862 (SE) SE2 0.876
+SE3 0.914
+Attitude (AT) AB1 0.888 0.702 0.876
+AB2 0.783
+AB3 0.839
+Subjective  SN1 0.882 0.775 0.912 Norm (SN) SN2 0.874
+SN3 0.885
+Perceived  PBC1 0.859 0.620 0.865 behaviour  PBC2 0.720
+control (PBC)
+PBC3 0.885
+PBC4 0.663
+Intrinsic  IM1 0.849 0.722 0.912 motivation  IM2 0.832
+(IM)
+IM3 0.911
+IM4 0.803
+Extrinsic  EM1 0.760 0.617 0.827 motivation  EM2 0.878
+(EM)
+EM3 0.708
+(Continues)
+TABLE 2    |    (Continued)
+Standardised 
+Constructs Items estimates AVE CR Technical  TL1 0.742 0.590 0.878
+literacy (TL) TL2 0.760
+TL3 0.719
+TL4 0.791
+TL5 0.825
+Cognitive  CL1 0.862 0.666 0.857 literacy (CL) CL2 0.810
+CL3 0.774
+Social– SEL1 0.850 0.634 0.838 emotional  SEL2 0.805
+literacy (SEL)
+SEL3 0.728
+Abbreviations: AVE, average variance extracted; CR, composite reliability.
+university EFL learners' AI adoption for SRL, with a variance of 47%.
+Aligning with existing studies (e.g., Huang et al. 2023; Huang and Zou 2024; Teo et al. 2011) that suggest attitude towards technol - ogy is an important antecedent to technology adoption, this study noted that EFL learners' attitudes towards AI played an important role in influencing their AI adoption to facilitate SRL (H1). This indicated that students with more favourable attitudes towards AI technologies were more willing to use AI tools in learning. SNs sig - nificantly influenced students' use of AI for SRL (H2). This find- ing aligns with previous studies suggesting that significant others' opinions may influence people's decision-making, especially in Chinese collectivist culture (Huang et al. 2023). This is under - standable given that Chinese students are willing to take others' suggestions, especially from their teachers and peers (Huang, Teo, and Zhou 2020). PBC also played a significant role in influencing their adoption of AI (H3). This indicated that when students per - ceived that they had control over their learning conditions (e.g., ad - equate knowledge, resources, ability, and time), they were willing to adopt AI in SRL.
+5.2 |   The Roles of Learning Motivation and Digital Literacy
+In line with many studies (Al-Tamimi and Shuib 2009; Genc and Aydin 2017), LM played an important role in students' decision-making (Zhao and Huang 2024) and significantly in - fluenced university EFL learners' AI adoption for SRL (H4). EFL students have both IMs (e.g., interests, enjoyment, and culture) and EMs (e.g., passing exams and receiving awards) for learning English; these shape their technology-using be- haviours in self-regulated English learning (Hennebry-Leung and Xiao 2020). In addition, LM was found to be significantly influenced by social norm (H5), suggesting that Chinese uni - versity  students  perceive  opinions  from  significant  others 
+
+7 of 11
+TABLE 3    |    Results of discriminate validity.
+CL HS SE AB SN PBC IM EM GS ES TS TM TL SEL CL 0.816
+HS 0.237 0.821
+SE 0.371 0.755 0.825
+AB 0.421 0.311 0.45 0.838
+SN 0.309 0.381 0.445 0.603 0.88
+PBC 0.462 0.269 0.315 0.436 0.319 0.787
+IM 0.201 0.213 0.271 0.301 0.165 0.243 0.85
+EM 0.172 0.172 0.204 0.157 0.137 0.111 0.239 0.785
+GS 0.275 0.195 0.333 0.409 0.366 0.383 0.255 0.124 0.738
+ES 0.244 0.293 0.322 0.474 0.372 0.346 0.189 0.231 0.304 0.759
+TS 0.19 0.389 0.375 0.353 0.25 0.296 0.571 0.317 0.259 0.334 0.685
+TM 0.308 0.419 0.584 0.477 0.407 0.233 0.187 0.07 0.435 0.272 0.328 0.813
+TL 0.802 0.206 0.317 0.354 0.281 0.38 0.181 0.081 0.225 0.213 0.183 0.321 0.768
+SEL 0.718 0.486 0.572 0.359 0.409 0.389 0.231 0.233 0.3 0.377 0.248 0.318 0.585 0.796
+Note: Numbers in bold indicate the square root of AVEs.
+TABLE 4    |    Results of the structural model.
+Relationships Path coefficients (Std.) p Results H1 AT→AI-SREL 0.304 < 0.001*** Supported H2 SN → AI-SREL 0.268 0.002** Supported H3 PBC → AI-SREL 0.202 0.001** Supported H4 LM → AI-SREL 0.443 0.009* Supported H5 SN → LM 0.303 0.001** Supported H6 DL → PBC 0.483 < 0.001*** Supported
+Abbreviations: AT, Attitude; DL, Digital Literacy; LM, Learning Motivation; PBC, Perceived Behaviour Control; SN, Subjective Norm; TA-SREL, Technology-Assisted Self-Regulated English Learning.
+*p < 0.05. 
+**p < 0.01. 
+***p < 0.001.
+
+ of 
+(teachers, peers) as very influential (Huang, Teo, and Zhou 2020). Therefore, teachers should provide timely feedback on students' AI usage in their learning and guide them on how to use AI properly. In addition, students are encouraged to de - velop both intrinsic and EMs for learning English in order to sustain self-regulated English learning.
+DL was suggested as an important antecedent to PBC (H6) (Xu et al. 2024). This is understandable because when stu - dents have a higher level of ability to use technology in learn - ing, they are more likely to believe they have better control over  the  time  and  resources  for  learning  (Mohammadyari and Singh 2015). In a technology-driven environment, DL is crucial for information research and comprehension (Huang 2024), and it aids in promoting self-control (Duckworth and Gross 2014; Greene et al. 2018; Tang and Chaw 2016). Students with higher levels of DL are more skilled at using technological 
+or online resources to research information through diverse ways (social media, learning platforms, AI tools), which also increases their confidence in PBC. Therefore, language teach - ers should encourage students to improve their DL by engaging in digital-based activities, thereby enhancing their technical, cognitive, and social–emotional literacies. This way, students would be more willing to use AI technologies to facilitate self- regulated English learning.
+6   |   Conclusion
+Contextualised within university self-regulated English learn - ing, the current study examined the factors influencing uni - versity  EFL  learners'  AI  adoption  in  self-regulated  English learning, based on the TPB. To be specific, this study suggested that Chinese EFL learners' AI adoption in self-regulated English 
+
+9 of 9
+learning was significantly influenced by attitudes, SNs, PBCs, and LM. Additionally, SNs are significantly associated with LM, and DL is significantly correlated with PBC.
+The  study  results  provided  theoretical  contributions  to  the technology adoption literature by contextualising the study in Chinese English learning settings. Specifically, it validated the TPB's explanatory power in understanding EFL learners' adop - tion of AI for SRL. Besides the key antecedents proposed in the TPB, the results of the study suggested the importance of LM and DL in influencing EFL learners' AI adoption for their SRL. Therefore, teachers can design AI-based learning tasks to stim - ulate IM and provide training to help students master the use of digital tools.
+The study's limitations are summarised as follows. First, the Chinese university EFL students population is large, and any results based on 363 students may not be representative enough. Therefore, future studies are encouraged to invite more partici - pants from diverse regions. Secondly, a cross-sectional research design enabled researchers to investigate EFL learners' percep - tions of AI usage for SRL; however, the variables were treated as static. Future studies are encouraged to adopt a longitudinal research design to understand further whether EFL learners' perceptions change over time. Thirdly, deeper insights would be obtained by using qualitative interviews to better under - stand the complex mechanisms of these variables, as well as contextual influences on learners' AI adoption. Fourthly, this study did not ask participants to report the AI tools they have used, considering many tools have similar functions. However, we believe that results from the use of a single AI tool might be more helpful in terms of pedagogical implications. Further study could consider doing research based on a single AI tool to gain more specific insights. Furthermore, the current study unpacked the factors influencing EFL learners' AI adoption, but did not examine their actual learning achievement by using AI. Future studies may examine whether AI adoption signifi - cantly improved EFL learners' learning achievement (Guo and Wang 2024).
+Acknowledgements
+This study was funded by the Shanghai Philosophy and Social Sciences Planning  Office  under  the  project  “Factors  Influencing  University Foreign  Language  Teachers'  Acceptance  of  Artificial  Intelligence and  Intervention  Mechanism:  A  Study  in  Shanghai”  (Grant  NO. 2024BYY008). We express great thanks to the participants of the study.
+Ethics Statement
+This  study  was  approved  by  the  Ethics  Committee  of  Shanghai International  Studies  University,  ethics  approval  number: SISUGJ2024001.
+Consent
+All the participants were informed of the research purpose and their rights, and they agreed to participate in this study.
+Conflicts of Interest
+The authors declare no conflicts of interest.
+Data Availability Statement
+The data that support the findings of this study are available from the corresponding author upon reasonable request.
+References
+Ahmed, E., and R. Ward. 2016. “A Comparison of Competing Technology Acceptance Models to Explore Personal, Academic and Professional Portfolio Acceptance Behaviour.” Journal of Computers in Education 3, no. 2: 169–191.
+Ajzen,  I.  1991.  “The  Theory  of  Planned  Behavior.”  Organizational Behavior and Human Decision Processes 50, no. 2: 179–211.
+An,  F.  H.,  L.  J.  Xi,  and  J.  Y.  Yu.  2024.  “The  Relationship  Between Technology Acceptance and Self-Regulated Learning: The Mediation Roles of Intrinsic Motivation and Learning Engagement.” Education and Information Technologies 29, no. 3: 2605–2623.
+An, Z., C. Wang, S. Li, Z. Gan, and H. Li. 2021. “Technology-Assisted Self-Regulated English Language Learning: Associations With English Language Self-Efficacy, English Enjoyment, and Learning Outcomes.” Frontiers in Psychology 11: 558466.
+Armitage,  C.  J.,  and  M.  Conner.  2001.  “Efficacy  of  the  Theory  of Planned Behaviour: A Meta-Analytic Review.” British Journal of Social Psychology 40, no. 4: 471–499.
+Balashov, E. 2022. “Psychological Well-Being as a Cognitive-Emotional Component of Student Self-Regulated Learning.” International Journal of Cognitive Research in Science, Engineering and Education 10, no. 2: 101–109.
+Barnard, L., W. Y. Lan, Y. M. To, V. O. Paton, and S. L. Lai. 2009. “Measuring  Self-Regulation  in  Online  and  Blended  Learning Environments.” Internet and Higher Education 12, no. 1: 1–6.
+Bosnjak, M., I. Ajzen, and P. Schmidt. 2020. “The Theory of Planned Behavior:  Selected  Recent  Advances  and  Applications.”  Europe's Journal of Psychology 16, no. 3: 352–356.
+Breitwieser, J., L. Nobbe, D. Biedermann, and G. Brod. 2023. “Boosting Self-Regulated  Learning  With  Mobile  Interventions:  Planning  and Prompting  Help  Children  Maintain  a  Regular  Study  Routine.” Computers & Education 205: 104879. https://doi.org/10.1016/j.compedu. 2023.104879.
+Campbell,  L.  O.,  and  C.  Frawley.  2024.  “An  Exploration  of  Factors That Predict Higher Education Faculty Members' Intentions to Utilize Emerging  Technologies.”  Educational  Technology  Research  and Development 72, no. 2: 643–659.
+Černochová, M., and H. Selcuk. 2019. “Digital Literacy, Creativity, and Autonomous Learning.” In Encyclopedia of Education and Information Technologies, edited by A. Tatnall, 552–560. Springer.
+Christmann,  A.,  and  S.  Van  Aelst.  2006.  “Robust  Estimation  of Cronbach's Alpha.” Journal of Multivariate Analysis 97, no. 7: 1660–1674.
+Davis, F. D. 1989. “Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology.” MIS Quarterly 13, no. 3: 319–340.
+Derakhshan, A., and B. Bai. 2025. “Postgraduate Chinese EFL Learners' Emotional Vulnerability Displays and Regulation Strategies.” System 129: 103605. https://doi.org/10.1016/j.system.2025.103605.
+Derakhshan, A., and J. Fathi. 2024. “The Interplay Between Perceived Teacher Support, Self-Regulation, and Psychological Well-Being Among EFL Students.” Iranian Journal of Language Teaching Research 12, no. 3: 113–138. https://doi.org/10.30466/ijltr.2024.121579.
+Derakhshan,  A.,  and  L.  J.  Zhang.  2024.  “Applications  of  Psycho- Emotional Traits in Technology-Based Language Education (TBLE): An Introduction to the Special Issue.” Asia-Pacific Education Researcher 33: 741–745. https://doi.org/10.1007/s40299-024-00881-y.
+
+9 of 11
+Dörnyei,  Z.  1998.  “Motivation  in  Second  and  Foreign  Language Learning.” Language Teaching 31, no. 3: 117–135.
+Du, Y. 2025. “How Teachers' Digital Literacy Influences the Intention to Use AI Teaching Tools: An Empirical Study Based on an Integrated Model.” Interactive Learning Environments 1–23: 1–23. https://doi.org/ 10.1080/10494820.2025.2538746.
+Duckworth, A., and J. J. Gross. 2014. “Self-Control and Grit: Related but Separable Determinants of Success.” Current Directions in Psychological Science 23, no. 5: 319–325.
+Elliott, D. 2016. “Autonomy and Foreign Language Learning in a Virtual Learning Environment.” ELT Journal 70, no. 2: 235–236.
+Feraco, T., D. Resnati, D. Fregonese, A. Spoto, and C. Meneghetti. 2023. “An Integrated Model of School Students' Academic Achievement and Life Satisfaction. Linking Soft Skills, Extracurricular Activities, Self- Regulated Learning, Motivation, and Emotions.” European Journal of Psychology of Education 38, no. 1: 109–130.
+Fishbein, M., and I. Ajzen. 2011. Predicting and Changing Behavior: The Reasoned Action Approach. Taylor & Francis.
+Fornell, C., and D. F. Larcker. 1981. “Evaluating Structural Equation Models With Unobservable Variables and Measurement Error.” Journal of Marketing Research 18, no. 1: 39–50.
+Fung, J. J. Y., M. Yuen, and A. H. K. Yuen. 2018. “Validity Evidence for a Chinese Version of the Online Self-Regulated Learning Questionnaire With  Average  Students  and  Mathematically  Talented  Students.” Measurement and Evaluation in Counseling and Development 51, no. 2: 111–124.
+Gardner, R. C., and W. E. Lambert. 1972. Attitudes and Motivation in Second-Language Learning. Newbury House Publishers, Inc.
+Genc, Z. S., and F. Aydin. 2017. “An Analysis of Learners' Motivation and Attitudes Toward Learning English Language at Tertiary Level in Turkish EFL Context.” English Language Teaching 10, no. 4: 35–44.
+Greene, J. A., D. Z. Copeland, V. M. Deekens, and S. B. Yu. 2018. “Beyond Knowledge:  Examining  Digital Literacy's Role in the Acquisition of Understanding in Science.” Computers in Education 117: 141–159.
+Guo,  Y.,  and  Y.  L.  Wang.  2024.  “Exploring  the  Effects  of  Artificial Intelligence Application on EFL Students' Academic Engagement and Emotional Experiences: A Mixed-Methods Study.” European Journal of Education 1–15: e12812. https://doi.org/10.1111/ejed.12812.
+Hair,  J.  F.  J.,  W.  C.  Black,  B.  J.  Babin,  and  R.  E.  Anderson.  2010. Multivariate Data Analysis. A Global Perspective. 7th ed. Prentice Hall.
+Hatlevik, O. E., and K. Christophersen. 2013. “Digital Competence at the Beginning of Upper Secondary School: Identifying Factors Explaining Digital Inclusion.” Computers & Education 63: 240–247.
+Hennebry-Leung, M., and H. A. Xiao. 2020. “Examining the Role of the Learner and the Teacher in Language Learning Motivation.” Language Teaching Research 27, no. 1: 1–27.
+Hu, L., and P. M. Bentler. 1998. “Fit Indices in Covariance Structure Modeling: Sensitivity to Underparameterized Model Misspecification.” Psychological Methods 3: 424–453.
+Huang, F. 2024. “Examining Foreign Language Teachers' Information Literacy:  Do  Digital  Nativity,  Technology  Training,  and  Fatigue Matter?” Asia-Pacific Educational Researcher 33, no. 4: 901–912.
+Huang, F., D. Y. Peng, and T. Teo. 2025. “AI Affordances and EFL Learners' Speaking Engagement: The Moderating Roles of Gender and Learner Type.” European Journal of Education 60, no. 1: 1–14.
+Huang,  F.,  and  T.  Teo.  2021.  “Examining  the  Role  of  Technology- Related Policy and Constructivist Teaching Belief on English Teachers' Technology  Acceptance:  A  Study  in  Chinese  Universities.”  British Journal of Educational Technology 52, no. 1: 441–460.
+Huang, F., T. Teo, and M. Zhou. 2020. “Chinese Students’ Intentions to Use the Internet for Learning.” Educational Technology Research & Development 68, no. 1: 575–591.
+Huang, F., T. Teo, and M. Zhou. 2020. “Chinese Students' Intentions to Use the Internet for Learning.” Educational Technology Research and Development 68, no. 1: 575–591.
+Huang,  F.,  and  B.  Zou.  2024.  “English  Speaking  With  Artificial Intelligence (AI): The Roles of Enjoyment, Willingness to Communicate With  AI,  and  Innovativeness.”  Computers  in  Human  Behavior  159: 108355. https://doi.org/10.1016/j.chb.2024.
+Huang, F., T. Teo, and X. Y. Zhao. 2023. “Examining Factors Influence Chinese Ethnic Minority English Teachers' Technology Adoption: An Extension of the UTAUT Model.” Computer Assisted Language Learning 38, no. 4: 928–950.
+Jiang, y., P. Wang, Q. Li, and Y. Li. 2022. “Students' Intention Toward Self-Regulated Learning Under Blended Learning Setting: PLS-SEM Approach.”  Sustainability  14,  no.  16:  10140.  https://doi.org/10.3390/ su141610140.
+Kline,  R.  B.  2010.  Principles  and  Practice  of  Structural  Equation Modeling. 3rd ed. Guilford Press.
+Li,  J.,  R.  B.  King,  and  C.  Wang.  2022.  “Profiles  of  Motivation  and Engagement  in  Foreign  Language  Learning:  Associations  With Emotional  Factors,  Academic  Achievement,  and  Demographic Features.” System 108: 102820.
+Liu,  G.  L.,  R.  Darvin,  and  C.  Ma.  2024a.  “Exploring  AI-Mediated Informal  Digital  Learning  of  English  (AI-IDLE):  A  Mixed-Method Investigation of Chinese EFL Learners' AI Adoption and Experiences.” Computer  Assisted  Language  Learning  1–29:  1–29.  https://doi.org/10. 1080/09588221.2024.2310288.
+Liu,  G.  L.,  R.  Darvin,  and  C.  Ma.  2024b.  “Unpacking  the  Role  of Motivation and Enjoyment in AI-Mediated Informal Digital Learning of English (AI-IDLE): A Mixed-Method Investigation in the Chinese Context.” Computers in Human Behavior 60: 108362.
+Liu, G. L., and Y. L. Wang. 2024. “Modeling EFL Teachers' Intention to  Integrate  Informal  Digital  Learning  of  English  (IDLE)  Into  the Classroom Using the Theory of Planned Behavior.” System 120: 103193.
+Loyens,  S.  M.,  J.  Magda,  and  R.  J.  P.  Rikers.  2008.  “Self-Directed Learning in Problem-Based Learning and Its Relationships With Self- Regulated Learning.” Educational Psychology Review 20, no. 4: 411–427.
+Ly, B., and B. Doeur. 2024. “Key Factors Influencing Digital Learning Adoption  Among  Cambodian  University  Students:  An  Integrated Theoretical  Approach.”  Computers  in  Human  Behavior  Reports  15: 100460.
+Martinez-Lopez, R., C. Yot, I. Tuovila, and V. H. Perera-Rodríguez. 2017. “Online Self-Regulated Learning Questionnaire in a Russian MOOC.” Computers in Human Behavior 75: 966–974.
+McIver, J., and E. G. Carmines. 1981. Unidimensional Scaling. Vol. 24. Sage.
+McWhaw, K., and P. C. Abrami. 2001. “Student Goal Orientation and Interest: Effects on Students' Use of Self-Regulated Learning Strategies.” Contemporary Educational Psychology 26, no. 3: 311–329.
+Mohammadyari, S., and H. Singh. 2015. “Understanding the Effect of e-Learning on Individual Performance: The Role of Digital Literacy.” Computers & Education 82: 11–25.
+Ng,  W.  2012.  “Can  We  Teach  Digital  Natives  Digital  Literacy?” Computers & Education 59, no. 3: 1065–1078.
+Pan,  M.,  C.  Lai,  and  K.  Guo.  2025.  “Technology-Enhanced  Self- Regulated  Second  Language  Learning  Interventions:  A  Systematic Review.”  System  131:  103675.  https://doi.org/10.1016/j.system.2025. 103675.
+
+11 of 11
+Panagiotidis, P., P. Krystalli, and P. Arvanitis. 2023. “Technology as a Motivational Factor in Foreign Language Learning.” European Journal of Education 6, no. 1: 69–84.
+Pintrich, P. R. 2004. “A Conceptual Framework for Assessing Motivation and  Self-Regulated  Learning  in  College  Students.”  Educational Psychology Review 16: 385–407.
+Prensky, M. 2001. “Digital Natives, Digital Immigrants.” On the Horizon 9, no. 5: 1–6.
+Qi,  S.,  and  A.  Derakhshan.  2025.  “Technology-Based  Collaborative Learning: EFL Learners' Social Regulation and Modifications in Their Academic  Emotions  and  Academic  Performance.”  Education  and Information Technologies 30, no. 7: 8611–8636. https://doi.org/10.1007/ s10639-024-13167-z.
+Ryan, R. M., and E. L. Deci. 2000. “Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions.” Contemporary Educational Psychology 25, no. 1: 54–67.
+Schunk,  D.  H.  2008.  “Metacognition,  Self-Regulation,  and  Self- Regulated  Learning:  Research  Recommendations.”  Educational Psychology Review 20, no. 4: 463–467.
+Tang, C. M., and L. Y. Chaw. 2016. “Digital Literacy: A Prerequisite for Effective Learning in a Blended Learning Environment?” Electronic Journal of E-Learning 14, no. 1: 54–65.
+Teo, T., F. Huang, and C. K. W. Hoi. 2018. “Explicating the Influences That Explain Intention to Use Technology Among English Teachers in China.” Interactive Learning Environments 26, no. 4: 460–475.
+Teo, T., N. K. Koh, and C. B. Lee. 2011. “Teachers' Intention to Teach Financial Literacy in Singapore: A Path Analysis of an Extended Theory of Planned Behaviour (TPB).” Asia-Pacific Education Researcher 20, no. 2: 410–419.
+Ting, Y. L. 2015. “Tapping Into Students' Digital Literacy and Designing Negotiated  Learning  to  Promote  Learner  Autonomy.”  Internet  and Higher Education 26: 25–32.
+Vallerand, R. J., L. G. Pelletier, M. R. Blais, N. M. Briere, C. Senecal, and E. F. Vallieres. 1992. “The Academic Motivation Scale: A Measure of Intrinsic, Extrinsic, and Amotivation in Education.” Educational and Psychological Measurement 52, no. 4: 1003–1017.
+Viberg,  O.,  A.  Kukulska-Hulme,  and  W.  Peeters.  2023.  “Affective Support for Self-Regulation in Mobile-Assisted Language Learning.” International Journal of Mobile and Blended Learning 15, no. 2: 1–15.
+Wang,  Y.,  A.  Derakhshan,  and  F.  Ghiasvand.  2025.  “EFL  Teachers' Generative  Artificial  Intelligence  (GenAI)  Literacy:  A  Scale Development and Validation Study.” System 133: 103791. https://doi. org/10.1016/j.system.2025.103791.
+Wentzel, K. R. 1998. “Social Relationships and Motivation in Middle School: The Role of Parents, Teachers, and Peers.” Journal of Educational Psychology 90: 202–209.
+Xu,  Z.,  S.  Jahng,  and  L.  Liang.  2024.  “Reshaping  Digital  Literacy: Investigating  the  Determinants  of  User  Intentions  to  Identify  False Content in Short-Video Platforms.” Current Psychology 43: 23749–23763.
+Yao, Y., P. Wang, Y. Jiang, Q. Li, and Y. Li. 2022. “Innovative Online Learning Strategies for the Successful Construction of Student Self- Awareness During the COVID-19 Pandemic: Merging TAM With TPB.” Journal of Innovation & Knowledge 7, no. 4: 100252.
+Yeo, K. H. K., W. M. Lim, and K. J. Yii. 2024. “Financial Planning Behaviour:  A  Systematic  Literature  Review  and  New  Theory Development.”  Journal  of  Financial  Services  Marketing  29,  no.  3: 979–1001.
+Zare, J., K. Aqajani Delavar, A. Derakhshan, and M. Pawlak. 2024. “The Relationship Between Self-Regulated Learning Strategy Use and Task Engagement.” International Journal of Applied Linguistics: 842–860.
+Zhang,  R.  F.,  and  D.  Zou.  2022.  “Self-Regulated  Second  Language Learning:  A  Review  of  Types  and  Benefits  of  Strategies,  Modes  of Teacher  Support,  and  Pedagogical  Implications.”  Computer  Assisted Language Learning 37, no. 4: 720–765.
+Zhang,  S.,  Y.  Wang,  C.  Li,  and  A.  Derakhshan.  2025.  “Exploring the  Perceived  Attitudes,  Motivation,  and  Influencing  Factors  of Translanguaging  Among  Teachers  of  Chinese  as  an  Additional Language  From  an  Activity  Theory  Lens.”  International  Journal  of Applied Linguistics. https://doi.org/10.1111/ijal.12790.
+Zhao, C., and F. Huang. 2024. “Understanding Chinese Master Students' Research Literacy: The Roles of Autonomous Motivation and Controlled Motivation.” Learning and Motivation 86: 1–8.
+Zhi, R., and A. Derakhshan. 2024. “Modelling the Interplay Between Resilience, Emotion Regulation and Psychological Well-Being Among Chinese  English  Language  Teachers:  The  Mediating  Role  of  Self- Efficacy Beliefs.” European Journal of Education 59: e12643. https://doi. org/10.1111/ejed.12643.
+Zimmerman,  B.  J.  1990.  “Self-Regulated  Learning  and  Academic Achievement: An Overview.” Educational Psychologist 25, no. 1: 3–17.
+Zimmerman,  B.  J.  2002.  “Becoming  a  Self-Regulated  Learner:  An Overview.” Theory Into Practice 41, no. 2: 64–70.
+Zimmerman, B. J., and D. H. Schunk, eds. 2001. Self- Regulated Learning and Academic Achievement: Theoretical Perspectives. 2nd ed. Lawrence Erlbaum Associates Publishers.
+11 of 11

@@ -1,0 +1,574 @@
+﻿Studies in Educational Evaluation 90 (2026) 101639 
+Contents lists available at ScienceDirect 
+Studies  in Educational Evaluation 
+journal homepage: www.elsevier.com/locate/stueduc 
+Longitudinal associations between generative AI feedback perception and academic achievement: A comparative analysis of evaluative and instructional feedback
+Yang Xin a , Hu Weina b, Deng Shusheng c, Deng Yan a,d,*, Lu Liuheng e
+a Guangxi Medical University, Nanning 530021, China
+b Guangxi University of Finance and Economics, Nanning 530007, China
+c Guangxi Vocational and Technical College, Nanning 530226, China
+d Youjiang Medical University For Nationalities, Baise 533000, China
+e Guangxi Orthopedic Hospital, Nanning 530012, China
+
+A R T I C L E I N F O
+Keywords:
+Generative AI feedback Evaluative feedback Instructional feedback Academic achievement Emotional intelligence Longitudinal study
+A B S T R A C T
+Generative AI feedback (evaluative and instructional information produced by large language models in response to student submissions) has become increasingly common in higher education, yet longitudinal evidence on how students’ perceptions of such feedback are associated with academic outcomes remains limited. This three-wave study examined the differential and interactive associations of evaluative and instructional generative AI feed- back  perception  with  academic  achievement  among  6030  Chinese  first-year  undergraduates, assessed at  three time points across consecutive semesters. Cross-lagged panel models showed that evaluative feedback perception was  positively  associated  with  subsequent  achievement  (β =.31  and  β =.28,  p < .001),  whereas  instructional feedback  perception  showed  non-significant direct  associations.  Random  intercept  cross-lagged  panel  models confirmed these  within-person patterns. The evaluative feedback–achievement  association was  partially statis - tically mediated by perceived social support (39.4% of total association), while instructional feedback was fully mediated through this pathway (68.3%). Emotional intelligence moderated these associations in a compensatory pattern,  with  stronger  associations  among  students  with  lower  emotional  intelligence.  The  evaluative 
+× instructional feedback  interaction was  positively  associated  with  achievement at  the  second  time  point  (β =.150,  p  = .018),  with  instructional  feedback  showing  significant  associations  only  under  high  evaluative feedback  conditions.  This  interaction  varied  across  disciplines.  These  findings  extend  feedback  theory  to generative AI contexts and offer preliminary recommendations for integrated AI feedback design.
+
+1. Introduction
+Feedback is a central component in educational processes that shapes learning outcomes  (Wisniewski et al., 2020;  Bassleer et al.,2025). The rapid expansion of generative artificial intelligence in higher education 
+has introduced a new form of feedback: generative AI feedback. Unlike traditional automated feedback systems that select responses from pre- determined templates or apply rule-based scoring rubrics, generative AI feedback refers to evaluative and instructional information produced by 
+large  language  models  (LLMs) in  response  to  individual  student  sub- missions.  These  systems  generate  contextually  adaptive  natural  lan- guage responses that vary in content, structure, and emphasis based on 
+each  student’s specific  input  (Kasneci  et  al.,  2023).  This  capacity  for individualized, language-based feedback delivery distinguishes genera -
+tive  AI feedback  from  both  conventional human  feedback  and  earlier forms of computer-assisted feedback (Bittencourt et al., 2024).
+Within  educational  contexts,  feedback  is  typically  classified  as evaluative or instructional, with each type theorized to engage different cognitive  processes  (Narciss  et  al.,  2014).  Evaluative  feedback  (EF) provides  judgments  about  performance  quality,  such  as  grades,  error identifications,  or  rankings.  It  primarily  directs  attention  toward  dis- crepancies  between  current  and  desired  performance.  Instructional feedback  (IF) offers  process-oriented guidance—explaining  underlying principles  or  suggesting  strategic  approaches—without  explicit 
+
+* Corresponding author at: Guangxi Medical University, Nanning 530021, China.
+E-mail  addresses:  1246946636@qq.com (Y.  Xin),  122100491@qq.com (H.  Weina),  147840554@qq.com (D.  Shusheng),  641578915@qq.com (D.  Yan), luliuheng809@163.com (L. Liuheng). 
+https://doi.org/10.1016/j.stueduc.2026.101639
+Received 19 November 2025; Received in revised form 20 March 2026; Accepted 19 June 2026  
+Available online 24 June 2026 
+0191-491X/© 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies. 
+
+Y. Xin et al.                                                                                                                                                                                                                                      Studies in Educational Evaluation 90 (2026) 101639 
+performance judgment.  This  type  is theorized  to  promote  deeper  con- ceptual  understanding through  the  integration of strategic  knowledge with existing schemas (van der Kleij et al., 2015). Neuroscience research suggests that these feedback types may engage different cognitive pro- cessing patterns when delivered through AI interfaces (Gkintoni et al., 2025).  However,  how  evaluative  and  instructional  feedback  function when delivered through generative AI systems—particularly regarding 
+their  temporal  patterns,  associational  pathways,  and  potential interactions—remains insufficiently examined.
+Recent  research  has  begun  to  examine  AI-generated  feedback  in higher education, with findings indicating that AI feedback can match or approach  human  feedback  quality  in specific  domains  such  as writing assessment and statistical learning (Bauer et al., 2025; Yin & Dou, 2025; 
+Shi & Aryadoust, 2024). However, this body of work has largely over- looked  two  important  dimensions.  First,  most  studies  employ cross-sectional or short-term designs that capture immediate responses without  tracking  how  associations  between  feedback  perception  and achievement develop  over  successive  academic  terms  (Ouyang  et  al., 2022).  Theoretical  models  suggest  that  evaluative  and  instructional feedback  may  display  different  temporal  patterns,  with  evaluative feedback  potentially  showing  more  immediate  associations  and instructional feedback requiring longer integration periods. Second, the associational pathways connecting AI feedback perception to academic outcomes  remain  underspecified. Feedback  does  not  operate  in  isola- tion;  it  is  received,  interpreted,  and  acted  upon  within  social  and emotional contexts (Winstone et al., 2017). How students’  perceptions 
+of  social  support  and  their  emotional  intelligence  shape  the  feed- back–achievement link in AI-mediated settings has not been systemati -
+cally  studied  (Er  et  al.,  2025).  Furthermore,  potential  interactions between evaluative and instructional feedback types—which commonly co-occur when students use generative AI—have not been investigated. Emerging perspectives on the reciprocal relationship between artificial and human intelligence in education (Ifenthaler & Schumacher, 2023) underscore the need to understand these feedback processes within their social-cognitive  context.  From  the  learner’s  perspective,  feedback  is only effective if actively received and implemented (Mandouit & Hattie, 2023), making perception-based inquiry a necessary starting point.
+This  study  addresses  three  research  questions.  First,  how  do  longi- tudinal  associations  between  generative  AI feedback  types  (evaluative vs. instructional) and academic achievement differ across time? Second, 
+how do perceived social support and emotional intelligence function as statistical  mediators  or  moderators  in  these  associations?  Third,  do evaluative and instructional feedback show interactive associations with achievement?
+2. Theoretical foundation
+2.1. Feedback intervention theory in generative AI contexts
+Educational  feedback  mechanisms  have  traditionally been  concep - tualized through Feedback Intervention Theory (FIT), which posits that feedback redirects attention to different levels of a hierarchical cognitive system,  thereby  regulating  the  gap  between  current  and  desired  per-
+formance  (Kluger  &  DeNisi，1996;  Schrader  &  Grassinger，2021). Generative AI fundamentally transforms traditional feedback paradigms 
+through attentional reconfiguration, psychological distance modulation, and cognitive processing divergence. The computational architecture of large  language  models  enables  algorithmic  differentiation  between evaluative  and  instructional  elements  with  unprecedented  clarity, potentially  enhancing  the  categorical  precision  that  FIT identifies  as critical for attentional direction (Schrader & Grassinger, 2021).
+When  applied  to  generative  AI feedback,  this  framework  suggests that  AI-delivered  feedback  may  produce  different  attentional patterns compared  to  human-delivered  feedback.  The  reduced  interpersonal threat associated with AI-generated feedback may differentially benefit evaluative  feedback,  which  contains  explicit  performance  judgments 
+that  could  otherwise  trigger  defensive  responses  (Lipnevich  & Smith, 2018). Drawing  on  FIT’s hierarchical framework,  evaluative  feedback primarily targets meta-task processes (outcome evaluation) that can be rapidly integrated, while instructional feedback addresses task-learning processes that require extended integration (Hattie & Timperley, 2007). 
+These  differential  processing  requirements provide  a  theoretical basis for expecting distinct temporal association patterns.
+2.2. Social-cognitive pathways and emotional intelligence
+The  translation  of  feedback  perception  into  academic  outcomes operates through complex social-cognitive pathways that extend beyond simple  information  transmission.  Social  Cognitive  Theory  (Bandura, 2023) positions feedback within triadic reciprocal determinism, where personal  factors,  behavioral  patterns,  and  environmental  factors continuously  interact.  Within  this  framework,  we  propose  that perceived  social  support  functions  as  a  statistical  mediating  variable connecting AI feedback perception to academic achievement. The pro-
+posed theoretical chain is: generative AI feedback helps students identify performance  gaps,  which  activates  help-seeking  behavior—a self-regulated  learning  strategy  (Karabenick  & Berger,  2013;  Vilkova & Shcheglova,  2021;  Jiang  & Yu, 2025).  This  recognition  of learning needs  prompts  students  to  seek  assistance  from  peers  and  instructors, thereby  enhancing  their  perception  of  available  social  support.  This theoretical  link  is  relevant  in  the  present  context  because  students voluntarily sought feedback from the AI system—a behavior that reflects a help-seeking orientation conceptually linked to broader social support utilization  (Vilkova  &  Shcheglova,  2021;  Jiang  &  Yu,  2025).  The perceived social support then facilitates the translation of feedback in- formation  into  academic  improvement through  resource  mobilization and collaborative learning. Parental and peer support have been shown to  amplify  the  association  between  growth-oriented  beliefs  and  aca- demic  persistence  across  diverse  cultural  contexts  (Lee  &  Mendoza, 2025),  further  supporting  the  role  of  social  support  as  a  connecting variable in feedback–achievement associations.
+For instructional feedback specifically, we propose that the strategic 
+guidance  provided  by  AI requires  collaborative validation  and  imple - mentation with peers. Students who receive process-oriented guidance 
+may  be  more  likely  to  discuss  and  practice  suggested  strategies  with study  partners,  strengthening  their  perception  of  social  support (Winstone et al., 2017). This social scaffolding pathway is expected to be 
+the  primary  route  through  which  instructional feedback  is associated with  achievement.  In  contrast,  evaluative  feedback  is  expected  to operate through both direct and socially mediated pathways.
+Emotional  intelligence—the  capacity  to  perceive,  understand, manage, and utilize emotional information (Mayer et al., 2016)—may moderate  these  associations  by  shaping  how  students  process feedback-related  affective  responses.  Students  with  lower  emotional intelligence  may  have  greater  difficulty  managing  affective  reactions triggered by performance evaluation, making external feedback a more important resource for activating support networks. This compensatory pattern  would  manifest  as  stronger  feedback-to-support  associations among  students  with  lower  emotional  intelligence  (MacCann  et  al., 2020).
+2.3. Research framework and hypotheses
+This  investigation  employs  an  integrated  theoretical  model  that systematically  connects  generative  AI  feedback  perception,  social- cognitive mediators, emotional intelligence moderators, and academic achievement outcomes  within  a longitudinal framework.  The  model’s conceptual  architecture  synthesizes  feedback  intervention  theory (Brand et al.,2020; Panadero, 2023), social cognitive theory (Bandura, 2023),  and  dynamic  systems  approaches  to  developmental  processes (Selig  & Little,  2012)  to  explicate  the  complex  temporal  interactions between  feedback  types  and  academic  performance(Fig.  1).  we 
+
+2 
+Y. Xin et al.                                                                                                                                                                                                                                      Studies in Educational Evaluation 90 (2026) 101639 
+
+Fig. 1. Theoretical Research Framework and Hypothesized Associations.
+
+3 
+Y. Xin et al.                                                                                                                                                                                                                                      Studies in Educational Evaluation 90 (2026) 101639 
+formulate  four  sets  of  hypotheses  addressing  temporal  dynamics, mediational patterns,  moderational conditions,  and  interaction associ- ations of AI-generated feedback types.
+Regarding temporal dynamics, we hypothesize differential patterns between  feedback  types  across  measurement intervals.  Based  on  feed- back  intervention  theory  (Brand  et  al.,2020;  Panadero,  2023)  and empirical  evidence  regarding  the  differential  processing  of evaluative versus instructional feedback (van der Kleij et al., 2015), we propose: 
+(1) Temporal  dynamics  hypotheses:H1a  : Evaluative  feedback  will show  stronger  immediate  cross-lagged  associations  with achievement than instructional feedback.H1b : The cross-lagged association  of evaluative  feedback  with  achievement will  show gradual  attenuation from  T1→T2 to  T2→T3.H1c  : Instructional feedback  will  show  non-significant  direct  cross-lagged  associa - tions with achievement.
+These hypotheses align with dual-process theories of informa -
+tion processing (Evans & Stanovich, 2013), suggesting evaluative feedback activates more immediate attentional and motivational mechanisms, while instructional feedback requires more complex cognitive  integration that  may  not  directly  translate  to  perfor - mance  improvements without  mediational support.  Concerning mediational  patterns,  we  propose  differential  pathways  for feedback types based on social cognitive theory (Bandura, 2023) and  empirical  evidence  regarding  the  role  of  social  support  in educational contexts (Lee & Mendoza, 2025):
+(2) Mediational hypotheses:H2a Social support will partially mediate 
+the  evaluative  feedback–achievement  association.H2b  Social support  will  fully  mediate  the  instructional  feedback–achieve - ment association.H2c The indirect association via social support 
+will be stronger for evaluative than instructional feedback.
+These  hypotheses  recognize  the  critical  role  of  social  scaf- folding  in  translating  feedback  perception  into  performance improvement,  particularly  for  instructional  feedback  that  re- quires  complex  implementation  strategies  (Winstone  et  al., 2017).Regarding emotional intelligence moderation, we predict compensatory  patterns  based  on  emotional  intelligence  theory (Mayer  et  al.,  2016)  and  the  emotional  scaffolding  hypothesis (Zhu & Lin, 2024):
+(3) Moderation  hypotheses:H3a  Emotional  intelligence  will  nega- tively  moderate the evaluative feedback–social support associa - tion.H3b  Emotional  intelligence  will  negatively  moderate  the instructional  feedback–social  support  association.H3c  The moderation will be stronger for evaluative feedback.
+These  hypotheses  suggest  that  emotional  intelligence  may function  as  a  compensatory  resource,  with  external  feedback providing greater benefit to students who lack internal emotional regulatory  capabilities  (MacCann  et  al.,  2020).Finally,  we  hy- pothesize  synergistic  interaction associations  between  feedback types based on cognitive scaffolding theory (Winkler et al.,2021) and  integrated  models  of  feedback  processing  (Mandouit  & Hattie, 2023):
+(4) Interaction hypotheses:
+H4a. Evaluative  and  instructional  feedback  will  show  a  positive interaction associated with achievement.
+H4b. Instructional  feedback  will  be  significantly  associated  with achievement only under conditions of high evaluative feedback.
+H4c. The interaction will vary across disciplinary domains.
+3. Methods
+3.1. Research design
+This  study  used  a  longitudinal,  three-wave  panel  design.  Data collection  occurred  at  January  2025  (T1),  May  2025  (T2),  and September  2025  (T3),  corresponding  to  the  conclusion  of  three consecutive  academic  terms.  The  intervals  between  assessments (approximately four months for T1→T2 and three months for T2→T3) 
+were selected to align with the natural cycle of academic performance assessment  in  the  Chinese  higher  education  system.  These  intervals, shorter  than  typical  semester-based  designs,  may  capture  feedback integration processes  with  greater  temporal  resolution  (Selig  & Little, 2012).
+3.2. Generative AI feedback system and instructional context
+The  generative  AI feedback  system  used  in  this  study  was  institu - tionally  deployed  across  all  ten  participating universities. It was  built upon  the  DeepSeek  large  language  model  architecture and  integrated into  each  university’s  learning  management  platform,  providing  a standardized feedback interface accessible to all enrolled students.
+Students interacted with the system through a structured submission 
+interface. The workflow proceeded as follows: (1) students voluntarily 
+submitted  academic  content—including  completed  assignments, learning questions, or examination preparation materials—through the 
+platform;  (2)  the  system  generated  feedback  comprising  four  compo - nents:  textual  evaluation of submission  quality,  specific  improvement suggestions,  performance-level  judgments  aligned  with  course  assess- ment criteria, and strategic learning guidance; (3) feedback was deliv-
+ered  asynchronously,  typically  within  minutes.  The  system  operated with  complete  autonomy—no  instructor  review,  modification,  or approval was involved at any stage.
+The  identical  system  architecture  was  deployed  across  all  partici - pating universities and disciplinary domains, ensuring consistency in the feedback  generation  process.  While  the  system  adapted  feedback  con- tent  to  discipline-specific  terminology,  the  underlying  model,  algo- rithms, and interaction protocols remained uniform.
+This system differs from traditional rule-based automated feedback in that it: (a) generates contextually adaptive natural language responses rather than selecting from predetermined templates; (b) produces indi- vidualized  feedback  varying  in  content  and  emphasis  based  on  each student’s  submission;  and  (c)  integrates  evaluative  judgments  and instructional guidance  within  a  single  coherent  response.  These  char - acteristics  distinguish  it  from  conventional  automated  grading  tools (Bauer et al., 2025).
+3.3. Participants and sampling
+The study employed cluster sampling from ten comprehensive uni- versities  across geographically diverse  regions in China. First-year un- dergraduate students  (2024  cohort)  constituted the  target  population, with  sampling  stratified  across  four  disciplinary  domains:  engineering (40%),  humanities (30%),  sciences  (20%),  and  business/management (10%).  These  proportions were  based  on  the  actual  enrollment distri - bution at the participating institutions, consistent with the disciplinary structure reported in the China Statistical Yearbook of Education.
+Participants  were  recruited  through  classroom-based  distribution during  regular  class  hours.  Research  team  members  visited  selected courses,  distributed  survey  materials  to  all  attending  students,  and provided  standardized  instructions  regarding  voluntary  participation and  confidentiality. This  approach  ensured  near-complete coverage  of enrolled  students  within  selected  courses,  reducing  self-selection  bias. Of  6820  students  present  during  T1  sessions,  6500  completed  the assessment  (initial  response  rate:  95.3%).  The  sample  had  balanced gender  distribution (47%  male,  53%  female)  with  mean  age  of 18.37 years (SD = 1.69).
+Longitudinal retention resulted in 6030 students (92.8%) completing all  three  waves.  Independent  samples  t-tests  and  chi-square  analyses confirmed non-significant differences between completers and dropouts 
+on  gender,  feedback  perception,  and  academic  achievement  (all p > .05). Little’s MCAR test was non-significant (χ² = 142.38, df = 131, 
+p = .231), supporting classification of missing data as MCAR.
+3.4. Measures
+3.4.1. Generative AI feedback perception scale
+This  scale  was  developed  following  systematic  psychometric  pro- cedures  (DeVellis & Thorpe,  2021). An initial pool  of 24 items  under - went  expert  review  by  ten  specialists  (five  in  educational technology, five  in  educational  psychology).  Items  with  Content  Validity  Index below.80 were eliminated, yielding 14 items. Cognitive interviews with 
+12 students led to further refinements. Exploratory factor analysis with a pilot  sample  (n = 412)  using  principal  axis  factoring  with  oblique 
+rotation  yielded  a two-factor  solution  explaining  76.34%  of variance. Items  with  loadings  below.60  or  cross-loadings  above.30  were  elimi- nated,  resulting  in  six  items:  three  assessing  evaluative  feedback perception and three assessing instructional feedback perception, on a five-point  Likert  scale.  All items  were  explicitly  anchored  to  the  insti- tutionally  deployed  AI system  (e.g.,  “When  the  AI feedback  system evaluates  my  work…”).  Complete  item  texts  are  provided  in Supplementary  Materials  S1.  Reliability  was  excellent:  Cronbach’s  α 
+= .918  overall,.861  for  evaluative,.921  for  instructional  feedback. Confirmatory factor  analysis  confirmed  configural,  metric,  and  scalar 
+invariance  across  all  three  waves  (all  ΔCFI  ≤.01;  Supplementary 
+Materials S1).
+Academic  achievement  was  operationalized  using  standardized term-end  /  midterm  examination scores,  converted  to  z-scores  within each  course.  This  objective  measurement eliminates  common  method variance  for  the  feedback  perception–achievement association,  as  the predictor  (self-report)  and  outcome  (institutional  scores)  derive  from different measurement methods.
+Perceived social support was assessed using the Multidimensional 
+Scale  of  Perceived  Social  Support  (Zimet  et  al.,  1988),  adapted  for Chinese  contexts  by  Chou  (2000).  Cronbach’s  α  = .892–.912  across 
+waves.
+Emotional  intelligence was  assessed  using  the  Schutte  Emotional Intelligence  Scale  (Schutte  et  al.,  1998),  validated  for  Chinese  pop- ulations by Shi & Wang (2007). Cronbach’s α = .893–.901 across waves.
+3.5. Analytical strategy
+All analyses used Mplus 8.6 (Muth´en & Muth´en, 2017) with robust maximum likelihood estimation (MLR). For the first research question, we  constructed cross-lagged  panel  models  (CLPM) separately  for  each feedback type, supplemented by Random Intercept Cross-Lagged Panel Models  (RI-CLPM) to  separate  within-person from  between-person as- sociations  (Hamaker  et  al.,  2015).  For  the  second  question,  we  used latent  variable  structural  equation  modeling  with  longitudinal media - tion and moderation specifications. For the third, we used latent inter - action modeling with feedback type product terms.
+We  controlled  for  socioeconomic  status  and  academic  discipline throughout.  Missing  data  were  handled  through  full  information maximum  likelihood  (FIML).  The  nested  structure  (students  within universities)  was  addressed  through  TYPE=COMPLEX with  cluster- 
+robust standard errors.
+We  acknowledge  that  while  the  three-wave  longitudinal  design strengthens directional inference relative to cross-sectional designs, and RI-CLPM isolates within-person dynamics, the non-experimental nature of  this  research  does  not  support  definitive  causal  claims.  Regarding statistical  power,  with  N = 6030,  the  study  has  over  90%  power  to detect small associations (f² ≥.01). This large sample ensures detection of meaningful associations but also means very small associations may reach  significance.  We report  and  interpret effect  sizes  alongside  sig-
+nificance tests, using education-specific benchmarks (Kraft, 2020).
+4. Results
+4.1. Preliminary analyses
+Prior  to  hypothesis  testing,  we  conducted  comprehensive  pre- liminary  analyses  to  establish  measurement  quality,  assess  potential methodological artifacts, and examine data properties. Table 1 presents descriptive  statistics  and  zero-order  correlations  for  all  primary  vari- ables across the three measurement waves. Evaluative feedback (EF) and instructional  feedback  (IF)  demonstrated  moderate  to  strong  positive correlations at  each  time  point  (r  ranging  from.58  to.75,  all  p < .01), supporting  their  conceptual  distinction  while  acknowledging  their interrelationship. Both feedback types exhibited significant positive as- sociations with academic achievement across all measurement intervals, 
+with correlation coefficients ranging from.23 to.58 for evaluative feed- back  and.23–.63  for  instructional feedback  (all  p < .01).  The  stability coefficients (autoregressive correlations) for all constructs across adja-
+cent  time  points  remained  moderately high  (.62–.73),  indicating  sub- stantial  rank-order  consistency  while  allowing  sufficient  variance  for developmental  change  (complete  correlation  matrices  available  in Supplementary Materials S2).
+Measurement  reliability  was  systematically  evaluated  through 
+
+4 
+Y. Xin et al.                                                                                                                                                                                                                                      Studies in Educational Evaluation 90 (2026) 101639 
+Table 1 
+Descriptive Statistics and Correlations Among Key Variables in Generative AI Feedback Study.
+M SD 1 2 3 4 5 6 7 8 9 10 11
+
+ 
+Y. Xin et al.                                                                                                                                                                                                                                      Studies in Educational Evaluation 90 (2026) 101639 
+1. T1 Evaluative Feedback (EF)
+2. T1 Instructional Feedback (IF)
+3. T1 Academic Achievement (AA)
+4. T2 Evaluative Feedback (EF)
+5. T2 Instructional Feedback (IF)
+6. T2 Academic Achievement (AA)
+7. T3 Evaluative Feedback (EF)
+8. T3 Instructional Feedback (IF)
+9. T3 Academic Achievement (AA)
+10. T1 Emotional Intelligence (EI)
+11. T2 Social Support (SS)
+1.625 0.501 —
+1.054 0.338 .750**
+2.551 0.497 .298**
+1.432 0.328 .621**
+1.376 0.289 .550**
+2.771 0.532 .382**
+1.512 0.497 .379**
+1.389 0.334 .339**
+2.641 0.621 .581**
+3.792 0.49 .196**
+3.589 0.761 .397**
+—
+.231** —
+.561** .712** —
+.637** .695** .734** —
+.387** .379** .370** .356** —
+.396** .382** .383** .368** .734** —
+.367** .396** .381** .392** .561** .579** —
+.542** .571** .562** .632** .479** .481** .459** —
+.188** .538** .295** .266** .372** .293** .274** .493** —
+.263** .372** .386** .349** .410** .381** .319** .446** .486** —
+
+5 
+Y. Xin et al.                                                                                                                                                                                                                                      Studies in Educational Evaluation 90 (2026) 101639 
+Note. N = 6030. T1 = January 2025; T2 = May 2025; T3 = September 2025. EF = Evaluative Feedback; IF = Instructional Feedback; AA = Academic Achievement; EI 
+= Emotional Intelligence; SS = Social Support.
+Reliability  was  excellent  (α =.83–.94;  composite  reliability  =.86–.92).  Measurement  invariance  was  supported  across  all  waves  (all  ΔCFI ≤.01;  Supplementary Materials S1).
+** p < .01.
+
+ 
+Y. Xin et al.                                                                                                                                                                                                                                      Studies in Educational Evaluation 90 (2026) 101639 
+multiple  complementary  approaches.  Internal  consistency  analyses indicated  excellent  reliability  across  all  scales  at  each  measurement point,  with Cronbach's alpha coefficients ranging from.83 to.94. Com- posite  reliability  indices  derived  from  confirmatory  factor  analyses provided  additional  support  for  measurement  precision,  with  values consistently  exceeding  the  recommended  threshold  of.70 (range:.86–.92),  thus  indicating  robust  construct  operationalization (Hair  et  al.,  2019).  Temporal  measurement invariance was  evaluated through  a  hierarchical  sequence  of  increasingly  constrained  models following  established guidelines  (Putnick  & Bornstein,  2016).  Results supported configural invariance (equal factor structure), metric invari -
+ance  (equal  factor  loadings),  and  scalar  invariance  (equal  intercepts) across all three measurement occasions (ΔCFI ≤.01 for all comparisons), 
+confirming  that  observed  temporal  changes  reflect  true  construct  dy- namics rather than measurement artifacts.
+To address potential common method bias resulting from self-report measurement, we implemented a five-pronged strategy. First, Harman's single-factor  test revealed  that  a single  common  factor explained  only 18.75%,  19.65%,  and  24.58%  of  total  variance  at  T1,  T2,  and  T3 respectively—all substantially below the critical threshold of 40% that would indicate problematic common method variance (Podsakoff et al., 2024). Second, we employed the marker variable approach (Lindell & Whitney,  2001),  utilizing  a  theoretically  unrelated  single-item  mea- sure  of  campus  infrastructure  satisfaction  as  the  marker  variable. Correlational  analyses  indicated  non-significant  associations  between this  marker  and  core  study  variables  (r = -.04–.11,  all  p > .05), providing  further  evidence  against  substantial  method  associations. Third,  unmeasured  latent  method  factor  (ULMF)  analysis  showed negligible changes to structural paths after inclusion (average Δβ =.003, maximum  Δβ  =.008;  Podsakoff  et  al.,  2024).  Fourth,  academic achievement  was  objectively  measured.  Fifth,  key  variables  were 
+temporally  separated  (EI at  T1; SS at  T2; AA at  T1–T3).  Discriminant 
+validity  evidence  further  supports  that  social  support  is distinct  from other  psychosocial  constructs:  its  correlations  with  academic self-efficacy  (r = .21–.23)  were  substantially  lower  than  associations with focal variables, and it showed non-significant correlations with test anxiety (r = .09).
+4.2. Temporal dynamics between feedback types and academic achievement
+Cross-lagged panel analyses for evaluative feedback (Fig. 2) revealed 
+a  systematic  pattern  of  bidirectional  relationships  with  academic achievement  across  both  time  intervals.  Specifically,  evaluative  feed- back at T1 significantly predicted academic achievement at T2 (β =.31, 
+p < .001,  95%  CI [.25,.37]), controlling  for  stability  associations  and within-time covariances. This predictive relationship, while remaining significant, showed modest attenuation in the subsequent interval, with 
+T2 evaluative  feedback  predicting  T3 achievement at  a slightly  lower magnitude (β =.28, p < .001, 95% CI [.21,.35]). Reciprocal associations 
+were also observed, with academic achievement significantly predicting subsequent evaluative feedback perceptions, though at somewhat lower magnitudes  (T1→T2:  β =.24,  p < .001,  95%  CI [.17,.31];  T2→T3:  β =.22,  p < .001,  95%  CI [.15,.29]).  The  overall  model  demonstrated excellent  fit  to  the  observed  data  (χ²/df  = 3.06,  CFI =.97,  TLI =.96, RMSEA =.052).
+The  parallel  analysis  for  instructional feedback  (Fig. 3) revealed  a markedly  different  temporal  pattern.  Notably,  instructional  feedback demonstrated  non-significant  prospective  associations  on  academic achievement across both time intervals (T1→T2: β =.08, p = .214, 95% 
+CI [-.05,.21]; T2→T3: β =.05, p = .372, 95% CI [-.06,.16]). In contrast, academic  achievement consistently  predicted  subsequent  instructional 
+feedback  perceptions  with  moderate  effect  sizes  (T1→T2:  β  =.23, p < .001, 95% CI [.16,.30]; T2→T3: β =.21, p < .001, 95% CI [.14,.28]). 
+
+ 
+Y. Xin et al.                                                                                                                                                                                                                                      Studies in Educational Evaluation 90 (2026) 101639 
+
+Fig. 2. Cross-lagged panel model of evaluative feedback and academic achievement.
+
+Fig. 3. Cross-lagged panel model of instructional feedback and academic achievement.
+The  model  fit  indicators  supported  adequate  representation  of  the 
+observed  data  structure  (χ²/df  = 2.19,  CFI =.99,  TLI =.97,  RMSEA  Table 2 
+=.050). Longitudinal  mediation  analysis  and  conditional  associations  of generative  AI 
+feedback on academic achievement.
+To formally test the differential temporal patterns between feedback 
+types,  we  conducted  cross-model  equality  constraints  analyses.  Com- Pathway β 95% CI SE t p f² parison of nested models with and without equality constraints on the  Direct 
+feedback-to-achievement paths revealed significant differences between  Associations 
+evaluative and instructional feedback (T1→T2: Δχ² = 18.35, Δdf = 1,  (T1→T3)
+EF → AA .119 [.056,.182] 0.032 3.720 0.002 0.089
+p < .001; T2→T3: Δχ² = 9.42, Δdf = 1, p < .001). This systematic dif- IF → AA 0.032 [-.031,.095] 0.032 1.000 0.314 0.007 ference confirms that the two feedback types exhibit distinct temporal  SS → AA .240 [.178,.302] 0.031 7.740 < .001 0.149 relationships  with  academic  outcomes,  with  evaluative  feedback  Indirect 
+demonstrating  consistent  positive  associations  and  instructional  feed- Associations via 
+Social Support
+back showing minimal direct associations across time intervals. EF → SS → AA .063 [.022,.105] 0.021 3.000 0.028 0.060
+Examining the standardized effect sizes provides further insight into  IF → SS → AA .041 [.011,.082] 0.018 2.280 0.037 0.035 the  practical  significance  of  these  temporal  dynamics.  The  effect  Moderation 
+magnitude for evaluative feedback on academic achievement (average β  Associations (EI 
+=.295) corresponds to a Cohen's d of approximately 0.62, representing a  × Feedback)
+EI × EF → SS .109 [.051,.167] 0.030 3.640 0.003 0.086 medium to large effect according to conventional criteria (Cohen, 1992).  EI × IF → SS .089 [.012,.166] 0.039 2.280 0.039 0.042
+Converting  this  to  educational  metrics  suggests  that  a  one  standard  Conditional 
+deviation increase in evaluative feedback perception is associated with  Associations of 
+approximately  0.3  standard  deviations  improvement  in  academic  EF on SS
+achievement—a  magnitude  comparable  to  effective  educational  in- Low Mean EI EI(  1 SD) .282.173 [.210,.354][.119,.227] 0.0370.028 7.6206.180 << .001.001 0.1540.103 terventions (Kraft, 2020). The temporal attenuation pattern of evalua- High EI (+1 SD) 0.09 [-.010,.190] 0.051 1.760 0.354 0.031
+tive  feedback  associations  (approximately  9.7%  reduction  between  Conditional 
+T1→T2  and  T2→T3  intervals)  aligns  with  theoretical  expectations  of  Associations of 
+feedback internalization processes, wherein external feedback associa- IF on SS
+Low EI (  1 SD) .191 [.112,.270] 0.040 4.780 0.026 0.091 tions  gradually  diminish  as  performance  information  becomes  inte- Mean EI .124 [.064,.184] 0.031 4.000 0.033 0.062
+grated into self-regulatory mechanisms (Panadero, 2023). High EI (+1 SD) 0.063 [-.034,.160] 0.049 1.290 0.424 0.021
+To examine the robustness of these temporal patterns, we conducted  Interaction 
+supplementary  analyses  using  Random  Intercept  Cross-Lagged  Panel  Associations 
+Models (RI-CLPM), which separate within-person from between-person  EF (T1× →IF T2)→ AA .150 [.042,.258] 0.055 2.730 0.018 0.073 associations (Hamaker et al., 2015). The RI-CLPM results corroborated  Simple Slopes of IF 
+the standard CLPM findings, with significant within-person associations  on AA
+of evaluative  feedback on subsequent achievement (T1→T2: βw =.25,  High EF (+1 SD) .220 [.126,.314] 0.048 4.580 0.001 0.112
+p < .001; T2→T3: βw =.22, p < .001) and non-significant associations  Mean EF .160 [.085,.235] 0.038 4.210 0.035 0.083
+Low EF (  1 SD) 0.05 [-.061,.161] 0.056 0.890 0.412 0.013 of instructional feedback (T1→T2: βw =.07, p = .318; T2→T3: βw =.04,  Johnson-Neyman 
+p = .457),  supporting the  robustness  of our  findings  across  analytical  Significance 
+approaches. Threshold
+EF =   0.42 SD .110 [.001,.219] 0.055 2.000 0.050 0.050
+4.3. Mediational patterns Note.  N = 6030.  EF = Evaluative  Feedback;  IF = Instructional Feedback;  AA 
+= Academic Achievement; SS = Social Support; EI = Emotional Intelligence; CI 
+Mediation  analyses  revealed  distinct  patterns  for  evaluative  and  = Confidence  Interval;  SE = Standard  Error.  Standardized coefficients  are  re- ported. f² indicates effect size where values of.02,.15, and.35 represent small, 
+instructional feedback  (Table  2).  Evaluative  feedback  demonstrated a 
+medium, and large associations, respectively (Cohen, 1992).
+significant  partial  mediation  pattern,  with  both  direct  (β  =.119,  p < .05. p < .01.
+p = .002, 95% CI [.056,.182]) and indirect associations via social sup-
+port (β =.063, p = .028, 95% CI [.022,.105]) on academic achievement. 
+The  magnitude of this  indirect  effect  (f²  =.060)  represents  a small  to  achievement (b =.24, p < .001).
+In contrast,  instructional feedback  exhibited  a pattern  of complete medium effect size according to Cohen's (1992) criteria, accounting for 
+mediation,  with  non-significant  direct  associations  on  academic 39.4%  of  the  total  effect.  The  specific  path  coefficients  indicate  that 
+evaluative feedback significantly predicted increased social support (a₁  achievement (β =.032,  p = .314,  95%  CI [-.031,.095]) but  significant =.28,  p < .001),  which  subsequently  predicted  enhanced  academic  indirect associations through social support (β =.041, p = .037, 95% CI 
+
+7 
+Y. Xin et al.                                                                                                                                                                                                                                      Studies in Educational Evaluation 90 (2026) 101639 
+[.011,.082]). This indirect effect (f² =.035) represents a small effect size but accounts for 68.3% of the total effect, indicating that instructional feedback  influences  academic  outcomes  predominantly through  social support patterns. The specific path coefficients reveal that instructional 
+feedback  predicted  increased  social  support  (a₂ =.16,  p < .05),  which subsequently predicted academic achievement.
+The differential mediation patterns between feedback types suggest distinct  operational patterns.  Evaluative  feedback  appears  to  function through  dual  pathways:  (1)  a direct  effect  likely  reflecting  immediate motivational responses to performance evaluation; and (2) an indirect 
+effect  operating  through  enhanced  perceptions  of  social  support. Conversely, instructional feedback operates almost exclusively through 
+the social support pathway, suggesting that its effectiveness depends on students'  capacity  to  mobilize  supportive  resources  that  facilitate implementation of the strategic guidance provided.
+To enhance  statistical  inference  for  these  mediational patterns,  we employed bootstrap resampling procedures with 2000 iterations, which confirmed the significance of the indirect associations for both evalua -
+tive  feedback  (bootstrapped  95%  CI  [.018,.112])  and  instructional feedback  (bootstrapped  95%  CI [.007,.089]).  These  bootstrap  confi- dence  intervals,  which  do  not  contain  zero,  provide  robust  statistical support for the mediational hypotheses while accounting for potential non-normality  in  the  sampling  distribution  of  indirect  associations 
+(Hayes, 2017).
+4.4. Moderation associations of emotional intelligence
+Latent moderated structural equation modeling revealed significant interaction associations between emotional intelligence and both feed- back types in predicting social support (EI × EF: β =.109, p = .003, 95% 
+CI  [.051,.167];  EI  × IF:  β  =.089,  p = .039,  95%  CI  [.012,.166]). 
+Decomposition  of  these  interactions  through  simple  slopes  analyses indicated divergent patterns across emotional intelligence levels.
+As shown  in  Fig. 4: For  evaluative  feedback,  the  relationship with social  support  was  significantly  stronger  among  students  with  lower emotional intelligence (  1 SD: β =.282, p < .001, 95% CI [.210,.354]) compared to those with higher emotional intelligence (+1 SD: β =.090, 
+p = .354,  95%  CI  [-.010,.190]).  Similarly,  instructional  feedback demonstrated  stronger  associations  with  social  support  among  lower 
+emotional  intelligence  students  (  1  SD: β  =.191,  p = .026,  95%  CI [.112,.270])  compared  to  higher  emotional  intelligence  counterparts 
+(+1 SD: β =.063, p = .424, 95% CI [-.034,.160]). The Johnson-Neyman technique  identified  significant  transition  points  at  emotional  intelli -
+gence  values  of  z = 0.76  for  evaluative  feedback  and  z = 0.48  for instructional  feedback,  indicating  regions  where  these  relationships transitioned from significant to non-significant.
+These  moderation  associations  reveal  a  compensatory  pattern wherein generative AI feedback appears particularly beneficial for stu- dents  with  lower  emotional  intelligence—a  finding  with  substantial theoretical and practical implications. Students with higher  emotional intelligence  may  possess  superior  self-regulatory capabilities  for  navi- gating  academic  challenges  independently, reducing  their  reliance  on external feedback for activating supportive resources.  Conversely, stu- dents with lower emotional intelligence may benefit disproportionately from  structured  feedback  that  facilitates  recognition  of  performance discrepancies and mobilization of supportive resources.
+The magnitude of these moderation associations (f² =.086 for EI × EF; f² =.042 for EI × IF) suggests practically meaningful differences in feedback effectiveness across emotional intelligence levels. The stronger moderation for evaluative feedback aligns with theoretical expectations that evaluative feedback's potential to trigger defensive responses may be particularly influenced by emotional regulatory capabilities (French, 
+
+ 
+Y. Xin et al.                                                                                                                                                                                                                                      Studies in Educational Evaluation 90 (2026) 101639 
+
+Fig. 4. Compensatory Moderation Associations of Emotional Intelligence on Generative AI Feedback Relationships.
+
+8 
+Y. Xin et al.                                                                                                                                                                                                                                      Studies in Educational Evaluation 90 (2026) 101639 
+2020). Collectively, these findings support a nuanced understanding of feedback  effectiveness  as  contingent  upon  individual  emotional  re- sources rather than universally beneficial.
+Multi-group  structural  equation  modeling  further  revealed  signifi- cant  differences  in  the  mediation  pathways  across  emotional  intelli - gence  levels  (Δχ²  = 7.84,  Δdf  = 2,  p = .020),  with  the  indirect associations  of  both  feedback  types  on  academic  achievement  being significantly stronger among lower emotional intelligence students. This provides  additional  evidence  for  the  contextual  nature  of  feedback effectiveness  and  highlights  the  importance of considering  individual differences in the design and implementation of generative AI feedback 
+systems.
+4.5. Interaction associations between feedback types
+Latent  interaction  modeling  with  feedback  type  product  terms revealed  significant  interaction associations  on academic  achievement 
+at  specific  time  intervals.  The  evaluative  × instructional  feedback interaction  term  significantly  predicted  T2  academic  achievement  (β 
+=.150, p = .018, 95% CI [.042,.258]), explaining an additional 2.3% of variance  beyond  main  associations  (ΔR²  =.023).  The  effect  size  (f² =.073) represents a small to medium effect according to conventional 
+criteria. This interaction effect did not persist at the same magnitude for T3 achievement (β =.070, p = .256, 95% CI [-.049,.189]), suggesting a 
+time-sensitive pattern of synergistic associations(Table 3).
+Simple slopes analyses at different conditional values of evaluative 
+feedback  revealed  a  systematic  pattern  of  conditional  associations (Fig. 5). The relationship between instructional feedback and academic 
+achievement was  significant  and  positive  among  students  with  higher evaluative  feedback  (+1 SD: β =.220,  p = .001,  95%  CI [.126,.314]), 
+moderately significant at mean levels of evaluative feedback (Mean: β =.160, p = .035, 95% CI [.085,.235]), and non-significant among stu-
+dents with lower evaluative feedback (  1 SD: β =.050, p = .412, 95% CI [-.061,.161]).  The  Johnson-Neyman  technique  identified  the  precise region  of  significance,  indicating  that  instructional  feedback  signifi- cantly predicted academic achievement only when evaluative feedback 
+exceeded    0.42  standard  deviations  (β  =.110,  p = .050,  95%  CI 
+[.001,.219]).
+Further  analyses  explored  potential  moderators of this  interaction effect, revealing  systematic variation across  disciplinary domains.  The evaluative  × instructional feedback  interaction demonstrated stronger associations in engineering (β =.220, p = .008, f² =.120) and sciences (β =.190, p = .016, f² =.100) compared to humanities (β =.080, p = .187, 
+f²  =.030)  and  management fields  (β =.110,  p = .097,  f²  =.040).  This disciplinary  variation  may  reflect  differences  in  assessment  structures and learning paradigms, with technical fields typically featuring more clearly  defined  performance criteria  that  facilitate  integration of eval- uative and instructional feedback components.
+Individual  difference  factors  also  moderated the  interaction effect, with prior achievement emerging as a particularly important boundary condition. The feedback interaction demonstrated stronger associations for students with higher prior achievement (β =.250, p = .002, f² =.130) compared to those with lower prior achievement (β =   .160, p = .019, f²  =.080).  This  pattern  indicates  that  academically  stronger  students may  possess  superior  metacognitive  capabilities  for  synthesizing different feedback components, while academically struggling students 
+
+ 
+Y. Xin et al.                                                                                                                                                                                                                                      Studies in Educational Evaluation 90 (2026) 101639 
+Table 3 
+Standardized associations of feedback interactions and contextual moderators on academic achievement.
+Interaction/Moderation Pathway β Coefficient 95% CI t-value p-value Effect Size f² Variance Explained (ΔR²)
+
+ 
+Y. Xin et al.                                                                                                                                                                                                                                      Studies in Educational Evaluation 90 (2026) 101639 
+Feedback Type Interactions
+EF × IF → T2 Academic Achievement EF × IF → T3 Academic Achievement Learner Characteristics Moderations EF × Gender¹
+IF × Gender
+EF × Information Preference²
+IF × Information Preference
+EF × Prior Achievement
+IF × Prior Achievement
+Academic Disciplinary Contexts
+EF × Engineering (vs. reference)
+EF × Humanities (vs. reference)
+EF × Sciences (vs. reference)
+EF × Management (vs. reference)
+IF × Engineering (vs. reference)
+IF × Humanities (vs. reference)
+IF × Sciences (vs. reference)
+IF × Management (vs. reference) Socioeconomic Factors
+EF × SES
+IF × SES
+Temporal Dynamics
+EF × Time Interval³
+IF × Time Interval
+System Attributes
+EF × Feedback Detail Level
+IF × Feedback Detail Level
+EF × Feedback Frequency
+IF × Feedback Frequency
+0.150 [0.042, 0.258]
+0.07 [  0.049, 0.189]
+0.140 [0.030, 0.250]
+0.06 [  0.050, 0.170]
+0.210 [0.090, 0.330]
+0.180 [0.050, 0.310]
+0.250 [0.130, 0.370]
+  0.160 [  0.280,   0.040]
+0.220 [0.090, 0.350]
+0.08 [  0.040, 0.200]
+0.190 [0.060, 0.320]
+0.11 [  0.020, 0.240]
+0.08 [  0.050, 0.210]
+0.200 [0.070, 0.330]
+0.07 [  0.060, 0.200]
+0.170 [0.040, 0.300]
+0.190 [0.060, 0.320]
+0.04 [  0.090, 0.170]
+  0.150 [  0.270,   0.030]
+0.120 [0.010, 0.230]
+0.210 [0.080, 0.340]
+  0.170 [  0.290,   0.050]
+0.230 [0.110, 0.350]
+0.09 [  0.030, 0.210]
+2.73 0.018 0.073 0.023
+1.14 0.256 0.025 0.006
+2.23 0.026 0.07 0.019
+1.07 0.284 0.02 0.004
+3.02 0.003 0.11 0.042
+2.39 0.017 0.09 0.031
+3.14 0.002 0.13 0.058
+  2.35 0.019 0.08 0.025
+2.67 0.008 0.12 0.045
+1.32 0.187 0.03 0.006
+2.4 0.016 0.1 0.033
+1.66 0.097 0.04 0.012
+1.2 0.23 0.03 0.006
+2.31 0.021 0.1 0.037
+1.05 0.295 0.02 0.005
+2.31 0.021 0.08 0.027
+2.42 0.015 0.09 0.034
+0.58 0.562 0.01 0.002
+  2.26 0.024 0.07 0.022
+2.07 0.039 0.06 0.014
+2.71 0.007 0.11 0.041
+  2.32 0.021 0.08 0.027
+2.98 0.003 0.12 0.049
+1.48 0.139 0.04 0.008
+
+9 
+Y. Xin et al.                                                                                                                                                                                                                                      Studies in Educational Evaluation 90 (2026) 101639 
+Note. EF = Evaluative Feedback; IF = Instructional Feedback; CI = Confidence Interval; SES = Socioeconomic Status.
+The interaction coefficients represent standardized associations on academic achievement controlling for main associations and demographic covariates. Effect size f² values of 0.02, 0.15, and 0.35 represent small, medium, and large associations, respectively (Cohen, 1992). ΔR² indicates incremental variance explained by each interaction term beyond main associations.
+¹Gender coded as 0 = male, 1 = female; positive coefficient indicates stronger effect for females.
+²Information Preference coded as 0 = visual, 1 = verbal for EF interactions and 0 = verbal, 1 = visual for IF interactions.
+³Time interval coded as 0 = short-term (T1-T2), 1 = long-term (T2-T3); negative coefficient indicates stronger effect in short-term.
+p < .05. p < .01.
+
+Fig. 5. Synergistic Interaction Associations.
+
+ 
+Y. Xin et al.                                                                                                                                                                                                                                      Studies in Educational Evaluation 90 (2026) 101639 
+may experience cognitive overload  when attempting to integrate mul- tiple feedback types simultaneously (Sweller, 2011).
+5. Discussion
+5.1. Research gaps and overview of findings
+Despite  growing  adoption  of  generative  AI  in  higher  education, important gaps  remain  in understanding how  students’ perceptions  of AI-generated  feedback  are  associated  with  academic  outcomes  over time. Most existing research relies on cross-sectional designs that cannot address temporal ordering, rarely distinguishes between evaluative and instructional feedback  types,  and  does  not  account  for  the  social  and emotional  contexts  in  which  feedback  is  received  and  processed. Furthermore, the potential for evaluative and instructional feedback to interact—an  everyday  reality  when  students  use  generative  AI systems—has  not  been  empirically  examined.  This  study  addressed these  gaps  through  a  three-wave  longitudinal  design  examining  the differential, mediated, moderated, and interactive associations of eval-
+uative  and  instructional  generative  AI feedback  perception  with  aca- demic  achievement  among  6030  Chinese  first-year  undergraduates using  an  institutionally  deployed  AI  feedback  system.  The  overall pattern of findings indicates that evaluative and instructional feedback perception are differentially and complementarily associated with aca-
+demic achievement, operating through distinct temporal profiles, social- cognitive pathways, and interactive configurations.
+5.2. Temporal patterns and feedback intervention theory
+The  differential  temporal  patterns  between  feedback  types  are consistent with predictions from feedback intervention theory (Hattie & Timperley,  2007;  Panadero,  2023;  Bassleer  et  al.,2025).  Evaluative feedback, targeting meta-task processes related to performance evalua - tion,  showed  consistent  direct  associations  with  achievement  that gradually  attenuated  over  time.  Instructional  feedback,  targeting task-learning processes, showed no direct associations but was linked to achievement through social support. This pattern extends FIT’s hierar - chical  model  to  generative  AI  contexts  by  demonstrating  that  the meta-task  versus  task-learning  distinction—originally  developed  for human  feedback—also  applies  when  feedback  is  algorithmically generated. The temporal attenuation of evaluative feedback associations (9.7% reduction between intervals) is compatible with feedback inter - nalization processes described by Panadero (2023): as performance in- formation  becomes  integrated  into  students’  self-regulatory frameworks,  the  incremental  association  of  new  external  evaluative feedback may diminish. This finding has a broader theoretical implica -
+tion:  it  suggests  that  generative  AI feedback,  despite  its  non-human origin,  is  processed  through  the  same  hierarchical  attention  system that  FIT  proposes  for  human  feedback,  supporting  the  view  that 
+feedback processing is driven by information characteristics rather than source characteristics.
+5.3. Social support as a statistical mediator: an AI-to-human bridging function
+The  statistical  mediation  by  social  support  contributes  to  social cognitive  theory  (Bandura,  2023)  by  identifying  a  specific  environ - mental  pathway  through  which  generative  AI  feedback  perception connects  to  academic  outcomes.  The  differential  mediation patterns—partial for evaluative feedback (39.4%), full for instructional feedback (68.3%)—have important theoretical implications. Evaluative feedback  appears  to  operate  through  dual  pathways:  a  direct  route, possibly through immediate motivational or attentional regulation, and 
+a socially mediated route through help-seeking activation. Instructional feedback, by contrast, appears to require social scaffolding to translate strategic  guidance  into  performance  gains.  This  finding  extends  the help-seeking  framework  of  Karabenick  and  Berger  (2013) to AI-mediated  contexts:  it  suggests  that  AI-generated  strategic  guidance does  not  function  as  a  self-contained  instructional  intervention,  but rather as a prompt that activates collaborative learning behaviors within students’ social  networks  (Vilkova  & Shcheglova,  2021;  Jiang  & Yu, 2025). In theoretical terms, this positions generative AI feedback not as 
+a replacement for social learning processes (Xin et al., 2026), but as a catalyst  that  redirects  students  toward  human  support  systems—what we term an “AI-to-human bridging” function.
+We acknowledge  that  social  support  is one  of several  possible  sta- tistical mediators. Other variables—including self-regulation strategies, academic  self-efficacy,  and  metacognitive  development—may  also connect feedback perception to achievement. The present study focused on social support because it captures a distinctive interpersonal pathway that is often overlooked in AI feedback research. Future research should construct competing mediation models to compare the relative contri - bution of multiple mediating variables.
+5.4. Compensatory moderation by emotional intelligence
+The compensatory moderating pattern of emotional intelligence ex- tends  ability  models  of emotional  intelligence  (Mayer  et  al.,  2016) to AI-mediated  learning  contexts.  The  finding  that  feedback  associations were  stronger  among  students  with  lower  emotional  intelligence  sup- ports  the  theoretical  proposition  that  external  feedback  provides compensatory  regulatory  support  for  students  who  lack  internal emotional resources (MacCann et al., 2020). This pattern has a broader implication for how we conceptualize the role of AI in education: rather 
+than  being  equally  beneficial  for  all  students,  generative  AI feedback may function as an “emotional scaffolding” resource (Zhu & Lin, 2024) 
+that is most valuable for students who are least equipped to manage the affective demands of academic evaluation independently. This finding 
+
+10 
+Y. Xin et al.                                                                                                                                                                                                                                      Studies in Educational Evaluation 90 (2026) 101639 
+connects  to  the  broader  discourse  on  AI and  educational  equity—AI feedback  systems  may  have  the  greatest  positive  associations  for  pre- cisely  those  students  who  are  most  disadvantaged by traditional feed- back environments.
+5.5. Feedback type interactions and cognitive load theory
+The  interaction  between  feedback  types  is  interpretable  within cognitive load theory (Sweller, 2011). Evaluative information appears to provide  cognitive  anchoring  that  helps  students  process  and  apply instructional guidance.  Without  this  anchoring,  students  may  lack  the performance  reference  point  needed  to  direct  the  implementation  of strategic advice. The time-limited nature of this interaction (significant at  T2 but  not  T3)  suggests  that  feedback  synergies  are  most  relevant during initial integration and may diminish as feedback is internalized. From  a  theoretical  standpoint,  this  finding  challenges  the  common research practice of studying feedback types in isolation. It suggests that the  unit  of  analysis  in  feedback  research  should  be  the  feedback configuration—the specific combination of evaluative and instructional elements—rather than individual feedback types. This has implications for  how  feedback  theory  is formulated:  models  should  account  for  in- teractions  between  feedback  components,  not  merely  their  additive contributions.
+6. Scope of perception-based measurement and practical implications
+An important interpretive boundary  concerns  the  reliance  on  self- reported  feedback  perception rather  than  objective  measures  of feed- back  content.  Students’  perceptions  may  be  shaped  by  recall  bias, satisfaction halo associations, or social desirability. The findings reflect associational  patterns  between  perceived  AI feedback  characteristics and academic achievement, not the objective properties of the AI feed-
+back itself.
+However, feedback perception is theoretically important in its own 
+right.  Winstone  et  al.  (2017) demonstrated  that  learners’  proactive recipience—their  active  engagement  with  and  interpretation  of feedback—is a necessary condition for feedback to be used. Regardless 
+of objective quality, if students do not perceive feedback as evaluative or instructional,  it  cannot  function  through  the  proposed  pathways. Perception-based  measurement  thus  captures  a  necessary  link  in  the feedback utilization chain (Mandouit & Hattie, 2023). Future research should  complement  perception  measures  with  behavioral  indicators such as AI system log data.
+First,  AI feedback  systems  should  integrate  evaluative  and  instruc - tional  elements  in  a  coordinated  sequence.  The  interaction  pattern suggests  evaluative feedback  should precede instructional guidance  to provide cognitive  anchoring (e.g., “Your analysis addresses 3 of 5 key criteria” followed by strategic suggestions).
+Second,  feedback  design  should  account  for emotional  intelligence differences.  Students  with  lower  emotional  intelligence  benefit  more from  supportive  framing  (e.g.,  affirmational  prefixes,  gradual  error disclosure).
+Third,  because  instructional feedback  is primarily  associated  with achievement through social support, AI systems should incorporate so- cial learning prompts (e.g., “You might discuss this approach with your study group”).
+Fourth,  disciplinary  calibration is warranted. Engineering  and  sci- ences  showed  stronger  feedback  interaction  associations;  humanities and management may benefit from enriched instructional feedback.
+7. Limitations and future directions
+Several limitations should be acknowledged when interpreting these 
+findings.  First,  despite  the  longitudinal design  and  supplementary RI-       CLPM  analyses,  causal  inference  remains  constrained  by  the  non- 
+experimental  nature  of  the  research.  The  observed  associational  pat- terns, while temporally ordered, cannot rule out unmeasured confounds such as prior academic motivation, technology familiarity, or instructor quality.  Future  studies  should  employ  experimental  designs—for example,  a  2 × 2  factorial  that  manipulates  evaluative  and  instruc - tional  feedback  configurations  through  AI  system  settings—to  test whether the observed patterns reflect causal processes.
+Second, the study relies on self-reported feedback perception for the predictor variables. Although the primary outcome (academic achieve - ment) is objectively measured and temporal separation of key variables reduces common method concerns, perception-based measures may be shaped  by  recall  bias  and  social  desirability.  Future  research  should incorporate  multimodal  indicators,  such  as  AI system  log  data  (e.g., interaction  frequency,  feedback  viewing  duration,  and  response  pat- terns), to complement self-report with behavioral evidence of feedback engagement.
+Third,  the  measurement  intervals  (approximately  four  and  three months,  respectively),  while  shorter  than  typical  semester-based  de- signs,  may  still  miss  the  fine-grained  temporal  dynamics  of  feedback processing—particularly for instructional feedback, whose integration is theorized to unfold over shorter cycles. Intensive longitudinal designs, 
+such as diary studies or experience sampling with weekly or biweekly assessments, would provide greater temporal resolution for examining within-semester feedback processing.
+Fourth,  the  sample  is  limited  to  first-year  undergraduates  at  ten Chinese comprehensive universities, which constrains external validity in two respects. At the cultural level, Chinese students' orientation to- ward institutional authority may amplify the associations observed for evaluative  feedback  from  a  university-deployed  system.  Collectivist educational norms may strengthen social support's statistical mediating role,  as  students  in  such  contexts  may  be  more  inclined  to  seek  peer assistance  when  prompted  by  performance information. At the  devel- opmental  level,  first-year  students  are  in  an  early  phase  of university adaptation, and the observed patterns may differ for more experienced students  who  have  developed  stronger  self-regulatory  capacities. Replication  across  different  cultural  contexts,  educational  levels,  and student populations is needed before these findings can be generalized beyond the present sample.
+Fifth,  the  study  does  not  include  comparison  conditions.  Without contrasting generative AI feedback with traditional teacher feedback or rule-based automated feedback, it is not possible to isolate the unique contribution  of  generative  AI-specific  characteristics  (e.g.,  contextual adaptivity, natural  language  generation) to  the  observed  associations. Future  research  incorporating  such  comparison  conditions  would strengthen the specificity of theoretical claims regarding generative AI feedback.
+8. Conclusion
+Despite the growing use of generative AI for educational feedback, longitudinal  evidence  on  how  students’  perceptions  of  different  AI feedback  types  are  associated  with  academic  achievement  has  been lacking.  Specifically,  it  has  been  unclear  whether  evaluative  and instructional AI feedback show different temporal association patterns, whether  social-cognitive  variables  statistically  connect  these  percep - tions to achievement, and whether these feedback types function inde- pendently or interactively.
+Addressing  these  gaps  through  a  three-wave  panel  study  of  6030 Chinese  undergraduates using  an  institutionally deployed  AI feedback system,  this  study  produced  three  principal  findings.  First,  evaluative feedback  perception  showed  consistent  direct  associations  with achievement, while instructional feedback showed no direct association 
+but was linked to achievement fully through perceived social support. Second,  emotional  intelligence  moderated  these  associations  in  a compensatory  pattern:  students  with  lower  emotional  intelligence showed  stronger  feedback–support  associations,  suggesting  that  AI 
+feedback  may  serve  as external  regulatory  scaffolding  for  emotionally vulnerable learners. Third, evaluative and instructional feedback func- tioned  interactively  rather  than  independently,  with  instructional feedback  showing  positive  associations  with  achievement  only  under moderate-to-high  evaluative  feedback  conditions—a  pattern  that  was time-sensitive and discipline-dependent.
+These  findings carry several implications. For feedback theory, the results demonstrate that the evaluative–instructional distinction, origi- nally developed for human feedback, applies to generative AI contexts but operates through different pathway configurations. For educational practice,  the  results  support  designing  AI feedback  systems  that  coor- dinate  evaluative  and instructional elements sequentially, adapt to  in- dividual  emotional  profiles,  incorporate  social  learning  prompts,  and calibrate  to  disciplinary  assessment  structures.  The  compensatory moderation  by  emotional  intelligence  is  particularly  relevant  for educational equity: AI feedback systems may offer the greatest benefit to students  who  are  least  well-served  by  traditional  feedback  environ - ments. These findings provide an empirical foundation for moving from generic  AI feedback  deployment  toward  evidence-informed,  adaptive feedback design in higher education.
+Authors' contributions
+Y.X, H.WN, D.SH, D.Y,L.LH.,L.MY, L.SR, M.YJ,writes the paper; D.Y, Y.X, H.WN,  D.SH, designs  the  plan,  funding  support  and  research  di- rection  confirmation;  Y.X, H.WN,  D.SH,  D.Y,L.LH.,L.MY, L.SR, M.YJ, questionnaire survey and article revision; Y.X, H.WN, D.SH, D.Y, L.LH., data processing; Y.X, H.WN, D.SH, D.Y,L.LH.,L.MY, L.SR, M.YJ,consults materials.
+CRediT authorship contribution statement
+Hu  Weina:  Writing  –  review  & editing,  Writing  –  original  draft, Methodology,  Funding  acquisition,  Formal  analysis,  Data  curation. Deng  Yan: Writing  – review  & editing, Writing  – original draft,  Visu-alization,  Validation,  Supervision,  Software,  Project  administration, Methodology.  Deng  Shusheng: Writing  – review  & editing,  Writing  – original  draft,  Methodology,  Funding  acquisition,  Data  curation.  Lu Liuheng: Validation, Software, Resources, Methodology, Data curation. 
+Yang Xin: Writing – review & editing, Writing – original draft, Visual-ization,  Validation,  Methodology,  Investigation,  Funding  acquisition, Formal analysis, Data curation, Conceptualization.
+Ethics approval and consent to participate
+The Ethics Committee of Guangxi Medical University approved this study (No. 001720221212 ). All procedures were carried out in accor - dance with relevant ethical guidelines and regulations. All participates was voluntary, and obtained informed consent.
+Consent for publication
+Not  Applicable.  This  manuscript  does  not  contain  any  identifying images or personal/clinical details of participants.
+Funding
+This  research  was  supported  by  the  Guangxi  Zhuang  Autonomous Region  New  Medical  Research  and  Practice  Project  (Project  No. XYK202318),  and  Health  and  Emergency  Skills  Training  Center  of Guangxi (Grant Number NO. HESTCG202304). The funders had no role 
+in the study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Declaration of Competing Interest
+The authors declare no competing interests.
+Acknowledgements
+We want to thank all the participants who helped us complete this 
+study.
+Appendix A. Supporting information
+Supplementary data associated with this article can be found in the online version at doi:10.1016/j.stueduc.2026.101639.
+Data availability
+The  datasets  used  and/or  analysed  during  the  current  study  are available from the corresponding author on reasonable request.
+References
+Bandura, A. (2023). Social cognitive theory: An agentic perspective on human nature. John 
+Wiley & Sons. 
+Bassleer, M., Schelfhout, S., Fonteyne, L., Duyck, W., & Dirix, N. (2025). The role of 
+feedback self-efficacy in student feedback engagement. Studies in Educational Evaluation, 87, Article 101520.
+Bauer, E., Richters, C., Pickal, A. J., Klippert, M., Sailer, M., & Stadler, M. (2025). Effects 
+of AI-generated adaptive feedback on statistical skills and interest in statistics: A field experiment in higher education. British Journal of Educational Technology, 56(5), 1735–1757.
+Bittencourt, I. I., Chalco, G., Santos, J., Fernandes, S., Silva, J., Batista, N., … Isotani, S. 
+(2024). Positive artificial intelligence in education (P-AIED): A roadmap. International Journal of Artificial Intelligence in Education, 34(3), 732–792.
+Brand, D., Novak, M. D., DiGennaro Reed, F. D., & Tortolero, S. A. (2020). Examining the 
+effects of feedback accuracy and timing on skill acquisition. Journal of Organizational Behavior Management, 40(1-2), 3–18.
+Chou, K. L. (2000). Assessing Chinese adolescents’ social support: The multidimensional 
+scale of perceived social support. Personality and Individual differences, 28(2), 299–307.
+Cohen, J. (1992). A power primer. Psychological Bulletin, 112(1), 155–159. https://doi. 
+org/10.1037/0033-2909.112.1.155
+DeVellis, R. F., & Thorpe, C. T. (2021). Scale development: Theory and applications (5th 
+ed.).). Sage Publications. 
+Er, E., Akçapınar, G., Bayazıt, A., Noroozi, O., & Banihashem, S. K. (2025). Assessing 
+student perceptions and use of instructor versus AI-generated feedback. British Journal of Educational Technology, 56(3), 1074–1091.
+Evans, J. S. B. T., & Stanovich, K. E. (2013). Dual-process theories of higher cognition: 
+Advancing the debate. Perspectives on Psychological Science, 8(3), 223–241. https:// doi.org/10.1177/1745691612460685
+French, S. W. (2020). The Cambridge handbook of instructional feedback. CHOICE: 
+Current Reviews for Academic Libraries, 57(8), 895–896.
+Gkintoni, E., Antonopoulou, H., Sortwell, A., & Halkiopoulos, C. (2025). Challenging 
+cognitive load theory: The role of educational neuroscience and artificial intelligence in redefining learning efficacy. Brain Sciences, 15(2), 203.
+Hair, J. F., Black, W. C., Babin, B. J., & Anderson, R. E. (2019). Multivariate data analysis 
+(8th ed.).). Cengage Learning. 
+Hamaker, E. L., Kuiper, R. M., & Grasman, R. P. (2015). A critique of the cross-lagged 
+panel model. Psychological Methods, 20(1), 102–116. https://doi.org/10.1037/ a0038889
+Hattie, J., & Timperley, H. (2007). The power of feedback. Review of Educational 
+Research, 77(1), 81–112. https://doi.org/10.3102/003465430298487
+Hayes, A. F. (2017). Introduction to mediation, moderation, and conditional process analysis: 
+A regression-based approach. Guilford publications. 
+Ifenthaler, D., & Schumacher, C. (2023). Reciprocal issues of artificial and human 
+intelligence in education. Journal of Research on Technology in Education, 55(1), 1–6. https://doi.org/10.1080/15391523.2022.2154511
+Jiang, X., & Yu, Z. (2025). Exploring the impact of learner-and peer-help seeking 
+strategies on cognitive load reduction and self-regulated learning skills enhancement. Interactive Learning Environments, 33(6), 4062–4081.
+Karabenick, S. A., & Berger, J.-L. (2013). Help seeking as a self-regulated learning 
+strategy. In H. Bembenutty, T. Cleary, & A. Kitsantas (Eds.), Applications of self- regulated learning across diverse disciplines: A tribute to Barry J. Zimmerman (pp. 237–261). Information Age Publishing. 
+Kasneci, E., Sessler, K., Küchemann, S., Bannert, M., Dementieva, D., Fischer, F., & 
+Kasneci, G. (2023). ChatGPT for good? On opportunities and challenges of large language models for education. Learning and Individual Differences, 103, Article 102274.
+
+12 
+Y. Xin et al.                                                                                                                                                                                                                                      Studies in Educational Evaluation 90 (2026) 101639 
+Kluger, A. N., & DeNisi, A. (1996). The effects of feedback interventions on performance: 
+A historical review, a meta-analysis, and a preliminary feedback intervention theory. 
+Psychological Bulletin, 119(2), 254–284.
+
+ 
+Y. Xin et al.                                                                                                                                                                                                                                      Studies in Educational Evaluation 90 (2026) 101639 
+Kraft, M. A. (2020). Interpreting effect sizes of education interventions. Educational 
+Researcher, 49(4), 241–253. https://doi.org/10.3102/0013189X20912798
+Lee, H. J., & Mendoza, N. B. (2025). Does parental support amplify growth mindset 
+predictions for student achievement and persistence? Cross-cultural findings from 76 countries/regions. Social Psychology of Education, 28(1), 88.
+Lindell, M. K., & Whitney, D. J. (2001). Accounting for common method variance in 
+cross-sectional research designs. Journal of Applied Psychology, 86(1), 114–121. https://doi.org/10.1037/0021-9010.86.1.114
+Lipnevich, A. A., & Smith, J. K. (Eds.). (2018). The Cambridge handbook of instructional 
+feedback. Cambridge University Press. 
+MacCann, C., Jiang, Y., Brown, L. E. R., Double, K. S., Bucich, M., & Minbashian, A. 
+(2020). Emotional intelligence predicts academic performance: A meta-analysis. Psychological Bulletin, 146(2), 150–186.
+Mandouit, L., & Hattie, J. (2023). Revisiting “The Power of Feedback” from the perspective of the learner. Learning and Instruction, 84, Article 101718.
+Mayer, J. D., Caruso, D. R., & Salovey, P. (2016). The ability model of emotional 
+intelligence: Principles and updates. Emotion Review, 8(4), 290–300. https://doi.org/ 10.1177/1754073916639667
+Muth´en, L.K., & Muth´en, B.O. (2017). Mplus user's guide (8th ed.). Muth´en & Muth´en. Narciss, S., Sosnovsky, S., Schnaubert, L., Andr`es, E., Eichelmann, A., Goguadze, G., & 
+Melis, E. (2014). Exploring feedback and student characteristics relevant for personalizing feedback strategies. Computers & Education, 71, 56–76.
+Ouyang, F., Zheng, L., & Jiao, P. (2022). Artificial intelligence in online higher 
+education: A systematic review of empirical research from 2011 to 2020. Education and Information Technologies, 27(6), 7893–7925.
+Panadero, E. (2023). Toward a paradigm shift in feedback research: Five further steps 
+influenced by self-regulated learning theory. Educational Psychologist, 58(3), 193–204.
+Podsakoff, P. M., Podsakoff, N. P., Williams, L. J., Huang, C., & Yang, J. (2024). Common 
+method bias: It’s bad, it’s complex, it’s widespread, and it’s not easy to fix. Annual 
+Review of Organizational Psychology and Organizational Behavior, 11(1), 17–61. Putnick, D. L., & Bornstein, M. H. (2016). Measurement invariance conventions and 
+reporting: The state of the art and future directions for psychological research. 
+Developmental Review, 41, 71–90. https://doi.org/10.1016/j.dr.2016.06.004
+Schrader, C., & Grassinger, R. (2021). Tell me that I can do it better. The effect of 
+attributional feedback from a learning technology on achievement emotions and 
+performance and the moderating role of individual adaptive reactions to errors. 
+Computers & Education, 161, Article 104028.
+Schutte, N. S., Malouff, J. M., Hall, L. E., Haggerty, D. J., Cooper, J. T., Golden, C. J., & 
+Dornheim, L. (1998). Development and validation of a measure of emotional intelligence. Personality and Individual Differences, 25(2), 167–177.
+Selig, J. P., & Little, T. D. (2012). Autoregressive and cross-lagged panel analysis for 
+longitudinal data. In In. B. Laursen, T. D. Little, & N. A. Card (Eds.), Handbook of developmental research methods (pp. 265–278). Guilford Press. 
+Shi, H., & Aryadoust, V. (2024). A systematic review of AI-based automated written 
+feedback research. ReCALL, 36(2), 187–209.
+Shi, J., & Wang, L. (2007). Validation of emotional intelligence scale in Chinese 
+university students. Personality and Individual differences, 43(2), 377–387.
+Sweller, J. (2011). Cognitive load theory. In In. J. Mestre, & B. Ross (Eds.), Psychology of 
+learning and motivation, 55 pp. 37–76). Academic Press. 
+van der Kleij, F. M., Feskens, R. C., & Eggen, T. J. (2015). Effects of feedback in a 
+computer-based learning environment on students' learning outcomes: A meta- analysis. Review of Educational Research, 85(4), 475–511. https://doi.org/10.3102/ 0034654314564881
+Vilkova, K., & Shcheglova, I. (2021). Deconstructing self-regulated learning in MOOCs: In 
+search of help-seeking mechanisms. Education and Information Technologies, 26(1), 17–33.
+Winkler, R., Sollner, ¨ M., & Leimeister, J. M. (2021). Enhancing problem-solving skills 
+with smart personal assistant technology. Computers & Education, 165, Article 104148.
+Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J. (2017). Supporting learners' 
+agentic engagement with feedback: A systematic review and a taxonomy of recipience processes. Educational Psychologist, 52(1), 17–37. https://doi.org/ 10.1080/00461520.2016.1207538
+Wisniewski, B., Zierer, K., & Hattie, J. (2020). The power of feedback revisited: A meta- 
+analysis of educational feedback research. Frontiers in Psychology, 10, 3087. https:// doi.org/10.3389/fpsyg.2019.03087
+Xin, Y., Yan, D., Shuren, L., Minyang, L., & Liuheng, L. (2026). AI literacy mediates AI 
+assisted diagnosis participation and critical thinking among medical students under 
+supervision. npj Digital Medicine. https://doi.org/10.1038/s41746-026-02521-9 Yin, X., & Dou, K. (2025). An AI-assisted critical thinking intervention to enhance 
+undergraduate EFL learners’ writing proficiency. Studies in Educational Evaluation, 
+86, Article 101480.
+Zhu, G., & Lin, F. (2024). Teachers scaffold student discourse and emotions in knowledge 
+building classrooms. Interactive Learning Environments, 32(7), 3279–3296.
+Zimet, G. D., Dahlem, N. W., Zimet, S. G., & Farley, G. K. (1988). The multidimensional 
+scale of perceived social support. Journal of Personality Assessment, 52(1), 30–41.
+ 

@@ -1,0 +1,277 @@
+﻿European Journal of Education
+ORIGINAL ARTICLE
+Empowering Change: Navigating Twin Transitions and Enhancing Civic Engagement in Higher Education
+Trusting the Machine: How AI Assessment Feedback and AI Literacy Shape Students' Idea Implementation Skills
+AmjadIslamAmjad1   |  BismaSajjadSheikh2 
+1Department of Education, The University of Lahore, Lahore, 54600, Pakistan  |  2Institute of Education and Research, University of the Punjab, Lahore, Pakistan Correspondence: Amjad Islam Amjad (amjad_14@yahoo.com)
+Received: 27 July 2025  |  Revised: 26 November 2025  |  Accepted: 3 January 2026
+Keywords: AI assessment feedback| AI literacy| idea implementation| social cognitive theory| trust in AI
+ABSTRACT
+Artificial intelligence (AI) has transformed higher education. The research shows that university students use AI and acquire academic ideas to develop innovative solutions to their problems. However, there is limited research on how AI feedback helps students improve their idea implementation. This study was rooted in the Technology Acceptance Model (TAM) and the Social Cognitive Theory (SCT). The objective was to examine how the AI assessment feedback (AIAF), trust in AI (TAI) and AI literacy (AIL) influence university students' idea implementation skills (IIS). A descriptive survey design was used to collect data from 486 university students. The analysis revealed that AIAF significantly contributes to students' IIS at the university level. TAI was found to partially mediate the relationship between university students' AIAF and IIS. AIL was found to contribute to students' IIS individually. However, the interaction effect (AIAF*AIL) was not found to be a significant contributor to students' IIS. We found that the interplay among the study's variables (AIAF, TAI and AIL) positively enhances university students' IIS in solving their academic problems. It was recommended that students should use self-regulated learning in AI feedback to improve their achievements. In addition, the current study has several practical, research and policy implications.
+
+https://doi.org/10.1111/ejed.70457
+1   |   Introduction
+Artificial Intelligence (AI) is a new field of study that helps stu - dents' self-assessment at the university level. University students frequently use AI for the sake of feedback in their academic tasks (Lee2023). They make this feedback personalised, action - able and precise (Hooda etal.2022). AI tools are based on ma - chine learning and natural language processing algorithms that analyse written material and provide feedback to improve its various aspects, such as grammar, clarity and coherence (Chang etal.2023).
+AI  assessment  feedback  (AIAF)  has  the  potential  to  guide students  in  the  revision  process.  This  helps  them  to  make continuous improvements and refine their academic work, im - proving learning outcomes and academic performance (Kuleto 
+et al. 2021). This literature supports that this type of feedback can help students think more creatively, outside the box and solve problems (Sidekerskienė and Damaševičius2023). As re- searchers, we found that various studies provide arguments in favour of developing ideas for managing student-related prob - lems (Habib etal.2024; Lin and Chen2024).
+The role of AI in education is the product of the COVID pan - demic. Then, OpenAI worked to launch Generative Pre-trained Language Models. In this way, students started using its free ver - sions to get various study-related ideas (Kim etal.2022). AIAF may enable students to identify cognitive gaps, reorganise argu - ments and reiterate their initial thoughts. The research indicates that such feedback is essential for developing and implementing ideas (Banihashem etal.2024). But, the implementation of ideas depends on students' personal abilities as well (Jang etal.2022). 
+
+https://doi.org/10.1111/ejed.70457
+© 2026 John Wiley & Sons Ltd.
+European Journal of Education, 2026; 61:e70457 1 of 10
+
+https://doi.org/10.1111/ejed.70457
+Students have a better chance of effectively incorporating AI tool feedback into their work when they trust the AI systems for feedback (Hooda etal.2022; Kaplan etal.2023). Trust in AI (TAI) helped students to use these tools freely and openly with - out any ethical responsibilities.
+The success of this type of feedback and students' dependence on such tools shows their trust and confidence. In such a situ - ation, TAI got the central position to influence students' opin - ions  and  beliefs.  It  is  also  important  that  such  tools  should provide reliable, fair, accurate and valuable feedback (Yang and Wibowo 2022). In the absence of such trust, students ignored these tools and their feedback. This can reduce the value of the AI tool in the learning activities (Kaplan etal.2023). However, 
+if students show trust in AI tools and their feedback, then these students can achieve their career targets by completing their ed - ucational degrees with distinction.
+The studies on AI show that students' trust in AI determines how obedient and willing they are to follow its recommen - dations, which, in turn, enhances problem-solving, creativ- ity and learning outcomes (Lin and Chen 2024). Also, trust decreases both cognitive distance to the machine-generated feedback  and  leads  to  emotional  and  motivational  involve - ment in the learning process (Zhai and Nehm 2023). However, despite its importance, the mediating effect of trust between AIAF and the IIS remains understudied, and it is necessary to investigate how trust influences students' capacity to promote AI in education.
+AI literacy is meant to have conceptual and hands-on practice 
+of using AI tools effectively (Chiu et al. 2024; Ng et al. 2021). This kind of literacy can make students learn the effective and efficient use of such tools to get feedback for their class-related work, such as assignments and exams (Khurma et al. 2024). Students use AI tools to explore the solutions to their various problems. Previous studies have had a limited understanding of the interplay among AIL, TAI and AIAF in shaping creative ac - ademic behaviours. To illustrate, Kuleto etal.(2021) suggest that AIL is a key to utilising feedback; however, they do not discuss the practical applications of this concept in terms of ideas and implementation. This finding highlights the need for further re - search on the moderating effect of AI literacy.
+Although there is an increased interest in the use of AI in edu - cation, a serious gap remains in the literature regarding the in - terplay of AIAF, TAI and AIL on students' IIS at the university level. Most of the available literature focuses on these variables' individual relation to academic success, but not on how they in - fluence the implementation of ideas. Few studies employ a holis - tic model that includes both mediators and moderators linking these concepts. Filling such a gap is essential, particularly in an increasingly digitalised educational age driven by innovation. Thus, this paper is valuable to fill the research gap because it postulates and tests an integrative model to examine the com - bined effects of AIAF, TAI and AIL on university students' IIS. The objective of the current study was to investigate the con - tribution of AIA to university students' IIS, with TAI and AIL mediating and moderating the relationship between university students' AIAF and IIS.
+2   |   Literature Review
+2.1 |   AI Assessment Feedback and Idea Implementation Skills
+The  research  mentioned  that  for  higher  education  students, AIAF is a significant help to apply various ideas in their stud - ies (Topping et al. 2025). The immediate and constant nature of such individualised feedback helps students to clarify their weaknesses and develop their problem-solving skills. A study by Bećirović etal.(2025) emphasises the importance of AI feedback that provides timely, personalised evaluation and helps students develop  and  implement  their  ideas.  According  to  Demartini 
+et al. (2024), feedback from these AI tools enhances the learning process by providing students feedback. This shows that such feedback provides sufficient help in finding various and alterna - tive solutions to these students.
+The  research  supports  that  effective  and  ethical  use  of  AI and its feedback motivates students to think differently (Chiu 
+et al. 2024). This feedback encourages university students to reconsider  and  rearrange  their  thoughts.  AI  tools  facilitate 
+a  deeper  understanding  of  the  concepts  being  implemented. Increasing awareness and feedback enable students to become more  proficient  in  utilising  AIAF  for  idea  implementation (Almatrafi et al. 2024). The research supports the notion that AI assessment feedback is an essential factor in students' imple - mentation of ideas. Based on these arguments, the researchers developed the first directional hypothesis.
+H1.  AI assessment feedback significantly contributes to univer - sity students' idea implementation skills.
+2.2 |   Trust in AI, AI Assessment Feedback and Idea Implementation Skills
+AI-based feedback is getting overwhelming important in higher education. Thus, the researchers reviewed an extensive litera - ture using various research databases and did not find any study that explored the mediating effect of TAI on university students' AIAF and IIS. However, a few studies investigated the nature of  relationships  on  these  constructs  in  separate  studies.  For example, Hooda et al. (2022) conducted a study on the use of AIAF to enhance students' academic performance and problem- solving skills. They found that feedback effectiveness depends on the level of trust in the AI system. Trusting AI, students can take actions and use this feedback to enhance their ability to implement ideas. This situation motivates students to develop creativity, which is crucial in AI-driven formative assessment of students (Zhai and Nehm2023).
+The literature indicates that the impact of TAI on IIS following AIAF raises questions about how trust operates in the relation - ship between AIAF and IIS (Owan et al.2023). Trust-building towards AI tools also increases emotional involvement and cre - ativity among students, which further enhances their potential 
+to integrate AIAF into academic work (Lin and Chen 2024). While TAI enables students to work with AI tools, trust will be crucial for utilising AIAF. Research also indicates that trust 
+
+
+may serve as a supporting factor in the implementation of feed - back and ideas (Bećirović et al.2025). Similarly, learners who trust AI more tend to act based on its suggestions, leading to improved grades and the successful execution of ideas (Kaplan etal.2023). Based on the above arguments regarding the inter - actions among these variables, the following directional hypoth - esis was formulated.
+H2.  Trust in AI positively mediates the relationship between university students' AI assessment feedback and their ability to implement ideas.
+2.3 |   AI Literacy, AI Assessment Feedback and Idea Implementation Skills
+The researcher found a few of the studies examining the indi - vidual relationships among AIL, AIAF and IIS at the university level. However, gaps persist in understanding the moderating role of AI literacy in the relationship between AIAF and IIS. For instance, Ng et al. (2021) theorised that AIL includes the knowledge of the concept and applications of AI. After analys - ing the data, they found an increase in the ethical use of AI. However, they did not establish a connection between the di - mensions, such as AIAF and IIS, leaving a gap that could be filled in future research. Guo(2024) has demonstrated that peer review aided by AI enhances feedback literacy. They did not ex - plore the correlation between feedback and the implementation 
+of creative ideas.
+Kuleto etal.(2021) found that AI tools can enhance the practice 
+of providing feedback to students in higher education; however, they also state that AIL is essential to control students' imple - mentation of AIAF. However, the significance of AIL in im - proving skills in idea implementation has not been extensively studied. Chang et al. (2023) emphasised that feedback from AI advances self-regulation and goal-setting in learning. However, they paid no attention to the effect of AI literacy on the practice of generating creative ideas. It is also evident from the literature that AI tools may help increase creativity levels; however, the aspects of how AIL and IIS interact are not discussed in depth (Lin and Chen2024). This shows the need for future research, which could be carried out to address these gaps on AI literacy and related variables included in this study. To address this gap, the researchers developed the following directional hypothesis.
+H3.  AI  literacy  significantly  moderates  the  relationship  be - tween university students' AI assessment feedback and their idea implementation skills.
+3   |   Theoretical Background
+Two theories guided this study. Both of the theories focus on the effective and ethical use of AI for helping students in their co- curricular activities. Technology Acceptance Model (TAM) the - ory fits into the current study and talks about the usefulness and ease of use of AI tools in education (Davis 1989). This operation - alises the study's first variable, AIAF, by providing students with confidence to use it in education. Perceived ease of use, which operationalises AIL, gives students confidence to manage AI systems in education. TAM hypothesises that a combination of trust and literacy is very important for students and this supports H1, which focus that AIAF can improve students' IIS.
+The Social Cognitive Theory (SCT) discusses the self-efficacy and confidence students have to overcome academic hurdles (Bandura 1986). This aspect is also very important even for the case of implementing various educational ideas. In the present study, AI literacy serves as a form of self-efficacy, with students who have better AIL being more confident in using AIAF. This increased confidence contributes to the better implementation 
+of their ideas. The SCT hypothesises that self-efficacy affects students' task and feedback orientation. When it comes to AI, the more AI-literate students there are, the more likely they are 
+to trust and use feedback to improve their ability to implement ideas. Such an idea corresponds to the second hypothesis (H2), which posits that TAI mediates the relationship between AIAF and IIS. The third hypothesis (H3) examines AIL's role as a moderator of the relationship between AIAF and IIS, high - lighting the importance of self-efficacy in implementing ideas.
+The researchers summarised how TAM and SCT relate to the variables and hypotheses of the current study. This link is pro - vided in Table1. It shows how constructs of these theories (per - ceived ease of use, perceived usefulness and self-efficacy) link to AI assessment feedback, trust in AI, AI literacy and idea imple - mentation skills, and they are associated with H1, H2 and H3.
+The hypotheses and the research model of the study are pre - sented in Figure 1. The SCT has played a pivotal role in shaping 
+
+
+TABLE 1    |    Mapping of TAM and SCT to study variables and hypothesis.
+ 
+  Theory          Key construct                      Related variable(s)                                                            Linked hypothesis
+  TAM             Perceived usefulness               AI assessment feedback: Students see AI feedback                               H1
+                                                     as useful for improving their work.
+  TAM             Perceived ease of use              AI literacy: Students' skills and comfort in using AI tools.                   H3
+  SCT             Self-efficacy                      AI literacy: Confidence in using AI                                            H2, H3
+                                                     to improve academic tasks.
+  SCT             Outcome expectations               Idea implementation skills: Using AI feedback                                  H1, H2
+                                                     to apply ideas in assignments.
+  SCT             Environmental and                  Trust in AI: Belief that AI feedback is reliable and helpful.                  H2
+                  cognitive factors
+
+European Journal of Education, 2026 3 of 10
+
+
+H1 
+Idea 
+AI AssessmenFeedback t Trust in AI H2 Implementation 
+Skills
+H3
+AI Literacy
+FIGURE 1    |    Research model.
+the research framework of the present study. The study explores AI literacy and its effects on students' capacity to work with AIAF. This makes SCT specifically applicable to the research as it addresses the impact of cognitive and motivational factors, including self-efficacy, on the efficacy of feedback and the suc - cessful execution of ideas.
+4   |   Methods
+4.1 |   Research Design
+The present study focused on investigating the contribution of AIAF, TAI and AIL to university students' IIS. This study was conducted on university students of a developing country where students have limited access to the internet and digital tools. Studies like this one are typically carried out under a positiv - ist research worldview (Ally 2024; Calzolari et al. 2025; Wasan et al. 2025). Following the positivist school of thought, a descrip - tive survey design was adopted in the current study, utilising cross-sectional survey data collection. This design is employed to study the specific situation or trends of a phenomenon at a given time and place, helping us understand how AIAF, TAI and AIL contribute to university students' IIS in the present tech-driven era. Thus, descriptive design with cross-sectional data collection was used in this study.
+4.2 |   Participants
+The participants in the current study were university students enrolled in master's programmes at public and private sector universities in Pakistan during the academic year 2024–2026. Inclusion and exclusion criteria were developed. Only students who were using AI in their academic tasks were considered. Students from master's programmes were chosen because they were relatively familiar with AI tools and recent developments in AI, having encountered them during their bachelor's studies. Bachelor's and PhD students were excluded due to unfamiliarity with tools and lower enrollment rates, respectively. Multi-stage, multi-method sampling techniques were used to select a sample of 486 university students. The researchers got support from the literature that this sample size is enough for descriptive studies (Kunselman 2024; Villamin et al. 2024). An overall summary of participants' characteristics is presented in Table 2.
+4.3 |   Instrumentation
+It was a challenge for researchers to find the appropriate tool, which can be used in the context of the current study to collect 
+TABLE 2    |    Demographic information of participants (N = 486). Variable Category N % Gender Male 224 46 Female 262 54
+Field of study Social sciences 287 59 Natural sciences 199 41
+Locality Urban 253 52 Rural 233 48
+data from the students of higher education in a developing coun - try. Then, we developed a questionnaire for data collection. It had two parts: the first covered their demographic information, including variables such as gender, discipline and locality. The second part consisted of four sub-scales. The items that measured these constructs were developed on a five-point Likert scale with options ranging from 1 (Strongly Disagree) to 5 (Strongly Agree). Initially, a pool of 36 items was developed, which was later sent to experts and piloted with 65 master-level students. Experts and piloted respondents provided feedback on the relevance of items to the study's objective and hypotheses, as well as on sentence structure and language. Based on their feedback, we modified certain items, and we removed overlapping and double-barreled items. The final questionnaire had 30 items. The reliability anal - ysis revealed that Cronbach's alpha for each sub-scale exceeded the 0.70 threshold, meeting the acceptance and suitability crite - ria for the scales (Bayır and Akel2024). The data were collected online using Google Forms. The final questionnaire was posted in Google Forms, and the link to the published form was shared with participants via WhatsApp and email. After sharing the links, participants were reminded twice, with a week between reminders. The data were collected during April and May 2025. The reliability analysis and instrument development process are mentioned in Table 3.
+The construct and convergent validity of the questionnaire were  further  established  through  exploratory  and  confir - matory factor analyses. EFA revealed four factors with item loadings  ranging  from  0.73  to  0.80,  indicating  strong  con - struct validity. CFA further confirmed the factor structure, with  standardised  loadings  ranging  from  0.75  to  0.84.  The model  fit  indices  were  satisfactory  (CFI = 0.95,  TLI = 0.93, RMSEA = 0.047,  SRMR = 0.039),  suggesting  an  excellent  fit. Composite reliability (CR) values ranged from 0.83 to 0.88, and  average  variance  extracted  (AVE)  values  exceeded  the 0.50  threshold,  thus  establishing  convergent  validity  for the four constructs (Hair et al. 2019). However, considering the word count constraint of the journal, we are not reporting tables related to EFA and CFA here.
+4.4 |   Data Analysis
+After collecting data, it was extracted into an Excel sheet. The analysis was carried out using Jamovi software (version 2.6.44). Before data analysis, the data were screened for missing values and outliers. Then, the assumptions of parametric statistics were tested, and the data met the assumptions, including normality 
+
+European Journal of Education, 2026
+ 
+
+TABLE 4    |    Correlation analysis (N = 486).
+ 
+ Variables                     1            2            3            4
+ AI Assessment Feedback (AIAF) 1 0.73***    1 0.68***    1 0.71***    1
+ Idea Implementation Skills
+  (IIS)
+ Trust in AI (TAI) AI Literacy
+  (AIL)
+***p < 0.001.
+and homogeneity of variance. Afterwards, Pearson's correlation, simple linear regression and simple mediation and moderation were conducted to test the study's hypotheses.
+4.5 |   Research Ethics
+The current study was approved by the Institutional Review Board (IRB) of the School Education Department, Government of  Punjab,  Pakistan.  The  study's  ethics  were  approved  and aligned  with  the  principles  written  in  the  Declaration  of Helsinki. The researchers obtained informed consent from par - ticipants before data collection. Participants' anonymity was en - sured by not requesting any personal information, such as their names, house numbers or other details that could reveal their identity. Participants' confidentiality was ensured by protect - ing data with a password. Moreover, it will not be shared with anyone at any cost and will be used only in the current study. They were also given the right to withdraw from the study pro - cess if they felt any harm was being caused. However, as the data were collected online, no physical or psychological harm was involved, and participants submitted their responses from the comfort of their homes or study campuses during their lei - sure time.
+5   |   Results
+Before applying simple linear regression, mediation and moder - ation analyses to test hypotheses, a Pearson correlation analysis was conducted to examine the level and direction of relation - ships among the study's variables. The results of the correlation analysis are provided in Table4.
+Table 4 provides the results of the correlation analysis. It re - vealed that the relationship between the independent (AIAF) and  dependent  (IIS)  variables  is  linear,  positive,  strong  and statistically significant (r = 0.73,  n = 486,  p < 0.001), providing a strong foundation for the simple linear regression for testing H1. Similarly, the relationship between the mediator (TAI) and dependent (IIS) variables is linear, positive, strong and statisti - cally significant (r = 0.68, n = 486, p < 0.001), providing a strong foundation  for  the  mediation  analysis  testing  H2.  Moreover, the relationship between TAI and AIL is also linear, positive, strong and statistically significant (r = 0.71, n = 486, p < 0.001). The graphical representation of the correlation is presented in Figure 2.
+5 of 10
+
+European Journal of Education, 2026
+AIAF IIS TAI AIL
+1.00
+0.75
+Corr: Corr: Corr:
+0.50 AIAF
+0.731*** 0.675*** 0.630***
+0.25
+0.00
+5 
+4 
+Corr:  Corr:  IIS 3 0.680*** 0.727***
+2
+5 
+4 
+Corr:
+TAI 3 0.710***
+2
+5 
+4 
+AIL
+3
+2
+2 3 4 5 2 3 4 5 2 3 4 5 2 3 4 5
+FIGURE 2    |    Correlation matrix.
+TABLE 5    |    Contribution of AIAF to IIS.
+(B = 1.025,  SE = 0.12,  t = 8.24,  p < 0.001).  These  findings  indi - cate that AIAF plays a significant role in the idea-implementing skills of university students.
+  Predictor                          B          SE       t        p
+  Intercept                          1.025 0.7260.12 0.038.24 23.5< 0.001
+  AI Assessment Feedback (AIAF)                                   < 0.001
+The researchers developed H2 to examine how TAI among stu - dents of a developing country can mediate the relationship be - tween AIAF and IIS among university students. The data were collected and analysed using a mediation analysis with a 95% confidence interval and a bootstrap sample of 1000. The results are presented in Table6.
+Note: Dependent variable = Idea Implementation Skills. R = 0.73, R2 = 0.53, 
+F (1, 484) = 552, p < 0.001.
+
+
+The researchers developed the H1 to examine how much AIAF contributes to IIS at the university level when students use these tools openly. After collecting data through a questionnaire, the data were analysed using simple linear regression, and the find - ings are presented in Table5.
+Table 5 provides the analysis for H1. Supporting H1, the results indicated  that  the  overall  model  was  statistically  significant (F[1, 484] = 552,  p < 0.001), suggesting that AIAF significantly predicts IIS in the higher education context. The model showed 
+a strong relationship, with an R value of 0.73 and an R2 of 0.54, indicating that approximately 54% of the variance in IIS can be explained by AIAF. The regression coefficient for AIAF was statistically significant (B = 0.726, SE = 0.03, t = 23.50, p < 0.001), indicating that a one-unit increase in AIAF is associated with 
+a 0.726-unit increase in IIS. The intercept was also significant 
+Table 6  presents  the  analysis  for  H2.  The  mediation  analy - sis  revealed  a  significant  indirect  effect  of  the  AIAF  on  the IIS  through  TAI  (B = 0.229,  SE = 0.04,  95%  CI  [0.164,  0.302], Z = 6.58,  p < 0.001).  It  suggests  that  the  TAI  accounted  for  a statistically meaningful portion of the relationship. The direct effect remained significant (B = 0.496, SE = 0.04, 95% CI [0.404, 0.578], Z = 11.20,  p < 0.001), indicating that the AIAF also di - rectly  influenced  the  IIS  even  after  accounting  for  the  TAI. Importantly, the proportion of the total effect that was mediated was 32%, while the direct path explained the remaining 68%. These results provide empirical evidence of partial mediation, supporting H2, which suggests that TAI plays a significant role, and the AIAF also has a strong direct influence on university students' IIS. The pictorial form of the mediation analysis is pro - vided in Figure3.
+
+
+The third hypothesis was developed to examine AIL's moder- The graphical representation of the moderating effect is pre - ating role in the relationship between AIAF and IIS at the uni- sented in Figure 4.
+versity level. The data were analysed using moderation analysis 
+at a 95% confidence interval on a bootstrap sample of 1000. The 
+results are presented in Table7. 6   |   Discussion
+
+
+Table 7 provides the analysis for H3. The analysis revealed that AIL did not significantly moderate the relationship be - tween  AIAF  and  IIS  at  the  university  level.  However,  the main effect of AIAF on university students' IIS was statisti - cally significant ( β = 0.434, SE = 0.04, 95% CI [0.355 to 0.5052], Z = 11.10, p < 0.001). Similarly, the main effect of AIL was also statistically  significant  ( β = 0.43,  SE = 0.04,  95%  CI  [0.353, 0.5218], Z = 9.70, p < 0.001). These findings suggest that both AIAF and AIL independently contribute positively to univer -
+sity  students'  IIS.  However,  the  interaction  effect  (AIAF  ✻ AIL) was not statistically significant (β = − 0.051, SE = 0.04, 
+95% CI [−0.108, 0645], Z = −1.13, p = 0.258). These results did not support our third hypothesis, where researchers believed that AIL can moderate in the developing countries' context. 
+The current study aimed to investigate how AIAF, TAI and AIL can influence the IIS of university students. The H1 was devel- oped to examine AIAF's contribution to university students' IIS. The analysis revealed a positive and significant impact of AIAF on the IIS among students, which supports the hypothesis that personal and timely feedback has a positive effect on refining and implementing academic ideas (Hooda etal.2022). The find-
+ing is consistent with previous studies reporting AI's potential 
+to enhance learning, provide actionable feedback and support students in the revision process (Bećirović et al. 2025; Chang etal.2023). The results align with recent studies indicating that AI-supported feedback significantly adds to students' ability to act on ideas in practical tasks, rather than just correcting for - matting or language (Demartini etal.2024; Venter etal.2025). 
+
+
+TABLE 6    |    Mediation estimates.
+95% confidence 
+interval (CI)
+Effect β SE Lower Upper Z p Mediation (%) Indirect 0.229 0.04 0.164 0.302 6.58 < 0.001 32 Direct 0.496 0.04 0.404 0.578 11.20 < 0.001 68 Total 0.726 0.04 0.653 0.792 19.85 < 0.001 100
+
+FIGURE 3    |    Mediation plot.
+TABLE 7    |    Moderation estimates.
+95% confidence 
+interval (CI)
+Variables β SE Lower Upper Z p
+ 
+  AI Assessment Feedback (AIAF) AI Literacy (AIL)  0.434 0.434 −0.051 0.04 0.05 0.04    0.355 0.353 −0.108 0.5052 0.5218 0.064511.10 9.70 −1.13 < 0.001
+  AIAF*AIL                                                                                                                                      < 0.001 0.258
+
+European Journal of Education, 2026 7 of 10
+
+
+1 
+0 
+AIL
+Average 
+Low (-1SD) -1 High (+1SD)
+-2
+-2 -1 0 1
+AIAF
+FIGURE 4    |    Moderation plot.
+
+European Journal of Education, 2026
+The researchers suggest that universities must support and train their students in the use of AI-based tools that provide person - alised responses to enhance the implementation of ideas.
+The mediation analysis for H2 shows that TAI partially medi - ates the relationship between AIAF and IIS. This finding aligns with Zhai and Nehm (2023), who found that trust in AI is cru - cial  for  students  to  act  on  AI-delivered  feedback  effectively. Conceptual work and meta-analyses on trust in AI indicate that students who are familiar with AI depend heavily on AI recom - mendations. They believe the AI systems are fair, transparent and accurate (Glikson and Woolley 2020; Kaplan et al. 2023). The current study's findings add to the literature by showing that students' trust contributes to the implementation of ideas in academic tasks. This implies that building trust in AI is essen - tial, but future studies should address factors of motivation and emotional engagement in the feedback-to-implementation pro - cess. The mediating effect of trust was not examined in previous studies, which mainly focused on either the immediate conse - quences of AIAF or isolated factors, such as AIL. This gap is addressed in our research, which demonstrates that partial trust mediates the relationship between AIAF and the implementa - tion of ideas. This extends the employability of SCT, which fo - cuses on the role of trust in students' self-efficacy in AIAF for successful IIS.
+The third hypothesis aimed to examine the moderating role of AIL between university students' AIAF and IIS. The analysis revealed that AIAF and AIL contribute to university students' IIS at individual levels. However, their combined effect was not that effective. This may happen: focusing on both variables at a single point in time may lead to disengagement or a lack of focus when generating or implementing problem-solving ideas. One possible explanation is that our participants may already have a similar, relatively high level of AI literacy, reducing the variation needed to detect a moderating effect. The previous studies reported that AI literacy is unevenly conceptualised and measured.  This  makes  behavioural  effects  harder  to  observe 
+(Almatrafi et al.2024; Chiu et al. 2024). These results indicate that although AIAF and TAI trust are significant factors in en - hancing students' implementation skills, the role of AI literacy may require further exploration.
+7   |   Conclusion
+The researchers developed this study in a higher education in - stitution in a developing country. The researchers' focus was to explore how AIAF, TAI and AIL may influence university students in successfully implementing ideas. The results af - firm that AIAF is essential for improving students' IIS skills, both  directly  and  indirectly  through  TAI.  Those  students who were confident in the AIAF were more ready to act on it, having improved their academic performance and creative thinking. This highlights the relevance of TAI as a mediator between feedback and implementation. Although AIL had a positive relationship with IIS, it did not moderate the AIAF- IIS  relationship  significantly,  an  unexpected  finding.  This indicates that even though AIL has worked in terms of inter - action with AI tools, it is not as significant in regulating the correlation between AIAF and the implementation of ideas. Furthermore, the current study extended the implications of SCT in the higher education context with the emerging trends 
+in AI. A few of the results, like AIAF significantly predicting and contributing to university students' IIS, are significant contributions to SCT. However, there is still a need to exam - ine how SCT can contribute more to exploring the mediation and moderation roles of TAI and AIL in the higher education context.
+8   |   Limitations and Future Directions
+Despite the several significant findings, our study has a few lim - itations. Firstly, although the mediating role of trust in AI was par - tially supported, the mediation effect was weaker than expected. 
+
+European Journal of Education, 2026
+This suggests that other factors might influence the process of AIAF to IIS. This limitation can be addressed by increasing the sample  size  or  by  including  participants  from  the  elementary or secondary levels. Secondly, AIL was found to be an insignif - icant moderator, which may limit the study's generalisability to 
+a broader population. However, this limitation can be addressed by designing the study to examine the possible causes of the in - significant moderation effect. Lastly, the research was conducted quantitatively through a questionnaire. To complement the lim - ited knowledge regarding the extent to which AIL and the level of trust may influence the implementation of ideas, future research could employ a mixed-methods approach, gathering additional qualitative information to define students' perceptions of and ex - periences with AIAF and how they utilise it in IIS.
+9   |   Implications
+The present study had several significant implications for the - ory, practice, policy and research. We extended the implications of SCT in the context of higher education systems in developing regions, where technology is not readily available and students lack AI education skills. We found that students' trust in their ability to use AI to generate and implement ideas for problem- solving and academic success is prominent. Furthermore, the findings revealed that AIAF greatly increases university stu - dents' IIS. The individual contributions of TAI and AIL in uni - versity students' IIS are also significant predictors. With these findings,  educational  institutions  can  provide  students  with support and infrastructure to learn more deeply how to incorpo - rate AI tools into the learning process, enabling them to respond more actively to AIAF and further develop their problem-solving and creativity skills. Based on these findings, we strongly sug - gest that higher education institutions develop and implement institutional policies providing support to students in the eth - ical and efficient use of AI in education. Universities can also launch a series of sessions to train students to receive relevant feedback by improving their AIL skills. Future research is also recommended to examine the causes and factors underlying the partial mediation of TAI and the insignificant moderating role of AIL in the relationship between university students' AIAF and ISS.
+Conflicts of Interest
+The authors declare no conflicts of interest.
+Data Availability Statement
+The data that support the findings of this study are available on request from the corresponding author. The data are not publicly available due to privacy or ethical restrictions.
+References
+Afroogh, S., A. Akbari, E. Malone, M. Kargar, and H. Alambeigi. 2024. “Trust in AI: Progress, Challenges, and Future Directions.” Humanities and Social Sciences Communications 11, no. 1: 1–30. https://doi.org/10. 1057/s41599-024-04044-8.
+Albers, B., A. Metz, K. Burke, et al. 2021. “Implementation Support Skills: Findings From a Systematic Integrative Review.” Research on 
+Social Work Practice 31, no. 2: 147–170. https://doi.org/10.1177/10497 31520967419.
+Ally,  Z.  2024.  “The  Interplay  of  Corporate  Governance,  Internal Audit Effectiveness, and Sustainable Financial Reporting Quality in Tanzanian Commercial Banks.” Business Strategy & Development 7, no. 3: e70016. https://doi.org/10.1002/bsd2.70016.
+Almatrafi, O., A. Johri, and H. Lee. 2024. “A Systematic Review of AI Literacy Conceptualization, Constructs, and Implementation and Assessment Efforts (2019–2023).” Computers and Education Open 6: 100173. https://doi.org/10.1016/j.caeo.2024.100173.
+Amani, J., and S. T. Mkimbili. 2025. “Developing Critical Thinking Skills  Among  Secondary  Schools  Students:  The  Role  of  Research Project.”  Thinking Skills and Creativity 58: 101883. https://doi.org/10. 1016/j.tsc.2025.101883.
+Bandura,  A.  1986.  “Social  Foundations  of  Thought  and  Action.” Englewood Cliffs, NJ 1986, no. 23–28: 2.
+Banihashem, S. K., N. T. Kerman, O. Noroozi, J. Moon, and H. Drachsler. 2024.  “Feedback  Sources  in  Essay  Writing:  Peer-Generated  or  AI- Generated Feedback?” International Journal of Educational Technology in Higher Education 21, no. 1: 1–15. https://doi.org/10.1186/s41239-024- 00455-4.
+Bayır,  T.,  and  G.  Akel.  2024.  “Gamification  in  Mobile  Shopping Applications: A Review in Terms of Technology Acceptance Model.” Multimedia Tools and Applications 83, no. 16: 47247–47268. https://doi. org/10.1007/s11042-023-16823-7.
+Bećirović,  S.,  E.  Polz,  and  I.  Tinkel.  2025.  “Exploring  Students'  AI Literacy and Its Effects on Their AI Output Quality, Self-Efficacy, and Academic Performance.” Smart Learning Environments 12, no. 1: 1–25. https://doi.org/10.1186/s40561-025-00384-3.
+Calzolari, T., A. Genovese, A. Brint, and S. Seuring. 2025. “Unlocking Circularity: The Interplay Between Institutional Pressures and Supply Chain Integration.”  International Journal of Operations & Production Management  45,  no.  2:  517–541.  https://doi.org/10.1108/IJOPM -10-2023-0860.
+Chang,  D.  H.,  M.  P.  C.  Lin,  S.  Hajian,  and  Q.  Q.  Wang.  2023. “Educational Design Principles of Using AI Chatbot That Supports Self-Regulated Learning in Education: Goal Setting, Feedback, and Personalization.”  Sustainability 15, no. 17: 12921. https://doi.org/10. 3390/su151712921.
+Chiu, T. K., Z. Ahmad, M. Ismailov, and I. T. Sanusi. 2024. “What Are Artificial  Intelligence  Literacy  and  Competency?  A  Comprehensive Framework  to  Support  Them.”  Computers  and  Education  Open  6: 100171. https://doi.org/10.1016/j.caeo.2024.100171.
+Choung, H., P. David, and A. Ross. 2023. “Trust in AI and Its Role in the Acceptance of AI Technologies.” International Journal of Human- Computer  Interaction  39,  no.  9:  1727–1739.  https://doi.org/10.1080/ 10447318.2022.2050543.
+Davis, F. D. 1989. “Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology.” MIS Quarterly 13: 319– 340. https://doi.org/10.2307/249008.
+Demartini, C. G., L. Sciascia, A. Bosso, and F. Manuri. 2024. “Artificial Intelligence Bringing Improvements to Adaptive Learning in Education: A Case Study.” Sustainability 16, no. 3: 1–25. https://doi.org/10.3390/ su16031347.
+Dilekçi, A., and H. Karatay. 2023. “The Effects of the 21st Century Skills Curriculum on the Development of Students' Creative Thinking Skills.” Thinking Skills and Creativity 47: 101229. https://doi.org/10.1016/j.tsc. 2022.101229.
+Gillath, O., T. Ai, M. S. Branicky, S. Keshmiri, R. B. Davison, and R. Spaulding.  2021.  “Attachment  and  Trust  in  Artificial  Intelligence.” Computers in Human Behavior 115: 106607. https://doi.org/10.1016/j. chb.2020.106607.
+9 of 10
+
+European Journal of Education, 2026
+Glikson,  E.,  and  A.  W.  Woolley.  2020.  “Human  Trust  in  Artificial Intelligence: Review of Empirical Research.” Academy of Management Annals 14, no. 2: 627–660. https://doi.org/10.5465/annals.2018.0057.
+Guo, K. 2024. “EvaluMate: Using AI to Support Students' Feedback Provision in Peer Assessment for Writing.” Assessing Writing 61: 100864. https://doi.org/10.1016/j.asw.2024.100864.
+Habib, S., T. Vogel, X. Anli, and E. Thorne. 2024. “How Does Generative Artificial Intelligence Impact Student Creativity?” Journal of Creativity 34, no. 1: 100072. https://doi.org/10.1016/j.yjoc.2023.100072.
+Hair, J. F., J. J. Risher, M. Sarstedt, and C. M. Ringle. 2019. “When to Use and How to Report the Results of PLS-SEM.” European Business Review 31, no. 1: 1–24. https://doi.org/10.1108/EBR-11-2018-0203.
+Hooda, M., C. Rana, O. Dahiya, A. Rizwan, and M. S. Hossain. 2022. “Artificial  Intelligence  for  Assessment  and  Feedback  to  Enhance Student  Success  in  Higher  Education.”  Mathematical  Problems  in Engineering 2022, no. 1: 5215722. https://doi.org/10.1155/2022/5215722.
+Hsia,  L.  H.,  G.  J.  Hwang,  and  J.  P.  Hwang.  2024.  “AI-Facilitated Reflective Practice in Physical Education: An Auto-Assessment and Feedback  Approach.”  Interactive  Learning  Environments  32,  no.  9: 5267–5286. https://doi.org/10.1080/10494820.2023.2212712.
+Jang, Y., S. Choi, and H. Kim. 2022. “Development and Validation of an Instrument to Measure Undergraduate Students' Attitudes Toward the Ethics of Artificial Intelligence (AT-EAI) and Analysis of Its Differences by Gender and Experience of AI Education.” Education and Information Technologies 27, no. 8: 11635–11667. https://doi.org/10.1007/s10639-022- 11086-5.
+Jones-Chick, R., E. K. Kelloway, and K. Birdi. 2022. “Clear Ideas: Can Idea Implementation Training Enhance the Development of New Ideas Beyond Idea Generation Training?” Journal of Creative Behavior 56, no. 1: 79–91. https://doi.org/10.1002/jocb.517.
+Kaplan, A. D., T. T. Kessler, J. C. Brill, and P. A. Hancock. 2023. “Trust in Artificial Intelligence: Meta-Analytic Findings.” Human Factors 65, no. 2: 337–359. https://doi.org/10.1177/00187208211013988.
+Khurma, O. A., F. Albahti, N. Ali, and A. Bustanji. 2024. “AI ChatGPT and Student Engagement: Unraveling Dimensions Through PRISMA Analysis  for  Enhanced  Learning  Experiences.”  Contemporary Educational Technology 16, no. 2: ep503. https://doi.org/10.30935/cedte ch/14334.
+Kim, J., H. Lee, and Y. H. Cho. 2022. “Learning Design to Support Student-AI Collaboration: Perspectives of Leading Teachers for AI in Education.”  Education and Information Technologies 27, no. 5: 6069– 6104. https://doi.org/10.1007/s10639-021-10831-6.
+Kong, S. C., M. Y. W. Cheung, and O. Tsang. 2024. “Developing an Artificial  Intelligence  Literacy  Framework:  Evaluation  of  a  Literacy Course for Senior Secondary Students Using a Project-Based Learning Approach.”  Computers and Education: Artificial Intelligence 6: 100214. https://doi.org/10.1016/j.caeai.2024.100214.
+Kuleto, V., M. Ilić, M. Dumangiu, etal. 2021. “Exploring Opportunities and  Challenges  of  Artificial  Intelligence  and  Machine  Learning  in Higher Education Institutions.” Sustainability 13, no. 18: 10424. https:// doi.org/10.3390/su131810424.
+Kunselman, A. R. 2024. “A Brief Overview of Pilot Studies and Their Sample Size Justification.” Fertility and Sterility 121, no. 6: 899–901. https://doi.org/10.1016/j.fertnstert.2024.01.040.
+Lee,  A.  V.  Y.  2023.  “Supporting  Students'  Generation  of  Feedback in  Large-Scale  Online  Course  With  Artificial  Intelligence-Enabled Evaluation.”  Studies in Educational Evaluation 77: 101250.  https://doi. org/10.1016/j.stueduc.2023.101250.
+Lin,  H.,  and  Q.  Chen.  2024.  “Artificial  Intelligence  (AI)-Integrated Educational Applications and College Students' Creativity and Academic Emotions:  Students'  and  Teachers'  Perceptions  and  Attitudes.”  BMC Psychology 12, no. 1: 1–16. https://doi.org/10.1186/s40359-024-01979-0.
+Lukyanenko, R., W. Maass, and V. C. Storey. 2022. “Trust in Artificial Intelligence:  From  a  Foundational  Trust  Framework  to  Emerging Research  Opportunities.”  Electronic  Markets  32,  no.  4:  1993–2020. https://doi.org/10.1007/s12525-022-00605-4.
+Ng,  D.  T.  K.,  J.  K.  L.  Leung,  S.  K.  W.  Chu,  and  M.  S.  Qiao.  2021. “Conceptualizing AI Literacy: An Exploratory Review.” Computers and Education:  Artificial  Intelligence  2:  100041. https://doi.org/10.1016/j. caeai.2021.100041.
+Omrani, N., G. Rivieccio, U. Fiore, F. Schiavone, and S. G. Agreda. 2022. “To Trust or Not to Trust? An Assessment of Trust in AI-Based Systems: Concerns, Ethics and Contexts.” Technological Forecasting and Social Change 181: 121763. https://doi.org/10.1016/j.techfore.2022.121763.
+Owan, V. J., K. B. Abang, D. O. Idika, E. O. Etta, and B. A. Bassey. 2023. “Exploring the Potential of Artificial Intelligence Tools in Educational Measurement  and  Assessment.”  Eurasia  Journal  of  Mathematics, Science and Technology Education 19, no. 8: em2307. https://doi.org/10. 29333/ejmste/13428.
+Sidekerskienė,  T.,  and  R.  Damaševičius.  2023.  “Out-Of-The-Box Learning: Digital Escape Rooms as a Metaphor for Breaking Down Barriers in STEM Education.” Sustainability 15, no. 9: 7393. https://doi. org/10.3390/su15097393.
+Sperling, K., C. J. Stenberg, C. McGrath, A. Åkerfeldt, F. Heintz, and L. Stenliden. 2024. “In Search of Artificial Intelligence (AI) Literacy in Teacher Education: A Scoping Review.” Computers and Education Open 6: 100169. https://doi.org/10.1016/j.caeo.2024.100169.
+Stolpe, K., and J. Hallström. 2024. “Artificial Intelligence Literacy for Technology  Education.”  Computers  and  Education  Open  6:  100159. https://doi.org/10.1016/j.caeo.2024.100159.
+Topping,  K.  J.,  E.  Gehringer,  H.  Khosravi,  S.  Gudipati,  K.  Jadhav, and  S.  Susarla.  2025.  “Enhancing  Peer  Assessment  With  Artificial Intelligence.” International Journal of Educational Technology in Higher Education 22, no. 1: 1–33. https://doi.org/10.1186/s41239-024-00501-1.
+Valtonen,  A.,  J.  P.  Kimpimäki,  and  I.  Malacina.  2023.  “From  Ideas to  Innovations:  The  Role  of  Individuals  in  Idea  Implementation.” Creativity and Innovation Management 32, no. 4: 636–658. https://doi. org/10.1111/caim.12577.
+Venter, J., S. A. Coetzee, and A. Schmulian. 2025. “Exploring the Use of Artificial Intelligence (AI) in the Delivery of Effective Feedback.” Assessment & Evaluation in Higher Education 50, no. 4: 516–536. https:// doi.org/10.1080/02602938.2024.2415649.
+Villamin, P., V. Lopez, D. K. Thapa, and M. Cleary. 2024. “A Worked Example of Qualitative Descriptive Design: A Step-By-Step Guide for Novice and Early Career Researchers.” Journal of Advanced Nursing 81: 5181–5195. https://doi.org/10.1111/jan.16481.
+Wasan, P., S. Luthra, K. Mulchandani, and S. Vishnani. 2025. “Interplay Between  Financial  Markets,  Environmental  Stewardship,  Gender Diversity, and Firm Size in Emission-Intensive Sectors of Emerging Asian Economies: A Board-Level Perspective.” Business Strategy and the Environment 34, no. 2: 2139–2166. https://doi.org/10.1002/bse.4086.
+Yang, R., and S. Wibowo. 2022. “User Trust in Artificial Intelligence: A Comprehensive Conceptual Framework.” Electronic Markets 32, no. 4: 2053–2077. https://doi.org/10.1007/s12525-022-00592-6.
+Yim,  I.  H.  Y.  2024.  “A  Critical  Review  of  Teaching  and  Learning Artificial Intelligence (AI) Literacy: Developing an Intelligence-Based AI Literacy Framework for Primary School Education.” Computers and Education:  Artificial  Intelligence  7:  100319.  https://doi.org/10.1016/j. caeai.2024.100319.
+Zhai, X., and R. H. Nehm. 2023. “AI and Formative Assessment: The Train Has Left the Station.” Journal of Research in Science Teaching 60, no. 6: 1390–1398. https://doi.org/10.1002/tea.21885.
+European Journal of Education, 2026

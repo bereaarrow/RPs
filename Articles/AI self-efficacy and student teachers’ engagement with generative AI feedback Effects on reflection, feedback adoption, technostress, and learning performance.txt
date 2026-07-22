@@ -1,0 +1,321 @@
+﻿EDUCATIONAL PSYCHOLOGY 
+https://doi.org/10.1080/01443410.2026.2696430 
+
+AI self-efficacy and student teachers  engagement with generative AI feedback: Effects on reflection, feedback adoption, technostress, and learning performance
+Yuchen Chena  , Yun-Fang Tub,c , Gwo-Jen Hwangd,b,e and  Xiao-Pei Mengf
+aSydney School of Education and Social Work, The University of Sydney, Sydney, NSW, Australia; bGraduate Institute of Digital Learning and Education, National Taiwan University of Science and Technology, Taipei, Taiwan;  cDepartment  of  Data  Science,  Soochow  University, Taipei,  Taiwan;  dGraduate  Institute  of Educational Information and Measurement, National Taichung University of Education, Taichung, Taiwan; eYuan  Ze University, Taoyuan, Taiwan; fCollege  of  Education,  Wenzhou University, Chashan  University Town, Wenzhou City, China
+ABSTRACT ARTICLE HISTORY Although generative artificial intelligence (GenAI) has been applied  Received 22 March 2025 in  education,  little  is  known  about  how  student  teachers  engage  Accepted 25 June 2026
+with GenAI feedback in reflective learning, or how AI self-efficacy  KEYWORDS
+shapes this process. This study integrated GenAI feedback into dig- generative artificial 
+ital storytelling for student teachers  professional identity reflection.  intelligence (GenAI) 
+It  examined  the  reflection  level,  feedback  adoption,  and  self-  feedback; reflective evaluation of DST work of student teachers with high AI self-efficacy  learning; AI self-efficacy; (HAISE) and low AI self-efficacy (LAISE). Group differences in GenAI GenAI literacy; 
+literacy,  technostress,  continuous  usage  intention,  and  learning  technostress; continuous performance were also explored. The sample comprised 76 student  usage intention
+teachers. Results disclosed that: (1) Most student teachers reached 
+reflection level with the support of GenAI feedback; (2) The HAISE 
+group  tended  to  adopt  GenAI  feedback  to  improve  their  digital 
+stories; and (3) The HAISE group outperformed the LAISE group in 
+GenAI  literacy,  technostress,  and  learning  performance.  The  find -
+ings  have  implications  for  AI  self-efficacy,  feedback  engagement, 
+and GenAI-facilitated reflective learning.
+Introduction
+Within teacher education, self-reflection plays an important role in student teachers  professional  development,  including  their  evolving  understanding  of  professional identity,  beliefs,  and  values  (Engelbertink  et al.,  2021;  K rkk   et al.,  2016;  McKay, 2021).  Digital  storytelling  (DST),  implemented  as  a  short  narrative  video,  has  been widely  used  to  engage  student  teachers  in  reflecting  on  personal  experiences  and expressing  developing  perspectives  on  teaching  and  learning  (Isaacs  et al.,  2024; 
+CONTACT Yun-Fang Tu  sandy0692@gmail.com  Graduate Institute of Digital Learning and Education, National Taiwan University of Science and Technology, Taipei, Taiwan.
+' 2026  Informa UK Limited, trading as Taylor & Francis Group
+
+EDUCATIONAL PSYCHOLOGY 21
+Khoo et al., 2024; Mar n et al., 2018). However, student teachers often lack high-quality and real-time feedback during the DST process, which may hinder the depth of their reflections (Kim et al., 2021; Rohloff, 2021).
+Generative  artificial  intelligence  (GenAI)  has  rapidly  transformed  education  by offering timely, diverse, context-aware feedback that supports content creation, lan -guage refinement, and creative expansion (Gillani et al.,  2023; Hwang & Chen, 2023). GenAI  has  the  potential  to  optimise  DST  by  providing  personalised  feedback  to facilitate  student  teachers   reflective  learning  (Cai  et al.,  2025;  Chan  &  Tsi, 2024). However, the role of GenAI feedback in education remains debated (Lu & Ba,  2026). Some studies have indicated that learners adopt GenAI feedback because it provides targeted guidance and improves task quality, whereas others avoid adopting GenAI feedback  due  to  concerns  about  reliability,  accuracy  or  over-dependence  (Yang  & Appleget,  2024;  Ziqi  et al., 2026).  Despite  the  growing  integration  of  GenAI  into education, limited research has examined how student teachers engage with GenAI feedback  in  reflective  learning  and  professional  development  contexts,  and  how individual differences, such as AI self-efficacy, influence this process.
+Self-efficacy  is  a  psychological  factor  that  influences  individuals   perceptions, behaviours,  and  performance  when  adopting  new  technologies  (Bandura,  1977). Typically,  student  teachers  with  high  self-efficacy  tend  to  adopt  technology  more flexibly, while those with low self-efficacy may face stress and low willingness to use technology (Bai et al., 2023; Joo et al., 2018). In the context of AI, AI self-efficacy refers to  individuals   perceived  confidence  in  their  ability  to  use  AI  technologies  (Wang  & Chuang,  2024).  However,  little  is  known  about  how  AI  self-efficacy  shapes  student teachers  engagement with GenAI feedback during reflective learning processes.
+Moreover,  AI  self-efficacy  may  shape  contextual  and  psychological  outcomes  in GenAI-facilitated learning contexts. GenAI literacy reflects the competence to understand, apply, and critically evaluate GenAI (Chen, 2025); technostress represents the psycho - logical strain of experiencing GenAI (Qi, 2019); and continuous usage intention indicates the likelihood that training transfers to sustained use of GenAI in teaching (Liu et al., 2025). Several studies have found a direct relationship between self-efficacy and GenAI literacy, technostress, and continuous usage intention (Chen,  2025; Joo et al., 2018; Qi, 2019).  However,  empirical  evidence  regarding  how  AI  self-efficacy  influences  these outcomes and how these factors are related to one another remains limited.
+Building on these insights, this study integrated GenAI feedback and DST for stu - dent teachers  professional identity reflection. Within this context, it investigated the reflection level and feedback engagement (GenAI feedback adoption, GenAI feedback satisfaction,  and  self-evaluation  of  DST)  of  student  teachers  with  different  levels  of AI self-efficacy. It further explored group differences in learning performance, GenAI literacy, technostress, and continuous usage intention, and examined the relationships among these factors. The research questions are as follows:
+RQ1: What are the differences in the reflection level of student teachers with dif -
+ferent levels of AI self-efficacy?
+RQ2:  What  are  the  differences  in  the  GenAI  feedback  adoption,  GenAI  feedback 
+satisfaction, and self-evaluation of DST work of student teachers with different levels of AI self-efficacy?
+RQ3: What are the differences in the GenAI literacy, technostress, continuous usage 
+intention, and learning performance of student teachers with different levels of AI self-efficacy? What are the relationships among these factors?
+Literature review
+Reflection and professional identity through digital storytelling (DST)
+Professional identity is a self-concept that reflects teachers  understanding of professional roles and beliefs (Walkington,  2005). It is developed through an ongoing process of pro - fessional development (Kim et al.,  2021; K rkk  et al.,  2016). Within this context, reflection plays an important role in shaping student teachers  professional identity, as it deepens their understanding of their professional roles and values through self-examination and meaning-making (McKay, 2021; Sutherland et al., 2010). Kelchtermans (2009) highlighted task perception as one component of professional identity that can be inferred from how teachers interpret what their profession demands. Engelbertink et al. (2021) further indi- cated that task perception can be traced through reflections on how teachers understand 
+their  duties,  values,  and  moral  considerations.  Grounded  in  Kelchtermans  (2009)  and Engelbertink et al. (2021), this study operationalised identity-relevant reflection using three observable indicators: (1) role interpretation, reflected in how student teachers describe and make sense of their professional roles and responsibilities; (2) pedagogical judgement, reflected in how they assess teaching practices, decisions, or experiences; and (3) peda - gogical beliefs, reflected in how they connect their reflections to broader teaching philos - ophies, values, or ethical considerations.
+DST has been introduced to support student teachers  reflection on their profes - sional identity (Isaacs et al., 2024; Mar n et al., 2018). Previous studies have demon - strated that student teachers can create digital stories to vividly present their personal 
+and professional experiences and to reflect on their identity (Kim et al.,  2021; Mar n et al., 2018). For example, Kim et al. (2021) introduced DST to support student teach - ers   reflection.  By  analysing  DST  works,  the  researchers  found  that  DST  facilitated student  teachers   deep  reflection  and  transformed  their  perspectives  from  purely relying  on  personal  experiences  to  understanding  educational  goals.  Additionally, Mar n  et al.  (2018)  found  that  DST  could  enable  student  teachers   reflection  and achieve the transition from an emotionally driven identity to a more value-oriented and  reality-aware  identity.  However,  reflection  often  depends  on  effective  feedback during the DST process (Kim et al., 2021; Rohloff, 2021). Without sufficient support, student teachers may struggle to deepen their reflections. Therefore, providing timely and specialised feedback in DST is essential for professional identity reflection.
+GenAI feedback-facilitated learning
+GenAI refers to AI technologies based on large language models that can generate various types of content (Hwang & Chen,  2023). By allowing users to input requests, GenAI can offer timely and corresponding feedback, which can help content creation, language  refinement,  creative  expansion,  and  self-reflection  (Gillani  et al.,  2023). In recent years, GenAI feedback has been introduced at different educational levels and  disciplines  (Chien  et al.,  2025;  Koong  Lin  et al., 2025; Yang  &  Appleget, 2024). Several  studies  have  demonstrated  that  GenAI  feedback  could  enhance  students  learning outcomes, critical thinking, and problem-solving skills (e.g., Chen et al., 2025; Koong Lin et al., 2025).
+GenAI feedback has also demonstrated potential in teacher education. For example, Yang and Appleget (2024) found that GenAI feedback could improve pre-service teach - ers  efficiency in designing questions and lesson plans, help diversify their perspectives, and enhance their creative thinking. Additionally, Moorhouse and Kohnke (2024) found that GenAI could offer personalised corrective feedback to enable pre-service English teachers to refine their lesson plans and teach more effectively.
+Moreover, recent studies have integrated GenAI feedback into DST. For example, Cheung and Shi (2024) and Chu et al. (2025) applied GenAI feedback to support university students  DST. They demonstrated that GenAI could enhance the structure, accuracy, and interactivity of  digital  stories.  Despite  these  positive  findings,  evidence  of  GenAI  feedback  and  DST supporting identity-relevant reflection remains limited. Accordingly, this study incorporated GenAI feedback into DST to support identity-relevant reflection.
+Despite the benefits of GenAI feedback, existing studies have demonstrated that students have different degrees of engagement in the adoption and perceptions of GenAI feedback. For instance, Ziqi et al. (2026) found that in second-language essay writing, college students tended to reject or disregard content-related GenAI feedback while demonstrating higher acceptance and satisfaction with form-related feedback. Those  who  rejected  GenAI  feedback  tended  to  adhere  to  their  own  ideas.  These findings suggest that learners  engagement with GenAI feedback is not uniform and may be shaped by individual differences.
+AI self-efficacy in GenAI-facilitated learning
+Self-efficacy involves individuals  confidence in their ability to perform specific tasks (Bandura,  1977).  Self-efficacy  should  be  studied  in  context  (Tsai  et al.,  2011).  This study focused on self-efficacy in AI contexts and described AI self-efficacy as individ- uals  perceived confidence in their ability to use AI technologies (Wang & Chuang, 2024).
+Self-efficacy is described as being related to learners  engagement and behavioural decisions (Bandura, 1977). Previous work has shown that learners with higher self-efficacy tend to monitor their learning and critically evaluate and integrate feedback into their understanding, which may support productive reflection (Bassleer et al.,  2025; Tu et al., 2026). This reflective process has been linked to learners  acceptance of GenAI feedback (Tu et al., 2026). Evidence also suggests that higher AI self-efficacy is associated with greater engagement with GenAI feedback, as learners report feeling more confident in interacting with and utilising GenAI outputs (Bergdahl & Sj berg,  2025; Liu et al., 2025). Accordingly, these studies suggest a conceptual pathway in which AI self-efficacy may be associated with GenAI feedback engagement through reflective processes.
+AI  self-efficacy  has  also  been  identified  as  a  key  factor  associated  with  a  range  of learning outcomes and perceptions in GenAI-facilitated learning (e.g., Bergdahl & Sj berg, 2025; Wang & Chuang, 2024). Studies have suggested that teachers  self-efficacy is related to their attitudes towards and intentions to use technology (Bai et al.,  2023; Joo et al., 2018). Collie et al. (2024) and Joo et al. (2018) reported positive relationships between self-efficacy and student teachers  learning performance, GenAI literacy, technostress, and willingness to adopt new technologies. Dong et al. (2020) further found a negative rela - tionship between teachers  self-efficacy and technostress; teachers with high self-efficacy tended  to  report  feeling  more  at  ease  using  technology,  whereas  those  with  low self-efficacy reported higher levels of stress. However, empirical evidence regarding how AI self-efficacy is associated with student teachers  reflection, GenAI feedback engagement, and  related  contextual  constructs  remains  limited.  Hence,  this  study  investigated  the reflection  level  and  feedback  engagement  (GenAI  feedback  adoption  and  satisfaction, self-evaluation of DST) of student teachers with different levels of AI self-efficacy. It further explored  group  differences  in  learning  performance,  GenAI  literacy,  technostress,  and continuous usage intention, and examined the relationships among these factors.
+Method
+Context and participants
+This  research  was  conducted  based  on  a  professional  development  program  at  a Chinese  normal  university.  The  sample  included  76  student  teachers  (14  males,  52 females; Meanage = 20.8 years). This program was taught by an experienced instructor. All participants had previous experience of using text-GenAI and DST, but none had received formal training in using GenAI with DST. This study received approval from the  ethics  board  of  the  researchers   university  (WZU-2024-091).  All  participants  vol- untarily engaged in this research.
+Research implementation
+This study was conducted based on a compulsory professional development program 
+ The Applications of GenAI in Education.  This program aimed to help student teachers understand the potential and challenges of GenAI, comprehend various GenAI tech - nologies (text-GenAI, image-GenAI, music-GenAI, and video-GenAI), master the basic techniques of DST, and reflect on their professional identity in relation to integrating GenAI into instruction. It was expected to enhance their ability and belief in applying GenAI in instruction. The final task involved identity-relevant reflection, which required student teachers to create a DST work on  an ideal teacher for integrating GenAI into instruction.  Student teachers were encouraged to interact with GenAI and receive its feedback during the DST process.
+Figure  1  presents  the  research  procedure.  The  course  lasted  6 weeks  (80-minute session/week). The details are presented as follows, and refer to the TEP-AIED model recommended by Hwang et al. (2026):
+Week  1  involved  an  orientation  on  the  course  content  and  objectives,  and  then 
+the  student  teachers  were  invited  to  complete  the  pre-questionnaire  on  AI self-efficacy. The teacher instructed learners on the fundamental knowledge of GenAI,  and  invited  them  to  explore  its  advantages  and  challenges  through two case studies (one that met an educational need and another that contained biased or misleading information) to foster their critical thinking.
+
+Figure 1.  Experimental procedure.
+Week  2  involved  DST  training.  The  teacher  explained  key  elements  of  DST  and 
+demonstrated typical GenAI tools. Student teachers created digital stories and generated images using simple prompts to gain hands-on experience.
+Week 3 involved training on the application of GenAI in instruction, and encouraged 
+discussions  on  pedagogical  ideas  regarding  GenAI  in  instruction.  The  teacher showcased  pedagogical  applications  of  GenAI  with  two  examples,  and  used GenAI  to  generate  historical  event  stories  to  boost  engagement  and  compre - hension. For example, students used GenAI to generate short stories with images to enhance narrative and visual expression skills for language learning.
+Week 4 involved GenAI-based lesson design and group practices. Student teachers 
+collaborated in small groups to design GenAI-based teaching activities. During the  process,  they  received  peer  feedback  and  improved  their  instructional designs.
+Week 5 served as the final course work. Student teachers created a DST work on 
+ an ideal teacher who can integrate GenAI into instruction.  During the process, they were encouraged to interact with GenAI and receive its feedback. Then, they completed a reflection report to evaluate their experiences.
+Week 6 involved sharing DST work and completing post-questionnaires on GenAI 
+literacy, technostress, and continuous usage intention.
+Measuring tools
+The  measuring  tools  included  a  pre-questionnaire  of  AI  self-efficacy  and post-questionnaires of GenAI literacy, technostress, and continuous usage intention. All questionnaires were assessed using a 5-point Likert scale. The reliability of these tools (see  Table 1) met the criteria of Nunnally and Bernstein (1994).
+The  AI  self-efficacy  questionnaire  was  adapted  from  Dong  et al.  (2020)  to  assess student  teachers   confidence  in  their  ability  to  use  AI  technology.  It  included  five items. A sample item is:  If I put in my best effort, I believe I can overcome all diffi- culties  in  applying  AI  technology.   Previous  research  demonstrated  that  using  the upper and lower half of mean scores is appropriate to divide high- and low-performance groups  (Chen  et al.,  2025;  Hwang  et al., 2023).  Based  on  this  practice,  the  sample was divided into two groups according to their mean scores of AI self-efficacy (N = 76, Mean = 3.79): the high AI self-efficacy (HAISE) group (n = 38, Mean = 4.14) and the low  AI  self-efficacy  (LAISE)  group  (n = 38,  Mean  =  3.45).  Significant  differences  were detected in the two groups  AI self-efficacy ( t = 9.85, p < 0.001, d = 2.26).
+The GenAI literacy questionnaire was adapted from Wang et al. (2023) to evaluate student  teachers   ability  to  understand,  apply,  and  evaluate  GenAI.  It  included  12 items. Sample items are:  I can proficiently use GenAI applications or tools to assist in my daily tasks,  and  I always adhere to ethical principles when using GenAI pro - grams or products. 
+The  technostress  questionnaire  was  adapted  from  Dong  et al.  (2020)  to  assess learners  stress when using GenAI tools. It included 10 items. A sample item is  Using GenAI tools does not make me feel nervous or anxious.  This scale is reverse-scored, where higher scores indicate lower perceived technostress.
+The continuous usage intention questionnaire was adapted from Falode (2018) to assess learners  intention to continue using GenAI. It had five items. A sample item includes:  The integration of GenAI technology in teaching and learning is a positive initiative. 
+The reflection report was designed by two experts in educational technology, and comprised three parts:
+Adoption of GenAI feedback
+Student teachers reported whether they adopted GenAI feedback or adhered to their own ideas, and explained their reasons.
+Satisfaction with GenAI feedback
+Student teachers rated their satisfaction with the GenAI feedback on a 5-point scale (1 = very dissatisfied, 5 = very satisfied).
+Table 1.  The reliability of the measuring instruments.
+Measures                                 Stages                      No. of items                     Reliability
+AI self-efficacy                         Pre-test Posttest Posttest  5 12 10 5                        0.77 0.87 0.90 0.82
+GenAI literacy Technostress               Posttest
+Continuous usage intention
+Self-evaluation of their DST work
+Student teachers assessed their DST work using a 5-point scale (1 = very dissatisfied, 5 = very satisfied).
+Moreover, this study evaluated the level of identity-relevant reflection on  an ideal teacher  integrating  GenAI  into  teaching.   Student  teachers   DST  work  was  analysed using content analysis, focusing on three indicators: role interpretation, pedagogical judgement, and pedagogical belief. The coding scheme was adapted from Engelbertink et al. (2021) (see Figure 2).
+Data analysis
+For RQ1, two well-trained researchers coded reflection reports based on the coding scheme (see  Figure 2 and Appendix). Discrepancies were resolved through discussion. The Cohen s Kappa at this stage was 0.84, indicating good reliability (Landis & Koch, 1977). Descriptive statistics of the coding results are presented.
+For RQ2, descriptive statistical analyses were conducted to examine the following aspects  across  the  two  groups:  (1)  GenAI  feedback  adoption,  (2)  GenAI  feedback satisfaction, and (3) self-evaluation of DST works. Additionally, a content analysis of student teachers  reflection reports was conducted to explore the reasons for adopting 
+or  rejecting  GenAI  feedback.  Responses  were  categorised  into  themes.  The  theme frequencies are presented descriptively overall and by groups. The Cohen s Kappa was 0.88, indicating good reliability (Landis & Koch, 1977).
+For  RQ3,  according  to  data  normality,  either  an  independent  samples  t  test  or  a Mann—Whitney U  test  was  conducted  to  compare  group  differences  in  the  GenAI literacy,  technostress,  continuous  usage  intention,  and  learning  performance. 
+
+Figure 2.  Coding scheme of the reflection levels.
+Additionally, Pearson correlation analysis was performed to examine the relationships between  variables.  Moreover,  tests  for  linearity  and  homoscedasticity  assumptions were conducted before regression analysis. Hierarchical regression analysis was then employed to explore the effects of GenAI literacy, technostress, and continuous usage intention on learning performance.
+Common method bias
+As  this  study  involved  self-reported  measures,  several  efforts  were  made  to  minimise potential common method bias (Podsakoff et al.,  2003). First, participants were assured of anonymity and confidentiality to reduce social desirability and evaluation apprehen - sion. Second, to reduce same-source and same-time measurement concerns, AI self-efficacy was  measured  at  the  pre-test  stage,  whereas  the  other  variables  were  collected  after the  program.  Moreover,  Harman s  single-factor  test  was  conducted.  The  first  factor accounted for 32.05% of the variance, which was below the commonly used 40% thresh - old, suggesting that common method bias was not a serious concern in this study.
+Results
+The reflection level
+As presented in  Figure 3, none of the student teachers in the two groups fell into the 
+ non-related  category. Four in the HAISE group and six in the LAISE group were catego - rised into the  descriptive writing  level, while none in the HAISE group and two in the LAISE group were categorised into the  descriptive reflection  level. Additionally, only one in the HAISE group was categorised into the  critical reflection  level. Notably, most student teachers, 33 from the HAISE group and 30 from the LAISE group, were categorised into the  reflection  level. These findings suggest that most student teachers  DST work focused on  how  teachers  understand  and  implement  teaching  activities  with  GenAI  (e.g.,  the applications of GenAI technologies, solutions to ethical issues, and the design of teaching).
+The HAISE and LAISE groups  adoption of and satisfaction with  GenAI feedback, and self-evaluation of their DST works
+Figure  4  illustrates  the  distribution  of  adoption  of  GenAI  feedback.  Overall,  more student teachers adopted GenAI feedback (60.52%) than adhered to their own ideas 
+
+Figure 3.  Results of the reflection level.
+
+Figure 4.  Adoption of GenAI feedback by the two groups.
+
+Figure 5.  Reasons student teachers considered when deciding whether to adopt GenAI feedback.
+(39.48%). More specifically, the HAISE group was more inclined to adopt GenAI feed- back  (32.89%)  than  to  adhere  to  their  own  ideas  (17.11%).  In  contrast,  the  LAISE group was more conservative regarding the GenAI feedback, with 27.63% adopting GenAI feedback and 22.37% adhering to their own ideas. This suggests that the HAISE group was more amenable to GenAI feedback than the LAISE group.
+Figure 5 presents the reasons student teachers considered when deciding whether 
+or not to adopt GenAI feedback. Student teachers adopted GenAI feedback for the reasons of content richness (40), optimising language expression (17), improving work efficiency (10), supplementary perspectives (14), and emotional richness (10). However, they  resisted  GenAI  feedback  because  they  considered  emotional  authenticity  (4), realism and humanity (9), subjective emotions and creation intentions (13), creativity and  independence  (12),  and  understanding  and  managing  ability  (2). These  results 
+suggest  that  student  teachers  selectively  adopt  GenAI  feedback  rather  than  totally 
+and uncritically accepting it.
+Additionally, the two groups mentioned content richness most, indicating that they underscored the role of GenAI feedback in enhancing the depth and completeness 
+of the narratives of DST works. For instance, HAISE02 (number two student teacher in the HAISE group) stated,  GenAI expanded my ideas and enriched the content of my digital  story.   Similarly,  LAISE08  noted,  GenAI  feedback  made  my  story  content  more complete, and the character portrayal aligned closely with my ideas.  Furthermore, both groups demonstrated similar frequencies regarding optimising language expression, emotional  richness,  supplementary  perspectives,  and  creativity  and  independence, highlighting the broad applicability of GenAI feedback in these aspects.
+The  HAISE  group  placed  greater  emphasis  on  the  emotional  authenticity   and 
+ realism and humanization  of GenAI feedback than the LAISE group. Example responses from the two groups are as follows:
+I feel that humans have emotions, but GenAI feedback is mechanical sometimes, and lacks emotional feedback. (HAISE11)
+The content generated by GenAI doesn t align with my imagination of an ideal teacher; it lacks humanity. (HAISE17)
+Unlike  human-created  ideas,  GenAI  feedback  has  a  sense  of  mass-produced  uniformity and less humanity. However, GenAI does help offer a structured presentation of DST work. (HAISE38)
+I am selective of GenAI feedback as some content created by GenAI is overly idealistic and detached from reality. (LAISE38)
+These findings suggest that the HAISE group focused more on real-world scenarios and human emotional expression, underscoring the significance of human emotional expression in GenAI feedback.
+In contrast, the LAISE group focused more on improving work efficiency provided by  GenAI  feedback.  Additionally,  only  the  LAISE  group  emphasised  the  ability  to understand  and  manage  GenAI  feedback.  Example  responses  from  the  LAISE group follow:
+GenAI can provide timely feedback. It helps me complete my DST work faster. (LAISE03)
+GenAI feedback cannot fully meet my needs. The content lacked flexibility, making it dif - ficult for me to adjust and control the outcome. (LAISE15)
+It  is  sometimes  difficult  to  evaluate  the  accuracy  of  GenAI  feedback.  Hence,  I  need  to spend extra time analyzing and verifying it. (LAISE21)
+These findings indicate that the LAISE group prioritised GenAI feedback accelerating the creation process. Notably, they might have lower adaptability of GenAI feedback and require additional time to evaluate its applicability and accuracy.
+Figure 6 presents the two groups  satisfaction with GenAI feedback and self-evaluation of DST work. The results show that the HAISE group reported higher satisfaction with GenAI  feedback  (Mean  =  4.13)  compared  to  the  LAISE  group  (Mean  =  3.84),  which suggests  their  greater  acceptance  of  such  feedback.  Additionally,  the  HAISE  group 
+
+Figure 6.  Distribution of satisfaction with GenAI feedback and self-evaluation of DST work.
+had a higher self-evaluation score (Mean = 4.39) than the LAISE group (Mean = 4.08). This indicates that the HAISE group tended to evaluate their DST work more positively.
+Analysis of learning performance, GenAI literacy, technostress, and continuous usage intention of the HAISE and LAISE groups
+Learning performance
+The Shapiro-Wilk tests showed the normal distribution of the learning performance data  (p  > .05).  Hence,  the  independent  sample  t  test  was  performed  (see  Table  2), showing that the two groups differed significantly in learning performance (t = 5.18, 
+p < .001, d = 1.19). Specifically, the HAISE group (Mean = 21.11, SD = 2.06) had signifi- cantly better learning performance than the LAISE group (Mean = 18.58,  SD = 2.19).
+GenAI literacy
+As GenAI literacy data were not normally distributed ( p < .001), the Mann—Whitney U test  was  performed. The  results  (see  Table  3)  showed  that  the  two  groups  differed significantly  in  GenAI  literacy  (U = 157.00,  p  < .001, r = 0.78).  Specifically,  the  HAISE group (Mean = 4.19,  SD = 0.15) had significantly higher GenAI literacy than the LAISE group (Mean = 3.92,  SD = 0.23).
+Technostress
+As  the  Shapiro-Wilk  tests  showed  non-normal  distribution  of  the  technostress  data (p < .05), the Mann—Whitney U test was performed. The results in  Table 4 show that the  HAISE  group  achieved  higher  technostress  scores  (Mean  =  3.98,  SD = 0.57)  than Table 2.  The independent sample t-test results of learning performance. 
+Group N Mean SD t p d HAISE 38 21.11 2.06 5.18 < .001 1.19
+LAISE 38 18.58 2.19
+Table 3.  The Mann—Whitney U test results of GenAI literacy.
+Group N Mean SD U p r HAISE 38 4.19 0.15 157.00 < .001 0.78
+LAISE 38 3.92 0.23
+Table 4.  The Mann—Whitney U test results of technostress.
+Group N Mean SD U p r HAISE 38 3.98 0.57 304.00 < .001 0.58
+LAISE 38 3.40 0.40
+Note: This scale is reverse-scored: higher scores indicate lower technostress.
+Table 5.  The Mann—Whitney U test results of the two groups  continuous usage intention.
+Group N Mean SD U p r HAISE 38 4.36 0.46 552.00 0.069 0.24
+LAISE 38 4.27 4.27
+the LAISE group (Mean = 3.40, SD = 0.40), with the difference reaching statistical sig - nificance (U = 157.00, p < .001, r = 0.58). Since higher technostress scores in this study indicate lower levels of technostress, this result suggests that the HAISE group had lower levels of technostress than the LAISE group.
+Continuous usage intention
+The  Shapiro-Wilk  tests  showed  the  non-normal  distribution  of  continuous  usage intention data (p < .001). Hence, the Mann—Whitney U test was performed. Although the  HAISE  group  (Mean  =  4.36, SD = 0.46)  outperformed  the  LAISE  group  (Mean  = 4.27, SD = 4.27) in continuous usage intention, the Mann—Whitney  U test results (see Table 5) showed that the two groups did not differ significantly in continuous usage intention ( U = 552.00, p > 0.05, r = 0.24).
+Relationships of the variables
+Two-tailed  Pearson s  correlation  tests  (see  Table  6)  were  conducted  to  examine  the relationships  between  GenAI  literacy,  technostress,  continuous  usage  intention,  and learning performance using the posttest data. The results showed that technostress was significantly correlated with GenAI literacy (r = 0.372, p < .01). Continuous usage intention was significantly correlated with GenAI literacy (r = 0.230, p < .05), but was not significantly correlated with technostress (r = 0.230, p > .05). Learning performance was  significantly  correlated  with  GenAI  literacy  (r = 0.447,  p  <  .01),  technostress (r = 0.411, p < .01), and continuous usage intention (r = 0.257, p < .05).
+Table 6.  The Pearson correlation results of the variables.
+Continuous usage 
+GenAI literacy Technostress intention Learning performance GenAI literacy 1
+Technostress 0.372** 1
+Continuous usage  0.230* 0.050 1
+intention
+Learning performance 0.447** 0.411** 0.257* 1
+*p < .05, **p < .01.
+Table 7.  Three regression models for learning performance.
+Model B SE β R2 ΔR2 Step 1 Constant 19.24 1.36 0.00 0.00
+Gender 0.33 0.73 0.05
+Step 2 Constant 0.15 4.62 0.20 0.20***
+Gender 0.35 0.66 0.06
+GenAI literacy 4.70 1.10 0.45***
+Step 3 Constant −0.44 4.43 0.28 0.08**
+Gender 0.66 0.64 0.10
+GenAI literacy 3.52 1.13 0.33**
+Technostress 1.31 0.47 0.30**
+Step 4 Constant −2.76 4.63 0.30 0.02
+Gender 0.51 0.64 0.08
+GenAI literacy 3.11 1.15 0.30**
+Technostress 1.32 0.47 0.31**
+Continuous usage  0.97 0.62 0.16
+intention
+**p < .01, ***p < .001.
+The  regression  models  (see  Table  7)  were  generated  to  determine  the  effect  of GenAI literacy, technostress, and continuous usage intention on learning performance. The first step of the regression results showed that gender failed to predict student teachers  learning performance. The second step of the regression results showed that adding  GenAI  literacy  explained  an  additional  20.0%  of  the  variance  (F = 18.33, p  < .001).  In  this  case,  GenAI  literacy  significantly  predicted  student  teachers   learning performance after controlling for gender factors (β = 0.45, p < .001). The third step of the regression results showed that adding technostress explained an additional 7.7% 
+of  the  variance  (F = 7.69, p  <  .001).  In  this  case,  technostress  significantly  predicted student teachers  learning performance after controlling for gender and GenAI literacy (β = 0.30, p  <  .01). The  final  step  of  the  regression  results  showed  that  adding  con - tinuous  usage  intention  explained  an  additional  2.4%  of  the  variance  but  did  not reach  significance  (F = 2.48, p  >  .05).  However,  continuous  usage  intention  failed  to predict  learning  performance  after  controlling  for  gender,  GenAI  literacy,  and  tech - nostress (β = 0.16, p > .05).
+Discussion and conclusions
+This  study  examined  the  reflection  level,  GenAI  feedback  adoption,  GenAI  feedback satisfaction,  and  self-evaluation  of  DST  work  among  student  teachers  with  different levels  of  AI  self-efficacy.  It  also  explored  group  differences  in  learning  performance, GenAI literacy, technostress, and continuous usage intention, and learning outcomes, and investigated the relationships among these factors. The results suggest that most student teachers achieved the reflection level in professional identity reflection. Most student  teachers  reported  that  they  adopted  GenAI  feedback  more  frequently  than rejected it. The HAISE group reported greater acceptance of GenAI feedback than the LAISE  group.  Additionally,  the  HAISE  group  demonstrated  higher  levels  of  learning performance,  GenAI  literacy,  and  technostress  based  on  self-reported  measures. However, no significant difference was detected in the two groups  continuous usage intention.  Hierarchical  regression  analysis  further  revealed  that  GenAI  literacy  and technostress were significantly associated with learning performance, whereas contin - uous usage intention had no substantial predictive effect on learning performance.
+In terms of RQ1, the final work of the program required student teachers to create digital  stories  to  reflect  on  ideal  teachers  integrating  GenAI  into  teaching.  Student teachers  were  encouraged  to  interact  with  GenAI  and  consider  its  feedback  during 
+the DST process. By analysing their DST work, most student teachers were identified as reaching a reflection level in professional identity reflection, where their DST work mainly focused on how teachers understand and implement teaching activities with GenAI  (e.g.,  the  applications  of  GenAI  technologies,  the  solutions  for  ethical  issues, and the design of teaching strategies). The finding echoes previous evidence on the effectiveness of DST in self-reflection (Kim et al., 2021; Mar n et al., 2018). For example, Kim  et al.  (2021)  indicated  that  DST  can  support  student  teachers  to  present  their professional  experiences  vividly  and  reflect  on  their  roles.  Additionally,  the  current finding  aligns  with  the  role  of  GenAI  in  DST  and  self-reflection.  Chu  et al.  (2025) found  that  GenAI  feedback  could  enhance  the  structure,  accuracy,  and  interactivity 
+of digital stories. Koong Lin et al. (2025) also found that GenAI feedback could offer targeted  guidance  and  promote  critical  thinking.  In  this  study,  student  teachers reported  that  integrating  GenAI  feedback  into  DST  helped  narrative  coherence  and content.  They  also  perceived  GenAI  feedback  as  supporting  critical  examination  of their experiences and guiding them to review their teaching philosophy (Chien et al., 2025; Chu et al., 2025). These interpretations are based on participants  self-reported experiences  and  may  reflect  student  teachers   perceived  role  of  GenAI  feedback  in DST in supporting identity reflection.
+As  for  RQ2,  based  on  the  reflection  reports,  the  HAISE  group  reported  that  they had higher adoption and satisfaction with GenAI feedback and better self-evaluation 
+of their DST work than the LAISE group. Consistent with the conceptual pathway (Bai et al., 2023, Joo et al., 2018), this finding suggests that AI self-efficacy is associated with GenAI feedback engagement in the reflective context. The findings are interpreted 
+as  perceived  associations  and  group  differences  rather  than  the  causal  effects  of cross-sectional evidence. First, social cognitive theory echoes this finding, as individ - uals  behaviours are related to confidence and attitudes (Bandura,  1977). Specifically, student teachers with higher AI self-efficacy perceived GenAI feedback as a valuable tool  and  reported  higher  acceptance  of  GenAI  feedback. They  reported  a  tendency 
+to  utilise  GenAI  feedback  to  improve  their  DST  work,  and  self-evaluated  their  DST work more positively (Joo et al.,  2018; Liang et al., 2011). Owing to their low confi- dence in using GenAI, the LAISE group might have struggled to understand the GenAI feedback, reported lower acceptance of GenAI feedback, and self-evaluated their DST work more conservatively.
+This study further analysed the reasons for adopting or rejecting GenAI feedback reported in student teachers  reflection reports. Most student teachers reported that they  adopted  GenAI  feedback  for  reasons  of  content  creation,  optimising  language expression, and supplementary perspectives, consistent with prior reported benefits 
+of GenAI feedback (Chien et al., 2025; Moorhouse & Kohnke, 2024). However, student teachers  also  noted  their  attention  to  emotional  authenticity,  efficiency,  creativity, and independence when adopting GenAI feedback. Notably, the HAISE group reported their focus on content richness, emotional authenticity, and the realism and humanity 
+of the GenAI feedback, indicating an inclination to engage in co-creation with GenAI feedback to improve content quality and produce emotional resonance and authentic narratives. However, the LAISE group reported challenges in adapting to GenAI feed - back and prioritising its use to improve work efficiency. In other words, they described GenAI feedback as a tool to streamline or speed up the DST creation process. They also reported concerns about their ability to understand and manage GenAI feedback. 
+As indicated by Collie et al. (2024), this pattern may be related to their lower confi - dence  in  handling  GenAI  feedback.  Meanwhile,  it  is  important  to  recognise  that student teachers  selective adoption or resistance to GenAI feedback may not indicate 
+a deficiency (Lu & Ba, 2026). Rather, it may reflect perceived agency and professional judgement,  which  are  integral  to  professional  identity  reflection  (Engelbertink 
+et al., 2021).
+Regarding RQ3, according to the self-reported data after the GenAI feedback-supported reflective  activities,  the  HAISE  group  reported  higher  levels  of  GenAI  literacy,  lower levels  of  perceived  technostress,  and  higher  learning  performance  than  the  LAISE group. This finding is similar to previous studies that reported that stronger self-efficacy 
+is associated with greater technology literacy, higher learning performance, and lower technology stress (Dong et al.,  2020; Liu et al., 2025; Tu et al., 2026). However, contrary to prior findings (Bai et al., 2023; Joo et al., 2018), no significant difference was found in  continuous  usage  intention  between  student  teachers  with  high  or  low  AI self-efficacy. One  possible  interpretation  is  that  student  teachers  in  both  groups reported  recognising  the  usefulness  of  GenAI  feedback  for  meeting  course  require - ments or improving DST work. This shared perception may be associated with their similar intention to continue using GenAI feedback (Liu et al.,  2025).
+The  hierarchical  regression  analysis  showed  that  GenAI  literacy  and  technostress were significantly associated with learning performance. These results align with Salimi et al.  (2025),  who  reported  a  positive  role  of  technological  literacy  in  learning  per - formance. Chen (2025) noted that GenAI literacy is a core competency for using GenAI tools.  In  this  study,  higher  levels  of  GenAI  literacy  may  facilitate  student  teachers  ability  to  utilise  GenAI  feedback  to  improve  their  DST  work  for  identity-relevant reflection (Sutherland et al.,  2010). Additionally, consistent with Qi (2019), technostress was  identified  as  a  significant  correlate  of  learning  performance.  Lower  levels  of technostress  may  increase  student  teachers   focus  and  more  effective  use  of  GenAI feedback, thereby leading to higher learning outcomes (Qi,  2019). On the other hand, high technostress is associated with increased cognitive load, reduced effectiveness 
+of technology use, and lower learning outcomes (Dong et al.,  2020). However, unlike Ye et al. (2022) findings, our study found no significant relationship between contin - uous  usage  intention  and  learning  performance.  One  possible  interpretation  is  that 
+continuous  usage  intention  reflects  individuals   future-oriented  expectations  rather than  their  current  perceived  competence  or  performance  in  learning  (Liang  et al., 2011; Wang  et al., 2023). Thus,  even  when  student  teachers  reported  intentions  to use  GenAI  feedback,  this  intention  may  not  link  to  higher  learning  performance, particularly with lower GenAI literacy or higher perceived technostress.
+Implications and contributions
+This study offers several contributions and implications related to feedback engage - ment,  identity  reflection,  and  AI  self-efficacy  in  GenAI-facilitated  learning  contexts. First, this study advances the understanding of the positive role of GenAI feedback and DST in student teachers  identity-relevant reflection. Therefore, training programs could consider incorporating GenAI feedback to scaffold students  reflective practices.
+Second,  this  study  unpacked  differences  among  student  teachers  with  different levels of self-efficacy in GenAI feedback engagement in identity reflection activities. Hence,  educators  could  facilitate  student  teachers   critical  thinking  and  make  more informed  decisions  to  effectively  utilise  GenAI  feedback.  Meanwhile,  personalised GenAI feedback strategies may be needed for student teachers with different levels of  AI  self-efficacy.  For  example,  the  HAISE  group  may  need  support  to  incorporate emotional  depth  and  realism  into  GenAI-generated  content,  while  training  should focus on strengthening the LAISE group s ability to understand and use GenAI feed - back effectively.
+Furthermore, the findings validated the role of AI self-efficacy in student teachers  GenAI literacy, technostress, and learning performance, and highlighted GenAI literacy and  technostress  as  important  factors  relating  to  learning  performance  in GenAI-facilitated learning. Therefore, professional training should consider cultivating student teachers  AI self-efficacy, prioritising their GenAI literacy, and reducing tech - nostress through optimising technology design and providing targeted support.
+Limitations and future directions
+This  study  has  some  limitations.  First,  the  sample  was  from  one  Chinese  university. Future  research  could  include  more  diverse  samples.  Second,  professional  identity development  is  a  process-oriented  construct  (Friesen  &  Besley,  2013).  However,  this study did not capture professional identity as a longitudinal developmental process; rather,  it  focused  on  identity-relevant  reflection  within  a  specific  learning  context. Future  research  could  adopt  a  longitudinal  design  to  explore  how  identity  evolves with the support of GenAI feedback. Third, the cross-sectional design may limit the ability  to  draw  causal  conclusions.  Future  research  could  adopt  rigorous  designs  to evaluate the causal influences of the designed activity. Fourth, this study measured AI self-efficacy at the pre-test, while other key outcome variables were assessed after the intervention. This limits the ability to consider potential pre-existing differences between  participants.  Future  research  could  adopt  a  pre-test-posttest  design  for  all variables to provide a comprehensive understanding of the changes and causal rela - tionships.  Finally,  self-reported  questionnaires  were  utilised  to  assess  key  variables, which may introduce potential response bias. Future research could collect qualitative data  (e.g.,  observations  and  interviews)  to  obtain  comprehensive  evidence.  Some prospective directions are proposed for future research:
+1. As  this  research  explored  student  teachers   GenAI  feedback  engagement  in reflection learning, researchers could explore the role of GenAI feedback across different contexts. Additionally, researchers could investigate perceptions and acceptance regarding GenAI feedback of other samples. It would also be worth delving into their reasons for adopting or rejecting GenAI feedback.
+2. The  findings  indicate  that  technostress  significantly  affected  student  teachers  learning performance. Future studies could examine how different levels of tech - nostress influence the adoption and adaptation of GenAI feedback. Additionally, research could explore adaptive instructional design and technological support strategies to mitigate stress and enhance learners  performance.
+3. Future researchers could design targeted training programs incorporating GenAI feedback.  For  instance,  personalised  GenAI  feedback  and  activities  could  be developed based on different levels of AI self-efficacy. Moreover, future studies could  examine  whether  and  how  other  characteristics  (e.g.,  GenAI  literacy, TPACK)  influence  learning  performance  and  perceptions  in  GenAI  feedback- facilitated learning.
+Acknowledgment
+We appreciate the participation and support from the students and teachers in this research.
+Ethics approval and informed consent
+The ethical requirements for research in this selected university were followed. Disclosure statement
+No potential conflict of interest was reported by the author(s).
+ORCID
+Yuchen Chen  http://orcid.org/0000-0002-4077-8090 Yun-Fang Tu  http://orcid.org/0000-0001-6261-3003 Gwo-Jen Hwang  http://orcid.org/0000-0001-5155-276X
+References
+Bai, X., Guo, R., & Gu, X. (2023). Effect of teachers  TPACK on their behavioral intention to use 
+technology:  Chain  mediating  effect  of  technology  self-efficacy  and  attitude  toward  use. Education  and  Information  Technologies,  29(1),  1013—1032. https://doi.org/10.1007/ s10639-023-12343-x
+Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change.  Psychological 
+Review, 84(2), 191—215. https://doi.org/10.1037/0033-295x.84.2.191
+Bassleer,  M.,  Schelfhout,  S.,  Fonteyne,  L.,  Duyck,  W.,  &  Dirix,  N.  (2025).  The  role  of  feedback 
+self-efficacy in student feedback engagement.  Studies in Educational Evaluation, 87, 101520. https://doi.org/10.1016/j.stueduc.2025.101520
+Bergdahl, N., & Sj berg, J. (2025). Attitudes, perceptions and AI self-efficacy in K-12 education. 
+Computers  and  Education:  Artificial  Intelligence,  8,  100358.  https://doi.org/10.1016/j.caeai. 2024.100358
+Cai,  H.,  Lu,  L.,  Han,  B., Wong,  L.  H.,  &  Gu,  X.  (2025).  Exploring  pre-service  teachers   reflection 
+mediated by an AI-powered teacher dashboard in video-based professional learning: A pilot study.  Educational  Technology  Research  and  Development, 73(2),  1129—1154. https://doi.org/ 10.1007/s11423-024-10442-1
+Chan,  C.  K. Y.,  & Tsi,  L.  H. Y.  (2024). Will  generative  AI  replace  teachers  in  higher  education?  
+A  study  of  teacher  and  student  perceptions.  Studies in Educational Evaluation, 83,  101395. https://doi.org/10.1016/j.stueduc.2024.101395
+Chen, Y. (2025). Teachers  generative AI literacy on their perceptions of generative AI in edu -
+cation: Self-efficacy as a mediator. International Journal of Mobile Learning and Organisation, 20(3/4), 455—473. https://doi.org/10.1504/IJML O.2025.10069198
+Chen, Y.,  Zhang,  X., Tu, Y.  F.,  Hwang,  G.  J.,  &  Hu,  L.  (2025).  Conceptions  of  image-generative 
+AI-supported instruction of preservice teachers with different levels of learning attitude: A drawing and epistemic network analysis.  Journal of Research on Technology in Education, 1—25. https://doi.org/10.1080/15391523.2025.2478433
+Cheung, L. M. E., & Shi, H. (2024). Co-creating stories with generative AI.  Australian Review of 
+Applied Linguistics, 47(3), 259—283. https://doi.org/10.1075/aral.24101.che
+Chien,  C.  C.,  Chan,  H. Y.,  &  Hou,  H. T.  (2025).  Learning  by  playing  with  generative  AI:  Design 
+and  evaluation  of  a  role-playing  educational  game  with  generative  AI  as  scaffolding  for instant feedback interaction.  Journal of Research on Technology in Education, 57(4), 894—913. https://doi.org/10.1080/15391523.2024.2338085
+Chu, H. C., Lu, Y. C., & Tu, Y. F. (2025). How GenAI-supported multi-modal presentations bene -
+fit students with different motivation levels: Evidence from digital storytelling performance, critical  thinking  awareness,  and  learning  attitude.  Educational  Technology  &  Society, 28(1), 250—269. https://doi.org/10.30191/ETS.202501_28(1).TP02
+Collie, R. J., Martin, A. J., & Gasevic, D. (2024). Teachers  generative AI self-efficacy, valuing, and 
+integration at work: Examining job resources and demands. Computers and Education: Artificial Intelligence, 7, 100333. https://doi.org/10.1016/j.caeai.2024.100333
+Dong,  Y.,  Xu,  C.,  Chai,  C.  S.,  &  Zhai,  X.  (2020).  Exploring  the  structural  relationship  among 
+teachers   technostress,  technological  pedagogical  content  knowledge  (TPACK),  computer self-efficacy and school support.  The Asia-Pacific Education Researcher, 29(2), 147—157. https:// doi.org/10.1007/s40299-019-00461-5
+Engelbertink, M. M. J., Colomer, J., Woudt- Mittendorff, K. M., Alsina,  ., Kelders, S. M., Ayll n, 
+S., & Westerhof, G. J. (2021). The reflection level and the construction of professional iden - tity of university students.  Reflective Practice, 22(1), 73—85. https://doi.org/10.1080/14623943. 2020.1835632
+Falode,  O.  (2018).  Pre-service  teachers   perceived  ease  of  use,  perceived  usefulness,  attitude 
+and  intentions  towards  virtual  laboratory  package  utilization  in  teaching  and  learning  of physics.  Malaysian  Online  Journal  of  Educational  Technology,  6(3),  63—72. https://doi.org/ 10.17220/mojet.2018.03.005
+Friesen, M. D., & Besley, S. C. (2013). Teacher identity development in the first year of teacher 
+education:  A  developmental  and  social  psychological  perspective.  Teaching  and  Teacher Education, 36, 23—32. https://doi.org/10.1016/j.tate.2013.06.005
+Gillani, N., Eynon, R., Chiabaut, C., & Finkel, K. (2023). Unpacking the  Black Box  of AI in edu-
+cation. Educational Technology & Society, 26(1), 99—111. https://doi.org/10.30191/ETS.202301_ 26(1).0008
+Hwang, G. J., & Chen, N. S. (2023). Exploring the potential of generative artificial intelligence 
+in education: Applications, challenges, and future research directions. Educational Technology & Society, 26(2), I—XVIII. https://doi.org/10.30191/ETS.202304_26(2).0014
+Hwang, G. J., Tu, Y. F., & Chu, H. C. (2023). Conceptions of the metaverse in higher education: 
+A draw-a-picture analysis and surveys to investigate the perceptions of students with differ - ent motivation levels.  Computers & Education, 203, 104868. https://doi.org/10.1016/j.compedu. 2023.104868
+Hwang, G. J., Xie, H., Wah, B. W., & Gašević, D. (2026). Presenting your AI in education research 
+with  rigor: The TEP-AIED  model. Computers and Education: Artificial Intelligence, 10,  100598. https://doi.org/10.1016/j.caeai.2026.100598
+Isaacs, M. A., Tondeur, J., & Vaesen, J. (2024). Digital storytelling in teacher education: Developing 
+pre-service  teachers   critical  thinking.  Australasian  Journal  of  Educational  Technology, 40(3), 92—109. https://doi.org/10.14742/ajet.9258
+Joo, Y.  J.,  Park,  S.,  &  Lim,  E.  (2018).  Factors  influencing  preservice  teachers   intention  to  use 
+technology:  TPACK,  teacher  self-efficacy,  and  technology  acceptance  model.  Educational Technology & Society, 21(3), 48—59.
+Kelchtermans, G. (2009). Who I am in how I teach is the message: Self‐understanding, vulner -
+ability  and  reflection.  Teachers  and  Teaching, 15(2),  257—272. https://doi.org/10.1080/13540 600902875332
+Khoo, E., Mitchell, L., & Sammons, M. (2024). Teacher use of digital stories to promote reflective 
+practice supportive of migrant and refugee children  s sense of belonging.  Early Childhood Education Journal, 52(8), 1993—2007. https://doi.org/10.1007/s10643-023-01538-z
+Kim, D., Long, Y., Zhao, Y., Zhou, S., & Alexander, J. (2021). Teacher professional identity devel -
+opment through digital stories.  Computers & Education, 162, 104040. https://doi.org/10.1016/ j.compedu.2020.104040
+Koong  Lin,  H.  C., Tseng,  C.  H.,  &  Chen,  N.  S.  (2025).  Enhancing  programming  education: The 
+impact of AI-based pedagogical agents on student self-efficacy, engagement, and learning outcomes.  Educational  Technology  &  Society, 28(2),  279—294. https://doi.org/10.30191/ETS. 202504_28(2).TP02
+K rkk , M., Kyr - mm l ,  O., & Turunen, T. (2016). Professional development through reflection 
+in teacher education.  Teaching and Teacher Education, 55, 198—206. https://doi.org/10.1016/ j.tate.2016.01.014
+Landis,  J.  R.,  &  Koch,  G.  G.  (1977).  The  measurement  of  observer  agreement  for  categorical 
+data.  Biometrics, 33(1), 159—174. https://doi.org/10.2307/2529310
+Liang,  J.  C., Wu,  S.  H.,  & Tsai,  C.  C.  (2011).  Nurses   Internet  self-efficacy  and  attitudes  toward 
+web-based continuing learning. Nurse Education Today, 31(8), 768—773. https://doi.org/10.1016/ j.nedt.2010.11.021
+Liu, Y., Wang, Q., & Lei, J. (2025). Adopting generative AI in future classrooms: A study of pre -
+service  teachers   intentions  and  influencing  factors.  Behavioral  Sciences  (Basel,  Switzerland), 15(8), 1040. https://doi.org/10.3390/bs15081040
+Lu, G., & Ba, S. (2026). Exploring the impact of GAI-assisted feedback on pre-service teachers  
+situational  engagement  and  performance  in  inquiry-based  online  discussion.  Educational Psychology, 46(1), 1—26. https://doi.org/10.1080/01443410.2025.2489784
+Mar n,  V.  I.,  Tur,  G.,  &  Challinor,  J.  (2018).  An  interdisciplinary  approach  to  the  development  
+of  professional  identity  through  digital  storytelling  in  health  and  social  care  and  teacher education.  Social  Work  Education, 37(3),  396—412. https://doi.org/10.1080/02615479.2017. 1408790
+McKay, L. (2021). Using arts-based reflection to explore preservice teacher identity development 
+and  its  reciprocity  with  resilience  and  well-being  during  the  second  year  of  university. 
+Teaching and Teacher Education, 105, 103424. https://doi.org/10.1016/j.tate.2021.103424 Moorhouse, B. L., & Kohnke, L. (2024). The effects of generative AI on initial language teacher 
+education: The perceptions of teacher educators. System, 122, 103290. https://doi.org/10.1016/ 
+j.system.2024.103290
+Nunnally, J. C., & Bernstein, I. H. (1994). Psychometric theory. McGraw-Hill.
+Podsakoff, P. M., MacKenzie, S. B., Lee, J. Y., & Podsakoff, N. P. (2003). Common method biases 
+in  behavioral  research:  A  critical  review  of  the  literature  and  recommended  remedies.  The Journal of Applied Psychology, 88(5), 879—903. https://doi.org/10.1037/0021-9010.88.5.879
+Qi,  C.  (2019).  A  double-edged  sword?  Exploring  the  impact  of  students   academic  usage  of 
+mobile devices on technostress and academic performance. Behaviour & Information Technology, 38(12), 1337—1354. https://doi.org/10.1080/0144929X.2019.1585476
+Rohloff, L. M. (2021). Obstacles K-12 teachers face with using digital storytelling in their classrooms 
+[Doctoral dissertation].  University of Wisconsin—Stout.
+Salimi, G., Roodsaz, A., Mohammadi, M., Keshavarzi, F., Mousavi, A., & Zainuddin, Z. (2025). How 
+students  digital literacy promotes knowledge sharing and academic performance in online learning environments.  The International Journal of Information and Learning Technology, 42(2), 165—184. https://doi.org/10.1108/IJILT-05-2024-0095
+Sutherland, L., Howard, S., & Markauskaite, L. (2010). Professional identity creation: Examining 
+the development of beginning preservice teachers  understanding of their work as teachers. Teaching and Teacher Education, 26(3), 455—465. https://doi.org/10.1016/j.tate.2009.06.006
+Tsai, C. C., Chuang, S. C., Liang, J. C., & Tsai, M. J. (2011). Self-efficacy in Internet-based learning 
+environments: A literature review.  Educational Technology & Society, 14(4), 222—240.
+Tu, Y. F., Liu, G. P., Hwang, G. J., Chen, X. W., & Guo, X. G. (2026). AI self-efficacy and knowledge graph-integrated generative AI feedback in higher education. The Internet and Higher Education, 
+69, 101079. https://doi.org/10.1016/j.iheduc.2026.101079
+Walkington, J. (2005). Becoming a teacher: Encouraging development of teacher identity through 
+reflective  practice.  Asia-Pacific  Journal  of  Teacher  Education, 33(1),  53—64. https://doi.org/ 10.1080/1359866052000341124
+Wang, B., Rau, P. L. P., & Yuan, T. (2023). Measuring user competence in using artificial intelli -
+gence: Validity and reliability of artificial intelligence literacy scale. Behaviour & Information Technology, 42(9), 1324—1337. https://doi.org/10.1080/0144929X.2022.2072768
+Wang, Y. Y., & Chuang, Y. W. (2024). Artificial intelligence self-efficacy: Scale development and 
+validation. Education and Information Technologies, 29(4), 4785—4808. https://doi.org/10.1007/ s10639-023-12015-w
+Yang, S., & Appleget, C. (2024). An exploration of preservice teachers  perceptions of Generative 
+AI:  Applying  the  technological  acceptance  model.  Journal  of  Digital  Learning  in  Teacher Education, 40(3), 159—172. https://doi.org/10.1080/21532974.2024.2367573
+Ye, J. H., Lee, Y. S., & He, Z. (2022). The relationship among expectancy belief, course satisfac -
+tion, learning effectiveness, and continuance intention in online courses of vocational-technical teachers college students.  Frontiers in Psychology, 13, 904319. https://doi.org/10.3389/fpsyg. 2022.904319
+Ziqi,  C.,  Xinhua,  Z.,  Qi,  L.,  & Wei, W.  (2026).  L2  students   barriers  in  engaging  with  form  and 
+content-focused  AI-generated  feedback  in  revising  their  compositions.  Computer  Assisted Language Learning, 39(3), 715—735. https://doi.org/10.1080/09588221.2024.2422478
