@@ -1,0 +1,455 @@
+﻿Computers in Human Behavior 181 (2026) 108985 
+Contents lists available at ScienceDirect 
+Computers in Human Behavior 
+journal homepage: www.elsevier.com/locate/comphumbeh 
+Self-regulation and  overreliance on artificial intelligence: Unpacking a  paradox through a mixed-methods study  in higher education
+H´ector Galindo-Domínguez a,*, Nahia Delgado b , Martín Sainz-de-la-Maza c,  Jose-María Etxabe d 
+a Department of Didactics and School Organization, Faculty of Education and Sports, University of the Basque Country, Juan Ib´a˜nez de Santo Domingo Street, 1, Vitoria- Gasteiz, Spain
+b Department of Didactics and School Organization, Faculty of Education, Philosophy and Anthropology, University of the Basque Country, Tolosa Avenue, 70, Donostia/ San Sebastian, ´ Spain
+c Department of Developmental and Educational Psychology, Faculty of Education and Sports, University of the Basque Country, Juan Ib´a˜nez de Santo Domingo Street, 1, 01006, Gasteiz, Araba, Spain
+d Department of Didactics of Mathematics, Didactics of Social Sciences and Experimental Science, Faculty of Education, Philosophy and Anthropology, Plaza Onati, ˜ 3, 20018, Donostia-San Sebastian, Gipuzkoa, Spain
+
+A R T I C L E I N F O
+Keywords:
+Reliance Dependence Artificial intelligence Self-regulation Decision-making ChatGPT
+A B S T R A C T
+The  rapid  emergence  of  generative  artificial  intelligence  (AI)  in  higher  education  has  raised  concerns  about students’ overreliance  on  these  tools  for  academic  and  personal  tasks.  Although  generative  AI can  enhance productivity  and  creativity,  excessive  use  may  undermine  key  learning  competences.  In  this  context,  self- regulation  may  function  as  a  crucial  protective  factor.  This  study  examined  the  relationship  between  self- regulation  and  overreliance  on  generative  AI among  university  students.  The  sample  consisted  of  404  un- dergraduates (MAge  = 20.78, SD = 4.12) enrolled in education-related degrees at the University of the Basque 
+Country. Validated self-report scales measured dimensions of self-regulation and AI overreliance, and mediation analyses  were  combined  with  qualitative  content  analysis  of open-ended  responses.  Results  showed  that  goal setting significantly predicted perseverance, decision-making, and learning from mistakes. A paradoxical pattern 
+emerged: goal setting was positively associated with greater AI overreliance, yet its indirect associations through perseverance  and  learning  from  mistakes  were  negative,  suggesting  an  inverse  relationship,  indicating  that stronger regulatory strategies are linked to lower levels of overdependence. These findings suggest that students 
+who set clear goals tend to report higher initial use of AI tools, while perseverance and reflective learning are associated  with  patterns  that  counterbalance excessive  reliance.  Qualitative  analyses  supported  this  gradient, revealing that most students used AI minimally or for basic information searches, whereas a smaller subgroup 
+relied on it for academic tasks or decision-making. This distribution indicates that overreliance is concentrated among  a  limited  portion  of  students,  consistent  with  the  protective  role  played  by  strong  self-regulatory 
+competencies.
+
+1. Introduction
+1.1. Self-regulation in higher education
+The  conceptualization of Self-regulation is established  as  a  funda -
+mental  construct  in  behavioral  sciences  and  education,  being  particu - larly  relevant  in  the  context  of higher  education. It  is defined  as  the ability  to  control  individual  thoughts,  emotions,  and  behaviors  to 
+achieve specific goals (Zimmerman, 2000). Self-regulation enables stu-
+dents  to  address  the  demands  of academic  life,  manage  diverse  prior - ities,  and  persevere  in  the  face  of  adversity.  The  benefits  of  robust self-regulation in higher education extend beyond mere academic suc-
+cess.  Students  who  exhibit  a  high  capacity  for  self-regulation tend  to show stronger intrinsic motivation, a greater willingness to persevere in 
+the face of setbacks, and experience an increased sense of control over their  learning  processes  (Rezayi  et  al.,  2024;  Zimmerman,  2000). 
+
+* Corresponding author.
+E-mail addresses: hector.galindo@ehu.eus (H. Galindo-Domínguez), nahia.delgado@ehu.eus (N. Delgado), martin.sainzdelamaza@ehu.eus (M. Sainz-de-la-Maza), josemari.etxabeurbieta@ehu.eus (J.-M. Etxabe). 
+https://doi.org/10.1016/j.chb.2026.108985
+Received 22 November 2025; Received in revised form 24 February 2026; Accepted 7 March 2026  
+Available online 18 March 2026 
+0747-5632/© 2026 The Authors.  Published by Elsevier Ltd.  This is an open access article under the CC BY-NC license (http://creativecommons.org/licenses/by-
+nc/4.0/). 
+
+H. Galindo-Domínguez et al.                                                                                                                                                                                                                 Computers in Human Behavior 181 (2026) 108985 
+ogy  has  increasingly  permeated the  educational  domain,  with  its  ap- plications becoming more common in academic institutions and across diverse  modalities  (e.g.,  Chen  et  al.,  2020).  In  fact,  empirical  studies indicate that roughly half of university students have already engaged 
+Note.  OAI, Overreliance  on  AI; GOS, Goal  Setting;  PER, Perseverance;  DEM, Decision-making;  LEM, Learning  from  Mistakes;  *p < .05;  **p < .01;  ***p < .001. Cronbach's alpha values in the main diagonal between brackets.
+Furthermore, this ability is directly associated with better adaptation to  Table 2 
+the academic environment and a greater sense of belonging, facilitating  Results from the mediation analysis.
+the  transition to  new  settings  and  more  effective  stress  management.  R
+ Path β b p LLCI ULCI Promoting self-regulation is therefore a means by which higher educa - 
+tion  institutions  can  empower  students  to  become  autonomous  and  Direct GS → PEeffects .156 a1 .394 .512 <.001 .395 .628 lifelong learners, providing them with the necessary tools to thrive in an  GS → DM .013 a2 .115 .138 .021 .021 .254
+evolving  and  constantly  changing world  (Rezayi  et  al., 2024) (see  Ta- GS → LM .153 a3 .136 .163 .007 .044 .281
+bles 1 and 2). PE → LM d31 .158 .147 .002 .054 .239 The  conceptual  foundation  for  understanding  self-regulation  in  DM → LM d32 .260 .261 <.001 .168 .354
+GS → OAI .071 c’ .063 .241 <.001 .123 .360
+higher education is built upon a diverse range of theoretical models that  PE → OAI b1   .129   .121 .011   .214   .028 provide robust tools for analyzing students' adaptation to their learning  DM → OAI b2 .004   .082 .094   .177 .014 contexts and the improvement of their academic performance (Mubango  LM → OAI b3   .025   .126 .011   .224   .029
+& Ngirande,  2024).  These  primary  approaches  include  the  Social  Indirect effects
+GS → PE →  - a1 *b1   .056   .062 (Sig)   .117   .012 Cognitive  Theory  of  Self-Regulation  (Bandura,  1986),  Zimmerman's  OAI
+Cyclical Phases Model (2000), Pintrich's Model of SRL (2004), the Winne  GS → DM →  - a2 *b2   .051   .011 (ns)   .032 .002
+and Hadwin (1998), Efklides' Metacognitive and Affective Model of SRL  OAI
+(Efklides, 2011), and Self-Determination Theory applied to SRL (Deci &  GS → LM →  - a3*b3   .003   .021 (ns)   .052 .000 Ryan,  1985).  The  description of  each  self-regulation  theory,  together  OAI
+GS → PE →  - a1 *d31    .002   .009 (Sig)   .022   .001 with  its  associated  strengths  and  weaknesses,  is  provided  in  Supple- LM → OAI * b3
+mentary Material 1. GS → DM →  - a2 *d32    .001   .005 (ns)   .012 .000
+Among  these, Zimmerman's Cyclical  Model (2000),  which  is based  LM → OAI * b3
+on Bandura's Social Cognitive Theory (1986), constitutes one of the most  Total effects
+widely  validated  theoretical approaches in  educational contexts.  This  GS → OAI - c .007 .134 .018 .023 .244
+model  describes  self-regulation  as  a  dynamic  and  repetitive  process  Note.  GOS,  Goal  Setting;  PER,  Perseverance;  DEM,  Decision-making;  LEM, consisting  of  three  main  stages  (Zimmerman,  2000):  the  forethought  Learning from Mistakes; OAI, Overreliance on AI; b, non-standardized beta co- phase  (where  students  set  goals,  design  strategies,  and  develop  efficient; β, Standardized beta coefficient.
+self-efficacy  beliefs),  the  performance  phase  (focusing  on  applying 
+selected  strategies  and  monitoring  progress),  and  the  self-reflection  such as generative artificial intelligence tools, bring new challenges and phase (involving evaluating results and making adjustments for future  opportunities for  self-regulated learning.  The  perceived  ease  of use  of activities).  This  cyclical  process  emphasizes  the  crucial  role  of  these  tools  enhances  the  development  of  self-regulatory  strategies, self-efficacy  in  promoting  self-regulated  behaviors  and  highlights  the  improving  time  management and  deep  cognitive  processing  in  digital reciprocal interaction between personal, behavioral, and environmental  settings (Vera, 2022; Zhou, Teng, & Al-Samarraie, 2024).
+factors. In  this  context,  self-regulation  emerges  as  an  essential  mediating 
+In higher  education,  contextual  factors  play  a decisive  role  in pro- mechanism  between  contextual  influences  and  academic,  emotional, moting  or  limiting  students'  self-regulatory  capacity.  Among  these,  and  motivational  outcomes.  Self-regulated  students  show  greater regulatory  teaching  (RT)  is  an  essential  element,  as  it  represents  the  adaptability to the cognitive and socio-emotional demands of university degree  to  which  teaching  encourages  strategies  for  planning,  content  learning,  flexibly  integrating  strategies  for  planning,  self-assessment, organization, monitoring and reflection during the learning process (De  and emotional  control (De la Fuente, Kauffman, et  al., 2020; Zimmer -
+la Fuente, Sander et al., 2020). Teaching characterized by high levels of  man, 2000). The literature shows that these students tend to maintain external  regulation  favors  deep  learning  approaches and  reduces  reli- more  stable  intrinsic  motivation, a high  sense  of self-efficacy  and  sus- ance  on  superficial  strategies,  while  teachers  with  high  regulatory  tained persistence in the face of adversity (Rezayi et al., 2024).
+competence positively influence their students' motivation, commitment  In  turn,  self-regulatory skills  and  strategies  act  as  academic  stress and  academic  performance  (De  la  Fuente,  Kauffman,  et  al.,  2020).  relievers,  contributing  to  better  emotional  and  psychological  balance Likewise, the perceived academic environment and institutional policies  (Hendrie  & Bastacini,  2020).  Some  of these  self-regulatory skills  are, oriented  towards  emotional  well-being  are  relevant  predictors  of  during  the planning  phase, strategies such  as goal  setting,  study  orga- self-regulation,  as  they  provide  a  supportive  environment  that  nization,  and  time  management that  allow  students  to  anticipate and strengthens  emotional  management,  resilience  and  academic  persis- structure the learning process (Berridi & Martínez, 2017; Vera, 2022). In 
+tence (Hendrie & Bastacini, 2020; Vera, 2022). In addition, social factors  the action phase, the use of cognitive and metacognitive strategies such such as family and peers also constitute a critical setting: families that  as  deep  information  processing,  critical  reflection,  or  effort  and  con- emphasize  the  acquisition  of new  skills  and  mastery  goal  orientation  centration  regulation  enhance  comprehension  and  academic  perfor - promote more integrative self-regulation, while peer interactions facil- mance (Hendrie & Bastacini, 2020; Stavropoulou et al., 2025). Finally, 
+itate  the  exchange  of  strategies  and  metacognitive  co-construction,  reviewing and monitoring one's own performance, together with seeking promoting  adjustment to the university environment (Balapumi et  al.,  solutions  and  making  moderate  use  of  external  support,  consolidate 2016).  At the  same  time,  virtual  settings  and  emerging  technologies,  self-reflection  and  adaptive  decision-making (De la Fuente,  Kauffman, 
+et al., 2020; Vera, 2022).
+
+2 
+H. Galindo-Domínguez et al.                                                                                                                                                                                                                 Computers in Human Behavior 181 (2026) 108985 
+Table 1 
+Descriptive statistics, correlations and reliability of the main dimensions.
+M SD OAI GOS PER DEM LEM OAI 1.99 .730 - .118*   .107*   .131**   .148**
+GOS 3.42 .643 (.781) .394*** .115* .228*** PER 3.38 .834 (.676) .204*** .265*** DEM 2.84 .769 (.765) .308*** LEM 3.79 .771 (.625)
+1.2. Overreliance on artificial intelligence in higher education
+Artificial  Intelligence  (AI) is generally  understood as the  ability  of machines or computer systems to imitate and perform tasks commonly linked to human intelligence, such as reasoning, learning, or problem- solving (Morandín-Ahuerma, 2022). Over recent decades, this technol -
+
+3 
+H. Galindo-Domínguez et al.                                                                                                                                                                                                                 Computers in Human Behavior 181 (2026) 108985 
+with  generative  AI for  academic  purposes,  while  approximately  one third  report  never  having  used  such  tools  nor  intending  to  do  so 
+(Johnston et al., 2024).
+Nowadays,  higher  education  students  employ  generative  AI for  a wide  array of academic purposes,  particularly for writing support and workload management. Empirical evidence shows that students use AI 
+to enhance efficiency, generate templates, refine sentence quality, and improve  clarity  of expression  (Wang  et  al.,  2024; Wang  & Ren,  2024; 
+Crˇ ˇcek  &  Patekar,  2023).  Other  common  uses  include  overcoming 
+writer's block, boosting productivity, and increasing confidence in aca- demic output (Chatto & Logronio, 2025; Zhao et al., 2024). Students also value  AI for  idea  generation,  content  structuring,  and  acquiring  new linguistic  expressions,  as  well  as  for  addressing  specific  writing  diffi- culties (Chen et al., 2024; Oh et al., 2023; Wang, 2024). Beyond writing, generative AI is often used to mitigate time constraints, reduce academic workload,  and  diminish  language  barriers  while  enhancing  overall writing performance (Sterling et al., 2025). On this use, students report 
+both clear benefits and notable drawbacks in the use of generative AI. Advantages include heightened productivity, efficiency, linguistic sup-
+port,  and  improvements  in  clarity,  confidence,  and  satisfaction  with 
+academic tasks (Chatto & Logronio, 2025; Chen et al., 2024; Oh et al., 2023; Sterling  et  al.,  2025; Wang,  2024; Wang  et  al.,  2024; Crˇ ˇcek  & 
+Patekar,  2023). However,  concerns  are  also  frequently  raised,  such  as the  risk  of generating  superficial  or  generic  content,  factual  inaccura - cies,  diminished  originality,  potential  plagiarism  and  excessive  over-
+reliance on AI (Chatto & Logronio, 2025; Wang et al., 2024; Zhao et al., 2024; Crˇ ˇcek & Patekar, 2023). This study is focused on this last potential 
+risk.
+Overreliance on AI refers to an excessive or habitual dependence on artificial  intelligence tools  to  perform  tasks,  make  decisions,  or  solve problems  in  ways  that  diminish  one's  own  independent  skills,  judge - ment,  or  learning  processes  (Morales-García,  Guti´errez-Santiuste,  & Lafuente-Lechuga, 2024).  Baird  and  Maruping  (2021) emphasize  that the more natural and human-like the responses of AI systems or chatbots become,  the greater the risk of users developing problematic reliance. 
+This  issue  can  be  analyzed  through  the  Unified  Theory  of Acceptance and  Use of Technology  (UTAUT) (Venkatesh  et  al.,  2003),  which  ex- plains AI reliance by identifying key factors behind its adoption and use. 
+The  theory  highlights  the  roles  of performance expectancy,  effort  ex- pectancy, social influence, and facilitating conditions. Overreliance may arise  when  users  perceive  that  AI enhances  task  efficiency  (high  per- formance  expectancy),  simplifies  complex  activities  (low  effort  expec- tancy),  is  promoted  by  peers  or  colleagues  (social  influence),  and  is supported  by  sufficient  infrastructure  or  resources  (facilitating conditions).
+Recent  studies  estimate  that  the  prevalence  of  overreliance  on  AI tools, such as ChatGPT, among university students ranges between 16% and 25% (Hong & Chen, 2024; Huang, Chen, et al., 2024; Stojanov, Liu, 
+& Koh,  2024).  Although  these  figures  may  suggest  that  widespread overreliance is not yet pervasive, a recent systematic review synthesiz -
+ing  72  studies  highlights  concerns  regarding  disengagement  and cognitive  risks  associated  with  AI  use,  including  reduced  critical thinking  and  overreliance (Lo et  al.,  2024). Consequently,  despite  the current  prevalence  being  moderate,  the  rapid  growth  and  expanding functionality of AI in educational settings warrant careful attention and 
+may  justify  institutional guidance  or  regulation  (Liu et  al.,  2023; Sto- janov, Pejovi´c, & Drakuli´c, 2024).
+In  the  present  study,  overreliance  is  operationalized  through  a behavioral  frequency  indicator:  students’  self-reported  frequency  of generative AI use for core academic writing tasks. Thus, overreliance is 
+not conceptualized as a latent psychological trait but as a behaviorally anchored  tendency  inferred  from  high-frequency  delegation  in academically central activities, reducing conceptual ambiguity between 
+the theoretical construct and its empirical operationalization.
+1.3. Effects of generative artificial intelligence on self-regulation and decision-making
+In the context of self-regulation, generative artificial intelligence has shown a dual role. On the one hand, recent research highlights that these tools  can  facilitate  self-regulated  learning  processes  by  offering personalized feedback, metacognitive support, and adaptive experiences that allow students to set clear goals, monitor their progress, and reflect on  their  results  (Sardi  et  al.,  2025).  For  example,  by  interacting with AI-G platforms,  students  are  able  to  deal  with  complex  tasks  more effectively, taking advantage of these tools' ability to simplify informa -
+tion  and  provide  practical  guidance  (Zhou,  Wang,  &  Zhang,  2024). However, this same potential also carries significant risks. Overreliance on  generative  AI  can  lead  to  ‘cognitive  offloading,’  in  which  users delegate  complex  tasks  to  technology,  reducing  their  active  participa - tion in learning processes and limiting the development of fundamental skills such as critical reflection (Gerlich, 2025).
+In the field of decision-making, AI has been equally transformative. 
+These  tools  enable  users  to  process  large  volumes  of information effi- ciently, which can optimize problem-solving and analytical capabilities 
+in challenging contexts. For example, studies have shown that AI tools can  act  as  virtual  assistants  to  analyze  data,  propose  innovative  solu- tions,  and  improve  decision-making accuracy  (Zhou,  Wang,  & Zhang, 2024). However, recent  research has revealed that  users tend to over- estimate their performance when using these technologies, even when 
+their objective performance does not improve significantly (Fernandes et al., 2025). This phenomenon, linked to overconfidence, affects both users with little experience in artificial intelligence and those with high AI literacy, who, paradoxically, show disproportionate confidence in the responses generated by these tools.
+To enhance the benefits of AI and mitigate its risks, it is essential to foster  educational  and  organizational  strategies  that  promote  critical and  reflective  use  of  these  technologies.  First,  artificial  intelligence educational programmes should be developed to train users to interact 
+with  these  tools  effectively,  promoting  both  critical  thinking  and  self- regulation (Sardi et al., 2025). In addition, it is necessary to design AI platforms that encourage interaction and reflection, incorporating fea-
+tures such as additional questions or suggestions for verifying informa -
+tion, which can help users avoid blind reliance on these tools (Fernandes et  al.,  2025).  Finally,  educational  institutions  and  professional  envi- ronments should adopt a hybrid approach that combines the capabilities 
+of AI with  human  creativity  and  judgement,  ensuring  that  technology complements, but does not replace, fundamental skills (Fernandes et al., 2025; Sardi et al., 2025).
+1.4. Purpose of the study
+Generative artificial intelligence is rapidly reshaping higher educa -
+tion, raising critical concerns regarding students’ overreliance on these tools  for  academic  and  personal  tasks.  Although  generative  AI may enhance  productivity  and  creativity,  excessive  reliance  risks  under - mining  core  competences  such  as  autonomous  decision-making  and reflective learning. Within this landscape, self-regulation emerges as a potentially protective  mechanism. Recent  scholarship  highlights  chal- lenges  including  cognitive  offloading,  reduced  critical  reflection,  and limited understanding of how students balance instrumental AI use with 
+the development of independent skills (Fernandes et al., 2025; Gerlich, 2025; Sardi et al., 2025). However, empirical research examining how specific dimensions of self-regulation relate to AI overreliance remains scarce, with most studies focusing on prevalence, acceptance factors, or general attitudes (Hong & Chen, 2024; Huang, Liu, et al., 2024).
+The  literature also  presents  conflicting  perspectives. While  several theoretical  accounts  posit  that  self-regulation  mitigates  technological dependency, emerging evidence suggests that highly goal-oriented stu-
+dents  may  strategically  intensify  AI  use  as  an  efficiency-enhancing resource (Zhou, Wang, & Zhang, 2024). This tension reflects a broader 
+paradox in technology-mediated learning: goal setting can function as a double-edged sword. On the one hand, clearly defined goals may drive increased AI engagement to optimize task completion; on the other, they activate  regulatory  processes  that  foster  persistence  and  reflective evaluation (De la Fuente, Kauffman, et al., 2020; Zhou, Wang, & Zhang, 2024).
+Grounded  in Social  Cognitive  Theory  and  contemporary models  of Self-Regulated  Learning  (Panadero,  2017;  Zimmerman,  2000),  goal setting is conceptualized as the forethought-phase mechanism that ini-
+tiates  subsequent  performance and  self-reflective  processes.  Empirical evidence indicates that well-defined goals are positively associated with sustained effort and perseverance (De la Fuente, Kauffman, et al., 2020; Moeller et al., 2020), as well as with more deliberate and autonomous decision-making  in  digitally  mediated  contexts  (Broadbent  &  Poon, 2015; Huang,  Liu,  et  al.,  2024).  Goal  clarity  has  also  been  linked  to enhanced metacognitive monitoring and constructive engagement with 
+errors,  facilitating  learning  from  mistakes  rather  than  avoidance  be- haviors  (Panadero  et  al.,  2022).  Accordingly,  the  present  model  con- ceptualizes  goal  setting  as  an  antecedent  of  perseverance  (a1), decision-making (a2), and learning from mistakes (a3).
+In  line  with  process-oriented accounts  of self-regulation, persever - ance during task execution increases sustained engagement with feed- back, thereby enhancing opportunities for error detection and adaptive revision  (d31) (Panadero  et  al.,  2022; Sitzmann  & Ely, 2011).  Specif- ically, the path from perseverance (performance phase) to learning from mistakes  (self-reflection  phase),  labeled  d31,  is  grounded  in  cyclical models  of  self-regulated  learning  (Zimmerman,  2000).  From  this perspective, sustained effort during performance generates continuous self-monitoring information that  feeds  forward  into  the  self-reflection phase.  Students  who  persist  despite  difficulty  are  more  likely  to confront  discrepancies  between  intended  and  actual  performance, increasing  the  likelihood  of adaptive  self-evaluation  and  constructive responses  to  errors.  Thus,  perseverance  provides  the  cognitive  and motivational conditions that facilitate learning from mistakes.
+Similarly,  adaptive  decision-making  supports  evaluative  judgment and  reflective  calibration, both  of which  are  essential  for  error-based learning  in  technology-rich  environments  (Huang,  Liu,  et  al.,  2024; Winne  & Hadwin,  1998).  Decision-making  during  task  execution  in- volves selecting, adjusting, and regulating strategies based on ongoing monitoring.  These  control  processes  strengthen metacognitive  aware - ness of performance standards and outcomes, thereby directly informing reflective  appraisal  and  attribution  processes  in  the  subsequent self-reflection  phase  (Zimmerman,  2000). Consequently,  students  who engage  in  deliberate  and  adaptive  decision-making are  more  likely  to interpret  mistakes  as  informative  feedback,  promoting  learning  from errors rather than avoidance.
+Therefore,  perseverance  (d31)  and  decision-making  (d32)  are  hy- pothesized to positively predict learning from mistakes within the pro- posed mediation sequence.
+Regarding  overreliance  on  generative  AI, emerging  evidence  sug- gests  that  diminished  regulatory  control  is  associated  with  greater cognitive  offloading  and  uncritical  acceptance  of  automated  outputs (Gerlich,  2025; Sardi  et  al.,  2025).  In  contrast,  students  who  demon - strate  sustained  effort  and  autonomous decision-making appear  more likely  to  critically  evaluate  AI-generated  responses  and  maintain epistemic agency (Fernandes et al., 2025). Furthermore, learning from mistakes  may  reinforce  metacognitive monitoring and  epistemic  vigi- lance  (Panadero  et  al.,  2022),  potentially  functioning  as  a  protective factor  against  technological  dependency  Accordingly,  perseverance (b1), decision-making (b2), and learning from mistakes (b3) are expected 
+to negatively predict overreliance on generative AI.
+At the same time, consistent with the paradoxical role of goal setting in technology-mediated learning (Zhou, Wang, & Zhang, 2024), a direct association between goal setting and overreliance (c’) is also examined. 
+On this matter, highly goal-oriented students may strategically intensify AI  use  to  maximize  efficiency,  drawing  on  motivational  cues  that 
+emphasize performance, which has been shown to increase reliance on algorithmic assistance in performance-framed contexts (Nicolas, 2025). Moreover,  evidence  from  online  and  technology-supported  learning environments indicates  that  goal  clarity  can  significantly  enhance  the adoption  of  digital  resources,  suggesting  that  strong  goal  focus  may encourage  more  intensive  engagement  with  technological  tools (Heintalu et al., 2025).
+Although  emerging  evidence  has  begun  to  acknowledge  this  dual dynamic,  its  simultaneous  modeling  as  both  a  direct  and  indirect pathway  within  the  same  regulatory  framework  remains  relatively scarce.  Addressing  these  theoretical  tensions  and  empirical  gaps,  the present  study  analyzes  how  distinct  components  of  self-regulation jointly and indirectly relate to overreliance on generative AI.
+Accordingly, the first objective is. 
+O1  To examine the relationship between self-regulation dimensions 
+and overreliance on generative artificial intelligence.
+A graphical illustration of the mediation model to be tested can be found in Fig. 1.
+Additionally, in view of the rapid incorporation of generative AI in higher education, it is crucial to explore students' perspectives on how these  tools  influence  their  decision-making  processes  and  regulatory strategies.  For  example,  Johnston  et  al.  (2024) found  that  students exhibit ambivalence about AI's legitimacy, while qualitative work sug- gests  users  actively  negotiate  when  to  delegate  tasks  versus  maintain autonomous control  (Wang  et  al.,  2024).  Similarly,  Zhou,  Wang,  and Zhang  (2024) note  that  self-regulated  learners  may  leverage  AI for metacognitive  support  yet  remain  vulnerable  to  overconfidence  in AI-generated  outputs.  Despite  these  insights,  systematic  evidence  on how students perceive AI's role in their academic, professional, or per- sonal decisions, and how this relates to their regulatory approaches, is still emerging. Based on this research gap, the second objective of the present study is. 
+O2  To explore students' perspectives on the role of generative AI in 
+their decision-making and self-regulated learning.
+Overall, this study is explicitly positioned as an early empirical step 
+in theorizing  the  emerging  dynamics  between  SRL and  artificial  intel - ligence. By adopting a mixed-methods approach, it provides a founda - tional  yet  exploratory inquiry  into  how  students  navigate  the  tension between autonomous regulation and technological assistance.
+2. Method
+2.1. Sample
+The  study  sample  comprised  404  undergraduate students  (MAge  = 20.78, SD = 4.12) enrolled in education-related degree programs at the University  of  the  Basque  Country  (Spain).  Among  them,  158  self- identified  as  male,  243  as  female,  and  3  as  another  gender.  Sixteen students were pursuing the double degree in Early Childhood and Pri- mary Education, 35 were enrolled in Early Childhood Education, 287 in Primary  Education,  and  66  in Pedagogy.  With  respect  to  their  year  of study, 43 were in the first year, 209 in the second, 85 in the third, and 67 
+in the fourth. The average grade point average (GPA) for the preceding academic year, on the Spanish 10-point scale, was 7.63 (SD = .71).
+Participants were recruited through a non-probabilistic convenience sampling procedure, as all had previously been taught by one or more members  of the  research  team.  It  is worth  noting  that  earlier  studies suggest  that  non-probabilistic sampling  methods  may  produce  results comparable  to  those  obtained  using  random  sampling  techniques (Coppock  et  al., 2018). Nonetheless,  it is important to  emphasize  that the sample is restricted to education students from a single university, which  may  limit  the  generalizability  of  the  findings  across  different 
+
+5 
+H. Galindo-Domínguez et al.                                                                                                                                                                                                                 Computers in Human Behavior 181 (2026) 108985 
+
+Fig. 1. Proposed model for the mediation analysis.
+
+ 
+H. Galindo-Domínguez et al.                                                                                                                                                                                                                 Computers in Human Behavior 181 (2026) 108985 
+academic disciplines and institutional contexts.
+2.2. Instruments
+Personal  Information:  An  ad  hoc  questionnaire  was  developed  to gather students’ personal and academic details, including age, gender, year of study, degree program, and academic performance.
+Self-regulation: Self-regulation  was  assessed  using  the  Spanish Short Self-Regulation Questionnaire (Garzon ´ et al., 2017), which consists of 17 items  distributed  across  four  dimensions.  The  first  dimension,  Goal setting (α = .81),  evaluates  students'  ability  to  establish  and  monitor objectives (e.g., “I usually keep track of my progress toward my goals”). 
+The second, Perseverance (α = .71), measures persistence and resistance to distractions when pursuing tasks (e.g., “I get easily distracted from my 
+plans”). The third, Decision making (α = .76), reflects students’ capacity 
+to  make  choices  and  manage  competing  alternatives  (e.g.,  “I put  off making decisions”). Finally, learning from mistakes (α = .79) captures 
+the extent to which individuals reflect on and adapt based on prior errors (e.g.,  “I learn  from  my  mistakes”).  All items  were  rated  on  a  5-point Likert scale ranging from 1 (strongly disagree) to 5 (strongly agree).
+Frequency  of  Generative  AI  Use: To  evaluate  the  overreliance  on generative AI use, students were asked: “How often do you use gener -
+ative  artificial  intelligences  (such  as  ChatGPT  or  similar)  for  writing essays,  reports,  or  other  academic  documents?”  Responses  were collected  using  a 5-point  Likert  scale  ranging  from  1 (never)  to  5 (al- ways). This item was used as a proxy for overreliance because frequent reliance on generative AI for core academic tasks—such as writing es-
+says,  reports,  or  other  graded  documents—reflects  a  shift  from  occa- sional support to a habitual substitution of students' own cognitive and writing efforts. Therefore, higher scores on this item are interpreted as greater  overreliance on  AI for  academically essential  work.  Although multi-item  scales  are  typically  preferred  for  complex  psychological constructs,  single-item  measures  can  demonstrate adequate  reliability and validity when assessing concrete, unidimensional, and behaviorally specific variables (Wanous et al., 1997; Bergkvist & Rossiter, 2007). In 
+the  present  case,  the  item  targets  a  clearly  defined  and  observable behavior—frequency  of  AI use  for  academic  writing—which  reduces construct ambiguity and supports its use as a focused behavioral  indi-
+cator. Importantly, this item directly measures frequency of use rather than overreliance as a multidimensional psychological construct. In the present  study,  overreliance is inferred  indirectly  from  high-frequency use in core academic writing tasks. We conceptualize overreliance not merely as frequent use, but as a functional shift from augmentation (i.e., AI as a supportive scaffold) to substitution (i.e., AI replacing students’ own  planning,  organization, and  text  production processes).  When  AI tools  are  used  systematically  for  the  production  of  graded  academic texts,  such  repeated  delegation  may  reflect  a  behavioral  pattern consistent  with  substitution  rather  than  complementary  assistance. However, authors acknowledge that frequency alone does not constitute 
+direct  evidence  of  diminished  learning,  reduced  effort,  or  impaired self-regulation. Thus, in this study, the term “overreliance” refers to an inferred  behavioral  tendency  toward  substitution  in  high-frequency contexts,  rather  than  a  clinically  validated  or  diagnostically  assessed reliance construct.
+Relevance  of  Generative AI  in decision-making:  An open-ended  item was  included  to  explore  the  perceived  relevance  of  generative  AI in students’  decision-making  processes.  Specifically,  participants  were asked:  “What  role  do  generative  AIs (such  as  ChatGPT)  play  in  your academic, professional, or personal decisions?“.
+All items corresponding to the scales used can be found in Supple - mentary Material 2 of this study. Likewise, all measures in this study rely 
+on self-report data, which may be subject to common-method bias and social desirability effects, particularly regarding the sensitivity of AI use in  education.  To  mitigate  these  risks,  participants  were  guaranteed complete anonymity and confidentiality to encourage honest reporting.
+2.3. Procedure
+Following the selection of data collection instruments, the research team  digitized  them  using  Google Forms. Data  were  collected  in  early September 2025, both during class sessions and remotely, with students completing  the  survey  on  their  personal  computers.  On  average, participation required approximately 15 min.
+With  respect  to  ethical  considerations, the  study  was  exempt  from formal review by the ethics committee in accordance with the University of  the  Basque  Country's  regulations,  which  stipulate  that  anonymous surveys  involving  adult  participants  and  excluding  sensitive  personal information  do  not  require  mandatory  evaluation.  Nonetheless,  all procedures adhered to the principles of the Declaration of Helsinki. Prior to  participation, students  were  informed  of the  study's  objectives  and provided their informed consent. They were reminded that participation was  voluntary  and  that  they  could  decline  or  withdraw  at  any  stage without  penalty.  Anonymity  and  confidentiality were  safeguarded:  no personally  identifiable  data  were  collected,  and  all  responses  were securely stored in a private repository accessible solely to the research team.
+2.4. Data analysis
+Quantitative  analyses  proceeded  in  stages.  First,  preliminary  ad- justments  were  made  to  the  multidimensional self-regulation scale  by estimating  a confirmatory factor  model  and evaluating goodness-of-fit 
+with  χ2/df,  CFI,  RMSEA, and  AIC. Item  performance  was  examined through standardized loadings, prioritizing indicators with λ ≥ .50, and inspecting modification indices,  taking into account that values above 
+15  should  be  reviewed  (Byrne,  2010; Kline,  2016).  To establish  con- current validity, average variance extracted (AVE) and composite reli- ability (CR) was computed, targeting AVE ≥.50 and CR ≥ .70 (Fornell & 
+
+6 
+H. Galindo-Domínguez et al.                                                                                                                                                                                                                 Computers in Human Behavior 181 (2026) 108985 
+Larcker, 1981; Hair et al., 2019). After refinement, descriptive statistics (means  and  standard  deviations),  Pearson  correlations,  and  internal consistency  (Cronbach's  alpha)  were  reported.  Subsequently,  a media - tion  analysis  was  conducted  in  PROCESS for  SPSS Statistics  27  using Model  80  and  10,000  bootstrap  samples.  Mediation  analysis  tests whether the effect of a predictor on an outcome is transmitted through 
+one  or  more  intervening variables.  Model  80  specifies  two  first-stage mediators  that  converge  on  a second-stage  mediator,  with  both  direct and  specific  indirect  effects  estimated.  The  direct  and  indirect  effects, the  set  of specific  indirect  paths,  and  pairwise  contrasts  among  those paths to identify the predominant route was especially examined.
+For the qualitative component, open-ended responses were analyzed inductively.  Two  researchers  coded  the  data  independently  and  then compared  and  discussed  discrepancies  to  enhance  the  validity  of  the categorization.  Frequencies  and  percentages  were  calculated  for  the emergent categories.
+3. Results
+Preliminary  adjustments  were  carried  out  to  the  self-regulation model in order to examine its construct validity. The initial model pre-
+sented poor fit indices (χ2/df = 7.13; CFI = .691; RMSEA = .123; AIC = 807.077).  Several  items  with  low  factor  loadings  were  subsequently 
+removed, namely item 2 (λ = .287), item 3 (λ = .292), item 7 (λ = .450), 
+and  item  16  (λ = .404).  These  items  also  exhibited  high  modification indices  (MI  > 15)  with  other  items  showing  stronger  loadings,  a threshold  which,  according  to  previous  methodological recommenda - tions,  warrants  closer  evaluation  and  potential  item  removal  (e.g., Byrne, 2010; Kline, 2016). After refinement, the final model, formed by 
+13  (items  1,  4-6,  8-15,  17)  of  the  original  17  items  assessing self-regulation, showed substantially improved fit indices (χ2/df = 3.20; 
+CFI = .919; RMSEA = .074; AIC = 237.817), with all indices entering 
+into the recommended thresholds of χ2/df < 5, CFI >.90, TLI >.90, and RMSEA <.080 (Hooper et al., 2008). Factor loadings ranged from λ =
+.497 (lowest, item 6) to λ = .833 (highest, item 4), indicating acceptable to  strong  relationships  between  the  observed  variables  and  their respective latent factors. All standardized factor loadings from the final 
+CFA measurement model are reported in Supplementary Material 3.
+To further establish the validity and reliability of the measurement model, the average variance extracted (AVE) and composite reliability (CR) were calculated for each dimension of the scale. The results showed satisfactory reliability across the four factors: Goal setting (4 items; AVE 
+= .488;  CR = .786),  Perseverance (2  items;  AVE = .526;  CR = .686), Decision making  (4  items;  AVE = .455;  CR = .769),  and  Learning from mistakes  (2  items;  AVE = .501;  CR = .660).  According  to  Hair  et  al. (2019),  CR  values  above  .70  are  generally  considered  acceptable, although  values  close  to  .60  may  be  deemed  adequate  in  exploratory research.  In terms  of convergent  validity,  AVE values  approaching or exceeding  the  .50  threshold  (Fornell  & Larcker,  1981) indicate  that  a substantial portion of the variance is explained by the latent construct. Taken  together,  these  indices  provide  additional  support  for  the construct validity of the instrument.
+Descriptive analyses showed that mean scores ranged from 1.99 for overreliance on artificial intelligence to 3.79 for learning from mistakes, with  standard  deviations  between  .643  and  .834,  indicating  adequate variability  across  the  dimensions.  However,  given  that  all  constructs were  assessed  through  self-report  measures,  these  descriptive  results should  be  interpreted  with  caution.  In  particular,  the  relatively  low mean level of overreliance on artificial intelligence may reflect potential underreporting  due  to  social  desirability  and  common-method  bias, especially  within  an  educational  context  characterized  by  prior instructor–student relationships and the sensitivity surrounding norms of AI use.
+In  terms  of  correlations,  the  correlation  analysis  revealed  that overreliance on AI was negatively associated with several self-regulation dimensions. Specifically,  significant  negative relationships were  found 
+with decision making (r =   .131, p = .009) and learning from mistakes (r  =   .148,  p  = .003),  suggesting  that  students  who  reported  higher reliance on artificial intelligence tended to exhibit greater difficulties in making  decisions  and  in  drawing  lessons  from  previous  errors.  In contrast, the correlation between overreliance on artificial intelligence 
+and perseverance was negative but smaller in magnitude (r =   .107, p 
+= .031), while the association with goal setting was positive yet weak (r 
+= .118, p = .018). Overall, these findings indicate that greater reliance on  artificial  intelligence  is linked  to  lower  self-regulatory functioning, particularly  in  critical  areas  such  as  decision  making  and  reflective learning.
+Regarding  internal  consistency, reliability  coefficients  ranged  from .625  for  learning  from  mistakes  to  .781  for  goal  setting.  The  two  di- mensions  with  values  below  the  conventional  .70  thresh - olds—perseverance (α = .676) and learning from mistakes (α = .625)— 
+are composed of only two items each, and Cronbach's alpha is known to be highly sensitive to the number of items. In this sense, values slightly below .70 are still considered acceptable when scales include few items or capture complex constructs, as suggested by Cortina (1993). Never- theless,  prior  analyses  demonstrated  satisfactory  construct  validity, thereby supporting the adequacy of these dimensions within the overall scale.
+Next, in order to respond objective 1, a mediation analysis was done. 
+The mediation analysis showed that goal setting was positively associ-
+ated with perseverance (b = .512, p < .001), decision making (b = .138, 
+p = .021), and learning from mistakes (b = .163, p = .007). Perseverance 
+(b = .147, p = .002) and decision making (b = .261, p < .001) were also positively  associated  with  learning  from  mistakes.  With  respect  to 
+overreliance  on  generative  artificial  intelligence,  it  was  negatively associated  with  perseverance (b =   .121,  p  = .011)  and  by  learning from mistakes (b =   .126, p = .011), whereas the path from decision making was not significant (b =   .082, p = .094). The direct association 
+between  goal  setting  and  overreliance  on  generative  artificial  intelli - gence remained positive and significant (b = .241, p < .001). The model 
+explained  15.6%  of  the  variance  in  perseverance,  1.3%  in  decision- making, 15.3% in learning from mistakes, and 7.1% in overreliance on generative  artificial  intelligence.  These  results  indicate  that  self- regulatory  capacity  may  account  for  only  a small  portion  of students’ overreliance  on  generative  AI—a  construct  inferred  here  through  a frequency-based measure. However, this estimate should be interpreted 
+with caution due to potential underreporting in self-reports and the use of a single-item proxy, which  may not fully  capture the complexity of overreliance.  Likewise,  other  factors  such  as  AI  self-efficacy,  trust, perceived  usefulness,  institutional  norms,  or  AI  literacy  could  also contribute to these patterns. Thus, self-regulation should be framed as a 
+partial explanatory framework rather than a comprehensive one.
+At  the  indirect  association  level,  the  strongest  estimated  indirect association  was  observed  for  the  link  involving  perseverance alone  in relation  to  overreliance  on  AI (b =   .062,  95%  CI [  .117,    .012]), followed  by  a  smaller  but  significant  indirect  association  involving perseverance and learning from mistakes considered sequentially (b =   .009,  95%  CI  [  .022,    .001]).  The  remaining  indirect  associa - tions—those  involving  decision  making  alone  (b  =   .011,  95%  CI [  .032,  .002]),  learning  from  mistakes  alone  (b  =   .021,  95%  CI [  .052, .000]), and decision making together with learning from mis- takes  (b =   .005,  95%  CI [  .012,  .000])—were  not  reliably  different from zero. Consistent with these findings, the most pronounced contrast among  indirect  paths  favored  the  perseverance-only  route  over  the three-step route involving decision making and learning from mistakes. Overall, the pattern highlights perseverance as the key mediator atten -
+uating the association between goal setting and overreliance on gener - ative  artificial  intelligence,  with  limited  evidence  for  pathways involving decision making.
+This  study  revealed  an  apparently paradoxical pattern:  while  goal setting  was  positively  associated  with  perseverance, and  perseverance was  negatively  associated  with  AI overreliance, the  direct  association 
+between goal setting and AI overreliance was positive. It is important to clarify that the term “overreliance” in this study refers specifically to a behavioral  proxy  reflecting  high-frequency  use  of  generative  AI  for essential  academic  tasks,  rather  than  general  AI use  for  occasional  or 
+supportive  purposes.  Therefore,  the  paradox  observed  arises  from  the distinction  between  instrumental,  strategic  use  of  AI and  habitual  or substitutive use that may indicate overreliance.
+A plausible explanation is that students with clear goals may report a more  intensive  use  of  AI tools  as  instrumental  resources  to  achieve desired outcomes more quickly, which is associated with higher levels of reliance.  However,  perseverance  appears  to  be  linked  to  a  protective pattern,  as students  who  persist  in  their  efforts  tend  to  report  greater reliance on their own strategies and lower reliance on AI support. Thus, 
+goal  setting  is  associated  with  both  adaptive  self-regulation  and, simultaneously, a risk of instrumental overreliance on AI, depending on 
+how strongly perseverance is present within the pattern of associations observed. A visual representation of the main findings can be found in Fig. 2.
+Importantly,  these  mediation  results  should  be  interpreted  with caution,  as all  constructs  were  assessed  using  self-report  measures,  as commented before.  Common-method bias  and  social  desirability may have  influenced  both  the  magnitude  and  direction  of  the  estimated paths,  particularly  given  the  educational  context,  prior  instructor–- student relationships, and the sensitivity surrounding norms of AI use. Consequently,  the  observed  associations—especially  those  involving overreliance  on  generative  AI, which  was  operationalized  through  a frequency-based measure—may reflect conservative estimates.
+To  address  the  second  objective,  students’  open-ended  responses were analyzed to explore their perceptions of generative AI in decision- making and self-regulated learning. The content analysis identified nine distinct categories (see Supplementary Material 4 for the full thematic breakdown, frequencies, and representative examples).
+The results indicate that generative AI remains a peripheral tool for most  students,  with  42.51%  reporting  minimal  or  no  use  and  16.60% limiting  its  use  to  basic  information  search  and  evaluation.  From  a theoretical  standpoint,  the  most  relevant  categories  involve  active integration into  cognitive  and  metacognitive processes.  These  include strategy use for academic tasks (12.96%), decision-making and option appraisal (7.69%), and goal setting and planning (2.43%).
+Notably, despite the potential for overreliance, a segment of students (3.24%)  explicitly  reported  ethical  caution  or  deliberate  avoidance, citing concerns over originality and responsibility. Overall, the pattern 
+of responses  suggests  that  while  some  students  employ  AI to  support higher-order  functions  like  workflow  organization  or  alternative appraisal, for the majority, these tools are not yet a central element in 
+their decision-making or self-regulated learning routines.
+Overall,  the  pattern  of  responses  indicates  that  only  a  small  pro- portion of students use generative AI in ways that meaningfully shape their  decisions  or  self-regulated  learning  processes.  For  most  re- spondents,  these  tools  either  play  no  role  or  are  limited  to  basic information-seeking purposes. Thus, generative AI appears to remain a complementary  resource  rather  than  a  central  element  in  students’ decision-making routines.
+4. Discussion
+4.1. Main findings
+This  study  pursued  two  complementary  objectives  concerning  the role  of generative  artificial  intelligence  in  higher  education. The  first objective  was  to  examine  how  specific  dimensions  of  self-regulation relate to education students' overreliance on generative AI. The second objective explored students’ perspectives on how AI tools contribute to 
+their decision-making and self-regulated learning, drawing on qualita -
+tive insights from an open-ended question.
+Concerning  the  results  from  the  mediation  analysis,  an  apparently paradoxical pattern was found: while goal setting was associated with adaptive  regulatory  processes  such  as perseverance and  learning  from mistakes, it also showed a positive direct association with AI use, sug- gesting that students with clear goals may employ AI tools strategically to achieve their objectives. Perseverance, in contrast, appeared to buffer against overreliance, highlighting its central role within self-regulatory processes.
+However, it should be noted that overreliance was assessed using a single-item  frequency  measure,  which  captures  a  concrete  behavioral indicator but does not fully represent habitual or cognitive reliance on 
+AI. Therefore, these associations should be interpreted cautiously, as the narrow operationalization may influence the observed patterns.
+4.2. Theoretical and practical implications
+The  present  findings  offer  several  contributions  to  self-regulated learning theory in the age of generative AI. As an early empirical step, this study is positioned to initiate the theorization of SRL–AI dynamics, emphasizing an exploratory yet foundational approach to this emerging field.  Classical  socio-cognitive  and  motivational models  conceptualize Self-regulation learning  as  a cyclical  process  in  which  learners  proac - tively  set  goals,  deploy  strategies,  monitor  progress,  and  reflect  on outcomes (Pintrich, 2004; Zimmerman, 2000). The mediation analysis suggests  that,  under  conditions  of  ubiquitous  AI  access,  these  SRL components may diverge: strong goal setting can coexist with a pattern of instrumental, heavy AI use, whereas perseverance and learning from 
+
+8 
+H. Galindo-Domínguez et al.                                                                                                                                                                                                                 Computers in Human Behavior 181 (2026) 108985 
+
+Fig. 2. Visual representation of the direct effects of the mediation analysis.
+
+ 
+H. Galindo-Domínguez et al.                                                                                                                                                                                                                 Computers in Human Behavior 181 (2026) 108985 
+mistakes  appear  more  clearly  protective  against  overreliance.  This nuance  aligns with recent mapping  work at the intersection of AI and Self-regulation learning,  which  shows  that  most  AI-supported  SRL in- terventions target  cognitive  and  metacognitive processes,  while  moti- vational regulation remains comparatively underexplored (Banihashem 
+et al., 2025). In this sense, the pattern of associations observed in our study invite theoretical refinements that explicitly model how learners 
+might delegate monitoring, planning, or evaluative functions to AI tools and  how  this  delegation  reshapes  the  self-regulation  learning  cycle. These  insights provide  an  initial  empirical  basis  for future  research  to build upon this foundational inquiry.
+Beyond  self-regulation  learning  theory,  the  specific  associations found enrich emerging conceptualizations of generative AI in education. Systematic  reviews  of ChatGPT  in  educational settings  highlight  both substantial opportunities (e.g., enhanced feedback, increased access to explanations) and significant risks, including academic integrity issues and the possibility that students bypass productive struggle (Adel et al., 2024;  Adigüzel  et  al.,  2023;  Montenegro-Rueda  et  al.,  2023). Meta-analytic  evidence  further  indicates  that  ChatGPT-based  in- terventions  can  improve  learning  performance  and  higher-order thinking,  but  that  these  benefits  depend  critically  on  how  the  tool  is embedded  in  instruction  (Deng  et  al.,  2024).  Our  specific  pattern  of associations,  where  perseverance  and  learning  from  errors  are  nega- tively related to AI reliance, offers empirical support for the concern that unstructured AI use  may  erode  the  very  regulatory  processes  that  un- derpin  deep  learning.  These  paths  thus  help  specify  what  an  “AI-de- pendent” self-regulation learning profile might look like: one in which students  outsource  planning  and  evaluation  to  AI,  weakening error-based  learning  and  sustained  effort  over  time  (Kasneci  et  al., 2023).
+For researchers, the findings regarding the indirect and direct asso-
+ciations  underscore  the  need  to  study  AI and  self-regulation relations using more fine-grained approaches. Systematic reviews emphasize that 
+AI is predominantly used  as  an  intervention layer  supporting  specific self-regulation components (e.g., metacognition, planning, monitoring), 
+often  within  higher  education  contexts  (Heikkinen  et  al.,  2023; Bani- hashem  et  al.,  2025). However,  much  less  is known  about  how  every day, student-initiated use of general-purpose tools like ChatGPT trans -
+forms  motivational regulation,  help-seeking  thresholds, and  error pro- cessing.  Future  studies  should  therefore  (a)  combine  self-report  SRL measures  with  trace  data  from  AI interactions, (b)  adopt  longitudinal and  experimental designs,  and  (c)  examine  learner-profile differences, 
+as  recommended  in  recent  AI–self  regulation  research  agendas (Banihashem et al., 2025; Faza & Lestari, 2025).
+From  a  pedagogical  standpoint,  the  pattern  of  direct  and  indirect associations identified in the mediation model suggest that teachers and instructional designers should treat generative AI explicitly as a regula- tion-sensitive  tool.  Studies  indicate  that  “guidance-based”  ChatGPT frameworks,  where  students  attempt  tasks  independently  before consulting  the  tool,  can  enhance  Self-regulation  and  higher-order thinking  more  effectively  than  unconstrained  use  (Klar,  2025). Digital-age  self-regulation  reviews  also  show  that  technologies  yield benefits  when  aligned  with  clear  strategy  instruction,  metacognitive prompting, and  structured opportunities to  learn  from  errors  (Faza  & Lestari, 2025). Consistent with the observed positive direct association between goal setting and AI overreliance, alongside the negative indi- rect associations through perseverance and learning from mistakes, our findings  are  consistent  with  instructional approaches that  (a)  concep - tually  position  generative  AI  as  a  second  step  after  initial  student reasoning, (b) emphasize the inclusion of prompts requiring students to explain or critique AI outputs, and (c) highlight the importance of pre- serving  phases  of  productive  struggle  from  full  delegation  to  AI. For teacher  education,  this suggests  the  relevance  of training  teachers  not only  in AI literacy  but  also  in the  pedagogical  orchestration of AI use across  the self-regulated  learning cycle (Kasneci  et  al., 2023; Pintrich, 2004; Zimmerman, 2000).
+For education students, the observed pattern in which perseverance and  learning  from  mistakes  are  negatively  associated  with  AI over- reliance  highlights  the  need  to  integrate  AI literacy  with  regulatory competencies.  Surveys  show  that  university  learners  exhibit  high acceptance  and  frequent  use  of  ChatGPT,  often  in  pragmatic  and outcome-oriented ways (Habibi et al., 2023; Adel et al., 2024). At the 
+same  time,  rapid  evidence  reviews  emphasize  that  learning  benefits occur  when  students  actively  engage  with  the  tool,  for  example,  by refining prompts, comparing responses, or checking claims against other sources (Deng et al., 2024; Lo, 2023; Montenegro-Rueda et al., 2023). In light  of  our  qualitative  findings,  learner-facing  interventions  should include routines such as (a) articulating one's plan before prompting AI, (b) using AI primarily for feedback and alternative perspectives, and (c) documenting  how  AI  suggestions  were  adapted  or  rejected.  These practices  directly  foster  perseverance,  decision-making,  and  learning from mistakes while reducing the risk of dependency.
+Finally,  the  results  have  implications  for  policy  makers  and  in- stitutions seeking to align with recent global guidance on AI in educa -
+tion. UNESCO's Guidance for Generative AI in Education and Research and the OECD Digital Education Outlook 2023 both call for human-centred 
+AI ecosystems grounded in trust, transparency, and robust governance (Miao & Holmes, 2023; OECD, 2023). Our quantitative and qualitative findings  suggest  that  institutional  policies  should  not  only  regulate acceptable  uses  but  also  invest  in  capacity  building  in  self-regulation learning  and  AI  literacy.  This  includes  embedding  self-regulation learning  outcomes  in  curricula,  developing  teacher  training  on AI-supported  pedagogy,  and  ethically  using  analytics  to  monitor  pat- terns that may indicate emerging overreliance (Heikkinen et al., 2023; Banihashem et al., 2025).
+4.3. Limitations and prospective
+This study presents several important limitations that should guide future  research.  First,  its  cross-sectional  and  single-institution  design limits the ability to draw causal inferences about the relationships be-
+tween  self-regulation and  AI overreliance, echoing  concerns  in  recent reviews that much of the current evidence on educational AI is obser - vational in nature (Lo, 2023; Montenegro-Rueda et al., 2023). In addi -
+tion, the sample was limited to undergraduate education students, who may be particularly sensitive to norms regarding AI use or less familiar with  AI and  digital  technologies  compared  with  students  in other  dis- ciplines. These contextual constraints should be considered when gen- eralising the findings to higher education more broadly. Future research should  therefore  aim  to  include  larger  and  more  diverse  samples, encompassing students from multiple  institutions and a variety of dis- ciplines,  to  capture  potential  differences  in  SRL–AI dynamics  across educational contexts, and should also employ longitudinal and experi - mental  designs,  such  as  cross-lagged  panel  models  or  SRL-based  in- terventions,  to  determine  whether  low  perseverance  and  limited error-based learning prospectively predict increases in AI overreliance or, conversely, whether intense AI use gradually erodes core regulatory processes (Huang, Lai, et al., 2024).
+Second,  all  constructs  were  measured  via  self-report,  raising  con- cerns  about  common method  variance  and  potential discrepancies be- tween  perceived  and  actual  AI use.  Recent  scholarship  highlights  the value  of  combining  validated  scales  (e.g.,  Morales-García,  Sair- itupa-S´anchez,  & Morales-García, 2024) with digital trace data to more accurately capture online learning behaviours (Heikkinen et al., 2023). Additionally, AI overreliance was inferred indirectly from a single-item measure capturing frequency of generative AI use for academic writing. Although this item targeted a clearly defined and observable behavior, frequency  alone  might  not  provide  direct  evidence  of cognitive  disen - gagement, reduced effort, or diminished learning. Therefore, the oper- ationalization  reflects  a  behavioral  proxy  rather  than  a multidimensional  assessment  of  AI  overreliance.  While  single-item measures  can  be  appropriate  for  concrete  and  behaviorally  specific 
+
+9 
+H. Galindo-Domínguez et al.                                                                                                                                                                                                                 Computers in Human Behavior 181 (2026) 108985 
+constructs,  future  research  should  develop  and  validate  multi-item  in- struments that explicitly distinguish between instrumental use, strategic augmentation,  and  substitution  processes  in  order  to  more  precisely capture overreliance as a regulatory phenomenon.
+A third limitation concerns the lack of contextual granularity, as the study  did  not  differentiate between  academic  domains  or  types  of AI- supported  tasks—despite  evidence  that  reliance  on  AI varies  substan - tially  across  learning  activities  and  student  profiles  (Stojanov,  Liu, & Koh,  2024).  To  address  this  gap,  subsequent  studies  should  examine SRL–AI dynamics  across  diverse  disciplines  and  task  types  to  identify when  generative  AI functions  as  a  scaffold  that  supports  regulation versus a substitute that displaces productive struggle.
+Fourth, the model accounted for only a modest portion of the vari- ance in AI overreliance, indicating that self-regulatory processes explain just part of students’ tendencies to rely on AI. Important motivational, contextual,  and  AI-specific  variables,  such  as  AI  self-efficacy,  trust, perceived  usefulness,  or  normative  climates,  were  not  included.  Map- ping reviews indicate that SRL is shaped by a constellation of cognitive, motivational,  and  contextual  factors  (Banihashem  et  al.,  2025),  and future  research  should  therefore  broaden  the  predictive  framework  to include these elements, which may yield richer explanatory power and help  identify  “at-risk”  learner  profiles  that  require  tailored interventions.
+Together,  addressing these limitations  will not  only  strengthen the empirical  base  of AI-related  SRL research  but  also  support  the  devel- opment  of  more  targeted  pedagogical  and  institutional  strategies  for reducing AI overreliance while fostering deep, autonomous learning.
+CRediT authorship contribution statement
+Hector ´ Galindo-Domínguez: Writing – review & editing, Writing – original  draft,  Visualization,  Supervision,  Software,  Resources,  Meth- odology,  Investigation, Funding  acquisition, Formal  analysis,  Concep-tualization.  Nahia  Delgado:  Writing  –  review  &  editing,  Writing  – original  draft,  Resources,  Project  administration, Methodology,  Inves- tigation,  Conceptualization.  Martín  Sainz-de-la-Maza:  Writing  –  re- view  &  editing,  Writing  –  original  draft,  Data  curation, Conceptualization.  Jose-María  Etxabe:  Writing  –  review  &  editing, Writing – original draft, Conceptualization.
+Declaration of generative AI and AI-assisted technologies in the manuscript preparation process
+During the preparation of this work, the authors used ChatGPT solely to support language refinement and improve clarity, as the authors are not native English speakers. After using this tool, the authors thoroughly reviewed, edited, and validated all content, and take full responsibility for the final version of the manuscript.
+Funding
+This  research  did  not  receive  any  specific  grant  from  funding agencies in the public, commercial, or not-for-profit sectors.
+Declaration of competing interest
+The  authors  declare  that  they  have  no  known  competing  financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi. org/10.1016/j.chb.2026.108985.
+Data availability
+Data will be made available on request. References
+Adel, A., Ahsan, A., & Davison, C. (2024). ChatGPT promises and challenges in 
+education: Computational and ethical perspectives. Education Sciences, 14(8), 814. https://doi.org/10.3390/educsci14080814
+Adigüzel, T., Kaya, M. H., & Cansu, F. K. (2023). Revolutionizing education with AI: 
+Exploring the transformative potential of ChatGPT. Contemporary Educational Technology, 15(3), ep429. https://doi.org/10.30935/cedtech/13152
+Baird, A., & Maruping, L. M. (2021). The next generation of research on IS use: A 
+theoretical framework of delegation to and from agentic IS artifacts. MIS Quarterly, 45(1), 315–341. https://doi.org/10.25300/misq%2F2021%2F15882
+Balapumi, R., von Konsky, B. R., Aitken, A., & McMeekin, D. A. (2016). Factors 
+influencing university students' self-regulation of learning: An exploratory study. In Proceedings of the Australasian computing education conference (pp. 51–58). Association for Computing Machinery. https://doi.org/10.1145/2843043.2843067. ACE 2016.
+Bandura, A. (1986). Social foundations of thought and action: A social cognitive theory. 
+Prentice-Hall. 
+Banihashem, S. K., Bond, M., Bergdahl, N., Khosravi, H., & Noroozi, O. (2025). 
+A systematic mapping review at the intersection of artificial intelligence and self- regulated learning. International Journal of Educational Technology in Higher Education, 22, 50. https://doi.org/10.1186/s41239-025-00548-8
+Bergkvist, L., & Rossiter, J. R. (2007). The predictive validity of multiple-item versus 
+single-item measures of the same constructs. Journal of Marketing Research, 44(2), 175–184. https://doi.org/10.1509/jmkr.44.2.175
+Berridi, R., & Martínez, P. (2017). Estrategias de autorregulacion ´ en contextos virtuales 
+de aprendizaje. Perfiles Educativos, 39(156), 89–102.
+Broadbent, J., & Poon, W. L. (2015). Self-regulated learning strategies & academic 
+achievement in online higher education learning environments: A systematic review. Internet and Higher Education, 27, 1–13. https://doi.org/10.1016/j. 
+iheduc.2015.04.007
+Byrne, B. M. (2010). Structural equation modeling with AMOS: Basic concepts, applications, 
+and programming (2nd ed. Routledge. https://doi.org/10.4324/9780203805534 Chatto, M., & Logronio, F. (2025). Navigating AI in academia: Undergraduate 
+experiences with ChatGPT and the redefinition of academic writing. Journal of 
+Education and Learning Reviews, 2(4), 27–42. https://doi.org/10.60027/ 
+jelr.2025.2061
+Chen, L., Chen, P., & Lin, Z. (2020). Artificial intelligence in education: A review. IEEE 
+Access, 8, 75264–75278. https://doi.org/10.1109/ACCESS.2020.2988510
+Chen, K., Tallant, A. C., & Selig, I. (2024). Exploring generative AI literacy in higher 
+education: Student adoption, interaction, evaluation and ethical perceptions. Information and Learning Sciences, 126(1-2), 132–148. https://doi.org/10.1108/ILS- 10-2023-0160
+Coppock, A., Leeper, T. J., & Mullinix, K. J. (2018). Generalizability of heterogeneous 
+treatment effect estimates across samples. Proceedings of the National Academy of Sciences of the United States of America, 115(49), 12441–12446. https://doi.org/ 10.1073/pnas.1808083115
+Cortina, J. M. (1993). What is coefficient alpha? An examination of theory and 
+applications. Journal of Applied Psychology, 78(1), 98–104. https://doi.org/10.1037/ 
+0021-9010.78.1.98
+Crˇ ˇcek, N., & Patekar, J. (2023). Writing with AI: University students' use of ChatGPT. 
+Journal of Language and Education, 9(4), 128–138. https://doi.org/10.17323/ jle.2023.17379
+De la Fuente, J., Kauffman, D. F., Dempsey, M., & Sander, P. (2020). Regulation of 
+learning and academic stress: The role of regulatory teaching. Frontiers in Psychology, 11, Article 610018. https://doi.org/10.3389/fpsyg.2020.610018
+De la Fuente, J., Sander, P., Kauffman, D. F., & Yilmaz Soylu, M. (2020). Differential 
+effects of self- vs. external-regulation on learning approaches, academic 
+achievement, and satisfaction in undergraduate students. Frontiers in Psychology, 11, Article 543884. https://doi.org/10.3389/fpsyg.2020.543884
+Deci, E. L., & Ryan, R. M. (1985). Intrinsic motivation and self-determination in human 
+behavior. Plenum Press. https://doi.org/10.1007/978-1-4899-2271-7
+Deng, R., Jiang, M., Yu, X., Lu, Y., & Liu, S. (2024). Does ChatGPT enhance student 
+learning? A systematic review and meta-analysis of experimental studies. Computers 
+& Education, 227, Article 105224. https://doi.org/10.1016/j.compedu.2024.105224
+Efklides, A. (2011). Interactions of metacognition and affect in self-regulated learning: 
+The MASRL model. Educational Psychologist, 46(1), 6–25. https://doi.org/10.1080/ 00461520.2011.538645
+Faza, A., & Lestari, I. A. (2025). Self-regulated learning in the digital age: A systematic 
+review. International Review of Research in Open and Distance Learning, 26(2), 23–58. https://doi.org/10.19173/irrodl.v26i2.8119
+Fernandes, D., Villa, S., Nicholls, S., Haavisto, O., Buschek, D., Schmidt, A., Kosch, T., 
+Shen, C., & Welsch, R. (2025). AI makes you smarter but none the wiser: The disconnect between performance and metacognition. Computers in Human Behavior, 175, Article 108779. https://doi.org/10.1016/j.chb.2025.108779
+Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation models with 
+unobservable variables and measurement error. Journal of Marketing Research, 18(1), 39–50. https://doi.org/10.1177/002224378101800104
+Garzon, ´ A., De la Fuente, J., Martínez-Vicente, J. M., Zapata, L., Pichardo, M. C., & García-Berb´en, A. B. (2017). Validation of the Spanish short self-regulation 
+
+10 
+H. Galindo-Domínguez et al.                                                                                                                                                                                                                 Computers in Human Behavior 181 (2026) 108985 
+questionnaire (SSSRQ) through Rasch analysis. Frontiers in Psychology, 8, 276. https://doi.org/10.3389/fpsyg.2017.00276
+Gerlich, M. (2025). AI tools in society: Impacts on cognitive offloading and the future of 
+critical thinking. Societies, 15(1), 6. https://doi.org/10.3390/soc15010006
+Habibi, A., Muhaimin, M., Danibao, B. K., Wibowo, Y. G., Wahyuni, S., & Octavia, A. 
+(2023). ChatGPT in higher education learning: Acceptance and use. Computers and Education: Artificial Intelligence, 5, Article 100190. https://doi.org/10.1016/j. caeai.2023.100190
+Hair, J. F., Black, W. C., Babin, B. J., & Anderson, R. E. (2019). Multivariate data analysis 
+(8th ed.). Cengage. 
+Heikkinen, S., Saqr, M., Malmberg, J., & Tedre, M. (2023). Supporting self-regulated 
+learning with learning analytics interventions: A systematic literature review. Education and Information Technologies, 28, 3059–3088. https://doi.org/10.1007/ s10639-022-11281-4
+Heintalu, K., Saks, K., Edisherashvili, N., & Dekker, I. (2025). The conceptualisation of 
+goal setting and goal orientation in higher education: A systematic literature review. Educational Research Review. , Article 100709. https://doi.org/10.1016/j. edurev.2025.100709
+Hendrie, K. N., & Bastacini, M. del C. (2020). Autorregulacion ´ en estudiantes 
+universitarios: Estrategias de aprendizaje, motivacion ´ y emociones. Revista de Educaci´on, 44(1), 1–20. https://doi.org/10.15517/revedu.v44i1.37713
+Hong, J. C., & Chen, N. (2024). Effects of achievement motivation and ChatGPT self- 
+efficacy on ChatGPT addiction and ChatGPT continuance intention. SSRN. https:// doi.org/10.2139/ssrn.5064583
+Hooper, D., Coughlan, J., & Mullen, M. R. (2008). Structural equation modelling: 
+Guidelines for determining model fit. Electronic Journal of Business Research Methods, 6(1), 53–60.
+Huang, X., Chen, L., & Wang, Y. (2024). Self-regulated learning in AI-supported 
+environments: Decision-making and cognitive engagement patterns. Computers & Education, 205, Article 104915.
+Huang, S., Lai, X., Ke, L., Li, Y., Wang, H., Zhao, X., Dai, X., & Wang, Y. (2024). AI 
+technology Panic—is AI dependence bad for mental health? A cross-lagged panel model and the mediating roles of motivations for AI use among adolescents. Psychology Research and Behavior Management, 17, 1087–1102. https://doi.org/ 10.2147/PRBM.S440889
+Huang, M., Liu, Y., Su, X., Ma, S., Zhu, J., Shi, L., & Wang, S. (2024). Impact of artificial 
+intelligence dependence on adolescent mental health: A three-wave cross-lagged study. Child and Adolescent Psychiatry and Mental Health, 18, 64. https://doi.org/ 10.1186/s13034-024-00702-0
+Johnston, H., Wells, R. F., Shanks, R. M., Boey, T., & Parsons, B. N. (2024). Student 
+perspectives on the use of generative artificial intelligence technologies in higher education. International Journal for Educational Integrity, 20, 2. https://doi.org/ 10.1007/s40979-024-00149-4
+Kasneci, E., Seßler, K., Küchemann, S., Bannert, M., Dementieva, D., Fischer, F., … 
+Kasneci, G. (2023). ChatGPT for good? On opportunities and challenges of large language models for education. Learning and Individual Differences, 103, Article 102274. https://doi.org/10.1016/j.lindif.2023.102274
+Klar, M. (2025). Using ChatGPT is easy, using it effectively is tough? A mixed methods 
+study on K-12 students' perceptions, interaction patterns, and support for learning with generative AI chatbots. Smart Learning Environments, 12, 32. https://doi.org/ 10.1186/s40561-025-00385-2
+Kline, R. B. (2016). Principles and practice of structural equation modeling (4th ed. Guilford 
+Press. 
+Liu, M., Ren, Y., Nyagoga, L. M., Stonier, F., Wu, Z., & Yu, L. (2023). Future of education 
+in the era of generative artificial intelligence: Consensus among Chinese scholars on applications of ChatGPT in schools. Future in Educational Research, 1(1), 72–101. https://doi.org/10.1002/fer3.10
+Lo, C. K. (2023). What is the impact of ChatGPT on education? A rapid review of the 
+literature. Education Sciences, 13(4), 410. https://doi.org/10.3390/educsci13040410 Lo, C. K., Hew, K. F., & Jong, M. S. Y. (2024). The influence of ChatGPT on student 
+engagement: A systematic review and future research agenda. Computers & 
+Education, 219, Article 105100. https://doi.org/10.1016/j.compedu.2024.105100
+Miao, F., & Holmes, W. (2023). Guidance for generative AI in education and research. 
+UNESCO. https://unesdoc.unesco.org/ark:/48223/pf0000386693. 
+Moeller, J., Theiler, J. M., & Wu, C. (2020). Goal setting and student achievement: A 
+meta-analysis. Educational Psychology Review, 32, 529–555. https://doi.org/ 10.1007/s10648-020-09531-2
+Montenegro-Rueda, M., Fern´andez-Cerero, J., Fern´andez-Batanero, J. M., & Lopez- ´
+Meneses, E. (2023). Impact of the implementation of ChatGPT in education: A systematic review. Computers, 12(8), 153. https://doi.org/10.3390/ computers12080153
+Morales-García, J., Guti´errez-Santiuste, E., & Lafuente-Lechuga, M. (2024). Development 
+and validation of a scale to measure university students' dependence on artificial intelligence tools. Heliyon, 13, Article e44898. https://doi.org/10.1016/j. heliyon.2024.e44898
+Morales-García, W. C., Sairitupa-S´anchez,  L. Z., Morales-García, S. B., & Morales- 
+García, M. (2024). Development and validation of a scale for dependence on artificial intelligence in university students. Frontiers in Education, 9, Article 1323898. https://doi.org/10.3389/feduc.2024.1323898
+Morandín-Ahuerma, F. (2022). What is artificial intelligence? International Journal of 
+Research Publication and Reviews, 3(12), 1947–1951. https://doi.org/10.55248/ gengpi.2022.31261
+Mubango, H., & Ngirande, H. (2024). Self-regulated learning: Time management in a blended 
+learning environment for student academic performance. IntechOpen. https://doi.org/ 10.5772/intechopen.1006068
+Nicolas, S. (2025). To Be competitive or not to be competitive: How performance goals 
+shape human-AI and human-human collaboration. Computers in Human Behavior: 
+Artificial Humans, 5, 100169. https://doi.org/10.1016/j.chbah.2025.100169. OECD. (2023). OECD digital education outlook 2023: Towards an effective digital education 
+ecosystem. OECD Publishing. https://doi.org/10.1787/c74f03de-en
+Oh, S., Jang, M., & Park, J. (2023). Undergraduates' awareness of the ethics of generative 
+AI utilization in college writing. Literacy Studies, 14(4), 69–96. https://doi.org/ 10.37736/KJLR.2023.08.14.4.03
+Panadero, E. (2017). A review of self-regulated learning: Six models and four directions 
+for research. Frontiers in Psychology, 8, 422. https://doi.org/10.3389/ 
+fpsyg.2017.00422
+Panadero, E., Broadbent, J., Boud, D., & Lodge, J. (2022). Using formative assessment to 
+influence self- and co-regulated learning. Educational Psychologist, 57(3), 192–211. https://doi.org/10.1080/00461520.2022.2081311
+Pintrich, P. R. (2004). A conceptual framework for assessing motivation and self- 
+regulated learning in college students. Educational Psychology Review, 16(4), 
+385–407. https://doi.org/10.1007/s10648-004-0006-x
+Rezayi, F., Yusefi, E., & Khajepoor, L. (2024). Structural model of the relationship 
+between self-regulation strategies, problem-solving skills, academic adjustment, and school belonging with the mediation of students' goal orientation. Study and Innovation in Education and Development, 4(4), 259–276.
+Sardi, J., Darmansyah, Candra, O., Yuliana, D. F., Habibullah, Y., Yanto, D. T. P., & 
+Eliza, F. (2025). How generative AI influences students' self-regulated learning and critical thinking skills? A systematic review. International Journal of Engineering Pedagogy, 15(1), 94–108. https://doi.org/10.3991/ijep.v15i1.53379
+Sitzmann, T., & Ely, K. (2011). A meta-analysis of self-regulated learning in work-related 
+training and educational attainment. Personnel Psychology, 64, 421–449. https://doi. org/10.1111/j.1744-6570.2011.01211.x
+Stavropoulou, G., Daniilidou, A., & Nerantzaki, K. (2025). Exploring the interplay of 
+motivation, self-efficacy, critical thinking, and self-regulation in predicting academic achievement among university students. F1000Research, 14, 344. https://doi.org/ 10.12688/f1000research.161821.2
+Sterling, L., Ye, C., Ying, H., & Chen, Z. (2025). Finding your voice: Using generative AI 
+to help international students improve their writing. Information, 16(4), 289. https:// doi.org/10.3390/info16040289
+Stojanov, A., Liu, Q., & Koh, J. H. L. (2024). University students' self-reported reliance on 
+ChatGPT for learning: A latent profile analysis. Computers and Education: Artificial 
+Intelligence, 6, Article 100243. https://doi.org/10.1016/j.caeai.2024.100243
+Stojanov, M., Pejovi´c, A., & Drakuli´c, D. (2024). Latent profiles of student reliance on 
+ChatGPT for learning: Implications for higher education. Education and Information 
+Technologies, 29, 10923–10949. https://doi.org/10.1007/s10639-024-12934-4
+Venkatesh, V., Morris, M. G., Davis, G. B., & Davis, F. D. (2003). User acceptance of 
+information technology: Toward a unified view. MIS Quarterly, 27(3), 425–478. 
+https://doi.org/10.2307/30036540
+Vera, A. (2022). Autorregulacion ´ en el aprendizaje de estudiantes y su relacion ´ con 
+rendimiento acad´emico. Revista Conhecimento Online, 14(2), 49–68. https://doi.org/ 10.25112/rco.v2.2943
+Wang, C. (2024). Exploring students' generative AI-assisted writing processes: 
+Perceptions and experiences from native and nonnative English speakers. Technology, Knowledge and Learning, 30, 1825–1846. https://doi.org/10.1007/ s10758-024-09744-3
+Wang, C., Aguilar, S. J., Bankard, J. S., Bui, E., & Nye, B. (2024). Writing with AI: What 
+college students learned from utilizing ChatGPT for a writing assignment. Education Sciences, 14(9), 976. https://doi.org/10.3390/educsci14090976
+Wang, L., & Ren, B. (2024). Enhancing academic writing in a linguistics course with 
+generative AI: An empirical study in a higher education institution in Hong Kong. 
+Education Sciences, 14(12), 1329. https://doi.org/10.3390/educsci14121329
+Wanous, J. P., Reichers, A. E., & Hudy, M. J. (1997). Overall job satisfaction: How good 
+are single-item measures? Journal of Applied Psychology, 82(2), 247–252. https://doi. 
+org/10.1037/0021-9010.82.2.247
+Winne, P. H., & Hadwin, A. F. (1998). Studying as self-regulated learning. In 
+D. J. Hacker, J. Dunlosky, & A. C. Graesser (Eds.), Metacognition in educational theory and practice (pp. 277–304). Lawrence Erlbaum Associates. 
+Zhao, X., Cox, A., & Cai, L. (2024). ChatGPT and the digitisation of writing. Humanities 
+and Social Sciences Communications, 11, 482. https://doi.org/10.1057/s41599-024- 02904-x
+Zhou, X., Teng, D., & Al-Samarraie, H. (2024). The mediating role of generative AI self- 
+regulation on students' critical thinking and problem-solving. Education Sciences, 14 (12), 1302. https://doi.org/10.3390/educsci14121302
+Zhou, M., Wang, F., & Zhang, Y. (2024). Goal orientation and AI-assisted learning 
+behaviors in higher education. Computers and Education: Artificial Intelligence, 6, Article 100209.
+Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In 
+M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), Handbook of self-regulation: Theory, research, and applications (pp. 13–39). Academic Press. https://doi.org/10.1016/ B978-012109890-2/50031-7. 
+11 

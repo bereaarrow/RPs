@@ -1,0 +1,627 @@
+﻿
+Telecommunications Policy xxx (xxxx) xxx 
+Contents lists available at ScienceDirect 
+Telecommunications Policy 
+journal homepage: www.elsevier.com/locate/telpol 
+Self-reported AI literacy and gendered self-efficacy: Evidence from Chinese  adolescents
+Li Tian a, Wanyu Wu a,* , Ya Tan b, Shilan Feng c
+a School of New Media, Peking University, China
+b School of International Trade and Economics, University of International Business and Economics, China c Institute of Political Economy, School of Marxism, Peking University, China
+
+A R T I C L E I N F O
+Keywords:
+AI literacy
+Digital divide
+Gender gap
+Self-efficacy
+AI
+Chinese adolescents
+A B S T R A C T
+Artificial intelligence (AI) literacy has emerged as a key dimension of youth development, with profound implications  for education,  labor  markets,  and  social equity.  Yet, disparities  in AI lit- eracy  risk  amplifying  existing  inequalities.  This  study  examines  gender  differences  in  self- reported  AI literacy  among  Chinese  adolescents,  conceptualizing self-reported  AI literacy  as  a reflection  of  self-efficacy.  Drawing  on  Bandura's  self-efficacy  theory  and  a  developmental- contextual  perspective, we  construct a multidimensional AI literacy index  and employ  counter - factual  analysis  together  with  Blinder–Oaxaca  decomposition  to  validate  and  decompose  the gender gap. Using a stratified sample of adolescents from diverse backgrounds in China, the study 
+reveals  a gender  gap  in  self-reported  AI literacy,  with  males  rating  themselves  higher  than  fe- males.  This  gap  is  heterogeneous  across  different  dimensions  of  AI literacy  and  is  most  pro- nounced in the dimensions of Understanding, Ethics, and Society. The results further indicate that 
+these differences are attributable both to perception biases and to actual disparities in observed background  endowments.  The  findings  highlight  the  risks  of  neglecting  gendered  self-efficacy gaps,  which  may  perpetuate  female  exclusion  from  STEM opportunities,  and  underscore  the importance  of  interventions  that  strengthen  girls'  AI  self-efficacy.  This  research  makes  both theoretical  and  empirical  contributions:  it  provides  insights  into  the  conceptualization  and measurement of AI literacy, investigates the connection between AI literacy and self-efficacy, and 
+offers policy-relevant implications for fostering more inclusive and equitable AI education.
+
+1. Introduction
+The rapid advancement of artificial intelligence (AI) is reshaping societies, economies, and labor markets worldwide. Alongside its transformative  potential,  AI also  poses  significant  challenges  for  education  systems,  which  must  prepare  the  next  generation  to navigate, critically evaluate, and responsibly use AI technologies to support sustainable social development. As a result, the concept of 
+AI literacy has emerged as a core competence for citizens in the digital era, encompassing not only technical knowledge of AI but also skills related to its ethical, social, and collaborative dimensions (Lintner, 2024; Long & Magerko, 2020, pp. 1–16). However, research consistently shows that confidence and proficiency in AI-related knowledge and skills are not evenly distributed across populations. 
+More  broadly,  persistent  gender  gaps  in  science,  technology,  engineering,  and  mathematics  (STEM)  have  long  been  observed: 
+* Corresponding author. No.5 Yiheyuan Road, Haidian District, Beijing, China.
+E-mail address: wywu25@stu.pku.edu.cn (W. Wu). 
+https://doi.org/10.1016/j.telpol.2026.103152
+Received 5 July 2025; Received in revised form 10 December 2025; Accepted 5 January 2026  
+0308-5961/©  2026  The  Authors.  Published  by  Elsevier  Ltd.  This  is  an  open  access  article  under  the  CC  BY-NC-ND  license (http://creativecommons.org/licenses/by-nc-nd/4.0/). 
+Please cite this article as: Li Tian et al., Telecommunications Policy, https://doi.org/10.1016/j.telpol.2026.103152
+
+
+L. Tian et al.                                                                                                                                                                                                            Telecommunications Policy xxx (xxxx) xxx 
+adolescent  girls  often  report  lower  confidence—even in  contexts  where  their  assessed  performance  in  mathematics or  science  is comparable to that of boys (Encinas-Martín & Cherian, 2023). This phenomenon reflects broader patterns of biased self-efficacy in STEM, whereby females tend to undervalue their own abilities, reducing their likelihood of pursuing advanced study or careers in related fields (Schunk & Pajares, 2002). The pattern translates into structural inequality as AI becomes increasingly integrated into the technological world: there is a pronounced gender gap, with female representation notably lower in AI-related education and career pathways (Interface-EU, 2024). If left unaddressed, such disparities risk reinforcing existing inequalities in technology and further narrowing the global pipeline of AI talent.
+While gendered inequalities in technology are global, the Chinese context presents distinctive challenges and opportunities. With more than 250 million adolescents, China is not only home to the world's largest youth population but also plays a central role in shaping the future global AI workforce. The country has introduced ambitious policies to integrate AI education into school curricula, recognizing  AI literacy  as a national  priority  (Ministry  of Education  of the  People’s  Republic  of China,  2024). Yet, no  systematic empirical evaluations have been conducted to assess the effectiveness of such initiatives. Given the scale of China's education system, if gender gaps in the AI domain are widespread, they may have profound implications for talent cultivation, equity in digital oppor - tunities, and the country's contribution to global AI development. Studying the Chinese case provides a critical lens for understanding how structural, educational, and cultural factors jointly shape gendered self-efficacy in emerging technological fields like AI—offering insights that extend beyond China to other societies undergoing rapid digital transformation.
+When discussing AI, despite growing international attention to AI literacy, significant research gaps remain. For example, existing frameworks for AI literacy face two critical limitations. First, there is no consensus on how the construct and its measures should be defined. Second, on a global scale, the vast majority of AI literacy assessments rely on self-reports rather than performance-based or behavioral  measures  (Lintner,  2024;  Ng  et  al.,  2021),  even  though  discrepancies  are  likely  to  exist  between  self-reported  and behavioral outcomes (Dang et al., 2020). Within China, systematic empirical evidence on this topic is particularly rare.
+To avoid confusion between different modes of measurement, this study makes clear that our survey employed self-report scales and acknowledges that the results reflect self-reported AI literacy rather than actual AI competence. To gain a deeper understanding of the significance of self-reported AI literacy for adolescent AI users, we incorporate a distinct theoretical concept: self-efficacy. Self- efficacy, following Bandura, is a psychological construct referring to individuals' beliefs about their ability to accomplish tasks, and it is most commonly measured through self-report scales (Bandura, 1997, pp. 36–65). Self-reported AI literacy and AI self-efficacy both capture individuals' perceived competence in AI and are typically measured with self-report scales, which has led many studies to use them  interchangeably (Lintner,  2024). However,  they  are  not  conceptually identical:  self-reported  AI literacy  is a methodological approach to assessing perceived skills in AI, whereas self-efficacy is a broader psychological construct about one's belief in their ability to perform tasks. In this study, we therefore treat self-reported AI literacy as a reflection of AI self-efficacy, while making clear that it remains distinct from both actual AI literacy and the construct of self-efficacy. This framing enables us to investigate gender differences in perceived AI competence, which may diverge from actual ability yet strongly shape educational aspirations and career trajectories.
+Our study has two main objectives. 
+RQ1: Do Chinese adolescents show gender-based differences in their self-reported AI literacy? RQ2: If so, which dimensions of self-reported AI literacy reflect such differences?
+To address these questions, we analyze data from a large-scale survey of 1951 Chinese adolescents using a multi-method quan - titative approach. Findings reveal that female students report lower AI literacy overall and especially in Understanding, Application, Collaboration, Ethics, and Society dimensions. Results suggest that both self-perceptions and structural endowments contribute to the observed gender disparities, though their relative importance varies across dimensions.
+This study makes four main contributions. First, whereas many existing studies rely on a single composite score or treat self-report indices as directly comparable across groups, we use Principal Component Analysis and Confirmatory Factor Analysis to construct and validate a multidimensional measure of self-reported AI literacy. Second, although prior studies occasionally acknowledge the con- ceptual ambiguity between self-reported literacy and actual competence, they rarely theorize this distinction explicitly. We therefore differentiate self-reported from actual AI competence and conceptualize self-reported AI literacy as an indicator of AI self-efficacy, drawing  on  Bandura's  self-efficacy  theory  to  clarify  its  psychological  underpinnings. Third,  while  some  research  has  documented gender  disparities  in  AI-related  domains,  empirical  evidence  from  China—especially  theoretical  explanations  for  why  such  gaps emerge—remains limited.  Our study fills this gap by providing robust evidence on gender differences in Chinese  adolescents' self- reported AI literacy and the mechanisms that may contribute to them. Finally, moving beyond descriptive mean comparisons that dominate prior work, we integrate counterfactual analysis with Blinder–Oaxaca decomposition to quantify the extent to which the observed  gender  gap  can  be  attributed to  differences  in  endowments (objective  background characteristics) versus  differences  in coefficients (perception-related and unobserved factors). We further translate these analytical insights into targeted implications for educational practice  and  policy.  Collectively,  these  contributions underscore  the  novelty  and  significance  of this  study  within  the evolving literature on AI literacy, self-efficacy, and gender inequality.
+The remainder of this paper is organized as follows. Section 2 reviews the literature on AI literacy, self-efficacy, and gender gaps in technology. Section 3 outlines the empirical strategy and presents the results. Section 4 discusses practical and policy implications and highlights the study's contributions. Section 5 acknowledges limitations and suggests directions for future research.
+2. Literature review
+2.1. AI literacy: definitions and measurement
+Artificial intelligence (AI) is increasingly embedded in everyday life, making AI literacy a critical competence for citizens. Ng et al. (2021) conceptualize AI literacy as the essential skills and knowledge required to live, learn, and work effectively in AI-driven soci- eties.  Their  framework  highlights  four  core  competencies: knowing  and  understanding AI concepts,  using  and  applying  AI tools, evaluating and creating AI systems, and addressing AI-related ethical issues. Building on this foundation, Lintner (2024) emphasizes that, despite the lack of a universally accepted definition, certain dimensions recur across most scales. These include technical un- derstanding,  awareness  of  AI's  societal  impacts,  and  ethical  considerations.  However,  divergences  remain  regarding  whether higher-order competencies such as innovation or critical evaluation should be integrated within AI literacy. To bring greater coher - ence, some scholars draw on educational theory, notably Bloom's taxonomy of educational objectives (Anderson & Krathwohl, 2001; Bloom et al., 1956), to structure AI literacy into specific domains. Xu et al. (2025) extended this tradition by mapping Bloom's tax- onomy onto AI competency and further incorporating social and environmental dimensions, thereby proposing a lifelong competency framework  for AI. Their  model  delineates  eight  dimensions:  Identification, Understanding, Application,  Evaluation,  Collaboration, Innovation, Ethics, and Society. This study adopts Xu's framework as the basis for measuring AI literacy, given its comprehensiveness, strong theoretical grounding, developmental orientation, and relevance to the Chinese context.
+In measuring AI literacy, most existing scales rely on self-reported measures; however, these instruments face concerns regarding questionable  content  validity  (Lintner,  2024)  as  well  as  weak  correlation  with  behavioral  measures  (Dang  et  al.,  2020). Performance-based assessments, which could more reliably capture actual competencies, remain rare. These limitations underscore the need for more comprehensive and theoretically grounded instruments to evaluate AI literacy, as well as for clearer distinctions between self-reported and performance-based approaches.
+2.2. Self-reported AI literacy as a reflection of AI self-efficacy
+Performance-based assessments of digital literacy—including AI literacy—typically involve task-based evaluations that measure actual skill levels. In contrast, self-reported instruments assess individuals' perceived abilities and are thus closely aligned with the psychological construct of self-efficacy. According to Bandura (1997), self-efficacy refers to an individual's belief in their capacity to execute the behaviors necessary to achieve specific goals. It is most commonly operationalized through self-report scales, where re- spondents rate their confidence in performing domain-specific tasks (Pajares, 1996; Schwarzer & Jerusalem, 1995). Numerous studies in educational psychology have demonstrated that higher self-efficacy is positively associated with motivation, persistence, and ac- ademic achievement (Schunk & Pajares, 2002). These dynamics are especially salient in emerging fields like AI, where students may lack concrete experience but still form beliefs about their abilities.
+Although self-efficacy and self-reported AI literacy are conceptually distinct—one being a psychological construct and the other a domain-specific self-assessment—the boundary between them is often blurred in empirical research (Lintner, 2024). In practice, many studies  use  self-reported  AI literacy  scores  interchangeably  with  AI self-efficacy,  but  this  approach  risks  conflating  conceptually distinct constructs and confusing measurement with theory. To clarify this ambiguity, the present study distinguishes between the theoretical constructs of AI literacy and self-efficacy, and the measurement approach of self-reported AI literacy. Here, self-reported AI literacy  is treated  as  a reflection  of AI self-efficacy—an  indicator  of adolescents'  confidence  in  their  AI capabilities  rather  than  a measure  of actual  ability.  This  distinction  is crucial  for  interpreting the  results,  as the  observed  gender  gap  reflects  differences  in perceived competence rather than objectively tested performance.
+2.3. Gender, technology, and biased self-efficacy
+Research in science and technology education has long documented persistent gender gaps in digital competence and engagement, particularly during adolescence—a period marked by intensified identity formation and social comparison (Encinas-Martín & Cherian, 2023). While structural factors such as access and training partly contribute to these disparities, a growing body of evidence suggests that gender differences in self-perception and confidence play an equally critical role. Female students, even when performing on par with their male peers, often rate their abilities lower in STEM domains, a pattern attributed to internalized gender stereotypes and differential socialization (Correll, 2001; Wang & Degol, 2017).
+This  phenomenon aligns  with  the  concept  of biased  self-efficacy—the  discrepancy between  actual  competence and  perceived ability. Such discrepancies arise because self-efficacy is shaped less by objective performance than by subjective experiences and social signals. Bandura's self-efficacy theory posits that individuals' beliefs in their capabilities are shaped by four primary sources: mastery experiences, vicarious experiences, verbal persuasion, and physiological and emotional states (Artino, 2012; Bandura, 1997). Mastery experiences, such as successfully completing AI-related tasks, provide the strongest reinforcement, while vicarious experiences (e.g. observing similar role models succeed), verbal persuasion (e.g. receiving credible encouragement), physiological and emotional states (e.g. managing confidence versus stress) also shape efficacy beliefs. These sources illustrate that self-efficacy is not formed in isolation but is socially embedded, shaped by cues, experiences, and cultural narratives that often reinforce male dominance in technical fields (Schunk & Pajares, 2002). In digital contexts, this manifests as confidence gaps that emerge early and widen over time, with girls exhibiting lower self-efficacy than boys in technology-related domains, including AI. As a result, girls are less likely to participate in optional technology courses, engage in AI-related activities, or envision themselves in tech careers—not necessarily due to lack of skill, 
+but due to lower self-belief (Master et al., 2021).
+The effects of biased self-efficacy extend beyond the classroom. Studies show that lower self-perceived ability in technology can discourage  girls  from  pursuing  advanced  training,  reduce  their  persistence  in  STEM pathways,  and  ultimately  shape  long-term occupational outcomes  (Zeldin  & Pajares,  2000). In the  context  of AI, where  the  field  is still  emerging  and  educational standards are rapidly evolving, early confidence—or lack thereof—may play an outsized role in determining who participates in future inno-
+vation. Addressing gendered self-efficacy biases is therefore not only a question of individual development but also one of societal equity and inclusive technological progress.
+3. Empirical strategy and results
+3.1. Questionnaire distribution and data collection
+This study collaborated with an independent third-party survey company ePanel1 to conduct an online questionnaire targeting adolescents  from  various  city  tiers  and  socioeconomic  backgrounds  across  China.  The  questionnaire  consists  of  12  choice  items concerning personal background and 32 self-assessment items measuring AI literacy. The latter were measured using a five-point Likert 
+scale (1 = Strongly Disagree to 5 = Strongly Agree). Prior to the main data collection, a pilot survey of 200 adolescents was conducted to refine item wording and sequencing for clarity and age-appropriate comprehension. For the main study, 2200 questionnaires were distributed using a stratified random sampling design to ensure representativeness across regions, school types, and demographics. China was first divided into three broad geographic–economic regions (eastern, central, and western), which were further stratified by urban, county, and rural areas. Within each stratum, schools were randomly selected at the primary, junior secondary, and senior secondary levels, followed by random sampling of classes and students. To improve inclusivity, the sample also included schools from minority regions and special education institutions. The questionnaire is provided in the Appendix.
+Data collection took place between April and June 2024. Following data collection, ePanel conducted an initial round of cleaning using its standardized quality-control procedures, which included IP–region consistency checks, device uniqueness verification, and the removal of responses completed in less than 10 min, among others. After this stage, 2043 valid responses were delivered to the authors. We then conducted a second round of cleaning and excluded 13 cases with missing answers, as well as 79 cases that failed a consistency check (Q14 vs. Q36: “I can clearly understand my needs and expectations when using AI”). All respondents passed the embedded attention-check item (Q45: “Please select ‘Strongly Agree’ for this question”). The final analytic sample comprised 1951 adolescents aged 12 to 18, with a gender distribution of 50.4 % female and 49.6 % male. The valid sample covers a wide range of demographic characteristics, including first-tier cities (20.7 %), second-tier cities (30.7 %), and other cities (30.4 %); townships (9.5 %), rural areas (8.7 %), ensuring regional diversity. Further details of the sample characteristics can be found in Appendix Table A1.
+The selection of the 12–18 age group is grounded in careful considerations. According to the World Health Organization (WHO, 2014), adolescents are defined as individuals aged 10–19. In this study, we focus on adolescents aged 12–18. Prior literature suggests adolescents aged 12 to 18 are significant users of AI technologies, frequently interacting with smart devices, educational applications, and social media, making this group especially relevant for exploring AI usage intentions (Mustafaoglu ˘ et al., 2018). In China, students aged 12 to 15 typically attend junior high school, while those aged 15 to 18 are in senior high school. Therefore, the 12–18 age range effectively captures the span of secondary education in China, a critical period during which students' cognitive, social, and digital competencies—including AI literacy—undergo significant development.
+Throughout the data collection phase, all procedures strictly followed ethical standards to ensure the confidentiality and security of participant  information.  Informed  consent  was  obtained  from  all  respondents,  with  proxy  consent  granted  by  parents  or  legal guardians in the case of minors. To protect individual identities, all data were anonymized prior to analysis and stored securely, with 
+access restricted solely to research-related use.
+3.2. Construction of the self-reported AI literacy index
+Based on a comprehensive review of prior literature on the conceptualization and measurement of AI literacy, and in particular drawing  on  Xu's (2025)  Lifelong Competency  Framework  for  Generation  AI, this  study  conceptualizes  AI literacy  into  a  structured framework. Building on Bloom's taxonomy of educational objectives, Xu mapped the cognitive stages emphasized by Bloom, including knowledge, comprehension, application, and evaluation—onto the context of the intelligent society, and enriched the taxonomy by incorporating collaboration and innovation dimensions on the social-interactional side, as well as ethics and society dimensions on the socio-environmental side, thereby addressing Bloom's limited attention to contextual and societal factors. The result is a four-domain 
+AI competency model—Identification and Understanding, Application and Evaluation, Collaboration and Innovation, and Ethics and Society—which  is  further  disaggregated  into  eight  core  dimensions:  identification,  understanding,  application,  evaluation, 
+1 ePanel, established in 2006, is a certified professional data provider licensed by the National Bureau of Statistics of China to conduct foreign- related surveys. The company is a member of the European Society for Opinion and Marketing Research (ESOMAR) and holds a vice-presidency in the China Marketing Research Association (CMRA), adhering to quality-control standards issued jointly by the International Chamber of Commerce (ICC) and ESOMAR, as well as by the Global Research Business Network (GRBN) and ESOMAR. It maintains long-term collaborations with leading universities and research institutes in China through formal procurement procedures and has no financial or organizational conflict of interest with this study or its authors.
+collaboration, innovation, ethics, and society. Identification refers to the ability to recognize AI-related concepts, activities, risks, and needs. Understanding captures users' comprehension of the logic of AI operations in social and technical contexts. Application assesses how well individuals manage digital identity, use AI tools, create content with AI, and engage in AI-supported social interactions. Evaluation measures the ability to critically assess AI-related information, content, and products. Collaboration emphasizes skills in human–AI and  team  interaction,  resource  coordination,  and  open  sharing.  Innovation  reflects  the  capability  to  optimize  AI for technical,  content,  knowledge,  and  problem-solving innovations. Ethics  concerns  the  responsible  use  of AI under  the  principles  of information security, privacy protection, human-centered values,  and inclusiveness. Finally,  Society highlights  awareness, engage - ment, and responsibility in addressing public issues and contributing to social well-being through AI.
+Following Xu's interpretation of the eight dimensions, this study measures self-reported AI literacy across these dimensions, with each dimension assessed through four sub-competencies, yielding a total of 32 survey items. The mapping of the 32 items onto the eight  dimensions  is  shown  in  Fig.  1,  with  the  full  survey  instrument  provided  in  Appendix  D and  descriptive  statistics  in Appendix  Table  A2. Since  the  figure  only  displays  abbreviated labels  for  the  32  sub-competencies, Appendix  Table  B2 includes  a detailed mapping table that links each survey item to its corresponding sub-competency and dimension.
+To further quantify self-reported AI literacy, the Self-reported AI Literacy Index is constructed using Principal Component Analysis (PCA) based on responses to the 32 survey questions.
+PCA is a dimensionality reduction technique that extracts the most informative components from a dataset while minimizing in- formation  loss.  Following  established  practice  in constructing literacy  and  technology  indices  (Soundararajan et  al.,  2023; Yadav, Chhabra,  Singh,  & Hazarika,  2024; Zhou  et  al.,  2025),  we  apply  PCA to  generate  an  index  that  captures  the  core  variations  in self-reported AI literacy across respondents, ensuring that the measure is data-driven, statistically robust, and comparable to related 
+studies. To assess the adequacy of this approach, we report standard diagnostics: the overall KMO statistic was 0.981, the determinant of the  correlation matrix  was  near  zero,  and  Bartlett's  test  of sphericity  (χ2  (496)  = 28,131.31, p < .001)  rejected  the  null  of no 
+intercorrelation among variables. These results also indicate that the data are suitable for Factor Analysis. Besides, we also conduct measurement invariance tests across gender, ensuring that gender differences in AI literacy are not driven by measurement bias. The 
+SEM model demonstrated good fit, as indicated by a non-significant model-versus-saturated test (χ2  = 0.000, df = 0) and a highly significant baseline-versus-saturated test (χ2 = 202.27, p < .001).
+Additionally, as a robustness check, we verify that an alternative Factor Analysis approach yields highly correlated results (see Appendix Table B2), confirming the index's methodological soundness. Beyond the overall self-reported AI literacy index, we further examine self-reported AI literacy through the eight dimensions (Identification, Understanding, Application, Evaluation, Collaboration, Innovation, Ethics, Society) in order to identify the specific aspects where gender differences are most pronounced. This dimensional analysis allows us to pinpoint the sources of variation rather than attributing differences solely to the overall index.
+To provide an overview of the data set, Appendix Table A1 reports descriptive statistics for some of the key variables, including the self-reported AI literacy index, its sub-dimensions, and the covariates. This summary allows us to assess the distributional properties of self-reported AI literacy across  different  groups  and  serves as the  foundation for subsequent empirical  analyses. To facilitate  com- parison by gender, Appendix Table A3 presents the descriptive statistics separately for male and female respondents.
+3.3. Confirmatory Factor Analysis of the AI literacy scale
+To further validate the eight-dimensional AI literacy scale, we conducted a Confirmatory Factor Analysis (CFA) using the complete 
+
+Fig. 1. Framework for AI literacy (Adapted from Xu, 2025).
+dataset of 2043 valid responses collected before applying exclusion criteria for the final analytic sample. CFA rigorously tests whether the observed data fit the hypothesized factor structure, providing psychometric evidence for construct validity. The model was esti- mated using Maximum Likelihood (ML) estimation, which is appropriate for five-point Likert scales with large sample sizes.
+Model fit was evaluated using multiple indices following established criteria: χ2/df < 3.0, Comparative Fit Index (CFI) and Tucker- 
+Lewis Index  (TLI) > 0.90,  Root  Mean  Square  Error  of Approximation (RMSEA) < 0.08,  and  Goodness  of Fit  Index  (GFI) > 0.90. 
+Reliability was assessed via Cronbach's alpha (α) and Composite Reliability (CR), with thresholds of 0.70. Convergent validity was evaluated through Average Variance Extracted (AVE >0.50), and discriminant validity was tested using the Fornell-Larcker criterion.
+Model Fit. The CFA demonstrated good fit: χ2  (436) = 2220.27, p < .001; CFI = 0.936; TLI = 0.927; RMSEA = 0.045 [90 % CI: 0.043, 0.047]; GFI = 0.922. Although the χ2/df ratio (5.09) exceeded the ideal threshold, this is attributable to the large sample size, as 
+the  chi-square statistic  is highly sensitive  to  sample size.  All alternative fit indices  met or  exceeded  recommended standards, con-
+firming good model fit. Detailed fit statistics are provided in Appendix Table C1.
+Factor Loadings. All 32 items demonstrated significant standardized factor loadings ranging from 0.754 to 1.695 (p < .001), with 100 % of items exceeding the recommended threshold of 0.70. z-values ranged from 20.43 to 31.70, providing strong evidence of convergent validity. Complete factor loadings are reported in Appendix Table C2.
+Reliability and Validity. Cronbach's alpha ranged from 0.689 to 0.814 (M = 0.738), with seven of eight dimensions meeting the 
+0.70 threshold. Composite Reliability ranged from 0.948 to 1.169, substantially exceeding the 0.70 criterion for all dimensions. AVE values  ranged  from  0.820  to  2.262,  all  surpassing  the  0.50  threshold  and  confirming  convergent  validity.  Note  that  AVE values exceeding 1.0 result from using unstandardized factor loadings, which is statistically permissible in structural equation modeling.
+Discriminant validity was established using the Fornell-Larcker criterion: the square root of AVE for each dimension exceeded its correlations with all other dimensions. Inter-dimension correlations ranged from 0.162 (Innovation–Understanding) to 0.355 (Eval- uation–Application), indicating that dimensions are conceptually distinct yet related. Reliability and validity indices are summarized in Appendix Table C3 and C4.
+In  sum,  the  CFA provides  robust  psychometric  evidence  supporting  the  eight-dimensional  AI literacy  framework.  The  model demonstrates excellent  fit,  and  all  items  exhibit  strong  and  significant  factor  loadings.  The  comprehensive reliability  and  validity assessments confirm that the scale is internally consistent, convergently valid, and discriminantly valid.
+3.4. Empirical strategy
+To address the two research questions, we employ two complementary research approaches based on survey data: counterfactual analysis  and  Blinder–Oaxaca  decomposition.  Counterfactual  analysis  aims  to  determine  whether  gender  differences  exist  in  self- reported  AI literacy,  while  Blinder–Oaxaca  decomposition  is  used  to  validate  the  differences,  as  well  as  to  explore  which  di- mensions of self-reported AI literacy reflect such differences.
+Counterfactual analysis has been widely applied in fields such as economics, education, policy evaluation, and sociology, partic - ularly in research contexts involving causal inference. Its core lies in constructing a counterfactual scenario to estimate what an in- dividual's outcome would have been under an alternative condition (e.g., gender, treatment status, etc.) (Morgan & Winship, 2015). In this study, counterfactual analysis involves constructing predictive models to calculate self-reported AI literacy scores for male and female respondents separately, and estimating counterfactual AI literacy scores by applying each gender-specific model to the opposite group. This approach is designed to uncover systematic gender differences in self-reported AI literacy by holding structural factors constant—much  more  rigorous  than  group  mean  comparisons,  which  will  conflate  perception  gaps  with  background  disparities (Morgan & Winship, 2015). Counterfactual analysis is particularly well suited for analyzing subjective self-assessments, as it reveals whether gendered gaps persist even when objective circumstances are equal—thus capturing deeper cognitive asymmetries.
+The model's predictors are grounded in Bandura's self-efficacy theory and further contextualized through the lens of developmental contextualism, with specific attention to the structural features of Chinese socio-cultural settings. Given that Bandura's four primary sources  of  self-efficacy—mastery  experiences,  vicarious  experiences,  verbal  persuasion,  and  physiological  and  emotional  states (Artino, 2012)—are inherently subjective and socially embedded, their operationalization requires the use of observable variables that capture manifestations of these sources, in order to reduce risks of endogeneity and common method bias. Building on this foundation, the model incorporates developmental contextualism, which conceptualizes individual development as a dynamic interaction between biological, psychological, and multiple environmental systems—such as family, school, and broader social structures (Mayes & Lewis, 2012).  These  theoretical  perspectives  inform  the  construction  of  the  model  structured  along  three  interrelated  dimen - sions—individual, parental, and socioeconomic—conceptualized as a nested system of developmental contexts rather than as inde- pendent sets of predictors. The model is specified as follows: 
+AIi = α+βIndividuali+γParentali+ηSocioeconomici + FEi+εi                                                                                                           
+Where AIi is the self-reported AI literacy index. FEi denotes fixed effects for grade level, residence type, and school type. εi is the error term capturing remaining unobserved factors. Individual, Parental, and Socioeconomic represent the three conceptual sets of predictors. The individual dimension captures students' educational characteristics, with self-reported academic performance as the key indicator. The parental dimension includes the highest educational attainment of each parent and whether either parent works in an AI-related field. The socioeconomic dimension captures household-level indicators such as car ownership and travel frequency.
+To  elaborate,  self-reported  academic  performance  may  influence  adolescents  through  perceived  academic  value  and  self- confidence,  shaping  both  emotional  and  motivational processes.  Parents’ educational backgrounds and  involvement in  AI-related fields contribute to the intergenerational transmission of cultural capital (Bourdieu, 1986), providing vicarious experiences and verbal persuasion. Meanwhile,  material  resources  and  social  capital  embedded  in  households  create  structural conditions  that  facilitate mastery and vicarious learning opportunities in AI-related activities; students in more advantaged socioeconomic environments may 
+also benefit from more supportive emotional and cognitive contexts.
+In  addition,  prior  research  has  documented systematic  contextual  differences  across  grade  levels,  residential tiers,  and  school sectors—such as developmental variation (Bandura, 1997), disparities in technology access and digital literacy (van Dijk, 2006), and differences in educational resources (Hanushek & Woessmann, 2011). Accordingly, grade level, residence type (e.g., first-tier cities, second-tier cities, villages), and school type (public, private, or other) are included as fixed effects (FE). These variables represent key contextual factors that shape students’ learning environments, and because they vary by discrete groups rather than along a continuous scale, they are more appropriately represented through dummy variables rather than treated as continuous regressors. Incorporating them as fixed effects absorbs these structural differences without imposing functional-form assumptions.
+After estimating separate models for males and females, we proceed as follows: (1) Applying female respondents' data to the male model to generate counterfactual predictions of their self-reported AI literacy level—i.e., how women would perceive their AI literacy if they evaluated themselves based on the male model. We then compare this predicted value with their actual self-reported AI literacy; (2)  Applying  male  respondents' data  to  the  female  model  to  generate  counterfactual predictions  of their  self-reported AI literacy level—i.e., how men would perceive their AI literacy if they evaluated themselves based on the female model. Again, this estimated value is compared to their actual self-reported AI literacy level. The differences between the counterfactual and actual self-reported AI literacy levels for each gender provide a measure of the gender gap in self-reported AI literacy.
+The second method applies the Blinder-Oaxaca decomposition to further quantify and specify the gender gap in self-reported AI literacy. The Blinder-Oaxaca decomposition is widely used in labor economics and gender studies to decompose differences in out- comes (e.g., wages, educational attainment) into explained and unexplained components (Lesik & Fallahi, 2011). In our case, this method allows us to: (1) decompose the gender gap in self-reported AI literacy into components attributable to observable factors (e.g., individual, parental, and socioeconomic characteristics); (2) identify the unexplained component, which captures gender differences that  persist  even  after  controlling  for  observable  characteristics—often  interpreted as  arising  from  differences  in  self-perception, biases,  or  unmeasured factors.  It is important to  note  that  this  method  relies  on  key  assumptions, including  linearity  of the  rela- tionship between predictors and the outcome and correct model specification, which may be restrictive in our context. We therefore use the decomposition as an illustrative tool to highlight the relative contributions of observable versus unexplained factors, and we caution against interpreting the unexplained component as definitive causal evidence. The Blinder-Oaxaca decomposition is employed to provide a robust quantitative assessment of the gender gap in self-reported AI literacy and to examine its contribution to broader patterns of gender disparity.
+3.5. Empirical results
+3.5.1. Counterfactual analysis
+We construct gender-specific OLS prediction models in which the dependent variable is self-reported AI literacy. Specifically, we estimate separate regressions for the female and male samples of self-reported AI literacy on the explanatory variables, and use the resulting coefficients for subsequent prediction. The regression estimates for these models are reported in Appendix Table E1. Results show that Academic Performance emerges as the strongest and most consistent predictor of self-reported AI literacy for both genders, significant at the 1 % level, suggesting that higher academic achievement is closely associated with higher AI literacy regardless of gender. Household economic conditions also matter: family travel frequency (Family Travel) shows a positive and significant associ- ation,  particularly  for  males,  indicating  that  broader  exposure  to  diverse  environments  may  enhance  AI awareness.  In  contrast, parental  AI engagement (Parental AI) does  not  exhibit  a significant  effect  in either  group.  Regarding  parental  education,  mother's education is positively associated with AI literacy among females (significant at the 10 % level), while father's education shows no effect. This pattern suggests that  maternal educational background  may play a more  prominent role in shaping  daughters'  AI self- efficacy,  pointing  to  a  potential  family-level  pathway  for  addressing  technological  gender  gaps.  This  result  is  consistent  with  a growing  body  of  evidence  highlighting  the  distinct  influence  of  maternal  education  on  children's  cognitive  and  skill  outcomes (Cermakova et al., 2023; Guo et al., 2024; Harding, 2015a; Harding et al., 2015b).
+The R-squared values indicate that the model explains 16.8 % of the variance in self-reported AI literacy for females and 11.8 % for males, suggesting that the included predictors account for a larger proportion of self-reported AI literacy variance among females. Following  the  empirical  strategy,  all  models  include  fixed  effects  (FE) for  residence  type,  grade  level,  and  school  type  to  absorb 
+Table 1 
+Observed and Counterfactual Self-reported AI literacy by Gender.
+Observations Mean Std. Dev.
+Observed (Self-reported) AI Literacy of Females 983   0.057 3.697 Predicted (Model-based) AI Literacy of Females 983   0.057 1.276 Counterfactual AI Literacy of Females 983 0.232 1.120 Observed (Self-reported) AI Literacy of Males 968 0.297 3.333 Predicted (Model-based) AI Literacy of Males 968 0.297 1.073 Counterfactual AI Literacy of Males 968 0.111 1.177
+contextual heterogeneity across learning environments.
+Next, we evaluate the explanatory power of the prediction models. Specifically, we use the female model to predict self-reported AI literacy for the female sample and compare the predicted values with observed self-reported AI literacy levels. Similarly, we perform the same  assessment using the male model for the male sample. The results indicate  a close alignment between the predicted  and observed  mean  values  for  both  groups,  with  consistent  mean  values  but  some  discrepancies in  standard  deviations.  As shown  in Table  1, the  mean  predicted  self-reported  AI literacy  aligns  exactly  with  the  observed  mean  for  both  females  (  0.057)  and  males (0.297), which reflects a model fit to some extent, as well as the mechanical property of OLS. However, the predicted standard de- viations (1.276 for females, 1.073 for males) are notably smaller than the observed standard deviations (3.697 for females, 3.333 for males), suggesting that while the models accurately estimate average AI literacy, they may not fully capture the variability present in the data. Overall, while the models are informative in capturing central tendencies, their explanatory power may be interpreted with 
+caution.
+Building on the established prediction models, we now estimate the gender gap in self-reported AI literacy by generating coun- terfactual self-reported AI literacy levels. This allows us to assess how individuals would evaluate their self-reported AI literacy if they adopted the perception framework of the opposite gender.
+First, we  compare the observed self-reported AI literacy levels of female respondents with their counterfactual self-reported AI literacy levels, which are predicted using the male model. As shown in Table 1, the mean observed self-reported AI literacy for females is   0.057, whereas their counterfactual mean, if evaluated using the male model, increases to 0.232. The difference of 0.335 suggests 
+ 
+                                                                                                                                            
+
+                                                                                                                                            
+Fig. 2. Distribution of Observed and Counterfactual Self-reported AI literacy.
+that if females perceived their AI literacy using the male assessment framework, their self-reported AI literacy scores would be higher, indicating a potential underestimation of self-reported AI literacy among females.
+Second, we conduct the same counterfactual estimation for male respondents by applying the female model to predict their self- reported AI literacy levels. The results show that the mean observed self-reported AI literacy for males is 0.297, while their coun- terfactual self-reported AI literacy, if evaluated using the female model, decreases to 0.111. The difference of 0.186 implies that if males assessed their AI literacy through the female perception framework, they would report lower self-reported AI literacy levels, suggesting a tendency for males to report higher levels of their AI competency compared to females.
+Fig. 2 shows the observed  and counterfactual distributions of self-reported AI literacy for females and  males, respectively. The comparison also reveals clear gender gaps: females tend to report lower levels of their AI capabilities, while males tend to report higher levels of theirs. These findings provide empirical evidence of a gender gap in self-reported AI literacy, and highlight the importance of considering perceptual biases when evaluating gender disparities in AI literacy.
+3.5.2. Blinder-Oaxaca decomposition results
+To further validate  the existence of the gender  gap in self-reported AI literacy,  we  apply the Blinder–Oaxaca decomposition to partition the overall gender disparity in self-reported AI literacy into explained and unexplained components. Table 2 presents the decomposition results, with Column (1) reporting the results for overall self-reported AI literacy, and Columns (2) to (9) providing results for the eight dimensions of self-reported AI literacy. In interpreting these results, the endowment component reflects gender differences in observed characteristics, such as academic performance, parental education, or socioeconomic background. This part reflects how unequal distributions of these factors contribute to the AI literacy gap. The coefficient component, by contrast, is espe- cially  informative  because  it reflects  differences  in how  those  characteristics translate  into  AI literacy,  represents  the  unexplained portion of the gap (e.g. perception biases), and thereby directly captures gendered differences in AI self-efficacy. In other words, even when males and females have similar endowments, their self-rating could differ, pointing to perception biases, unobserved factors, or systematic differences.
+The  first  column  of Table  2 shows  that  males  report  a self-reported  AI literacy  score  0.344  higher  than  females,  a statistically significant gap at the 5 % level. Decomposing this difference, we find that endowment differences explain 0.247 of the gap, suggesting that  observable  factors  such  as  academic  performance,  parental  education,  and  socioeconomic  background  contribute  to  gender disparities in self-reported AI literacy. The coefficients component (0.275) is slightly larger than the endowments component (0.247), suggesting that perception-related differences contribute meaningfully to the observed gap. However, the negative interaction term (  0.178) indicates that the mapping from endowments to self-reported AI literacy differs by gender and offsets part of the explained and coefficient effects.
+Taking  a  closer  look  at  the  sub-dimensions,  the  gender  gap  persists  across  all  eight,  though  the  magnitude  and  underlying mechanisms differ.
+For Identification (Column 2), the male–female difference (0.025) is not statistically significant, suggesting broadly similar levels of AI awareness across genders. Both the endowment and coefficient components are small, indicating limited systematic disparities in this dimension.
+For Understanding (Column 3), the gender gap is 0.069 and significant at the 5 % level. Endowments explain 0.035 of this dif- ference, while the coefficients component (0.057) accounts for a somewhat larger share, suggesting that perception or self-evaluation differences contribute meaningfully to this disparity (in males rating their Understanding higher than females).
+For Application (Column 4), the gender gap (0.050) reaches significance at the 10 % level only. Most of this difference is associated with endowment effects (0.039), implying that observable background characteristics modestly shape the male–female difference in self-reported application skills. The coefficients component is positive but not statistically significant, indicating limited evidence of perception-related differences in this dimension.
+For Evaluation (Column 5), the gender difference (0.040) is not statistically significant.
+For Collaboration (Column 6), the gender gap of 0.058 is significant at the 5 % level. The endowment component (0.043) suggests that  background  factors  account  for much  of the  observed  difference,  while  the  coefficients  component  (0.048)  is not  statistically significant.
+For Innovation (Column 7), the gender gap (0.032) is not statistically significant.
+For Ethics (Column 8), the gender gap is 0.073 and significant at the 1 % level, marking one of the more pronounced disparities. The coefficients  component  (0.053)  exceeds  the  endowment  effect,  suggesting  that  perception  or  self-evaluation  differences  play  an important role in how males and females assess their understanding of AI ethics.
+Finally, in the Society dimension (Column 9), the gender gap (0.062) is significant at the 5 % level. Here again, the coefficients component (0.056) is notably larger than the endowment effect (0.043), indicating that perception-related factors are an important correlate of the male–female difference in this domain.
+Overall, the Blinder–Oaxaca decomposition results show that gender differences in self-reported AI literacy are present but het- erogeneous  across  dimensions.  Some  disparities—particularly  in  Understanding,  Ethics,  and  Society—are  statistically  robust  and appear  to  be  more  strongly  associated  with  perception-related  mechanisms,  reflecting  underlying  differences  in  AI self-efficacy, whereas  others  (e.g.,  Application,  Collaboration) are  smaller  in  magnitude  and  primarily  related  to  observable  endowments. Di- mensions such as Identification, Evaluation, and Innovation exhibit limited or statistically weak gender differences. These findings 
+suggest that while males tend to report higher levels of AI literacy than females, the size of the gender differences and the mechanisms underlying them vary across dimensions.
+
+9 
+
+Table 2  
+Blinder-Oaxaca decomposition of self-reported AI literacy. 
+(1) (2) (3) (4) (5) (6) (7) (8) (9) Self-reported 
+VARIABLES AI literacy Identification Understanding Application Evaluation Collaboration Innovation Ethics Society group_1 (male) 0.289*** 3.854*** 3.837*** 3.895*** 3.700*** 3.941*** 3.824*** 3.975*** 3.955*** 
+(0.107) (0.019) (0.019) (0.019) (0.023) (0.018) (0.020) (0.019) (0.017) group_2 (female)   0.055 3.829*** 3.768*** 3.846*** 3.659*** 3.884*** 3.792*** 3.902*** 3.893*** 
+(0.117) (0.020) (0.021) (0.020) (0.024) (0.020) (0.021) (0.020) (0.019) difference 0.344** 0.025 0.069** 0.050* 0.040 0.058** 0.032 0.073*** 0.062** 
+(0.159) (0.027) (0.028) (0.028) (0.033) (0.027) (0.028) (0.027) (0.026) endowments 0.247*** 0.029*** 0.035*** 0.039*** 0.027** 0.044*** 0.036*** 0.042*** 0.043*** 
+(0.069) (0.011) (0.010) (0.011) (0.011) (0.012) (0.011) (0.011) (0.011) coefficients 0.275* 0.028 0.057** 0.035 0.037 0.040 0.020 0.053** 0.056** 
+(0.154) (0.027) (0.028) (0.028) (0.033) (0.026) (0.028) (0.027) (0.025) interaction   0.178***   0.032***   0.023**   0.024**   0.024**   0.027***   0.025***   0.021**   0.037*** 
+(0.058) (0.010) (0.009) (0.010) (0.012) (0.010) (0.009) (0.009) (0.010) Observations 1951 1951 1951 1951 1951 1951 1951 1951 1951 
+Note. This table reports the Blinder-Oaxaca decomposition of self-reported AI literacy. In the decomposition, group_1 refers to males, group_2 refers to females, difference represents the observed gender  gap, endowments capture the portion of the gap explained by differences in characteristics, coefficients reflect differences in returns to those characteristics, and interaction represents the contribution of  the interaction between endowments and coefficients. Column (1) reports the results for overall self-reported AI literacy, while Columns (2) to (9) present results for the eight dimensions. ***, **, and *  indicate significance at the 1 %, 5 %, and 10 % levels, respectively. Standard errors are reported in parentheses. 
+
+
+
+L. Tian et al.                                                                                                                                                                                                            Telecommunications Policy xxx (xxxx) xxx 
+4. Discussion
+AI technologies are profoundly reshaping education, communication, and economic life, making AI literacy a core civic compe - tency and a potential determinant of future social stratification. Individuals with higher AI literacy can critically evaluate AI-generated content, use AI tools productively, and protect their privacy and rights while mitigating risks. At the societal level, fostering balanced and  healthy  AI literacy  development contributes  to economic  productivity, reduces digital  inequalities, and  fosters  more  inclusive governance systems. This broad importance of AI literacy also points to its unequal distribution. The digital divide has been widely studied  as  a  persistent  inequality  in  digital  literacy  across  populations,  with  well-documented  negative  consequences.  Although research on AI literacy gaps remains nascent, scholars point out that the AI literacy divide parallels the digital divide, encompassing disparities in access, skills, and outcomes (Carter, Liu, & Cantrell, 2020). If viewed as a new manifestation of the digital divide, the AI literacy divide is almost inevitable—yet, given AI's status as an emerging technology, its causes, forms, and consequences are more fluid and evolving. Within this evolving landscape, we noticed that differences in AI self-efficacy may further intensify the divide. Self-efficacy  shapes  the  extent  of individuals  choosing  to  engage  with  AI and  persist  in learning,  thereby  causing  and  magnifying disparities. Adolescence (ages 12–18) is a particularly critical period for developing such self-beliefs, as it is when cognitive, emotional, and technological competencies expand rapidly (Livingstone & Helsper, 2007). Fostering AI self-efficacy during this stage is partic - ularly essential to ensure equitable participation in the AI era.
+Against this background, this study conceptualizes self-reported AI literacy as a reflection of AI self-efficacy, to empiri - cally examine how adolescents' AI self-efficacy translates into reported literacy levels and contributes to gendered dispar - ities.  Our findings  reveal  a gender-based difference of  self-reported AI literacy  (RQ1),  with  males  consistently reporting higher  competence in Understanding, Application, Collaboration, Ethics, and Society dimensions (RQ2). Importantly, the sources of these disparities vary: Application and Collaboration gaps are linked primarily to structural resource differences, while Understanding, Ethics, and Society gaps stem mainly from perception-based self-assessments. One possible explana - tion is that Application and Collaboration rely on concrete opportunities and resources, to which boys often have greater access, whereas dimensions involving critical judgment and ethical reflection (Understanding, Ethics, and Society) are more vulnerable to girls' systematic underestimation of their tech abilities. By unpacking these mechanisms, the Blinder–Oaxaca decomposition not only identifies which dimensions display gender disparities (RQ2) but also clarifies how both structural and perceptual factors jointly sustain the self-reported AI literacy divide.
+The findings of this study reveal a concerning trend: regardless of their actual competencies, girls tend to report relatively low AI self-efficacy, suggesting that they do not believe they are capable enough of mastering AI like boys do. This lack of confidence may deter  them  from  engaging  in AI-related  learning  and  limit  their  pursuit  of future  opportunities in related  careers.  Consistent  with Bandura's framework of the four sources of self-efficacy, these patterns may reflect girls' relative lack of task-based practice oppor - tunities in AI (mastery experiences), the scarcity of female role models in the field (vicarious experiences), and subtle classroom or broader  societal  cues  that  reinforce  gender  stereotypes  and  reduce  affirming  feedback  (verbal  persuasion). Meanwhile,  boys  may benefit from more frequent affirming feedback and male-dominated exemplars in technology fields. Addressing these dynamics re- quires  deliberate  efforts  to  strengthen adolescent  girls'  AI self-efficacy.  Such  initiatives  can  help  expand  the  talent  pipeline  for  AI innovation, increase women's access to professional opportunities, and challenge entrenched gender norms—particularly in East Asian societies, where expectations around female domesticity remain pervasive. Advancing gender equity in AI also supports the devel- opment of a more inclusive and just technological ecosystem, aligning with global agendas such as Sustainable Development Goal 5: Achieve  gender equality  and empower  all women and  girls (United Nations,  2015), as well as UNESCO's Recommendation on  the Ethics of Artificial Intelligence (2021).
+Building  such  an  inclusive  ecosystem  requires  not  only  individual-level interventions but  also  systemic  policy  and  curriculum reforms. Worldwide, governments are beginning to incorporate AI into school systems, emphasizing technical competence alongside ethics and social responsibility (UNESCO, 2021). In China, these efforts are unfolding at both national and local levels. At the national level,  the  Ministry  of Education  issued  guidance  on  how  to  teach  AI in primary  and  middle  schools  (Ministry  of Education  of the People’s  Republic  of  China,  2024),  outlining  a  phased  curriculum  framework  from  experiential  learning  in  early  grades  to project-based exploration in secondary schools, supported by teacher training and school–industry partnerships. Regionally, provinces have launched pilot initiatives tailored to local contexts: for example, Jiangsu plans to establish 60 AI experimental schools by 2027 (Jiangsu  Provincial  Department  of Education,  2025);  Shandong  is introducing  AI literacy  courses  across  all  grades  and  building innovation research bases (Shandong Provincial Department of Education, 2025). At the city level, Beijing has announced that, starting in the 2025 fall semester, AI courses will be incorporated into Nine-Year Compulsory Education (six years of primary school and three years of junior secondary school) with at least eight class hours per year, either as stand-alone or integrated modules (2025); similarly, Hangzhou has made AI courses compulsory across all primary and secondary schools and is simultaneously enhancing teacher training in intelligent tools and data security (Nurmamat, 2025). Despite the breadth of these initiatives, they pay little explicit attention to gender-specific disparities, leaving a gap where bias-aware pedagogy, female mentorship, and inclusive curriculum design could be systematically embedded. While these initiatives signal promising momentum, they remain in the early stages of development. Their long-term impact will hinge not only on faithful implementation but also on systematic monitoring and evaluation of outcomes. It is essential to assess whether these policies are being effectively enacted across contexts and to refine them dynamically in response to observed challenges.
+Building upon these ongoing initiatives, we put forward some policy recommendations for the five dimensions that show strong gender gaps, with a specific focus on strengthening adolescent girls' AI self-efficacy:
+To address the gender gap in Understanding, policies should expand opportunities for girls to engage with data, algorithms, and AI 
+concepts at earlier stages. National and provincial AI curricula could include gender-sensitive modules and task-based projects that build mastery experiences. Establishing female role-model databases and inviting women professionals into classrooms would provide vicarious experiences that strengthen girls' confidence in understanding technical foundations. For Application, the gap is primarily driven by structural differences in access to resources. Interventions should focus on expanding girls' access to AI learning tools, hands- on practice opportunities, and skill development in digital identity management, AI tool use, and creative production. Schools could establish  “Girls  in  AI” clubs,  competitions, and  participation awards  that  encourage  active  use  of AI tools  in  safe  environments. Partnerships with technology companies can further provide equitable access to AI applications, while also embedding digital safety and privacy protection training. The Collaboration dimension calls for measures to promote gender-balanced teamwork in AI-related projects. Policies should incentivize schools and extracurricular programs to create mixed-gender teams, ensuring that girls participate equally in leadership and technical roles. Mentorship schemes connecting female students with women scientists and industry pro- fessionals  can  help  counter  implicit  biases  in  team  settings.  Community  networks  and  peer-support  platforms  should  also  be strengthened to reduce isolation and build collective efficacy. In the Ethics dimension, where perception gaps are particularly pro- nounced, interventions must cultivate girls' critical engagement with ethical issues. Curricula should integrate gender-inclusive case studies on privacy, security, and algorithmic bias, while public discourse should highlight women's voices in debates on AI governance. Institutional safeguards—such as data protection norms in schools—can reinforce these lessons and normalize gender-sensitive ap- proaches to responsible AI use. Media representation also plays a key role: shifting portrayals of women in science and technology from appearance-focused to achievement-oriented narratives can foster confidence in engaging with ethical discussions. For Society, where girls systematically underrate their ability to use AI in civic participation, initiatives should encourage female students to engage with public  issues through  AI-supported  platforms.  Programs that  integrate  digital volunteering, public-interest projects,  or AI-for-good challenges  into  school  curricula  can  showcase  how  AI contributes to  social  responsibility. Increasing  women's  visibility  in  social campaigns and appointing female spokespersons in technology-related public communication can further strengthen girls' belief in their capacity to contribute meaningfully to society through AI.
+Additionally, the study yields supplementary insights into the drivers of adolescents' self-reported AI literacy. Self-reported aca- demic  performance emerges  as the  most  consistent  predictor  across  genders,  underscoring the  strong  association  between  general scholastic achievement and confidence in AI-related competencies. Moreover, parental education shows a gendered pattern: mothers' educational attainment is positively associated with daughters' self-reported AI literacy. This points to a potential mother-to-daughter transmission channel, consistent with Bandura's self-efficacy theory, in which mothers may foster girls' efficacy beliefs through role modeling, verbal persuasion, and emotional support. By contrast, we detect no corresponding paternal effect. This absence may reflect entrenched role segmentation in educational involvement, where fathers remain less engaged in everyday learning processes, or a 
+broader undervaluing of paternal contributions to the cultivation of girls' self-beliefs in technical fields. Such findings highlight the importance of interrogating gendered parenting practices and addressing the systematic underrepresentation of fathers in fostering daughters' technological self-efficacy.
+This study offers several contributions across theoretical, methodological, and practical domains. Empirically, it is among the first to investigate gender gaps in self-reported AI literacy among Chinese adolescents. Conceptually, it connects AI literacy research with self-efficacy theory, clarifying that many “literacy” measures function as assessments of perceived competence. Methodologically, it integrates PCA, counterfactual analysis, and Blinder–Oaxaca decomposition to disentangle the structure and origins of gendered AI self-efficacy, providing a rigorous model for interdisciplinary inquiry. Practically, by identifying the dimensions of self-reported AI literacy most affected by gender biases, it offers evidence to guide targeted policy interventions.
+5. Limitation and future research directions
+This study has several limitations. First, its cross-sectional design precludes causal inference; future longitudinal studies are needed to track how adolescents' AI literacy and self-efficacy evolve over time. Second, the data are confined to one national context, limiting cross-cultural generalizability. Comparative research across different cultural and institutional settings would shed light on whether the observed gender patterns are unique to China or more universal. Third, while our index was rigorously constructed, it remains based  on  self-reports.  Self-reported  AI literacy  is treated  here  as  a  reflection  of AI self-efficacy;  however,  the  two  constructs  are conceptually distinct—this conceptual gap may limit interpretation. Future research should incorporate performance-based assess- ments of AI literacy alongside self-reported measures to provide a fuller picture of adolescents' competencies. Fourth, we acknowledge that  our  survey  sample  does  not  fully  represent  all  Chinese  adolescents;  the  specific  sampling  method  could  still  be  improved  to enhance representativeness of the overall adolescent population in China. Finally, the Blinder–Oaxaca decomposition carries meth - odological limitations. The approach assumes linearity of the relationship between predictors and outcomes, additivity of effects, and correct  model  specification. These  assumptions may  be  restrictive  in  the  context  of complex,  multidimensional constructs  like  AI literacy. Our use of the decomposition is therefore intended as an illustrative tool to highlight the relative contributions of observable versus  unexplained factors,  rather  than  as  a  definitive  causal  estimate.  Future  work  might  explore  alternative methods—such as nonlinear  decomposition models,  structural equation  modeling,  or  machine  learning  approaches—to test  the  robustness  of these findings.
+Taken together, these limitations underscore the need for more diverse data sources, refined measurement strategies, and meth - odological pluralism. Future studies could build on this work by combining longitudinal and cross-cultural designs, integrating self- reported and performance-based measures, and further unpacking intersectional inequalities (e.g., urban–rural, socioeconomic sta- tus) to better inform inclusive AI education policies.
+CRediT authorship contribution statement
+Li Tian: Writing – review & editing, Writing – original draft, Supervision, Project administration, Funding acquisition, Concep- tualization. Wanyu Wu: Writing – review & editing, Writing – original draft, Formal analysis, Data curation, Conceptualization. Ya Tan: Writing  – original  draft,  Visualization,  Methodology,  Data  curation.  Shilan  Feng:  Writing  – review  & editing,  Supervision, Methodology.
+Ethical approval and informed consent statements
+This study was approved by the Ethics Committee of the School of New Media, Peking University, in accordance with established ethical guidelines for research involving human subjects. All participants provided informed consent prior to completing the survey. The relevant ethics approval document (Peking University School of New Media Ethics Review Form) is included in the supplementary materials.
+Declaration of generative AI and AI-assisted technologies in the writing process
+During the preparation of this work the authors used ChatGPT in order to assist with preliminary literature searches and to check for language issues. After using this tool, the authors reviewed and edited the content as needed and take full responsibility for the content of the publication.
+Funding statement
+This project was funded by Peking University Education Foundation USA (PKUEF USA). Declaration of competing interest
+No potential conflict of interest was reported by the authors.
+APPENDIX 
+Appendix A. Descriptive Statistics
+Table A1 
+Summary Statistics of Key Variables
+Panel A
+Variable Obs Mean Std.Dev. Min Max Dependent variable
+Self-reported AI literacy 1951 0.119 3.524   17.817 7.727 Sub-dimensions
+Identification 1951 3.841 0.596 1.000 5.000 Understanding 1951 3.802 0.618 1.250 5.000 Application 1951 3.870 0.615 1.000 5.000 Evaluation 1951 3.679 0.729 1.250 5.000 Collaboration 1951 3.912 0.595 1.000 5.000 Innovation 1951 3.808 0.624 1.000 5.000 Ethics 1951 3.938 0.605 1.000 5.000 Society 1951 3.924 0.563 1.200 5.000 Covariates
+Female 1951 0.504 0.500 0.000 1.000 Academic Performance 1951 3.611 0.748 1.000 5.000 Parental AI 1951 0.118 0.366 0.000 2.000 Family Car 1951 1.084 0.576 0.000 4.000 Family Travel 1951 2.061 1.204 0.000 5.000 Father Education 1951 15.146 2.220 9.000 19.000 Mother Education 1951 14.829 2.276 9.000 19.000 Public School 1951 0.888 0.316 0.000 1.000
+Note. The values reported for the dependent variable (self-reported AI literacy) are raw factor scores derived from principal component analysis (PCA). As such, the mean is not centered at zero, and some minimum values appear large in absolute terms. These figures should be interpreted as relative measures of self-reported AI literacy rather than as values on a fixed scale.
+ 
+                              Panel B– Household Residence Type                           Freq.                            Percent                            Cum.
+                              First Tier Cities                                           404                              20.710                             20.710
+                              Second Tier Cities                                          598                              30.650                             51.360
+                              Other Cities                                                593                              30.390                             81.750
+                              Townships                                                   186                              9.530                              91.290
+                              Rural Areas                                                 170                              8.710                              100.000
+                              Panel C– Grade                                              Freq.                            Percent                            Cum.
+                              Grade 6, primary school                                     113                              5.790                              5.790
+                              Grade 1, junior high school                                 304                              15.580                             21.370
+                              Grade 2, junior high school                                 283                              14.510                             35.880
+                              Grade 3, junior high school                                 284                              14.560                             50.440
+                              Grade 1, senior high school                                 222                              11.380                             61.810
+                              Grade 2, senior high school                                 309                              15.840                             77.650
+                              Grade 3, senior high school                                 227                              11.640                             89.290
+                              Freshman year at university                                 106                              5.430                              94.720
+                              Sophomore year at university                                103                              5.280                              100.000
+Table A2 
+Descriptive Statistics of the 32 Questions of Self-reported AI Literacy
+                Variable                  Obs                             Mean                              Std.Dev.                             Min                            Max
+                Q13                       1951                            3.847                             0.829                                1                              5
+                Q14                       1951                            4.096                             0.710                                1                              5
+                Q15                       1951                            3.745                             0.878                                1                              5
+                Q16                       1951                            3.678                             0.909                                1                              5
+                Q17                       1951                            3.912                             0.782                                1                              5
+                Q18                       1951                            3.729                             0.885                                1                              5
+                Q19                       1951                            3.790                             0.804                                1                              5
+                Q20                       1951                            3.777                             0.831                                1                              5
+                Q21                       1951                            3.793                             0.874                                1                              5
+                Q22                       1951                            3.860                             0.818                                1                              5
+                Q23                       1951                            3.849                             0.830                                1                              5
+                Q24                       1951                            3.981                             0.796                                1                              5
+                Q25                       1951                            3.626                             0.926                                1                              5
+                Q26                       1951                            3.673                             0.902                                1                              5
+                Q27                       1951                            3.665                             0.916                                1                              5
+                Q28                       1951                            3.753                             0.883                                1                              5
+                Q29                       1951                            3.962                             0.761                                1                              5
+                Q30                       1951                            3.731                             0.888                                1                              5
+                Q31                       1951                            3.976                             0.787                                1                              5
+                Q32                       1951                            3.978                             0.770                                1                              5
+                Q33                       1951                            4.114                             0.693                                1                              5
+                Q34                       1951                            3.648                             0.920                                1                              5
+                Q35                       1951                            3.782                             0.844                                1                              5
+                Q37                       1951                            3.686                             0.895                                1                              5
+                Q38                       1951                            3.758                             0.886                                1                              5
+                Q39                       1951                            4.035                             0.794                                1                              5
+                Q40                       1951                            3.952                             0.768                                1                              5
+                Q41                       1951                            4.008                             0.806                                1                              5
+                Q42                       1951                            3.978                             0.794                                1                              5
+                Q44                       1951                            3.682                             0.901                                1                              5
+                Q45                       1951                            3.825                             0.815                                1                              5
+                Q46                       1951                            4.050                             0.772                                1                              5
+Table A3 
+Descriptive Statistics of Key Variables by Gender.
+Female
+Variable Obs Mean Std.Dev. Min Max
+index pca 983   0.0553 3.653   17.38 7.606 score 983 3.605 0.780 1 5 familyAI 983 0.116 0.362 0 2 schoolAI 983 0.653 0.476 0 1 familycar 983 1.081 0.607 0 4 familytravel 983 2.062 1.231 0 5 fathedu 983 15.00 2.343 9 19 mothedu 983 14.72 2.383 9 19
+Male
+(continued on next page)
+(continued )
+Male
+Variable  Obs  Mean  Std.Dev.  Min  Max Variable Obs Mean Std.Dev. Min Max
+index pca 968 0.289 3.312   11.32 7.621 score 968 3.617 0.714 1 5 familyAI 968 0.120 0.370 0 2 schoolAI 968 0.751 0.433 0 1 familycar 968 1.087 0.543 0 4 familytravel 968 2.061 1.176 0 5 fathedu 968 15.29 2.080 9 19 mothedu 968 14.95 2.157 9 19
+Note. This table reports the summary statistics of key variables, disaggregated by gender. Appendix B. Construction and Validation of the AI Literacy Index
+Table B1 
+Mapping Table of AI Literacy Dimensions, Sub-Competencies, and Survey Items
+Core Domain Dimension (8) Sub-Competency (32) Survey Item(s)
+Identification &  Identification Human–AI Distinction I can identify and comprehend the emotion and intention expressed by AI. Understanding Needs Identification I can clearly understand my needs and expectations when I use AI.
+Risk Identification I can identify possible risks and potential safety hazards when I use AI. Information  I can distinguish true information and false information in an AI environment. Identification
+Understanding Data Understanding I can understand the basic concepts of data, such as their scale and scope.
+Algorithm  I understand some basic principles of AI algorithms and their purposes. Understanding
+Technical  I understand the basic working principles and application scenarios of AI Understanding technology.
+Contextual  I can understand the use effect and limits of AI tools in different contexts. Understanding
+Application & Evaluation Application Identity Management I can effectively manage my identity and privacy in an AI environment.
+Tool Application I can effectively choose and use suitable AI tools to solve problems.
+Content Creation I can use AI tools to create high-quality content, such as articles or videos.
+Social Interaction I can use AI tools to effectively communicate and interact with others. Evaluation Risk Evaluation I can evaluate the risks of AI usage, taking preventive measures accordingly.
+Information Evaluation I can accurately assess the authenticity and reliability of AI-related information.
+Environmental  I can assess the influence of AI on individuals and society.
+Evaluation
+Result Evaluation I can effectively evaluate the performance and effect of AI products. Collaboration &  Collaboration Human–AI  I can effectively express my opinions and needs when I use AI.
+Innovation Communication
+Team Collaboration I can effectively participate in team discussions and decision-making in an AI 
+environment.
+Resource Allocation I can effectively allocate my time and use AI resources to complete tasks.
+Open Sharing I can effectively share my AI content and ideas with others.
+Innovation Technical Innovation I'm curious about new technology and new applications related to AI, and I'm 
+willing to explore them.
+Content Innovation I can create valuable and unique AI content.
+Knowledge Innovation I can develop new understandings by integrating knowledge from different fields 
+through AI.
+Path Innovation I can find and explore new AI solutions and approaches.
+Ethics & Society Ethics Data Security I can protect my AI information and safety, and prevent unauthorized access. Privacy Protection I can respect others' privacy, and avoid invading others' personal information when 
+I use AI.
+Human-Centeredness I am attentive to user experience and value humanized AI services. Inclusiveness I can respect information from different cultures and backgrounds, and avoid 
+discrimination when I use AI.
+Society Social Awareness I can pay attention to popular AI-related social issues, and learn about the social 
+trends related to AI.
+Social Participation I can use AI to participate in social events and public decision-making.
+Public Interest I can pay attention to public interests and social welfare in an AI environment. Social Responsibility I maintain a high sense of ethics and social responsibility in an AI environment.
+Table B2 
+Regression  Analysis  between  Self-reported  AI Literacy  Indicators  Computed via Principal Component Analysis (PCA) and Factor Analysis (FA)
+VARIABLES Self-reported AI literacy by PCA AI literacy by factor analysis 2.312***
+(0.062)
+Constant Yes
+Observations 1951
+R-squared 0.4187
+Note. This table reports the regression results of self-reported AI literacy in- dicators  computed  using  principal  component  analysis  (PCA)  and  factor analysis (FA). ***, **, and * indicate significance at the 1 %, 5 %, and 10 % levels,  respectively.  Standard  errors  are  reported  in  parentheses.  We  also compute the pairwise correlation coefficient between the AI literacy indices constructed  using  PCA and  FA methods,  which  is  0.6471,  indicating  high correlation between both indicators.
+Appendix C. Confirmatory Factor Analysis (CFA) Results
+Table C1 
+Model Fit Indices for the Eight-Factor AI Literacy Model
+                    Fit Index                                Value                                        Recommended Threshold                                      Result
+                    2                                        2220.27                                      –                                                          –
+                    χ
+                    df χ2/df                                 436 5.09                                     – <3.0                                                     – Acceptable
+                    CFI                                      0.936                                        >0.90                                                      Excellent
+                    TLI                                      0.927                                        >0.90                                                      Excellent
+                    RMSEA                                    0.045                                        <0.08                                                      Excellent
+                    90 % CI for RMSEA                        [0.043, 0.047]                               –                                                          –
+                    GFI                                      0.922                                        >0.90                                                      Excellent
+Note. N = 2043. CFI = Comparative Fit Index; TLI = Tucker-Lewis Index; RMSEA = Root Mean Square Error of Approxi- mation; GFI = Goodness of Fit Index; CI = Confidence Interval.
+Table C2 
+Complete Factor Loadings for All 32 Items
+Dimension Item λ SE z p
+
+16 
+
+L. Tian et al.                                                                                                                                                                                                            Telecommunications Policy xxx (xxxx) xxx 
+Identification Q30_1 Identification Q30_2 Identification Q30_3 Identification Q30_4 Understanding Q30_5 Understanding Q30_6 Understanding Q30_7 Understanding Q30_8 Application Q30_9 Application Q30_10 Application Q30_11 Application Q30_12 Evaluation Q30_13 Evaluation Q30_14 Evaluation Q30_15 Evaluation Q30_16 Collaboration Q30_17 Collaboration Q30_18 Collaboration Q30_19 Collaboration Q30_20 Innovation Q30_21 Innovation Q30_22 Innovation Q30_23 Innovation Q30_24 Ethics Q30_25 Ethics Q30_26 Ethics Q30_27
+1.000 –
+0.754 0.037
+1.037 0.045
+1.194 0.049
+1.000 –
+1.172 0.049
+1.063 0.045
+1.181 0.047
+1.000 –
+0.966 0.036
+0.879 0.036
+0.878 0.035
+1.000 –
+1.006 0.032
+0.977 0.032
+0.969 0.031
+1.000 –
+1.288 0.049
+1.069 0.044
+1.039 0.043
+1.000 –
+1.686 0.080
+1.527 0.074
+1.695 0.079
+1.000 –
+0.820 0.035
+0.865 0.034
+– –
+20.43 <0.001
+22.86 <0.001
+24.59 <0.001
+– –
+24.02 <0.001
+23.82 <0.001
+25.04 <0.001
+– –
+26.99 <0.001
+24.62 <0.001
+25.09 <0.001
+– –
+31.70 <0.001
+30.33 <0.001
+31.17 <0.001
+– –
+26.03 <0.001
+24.58 <0.001
+24.24 <0.001
+– –
+20.98 <0.001
+20.76 <0.001
+21.34 <0.001
+– –
+23.60 <0.001
+25.64 <0.001
+
+ 
+
+L. Tian et al.                                                                                                                                                                                                            Telecommunications Policy xxx (xxxx) xxx 
+(continued on next page)
+Table C2 (continued )
+          Dimension                       Item                                  λ                                SE                               z                                p
+          Ethics                          Q30_28                                0.928                            0.036                            26.01                            <0.001
+          Society                         Q30_29                                1.000                            –                                –                                –
+          Society                         Q30_31                                1.107                            0.044                            25.26                            <0.001
+          Society                         Q30_32                                1.051                            0.040                            26.03                            <0.001
+          Society                         Q30_33                                0.935                            0.038                            24.56                            <0.001
+Note. This table presents the complete standardized factor loadings, standard errors, z-values, and significance levels for all 32 items across the eight dimensions of AI literacy. Items marked with '—' were fixed to 1.0 for model identification purposes and therefore have no standard error or significance test. N = 2043. λ = standardized factor loading; SE = standard error; z = Wald test statistic; p = p-value. All free parameters are statistically significant at p < .001.
+Table C3 
+Reliability and Convergent Validity Indices
+                                         Dimension                         Cronbach's α                              CR                               AVE
+                                         Identification                    0.689                                     1.004                            1.017
+                                         Understanding                     0.737                                     1.048                            1.225
+                                         Application                       0.731                                     0.964                            0.869
+                                         Evaluation                        0.814                                     0.994                            0.976
+                                         Collaboration                     0.736                                     1.048                            1.220
+                                         Innovation                        0.724                                     1.169                            2.262
+                                         Ethics                            0.733                                     0.948                            0.820
+                                         Society                           0.737                                     1.012                            1.051
+Note.  N = 2043.  CR = Composite  Reliability;  AVE = Average  Variance  Extracted.  All di- mensions meet the 0.70 threshold for CR. AVE values > 1.0 result from using unstandardized factor loadings and are statistically permissible.
+Table C4 
+Discriminant Validity: Inter-Factor Correlations and Square Roots of AVE
+   Dimension                       1                     2                     3                     4                     5                     6                     7                     8
+   1. Identification               1.009
+   2. Understanding                0.239                 1.107
+   3. Application                  0.274                 0.266                 0.932
+   4. Evaluation                   0.319                 0.299                 0.355                 0.988
+   5. Collaboration                0.214                 0.206                 0.270                 0.269                 1.105
+   6. Innovation                   0.167                 0.162                 0.194                 0.224                 0.168                 1.504
+   7. Ethics                       0.248                 0.242                 0.316                 0.326                 0.269                 0.189                 0.906
+   8. Society                      0.230                 0.213                 0.275                 0.297                 0.242                 0.182                 0.296                 1.025
+Note. N = 2043. Values on the diagonal (bold, shaded) represent the square root of AVE for each dimension. Off-diagonal values represent inter-factor correlations. All diagonal values exceed corresponding row and column correlations, supporting discriminant validity (Fornell-Larcker criterion).
+Appendix D. Full Survey Instrument
+Questionnaire on AI Usage and AI Literacy among Chinese Adolescents Aged 12–18. 
+1. What is your year of birth? (The questionnaire will automatically end if the option “Other” is chosen) 
+a. 2006
+b. 2007
+c. 2008
+d. 2009
+e. 2010
+f. 2011
+g. 2012
+h. Other
+2. Have you ever used AI? (The questionnaire will automatically end if the option “No” is chosen) 
+a. Yes
+b. No
+3. Do any of your family members work in AI-related fields? If yes, please select all that apply. 
+a. No
+b. Yes, my father
+c. Yes, my mother
+4. What is your gender? 
+a. Male
+b. Female
+c. Others/unwilling to disclose
+5. Are you still a full-time student? If so, please choose your current grade: 
+a. Not at school
+b. Grade 5, primary school
+c. Grade 6, primary school
+d. Grade 1, junior high school
+e. Grade 2, junior high school
+f. Grade 3, junior high school
+g. Grade 1, senior high school
+h. Grade 2, senior high school
+i. Grade 3, senior high school
+j. Freshman year at university
+k. Sophomore year at university
+l. Others,  please  specify:  __________
+6. What is your current school type? 
+a. Public school
+b. Private school
+c. Others
+7. Where do you live? 
+a. First-tier city (e.g. Beijing, Shanghai, Guangzhou, Shenzhen)
+b. Second-tier city (e.g. Nanjing, Hangzhou, Chengdu, Wuhan)
+c. Third-tier or smaller city (e.g. Tangshan, Luoyang, Nantong)
+d. Township
+e. Village
+8. How many cars does your family have? 
+a. None
+b. 1
+c. 2
+d. 3
+e. 4 or more
+9. How frequently does your family have a long-distance trip? 
+a. Never
+b. Rarely (1–2 times a year)
+c. Occasionally (3–4 times a year)
+d. Frequently (5 times or more a year)
+10. What is your father's highest academic degree? 
+a. Junior high school or below
+b. Senior high school
+c. Junior college
+d. Bachelor
+e. Master or above
+11. What is your mother's highest academic degree? 
+a. Junior high school or below
+b. Senior high school
+c. Junior college
+d. Bachelor
+e. Master or above
+12. How would you evaluate your academic performance? 
+a. Very good
+b. Good
+c. Fair
+d. Poor
+e. Very Poor
+Please choose the option that best reflects your current situation according to your real feelings and experiences with AI 
+(matrix single-choice items, measured on a five-point Likert scale: 1 = Strongly Disagree, 2 = Disagree, 3 = Neutral, 4 = Agree, 5 =
+Strongly Agree). 
+13. I can identify and comprehend the emotion and intention expressed by AI.
+14. I can clearly understand my needs and expectations when I use AI. (consistency check question)
+15. I can identify possible risks and potential safety hazards when I use AI.
+16. I can distinguish true information and false information in an AI environment.
+17. I can understand the basic concepts of data, such as their scale and scope.
+18. I understand some basic principles of AI algorithms and their purposes.
+19. I understand the basic working principles and application scenarios of AI technology.
+20. I can understand the use effect and limits of AI tools in different contexts.
+21. I can effectively manage my identity and privacy in an AI environment.
+22. I can effectively choose and use suitable AI tools to solve problems.
+23. I can use AI tools to create high-quality content, such as articles or videos.
+24. I can use AI tools to effectively communicate and interact with others.
+25. I can evaluate the risks of AI usage, taking preventive measures accordingly.
+26. I can accurately assess the authenticity and reliability of AI-related information.
+27. I can assess the influence of AI on individuals and society.
+28. I can effectively evaluate the performance and effect of AI products.
+29. I can effectively express my opinions and needs when I use AI.
+30. I can effectively participate in team discussions and decision-making in an AI environment.
+31. I can effectively allocate my time and use AI resources to complete tasks.
+32. I can effectively share my AI content and ideas with others.
+33. I am curious about new technology and new applications related to AI, and I'm willing to explore them.
+34. I can create valuable and unique AI content.
+35. I can develop new understandings by integrating knowledge from different fields through AI.
+36. I can clearly understand my needs and expectations when I use AI. (consistency check question)
+37. I can find and explore new AI solutions and approaches.
+38. I can protect my AI information and safety, and prevent unauthorized access.
+39. I can respect others' privacy, and avoid invading others' personal information when I use AI.
+40. I am attentive to user experience and value humanized AI services.
+41. I can respect information from different cultures and backgrounds, and avoid discrimination when I use AI.
+42. I can pay attention to popular AI-related social issues, and learn about the social trends related to AI.
+43. I can use AI to participate in social events and public decision-making.
+44. I can pay attention to public interests and social welfare in an AI environment.
+45. Please choose “Strongly Agree” under this question. (attention check question)
+46. I maintain a high sense of ethics and social responsibility in an AI environment.
+47  What are your suggestions on questionnaire improvement? (optional)
+Appendix E. Supplementary Results for Counterfactual Analysis
+Appendix Table E1. 
+– Regression Analysis of Self-reported AI Literacy
+Dependent Variable: Self-reported AI literacy by PCA
+(1) (2)
+
+19 
+
+L. Tian et al.                                                                                                                                                                                                            Telecommunications Policy xxx (xxxx) xxx 
+VARIABLES Academic Performance
+Parental AI Family Car Family Travel Father Education Mother Education
+Residence type FE Grade FE
+School type FE Observations R-squared
+Female Sample Male Sample 0.848*** 0.829*** (0.150) (0.150) 0.096 0.036 (0.312) (0.280) 1.340*** 0.993*** (0.242) (0.253)
+  0.514**   0.400**
+(0.201) (0.202) 0.383*** 0.582*** (0.102) (0.096)
+  0.021   0.094 (0.077) (0.078) YES YES YES YES YES YES 983 968
+0.165 0.118
+
+ 
+
+L. Tian et al.                                                                                                                                                                                                            Telecommunications Policy xxx (xxxx) xxx 
+Notes. This table reports the regression results of the self-reported AI literacy indicator on various factor dimensions. Column (1) presents estimates for the female subsample, and Column (2) for the male sub- sample. ***, **, and * indicate significance at the 1 %, 5 %, and 10 % levels, respectively. Standard errors are  reported  in  parentheses. The  gender-stratified OLS regressions  serve  as  gender-specific  prediction models rather than tests of coefficient differences. The gender gap is identified by comparing observed outcomes with counterfactual predictions generated using the model estimated for the opposite gender.
+Data availability
+Data will be made available on request.
+References
+Anderson, L. W., & Krathwohl, D. R. (2001). A taxonomy for learning, teaching, and assessing: A revision of Bloom's taxonomy of educational objectives. Addison Wesley 
+Longman, Inc. 
+Artino, A. R. (2012). Academic self-efficacy: From educational theory to instructional practice. Perspectives on Medical Education, 1(2), 76–85. https://doi.org/ 
+10.1007/s40037-012-0012-5
+Bandura, A. (1997). Self-efficacy: The exercise of control. New York, NY: Freeman. 
+Bloom, B. S., Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl, D. R. (1956). Taxonomy of educational objectives: The classification of educational goals. 
+Handbook I: Cognitive domain. Longman.
+Bourdieu, P. (1986). The forms of capital. In J. G. Richardson (Ed.), Handbook of theory and research for the sociology of education (pp. 241–258). Greenwood. Carter, L., Liu, D., & Cantrell, C. (2020). Exploring the intersection of the digital divide and artificial intelligence: A hermeneutic literature review. AIS Transactions on 
+Human-Computer Interaction, 12(4), 253–275. https://doi.org/10.17705/1thci.00138
+2025 Beijing to introduce AI courses across primary, secondary schools. Xinhua. http://english.www.gov.cn/news/202503/12/content_ 
+WS67d18e9ec6d0868f4e8f0c40.html.
+Cermakova, P., Chlapeˇcka, A., Csajbok, ´ Z., Andrýskov´a, L., Br´azdil,  M., & Mareˇckov´a, K. (2023). Parental education, cognition and functional connectivity of the 
+salience network. Scientific Reports, 13(1), 2761.https://doi.org/10.1038/s41598-023-29508-w.
+Correll, S. J. (2001). Gender and the career choice process: The role of biased self-assessments. American Journal of Sociology, 106(6), 1691–1730. https://doi.org/ 
+10.1086/321299
+Dang, J., King, K. M., & Inzlicht, M. (2020). Why are self-report and behavioral measures weakly correlated? Trends in Cognitive Sciences, 24(4), 267–269. https://doi. 
+org/10.1016/j.tics.2020.01.007
+Encinas-Martín, M., & Cherian, M. (2023). Gender, education and skills: The persistence of gender gaps in education and skills. OECD Publishing. https://doi.org/10.1787/ 
+34680dd5-en
+Guo, S., Xu, J., Wang, M., Akezhuoli, H., Zhou, X., & Lu, J. (2024). The effects of parent-child separation on the digital literacy of children and adolescents: A 
+bidirectional perspective study. Heliyon, 10(10), Article 1.https://doi.org/10.1016/j.heliyon.2024.e31113.
+Hanushek, E. A., & Woessmann, L. (2011). The economics of international differences in educational achievement. In E. A. Hanushek, S. Machin, & L. Woessmann 
+(Eds.), Handbook of the economics of education, 3 pp. 89–200). North Holland. 
+Harding, J. F. (2015a). Increases in maternal education and low-income children’s cognitive and behavioral outcomes. Developmental psychology, 51(5), 583–599. 
+https://doi.org/10.1037/a0038920.
+Harding, J. F., Morris, P. A., & Hughes, D. (2015b). The relationship between maternal education and children’s academic outcomes: A theoretical framework. Journal 
+of Marriage and Family, 77(1), 60–76. https://doi.org/10.1111/jomf.12156
+Interface-EU. (2024). AI's missing link: The gender gap in the talent pool. Interface-EU. https://www.interface-eu.org/publications/ai-gender-gap. 
+Lesik, S. A., & Fallahi, C. R. (2011). Salary equity studies: An analysis of using the blinder-oaxaca decomposition to estimate differences in faculty salaries by gender. 
+Journal of Modern Applied Statistical Methods, 10(2), 656–668. https://doi.org/10.22237/jmasm/1320121380
+Lintner, T. (2024). A systematic review of AI literacy scales. NPJ Science of Learning, 9, Article 50. https://doi.org/10.1038/s41539-024-00264-4
+Livingstone, S., & Helsper, E. J. (2007). Gradations in digital inclusion: Children, young people and the digital divide. New Media & Society, 9(4), 671–696. https://doi. 
+org/10.1177/1461444807080335
+Master, A., Cheryan, S., & Meltzoff, A. N. (2021). Gender stereotypes about interests start early and cause gender disparities in computer science and engineering. 
+Proceedings of the National Academy of Sciences of the United States of America, 118(48). https://doi.org/10.1073/pnas.2100030118
+Mayes, L., & Lewis, M. (2012). The Cambridge handbook of environment in human development. Cambridge University Press. 
+Ministry of Education of the People’s Republic of China. (2024). MOE issues guidance on how to teach AI in primary and middle schools. Ministry of Education of the 
+People’s Republic of China. https://en.moe.gov.cn/news/press_releases/202412/t20241210_1166454.html.
+Morgan, S. L., & Winship, C. (2015). Counterfactuals and causal inference: Methods and principles for social research. Cambridge University Press. 
+Mustafao˘glu, R., Zirek, E., Yasacı, Z., & Ozdinçler, ¨ A. R. (2018). The negative effects of digital technology usage on children's development and health. Addicta: The 
+Turkish Journal on Addictions, 5(2), 13–21.
+Ng, D. T. K., Leung, J. K. L., Chu, S. K. W., & Qiao, M. S. (2021). Conceptualizing AI literacy: An exploratory review. Computers and Education: Artificial Intelligence, 2, 
+Article 100041. https://doi.org/10.1016/j.caeai.2021.100041
+Pajares, F. (1996). Self-efficacy beliefs in academic settings. Review of Educational Research, 66(4), 543–578. https://doi.org/10.3102/00346543066004543 Schunk, D. H., & Pajares, F. (2002). The development of academic self-efficacy. In A. Wigfield, & J. S. Eccles (Eds.), Development of achievement motivation (pp. 15–31). 
+Academic Press. https://doi.org/10.1016/B978-012750053-9/50003-6. 
+Schwarzer, R., & Jerusalem, M. (1995). Generalized self-efficacy scale. In J. Weinman, S. Wright, & M. Johnston (Eds.), Measures in health psychology: A user's portfolio. 
+Causal and control beliefs (pp. 35–37). Windsor, UK: NFER-NELSON. 
+Shandong Provincial Department of Education. (2025, July). 3). 《山东省“人工智能+教育”实施方案》解读 [Interpretation of the “Implementation Plan for ‘Artificial 
+Intelligence + Education. In Shandong Province”]. Shandong Provincial. Department of Education. http://edu.shandong.gov.cn/art/2025/7/3/art_11992_ 
+10341365.html. 
+Soundararajan, A., Lim, J. X., Ngiam, N. H. W., Tey, A. J., Tang, A. K. W., Lim, H. A., Yow, K. S., Cheng, L. J., Ho, J., Teo, Nigel, Yee, W. Q., Yoon, S., Low, L. L., & 
+Ng, K. Y. Y. (2023). Smartphone ownership, digital literacy, and the mediating role of social connectedness and loneliness in improving the wellbeing of 
+community-dwelling older adults of low socio-economic status in Singapore. PloS one, 18(8), Article e0290557. https://doi.org/10.1371/journal.pone.0290557.
+Long, D., & Magerko, B. (2020). What is AI literacy? Competencies and design considerations. In Proceedings of the 2020 CHI conference on human factors in computing 
+systems. Association for Computing Machinery, New York, NY, USA, 1–16.https://doi.org/10.1145/3313831.3376727.
+Jiangsu Provincial Department of Education. (2025, May 9). 省教育厅关于印发《人工智能赋能教育高质量发展行动方案（2025—2027年）》的通知 [on issuing the 
+action plan for high-quality development of education empowered by artificial intelligence (2025–2027)]. Jiangsu Provincial Department of Education.https:// 
+jyt.jiangsu.gov.cn/art/2025/5/9/art_58366_11562378.html.
+Nurmamat, M. (2025, August 26). China’s Hangzhou makes AI classes compulsory in schools amid nationwide push. South China Morning Post, China Economy. 
+https://www.scmp.com/economy/china-economy/article/3323082/chinas-hangzhou-makes-ai-classes-compulsory-schools-amid-nationwide-push.
+UNESCO. (2021). Recommendation on the ethics of artificial intelligence. Paris, France: UNESCO. Retrieved from https://unesdoc.unesco.org/ark:/48223/ 
+pf0000381137.
+United Nations. (2015). Transforming our world: The 2030 agenda for sustainable development. United Nations. https://sdgs.un.org/2030agenda. 
+van Dijk, J. A. G. M. (2006). Digital divide research, achievements and shortcomings. Poetics, 34(4–5), 221–235. https://doi.org/10.1016/j.poetic.2006.05.004. Wang, M. T., & Degol, J. L. (2017). Gender gap in science, technology, engineering, and Mathematics (STEM): Current knowledge, implications for practice, policy, 
+and future directions. Educational Psychology Review, 29(1), 119–140. https://doi.org/10.1007/s10648-015-9355-x
+World Health Organization. (2014). Health for the world’s adolescents: a second chance in the second decade: summary. World Health Organization. https://iris.who.int/ 
+handle/10665/112750. 
+Xu, H., Cheng, Q. X., Dong, J., Wu, D., & Tian, L. (2025). Redefining learning and development: Constructing a lifelong competency framework for the generation AI. 
+Library Tribune, 1–11. Advance online publication.https://link.cnki.net/urlid/44.1306.G2.20250513.1621.002 (许浩, 程卿玄, 董晶, 吴丹, 田丽. 重新定义学习与 发展:AI世代的终身能力框架建构[J/OL]. 图书馆论坛, 1-11[2025-09-23]).
+Yadav, A., Moni, M. K., Chhabra, S., Singh, S., & Hazarika, I. K. (2024). ICT development index and its role in the FDI–growth nexus: Evidence from G-20 economies. 
+Statistika: Statistics and Economy Journal, 104(3), 336–350. https://doi.org/10.54694/stat.2023.59.
+Zeldin, A. L., & Pajares, F. (2000). Against the odds: Self-efficacy beliefs of women in mathematical, scientific, and technological careers. American Educational 
+Research Journal, 37(1), 215–246. https://doi.org/10.2307/1163477.
+Zhou, D., Deng, S., & Liu, G. (2025). The impact of digital literacy on household carbon emissions: Evidence from China. Journal of Environmental Planning and 
+Management, 1–30. https://doi.org/10.1080/09640568.2025.2523062.
+21 

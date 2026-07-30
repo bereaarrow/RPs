@@ -1,0 +1,354 @@
+﻿JOURNAL OF RESEARCH ON TECHNOLOGY IN EDUCATION
+2026, VOL. 58, NO. 4, 707—722
+https://doi.org/10.1080/15391523.2025.2456051
+
+Developing a validated assessment of artificial intelligence literacy for Chinese university students based on educational objectives taxonomy
+Sijia Han and Yuting Zhang 
+College of Education, Zhejiang Normal University, Jinhua, Zhejiang, China
+
+ABSTRACT
+Artificial  intelligence  (AI)  literacy  is  a  concept  that  has  received  increasing research focus due to the wide integration of AI technology into education. However, there are few available scales for assessing AI literacy in university students that are deeply grounded in a theoretical model. Thus, this study aims to develop and validate a questionnaire for use in the Chinese higher education context. Based on Bloom s Taxonomy and existing relevant litera - ture,  we  proposed  a  five-construct  structure  with  63  items  for  this  scale. Using survey data from 386 participants, we employed an exploratory factor analysis  (EFA)  to  determine  the  underlying  factorial  constructs.  A  further sample  of  401  participants  underwent  a  confirmatory  factor  analysis  (CFA) to test the latent domains, reliability, and validity of the structure. The find - ings  significantly  identified  an  updated  AI  literacy  model  with  five  dimen - sions,  namely  AI  knowledge,  AI  application,  AI  attitude,  AI  ethics,  and  AI innovation.  This  first  scale  with  clear  capacity  categories  for  measuring Chinese university students  levels of AI literacy is regionally unique. It could contribute to the advancement of AI literacy in research, as well as the eval - uation  of  students   knowledge  and  skills  and  the  promotion  of  effective usage in practice.
+ARTICLE HISTORY Received 25 September 2024
+Revised 18 December 2024
+Accepted 3 January 2025
+KEYWORDS
+AI literacy; higher education; assessment development; scale validation
+
+Introduction
+Artificial intelligence (AI) is at the top of the agenda in the education field today, transforming the ways teachers and students learn, live, and work in technology-enriched environments across the  globe.  China,  like  many  countries,  has  realized  the  changes  that  accompany  educational technology and attached importance to cultivating modern students as digital citizens to adapt to the new era. The Beijing Consensus on Artificial Intelligence and Education (UNESCO, 2019), which  was  released  through  an  agreement  by  50  government  ministers,  provides  guidance  on the reform of AI-integrated education for equitable and high-quality lifelong learning opportu - nities.  The  Ministry  of  Education  in  China  (MOEC)  has  issued  the  Action  Plan  for  Artificial Intelligence Innovation in Universities  (MOEC,  2018), aimed at accelerating the novel application of AI in higher education, and using technology to support the innovation of university student training  methods.  These  educational  policies  have  highlighted  the  necessity  of  developing  stu-dents  AI-related knowledge and skills (Chai et al., 2020; Dai et al., 2020).
+AI literacy has emerged as one of the essential competencies in higher education, influencing students  to  engage  with  and  adapt  to  emerging  technologies  in  academic  and  professional 
+CONTACT Yuting Zhang  zhangyuting@zjnu.edu.cn  College of Education, Zhejiang Normal University, Jinhua, Zhejiang, China.
+' 2025  ISTE 
+
+JOURNAL OF RESEARCH ON TECHNOLOGY IN EDUCATION  711
+pursuits (Kong et al., 2021; Shang & Sivaparthipan, 2022). The primary cause is that AI tech- nologies have hastened the evolution of a highly automated society that reshapes the workforce, with a deep impact on the job market. This could be a massive challenge for university students preparing  to  enter  the  future  labor  market  if  they  do  not  understand  the  technologies  and principles of AI (Frey & Osborne, 2017). This trend emphasizes the university s pivotal respon- sibility to equip students with knowledge and skills to analyze, evaluate, and responsibly utilize AI tools, especially for future challenges in an AI-driven world (Katsantonis & Katsantonis, 2024; Kandlhofer et al., 2016). Thus, educators must take care in the evaluation of students  AI literacy and design curricula based on AI literacy dimensions, which can prepare students to meet the demands of future labor market trends and increase their competitiveness for employment (Ng et al., 2024; Zhang et al., 2022).
+A  fundamental  difference  between  AI  and  traditional  computer  science  is  that  the  former operates by mimicking human cognitive methods instead of simply using mechanical computation to make predictions and decisions, or solve specific problems (Akgun & Greenhow, 2022; Celik, 2023). Generative AI or machine learning techniques have significantly transformed the higher education landscape. For instance, particularly popular tools such as ChatGPT and IFlytek Spark, offer convincing advantages for building knowledge and understanding and completing assign-ments from the perspective of students (Celik, 2023; Lund et al., 2023), but they may also raise issues of originality or academic integrity. A series of ethical issues or potential calculation biases caused by improper usage have been identified by researchers (Kong et al., 2023). AI s powerful functions attract many university students to apply it, but the necessary literacy is required to maximize  benefits  and  avoid  potential  risks.  The  lack  of  a  suitable  AI  literacy  standard  could affect students  values and creative thinking.
+Therefore, an updated theoretical model of AI literacy is vital to ensure university students  safe,  effective,  and  normative  use  of  this  technology.  A  reliable  measurement  instrument  is essential for identifying individual shortcomings and advantages in AI skills and knowledge, and for  evaluating  interventions  that  can  improve  AI  literacy.  Although  some  pioneers  have  estab- lished related assessments, most research has focused on the mastery of basic AI knowledge and skills, or emphasized learning intention or readiness, particularly in school contexts (Chai et al., 2020; Dai et al., 2020; Ng et al., 2023). A validated tool that considers university students  growth features  and  development  needs  so  as  to  comprehensively  evaluate  their  AI  literacy  is  much needed. This study aims to address the research gap by devising such a measurement for stu- dents in Chinese higher education, to assess their level of AI literacy and predict whether they can adapt to new technologies.
+Literature review
+There have been many attempts to explore AI literacy s connotation and scope, most of which agreed that it is still a long way from general knowledge to comprehensive literacy in the edu- cation field (Casal-Otero etc., 2023; Ng et al., 2024). Existing literature confirmed that disruptive potential  coexists  alongside  possible  misuses  when  using  digital  technologies;  it  is  therefore essential to start by understanding what AI literacy is to facilitate how AI functions for learning and  social  interaction  (Kong  et al., 2023;  Long  &  Magerko, 2020).  Accordingly,  we  mainly reviewed  the  definition,  measurements,  and  conceptual  model  of  AI  literacy.  Although  several efforts are being made to reveal the nature of AI literacy in Chinese literature (Chai et al., 2020; Gong et al., 2020), there are still limited validated questionnaires with a clear theoretical foun- dation for university students.
+The concept of AI literacy
+Concepts of AI literacy differ in the number of skill sets and competencies that are focused on. Literacy  itself  is  a  comprehensive  idea  that  is  not  limited  to  ability,  but  covers  an  assortment of facets combining knowledge, thinking, skills, emotions, attitudes, and other elements. Kandlhofer et al. (2016) defined AI literacy as mastery over essential functions of AI applications in daily life  and  work,  such  as  automata,  intelligent  agents,  data  structures,  computational  thinking, machine learning, deep learning, etc. Long and Magerko (2020) broadened the definition of AI literacy  to  abilities  that  allow  individuals  to  critically  assess  and  use  AI  technology,  as  well  as effectively interact and communicate with AI tools. However, these definitions were not closely related to a particular educational context. A more categorical perspective proposed by Ng et al. (2021)  referred  to  capabilities  in  four  aspects,  namely  (1)  knowing  and  understanding  AI,  (2) application of AI, (3) evaluation and creation of AI, and AI ethic. Even though their research initially revealed the level of requirements for students from the basic use, higher-order thinking, to  human-centered  considerations,  it  did  not  highlight  the  structural  characteristics  of  literacy based on higher education.
+Another  common  conceptualization  of  AI  literacy  is  to  replace  digital   in  digital  literacy  with  AI  (Long & Magerko, 2020; Ng et al., 2021). The term digital literacy is used to evaluate fundamental computer-related abilities to access and communicate information  via digital tech- nology (Falloon, 2020). AI as intelligent machines and algorithms that can reason or adapt to rules or contexts by mimicking human intelligence; thus, its conceptual formation must consider additional proficiencies, such as emotion and behavior (Ng et al., 2023), ethical mindsets (Segun, 2021), communicative skills (Long & Magerko, 2020), etc. However, few studies have been found that provided detailed explanations on how to conceptualize AI literacy in higher education. On this basis, we defined university student AI literacy as an individual s comprehensive capabilities and ethical values in obtaining AI knowledge, maintaining an open attitude, being aware of its implications, and applying techniques for current learning and future work in effective, norma - tive, and innovative ways.
+Measuring AI literacy
+Several types of measurement instruments have been proposed in the educational field that were initial attempts to assess and cultivate students  AI literacy. Kong et al. (2021) designed an AI literacy  course  for  university  students  and  a  self-reported  survey  (10  items)  to  track  their improvement. Although this survey included three domains, namely AI concepts, applying con- cepts  for  evaluation,  and  applying  concepts  for  solving  problems,  it  ignored  attitudinal  and emotional  aspects.  Zhang  et al.  (2022)  implemented  an  AI  literacy  development  workshop  for middle school students and measured their literacy regarding general technical concepts, attitudes, career  vision,  and  perceived  ethical  and  societal  implications.  This  was  also  a  mixed-method study that considered both qualitative and quantitative data, and its focus was not only on the design  of  the  evaluating  tool.  These  studies  emphasized  measuring  immediate  and curriculum-specific learning outcomes in relation to AI courses, activities, or workshops, without addressing broader competencies that students need to effectively engage with AI in more gen- eralized contexts. This study can address this gap by introducing these underexplored dimensions, providing a more complete picture of AI literacy.
+From a psychological competencies perspective, Carolus et al. (2023) proposed a self-assessment questionnaire  to  measure  German  adults   AI  literacy  according  to  well-founded  competency models and psychological change- and meta-competencies. Additionally, Ng et al. (2023) designed and validated the Artificial Intelligence Literacy Questionnaire (AILQ) using confirmatory factor analysis  (CFA).  Six  factors  were  identified  as  literacy  components  among  secondary  students: intrinsic motivation, self-efficacy, engagement, understanding, and application. Yet, existing scales developed for other groups are not suitable for university students, because they have different learning skills, ways of acquiring knowledge, and abilities required for entering into future work (Kandlhofer et al., 2016). It is thus necessary to explore and construct a measurement instrument on a theoretical basis and further validate it using empirical data in higher education.
+Conceptual model of AI literacy
+According to Bloom s Taxonomy, existing constructs of AI literacy (Ng et al., 2021, 2023), and the current requirements for university students in China (MOEC,  2018), the conceptual frame- work of AI literacy consists of five dimensions (Figure 1): (1) AI knowledge, (2) AI application, 
+(3) AI ethics, (4) AI attitude, and (5) AI innovation. The reason for using educational objectives Taxonomy as the theoretical basis is the necessity for the constructed framework to encapsulate the  multifaceted  developmental  goals  of  AI  literacy  among  university  students.  Aligning  with this rationale, we designed a hierarchical structure that progresses from basic-order to higher-order literacy constructs. Thus, the proposed measurement tool could enhance its operationalizability and practical applicability in assessing the targeted population.
+Associated  with  the  structure  of  learning  objectives  in  Bloom s  Taxonomy,  knowledge  refers to the remembering and understanding levels, as students must grasp core concepts and basic knowledge  of  AI,  and  understand  operational  principles  like  how  neural  networks  function. Application links to the applying and analyzing levels, concerning students  ability to apply AI tools  and  techniques,  as  well  as  higher-order  analyzing  skills  to  solve  practical  problems  or perform  specific  tasks.  Ethics  relates  to  the  evaluating  level,  since  it  serves  to  judge  whether students can understand ethical implications and societal impacts, and use AI within moral and ethical bounds. In addition to meeting social norms of evaluation, attitude also connects to the evaluating level, considering personal acceptance, motivation, and self-evaluation. Innovation can represent the creating level, as modern students are expected to generate new ideas and solutions using the latest technology in practice.
+AI  knowledge  is  the  cognition  of  the  concepts  and  logic  in  the  field  of  AI  (Zhang  et al., 2022). Whereas knowing  what it is  is usually the first step for students in reaching new areas of learning. Thus, the most relevant studies designated knowledge as the most basic dimension to  build  AI  literacy  (Lee  et al., 2021).  However,  previous  studies  identified  AI  knowledge  as knowing not only concepts, but also operating principles for interacting with AI tools or software (Laupichler  et al., 2023;  Ng  et al., 2023).  Moreover,  some  research  highlighted  discriminative ability, such as differentiating similar AI concepts and distinguishing AI tools from other digital 
+Figure 1.  Conceptual model of AI literacy.
+devices (Carolus et al., 2023; Wang et al., 2023). Thus, three aspects, namely cognition of con- cept, working principles, and discrimination, were considered in this domain.
+AI application refers to the skillful use of AI technology to solve problems in different sit- uations (Long & Magerko, 2020; Wang et al., 2023). It emphasizes the actual use and independent judgment of technology in study and life based on updated knowledge of current developments (Kong  et al., 2021),  which  is  also  a  frequently  included  dimension  in  the  conceptualization  of AI competency. Previous research arguments concerning these skills can be classified into basic techniques in practice and behavior engagement, and higher-order usage in evaluation, collab- oration, and problem-solving (Carolus et al.,  2023; Ng et al., 2023; Wang et al., 2023).
+AI ethics is the ability to recognize ethical responsibilities and avoid risks and moral issues (Akgun & Greenhow, 2022; Celik, 2023; Jang et al., 2022), and should be considered an important dimension of university students  values regarding technology usage. Ethical consideration consists of  a  person s  capacities  to  comprehend  the  consequences  of  applying  AI  for  society,  and  for other individuals (Zhang et al., 2022). Frequently discussed ethical issues for users are integrity and  plagiarism,  intellectual  property  rights  and  legal  liability,  data  privacy,  and  unfair decision-making  caused  by  algorithm  bias  (Katsantonis  &  Katsantonis, 2024).  Another  point emphasized in the Chinese educational technology context is human-machine collaboration, in relation to the issue of limited human subjectivity (Shang & Sivaparthipan, 2022).
+AI attitude refers to an individual s feelings and beliefs regarding AI usage. It represents the willingness  to  accept  AI  and  takes  a  particular  role  in  influencing  use  behaviors  (Katsantonis 
+& Katsantonis, 2024).  Researchers  have  been  aware  of  the  importance  of  attitude  toward  new technology  for  some  time.  For  instance,  Lin  et al.  (2021)  investigated  students   motivation  to learn  AI  and  demonstrated  that  affective  learning  can  foster  a  mindset  that  influences  how students  approach  it.  Katsantonis  and  Katsantonis  (2024)  examined  students   AI  attitudes  and revealed  that  they  display  favorable  motivational,  emotional,  and  cognitive  dispositions  toward technology. We incorporated this dimension to explore how students emotionally and cognitively engage with AI technologies.
+AI innovation requires students to have an experimental mindset and the capacity to apply technologies to deal creatively with real-world problems (Carolus et al., 2023), which is viewed as  a  type  of  higher-order  literacy  related  to  the  critical  thinking,  problem-solving,  and  adapt- ability needed for the job market (Frey & Osborne, 2017). This dimension is closely connected to  the  identity  of  the  university  student,  who  is  at  a  stage  that  bridges  study  and  society.  A critical issue in Chinese higher education is that more curricula attention is paid to algorithmic principles in than learning how to innovatively employ AI (Li et al., 2023). University students today are not just passive AI users, but active contributors to technological advancements, since they  must  prepare  themselves  for  dynamic  roles  in  an  AI-driven  world  (Kong  et al., 2021). Therefore,  we  have  included  AI  innovation  as  a  construct  of  student s  AI  literacy  in  higher education.
+Method
+Research design
+The aim of this study is to develop a validated scale that is contextually suitable for assessing the  AI  literacy  of  university  students  in  China.  The  research  design  consists  of  four  steps (Figure 2):  (1)  conceptualization;  (2)  item  generation;  (3)  structural  model  exploration;  and 
+(4) scale validation. First, the conceptual framework of this study was determined through a review of literature that considered AI literacy, university student literacy characteristics, and the  Chinese  higher  education  context.  Then,  the  initial  items  for  the  scale  were  generated, screened,  and  modified  based  on  feedback  from  researchers  in  this  field  and  university  stu- dents. Subsequently, questionnaires from 386 respondents were collected for exploratory factor analysis (EFA), which was used to identify the underlying structure of items. Last, a data set 
+Figure 2.  Research design.
+of  401  respondents  was  collected  for  confirmatory  factor  analysis  (CFA),  to  further  validate and evaluate the extent to which the factor structure obtained by the EFA interpreted an AI literacy framework.
+Item generation
+The conceptual model of AI literacy we proposed above (Figure 1) consists of five dimensions: (1) AI knowledge, (2) AI ethics, (3) AI attitude, (4) AI application, and (5) AI innovation. On this basis, a series of sub-constructs and corresponding items were inspired, adapted, and screened to  generate  the  initial  scale.  Combining  existing  measures  can  address  the  multifaceted  nature of  AI  literacy  and  allow  for  building  a  more  comprehensive  assessment.  Thus,  we  considered several  validated  scales  from  prior  studies  to  capture  diverse  components,  including  the  AI Literacy Questionnaire (AILQ) proposed by Ng et al. (2023) (scale s Cronbach s α = 0.93), Meta AI Literacy Scale (MAIL) created by Carolus et al. (2023) (sub-scales  Cronbach s α = 0.66 − 0.93), the General Attitudes toward AI Scale (GAAIS) from Schepman and Rodway (2020) s research (sub-scales  Cronbach s α = 0.74 − 0.87), and Wang et al. (2023) AI Literacy Scale (AILS) (sub-scales  Cronbach s α = 0.73 − 0.78).
+Next, we invited three scholars in the educational technology field who were knowledgeable about this subject to evaluate the model s accuracy, logicality, relevance, consistency, and repe- tition  of  expression  to  ensure  content  validity.  The  rationale  for  item  inclusion  was  set  based on the relevance to proposed dimensions, theoretically relevant cognitive levels, and the Chinese higher  education  context.  For  example,  experts  suggested  that  higher-order  programming  and computing skills should be removed because the structure is designed for students of all majors instead  of  computer  science.  In  addition,  we  collected  feedback  from  five  university  students who provided suggestions on the use of terms, reading, and comprehension issues that improved face  validity.  This  process  supported  the  modification  of  ambiguous  items  and  the  rephrasing of unclear expressions. Finally, 63 items within five dimensions were identified for the scale. A five-point Likert-type response was used as the assessment tool (1 = strongly disagree, 5 = strongly agree). The final version of the assessment is provided in Appendix A.
+Population and sampling
+The  population  of  the  present  research  is  public  university  students  in  China s  eastern  coastal provinces,  where  the  integration  of  AI  into  education  is  rapid  and  representative.  We  obtained informed consent from these universities after informing them of the research purpose, data use, and privacy protection measures. First, the inclusion of five universities was based on the research- ers  convenience to ensure real and efficient data acquisition for the necessary sample size. Stratified random sampling was used in each participating university for diverse students  grades and majors. The inclusion criteria for respondents were full-time undergraduate or postgraduate. We conducted 
+
+JOURNAL OF RESEARCH ON TECHNOLOGY IN EDUCATION  
+Table 1.  Demographic characteristics. Parameter Type
+Gender Female
+Male
+Education Undergraduates
+Graduates
+Field Social science
+Engineering and science
+EFA (n = 386) CFA (n = 401)
+Frequency Percentage (%) Frequency Percentage (%)
+203 52.6 239 59.6 183 47.4 162 40.4 235 63.9 254 63.3 151 39.1 147 36.7 185 47.9 204 50.9 201 50.1 197 49.1
+
+JOURNAL OF RESEARCH ON TECHNOLOGY IN EDUCATION  717
+the survey online using Questionnaire Star, and set trap questions to the middle of the question - naire to ensure efficient data collection. Students participating in the questionnaire were volunteers and treated anonymously. A total of 450 questionnaires (50 in each province) were administered to  university  students;  unusual  (e.g.,  overly  slow  or  quick  response  times;  completely  uniform choices)  and  uncompleted  responses  were  excluded,  and  the  remaining  386  valid  samples  were used for EFA. Likewise, we administered a further 450 questionnaires to university students, and received  401  valid  samples  for  CFA.  Both  sample  sizes  are  more  than  five  times  the  number  of items (n = 63) that meet the survey participant requirements (Gorsuch,  1983).
+Participating  students   demographics  are  shown  in  Table  1.  In  both  factor  analysis  groups, more female students (52.59%; 59.60%) than male students (47.41%; 40.40%) participated in the survey. Similar proportions of participants from the social science and engineering and science fields that covered most majors, which can provide students  comprehensive perspective of new technology. Among the samples, data from 235 and 254 undergraduates were used for the two steps  of  factor  analysis,  while  151  and  147  graduates  participated  in  the  questionnaire  for  the two steps of data collection, respectively, which is consistent with the student structure of Chinese universities. The distribution of participants indicates a wide range of sample types.
+Data analysis
+Factor analysis was conducted using SPSS 26.0 and Amos 28.0 in this paper, which is a statistical approach  widely  used  for  creating  structure  and  ensuring  the  rationality  of  items  in  research. In  the  EFA  process,  we  employed  the  Kaiser-Meyer-Olkin  (KMO)  test  and  Bartlett s  sphericity test  to  identify  suitability  for  factor  analysis,  and  principal-axis  factoring  (PAF)  was  used  to extract  the  common  factors.  Parallel  analysis  and  cumulative  explained  variance  were  used  to determine  the  number  of  factors,  and  the  strength  and  direction  of  the  relationship  between each  variable  and  the  factor.  Then,  we  conducted  a  rotated  component  analysis  using  promax rotation to determine the factor structure and make it interpretable. In the phase of CFA, indi - cators  like  Standardized  Root  Mean-Squared  Residual  (SRMR),  Root  Mean  Square  Error  of Approximation  (RMSEA),  Tucker-Lewis  Index  (TLI),  and  Comparative  Fit  Index  (CFI)  were considered for measuring model fitting (Hu & Bentler, 1999). Average variance extracted (AVE) and composite reliability (CR) values were assessed for the convergent validity, and the square root  of  a  factor s  AVE  for  the  discriminant  validity.  We  calculated  both  Cronbach s  α  and McDonald s  ω  to  measure  the  internal  consistency  of  the  questionnaire  survey  results  comple- mentarily.  Both  inter-item  and  inter-dimension  correlations  were  tested  to  determine  whether this scale could be factor analyzed.
+Results
+Normality analysis
+The normality test for the data distribution was performed using skewness and kurtosis ( Table 2). Data from two groups (n1 = 386; n2 = 401) were tested and proven to meet basic conditions for 
+Table 2.  The results of normality tests.
+Sampling (n1 = 386) Sampling (n2 = 401)
+Items Kurtosis Skewness Items Kurtosis Skewness
+KN1—KN13 −1.244— −0.998 −0.174— .027 ET1—ET14 −1.231— −1.059 −0.188—       KN1—KN13 ET1—ET14    −1.131— −0.819 −1.200—     −0.299— −0.072 −0.096—
+ −0.040 AT1—AT13 −1.201— −1.032 −0.227— .099 AP1—AP18 −1.129— −1.019        AT1—AT13 AP1—AP18    −0.096 −1.259— −0.978       .090 −0.247— −0.055
+ −0.244— .010 IN1—IN5 −1.279— −1.073 −0.101—                                IN1—IN5              −1.168— −1.022 −1.091—     −0.141— .060 −0.038—
+ .049                                                                                            −0.955                            −0.156
+Table 3.  The results of total variance interpretation.
+Squared sums of extraction 
+Initial eigenvalue loading Squared sums of rotation loading
+% of  % of  % of 
+Compo-nent Total variance Cumulation % Total variance Cumulation % Total variance Cumulation %
+1 23.477 37.266 37.266 23.477 37.266 37.266 11.838 18.790 18.790 2 5.825 9.246 46.512 5.825 9.246 46.512 9.312 14.781 33.571 3 5.257 8.344 54.857 5.257 8.344 54.857 8.568 13.600 47.171 4 4.491 7.128 61.985 4.491 7.128 61.985 8.309 13.189 60.360 5 2.126 3.375 65.360 2.126 3.375 65.360 3.150 5.000 65.360
+inferential statistics (Gravetter & Wallnau, 2017). The results showed that the values of skewness for all items range from −0.299 to 0.99, and the values of kurtosis range from −1.131 to −0.096 (within – 3), indicating that the data is normally distributed.
+Exploratory factor analysis (EFA)
+EFA was conducted with an effective sample size of 386 to explore the essential dimension of the multivariate observed variables and achieve a more distinct explanation of items. Kaiser-Meyer- Olkin (KMO) test and Bartlett s sphericity test were conducted to evaluate the adequacy of data in  terms  of  sample  size  and  item  correlations.  According  to  analytical  results,  the  KMO  score is  0.963,  and  Bartlett s  sphericity  test  is  significant  (p < 0.05),  which  confirms  these  constructs are suitable for conducting EFA. Principal-axis factoring (PAF) is one of the most popular esti- mation methods in EFA that is appropriate for identifying underlying theoretical constructs by prioritizing  common  variance  and  excluding  error  variance  (Fabrigar  et al.,  1999).  Also,  this analysis  technique  employs  an  iterative  process  to  estimate  factor  loadings  that  contributes  to more  refined  estimates  of  the  interpretable  structure  (Widaman,  1993).  Thus,  we  applied  it  as an extraction method to determine the structure.
+By extracting common variance among items (Russell, 2002), we found that all factor loadings (above  .40)  retain  factors  with  eigenvalues  (above  1.00)  at  satisfactory  scores.  In  addition,  the matplotlib package in Python 3.9.18 was used to implement parallel analysis for this study. The factors  corresponding  to  the  true  eigenvalues  that  are  higher  than  the  average  eigenvalues  of the random matrix would be retained, which shows these factors are sufficiently explanatory. A five-factor construct was determined for interpretative items: (i) it is conceptually supported by the  existing  evidence,  (ii)  the  total  cumulative  variance  interpretation  is  65.360%,  which  is acceptable (Table 3), and (iii) the number of factors higher than the average eigenvalue of the random matrix is five in the scree plot (Figure 3).
+Rotated component analysis results (Table 4) confirmed five significant constructs across all items.  The  pattern  coefficients  of  all  items  were  higher  than  0.7  (Hair  et al., 2010),  and  the classification was consistent with the proposed conceptual framework, showing satisfactory cor- respondence  between  the  proposed  items  and  the  factors.  Five  factors  were  named:  (1)  AI knowledge (KN, 13 items), (2) AI ethics (ET, 14 items), (3) AI attitude (AT, 13 items), (4) AI application (AP, 18 items), and (5) AI innovation (IN, 5 items).
+Figure 3.  Scree plot for parallel analysis.
+Table 4.  The results of rotated component matrix.
+Component Component
+Items 1 2 3 4 5 1 2 3 4 5
+AP18 .850 AT5 .844
+AP4 .836 AT3 .844
+AP2 .817 AT7 .813
+AP12 .817 AT8 .799
+AP9 .815 AT4 .783
+AP11 .815 AT1 .783
+AP3 .814 AT13 .771
+AP1 .813 AT9 .769
+AP8 .795 AT2 .767
+AP17 .791 AT1 .764
+AP14 .789 AT6 .752
+AP7 .774 AT11 .744
+AP13 .768 AT12 .742
+AP5 .768 KN8 .854
+AP1 .767 KN1 .796
+AP6 .765 KN7 .779
+AP15 .762 KN1 .774
+AP16 .751 KN11 .772
+ET11 .832 KN6 .766
+ET9 .831 KN4 .766
+ET7 .870 KN5 .761
+ET13 .860 KN3 .750
+ET2 .799 KN13 .749
+ET5 .795 KN9 .734
+ET4 .792 KN12 .733
+ET8 .786 KN2 .728
+ET6 .782 IN2 .880 ET14 .778 IN5 .771 ET12 .776 IN4 .756 ET3 .767 IN3 .728 ET1 .760 IN1 .698 ET1 .744
+Notes: (1) Extraction method: PAF; (2) Factor rotation: Promax rotation.
+Confirmatory factor analysis (CFA)
+In the CFA process, 401 valid samples were analyzed to evaluate the construct validity, conver- gent  validity,  and  discriminant  validity  of  the  AI  literacy  model,  meeting  the  minimal  sample size requirements (n > 100) (Bollen, 1989). This study adopted commonly used criteria to examine 
+the  observed  fitting  indicators  and  verify  the  structural  validity  of  the  measurement  model. Specifically, SRMR is 0.028 and RMSEA is 0.032, which are both lower than 0.05 and thus meet the requirements. The values of CFI and TLI are 0.979 and 0.978, respectively, both above 0.9 (Bentler,  1990).  The  other  indexes  of  model  fit  (PCMIN/DF,  NFI,  IFI,  PCFI,  etc.)  shown  in Table 5, prove that the new AI literacy model has good construct validity. The structure of the first-order model of AI literacy is presented in Figure 4.
+A measurement model with good convergent validity illustrates a high degree of correlation between measured items of the same latent factors, which can accurately reflect the properties of  the  latent  factors.  According  to  the  reasonable  ranges  of  the  indexes  for:  factor  loadings (>0.70), the Average Variance Extracted (AVE) (>0.50), and Composite Reliability (CR) (>0.70) (Hair et al., 2010), results indicated strong internal correlations among all items and their cor - responding factors (Table 6). The minimum factor loading is 0.764, while the maximum value is  0.830.  Meanwhile,  the  minimum  of  AVE  and  CR  are  0.616  and  0.889,  respectively,  demon- strating  that  this  model  has  good  convergent  validity.  Table  6  shows  all  correlations  and  the square  root  of  AVE.  The  dimensions   square  roots  of  AVE  are  0.790,  0.825,  0.816,  0.797,  and 
+Table 5.  Indexes of model fit by CFA.
+Fit indexes                    Values                                  Criteria                            Summary
+PCMIN/DF RMSEA SRMR CFI        1.434 .032 .028 .979 .978 .902 .979 .934            <3.000 <.050 <.050 >.900Acceptable Acceptable Acceptable
+TLI                                                                    >.900 >.900 >.900 >.900              Acceptable Acceptable Acceptable
+NFI                                                                                                         Acceptable
+IFI                                                                                                         Acceptable
+PCFI
+
+Figure 4.  CFA model of the AI literacy scale.
+0.785, respectively, all higher than the maximum correlation coefficient among the dimensions. It can therefore be presumed that this AI model has good discriminant validity.
+As shown in Table 7, the Cronbach s α values of all constructs ranged between .889 and .969, and McDonald s ω ranged between .883 and .965, which means the internal consistencies of these dimensions were regarded as excellent (DeVellis, 2016). Values of inter-dimension correlation ranged from .569 to .694 (Table 8), showing that each dimension is well related to the others. Additionally, inter-item values were calculated, and their correlations ranged from .238—.694 (Table 9), indicating 
+Table 6.  Standardized regression weights of CFA.
+Path Loading AVE CR Path Loading AVE CR AP01    AP .780 0.635 0.969 AT01    AT .870 .666 .963
+AP02    AP .811 AT02    AT .776
+AP03    AP .792 AT03    AT .767
+AP04    AP .787 AT04    AT .818
+AP05    AP .821 AT05    AT .790
+AP06    AP .795 AT06    AT .860
+AP07    AP .777 AT07    AT .813
+AP08    AP .781 AT08    AT .795
+AP09    AP .797 AT09    AT .870
+AP10    AP .785 AT10    AT .775
+AP11    AP .800 AT11    AT .870
+AP12    AP .830 AT12    AT .815
+AP13    AP .790 AT13    AT .779
+AP14    AP .810 KN1    KN .794 .624 .956 AP15    AP .812 KN2    KN .789
+AP16    AP .788 KN3    KN .792
+AP17    AP .800 KN4    KN .790
+AP18    AP .789 KN5    KN .767
+
+JOURNAL OF RESEARCH ON TECHNOLOGY IN EDUCATION  
+ET01    ET .840 ET02    ET .792 ET03    ET .811 ET04    ET .819 ET05    ET .830 ET06    ET .800 ET07    ET .787 ET08    ET .860
+.680 .968
+KN6    KN .783 KN7    KN .791 KN8    KN .779 KN9    KN .810 KN1    KN .817 KN11    KN .788 KN12    KN .792 KN13    KN .773
+
+JOURNAL OF RESEARCH ON TECHNOLOGY IN EDUCATION  721
+ET09    ET .890 IN01    IN .783 0.635 0.969 ET10    ET .815 IN02    IN .787
+ET11    ET .810 IN03    IN .764
+ET12    ET .815 IN04    IN .796
+ET13    ET .890 IN05    IN .794
+ET14    ET .811
+Table 7.  Comparison of correlations and squarer root of AVE.
+                                     KN                                                   ET                    AT                      AP                      IN
+                                     KN                                                   .548 .536 .506 .825   .554 .511 .816          .538 .797               .785
+                                     ET .516 AT .467 AP .481 IN .496 Square root AVE .790
+                                     Table 8.  The results of reliability test.
+Dimensions Inter-dimension correlation Cronbach sα McDonald s ω
+No. of items Lower-division Upper-division
+AI knowledge 13 .570 .680 .955 .956 AI ethics 14 .605 .693 .963 .963 AI attitude 13 .569 .685 .947 .949 AI application 18 .571 .694 .969 .965 AI innovation 5 .581 .644 .889 .883
+Table 9.  The results of inter-item correlation.
+                         AI knowledge                 AI ethics           AI attitude           AI application           AI innovation
+AI knowledge AI ethics   .570—.680 .259—.345          .605—.693 .250—.325 .569—.685 .238—.344   .571—.694 .283—.353      .581—.644
+AI attitude               .275—.370 .274—.380          .294—.362           .276—.392
+AI application AI         .277—.372                    .258—.384
+ innovation
+moderate to above-average correlations between items in each dimension. Together, these results supported the appropriateness of items in this structure for factor analysis (Clark & Watson,  1995). Thus, the established constructs of AI literacy were proved to be reliable and stable.
+Discussion
+This  study  developed  an  AI  literacy  model  for  university  students  that  was  theoretically  con- nected  to  the  structure  of  educational  goals.  Using  two-step  factor  analysis,  we  were  able  to demonstrate  the  reliability  and  validity  of  the  structure  that  involves  five  distinct  constructs, namely  AI  knowledge,  application,  ethics,  attitude,  and  innovation.  These  components  of  AI literacy  do  not  adhere  to  a  strict  hierarchical  order,  but  they  are  strongly  laterally  connected. The results indicated that most dimensions verified here are aligned with previous scales (Carolus et al., 2023; Laupichler et al., 2023; Ng et al., 2023). Differently, the domain of AI innovation has  been  added,  the  reason  could  be  the  specific  requirements  of  the  university  context,  con- sistent with arguments that literacy models must shed light on the knowledge and skills needed to creatively apply AI (Kong et al., 2021; Lin et al., 2021).
+Knowledge and application are basic components in most AI literacy models (Ng et al., 2023; Zhang et al., 2022). Likewise, this study valued AI knowledge and AI application as indispensable foundational elements for equipping students with the information needed to navigate the com - plex landscape of AI technologies. This required the development of AI education as a general course in higher education (Katsantonis & Katsantonis, 2024; Kong et al., 2021). The evaluation of  AI  application  served  to  assess  how  students  utilize  their  AI  knowledge  to  solve  problems and finish tasks, which can promote their ethical, optimized, and effective usage of such tools. We viewed the design of these evaluation details as a starting point that can offer a reference for designing the curriculum s objectives.
+Consistent  with  the  findings  in  some  studies  (Celik, 2023;  Ng  et al., 2023),  AI  ethics  must be a sub-scale in evaluating AI literacy, since it protects ideological security to ensure reasonable and  sustainable  utilization.  It  is  crucial  to  foster  appropriate  values  among  students  using  AI. However, the complexity of this concept led to a lack of sufficient prior knowledge or a limited ability to engage with the ethical challenges (Akgun & Greenhow, 2022; Segun, 2021). A common concern is that generative AI language models are popular among university students, but many of them often ignore moral and legal issues (e.g., data reliability, copyright, and accountability) (Lund  et al., 2023).  Thus,  more  effort  should  be  put  into  reminding  students  how  to  use  and evaluate AI responsibly and morally in their studies and lives.
+Compared to common emotional constructs, like individual acceptance of and anxiety toward AI technology (Schepman & Rodway, 2020; Wang & Wang, 2022), this scale extended the range of AI attitudes by adding subjective reasons and motivation for students  optimistic or negative attitudes  toward  new  technology  from  a  psychological  perspective.  Given  the  potential  ethical issues (e.g., plagiarism) and risks (e.g., over-reliance on machines), the breadth and depth of AI integration into higher education is controversial (Lin et al., 2021; Zhang et al., 2022). Therefore, examining  students   attitudes  and  reasons  behind  students   opinions,  such  as  motivation  and self-efficiency, is necessary.
+Different  from  several  existing  models  where  AI  innovation  is  not  explicitly  mentioned (Laupichler et al., 2023; Ng et al., 2023), this study first identified AI innovation as a separate sub-scale, showing the importance of creative thinking and behaviors in Chinese higher educa- tion. In line with other Chinese research (Chai et al., 2020; Dai et al., 2020), innovative ability is one of the most critical goals of high-quality talent training and man-machine collaboration. The  primary  reason  was  that  the  nature  of  AI  requires  individuals  to  apply  it  in  flexible  and innovative ways (Kandlhofer et al., 2016; Li et al., 2023). Although Carolus et al. (2023) iden- tified  Create  AI   in  AI  literacy,  our  findings  subdivided  innovative  awareness  and  innovative action based on this.
+Implications and limitations
+This  article  contributes  to  building  a  comprehensive  structure  that  clearly  defines  components of AI literacy and can be used to evaluate university students  levels and progress. By encom- passing a wide range of information, this scale can improve clarity for respondents and facilitate a  more  intricate  analysis  of  complex  constructs.  This  newly  developed  assessment  can  inform related instructional strategies, curriculum design, and the integration of competencies into the university  setting.  For  instance,  effective  measurement  enables  educators  to  tailor  teaching approaches that address students  understanding of AI concepts, skills, and ethical considerations. In  terms  of  theoretical  implications,  it  verifies  the  suitability  of  the  assessment  framework  to educational objectives taxonomy, which functions as a theoretical basis for the categorical objec- tives of AI education content.
+The  research  limitation  might  lie  in  contextual  generalizability  since  the  current  data  was collected  from  five  representative  Chinese  universities.  Further  adaptability  of  the  model  is suggested  by  generalizing  the  results  of  students  from  more  universities  and  regions.  If  there are contextual differences, cross-cultural comparative analysis regarding AI literacy is therefore necessary. In addition, qualitative research approaches are suggested to address these questions in  more  depth  and  uncover  explanations  behind  students   AI  application  behaviors  and  their attitudes toward the rapid iteration of AI technology. We could conduct longitudinal studies in the future, which can continually improve the understanding and update the model of AI literacy to keep up with the rapid development of AI technology.
+Conclusion
+Education in the AI era must equip students with literacy in the use of educational technology needed to enrich their learning opportunities, pursue their careers, facilitate their work effec- tiveness,  and  cultivate  them  as  responsible  digital  citizens.  This  study  provides  an  updated model of AI literacy and a five-factor assessment scale for university students by reconstructing its conceptualization, which advances the research field of AI integration into higher education. We  offer  the  first  validated  measurement  tool  across  multifaceted  indexes  grounded  in  the theoretical  perspective  of  educational  objective  classification  for  Chinese  universities,  which could be an adaptable model for assessing AI literacy in diverse cultural contexts. The results underscore  the  importance  of  integrating  ethics,  attitudes,  and  innovation  into  AI  literacy assessments,  expanding  beyond  knowledge-based  and  technical  application  approaches.  It contributes  to  quantifying  the  evaluation  criteria  that  examine  whether  students  have  the capacity  to  use  AI  effectively.  This  article  has  practical  implications  for  policymakers  in designing targeted inventions and for university educators in using the information to assess students   AI  literacy  development  and  adjust  corresponding  cultivating  programs  to  improve AI literacy.
+Disclosure statement
+The authors declare that they have no competing interests.
+Funding
+This study was supported by Zhejiang Province Education Science Planning Research Project (2024SCG357).
+Notes on contributors
+Sijia  Han  is  a  graduate  student  at  College  of  Education,  Zhejiang  Normal  University.  Her  research  interests  are technology integration into curriculum and science education.
+Yuting Zhang is a lecturer at College of Education, Zhejiang Normal University. Her areas of expertise are educa- tional technology, technological leadership, and students  ICT competency.
+ORCID
+Yuting Zhang  http://orcid.org/0000-0003-2353-8711
+References
+Akgun,  S.,  &  Greenhow,  C.  (2022).  Artificial  intelligence  in  education:  Addressing  ethical  challenges  in  K-12 
+settings. AI and Ethics, 2(3), 431—440. https://doi.org/10.1007/s43681-021-00096-7
+Bentler, P. M. (1990). Comparative fit indexes in structural models. Psychological Bulletin, 107(2), 238—246. https://
+doi.org/10.1037/0033-2909.107.2.238
+Bollen, K. A. (1989). A new incremental fit index for general structural equation models. Sociological  Methods  & 
+Research, 17(3), 303—316. https://doi.org/10.1177/0049124189017003004
+Chai,  C.  S.,  Wang,  X.,  &  Xu,  C.  (2020).  An  extended  theory  of  planned  behavior  for  the  modelling  of  Chinese 
+secondary  school  students   intention  to  learn  artificial  intelligence.  Mathematics,  8(11),  2089.  https://doi. org/10.3390/math8112089
+Casal-Otero,  L.,  Catala,  A.,  Fern ndez-Morante,  C.,  Taboada,  M.,  Cebreiro,  B.,  &  Barro,  S.  (2023).  AI  literacy  in 
+K-12: A systematic literature review. International Journal of STEM Education, 10(1), 29. https://doi.org/10.1186/ s40594-023-00418-7
+Carolus,  A.,  Koch,  M.  J.,  Straka,  S.,  Latoschik,  M.  C.,  &  Wienrich,  C.  (2023).  MAILS-Meta  AI  literacy  scale: 
+Development and testing of an AI literacy questionnaire based on well-founded competency models and psycho- logical change and meta-competencies. Computers in Human Behavior: Artificial Humans, 1(2), 100014. https:// doi.org/10.1016/j.chbah.2023.100014
+Celik,  I.  (2023).  Towards  intelligent-TPACK:  An  empirical  study  on  teachers   professional  knowledge  to  ethically 
+integrate  artificial  intelligence  (AI)-based  tools  into  education.  Computers  in  Human  Behavior,  138,  107468. https://doi.org/10.1016/j.chb.2022.107468
+Clark, L. A., & Watson, D. (1995). Constructing validity: Basic issues in objective scale development. Psychological 
+Assessment, 7(3), 309—319. https://doi.org/10.1037/14805-012
+Dai, Y., Chai, C. S., Lin, P. Y., Jong, M. S. Y., Guo, Y., & Qin, J. (2020). Promoting students  well-being by devel-
+oping  their  readiness  for  the  artificial  intelligence  age. Sustainability,  12(16),  6597.  https://doi.org/10.3390/ su12166597
+DeVellis, R. F. (2016). Scale development: Theory and applications. Sage Publications.
+Fabrigar, L. R., Wegener, D. T., MacCallum, R. C., & Strahan, E. J. (1999). Evaluating the use of exploratory factor 
+analysis in psychological research. Psychological Methods, 4(3), 272—299. https://doi.org/10.1037/1082-989X.4.3.272 Falloon, G. (2020). From digital literacy to digital competence: The teacher digital competency (TDC) framework. 
+Educational Technology Research and Development, 68(5), 2449—2472. https://doi.org/10.1007/s11423-020-09767-4 Frey,  C.  B.,  &  Osborne,  M.  A.  (2017).  The  future  of  employment:  How  susceptible  are  jobs  to  computerization? 
+Technological Forecasting and Social Change, 114, 254—280. https://doi.org/10.1016/j.techfore.2016.08.019
+Gravetter, F. J., & Wallnau, L. B. (2017). Essentials of statistics for the behavioral sciences (9th ed.). Cengage Learning. Gong, X., Tang, Y., Liu, X., Jing, S., Cui, W., Liangd, J., & Wanga, F.-Y. (2020). K-9 artificial intelligence education 
+in Qingdao: Issues, challenges and suggestions. In 2020 IEEE International Conference on Networking, Sensing and Control. IEEE. https://doi.org/10.1109/ICNSC48988.2020.9238087
+Gorsuch, R. L. (1983). Factor analysis (2nd ed.). Psychology Press.
+Hair, J. F., Babin, B. J., & Anderson, R. E. (2010). Multivariate data analysis (7th ed.). Prentice Hall.
+Hu,  L.  t.,  &  Bentler,  P.  M.  (1999).  Cutoff  criteria  for  fit  indexes  in  covariance  structure  analysis:  Conventional 
+criteria versus new alternatives. Structural Equation Modeling: A Multidisciplinary Journal, 6(1), 1—55. https://doi. org/10.1080/10705519909540118
+Jang,  Y.,  Choi,  S.,  &  Kim,  H.  (2022).  Development  and  validation  of  an  instrument  to  measure  undergraduate 
+students   attitudes  toward  the  ethics  of  artificial  intelligence  (AT-EAI)  and  analysis  of  its  difference  by  gender 
+and  experience  of  AI  education.  Education  and  Information  Technologies,  27(8),  11635—11667. https://doi. org/10.1007/s10639-022-11086-5
+Katsantonis, A., & Katsantonis, I. G. (2024). University students  attitudes toward artificial intelligence: An explor-
+atory  study  of  the  cognitive,  emotional,  and  behavioural  dimensions  of  AI  attitudes. Education  Sciences, 14(9), 988. https://doi.org/10.3390/educsci14090988
+Kandlhofer,  M.,  Steinbauer,  G.,  Hirschmugl-Gaisch,  S.,  &  Huber,  P.  (2016).  Artificial  intelligence  and  computer 
+science  in  education:  From  kindergarten  to  university.  In  2016  IEEE  Frontiers  in  Education  Conference.  IEEE. https://doi.org/10.1109/FIE.2016.7757570
+Kong,  S.-C.,  Cheung,  W.  M.-Y.,  &  Tsang,  O.  (2023).  Evaluating  an  artificial  intelligence  literacy  programme  for 
+empowering and developing concepts, literacy and ethical awareness in senior secondary students. Education and Information Technologies, 28(4), 4703—4724. https://doi.org/10.1007/s10639-022-11408-7
+Kong,  S.-C.,  Man-Yin  Cheung,  W.,  &  Zhang,  G.  (2021).  Evaluation  of  an  artificial  intelligence  literacy  course  for 
+university  students  with  diverse  study  backgrounds.  Computers  and  Education:  Artificial  Intelligence, 2,  100026. https://doi.org/10.1016/j.caeai.2021.100026
+Laupichler,  M.  C.,  Aster,  A.,  &  Raupach,  T.  (2023).  Delphi  study  for  the  development  and  preliminary  validation 
+of an item set for the assessment of non-experts  AI literacy. Computers and Education: Artificial Intelligence, 4, 100126. https://doi.org/10.1016/j.caeai.2023.100126
+Lee,  I.,  Ali,  S.,  Zhang,  H.,  DiPaola,  D.,  &  Breazeal,  C.  (2021).  Developing  middle  school  students   AI  literacy.  In 
+Proceedings of the 52nd ACM Technical Symposium on Computer Science Education. Association for Computing Machinery. https://doi.org/10.1145/3408877.3432513
+Li, H., Wang, Y., & Zhang, M. (2023). Research on the framework of AI literacy for higher vocational students in 
+the intelligent era. Western Quality Education, 9(6), 89—181. https://doi.org/10.16681/j.cnki.wcqe.202306022
+Lin, P.-Y., Chai, C.-S., Jong, M. S.-Y., Dai, Y., Guo, Y., & Qin, J. (2021). Modeling the structural relationship among 
+primary  students   motivation  to  learn  artificial  intelligence.  Computers  and  Education:  Artificial  Intelligence,  2, 100006. https://doi.org/10.1016/j.caeai.2020.100006
+Long,  D.,  &  Magerko,  B.  (2020).  What  is  AI  literacy?  Competencies  and  design  considerations.  In Proceedings  of 
+the  2020  CHI  Conference  on  Human  Factors  in  Computing  Systems.  Association  for  Computing  Machinery. https://doi.org/10.1145/3313831.3376727
+Lund, B. D., Wang, T., Mannuru, N. R., Nie, B., Shimray, S., & Wang, Z. (2023). ChatGPT and a new academic real-
+ity: Artificial Intelligence-written research papers and the ethics of the large language models in scholarly publishing. 
+Journal of the Association for Information Science and Technology, 74(5), 570—581. https://doi.org/10.1002/asi.24750 MOEC.  (2018).  Action  plan  for  artificial  intelligence  innovation  of  universities.  http://www.moe.gov.cn/srcsite/A16/
+s7062/201804/t20180410_332722.html
+Ng, D. T. K., Leung, J. K. L., Chu, K. W. S., & Qiao, M. S. (2021). AI literacy: Definition, teaching, evaluation and 
+ethical issues. Association for Information Science and Technology, 58(1), 504—509. https://doi.org/10.1002/pra2.487 Ng, D. T. K., Leung, J. K. L., Su, J., Ng, R. C. W., & Chu, S. K. W. (2023). Teachers  AI digital competencies and 
+twenty-first  century  skills  in  the  post-pandemic  world.  Educational  Technology  Research  and  Development:  ETR 
+& D, 71(1), 137—161. https://doi.org/10.1007/s11423-023-10203-6
+Ng,  D.  T.  K.,  Wu,  W.,  Leung,  J.  K.  L.,  Chiu,  T.  K.  F.,  &  Chu,  S.  K.  W.  (2024).  Design  and  validation  of  the  AI 
+literacy  questionnaire:  The  affective,  behavioural,  cognitive  and  ethical  approach. British  Journal  of  Educational Technology, 55(3), 1082—1104. https://doi.org/10.1111/bjet.13411
+Russell, D. W. (2002). In search of underlying dimensions: The use (and abuse) of factor analysis in personality and social 
+psychology bulletin. Personality and Social Psychology Bulletin, 28(12), 1629—1646. https://doi.org/10.1177/014616702237645 Schepman,  A.,  &  Rodway,  P.  (2020).  Initial  validation  of  the  general  attitudes  towards  artificial  intelligence  scale. 
+Computers in Human Behavior Reports, 1, 100014. https://doi.org/10.1016/j.chbr.2020.100014
+Segun,  S.  T.  (2021).  From  machine  ethics  to  computational  ethics.  AI  &  Society,  36(1),  263—276. https://doi.
+org/10.1007/s00146-020-01010-1
+Shang, H., & Sivaparthipan, C. B. (2022). Interactive teaching using human-machine interaction for higher educa -
+tion systems. Computers and Electrical Engineering, 100, 107811. https://doi.org/10.1016/j.compeleceng.2022.107811 UNESCO.  (2019).  Beijing  consensus  on  artificial  intelligence  and  education.  In  International  Conference  on 
+Artificial Intelligence and Education  Planning education in the AI era: Lead the leap . UNESCO.
+Wang, B., Rau, P. L. P., & Yuan, T. (2023). Measuring user competence in using artificial intelligence: Validity and 
+reliability  of  artificial  intelligence  literacy  scale. Behaviour  &  Information  Technology, 42(9),  1324—1337. https:// doi.org/10.1080/0144929X.2022.2072768
+Wang, Y. Y., & Wang, Y. S. (2022). Development and validation of an artificial intelligence anxiety scale: An initial 
+application in predicting motivated learning behavior.  Interactive Learning Environments, 30(4), 619—634. https:// doi.org/10.1080/10494820.2019.1674887
+Widaman, K. F. (1993). Common factor analysis versus principal component analysis: Differential bias in represent-
+ing  model  parameters?  Multivariate  Behavioral  Research,  28(3),  263—311. https://doi.org/10.1207/s15327906m- br2803_1
+Zhang, H., Lee, I., Ali, S., DiPaola, D., Cheng, Y., & Breazeal, C. (2022). Integrating ethics and career futures with 
+technical learning to promote AI literacy for middle school students: An exploratory study. International Journal of Artificial Intelligence in Education, 33(2), 1—35. https://doi.org/10.1007/s40593-022-00293-3
+Appendix A. The scale of Al literacy for Chinese university students
+AI Knowledge
+1. I know what AI is.
+2. I can understand basic AI knowledge.
+3. I can name the strengths and weaknesses of AI.
+4. I can explain why AI has become increasingly important.
+5. I know some working principles behind AI, like decision trees and natural language processing.
+6. I can describe how biases arise in AI systems.
+7. I understand how AI receives information and interacts with people to handle various tasks.
+8. I understand the reasoning and decision-making processes of AI technologies.
+9. I can tell the differences between similar AI concepts, such as deep learning, machine learning, and reinforcement learning.
+10. I can tell if I am dealing with an application based on AI.
+11. I can distinguish devices that use AI from devices that do not.
+12. I can distinguish if I am interacting with AI or humans.
+13. I can distinguish the differences between assignments done by interactive AI and those done by humans.
+AI Ethics
+14. I think that AI ethics is important to guide AI applications.
+15. I think that the misuse of AI can cause potential risks.
+16. I agree with being alert to the abuse of AI technologies.
+17. When using the data or information provided by AI platforms, I consider the ethical issues.
+18. I think that users should be responsible for considering AI design and decision processes.
+19. I know potential legal problems that may arise when using AI.
+20. I think AI systems should meet ethical and legal standards.
+21. I think AI systems need to be rigorously tested.
+22. I think AI systems should minimize bias over data, like gender and ethnicity.
+23. I think that AI systems should respect privacy.
+24. I can describe the role of humans in the development of AI systems.
+25. I can describe the potential impacts of AI on individuals and society.
+26. I agree with the people-centered principle when using AI.
+27. I can prevent an AI from influencing me in my decisions.
+AI Attitude
+28. There are many benefits of using AI applications.
+29. AI can provide new opportunities for study.
+30. I think some complex decisions are best left to the AI system.
+31. I think AI has enriched human study, work, and life.
+32. I think AI can promote human development.
+33. I learn AI because it is related to my study and work content.
+34. Learning AI applications is interesting.
+35. I am curious about discovering new AI technologies.
+36. Learning AI applications makes my life more meaningful.
+37. I am confident in my performance on AI-related tasks and projects.
+38. I believe I can master AI knowledge and skills.
+39. I believe I can achieve good grades in AI-related assessments.
+AI Application
+40. Learning AI applications is not very difficult for me.
+41. I can use AI applications to make my daily study easier.
+42. I can use AI to achieve my daily goals.
+43. I can find AI resources to support my study.
+44. I can skillfully use AI applications to help my daily study and life.
+45. I can choose AI tools to complete complex tasks.
+46. I can comprehensively evaluate AI s functions after usage.
+47. I can critically evaluate the implications of AI applications in a certain subject area.
+48. I can choose a proper solution from various solutions provided by AI.
+49. I actively participate in AI learning activities.
+50. I take initiatively to collect AI learning materials.
+51. I learn effectively in AI-related learning tasks.
+52. I often try to explain AI applications to my classmates.
+53. I am willing to work with my classmates to complete AI learning tasks and projects.
+54. I often spend my spare time discussing AI with my classmates.
+55. I usually ask classmates for help when encountering difficulties in AI activities.
+56. I can choose the appropriate AI tools based on actual problems.
+57. I can use AI technologies to create an intelligent environment for complex problems.
+58. I can use AI devices to expand cognition when dealing with complicated tasks.
+AI Innovation
+59. I can keep myself updated with the latest innovations in AI applications.
+60. I can use AI applications to find out innovative solutions to problems.
+61. I will continue to use AI innovatively in the future.
+62. I plan to explore new features of AI applications in the future.
+63. I can imagine possible future uses of AI.

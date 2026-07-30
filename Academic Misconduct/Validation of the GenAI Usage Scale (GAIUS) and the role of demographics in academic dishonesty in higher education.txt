@@ -1,0 +1,307 @@
+﻿INNOVATIONS IN EDUCATION AND TEACHING INTERNATIONAL  https://doi.org/10.1080/14703297.2025.2603622 
+
+Validation of the GenAI Usage Scale (GAIUS) and the role of demographics  in academic dishonesty  in higher education
+Aizhan Shomotova , Salwa Husain and Areej Elsayary
+College of Interdisciplinary Studies, Zayed University, Abu Dhabi, United Arab Emirates
+
+ABSTRACT
+This study introduces  and validates the GenAI Usage Scale (GAUS) to explore  the  link between  students   use of Generative  AI (GenAI) and academic  dishonesty  in higher  education.  Based on  data  from 186 undergraduate  students  at a public university in the  UAE, the  study identified three key dimensions of GenAI usage: Perceived Educational Value, Current Usage Patterns, and Perceived Utility. The scale showed strong  reliability and  model  fit. Perceived  Utility emerged  as  the strongest  predictor  of academic  dishonesty,  while  frequent  GenAI users were  less likely to misuse  AI. High-achieving  students  avoided submitting  fully AI-generated  work  but  were  more  likely to  omit acknowledging AI use. Gender and age had little effect on dishonesty behaviours. These findings highlight the need for institutional policies that  regulate  GenAI use  based  on  usage  patterns  rather  than  strict bans, ensuring  ethical AI use while maintaining  academic  integrity.
+KEYWORDS 
+General arti cial intelligence; GenAI; higher education; academic dishonesty; scale development; UAE
+
+Introduction
+The expansion of higher education and advanced technologies have intensified concerns about  academic  dishonesty.  Holden et al. (2021) note  that  the  Internet  already enables students  to  access  unauthorised  resources  and  plagiarise  content.  The emergence  of Generative  Artificial Intelligence  (GenAI) has  further  complicated  this, automating  text, summaries,  and  assignments,  and  blurring lines between  legitimate  assistance  and  mis- conduct  (Perkins, 2023).
+Academic dishonesty  remains  a fundamental  challenge  in higher  education,  influen- cing  students   ethical  and  professional  development  (Guerrero-Dib et  al., 2020). While traditional frameworks focus on preventing cheating through fairness and intrinsic learn-
+ing value, GenAI introduces  complexities  that  disrupt  these  approaches  (Sullivan et al.,  2023). Despite  growing  awareness  of these  risks, many  stakeholders  underestimate  AI- enabled  dishonesty  (Wheelahan & Moodie, 2024).
+While studies have explored AI in education (Gamage et al., 2020), there is still a gap in validated  tools  to assess  student  engagement  with GenAI technologies  and  its impact. The UAE, with  its rapid  tech  adoption  and  government  AI initiatives, is a critical case. However, little research has been done on how higher education students in the UAE use GenAI and how this aligns with academic  integrity values.
+CONTACT Aizhan Shomotova  aizhanshom@gmail.com  College of Interdisciplinary Studies, Zayed University, Abu Dhabi, United Arab Emirates
+'  2025 Informa UK Limited, trading as Taylor & Francis Group 
+
+INNOVATIONS IN EDUCATION AND TEACHING INTERNATIONAL 19
+This study addresses a research gap by developing and validating the GenAI Usage Scale (GAIUS), the first tool for measuring  AI usage  in UAE higher education,  and its relationship with academic  dishonesty.  It contributes  to a growing  global conversation  while offering localised insights that  can guide  policy and curriculum development in higher  education
+Specifically, this research  aims to:
+● Develop  and  validate  a psychometrically  robust  instrument  for measuring  GenAI usage  among  higher education  students.
+● Examine the  relationship  between  GenAI usage  type  and  academic  dishonesty behaviours.
+By offering the first validated scale focused on GenAI use in education, this study provides both  a  methodological  tool  for  future  research  and  actionable  insights  for  policy development.
+Students  usage  of GenAI in higher education
+The effects of GenAI use in higher  education  are complex, offering learning benefits  but also significant challenges related to academic integrity and student performance. Doğru (2023) highlighted  how  tools  like ChatGPT influence  student  behaviour  and  reshape science education. For example, GenAI can improve academic communication and under - standing  but also raises concerns  about  critical thinking and ethical usage, necessitating a balanced  approach.
+On the positive side, they enhance  academic  skills, comprehension,  and engagement, supporting  writing,  grammar,  and  concept  mastery  (Liu et  al., 2024). They improve efficiency by streamlining  learning  and  providing  immediate  feedback,  particularly ben- efiting  students  with language  barriers  or limited  academic  support  (Daher & Hussein,  2024; Wiredu et al., 2024). Furthermore,  they align with digital learning  trends,  fostering self-efficacy and engagement (Shahzad et al., 2025; Wang et al., 2023).
+However, these benefits bring significant risks. Overreliance on GenAI can compromise academic  integrity, with studies linking AI use to increased academic  dishonesty (Wiredu et al., 2024). Additionally, students  relying on GenAI may experience  diminished  perfor- mance  in assessments,  particularly those  requiring independent problem-solving  (Wecks et  al., 2024). GenAI raises concerns  about  its impact  on  critical thinking  and  creativity, which are essential  for long-term  academic  success (Liu et al., 2024).
+Balancing  GenAI s benefits  and  risks requires  structured  integration  into  curricula. Institutions must establish clear guidelines, promote ethical AI use, and design assessments that  encourage  independent  thinking  (Playfoot et al., 2024; Sa de  et al., 2024; Susnjak & McIntosh, 2024; Yavich & Davidovitch,  2024). By fostering  responsible  AI engagement, universities can maximise GenAI s benefits  while maintaining  academic  integrity.
+Generative AI usage  and academic dishonesty  in higher education
+While GenAI tools offer innovative ways to enhance learning, personalise instruction, and increase  student  engagement  (Blake, 2024; Dowling & Li, 2025; Tan et  al., 2024), they simultaneously complicate academic dishonesty. This duality underscores the urgency of 
+addressing  the  implications of GenAI use in higher  education  through  empirical investi- gation. GenAI enables  students  to automate  academic  tasks, from summarising  readings to composing essays. As such, they can compromise the authenticity of student work and undermine  traditional  assessment  reliability (Bittle & El-Gayar, 2025). For instance, ChatGPT s near-perfect scores in traditional assessments create problems for unproctored formats, where such evaluation  no longer accurately measure  students   skills (Akintande,  2024). Additionally, the easy accessibility and convenience of AI tools normalise dishonest practices, especially among  students  experiencing  academic  stress or lacking confidence (Ward et  al., 2024; Yavich & Davidovitch, 2024). Moreover, ethical  dilemmas  — such  as blurred authorship and diminished critical thinking — are increasingly reported by instruc- tors (Chavez et al., 2024; Sharma & Bauman, 2025).
+In UAE higher  education,  students  see ChatGPT as boosting  productivity  and helping with language challenges, but concerned about over-reliance on AI and fairness or bias in outputs  (Farhi et al., 2024; Gruenhagen  et al., 2024). Nguyen and Goto (2024) found that male students  were more dishonest  regarding  GenAI usage  than  females. Indirect ques- tioning  revealed  higher  cheating  rates  than  direct  surveys, suggesting  underreporting due  to  fear or social desirability  bias. Sweeney  (2023) and  Me a  and  Shk lzeni  (2023) compare  GenAI use  to  contract  cheating,  where  students  outsource  learning  to technology.
+Mitigating academic dishonesty  with generative  AI
+Several approaches  have been  suggested  to counteract  GenAI misuse in education.  One strategy  involves redesigning  assessments  to reduce  reliance on GenAI tools. Akintande (2024) demonstrated  that  unconventional,  thought-provoking  questioning  strategies reduced  the  effectiveness  of AI tools  and  encouraged  authentic  learning.  Similarly, Cotton  et  al. (2024) recommend  oral presentations  and  collaborative  tasks to  promote originality  and  reduce  AI dependence.  Likewise, studies  suggested  integrating  multi- modal  elements,  like visuals and  video  to  encourage  critical thinking  and  academic integrity  (Playfoot et al., 2024; Susnjak & McIntosh, 2024). Educating  students  on GenAI ethics  is another  fundamental  strategy.  Yavich and  Davidovitch (2024) highlighted  the pivotal  role  of ethics  education  in creating  a  culture  of honesty  and  rejecting  the rationalisations  for AI misuse. Moreover, Dalalah and  Dalalah (2023) noted  that  current AI detection  systems often  fail to accurately  differentiate  between  human-authored and AI-generated  texts,  particularly  in complex  essays,  leading  to  wrongful  accusations  of misconduct.  Collectively, these findings underscore the urgent need for improved detec - tion methods  and refined policies to ensure  fairness in academic  evaluations.
+Methodology
+Data collection
+This study was approved by the Social Sciences Research Ethics Committee (ZU24_003_F) and  conducted  at a public university in the  UAE. Data collection occurred  in Spring and Fall 2024 via Microsoft Forms, targeting  students  in six general  education  courses  for broad  academic  representation.  Participants  were  recruited  through  classroom 
+announcements  and  emails, with  voluntary  participation  and  assured  anonymity.  The final sample  included  186  undergraduates  (mean  age = 19, SD = 1.10, range:  18—23), 68.3% female first- and  second-year  General Education  students  from the  same  college. Academic performance  varied, with 36.8% having  a CGPA between  3.31 and  4.00, and GenAI usage  frequency  ranged  from  daily (38.2%) to  never  used  (2.7%). Nearly all participants (98.4%) had prior experience with GenAI. While the sample provides valuable insights, potential  limitations include self-selection bias and limited generalisability.
+Data analysis
+Exploratory Factor Analysis (EFA) was conducted  using  Jamovi (ver. 28) with maximum likelihood extraction and oblimin rotation, evaluating model fit indices such as chi-square 
+to degrees of freedom ratio, Comparative Fit Index (CFI), Standardized Root Mean Squared Residual (SRMR), and  Root Mean  Square  Error of Approximation.  Items  (RMSEA) with factor  loadings  above  0.50 were  retained,  while  those  between  0.40 and  0.70 were evaluated  based  on their impact  on composite  reliability (Hair et al., 2019; Hu & Bentler,  1999). Confirmatory  Factor Analysis (CFA) was performed  to  confirm construct  validity using  fit  indices  including  chi-square,  CFI, RMSEA, and  Tucker-Lewis Index  (TLI). A significant chi-square  (χ2) value indicates  rejection  of the  null hypothesis,  suggesting the  model  may not perfectly fit the  population;  however,  nonsignificant  chi-square  (p >  0.05) supports a good fit (Bentler, 1990). The normed chi-square (χ2/df) statistic was used, with a value of 3.0 or below indicating acceptable fit. Statistical analyses included multiple regression  to examine  relationships  between  GenAI usage  and  its frequency,  academic performance,  age, gender  and academic  dishonesty.
+Results
+Development  and validation of GAIUS
+The GenAI Usage Scale (GAIUS) was developed  through  a systematic  multi-step  process that  ensured  its initial content  validity and  conceptual  clarity before  proceeding  to EFA and CFA. The initial item pool was generated through a comprehensive review of relevant literature  on  GenAI in education  and  academic  integrity,  alongside  expert  input  from certified educators with practical experience in GenAI integration. These experts assessed the  relevance, clarity, and appropriateness of the  items, resulting  in refinements  to item wording and construct representation. A pilot test was conducted with a small sample (n  
+= 22) of undergraduate students  to evaluate  the  clarity and reliability of the  instrument. The revised  version  of the  instrument,  which  included  13  GenAI usage  items  and  6 academic  dishonesty  items  (see  Table 1), was  administered  to  the  full study  sample. This structured  development  process  strengthened  the  psychometric  soundness  of the scale prior to conducting  EFA and CFA.
+Validation of GAIUS: Exploratory factor analysis
+Bartlett s  Test  of  Sphericity  was  conducted  to  examine  the  statistical  likelihood  of significant  correlations  between  components  in  the  correlation  matrix.  The  results 
+Table 1. Descriptive statistics of the GenAI usage scale (GAIUS) and academic dishonesty and integrity items.
+ Codes      Statements Mean                                               Standard     Skewness     Std. error skewness       Std. error
+                                                                           deviation                 Kurtosis                   kurtosis
+ Item 1     GenAI tools (e.g. ChatGPT) should be  3.55                    1.01 1.03  −0.258       0.18      −0.247      0.357
+  Item 2    integrated into the classroom.                                 0.897      −0.647       0.181    0.0888       0.359
+  Item 3    Students must learn how to use GenAI tools  3.69               0.957      −0.587       0.181     0.339 1.27  0.359
+  Item 4    well for their careers.                                        1          −1.19        0.18      1.06        0.358
+  Item      GenAI tools (e.g. ChatGPT) can improve my  3.76               1.07 1.09   −1.11        0.181    0.0447       0.359
+  5         digital competence.                                            1.11 1.08        −0.6740.181     0.0297      0.36 0.359
+ Item 6     GenAI tools (e.g. ChatGPT) can help me save  4.15              1.24             −0.754 0.181     −0.384      0.359
+  Item 7    time.                                                         1.15 1.07    0.441 0.116 0.181     −0.526      0.359
+  Item 8    GenAI tools (e.g. ChatGPT) can provide me  4.06                1.22             −0.429 0.181     −0.774      0.359
+  Item 9    with new ideas that I may not have                            0.74 1.13  −0.0575       0.181    −0.765      0.36 0.362
+  Item      thought of myself.                                            1.17 1.18  0.575 −0.477 0.181      −0.486      0.358
+  10        GenAI tools (e.g. ChatGPT) can provide me  3.76                1.24      2.03 0.936    0.182     −0.643     0.361 0.361
+ Item 11    with feed-back on my assignments.                             1.16       1.02 0.078    0.18     4.4 0.056   0.363
+  Item 12   I use GenAI tools (e.g. ChatGPT) because it is  3.73                      0.709       0.182     0.0947       0.362
+  Item      available and accessible 24/7.                                           0.539         0.182     −0.78       0.362
+  13        I use GenAI tools (e.g. ChatGPT) for my  2.51                                         0.183      −0.555     0.361
+ DIS1 DIS2  assignments because it is anonymous.                                                   0.182    −0.557
+ DIS3 DIS4  I use GenAI tools because it provides accurate  2.72                                   0.182
+  DIS5      and reliable information.                                                             0.182
+ DIS6       I use GenAI tools (e.g. ChatGPT) for my  3.33
+            assignments to improve my English 
+            grammar and spelling.
+            I use GenAI tools (e.g. ChatGPT) in writing  2.86
+            tasks.
+            I use GenAI tools (e.g. ChatGPT) in my verbal  2.18
+            contribution in the class.
+            I use GenAI tools (e.g. ChatGPT) because it  3.47
+            can provide academic support services 
+            (e.g. answer my questions, summarise 
+            readings, etc.)
+            I submit a full paper generated by GenAI  1.41
+            tools (e.g. ChatGPT) as my own work.
+            I paraphrase and edit a work generated by  2.01
+            GenAI tools (e.g. ChatGPT) and submit it as 
+            my own work.
+            I cite information generated by GenAI tools  2.01
+            (e.g. ChatGPT) in my work.
+            GenAI tools (e.g. ChatGPT) encourage and  2.71
+            facilitate academic misconduct.
+            I use GenAI tools (e.g. ChatGPT) in class  2.21
+            activities without the instructor s 
+            permission.
+            I use GenAI tools (e.g. ChatGPT) for class  2.28
+            activities without acknowledging the help 
+            of the GenAI tools.
+Note: DIS is an indicator code for academic dishonesty and integrity statements used in this study.
+were  significant  (χ2  (45) = 692,  p < 0.001), indicating  adequate  correlations  among items.  Additionally,  the  Kaiser-Meyer-Olkin (KMO) Measure  of  Sampling  Adequacy yielded  an  overall  value  of  0.858. Item-specific  values  ranged  from  0.730  to  0.934, showing  all items were suitable  for factor analysis, with values above  0.800 considered appropriate.
+Table 2 presents  descriptive  statistics  for the  study  variables.  Factor  1: Perceived Educational Value had a mean of 3.68 (SD = 0.853), indicating high perceived importance. Factor 2: Current  Usage Patterns  had  a mean  of 2.78 (SD = 0.878), reflecting  moderate engagement with GenAI. Factor 3: Perceived Utility had  the  highest  mean  at 4.01 (SD =  0.821), suggesting  strong  practical benefits.
+Reliability analysis using Cronbach s alpha confirmed  internal consistency: Factor 1 (α  
+= 0.844), Factor 2 (α = 0.777), and Factor 3 (α = 0.762) demonstrated acceptable reliability (Nunnally & Bernstein, 1994).
+Exploratory factor  analysis (EFA) identified  three  distinct  factors. Factor 1, Perceived Educational Value, explained 21.3% of the total variance and comprised three  items with strong  loadings: students   career  preparation  (0.849), classroom  integration  (0.746), and digital  competence  enhancement  (0.705). These  items  suggest  this  factor  represents students   perceptions  of GenAI s educational  and  professional.  Factor 2, Current  Usage Patterns,  accounted  for 20.2% of the  variance and  included  four items related  to active GenAI use: verbal class contributions  (0.748), writing tasks (0.744), English improvement (0.618), and  information  reliability (0.548). These loadings  indicate  a dimension  focused on current practical GenAI applications. Factor 3, Perceived Utility, explained 16.5% of the variance and consisted  of three  items: time savings (0.961), idea generation  (0.627), and assignment  feedback  (0.342). The strong  loading  of the  time-saving  item  suggests  this factor primarily represents  GenAI s perceived  practical benefits.
+Factor quality  indicators  showed  all primary  loadings  exceeded  0.50, except  Item 6 (0.342). Low uniqueness  values  (0.0985 to  0.6539) indicated  good  communalities,  with a clear factor  structure  showing  minimal  cross-loadings.  Moderate  inter-factor  correla- tions  (r = 0.309 to  0.631) suggested  related  but  distinct  dimensions.  The final scale demonstrated  good  psychometric  properties,  including  strong  factor loadings  for most items, clear theoretical alignment of factors, acceptable uniqueness values, and a distinct factor structure with meaningful correlations. This three-factor solution provides a robust framework for understanding students  engagement with GenAI, capturing  both  percep - tual and behavioural  aspects  of usage.
+Overall model fit was assessed  using several indices. The RMSEA was 0.00, suggesting excellent  fit. The TLI was 1.04, indicating  the  model  fit better  than  the  null model.  The Bayesian Information  Criterion (BIC) was −84.7, and  the  chi-square  (χ2) statistic was 7.62 with  18 degrees  of freedom  (p = 0.984), suggesting  that  the  hypothesised  model  ade- quately  fits the data.
+The three  dimensions  identified  through  EFA are  conceptually  distinct  and  reflect different  aspects  of students   engagement  with  GenAI tools  in  academic  contexts. Perceived  Educational  Value refers to the  extent  to which students  believe  GenAI con- tributes  to  their  academic  and  professional  development,  such  as  improving  digital competencies,  classroom  learning,  and  career  preparation.  Current Usage Patterns  cap- ture students  actual engagement with GenAI tools for academic tasks, including writing, verbal  contributions,  language  improvement,  and  evaluating  information.  Perceived 
+Table 2. Factor descriptive and reliability statistics of GAIUS.
+ Factor                                           Mean           SD             Cronbach s α           Variance Explained (%)
+ Factor 1 (Perceived Educational Value) Factor 2  3.68 2.78 4.01 0.853 0.878    0.844 0.777 0.762 0.84721.3 20.2 16.5 58
+  (Current Usage Patterns) Factor 3 (Perceived     3.43           0.821
+  Utility)                                                        0.677
+ 3-Factor of GAIUS
+   
+Utility represents  the practical advantages  students  associate  with GenAI, including time efficiency, idea generation,  and usefulness  in receiving assignment  feedback.
+Validation of GAIUS: Confirmatory factor analysis
+To validate  the  three-factor  structure  identified  in  the  EFA, a  confirmatory  factor analysis  (CFA) was  conducted.  The  measurement  model  demonstrated  a  good  fit: CFI = 0.960,  TLI = 0.944,  SRMR = 0.0624,  and  RMSEA = 0.0696  (90%  CI  [0.0419, 0.0962]). While  the  chi-square  test  was  significant  (χ2 = 60.5,  df = 32,  p = 0.002), this  is common  with  larger  sample  sizes, and  other  fit indices  suggest  adequate model  fit.
+Factor 1
+Perceived Educational Value. All items loaded  significantly (p < .001) with strong  standar - dised  factor  loadings:  Item 1 (Classroom integration):  λ = 0.787 (95% CI [0.661, 0.922]), Item 2 (Career preparation):  λ = 0.773 (95% CI [0.658, 0.925]), and Item 3 (Digital compe - tence): λ = 0.843 (95% CI [0.641, 0.868]).
+Factor 2
+Current Usage Patterns. Items  showed  significant  loadings  ranging  from  moderate  to strong:  Item  9  (Information  reliability): λ = 0.652  (95%  CI [0.544,  0.860]), Item  10 (Language  improvement):  λ = 0.658 (95% CI [0.632, 0.995]), Item 11 (Writing tasks): λ =  0.816 (95% CI [0.774, 1.095]), and Item 12 (Verbal contributions):  λ = 0.573 (95% CI [0.453, 0.773]).
+Factor 3
+Perceived Utility. All items  demonstrated  significant loadings: Item 4 (Time savings): λ =  0.834 (95% CI [0.678, 0.939]), Item 5 (Idea generation):  λ = 0.774 (95% CI [0.641, 0.908]), and Item 6 (Assignment feedback): λ = 0.611 (95% CI [0.498, 0.803]).
+The analysis revealed  significant correlations  between  factors: Perceived  Educational Value and Current Usage (r = 0.511, p < .001), Perceived Educational Value and Perceived Utility (r = 0.761, p < .001), and  Current  Usage and  Perceived  Utility (r = 0.549, p < .001). These moderate to strong correlations suggest related but distinct constructs, supporting 
+the  discriminant  validity of the  three-factor  structure.  All factor  loadings  exceeded  the conventional  threshold  of 0.50, with narrow confidence  intervals indicating  precise esti- mation.  The  strongest  relationship  was  between  Perceived  Educational  Value and Perceived Utility (r = 0.761), suggesting that students who recognise GenAI s also appreci- ate its practical utility.
+The CFA results strongly support  the three-factor  structure  of the GAIUS, demonstrat - ing  convergent  and  discriminant  validity. Robust  factor  loadings  and  good  model  fit indices suggest  that  the  scale effectively captures  distinct  aspects  of students   engage - ment  with GenAI tools in academic  settings.
+To validate  the  three-factor  structure  identified  in the  EFA, a  confirmatory  factor analysis (CFA) was conducted.  The measurement model  demonstrated  a good  fit: CFI =  0.960, TLI = 0.944, SRMR = 0.0624, and RMSEA = 0.0696 (90% CI [0.0419, 0.0962]). While the chi-square  test  was significant (χ2 = 60.5, df = 32, p = 0.002; χ2/df = 1.89), this is common with  larger  sample  sizes, and  the  chi-squared  to  degrees  of freedom  ratio  suggests excellent model  fit.
+Multiple regression  analysis
+GenAI usage  scale and academic dishonesty  behaviours
+To examine  the  relationships  between  GenAI usage  factors  and  academic  dishonesty behaviours, six separate multiple regression analyses were conducted. The three factors — Perceived Educational Value (Factor 1), Current Usage Patterns  (Factor 2), and Perceived Utility (Factor 3) — were entered as predictors for each dishonesty behaviour (see Table 3).
+The regression  model  for submitting  full AI-generated  papers  (DIS1) was significant, explaining 9.93% of the variance. Current Usage Patterns  negatively  predicted  full paper submission  (β = −0.2784, p = .005), while Perceived Utility showed  a positive relationship (β = 0.3143, p < .001). Perceived Educational Value did not significantly predict  this beha - viour (β = 0.0769, p = .417).
+For  paraphrasing  and  submitting  AI-generated  content  (DIS2), the  model explained  21.4% of the  variance.  Perceived  Utility was  the  only significant  predictor (β = 0.4784, p < .001), suggesting  that  students  who  perceive  higher  utility in GenAI tools  are  more  likely to  submit  modified  AI-generated  content.
+The model predicting citation of AI-generated content (DIS3) accounted for 6.57% of the variance. Again, Perceived  Utility was the  sole significant  predictor  (β = 0.4784, p = .001), indicating that students who recognise the tool s utility are more likely to cite AI-generated content  in their work.
+The regression  model for perceiving GenAI as facilitating misconduct (DIS4) explained only 3.36% of the variance, with no factors showing significant relationships. This suggests that  perceptions  of GenAI as  facilitating  misconduct  may  be  influenced  by  variables beyond  the current  factors.
+Unauthorised  use  of GenAI tools  (DIS5) was  significantly  predicted  by  the  model, explaining  25.2% of the  variance. Perceived  Utility demonstrated  a strong  positive rela- tionship  (β = 0.4199, p < .001), while other  factors showed  no significant associations.
+Finally, the model for non-acknowledgement of GenAI use (DIS6) accounted for 23.7% of the variance. Perceived Utility was again the only significant predictor (β = 0.3949, p < .001), suggesting  that  students  who perceive greater  utility in GenAI tools are more likely to use them  without  acknowledgement.
+Notably, Perceived Utility was the most consistent predictor across multiple dishonesty behaviours,  showing  significant  positive  relationships  with  five out  of six behaviours. Current  Usage  Patterns  demonstrated  a significant  negative  relationship  only with full paper submission, while Perceived Educational Value showed no significant relationships with any dishonesty  behaviours.
+These findings suggest  that  students   perceptions  of GenAI s utility, rather  than  their understanding  of its educational  value  or current  usage  patterns,  may be  the  primary driver of academic dishonesty behaviours related to GenAI use. The negative relationship between  Current  Usage Patterns  and  full paper  submission  suggests  that  more  experi- enced  users  may opt  for more  sophisticated  forms of academic  dishonesty  rather  than submitting  completely  AI-generated  work.
+Demographics and academic dishonesty  behaviours
+Multiple regression  analyses  examined  relationships  between  demographic  variables (CGPA, GenAI usage frequency, gender, and age) and six academic dishonesty behaviours. The analyses revealed  several significant patterns  across demographic  categories.
+Academic performance (CGPA)
+Higher-performing  students  (CGPA 3.71—4.00) were significantly less likely to submit fully AI-generated  papers  (β = −0.6455, p = .004) but  more  likely to  use  AI content  without acknowledgement  (β = 1.1357, p = .001). A similar trend  appeared  among  students  with CGPA 3.01—3.30 (β = 0.4253, p = .020), suggesting  that  academically  stronger  students may engage  in more subtle  forms of dishonesty.
+GenAI usage  frequency
+GenAI usage  frequency  was the strongest  predictor  of academic  dishonesty  behaviours:
+● Monthly users were significantly less likely to engage in paraphrasing (β = −0.8638, p < .001), unauthorised  use  (β = −1.2930, p < .001), and  non-acknowledgement (β = −0.8860, p < .001).
+● Weekly  users  also  showed  negative  associations  with  full  paper  submission (β = −0.3149,  p = .016), paraphrasing  (β = −0.4442,  p = .025),  unauthorised  use (β = −1.0235, p < .001), and non-acknowledgement (β = −0.7538, p < .001).
+● Daily users  exhibited  only  a  weak  negative  association  with  the  perception  that GenAI facilitates misconduct (β = −0.6134, p = .043), suggesting different behavioural patterns  among  frequent  users.
+Gender and age effects
+Gender  minimally influenced  on  academic  dishonesty  behaviours,  with  male  students showing a marginally higher likelihood of paraphrasing AI-generated content (β = 0.4136, 
+p = .054). Age predicted  paraphrasing  only, with younger  students  (18—25) less likely to engage  in this practice (β = −0.2051, p = .024).
+These findings  suggest  that  GenAI usage  frequency  was the  most  consistent  demo - graphic  predictor  of academic  dishonesty,  with regular  users generally  exhibiting  lower engagement in misconduct.  Academic performance  influenced  the  type rather  than  the frequency  of dishonesty,  with  higher-performing  students  engaging  in more  nuanced misconduct.  Gender  and  age  played  minor  roles, and  no  significant  demographic  pre- dictors were found for students   citation practices  regarding  AI-generated  content.
+Discussion  and conclusion
+This study  provides  new  insights  into  the  relationship  between  GenAI usage  and  aca- demic  dishonesty  in higher  education.  The development  and  validation  of the  GenAI Usage Scale (GAIUS) confirmed  three  distinct dimensions  — Perceived Educational Value, Current  Usage  Patterns,  and  Perceived  Utility — each  with  unique  associations  with dishonest  behaviours.
+Key findings  and implications
+The three-factor structure of GAIUS demonstrated strong psychometric properties, affirm-
+ing its reliability in assessing student engagement with GenAI. Perceived Utility (Factor 3) was the  strongest  predictor  of academic  dishonesty,  as students  valuing  AI s practical benefits  were more  likely to engage  in misconduct.  This finding supports  prior research on technology-enabled dishonesty  (Holden et al., 2021) and suggests  that  convenience- driven AI use may heighten  ethical risks.
+Conversely, Current Usage Patterns  (Factor 2) negatively  correlated  with submitting fully AI-generated  papers,  indicating  that  more  frequent  users  may better  understand ethical boundaries.  This challenges  assumptions  that  AI familiarity increases dishonesty (Yavich & Davidovitch,  2024)  and  suggests  structured  AI exposure  may  promote responsible  use  (Wecks  et  al.,  2024).  In  contrast,  Perceived  Educational  Value (Factor  1) was  not  significantly  related  to  dishonesty,  implying  that  while  students recognise  AI s learning  benefits,  external  pressures  such  as workload  and  competition may  drive  misconduct  (Wang  et  al., 2025). Interestingly,  students  did  not  explicitly associate  GenAI with  misconduct,  suggesting  that  situational  factors,  not  AI percep - tions,  influence  dishonest  behaviours.  Future  research  should  examine  variables,  like motivation,  ethical reasoning,  and  institutional  policies, to refine the  understanding  of AI-related academic  dishonesty.
+Demographic  influences
+Academic  performance  influenced  the  type,  not  frequency,  of  misconduct.  High- achieving students  were less likely to submit  AI-generated  papers  but more likely not to acknowledge  AI use, indicating  subtle  dishonesty  (Liu et al., 2024). These findings high- light the need  for interventions  addressing  nuanced  integrity violations.
+Additionally, GenAI usage  frequency  emerged  as a protective  factor, with weekly and monthly  users exhibiting  lower engagement in dishonest  behaviours.  This suggests  that familiarity with AI tools may encourage  ethical engagement  by increasing  awareness  of appropriate applications (Wiredu et al., 2024). Integrating structured GenAI activities into coursework  could help reinforce ethical AI literacy.
+Positive impacts on learning and concerns
+Research demonstrates  that  GenAI can enhance  academic  skills and  comprehension  by supporting  writing, vocabulary,  and  grammar  (Farhi et  al., 2024; Liu et  al., 2024). This perceived  value aligns with Perceived Educational Value dimension in GAIUS, highlighting GenAI s potential  as a complementary  learning resource.
+Moreover, GenAI s ability to facilitate understanding of course material (Wiredu et al.,  2024) reflects  the  value  students  place  on  these  tools  for academic  support.  When managed  ethically, GenAI can serve as a powerful  educational  aid, helping  comprehen - sion and engagement while minimising reliance on unethical  practices.
+Despite these benefits, the study findings and literature raise questions about GenAI s role 
+in fostering  critical thinking  and  independent  learning.  Research shows  GenAI s efficacy in improving academic performance is limited by students  heavy reliance on these tools, which may  impede  the  development  of higher-order  cognitive  skills (Wecks et  al., 2024). This challenge is relevant given the significant association between Perceived Utility and academic dishonesty behaviours observed in this study. Overreliance on GenAI could undermine critical thinking, reinforcing the need  for structured  guidance  on appropriate  GenAI use.
+Theoretical implications
+These findings  have  critical implications  for higher  education.  First, they  challenge  the simplistic narrative  that  GenAI inherently  promotes  academic  dishonesty.  Instead,  the data  suggest  that  students   perceptions  and  usage  patterns  mediate  this  relationship, highlighting  the  importance  of AI literacy education.  Second,  the  results  indicate  that restricting GenAI access may be counterproductive, as frequent users demonstrated more ethical engagement.
+Furthermore,  the  lack of a  significant  relationship  between  Perceived  Educational Value and  dishonesty  behaviours  suggests  that  merely  emphasising  GenAI s academic benefits  is insufficient to  prevent  misconduct.  Instead,  interventions  must  address  stu- dents   perceptions  of utility while embedding  ethical AI use into institutional  policies.
+Educational implications
+To integrate  GenAI ethically and  effectively in higher  education,  institutions  should  go beyond  policy and  adopt  pedagogical,  technological,  and  behavioural  interventions (Francis et al., 2025; Nartey, 2024; Nguyen, 2025).
+Develop comprehensive  institutional policies
+Institutions  must establish  clear, inclusive GenAI policies that  align with academic  integ- rity standards,  address  disciplinary differences, and  define acceptable  versus unaccepta - ble uses (Kayyali, 2025; Saleem et al., 2024). These policies should be regularly updated to reflect GenAI advancements  and emerging  ethical challenges  (Babu & Jeneliya, 2025).
+Embed AI literacy across the curriculum
+Embedding  AI ethics  and  literacy into  curricula is essential.  Structured  training  for stu- dents  and faculty should cover GenAI functionalities, data  privacy, copyright, and ethical implications (Chinedu et al., 2025; De Gagne et al., 2024). Scaffolding this instruction over multiple years supports the transition from basic understanding to responsible innovation (Borromeo et al., 2025).
+Redesign learning and assessment  approaches
+To reduce  misconduct,  assessments  should  be  redesigned  to  include  process-based evaluations  and  reflective components  requiring  students  to justify GenAI use (Deng & Joshi, 2024; Guill n-Yparrea & Hern ndez-Rodr guez, 2024). Iterative writing with AI feed- back, portfolios, and peer reviews promote deeper engagement with content and support ethical practices  (Francis et al., 2025).
+Establish supervised usage  environments
+Supervised  environments  like AI-integrated  writing centres  or GenAI learning  labs support responsible experimentation with GenAI under academic guidance (Babu & Adhithya, 2023). These spaces  can demystify the  technology  and offer students  discipline-specific support.
+Create tiered interventions based on risk profiles
+Institutions  should  use data  analytics to identify GenAI overuse  or misuse. Tiered inter- ventions,  including  targeted  coaching  or  workshops  on  citation  and  authorship,  can address  both  intentional  and  unintentional  academic  integrity  violations (Nartey, 2024; N. Wang & Li, 2024).
+Foster ethical culture through dialogue  and role modelling
+Faculty should  facilitate discussions  on  GenAI ethical  challenges  and  model  discipline- specific best practices (Kayyali, 2025; Nguyen, 2025). Open dialogue encourages students 
+to reflect critically and adopt  responsible  behaviours.
+Invest in institutional infrastructure and oversight
+Build internal  capacity  through  secure,  AI-integrated  learning  systems  and  establish institutional  roles  (e.g. GenAI ethics  officers or  taskforces)  to  oversee  implementation and ensure  accountability  (Saleem et al., 2024).
+Promote student empowerment  and reflection
+Introduce  digital  reflection  logs  where  students  track and  reflect  on  GenAI use,  fostering metacognitive  awareness  and ethical self-regulation  (Borromeo et al., 2025). Gamified simu- lations can help students  practice  ethical decision-making  in realistic academic  scenarios.
+Support research and innovation  hubs
+Create GenAI labs or research  clusters within universities to pilot ethical AI tools, engage students  in co-design,  and  generate  interdisciplinary  research  that  informs responsible GenAI pedagogy  (Francis et al., 2025; N. Wang & Li, 2024).
+Collaborate with industry and align skills with employability
+Engage  employers  to  ensure  that  graduates  have  technically  relevant  and  ethically grounded  GenAI skills. Offer micro-credentials  or  digital  badges  in responsible  GenAI use (Nartey, 2024).
+Safeguard student wellbeing and cognitive development
+Monitor the cognitive, emotional, and motivational impacts of GenAI use, ensuring that it supports  student  autonomy,  creativity, and confidence.  Encourage  a balanced  approach that  emphasises  human  strengths  alongside  AI augmentation  (Chinedu  et  al., 2025; Kayyali, 2025).
+By implementing  these  recommendations, higher education  institutions  can foster a balanced  approach  to GenAI integration-leveraging  its educational  potential  while safeguarding  academic  integrity.  Future  research  should  explore  the  long-term impact  of structured  GenAI integration  on  learning  outcomes  and  ethical  decision- making. Evaluating policy and  instructional  models  will help  ensure  alignment  with evolving  academic  and  technological  landscapes  (Borromeo  et  al., 2025; Saleem et al., 2024).
+Limitations and future research
+Several  limitations  should  be  noted.  The study s  cross-sectional  design  limits causal inferences  about  the  relationships  between  GenAI usage  and  academic  dishonesty. Additionally, the  small sample  size from a single UAE institution  may also limit generali- sability. Future research  should  consider:
+● Longitudinal studies  to track changes  in usage  patterns  and dishonesty  behaviours
+● Cross-cultural comparisons  to examine  the role of educational  context
+● Intervention  studies  testing  different approaches  to promoting  ethical GenAI use
+● Investigation  of faculty and peer perspectives  and institutional  policies
+● Replication with a bigger  sample  size
+In conclusion,  the  findings  emphasise  the  need  to  promote  ethical  AI engagement rather  than  impose  outright  restrictions.  Universities should  establish  clear guidelines, incorporate  structured  AI learning,  and  foster  student  awareness  to  balance  AI s benefits  with  academic  integrity.  The development  and  validation  of GAUS provide institutions  a  reliable  instrument  to  assess  students   engagement  with  GenAI tools, while the  identified  relationships  between  usage  patterns  and  dishonesty  behaviours offer valuable  insights  for policy development.  Our findings challenge  the  assumption that  increased  GenAI use  is necessarily  associated  with  more  academic  misconduct, instead  suggesting  that  familiarity with these  tools might  promote  more  ethical usage patterns.  As educational  institutions  navigate  the  evolving  landscape  of  artificial intelligence,  the  focus should  shift from restriction  to integration,  emphasising  digital literacy and  ethical  use  over blanket  prohibitions.  The future  of academic  integrity  in an  AI-enabled world will depend  not  on  limiting these  technologies  but  on  fostering responsible  use  through  education,  clear  policies,  and  assessment  strategies  that acknowledge  the  reality of GenAI while preserving  authentic  learning.  By understand - ing these  relationships  between  students   perceptions,  usage  patterns,  and  academic behaviours,  institutions  can better  prepare  for a future  where  AI tools are not  seen  as threats  to  academic  integrity  but  as  opportunities  for  enhancing  the  educational experience.
+Disclosure  statement
+No potential  conflict of interest  was reported  by the author(s).
+Notes  on contributors
+Aizhan Shomotova is a faculty instructor at the College of Interdisciplinary Studies and Fellow of the Higher  Education  Academy  (FHEA). Her research  specialises  in higher  education,  employability, wellbeing,  digitalisation,  educational  technology,  and  the  integration  of GenAI in education  and research. She serves as a course coordinator,  committee  chair, and active contributor  to academic discussions.  Her research  has  been  published  in  top-tier  journals  and  presented  at  leading conferences.
+Salwa Husain is an instructor  at Zayed University in the  College of Interdisciplinary Studies. She earned  her  Ph.D. in 2023  from  UAE University, specialising  in Leadership  and  Policy Studies  in Education. She holds M.Ed. in Educational Leadership and Administration from Zayed University and has been  teaching  at ZU since 2019. She is also a Fellow of the Higher Education Academy (FHEA). Her research  interests  focus  on  educational  leadership,  emotional  intelligence,  and  innovative teaching  practices.
+Areej Elsayary is currently  an  Associate Professor  and  Assistant Chair for the  General  Education Department  at the  College of Interdisciplinary Studies. She was the  graduate  programme  coordi- nator  at  the  College  of Education.  Her research  interests  include  STEM education,  educational technology, mental health, human-computer interaction, cyberpsychology, entrepreneurship, inno- vation, STE(A)M, and assessment.
+ORCID
+Aizhan Shomotova  http://orcid.org/0000-0002-1168-9224
+References
+Akintande,  O. J. (2024). Artificial versus  natural  intelligence:  Overcoming  students   cheating  like-
+lihood with artificial intelligence tools during virtual assessment. Future in Educational Research, 2 (2), 147—165. https://doi.org/10.1002/fer3.33  
+Babu,  C. S., & Adhithya,  S.  (2023).  ChatGPT and  other  generative  AI tools  in  education: 
+Transformative  potential  and  ethical  considerations.  In J. Keengwe  (Ed.), Creative AI tools and ethical implications in teaching and learning (pp. 135—152). IGI Global Publishing.
+Babu, C. S., & Jeneliya, J. S. (2025). Ethical uses of generative  artificial intelligence  in instructional 
+design:  Case strategies  for responsible  implementation.  In L. Kyei-Blankson & E. Ntuli (Eds.), Transformative AI practices for personalised learning strategies (pp. 219—268). IGI Global Scientific Publishing.
+Bentler, P. M. (1990). Comparative  fit indexes  in structural  models.  Psychological Bulletin, 107(2), 
+238—246. https://doi.org/10.1037//0033-2909.107.2.238  
+Bittle, K., & El-Gayar, O. (2025). Generative  AI and  academic  integrity  in  higher  education: 
+A systematic  review  and  research  agenda.  Information, 16(4), 296. https://doi.org/10.3390/ info16040296  
+Blake, J. (2024). Unleashing the potential:  Positive impacts  of generative  AI on learning and teach-
+ing. In S. Hai-Jew (Ed.), Generative AI in teaching  and  learning (pp. 31—45). IGI Global Scientific Publishing.
+Borromeo, A. S., Manaloto, A. M., Santos, M. J. M. D., Antonio, R. P., Soyosa, M. D., & Wider, W. (2025). 
+Harnessing  generative  AI in nursing  education:  A bibliometric  review. Teaching and Learning in Nursing, 20(4), e1002—e1011. https://doi.org/10.1016/j.teln.2025.04.014  
+Chavez, J. V., Cuilan, J. T., Mannan, S. S., Ibrahim, N. U., Carolino, A. A., Radjuni, A., & Garil, B. A. (2024). 
+Discourse  analysis on  the  ethical  dilemmas  on  the  use  of AI in academic  settings  from  ICT, science, and language  instructors.  Forum for Linguistic Studies, 6(5), 349—363. https://doi.org/10. 30564/fls.v6i5.6765  
+Chinedu,  C. C., Justin,  G., Eriagbondia,  J. D. O., Lopez, A. T., & Osabiya, A. (2025). Ethical and responsible  generative  AI use: Perspectives  from STEM and  non-STEM educational  contexts.  In B. I. Edwards, B. L. Tanko, M. Klufallah, H. Abuhassna,  & C. C. Chinedu  (Eds.), Reimagining transformative  educational  spaces: Technological synergy for future  education  (pp.  347—364). Springer Nature Singapore.
+Cotton,  D. R. E., Cotton,  P. A., & Shipway, J. R. (2024). Chatting  and  cheating:  Ensuring academic 
+integrity  in the  era  of ChatGPT. Innovations  in Education and  Teaching International, 61(2), 228—239. https://doi.org/10.1080/14703297.2023.2190148  
+Daher, W., & Hussein, A. (2024). Higher education  students   perceptions  of GenAI tools for learning. 
+Information, 15(7), 416. https://doi.org/10.3390/info15070416  
+Dalalah, D., & Dalalah, O. M. A. (2023). The false positives  and  false negatives  of generative  AI 
+detection  tools  in education  and  academic  research:  The case  of ChatGPT. The International Journal of Management  Education, 21(2), 100822. https://doi.org/10.1016/j.ijme.2023.100822  
+De Gagne, J. C., Hwang, H., & Jung, D. (2024). Cyberethics in nursing education:  Ethical implications of 
+artificial intelligence. Nursing Ethics, 31(6), 1021—1030. https://doi.org/10.1177/09697330231201901  Deng, X., & Joshi, K. D. (2024). Promoting  ethical  use  of generative  AI in education.  ACM SIGMIS 
+Database: The Database for Advances in Information Systems, 55(3), 6—11. https://doi.org/10.1145/ 
+3685235.3685237  
+Doğru, S. (2023). ChatGPT-science education and instruction reshapes management. Online Science 
+Education Journal, 8(1), 12—21.
+Dowling, M., & Li, Y. (2025). Generative  AI for academic  research.  In K. Pulk & R. Koris (Eds.), 
+Generative AI in higher education:  The good, the bad,  and  the  ugly (pp. 89—101). Edward Elgar Publishing.
+Farhi, F., Jeljeli, R., Aburezeq, I., Dweikat, F. F., Al-Shami, S. A., & Slamene, R. (2024). Analyzing the 
+students  views, concerns, and perceived ethics about ChatGPT usage. Computers and Education: Artificial Intelligence, 5, 100180. https://doi.org/10.1016/j.caeai.2023.100180  
+Francis, N. J., Jones, S., & Smith, D. P. (2025). Generative AI in higher education:  Balancing innovation 
+and  integrity. British Journal of Biomedical Science, 81, 14048. https://doi.org/10.3389/bjbs.2024. 14048  
+Gamage,  K. A. A., Silva, E. K., & Gunawardhana,  N. (2020). Online delivery and  assessment  during 
+COVID-19: Safeguarding  academic  integrity.  Education Sciences, 10(11), 301. https://doi.org/10. 3390/educsci10110301  
+Gruenhagen,  J. H., Sinclair, P. M., Carroll, J. A., Baker, P. R., Wilson, A., & Demant, D. (2024). The rapid 
+rise of generative AI and its implications for academic integrity: Students  perceptions and use of chatbots  for assistance  with  assessments.  Computers and  Education: Artificial Intelligence, 7, 100273. https://doi.org/10.1016/j.caeai.2024.100273  
+Guerrero-Dib, J. G., Portales,  L., & Heredia-Escorza, Y. (2020). Impact  of academic  integrity  on 
+workplace  ethical behaviour.  International  Journal for Educational Integrity, 16(1), 2. https://doi. org/10.1007/s40979-020-0051-3  
+Guill n-Yparrea,  N., & Hern ndez-Rodr guez,  F. (2024, May). Unveiling generative  AI in higher 
+education:  Insights from engineering  students  and professors. In In Proceedings of the 2024 IEEE Global Engineering Education Conference (EDUCON) (pp.  1—5), IEEE. https://doi.org/10.1109/ EDUCON60312.2024.10578876 .
+Hair, J. F., Black, W. C., Babin, B. J., & Anderson,  R. E. (2019). Multivariate data  analysis (8th ed.). 
+Cengage  Learning.
+Holden,  O. L., Norris, M. E., & Kuhlmeier, V. A. (2021). Academic  integrity  in online  assessment: 
+A research  review. Frontiers in Education, 6, 639814. https://doi.org/10.3389/feduc.2021.639814  Hu, L. T., & Bentler, P. M. (1999). Cutoff criteria  for fit indexes  in covariance  structure  analysis: 
+Conventional  criteria versus  new  alternatives.  Structural Equation Modeling: A Multidisciplinary 
+Journal, 6(1), 1—55. https://doi.org/10.1080/10705519909540118  
+Kayyali, M. (2025). Ethical implications of generative  AI in education:  Privacy, bias, and integrity. In 
+L. Kyei-Blankson & E. Ntuli (Eds.), Transformative AI practices for personalized learning strategies (pp. 185—218). IGI Global Scientific Publishing.
+Liu, Y., Park, J., & McMinn, S. (2024). Using generative  artificial intelligence/ChatGPT  for academic 
+communication:  Students   perspectives.  International  Journal  of  Applied Linguistics,  34(4), 1437—1461. https://doi.org/10.1111/ijal.12574  
+Me a,  A., & Shk lzeni,  N. (2023, August). Academic  integrity  in the  face of generative  language models. In International Conference for Emerging Technologies in Computing. Miraz M.H. Southall G. Ali Ware A. eds. (pp. 58—70). Springer Nature Switzerland. https://doi.org/10.1007/978-3-031- 50215-6_5 
+Nartey, E. K. (2024). Guiding  principles  of generative  AI for employability  and  learning  in UK 
+universities. Cogent Education, 11(1), 2357898. https://doi.org/10.1080/2331186X.2024.2357898  Nguyen, H. M., & Goto, D. (2024). Unmasking academic cheating  behavior in the artificial intelligence 
+era: Evidence  from  Vietnamese  undergraduates.  Education and  Information  Technologies, 29, 
+15999—16025. https://doi.org/10.1007/s10639-024-12495-4  
+Nguyen, K. V. (2025). The use of generative  AI tools in higher  education:  Ethical and  pedagogical 
+principles.  Journal  of Academic Ethics, 23(3), 1435—1455. https://doi.org/10.1007/s10805-025- 09607-1  
+Nunnally, J. C., & Bernstein, I. H. (1994). Psychometric theory (3rd ed.). McGraw-Hill.
+Perkins,  M. (2023). Academic  integrity  considerations  of  AI large  language  models  in  the 
+post-pandemic  era: ChatGPT and  beyond.  Journal of University Teaching and  Learning Practice, 20(2), 1—12. https://doi.org/10.53761/1.20.02.07  
+Playfoot, D., Quigley, M., & Thomas, A. G. (2024). Hey ChatGPT, give me  a title for a paper  about 
+degree apathy and student use of AI for assignment writing. The Internet and Higher Education, 62, 100950. https://doi.org/10.1016/j.iheduc.2024.100950  
+Saleem, M., Chawla, C., & Ather, D. (2024). Ethical considerations  in the deployment  of generative  AI 
+systems  in academia.  In K. Raza, N. Ahmad, & D. Singh (Eds.), Generative AI: Current trends and applications (pp. 245—256). Springer Nature Singapore.
+Sa de,  S., Barros, J. P., & Almeida, I. (2024). Impacts  of generative  artificial intelligence  in higher 
+education: Research trends and students  perceptions. Social Sciences, 13(8), 410. https://doi.org/ 10.3390/socsci13080410  
+Shahzad, M. F., Xu, S., & Zahid, H. (2025). Exploring the impact of generative  AI-based technologies 
+on  learning  performance  through  self-efficacy, fairness & ethics, creativity, and  trust  in higher education.  Education and  Information Technologies, 30(3), 3691—3716. https://doi.org/10.1007/ s10639-024-12949-9  
+Sharma, A., & Bauman, A. (2025). The plagiarism  pandemic-confronting  cheating  in the  tech  era: 
+Rejoinder  to  The  next  generation  of pedagogy:  Reflections from  edtech  leaders .  Journal  of Management  Education, 49(4), 653—662. https://doi.org/10.1177/10525629251318684  
+Sullivan, M., Kelly, A., & McLaughlan, P. (2023). ChatGPT in higher  education:  Considerations for 
+academic  integrity and  student  learning. ECU Publications.  https://ro.ecu.edu.au/ecuworks2023- 2026/ 
+Susnjak, T., & McIntosh, T. R. (2024). ChatGPT: The end of online exam integrity? Education Sciences, 
+14(6), 656. https://doi.org/10.3390/educsci14060656  
+Sweeney, S. (2023). Who wrote this? Essay mills and assessment - considerations regarding contract 
+cheating  and  AI in higher  education.  The International  Journal  of Management  Education, 21, 100818. https://doi.org/10.1016/j.ijme.2023.100818 
+Tan, S., Rudolph, J., & Tan, S. (2024). Riding the generative  AI tsunami: Addressing the teaching  and 
+learning  crisis in higher  education.  In J. Rudolph,  J. Crawford, C.-Y. Sam, & S. Tan (Eds.), The Palgrave  Handbook  of Crisis Leadership in Higher Education (pp.  135—154). Springer  Nature Switzerland.
+Wang, N., & Li, M. (2024). Teachers  perceptions  of the risks and benefits  of AI in higher  education: 
+A case study of ERNIE Bot. Innovations in Education and Teaching International, 1—13. https://doi. org/10.1080/14703297.2024.2432429  
+Wang, S., Sun, Z., & Chen, Y. (2023). Effects of higher  education  institutes   artificial intelligence 
+capability  on  students   self-efficacy, creativity  and  learning  performance.  Education  and Information Technologies, 28(5), 4919—4939. https://doi.org/10.1007/s10639-022-11338-4  
+Wang, Z., Yin, Z., Zheng, Y., Li, X., & Zhang, L. (2025). Will graduate  students  engage  in unethical uses 
+of GPT? An exploratory  study to understand  their perceptions.  Educational Technology & Society, 28(1), 286—300.
+Ward, A., Manoharan,  S., & Ye, X. (2024, November).  Exploring academic  integrity  in the  age  of 
+generative  AI. In 2024 21st International  Conference on  Information  Technology Based Higher Education and  Training (ITHET), 2024, Paris, France  (pp.  1—5). IEEE. https://doi.org/10.1109/ ITHET61869.2024.10837603 
+Wecks, J. O., Voshaar, J., Plate, B. J., & Zimmermann,  J. (2024). Generative  AI usage  and  academic 
+performance.  Arxiv (Cornell University). https://doi.org/10.48550/arxiv.2404.19699  
+Wheelahan, L., & Moodie, G. (2024). Analysing micro-credentials  in higher education:  A Bernsteinian 
+analysis. In J. Hordern, J. Muller, & Z. Deng (Eds.), Towards powerful educational  knowledge (pp. 70—86). Routledge. https://doi.org/10.4324/9781003343943-6  
+Wiredu, J. K., Abuba, N. S., & Zakaria, H. (2024). Impact of generative  AI in academic  integrity  and 
+learning outcomes:  A case study in the Upper East Region. Asian Journal of Research in Computer Science, 17(8), 70—88. https://doi.org/10.9734/ajrcos/2024/v17i7491  
+Yavich, R., & Davidovitch,  N. (2024). Plagiarism  among  higher  education  students.  Education 
+Sciences, 14(8), 908. https://doi.org/10.3390/educsci14080908

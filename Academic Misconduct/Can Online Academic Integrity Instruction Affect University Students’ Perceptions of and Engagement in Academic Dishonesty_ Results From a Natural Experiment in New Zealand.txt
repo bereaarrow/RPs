@@ -1,0 +1,517 @@
+﻿ORIGINAL RESEARCH
+published: 17 February 2021
+doi: 10.3389/fpsyg.2021.569133
+
+Can Online Academic Integrity Instruction Affect University Students’ Perceptions of and Engagement in Academic Dishonesty? Results From a Natural Experiment in New Zealand
+Jason Michael Stephens*, Penelope Winifred St John Watson, Mohamed Alansari, Grace Lee and Steven Martin Turnbull
+The University of Auckland, Auckland, New Zealand
+Theproblemofacademicdishonestyisasoldasitiswidespread–datingbackmillennia and perpetrated by the majority of students. Attempts to promote academic integrity, by
+comparison, are relatively new and rare – stretching back only a few hundred years and Edited by: implemented by a small fraction of schools and universities. However, the past decade
+Medical UniversityDouglasof theF.AmericasKauffman,– has seen an increase in efforts among universities to promote academic integrity among
+Nevis, United States students, particularly through the use of online courses or tutorials. Previous research Reviewed by: has found this type of instruction to be effective in increasing students’ knowledge
+Michael S Dempsey, of academic integrity and reducing their engagement in academic dishonesty. The Boston UniversityMeryem, UnitedYilmazStatesSoylu, present study contributes to this literature with a natural experiment on the effects
+University of Nebraska–Lincoln, of the Academic Integrity Course (AIC) at The University of Auckland, which became United States mandatory for all students in 2015. In 2012, a convenience sample of students (n= 780)
+Jason*Correspondence:Michael Stephens had been asked to complete a survey on their perceptions of the University’s academic
+jm.stephens@auckland.ac.nz integrity polices and their engagement in several forms of academic dishonesty over the past year. In 2017, the same procedures and survey were used to collect data from
+This articleSpecialtywas submittedsection:to second sample of students (n= 608). After establishing measurement invariance across
+Educational Psychology, the two samples on all latent factors, analysis of variance revealed mixed support for a section of the journal the studies hypotheses. Unexpectedly, students who completed the AIC (i.e., the 2017
+Frontiers in Psychology
+sample)reported:(1)significantlylower(nothigher)levelsofunderstanding,support,and Received: 03 June 2020
+Accepted: 26 January 2021 effectiveness with respect to the University’s academic integrity policies; (2) statistically Published: 17 February 2021 equivalent (not higher) levels of peer disapproval of academic misconduct, and; (3) Citation: significantly higher (not lower) levels of peer engagement in academic misconduct.
+AlansariStephensM, LeeJM,G andWatsonTurnbullPWStJ,SM However, results related to participants’ personal engagement in academic misconduct (2021) Can Online Academic Integrity offered partial support for hypotheses – those who completed the AIC reported
+Instruction Affect University Students’ significantly lower rates of engagement on three of the eight behaviors included in the
+Perceptions of and Engagement
+in Academic Dishonesty? Results study.Theimplicationsandlimitationsofthesefindingsarediscussedaswellaspossible
+From a Natural Experiment future directions for research.
+in New Zealand.
+Front. Psychol. 12:569133. Keywords: natural experiment, tertiary students, academic dishonesty, online instruction and learning, academic doi: 10.3389/fpsyg.2021.569133 integrity initiatives
+
+Frontiers in Psychology | www.frontiersin.org 12 February 2021 | Volume  | Article 56913312
+INTRODUCTION
+The problem of academic dishonesty is an ancient one, dating back millennia (Lang, 2013). For the past 50 years, the problem has been epidemic – with the majority of students reporting that they have cheated, plagiarized, or otherwise behaved dishonestly at least once in the past year (for a review, see Murdock et al., 2016). By comparison, attempts to promote academic integrity are relatively new, stretching back only a few hundred years. The past decade, in particular, has seen an increase in effortsamong universities to promote academic integrity among students.Theseeffortsincludeface-to-faceworkshopsandonline courses as well as blended learning approaches (Stoesz and Yudintseva, 2018). The most common (and growing) approach appears to be requiring (or at least encouraging) incoming students to complete a short, web-based course or tutorial on academic integrity.
+Previous research has shown that such tutorials can be effective not only in increasing students’ knowledge of academic integrity (e.g., Curtis et al., 2013; Cronan et al., 2017) but also reducing their engagement in academic dishonesty (e.g., Belter and du Pré, 2009; Dee and Jacob, 2010; Owens and White, 2013; Zivcakova et al., 2014). However, there are important differences in how these academic integrity tutorials have been implemented and assessed in the existing research and the way in which they are being used (and often left unassessed) by an increasing number of universities. At the University of Auckland, for example, all new students are required to complete the Academic Integrity Course (AIC) during their first semester. Like many of the tutorials studied in previous research, the AIC is a short online course that students are expected to complete by themselves in their own time.
+However, unlike the tutorials in extant studies (which were completed by students as a requirement in one of their academic courses), the AIC is not connected to any academic courses or programs. Moreover, existing studies also limited the assessment of tutorial effects to the specific course in which the tutorial was required; whereas a comparable assessment of the AIC (and other courses like it) would necessitate looking for effects acrossallapplicablecourses.Finally,inpriorresearch,assessment of the tutorial was completed either immediately following completion of the tutorial or within weeks thereafter. In contrast, an assessment of an existing tutorial or course (like the AIC) may involve students who completed it years earlier.
+The present investigation seeks to broaden the research on academic integrity tutorials with a natural experiment on the effects of the AIC. That is, by assessing the impact of the course “in the everyday (i.e., real life) environment of the participants, [where] the experimenter has no control over the IV as it occurs naturally in real life” (McLeod, 2012), the present investigation extends the methodological approaches that have been used to assesstutorialeffects.Indoingso,thepresentstudyhopestooffer important contributions to the growing literature on academic integrity tutorials, particularly concerning the extent to which the positive effects previously reported can be replicated under differentconditions.
+LITERATURE REVIEW
+A Long History of Academic Dishonesty Academic dishonesty (also termed “academic misconduct” or, most succinctly, “cheating”) has a long history. Although the first documented report of cheating pertained to sport rather than academia, the contextual elements typically at play in decisions to cheat in the two domains are similar – extended periods of intense preparation leading up to a comparatively brief moment of competition (often against one’s peers, if not the clock or other criteria as well) resulting in immense pressure to perform near perfection (Lang, 2013). Such were the circumstances of the Thessalian boxer, Eupolos, who was apprehended while trying to bribe his opponents during the early fourth century Olympic Games in Greece (Guttman, 2004; Spivey, 2004).
+The setting of the first known case(s) of academic cheating – involving China’s stringent civil service examinations during the Suidynastyontheseventhcentury–wasnotmuchdifferent.The exams required a thorough knowledge of Confucius’ works, skill in poetry writing in Confucian style, and memorization of the completeImperialdocumentsoneducation.Yearsofpreparation were necessary, and failure (the lot of most candidates) resulted in vastly reduced life opportunities, misery for many, and suicide for some. Cheating abounded, with the use of model answers secreted about candidates’ persons, and bribery as examples (Lang, 2013).
+Otherrecordsofacademicdishonesty–datingfromthe1760s to the present day – confirm that young people who typically displayed impeccable honor in other aspects of their lives have engaged in cheating in academic contexts (e.g., Hartshorne and May, 1928; Bertram Gallant, 2008). The first large-scale study of cheating occurred in the United States in the 1960s and indicated that 75% of United States tertiary students had cheated at least once in their academic careers (Bowers, 1964). Remarkably, this very high percentage has only fluctuated modestly over the past five decades – the majority of tertiary students (the world over, wherever asked) report having cheated in the past year (e.g., Lupton et al., 2000; Lupton and Chapman, 2002; McCabe, 2005; Stephens et al., 2010; Ma et al., 2013).
+While digital technologies have made some forms of dishonesty much quicker and easier (from do-it-yourself cut- n-paste plagiarism to paying a “shadow scholar” to write a bespoke paper for you), they are not the reason why students cheat. A sober look at our evolution and ontogeny make it clear that cheating is “natural and normal” even if – with respect to academic dishonesty – “unethical and evitable” (for an overview of evidence, see Stephens, 2019).
+With this mind, the important question is not who is most likely to cheat and under what circumstances, but rather what conditions are most likely to mitigate cheating. If the history of cheating has a lesson to teach us about dishonesty, it is less about the weakness of humans and more about the power of circumstances. It is the same lesson that contemporary empirical research teaches us – contextual factors outweigh individual characteristics in explaining variance in cheating behavior (e.g., Leming, 1978; McCabe and Trevino, 1997; Eisenberg, 2004; Day et al., 2011). Among the contextual factors that seem to matter
+
+Stephens et al. Online Academic Integrity Instruction
+most in reducing academic dishonest are efforts to promote needed to achieve with integrity beforemistakes are made (e.g., academic integrity. York University2).
+The adoption of such approaches has spread widely and The (Relatively) Brief History of numerous universities around the world now require their
+Promoting Academic Integrity students to complete a course or tutorial on academic integrity Punishment and prevention are distinct, and it is a mistake to during or shortly after matriculation. Australia appears to be believe that threats of former (if only severe enough) equates leading the way in terms of implementing a national framework with the latter. As described above, academic dishonesty dates and requirements. In the wake of several high profile cheating back millennia and is epidemic today. This despite the fact scandals (e.g., McNeilage and Visentin, 2014), the Tertiary that early “deterrents” for cheating included flogging, public Education Quality and Standards Agency (the national quality ridicule,strippingofacademiccredentials,banishmentfromone’s assurance and regulatory agency for education) revised its hometown, and even death (Lang, 2013). The history of using Higher Education Standards Framework to include four broad severe punishment as both penalty and prevention is as long as requirements (of all tertiary education providers) related to the history of cheating itself, and that history has taught us that academic and research integrity. The third requirement is “to it is neither ethical nor effective. In short, punishment is not a provide students and staff with guidance and training on very good teacher – it arrives late and is quite primitive (seeking what constitutes academic or research misconduct and the to condition a basic stimulus-response association rather than a development of good practices in maintaining academic and mindful understanding). research integrity” (Universities Australia, 2017, p. 1). As a
+Efforts to promote academic integrity – attempts to advance result, over half of all Australian universities offer (but not a conscious understanding and active commitment to honesty alwaysrequirestudentstocomplete)onlinetutorialsonacademic in one’s scholarly endeavors – are comparatively recent (relative, integrity. Despite similar high profile cheating scandals in that is, to police and punish approaches of deterrence). The first New Zealand (e.g., Jones, 2014; Weeks, 2019), there is not (yet) a such effort dates back to 1736 with the establishment of the comparableframeworkorsetofrequirementsinplacethere;and, Honor Code at The College of William and Mary . The code is perhaps not incidentally, only one university in the country that
+run by students, who are responsible for its administration1 and requires its students to complete a course on academic integrity maintenance, including the adjudication of suspected violations. (i.e., the AIC at the University of Auckland described below).
+Today, there are over a hundred colleges and universities Empirical research over the past decade suggest such (mostly in North America and most private, highly selective approaches can be effective not only increasing knowledge and institutions) with honor codes. Nonetheless, research has shown attitudes (e.g., Curtis et al., 2013; Cronan et al., 2017) but also significant differences in academic dishonesty between honor reducing dishonesty (e.g., Belter and du Pré, 2009; Dee and code institutions and their non-code counterparts (McCabe and Jacob, 2010; Owens and White, 2013; Zivcakova et al., 2014). For Trevino, 1993; McCabe et al., 1999; Schwartz et al., 2013). In example, results from field-based quasi-experimental (Belter and theiroft-citedstudy,McCabeandTrevino(1993)foundthatonly du Pré, 2009) and experimental (Dee and Jacob, 2010) research 29% of students at the former reported cheating in the past year showed that completion of online tutorials related to plagiarism compared to 53% at the latter. More importantly, research also greatly reduced its occurrence – by 75.4% in the former study suggest the lower level of cheating at honor code institutions is and an estimated 41% in the latter. However, as noted in the attributed to the “culture of integrity” they engender and not the introduction, there is no evidence to date that the effects of threat of punishment (McCabe et al., 1999). these tutorials extend beyond the immediate context (i.e., the
+While honor codes, and other systems-based, multi-level academic course) in which they are implemented (Stoesz and approaches to creating cultures of integrity (e.g., Bertram Yudintseva, 2018). Additionally, the empirical research on the Gallant, 2011; Stephens, 2015) offer the most comprehensive effects of academic integrity instruction has yet to include any approach to promoting academic integrity, they require more delayedtesting.Todate,allofthestudieshaveassessedtheeffects time and commitment than most institutions are willing or of such instruction immediately or shortly after it was delivered. able to invest. However, the past decade has seen numerous In short, it is not clear yet if the learning and behavioral high profile cases of cheating in the headlines (e.g., Perez- changes associated with these tutorials transfers to other contexts Pena and Bidgood, 2012; Visentin, 2015; Medina et al., (i.e., courses beyond the one in which the learning occurred) or 2019) and with them an increase in number of colleges and across longer periods of time (i.e., greater than a few minutes universities seeking to do something, even if small(er) in or few weeks). There are both theoretical and empirical reasons scope and scale. At a minimum, these efforts include the to believe that the more we move away – in place and time – adoption of online methods of self-checking for plagiarism – from something we’ve learned, the less likely we are to recall allowing students to see their “mistakes” and learn from them or utilize that learning. Specifically, from a learning transfer (Walker, 2010). More pro-active still is the creation of face- perspective (e.g., Perkins and Salomon, 1992), extant studies to-face workshops, online modules, or blended approaches that have required near transfer of learning (i.e., demonstration of provide opportunities to develop the knowledge and skills learning in the same or highly similar context) and not far  transfer (i.e., impact in a context outside of or remote from
+1https://www.wm.edu/offices/deanofstudents/services/communityvalues/ honorcodeandcouncils/honorcode/index.php  2https://spark.library.yorku.ca/academic-integrity-module-objectives/
+
+Frontiers in Psychology | www.frontiersin.org 12 February 2021 | Volume  | Article 56913312
+the context of learning). Similarly, research on recency effects has provided strong evidence that are better able to remember recent experiences than those that happened further back in time (e.g., Morgeson and Campion, 1997; Jones and Sieck, 2003). The present investigation on attitudinal and behavioral differences associated with completing the AIC extends the boundaries (contextual and temporal) of existing research on the effect of academic integrity instruction.
+The Academic Integrity Course at the University of Auckland
+Developed by professional library staff at The University of Auckland (UOA) in 2013, the Academic Integrity Course (AIC) has been compulsory for all matriculating students since 2015. Students are enrolled in the AIC during their first term (semester or quarter), and failure to complete the course results in automatic re-enrolment for the next term. Although a student may forestall completion of the course, it is required for the conferral of any degree, diploma or certificate. According to a university official (personal communication), “most students” complete the AIC within their first of study at the university.
+As depicted in Figure 1, the AIC is comprised of fivemodules course, each comprised of readings that teach students about the different facets of academic integrity and each with a test at the end that students must finish. The AIC is an online and self-paced, allowing students to complete the modules and tests in their own time. The modules and tests can be completed in any order the student prefers, but they must achieve 100% on all five tests (with unlimited attempts to do so). Completion time for the whole course is between one and two hours.
+Finally, with respect to its goals, the AIC was “designed to increase student knowledge of academic integrity, university rules relating to academic conduct, and the identification and consequences of academic misconduct3.” As described by the University’s Deputy Vice-Chancellor (Academic) John Morrow, the AIC is “not about dishonesty as such, it’s about students learning how they can use printed and published resources in an effectivewayintheirownwork”(asquotedinvanBeynen,2015). For a topical outline of the AIC, please seeAppendix A.
+The Present Investigation
+The primary purpose of the present investigation was to test the effects of the AIC on students’ perceptions of and engagement in academic dishonesty. Specifically, compared to students who did not do so, it was hypothesized that students who completed the AIC would report:
+H1: greater perceived understanding, support for, and
+effectiveness of university policies related to academic integrity;
+H2: greater perceived peer disapproval of academic
+dishonesty;
+3https://www.auckland.ac.nz/en/students/forms-policies-and-guidelines/ student-policies-and-guidelines/academic-integrity-copyright/academic- integrity-course.html
+H3: lower levels of perceived peer engagement in academic
+dishonesty; and
+H4: lower levels of personal engagement in three types
+of academic dishonesty (i.e., assignment cheating, plagiarism, and test/exam cheating).
+The foregoing hypotheses are based prior research indicating that tutorials (similar to the AIC) have been shown to increase students’knowledgeofacademicintegrity(e.g.,Curtisetal.,2013; Cronan et al., 2017) and reduce their engagement in academic dishonesty (e.g., Belter and du Pré, 2009; Dee and Jacob, 2010; Owens and White, 2013; Zivcakova et al., 2014). However, as described above, the literature on learning transfer (e.g., Brown, would suggest that any effects in the present study (with its demandforfarratherthanneartransfer)arelikelytosmallerthan those found in previous research.
+Finally, based on the existing literature on recency effect, it hypothesized (H5) that all of the foregoing effects would be stronger among participants who completed the AIC within the past month and weakest among those who completed it two or more years ago.
+MATERIALS AND METHODS
+The effects of the AIC on students’ perceptions of and engagement in academic dishonesty were assessed using a quasi- experimental research design; namely, a natural experiment. Unlike a true experiment, a natural experiment is a type of observational study in which individuals (or groups of them) are naturally (i.e., determined by nature or other factors beyond the control of researchers) exposed to control and experimentalconditions.Theprocessesdeterminingparticipants’ exposures only approximates random assignment. In the present investigation, survey data related to students’ academic integrity perceptions and behavior was collected as a part of course- based research exercise carried out in 2012 and 2017. When the AIC became mandatory for all students in 2015, it rendered (approximately) the 2012 participants a control or comparison group (i.e., AIC non-existent) and the 2017 participants an experimental or treatment group (i.e., AIC compulsory). To be clear, the data collect in 2012 data were not collected for the purposes of publication. It was not until 2016 that the authors thoughtaboutusingthe2012dataaspartofanaturalexperiment to test the effects of the AIC; deciding to replicate the research exercise (and data collection associated with it) in 2017. This research was approved by The University of Auckland Human Participants Ethics Committee in 2012 (Reference Number 2009/C/026) and again in 2017 (Reference Number 019881).
+Procedures
+As noted above, data for this investigation were collected under theauspicesofacourse-basedresearchproject.Thecoursewasan advanced level undergraduate course in educational psychology thatrequiredstudentstakeontheroleofresearchers.Specifically, all students enrolled in the course in 2012 (n = 108) and 2017 (n = 48) were asked to recruit 8 (in 2012) or 15 (in 2017)
+
+Stephens et al. Online Academic Integrity Instruction
+
+FIGURE 1 |The Academic Integrity Course (AIC) at the University of Auckland. The AIC is a self-paced online course in which students are automatically enrolled during their first semester at the university.
+
+Frontiers in Psychology | www.frontiersin.org 12 February 2021 | Volume  | Article 56913312
+Stephens et al. Online Academic Integrity Instruction
+other UOA students (not enrolled in the course) to complete a short anonymous survey (detailed below in Measures). In 2012, 93.5% of students (101 of the 108 enrolled) completed the assignment and, in 2017, 95.8% (46 of 48) did so. Importantly, with the exception of the number of participants students were asked to recruit for the study (owing to the different enrolment numbers),theinstructionsprovidedtostudentsandthesampling procedures used by them were identical in 2012 and 2017. Please seeAppendix Bfor a copy of the assignment instructions provided to students.
+Participants
+In 2012, the 101 students who completed the course research activity recruited a total of 803 students to participate in the study; 23 of whom (2.9%) were subsequently removed from the sample for missing data. In 2017, the 46 students who completed the same activity recruited a total of 674 students to participate
+in the study; 31 of whom (4.6%) were subsequently removed from the sample for missing data and an additional 41 (6.1%) because they indicated that they had not yet completed the AIC. Thus, the final sample included 1,388 university students: 780 in 2012 and 608 in 2017. As detailed in Table 1, the majority of participants in both cohorts were females (57.7% and 57.6% in 2012 and 2007, respectively) and drawn from all eight faculties within the university. Importantly, although percentages varied slightly between cohorts, the differences in observed versus expected counts (given marginal frequencies) were not statistically significant for either gender ($2 = 1.07, p = 0.786) or faculty ($2 = 12.49,p = 0.093).
+Measures
+The survey used in the present investigation was comprised of measures adapted from the Academic Motivation and Integrity Survey (AMIS; Stephens and Wangaard, 2013). In addition to
+
+Frontiers in Psychology | www.frontiersin.org  February 2021 | Volume  | Article 569133
+Stephens et al. Online Academic Integrity Instruction
+TABLE 1 | Participants’ gender and faculty by cohort: frequencies and percents. behavior: “copying each other’s homework,” “plagiarism,” and  “cheating on tests or exams.”
+2012 Cohort 2017 Cohort Total sample
+Behaviors
+Variable n = 780 % n = 608 % N = 1388 %
+ Personal engagement in academic dishonesty was assessed with Gender a 5-point Likert-type scale that ranged from 1 (never) to 5 Female 450 57:7 350 57:6 800 57:6 (almost daily). Specifically, participants were asked to use that Male 322 41:3 243 40:0 565 40:7 scale to indicate how often they had engaged in eight “academic Missing 8 1:0 15 2:5 23 1:7 behaviors” that comprised three types of academic dishonesty: Faculty
+Arts 229 29:4 169 27:8 398 28:7 Assignment Cheating
+Science 157 20:1 122 20:1 279 20:1 1. Copied all or part of another student’s work and Business 125 16:2 118 19:4 243 17:5 submitted it as your own.
+Engineering 62 7:9 76 12:5 138 9:9 2. Worked on an assignment with others when the instructor Medical 64 8:2 40 6:6 104 7:5 asked for individual work.
+Law 43 5:5 36 5:9 79 5:7
+Education 43 5:4 24 3:9 67 4:8 Plagiarism
+NICAI 11 1:4 10 1:6 21 1:5 3. From a book, magazine, or journal (not on the Internet): Missing 46 5:9 13 2:1 59 4:3 Paraphrased or copied a few sentences or paragraphs  without citing them in a paper you submitted.
+There($2 = 1.07,werepno= statistically0.786) or Facultysignificant($2 =between-group12.49, p = 0.093).differences by either Gender 4. From an Internet Website: Paraphrased or copied a
+few sentences or paragraphs without citing them in a paper you submitted.
+the measures and items, participants in 2012 and 2017 were
+asked to report their sex (where 0 = Female, 1 = Male, and Test or Exam Cheating
+3 = Other/prefer not to say) and faculty affiliation (e.g., Arts, 5. Usedunpermittednotesortextbooksduringatestorexam. Sciences, Business, Engineering). 6. Usedunpermittedelectronicnotes(storedinaPDA,phone
+or calculator) during a test or exam.
+Perceptions 7. From a friend or another student: Copied from another’s Students’ perceptions of their peers’ attitudinal and behavioral paper during a test or exam with his or her knowledge. norms related to academic integrity were assessed with three 8. Useddigitaltechnologysuchastextmessagingto“copy”or measures: get help from someone during a test or exam.
+9. Got questions or answers from someone who has already
+USE of Academic Integrity Policies taken a test or exam.
+Participants’ perceptions of the understanding, support and
+effectiveness (USE) the university’s policies related to academic Finally, the 2017 survey included one extra question, which integrity were assessed with a 5-point Likert-type scale ranging asked participants to indicate when they completed the AIC from 1 (very low) to 5 (very high). Specifically, participants (where 1 = Within past 3 months, 2 = 4 to 6 months ago, 3 = 7 used this scale to rate three statements: “The average student’s to 12 months ago, 4 = 1 to 2 years ago, 5 = 2 or more years ago, understandingofpoliciesconcerningcheating,”and“Theaverage and 6 = I have not yet completed it).
+student’s support of policies concerning cheating,” and “The
+effectiveness of these policies.” Data Analyses
+
+Frontiers in Psychology | www.frontiersin.org 12 February 2021 | Volume  | Article 56913312
+Stephens et al. Online Academic Integrity Instruction
+Peer Disapproval of Academic Dishonesty
+Participants’ perceptions related to peer disapproval of academic dishonesty was assessed with a 5-point Likert-type scale that ranged from 1 (not at all) to 5 (very strongly). Specifically, participants were asked to report about how strongly their peers would disapprove if they knew they had engaged in three types of academic dishonesty: “homework cheating,” “plagiarism,” and “test or exam cheating.”
+Peer Engagement in Academic Dishonesty
+Participants’ perceptions related to peer engagement in academic dishonesty were assessed with a 5-point Likert-type scale ranging from 1 (never) to 5 (almost daily). Specifically, students were asked to report about how often, during the past year, they “thought” other students had engaged in three types of cheating
+Data were first screened for missing or invalid responses, and then subjected to confirmatory factor analysis (CFA) to confirm the structure and fit of the two three-factor measurement models. Based on recommendations by Hu and Bentler (1999) and Ullman and Bentler (2003), normed chi-square values and several other indices were used to determine model fit, where $2/df < 3.0, CFI > 0.95, TLI > 0.95, RMSEA< 0.06, and SRMR < 0.05) for a “good” fit and $2/df < 5.0) CFI > 0.90, TLI > 0.90, RMSEA< 0.08, and SRMR< 0.08) for an “acceptable” fit. Given the need to compare cohorts of participants sampled 5 years apart, multi-group confirmatory factoryanalysis(MGCFA)wasemployedtotestformeasurement invariance across groups/time (to ensure the psychometric equivalence of the constructs). Based on recommendations by Chen (2007), change in CFI, RMSEA, and SRMR values were used to determine the level of invariance achieved: 1 CFI
+
+Frontiers in Psychology | www.frontiersin.org 13 February 2021 | Volume  | Article 56913313
+Stephens et al. Online Academic Integrity Instruction
+of <  0.01 and 1 RMSEA of< 0.015 for each successive level, estimates using the full sample (i.e., 2012 and 2017 combined; and 1 SRMR of < 0.030 for metric invariance and < 0.015 N = 1388). As depicted, all items loaded significantly onto for scalar or residual invariance. After establishing acceptable their respective factors for both models (l ’s = 0.51 to 1.07 for model fit and measurement invariance, Cronbach’s alphas were Perceptions and 0.72 to 0.86 for Behaviors). As hypothesized, the calculated to assess the internal consistency of the six factors intercorrelations among the three factors in both models were and Pearson correlation coefficients to assess their convergent statistically significant (allp’s< 0.001).
+and discriminant validity. Finally, ANOVA and cross-tabulations
+withChi-squareanalyseswereemployedtoteststudyhypotheses. Multi-Group Confirmatory Factor
+All analyses were conducted using version 25 of SPSS and Analysis
+its AMOS programme. Having established that the models for both cohorts had
+equivalent path configurations with respect to the two three- RESULTS factor models, MGCFA was conducted to progressively test both
+modelsofmetric,scalar,andthenresidualinvariance.Asdetailed Results from the CFA and MGCFA and are reported first, in Table 3, based on change (1 ) in CFI, RMSEA, and SRMR followed by the descriptive statistics of and intercorrelations values, the three-factor model for perceptions achieved the level among the six latent factors. Subsequently, results pertaining to of residual invariance – also known as “strict” invariance – the four hypotheses are described. and the three-factor model achieved the level of a scalar (or
+“strong”) invariance. In the latter case, the decision to “reject” Confirmatory Factor Analysis of the Two invariance of residuals was based on the high change in CFI Three-Factor Measurement Models (1 =0.016).Importantly,however,onlymeasurementinvariance Confirmatory factor analysis was used to test the validity of at the configural,metric, and scalar levels (not the residual level) the two three-factor measurement models for both cohorts of is necessary to infer the model equivalence and proceed with participants. That is, before proceeding to MGCFA to test for between-cohort comparisons on the latent factors.
+measurement invariance, CFA was conducted to ensure that the
+factor structure (configuration of paths) was equivalent across Descriptive Statistics of the Six Latent
+cohorts. As detailed in Table 2, whether combined or tested Factors
+independently, the data from both cohorts offered a good (or Fullsampledescriptivestatistics(i.e.,means,standarddeviations, at least acceptable) fit to both models. The only exception was Cronbach’s alphas, potential and actual range of responses, and Model 1.3 for Behaviors with normed Chi-square ($2=df) value skew) of the six latent factors measured in this study are of 5.02 and RMSEA value of 0.082 (both slightly above the detailed in Table 4. Two details are most notable. First, although recommended threshold values of 5.00 and 0.080, respectively). Cronbach’s alphas varied widely among the six factors – from Examination of the modification indices suggested freeing the a low of 0.70 for Assignment Cheating and a high of 0.90 covariance between two error terms (i.e., the two forms of digital for Test or Exam Cheating – all were either acceptable, good, test cheating). Doing so significantly improved the model fit or very good. Second, the three factors related to personal ($2=df = 2.00, TLI = 0.989, CFI = 0.994, RMSEA = 0.040, engagement in academic dishonesty were significantly skewed and SRMR = 0.024). However, given the sensitivity of$2 in (where skew = skewness/standard error of skewness, and values large samples, and that the other indices (i.e., the TLI, CFI, > 5.0 are considered large). In other words, for these three and SRMR) indicated a “good” fit, the decision was deem the factors, a significantly greater proportion of participants used modelacceptableashypothesized(withoutfreeingthecovariance the first two points of the five-point scale (i.e., Never and between error terms). Once or twice this year) relative to latter end of the scales
+Figures2,3 offerschematicrepresentationsofthetwomodels (i.e., About weeklyand Almost daily). This was not unexpected (perceptionsandbehaviors,respectively)alongwithstandardized as significant positive skews are typical on the AMIS (e.g.,
+TABLE 2 | Model fit statistics for the two three-factor measurement models of perceptions and behaviors.
+Model $2 df $2/df TLI CFI RMSEA (90% CI) SRMR
+
+Frontiers in Psychology | www.frontiersin.org 12 February 2021 | Volume  | Article 56913312
+Stephens et al. Online Academic Integrity Instruction
+3-Factor Model of Perceptions Model 1.1 – Full Sample Model 1.2 – 2012 Cohort Model 1.3 – 2017 Cohort 3-Factor Model of Behaviors Model 1.1 – Full Sample Model 1.2 – 2012 Cohort Model 1.3 – 2017 Cohort
+104.18 24 71.85 24 88.60 24
+72.51 17
+64.77 17
+86.99 17
+4.34 0.974
+2.99 0.971
+3.69 0.954
+4.27 0.984
+3.81 0.976
+5.12 0.952
+0.983 0.049
+0.981 0.051
+0.969 0.067
+0.990 0.048
+0.985 0.060
+0.971 0.082
+(0.040–0.059) 0.049 (0.037–0.064) 0.051 (0.052–0.082) 0.062
+(0.037–0.060) 0.025 (0.045–0.076) 0.026 (0.066–0.010) 0.036
+
+Frontiers in Psychology | www.frontiersin.org  February 2021 | Volume  | Article 569133
+Stephens et al. Online Academic Integrity Instruction
+Full Sample N = 1388; 2012 Cohort n = 780; 2017 Cohort n = 608.
+
+Frontiers in Psychology | www.frontiersin.org  February 2021 | Volume  | Article 569133
+Stephens et al. Online Academic Integrity Instruction
+
+FIGURE 2 |Standardized estimates of the three-factor measurement model of participants’ perceptions related to academic integrity policies and peer norms. Model 1.1 – Full Sample.p < 0.001.
+FIGURE 3 |Standardized estimates of the three-factor measurement model of academic dishonesty. Model 1.1 – Full Sample.p < 0.001.
+
+Frontiers in Psychology | www.frontiersin.org 12 February 2021 | Volume  | Article 56913312
+Stephens et al. Online Academic Integrity Instruction
+TABLE 3 | Results from tests of measurement invariance based on cohort.
+Model CFI RMSEA SRMR 1 CFI 1 RMSEA 1 SRMR Decision
+
+Frontiers in Psychology | www.frontiersin.org 12 February 2021 | Volume  | Article 56913312
+Stephens et al. Online Academic Integrity Instruction
+3-Factor Model of Perceptions Model 1 – Configural Invariance Model 2 – Metric Invariance Model 3 – Scalar Invariance Model 4 – Residual Invariance 3-Factor Model of Behaviors Model 1 – Configural Invariance Model 2 – Metric Invariance Model 3 – Scalar Invariance Model 4 – Residual Invariance
+0.975 0.041
+0.973 0.041
+0.973 0.038
+0.971 0.037
+0.979 0.050
+0.976 0.050
+0.971 0.051
+0.955 0.059
+0.51 –
+0.52 0.002
+0.53 0.000
+0.54 0.002
+0.026 –
+0.025 0.003
+0.038 0.005
+0.030 0.016
+– – –
+0.000 0.001 Accept
+0.003  0.002 Accept
+0.001  0.001 Accept
+– – –
+0.000 0.001 Accept  0.001  0.013 Accept  0.008 0.008 Reject
+
+Frontiers in Psychology | www.frontiersin.org  February 2021 | Volume  | Article 569133
+Stephens et al. Online Academic Integrity Instruction
+N = 1388. Bold-face value exceed recommended limit of0.015.
+the AIC) compared to the 2012 Cohort (M’s = 3.44 and TABLE 4 | Descriptive statistics for the six latent factors.
+ 3.66, respectively). Also contrary to hypotheses, there was no Range significant between-cohort difference in peer disapproval of
+ academic dishonesty and the level of perceived peer engagement Variable M SD a Potential Actual Skew in academic dishonesty was significantly higher (not lower) for
+AI Policy USE 3.55 0.67 0.76 1–5 1.0–5.0  2.73 the 2017 Cohort compared to the 2012 Cohort ( M’s = 3.55 and Peer Disapproval of AD 3.36 1.00 0.78 1–5 1.0–5.0  4.85 3.09, respectively). As hypothesized, participants in the 2017 Peer Engagement in AD 3.29 0.99 0.84 1–5 1.0–5.0  2.59 Cohort reported significantly lower levels of engagement in both Assignment Cheating 1.69 0.75 0.70 1–5 1.0–5.0 21.03 assignment cheating and plagiarism compared to participants in
+1.0–5.0 the 2012. Cohort; however, there was no significant difference PlagiarismTest or Exam Cheating 1.611.16 0.780.39 0.850.90 1–51–5 1.0–5.0 23.2168.03 in test/exam cheating. Finally, as indicated by the partial ! 2
+ values, all of the observed differences were small in magnitude NAD,= 1388;academicAI, academicdishonestyintegrity;. USE, understanding, support, and effectiveness; (! 2 values< 0.06).
+In order to examine more closely the between-cohort differences in academic dishonesty, each of the eight behaviors
+Stephens,2018)aswellasothermeasuresofacademicdishonesty was dichotomized (where 0 = Never did it and 1 = Did it at (e.g., Anderman et al., 1998). least once) and cross-tabulated. As detailed in Table 7, Chi-
+square analyses indicated significant between-cohort differences Bivariate Correlations Among Latent on three of the eight behaviors. With respect to assignment
+Factors by Cohort cheating, compared to the participants in the 2012 Cohort, As detailed in Table 5, most of the intercorrelations among the significantly fewer participants in the 2017 Cohort reported that
+six latent factors were statistically significant. The magnitude they had “copied another student’s work and submitted it as their of the associations, however, were often small (r < 0.30). own” (34 to 26%, respectively; a 23.5% reduction). A similar That is, with the exception of the three types of academic reduction (from 40.4% in 2012 to 33.6% in 2017; a 16.8% dishonesty – assignment cheating, plagiarism, and test or exam reduction) was observed for conventional plagiarism – “From a cheating (r’s = 0.36 to 0.48,p < 0.001). Importantly, the pattern book, magazine, or journal (not on the Internet): Paraphrased of results (i.e., the direction and strength of the correlation or copied a few sentences or paragraphs without citing them in coefficients)wereverysimilarforthetwocohorts–alldifferences a paper you submitted.” There was no corresponding decrease were < 0.10 with the exception of the association between for digital plagiarism, which nearly half of all students from both assignment and test cheating (r = 47 in 2012 and 0.36 in 2017). cohorts reported doing at least once in the past year.
+Finally, as evidenced in the last column and row, the Cronbach’s The third (statistically) significant difference also concerned alphas for all six latent factors were also very similar across a decrease in a conventional form of dishonesty but not one in the two cohorts. its corresponding digital analog. Specifically, compared to the
+participantsinthe2012Cohort,significantlyfewerparticipantsin Hypothesis Testing the 2017 Cohort reported that they had used “unpermitted notes
+A series of ANOVAs were conducted to test the study’s four or textbooks during a test or exam” (8.5 to 5.6%, respectively; a hypotheses. As detailed in Table 6, results offered mixed 34.1% reduction). However, although not statisticallysignificant, support. Contrary to the first hypothesis, the level of perceived compared to 2012 participants, a lower percentage of 2017 understanding, support for, and effectiveness (USE) of university participantsreportedusing“unpermittedelectronicnotes(stored policies related to academic integrity was significantlylower(not inaPDA,phoneorcalculator)duringatestorexam”(6.2to4.3%, higher) for the 2017 Cohort (i.e., participants who completed respectively; a 30.6% reduction). Finally, it’s worth noting that
+
+Frontiers in Psychology | www.frontiersin.org 13 February 2021 | Volume  | Article 56913313
+Stephens et al. Online Academic Integrity Instruction
+TABLE 5 | Intercorrelations among the six latent factors and Cronbach’s alphas by cohort.
+ 
+Factor                                 1                     2                      3                      4                      5                      6                        a
+1. AI Policy USE                       –                     0:24***                 0:20***                0:12**                 0:13***                0:14***                 0:74
+2. Peer Disapproval of AD              0:21***               –                       0:12**                 0:30***                0:27***                0:24***                 0:78
+3. Peer Engagement in AD                0:26***               0:18***               –                      0:22***                0:07*                  0:10**                   0:83
+4. Assignment Cheating                  0:17***               0:25***               0:20***                –                      0:43***                0:47***                  0:70
+5. Plagiarism                           0:12**                0:15***                0:15***               0:48***                –                      0:48***                  0:85
+6. Test or Exam Cheating                0:08                  0:12**                0:08*                  0:36***                0:47***                –                        0:90
+a                                      0:77                  0:80                   0:82                   0:69                   0:85                   0:89
+Intercorrelations and Cronbach’s alphas (a) for the 2012 Cohort (n = 780) are presented above the diagonal, and intercorrelations anda for the 2017 Cohort (n = 608) are
+presented below the diagonal. AI, academic integrity; AD, academic dishonesty; USE, understanding, support, and effectiveness. *p< 0.05, **p < 0.01, ***p< 0.001.
+TABLE 6 | Tests of hypotheses: results from ANOVA comparing cohorts.
+2012 Cohort 2017 Cohort
+Variable M SD M SD 1 Mean F(1,1386) Partial ! 2
+ 
+AI Policy USE                         3.64                 0.66                 3.44                 0.67                  0.20                   31:49***                    0.022
+Peer Disapproval of AD                3.39                 0.99                 3.32                 1.00                  0.07                   1:75                        0.000
+Peer Engagement in AD                 3.09                 1.00                 3.55                 0.92                 0.46                    77:94***                    0.053
+Assignment Cheating                   1.74                 0.78                 1.63                 0.70                  0.11                   6:84**                      0.005
+Plagiarism                            1.64                 0.81                 1.56                 0.75                  0.08                   3:94*                       0.003
+Test or Exam Cheating                 1.18                 0.42                 1.14                 0.36                  0.04                   2:79                        0.002
+2012 Cohort n = 780; 2017 Cohort n = 608; AI, academic integrity; USE, understanding, support, and effectiveness; AD, academic dishonesty. *p< 0.05, **p < 0.01
+***p< 0.001.
+TABLE 7 | Participants self-reported engagement in academic dishonesty by cohort.
+2012 Cohort 2017 Cohort $2 (1, N = 1388) Type of Academic Dishonesty Con Digital Con Digital Con Digital
+Assignment Cheating
+Copied another’s work 34.0% – 26.0% – 10:29*** – Unpermitted collaboration 62.8% – 62.2% – 0:62 – Plagiarism
+Plagiarized a few sentences 40.4% 47.7% 33.6% 47.1% 6:94** 0.05 Test or Exam Cheating
+Used unpermitted notes 8.5% 6.2% 5.6% 4.3% 4:17* 2.37 Copied from someone else 12.8% 5.1% 12.0% 4.8% 0:21 0.09 Overall 79.4% 77.5%
+Con = Conventional; Overall = percent of students who reported engagement in at least one of the eight behaviors surveyed. Given marginal frequencies, bold-faced percents are higher than expected compared to italicized percents. 8p< 0.05, **p < 0.01, ***p< 0.001.
+
+Frontiers in Psychology | www.frontiersin.org 12 February 2021 | Volume  | Article 56913312
+Stephens et al. Online Academic Integrity Instruction
+nearlyfouroutoffiveparticipants(regardlessofcohort)reported engaging at least once in at least one of eight behaviors described.
+Finally, ANOVA used to determine if participants (from the 2017 cohort) who completed the AIC more recently (i.e., relative to the completion date of the survey) reported significantlydifferentperceptionsorbehaviorscomparedtoother participants. As detailed in Table 8, there was no significant differences on any of the six factors based on time elapsed between participants’ completion of the survey and the AIC. In short, contrary to the fifth hypothesis, participants who had completed the AIC within the past 3 months did not report greater understanding or peer disapproval nor lower levels of
+perceived peer or personal engagement in academic dishonesty, compared to participants who completed the AIC at any time further in the past (i.e., from four to 6 months or two or more years ago).
+DISCUSSION
+The present study sought to extend the existing research on the effects of online academic integrity instruction on university students’ perceptions of and engagement in academic dishonesty. Previous research had shown such instruction to
+
+Frontiers in Psychology | www.frontiersin.org  February 2021 | Volume  | Article 569133
+Stephens et al. Online Academic Integrity Instruction
+TABLE 8 | Results from ANOVA based on time elapsed since participants’ completion of the AI course.
+ 
+                                   < 3 months       4 to 6 months       7 to 12 months       1 to 2 years       2 or more years
+Variable                           (n = 38)         (n = 78)            (n = 70)             (n = 222)          (n = 197)               F (4,604)
+AI Policy USE             M        3.55             3.41                3.46                 3.46               3.39                    0.57
+                          SD       0.64             0.73                0.66                 0.68               0.64
+Peer Disapproval of AD    M        3.46             3.39                3.16                 3.29               3.34                    0.78
+                          SD       0.92             0.98                1.13                 0.99               0.98
+Peer Engagement in AD     M        3.53             3.47                3.53                 3.49               3.65                    1.05
+                          SD       0.86             0.90                0.97                 0.94               0.89
+Assignment Cheating       M        1.49             1.52                1.68                 1.70               1.61                    1.54
+                          SD       0.61             0.77                0.64                 0.74               0.66
+Plagiarism                M        1.49             1.44                1.54                 1.62               1.56                    0.34
+                          SD       0.66             0.68                0.70                 0.80               0.74
+Test or Exam Cheating     M        1.09             1.15                1.17                 1.14               1.15                    1.04
+                          SD       0.17             0.27                0.48                 0.35               0.38
+N = 605. AI, academic integrity; USE, understanding, support, and effectiveness; AD, academic dishonesty.
+be effective in increasing knowledge and decreasing cheating, ineffective) in changing students’ perceptions and behaviors
+but results from the present investigation offered mixed related to academic integrity.
+evidence. Contrary to hypotheses, participants who completed From a learning transfer perspective (e.g., Perkins and
+the AIC reported: (1) significantly lower (not higher) levels Salomon,1992),thedifferenceinresultsbetweenpreviousstudie s
+of understanding, support, and effectiveness with respect to and the present investigation is not unexpected. Specifically,
+the University’s academic integrity policies; (2) statistically while the former required only near transfer (a demonstration
+equivalent (not higher) levels of peer disapproval of academic of learning in the same or similar context), the AIC (and others
+dishonesty, and; (3) significantlyhigher(not lower) levels of peer like it) demand far transfer (an impact in a context outside
+engagement in academic dishonesty. However, results related of or remote from the context of learning). The idea of far
+to participants’ personal engagement in academic dishonesty transfer – and disagreement about its possibilities – date back
+offered partial support for hypotheses – those who completed to the early 1900s (cf. Woodworth and Thorndike, 1901; Judd,
+the AIC reported significantly lower rates of engagement on 1908; for a brief review, see Barnett and Ceci, 2002). This lon g-
+three of the eight behaviors included in the study (copying running disagreement over far transfer has been sustained for
+another student’s work, conventional plagiarism, and use of over a century because the empirical evidence for it has also
+unpermitted notes during a test or exam). The effect sizes been divided, particularly for knowledge and skills associate d
+associated with all differences were small. Finally, contrary to with critical thinking and problem-solving (cf. Brown, 1989 ;
+hypotheses, there was no evidence of a recency effect on any Sala and Gobet, 2017). Importantly, research has shown support
+of the six latent factors; participant responses did not varyas for far transfer is more likely to occur when participants are
+a function of the time elapsed between completion of the provided support such as hints or other cues that prompt recall
+AIC and completion of the survey. In short, to the extent of the previous learning and its potential of generalization or
+that AIC had any effects on the perceptions and behaviors applicability in the new situation (e.g., Gick and Holyoak, 1980;
+of those that completed it, they were not always as predicted Halpern, 1998).
+and always modest. Transfer of learning, of course, presupposes that learning
+occurred in the first instance. Given that none of the hypotheses Significance of Findings of the present study were supported (i.e., there were no
+The present investigation offers some potentially important meaningful difference between participants who did and did insights concerning the implementation
+ or delivery of online not complete the AIC, combined with the absence of any instruction related academic integrity. While previous research recency
+ effects), it’s not clear how much was actually learne d had shown such courses or tutorials to be effective in increasing (i.e., processed and stored into
+ memory) from the completing knowledge (e.g., Curtis et al., 2013; Cronan et al., 2017) and the AIC. That said, much like the research on far transfer,
+ decreasing dishonesty (e.g., Belter and du Pré, 2009; Dee and recency effects (themselves a type of near “temporal” transfer, Jacob, 2010; Owens and White,
+ 2013; Zivcakova et al., 2014), see Barnett and Ceci, 2002) are also aided and amplified b y their implementation and assessment was confined to a single
+ prompts and reinforcement (e.g., Lambert and Yanson, 2017). course and over a short period of time. The findings of this study
+ Jonesetal.(2006),forexample,providedevidenceofa“decision al suggest that online courses or tutorials may not be effective when recency effect,” whereby
+ individuals weigh “recent informatio n delivered outside of or abstracted from a specificcourse. In other more heavily, which produces a tendency to choose
+ responses or words, when delivered as a stand-alone registration requirement, actionsthathaverecentlybeenreinforced”(p.316).Inretrospect, online academic
+ integrity instruction appears limited (if not given the context in which the AIC completed (as a
+ registration
+
+Frontiers in Psychology | www.frontiersin.org 13 February 2021 | Volume  | Article 56913313
+Stephens et al.
+Online Academic Integrity Instruction
+requirement and not integrated into any academic course or program of study), the failure to find support for this studies hypothesesisnotsosurprising(evenifsomewhatdisappointing).
+With this in mind, the null findings of this study do not mean that the AIC is useless and unnecessary, but rather that is insufficient when delivered independent of any other efforts to strengthen and support the use of the principles and skills it hopes to teach. Such effortswould include requiring (or at least) encouraging university instructors to reference the AIC in their course,notonlytoremindstudentsoftheprinciplesandpractices associated with academic integrity but to offer specific guidance onhowthoseprinciplesandpracticesarerelevanttotheircourse. More generally, as argued elsewhere (e.g., Bertram Gallant, 2011; Wangaard and Stephens, 2011; Seider, 2012; Alzona, 2014; Stephens, 2015, 2019), more holistic approaches are needed to create a culture of integrity and academic dishonesty. One-off interventions, however, well-designed, are unlikely to ameliorate the long-standing epidemic of academic dishonesty.
+Limitations and Future Directions
+The present study used an observational research design, a “naturalexperiment”withouttruerandomassignmentorcontrol over the administration of the intervention. While convenient and cost-effective, this research design presents limits with respect to making firm causal claims (Campbell and Fiske, 1959). Accordingly, where possible, future studies should use longitudinal or (true) experimental designs to assess with more certainty the effects of interventions such as the AIC. Secondly, these future studies should assess for more and/or different potential outcomes. The present study measured only a handful of perceptions and self-reported behaviors related to academic integrity. Future research should include assessment of other factors such as future behavioral intentions as well as actual knowledge gains associated with completing courses like the AIC and the effects of those gains on demonstrable outcomes (including but not limited to academic dishonesty).
+CONCLUSION
+The results of the present study suggest that short, stand- alone courses on academic integrity have only modest, if any,
+REFERENCES
+Alzona, R. (2014). Creating A Culture of Honesty, Integrity, Article. Business
+Mirror. Available online at: http://go.galegroup.com.ezproxy.auckland.ac.nz/
+ps/i.do?id=GALE%7CA379785136&v=2.1&u=learn&it=r&p=ITOF&sw=w&
+asid=2ddf9b0c98cf1e20f510f3fe6cafb04f (accessed August 23, 2014).
+Anderman, E. M., Griesinger, T., and Westerfield, G. (1998). Motivation and
+cheating during early adolescence. J. Educ. Psychol.90, 84–93. doi: 10.1037/
+0022-0663.90.1.84 Barnett,S.M.,andCeci,S.J.(2002).Whenandwheredoweapplywhatwelearn?A
+taxonomy for far transfer. Psychol. Bull.128, 612–637. doi: 10.1037/0033-2909.
+128.4.612
+Belter, R. W., and du Pré, A. (2009). A strategy to reduce plagiarism
+in an undergraduate course. Teach. Psychol. 36, 257–261. doi: 10.1080/ 00986280903173165
+effects on students’ perceptions and behavior. While previous research has shown such courses capable of producing substantial reductions in academic dishonesty (plagiarism, in particular), these courses were required in the context of a specific course. The AIC, in contrast, was not linked to any specific course or program, and its underwhelming effects likely caused by a failure to transfer. The findings suggest that requiring students to complete a course like the AIC may be useful, but only as part of a more comprehensive approach to promoting academic integrity.
+DATA AVAILABILITY STATEMENT
+The raw data supporting the conclusions of this article will be made available by the authors, without undue reservation.
+ETHICS STATEMENT
+The studies involving human participants were reviewed and approved by the University of Auckland Human Participants Ethics Committee in 2012 (Reference Number 2009/C/026) and again in 2017 (Reference Number 019881). The patients/participants provided their written informed consent to participate in this study.
+AUTHOR CONTRIBUTIONS
+JS: conceptualization, formal analysis, writing – original draft of methods, results, discussion, writing. review, and editing of complete manuscript. PW: project administration, writing – original draft of literature review, writing, review, and editing of complete manuscript. MA: project administration, data entry, and formal analysis. GL: data entry, research for literature review, and writing – original draft of literature review. ST: data entry and research for literature. All authors contributed to the article and approved the submitted version.
+Bertram Gallant, T. (2008). Academic Integrity in the Twenty-First
+Century: A Teaching and Learning Imperative. San Francisco, CA: Jossey-Bass.
+Bertram Gallant, T. (2011). Creating the Ethical Academy: A Systems Approach
+to Understanding Misconduct and Empowering Change in Higher Education. Abingdon: Routledge.
+Bowers, W. J. (1964).Student Dishonesty and its Control in College. New York, NY:
+Columbia University Bureau of Applied Social Research.
+Brown, A. L. (1989). “Analogical learning and transfer: what develops?,” in
+Similarity and Analogical Reasoning, eds S. Vosniadou and A. Ortony (New York, NY: Cambridge University Press), 369–412. doi: 10.1017/ cbo9780511529863.019
+Campbell, D. T., and Fiske, D. W. (1959). Convergent and discriminant validation
+by the multitrait-multimethod matrix. Psychol. Bull.56, 81–105. doi: 10.1037/ h0046016
+
+Frontiers in Psychology | www.frontiersin.org 12 February 2021 | Volume  | Article 56913312
+Stephens et al.
+Online Academic Integrity Instruction
+Chen, F. F. (2007). Sensitivity of goodness of fit indexes to lack of
+measurement invariance. Struct. Equ. Modeling 14, 464–504. doi: 10.1080/
+10705510701301834Cronan,T.P.,McHaney,R.,Douglas,D.E.,andMullins,J.K.(2017).Changingthe
+academic integrity climate on campus using a technology-based intervention.
+Ethics Behav.27, 89–105. doi: 10.1080/10508422.2016.1161514
+Curtis, G. J., Gouldthorp, B., Thomas, E. F., O’Brien, G. M., and Correia, H. M.
+(2013). Online academic-integrity mastery training may improve students’ awareness of, and attitudes toward, plagiarism. Psychol. Learn. Teach.12, 282–289. doi: 10.2304/plat.2013.12.3.282
+Day, N., Hudson, D., Dobies, P., and Waris, R. (2011). Student or situation?
+Personality and classroom context as predictors of attitudes about business school cheating. Soc. Psychol. Educ.14, 261–282. doi: 10.1007/s11218-010- 9145-8
+Dee, T. S., and Jacob, B. A. (2010).Rational Ignorance in Education: A Field
+Experiment in Student Plagiarism: (Working Paper No. 15672). Cambridge, MA: National Bureau of Economic Research.
+Eisenberg, J. (2004). To cheat or not to cheat: effects of moral perspective and
+situational variables on students’ attitudes. J. Moral Educ.33, 163–178. doi: 10.1080/0305724042000215276
+Gick, M. L., and Holyoak, K. J. (1980). Analogical problem solving.Cogn. Psychol.
+12, 306–355. doi: 10.1016/0010-0285(80)90013-4
+Guttman, A. (2004). Sports: The First Five Millenia. Amherst, MA: University of
+Massachusetts Press.
+Halpern, D. F. (1998). Teaching critical thinking for transfer across domains:
+disposition, skills, structure training, and metacognitive monitoring. Am. Psychol.53, 449–455. doi: 10.1037/0003-066X.53.4.449
+Hartshorne, H., and May, M. A. (1928). Studies in the Nature of Character: Studies
+in Deceit, Vol. 1. New York, NY: Macmillan.
+Hu, L. t, and Bentler, P. M. (1999). Cutoff criteria for fit indexes in covariance
+structure analysis: conventional criteria versus new alternatives. Struct. Equ. Modeling6, 1–55. doi: 10.1080/10705519909540118
+Jones, M., and Sieck, W. R. (2003). Learning myopia: an adaptive recency effect
+in category learning. J. Exp. Psychol. Learn. Mem. Cogn.29, 626–640. doi:10.1037/0278-7393.29.4.626
+Jones, M., Love, B. C., and Maddox, W. T. (2006). Recency effects as a window
+to generalization: separating decisional and perceptual sequential effects incategorylearning.J.Exp.Psychol.Learn.Mem.Cogn.32,316–332.doi:10.1037/ 0278-7393.32.3.316
+Jones, N. (2014).Uni Cheats: Hundreds Punished. New Zealand Herald. Available
+online at: https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11240751 (accessed April 19, 2014).
+Judd, C. H. (1908). The relation of special training and general intelligence. Educ.
+Rev.36, 28–42.
+Lambert, A., and Yanson, R. (2017). E-learning for professional development:
+preferencesinlearningmethodandrecencyeffect. J.Appl.Bus.Econ.19,51–63. Lang, J. M. (2013). Cheating Lessons: Learning From Academic Dishonesty.
+Cambridge, MA: Harvard University Press.
+Leming, J. S. (1978). Cheating behavior, situational influence, and moral
+development. J. Educ. Res.71, 214–217. doi: 10.1080/00220671.1978.10885074 Lupton, R. A., and Chapman, K. J. (2002). Russian and American college students’
+attitudes, perceptions and tendencies towards cheating. Educ. Res.33, 17–27.
+doi: 10.1080/00131880110081080 Lupton,R.A.,Chapman,K.J.,andWeiss,J.E.(2000).Across-nationalexploration
+of business students’ attitudes, perceptions, and tendencies toward academic
+dishonesty. J. Educ. Bus.75, 231–235. doi: 10.1080/08832320009599020
+Ma, Y., McCabe, D., and Liu, R. (2013). Students’ academic cheating in Chinese
+Universities: prevalence, influencing factors, and proposed action. J. Acad. Ethics11, 169–184. doi: 10.1007/s10805-013-9186-7
+McCabe, D. L. (2005). Cheating among college and universtiy students: a North
+American perpspective. Int. J. Educ. Integr.1, 1–11.
+McCabe, D. L., and Trevino, L. K. (1993). Academic dishonesty: honor codes and
+other contextual influences. J. High. Educ.64, 522–538. doi: 10.1080/00221546.1993.11778446
+McCabe, D. L., and Trevino, L. K. (1997). Individual and contextual influences
+on academic dishonesty: a multicampus investigation. Res. High. Educ.38, 379–396.
+McCabe, D. L., Trevino, L. K., and Butterfield, K. D. (1999). Academic integrity in honor code and non-honor code environments: a qualitative investigation. J. High. Educ.70, 211–234. doi: 10.2307/2649128
+McLeod, S. A. (2012).Experimental Method: Simply Psychology. Available online
+at: https://www.simplypsychology.org/experimental-method.html (accessed January 14, 2012).
+McNeilage, A., and Visentin, L. (2014). Students Enlist MyMaster Website
+to Write Essays, Assignments. Sydney Morning Herald. Available online
+at: https://www.smh.com.au/education/students-enlist-mymaster-website-to-
+write-essays-assignments-20141110-11k0xg.html (accessed March 21, 2020). Medina, J., Benner, K., and Taylor, K. (2019).Actresses, Business Leaders and
+Other Wealthy Parents Charged in U.S. College Entry Fraud.New York Times,
+(Section A), 1. Available online at: https://www.nytimes.com/2019/03/12/us/
+college-admissions-cheating-scandal.html (accessed March 21, 2020).
+Morgeson, F. P., and Campion, M. A. (1997). Social and cognitive sources of
+potential inaccuracy in job analysis. J. Appl. Psychol.82, 627–655. doi: 10.1037/
+0021-9010.82.5.627
+Murdock, T. B., Miller, A., and Kohlhardt, J. (2004). Effects of classroom context
+variables on high school students’ judgments of the acceptibility and likelihood
+of cheating.J. Educ. Psychol.96, 765–777. doi: 10.1037/0022-0663.96.4.765
+Murdock, T. B., Stephens, J. M., and Grotewiel, M. M. (2016). “Student dishonesty
+in the face of assessment: who, why, and what we can do about it,” inHandbook
+of Human and Social Conditions in Assessment, eds G. T. L. Brown and L. R.
+Harrisx (Abingdon: Routledge), 186–203.
+Owens, C., and White, F. A. (2013). A 5-year systematic strategy to reduce
+plagiarism among first-year psychology university students. Aust. J. Psychol.65, 14–21. doi: 10.1111/ajpy.12005
+Perez-Pena, R., and Bidgood, J. (2012). Harvard Says 125 Students Yay Have
+Cheated on A Final Exam. The New York Times, A18. Available online at: http://www.nytimes.com/2012/08/31/education/harvard-says-125-students- may-have-cheated-on-exam.html?ref=harvarduniversity (accessed March 21, 2020).
+Perkins, D. N., and Salomon, G. (1992). Transfer of Learning International
+Encyclopedia of Education, Vol. 2. Oxford: Pergamon Press, 6452–6457.
+Sala,G.,andGobet,F.(2017).Doesfartransferexist?Negativeevidencefromchess,
+music, and working memory training. Curr. Dir. Psychol. Sci.26, 515–520.
+doi: 10.1177/0963721417712760
+Schwartz, B. M., Tatum, H. E., and Hageman, M. C. (2013). College students’
+perceptions of and responses to cheating at traditional, modified, and non- honor system institutions. Ethics Behav.23, 463–476. doi: 10.1080/10508422. 2013.814538
+Seider, S. (2012).Character Compass: How Powerful School Culture can Point
+Students Towards Success. Cambridge, MA: Harvard Education Press.
+Spivey, N. (2004).The Ancient Olympics. Oxford: Oxford University Press. Stephens, J. M. (2015). “Creating cultures of integrity: a multi-level intervention
+model for promoting academic honesty,” in Handbook of Academic Integrity, ed. T. A. Bretag (Singapore: Springer), 995–1007. doi: 10.1007/978-981-287- 098-8_13
+Stephens, J. M. (2018). Bridging the divide: the role of motivation and
+self-regulation in explaining the judgment-action gap related to academic dishonesty. Front. Psychol.9:246. doi: 10.3389/fpsyg.2018.00246
+Stephens, J. M. (2019). Natural and normal, but unethical and evitable: the
+epidemic of academic dishonesty and how we end it. Change Mag. High. Learn. 51, 8–17. doi: 10.1080/00091383.2019.1618140
+Stephens, J. M., and Gehlbach, H. S. (2007). “Under pressure and under-
+engaged: motivational profiles and academic cheating in high school,” in Psychology of Academic Cheating, eds E. M. Anderman and T. B. Murdock (Amsterdam: Academic Press), 107–139. doi: 10.1016/b978-012372541-7/ 50009-7
+Stephens, J. M., and Nicholson, H. (2008). Cases of incongruity: exploring
+the divide between adolescents’ beliefs and behaviors related to academic cheating. Educ. Stud. 34, 361–376. doi: 10.1080/03055690802 257127
+Stephens, J. M., Romakin, V., and Yukhymenko, M. (2010). Academic motivation
+and misconduct in two cultures: a comparative analysis of U.S. and Ukrainian undergraduates. Int. J. Educ. Integr. 6, 47–60. doi: 10.21913/IJEI. v6i1.674
+
+Frontiers in Psychology | www.frontiersin.org 12 February 2021 | Volume  | Article 56913312
+Stephens et al. Online Academic Integrity Instruction
+Stephens, J. M., and Wangaard, D. B. (2013). Using the epidemic of academic Weeks, J. (2019). More Cheating Cases at University of Auckland,
+dishonesty as an opportunity for character education: a three-year mixed Union Warns of Ghostwriting Threat. Stuff. Available online at:
+methodsstudy(withmixedresults). PeabodyJ.Educ.88,159–179.doi:10.1080/ https://www.stuff.co.nz/national/education/113545622/more-cheating-cases-
+0161956X.2013.775868 at-university-of-auckland-union-warns-of-ghostwriting-threat (accessed Stoesz, B. M., and Yudintseva, A. (2018). Effectiveness of tutorials for promoting June 27, 2019).
+educational integrity: a synthesis paper. Int. J. Educ. Integr.14:6. doi: 10.1007/ Woodworth, R. S., and Thorndike, E. L. (1901). The influence of improvement
+s40979-018-0030-0 in one mental function upon the efficiencyof other functions. Psychol. Rev.8, Ullman, J. B., and Bentler, P. M. (2003). “Structural equation modeling,” in 247–261. doi: 10.1037/h0074898
+Handbook of Psychology, ed. I. B. Weiner (New Jersey, NJ: John Wiley & Sons), Zivcakova, L., Wood, E., Forsyth, G., Zivcak, M., Shapiro, J., Coulas, A., et al.
+607–634. (2014). Investigating perceptions of students to a peer-based academic integrity Universities Australia (2017). UA Academic Integrity Best Practices Priniples. presentationprovidedbyresidencedons. J.Acad.Ethics12,89–99.doi:10.1007/
+Deakin, ACT: Universities Australia. s10805-014-9206-2
+van Beynen, J. (2015). Compulsory Test Cracks Down on Student Dishonesty.
+Wellington: Stuff. Conflict of Interest:The authors declare that the research was conducted in the Visentin, L. (2015). Macquarie University Revokes Degrees for Students Caught absence of any commercial or financial relationships that could be construed as a
+Buying Essays in MyMaster Cheating Racket. The Sydney Morning Herald. potential conflictof interest.
+Available online at: http://www.smh.com.au/national/education/macquarie-
+university-revokes-degrees-for-students-caught-buying-essays-in-mymaster- Copyright © 2021 Stephens, Watson, Alansari, Lee and Turnbull. This is an open-
+cheating-racket-20150528-ghba3z.html (accessed March 21, 2020). access article distributed under the terms of the Creative Commons Attribution Walker, J. (2010). Measuring plagiarism: researching what students do, not what License (CC BY). The use, distribution or reproduction in other forums is permitted,
+theysaytheydo.Stud.High.Educ.35,41–59.doi:10.1080/03075070902912994 provided the original author(s) and the copyright owner(s) are credited and that the Wangaard, D. B., and Stephens, J. M. (2011). Creating A Culture of original publication in this journal is cited, in accordance with accepted academic
+Academic Integrity: A Tool Kit for Secondary Schools. Minneapolis, MN: practice. No use, distribution or reproduction is permitted which does not comply
+Search Institute. with these terms.
+
+Frontiers in Psychology | www.frontiersin.org 12 February 2021 | Volume  | Article 56913312
+Stephens et al. Online Academic Integrity Instruction
+APPENDIX A
+Topical Outline of The University of Auckland’s Academic Integrity Course
+Module 1: Academic integrity at the University
+1.1 What is academic integrity?
+1.2 Understanding the academic environment
+1.3 The University of Auckland Graduate Profiles
+Module 2: Avoiding academic dishonesty
+2.1 Examples of academic dishonesty
+2.2 When working in groups:::
+2.3 When getting and giving help:::
+Module 3: Using and acknowledging the work of others
+3.1 Quoting, paraphrasing and summarizing
+3.2 Citing and referencing
+3.3 Avoid plagiarism
+Module 4: Using copyrighted material correctly
+4.1 What is copyright?
+4.2 How to use copyrighted material?
+4.3 What is Creative Commons? Intellectual property (IP)
+Module 5: Consequences of academic dishonesty at university
+5.1 What happens if someone is academically dishonest?
+5.2 What happens if someone cheats during an exam?
+5.3 Equip yourself
+APPENDIX B
+Assignment Instructions Provided to Students (abbreviated)
+The purpose of this assignment is to provide you with an opportunity to learn about research methods and reporting practices as wellastodeepenyourunderstandingrelatedtosomeoftheorieswehavebeen(orwillbe)readingaboutanddiscussinginthiscourse. To do so, we have decided to structure this assignment around the principles of project-based learning and social constructivism more broadly (e.g., active participation, self-regulation, social interaction and construction of knowledge). The project explored in this assignment concerns academic dishonesty – a serious problem in schools and universities around the world (e.g., Murdock et al., 2016). We have created a shortened form of a questionnaire (the AMIS-SF) comprising “measures” related to academic motivation and moral judgment that have been in the research literature to investigate the problem of academic dishonesty (Anderman et al., 1998; Murdock et al., 2004; Stephens and Gehlbach, 2007; Stephens and Nicholson, 2008; Stephens et al., 2010). As indicated above, this Assignment has two parts.
+You are asked to recruit a total of [8 in 2012, 15 in 2017] UOA students from at least two different faculties) to complete the AMIS-SF. This questionnaire comprises approximately 30 items that measure various perceptions and behaviors related to academic integrity. These topics are covered in your textbook and will be discussed in lectures 3 and 7 during the semester. In addition, you will also receive readings and in-course training related to the research procedures (e.g., when, where, and how to approach potential participants) and ethical principles (e.g., autonomy, confidentiality, and non-maleficence) inherent in conducting survey research. These procedures and principles are of the utmost importance in conducting “good” research; research that not only produces valid and reliable data but also demonstrates respect for study participants throughout the research process.
+Below is a summary of the procedures and principles you must follow when carrying-out this part of the assignment:
+• All potential participants must be approached in public spaces on or around the UOA city campus.
+• As you approach potential participants, please introduce yourself and state your purpose clearly:
+Hello, my name is ______ and I’m conducting some research for an assignment in my educational psychology course. If you’re student at the UOA, like me, I’m hoping you might have a few minutes to complete an anonymous survey. Here [handover PIS] is an information sheet detailing the study and your rights as a participant. [Allow time to read]. Are you willing to participant?
+
+Frontiers in Psychology | www.frontiersin.org 12 February 2021 | Volume  | Article 56913312
+Stephens et al. Online Academic Integrity Instruction
+[If no] No worries, thanks for considering it. Have a great day[move on].
+[If yes].Thanks for your willingness to participant. Here’s the Questionnaire[hand it over, along with the sealable envelope and a pen, if needed]. It should take approximately 5 min to complete, please remember that the survey is anonymous, so please do not write your name or any identification numbers on it or the envelope. Please also recall that your participation is voluntary, and you may stop at any time without given reason. After you’ve completed the survey, please place it in the envelope and seal it before returning to me. Please let me know if you have any questions.
+NOTE: Please give the participant time and space to enter responses privately – do not attempt to look at their response, and only receive questionnaires once they have been sealed in the envelope.
+• After you have collected the sealed envelope, it should be mixed amongst the other envelopes you’ve collected and remained sealed until all Questionnaires are collected.
+Frontiers in Psychology | www.frontiersin.org 12 February 2021 | Volume  | Article 56913312

@@ -1,0 +1,426 @@
+﻿Education and Information Technologies
+https://doi.org/10.1007/s10639-026-14022-z
+Measuring AI literacy in elementary students: development and validation of a psychometric instrument
+ArnabK undu1 · TriptiB ej1
+Received: 28 September 2025 / Accepted: 22 April 2026
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2026
+Abstract
+This study presents the development and validation of the AI Literacy Questionnaire for Children (AILQ-C), a psychometrically robust instrument designed to assess elementary students’ multidimensional awareness, attitudes, and perceived compe- tencies related to artificial intelligence. Grounded in UNESCO’s AI Competency Framework, the AILQ-C captures human-centred, ethical, practical, and system- design dimensions aligned with the framework’s developmental progression (Un- derstand–Apply–Create), focusing on students’ perceptions and orientations toward these competencies. An initial 30-item pool, derived from theoretical review and expert input, underwent face and content validation, cognitive interviews, and pilot testing, resulting in a refined 24-item instrument. Field testing with 480 students (Grades 4–8; Mage = 11.2, SD = 1.1; 51% girls) from ten schools across diverse so- cio-economic settings in eastern India confirmed a four-factor structure, with strong item discrimination (DI = 0.42–0.76), high internal consistency (α = 0.84–0.89), and robust convergent and discriminant validity. Measurement invariance analyses dem- onstrated configural, metric, and scalar invariance across gender and grade levels. While  validated  within  an  Indian  school  context,  the  instrument  provides  a  de- velopmentally appropriate tool for examining children’s AI literacy profiles and informing future research and educational interventions. The AILQ-C may support teachers, researchers, and policymakers in exploring students’ engagement with AI- related concepts and identifying areas for targeted learning support.
+Summary
+What is currently known about this topic?
+• AI literacy is increasingly important for children, yet few valid instruments exist to assess elementary students’ competencies in interacting with AI.
+• Existing tools are largely designed for adolescents or adults, often lacking devel- opmental sensitivity, ethical considerations, or practical applicability for elementary students.
+Extended author information available on the last page of the article
+ 1 3
+
+• UNESCO’s AI Competency Framework offers a global reference for AI education but has rarely been operationalised into developmentally appropriate and psycho- metrically validated instruments for younger learners.
+What does this paper add?
+• This  study  develops  and  validates  the AI  Literacy  Questionnaire  for  Children (AILQ-C), a 24-item instrument covering four dimensions: Human-Centred Mind- set, Ethics of AI, AI Techniques & Applications, and AI System Design.
+• Introduces a developmentally sensitive tool that captures students’ awareness, at- titudes, and perceived engagement with key AI competencies, conceptually aligned with  UNESCO’s  progression  levels  (Understand–Apply–Create),  for  students  in Grades 4–8.
+• Demonstrates robust psychometric properties, including strong item discrimina- tion, high internal consistency, a clear four-factor structure, and strong convergent and discriminant validity.
+• Confirms measurement invariance across gender and grade levels, supporting reli- able assessment of AI literacy across different elementary student groups. Implications for practice or policy
+• Provides educators with a developmentally appropriate tool to explore students’ AI literacy profiles and identify areas where further learning support may be needed.
+• Enables researchers to conduct empirical studies examining AI literacy develop- ment among younger learners.
+• May inform curriculum discussions on responsible and ethical engagement with AI technologies in school education.
+Keywords AI literacy · UNESCO AI competencies · Elementary students · Scale development · Psychometrics · AI in education
+1  Introduction
+Artificial intelligence (AI) is reshaping societies and education systems worldwide, making AI literacy a foundational competence for learners in the 21 st century. Chil- dren increasingly engage with AI technologies in classrooms and homes through voice assistants, recommendation systems, adaptive learning platforms, and gen- erative tools. These early encounters strongly influence their future competencies, ethical orientations, and dispositions toward technology. In response, governments adopted the UNESCO Beijing Consensus on AI and Education in 2019 (UNESCO, 2022), and so far, 15 countries have developed or implemented AI curricula in schools (Kundu & Bej, 2025a). Despite its importance, the assessment of AI literacy among elementary students remains underdeveloped. Most existing instruments focus on adults, teachers, or secondary students (Ng et al., 2024; Su, 2024; Chiu & Lim, 2022), while few robust, psychometrically validated measures exist for elementary school level learners. Available tools often lack both comprehensive theoretical grounding and cross-cultural applicability, leaving a critical gap in evaluating and supporting children’s AI learning.
+
+Education and Information Technologies
+UNESCO (2024) has recently released the AI Competency Framework for Stu- dents (AI CFS), a globally recognised reference point for structuring AI literacy among students. This framework identifies 12 core competencies organised across four interrelated dimensions: (i) Human-centred mindset (awareness of human–AI interaction, agency, and social good), (ii) Ethics of AI (responsibility, fairness, pri- vacy, and safety), (iii) AI techniques and applications (basic concepts, data literacy, and tool use), and (iv) AI system design (design thinking, problem-solving, and evaluation). Each competency is described in three progressive levels—Understand, Apply, and Create—allowing for age-appropriate learning pathways from basic rec- ognition to advanced innovation.
+This holistic framework goes beyond technical knowledge by integrating ethical, social, and cognitive dimensions of AI literacy, aligning strongly with contempo- rary calls for education that develops not only digital skills but also responsible and reflective citizenship. However, no validated scale currently operationalises UNES- CO’s competencies into measurable items suitable for elementary school students. The present study responds to this gap by developing and validating a child-friendly AI literacy scale grounded explicitly in UNESCO’s (2024) framework. By aligning items with the 12 competencies and their progression levels, the tool offers a com- prehensive measure of young learners’ knowledge, attitudes, ethical awareness, and creative capacity in relation to AI. This approach ensures both theoretical coherence and practical utility, enabling teachers and researchers to evaluate AI literacy system- atically and to design pedagogical interventions that foster responsible, equitable, and future-ready engagement with AI.
+2  Literature review
+2.1 Defining AI literacy and its relevance to elementary students
+AI literacy encompasses the conceptual, procedural, and critical capacities required to not only use but also interrogate and shape AI systems (Long & Magerko, 2020). Beyond functional tool use, it integrates recognition of AI, comprehension of under- lying mechanisms, and evaluation of AI’s outputs (Ng et al., 2024). More recent scholarship has extended this definition to include socio-ethical and human-centred dimensions, positioning AI literacy as a critical competence for democratic par- ticipation in algorithmically mediated societies (Ng et al., 2024; Lee et al. 2023). For elementary students, the case is particularly compelling. Children encounter AI daily—through social media, smart assistants, recommendation engines, or adaptive platforms—yet often without recognising the algorithmic processes involved (Chiu 
+& Lim, 2022). Early exposure to structured AI literacy helps prevent misconceptions from crystallising and enables dispositions of curiosity, critical questioning, and ethi- cal awareness to form during formative cognitive stages. Embedding AI literacy in early education not only builds equitable access to future learning trajectories but also develops capacities to engage responsibly with AI’s societal implications. Recent studies also highlight the importance of integrating technological literacy with peda-
+
+3 3
+gogically aligned digital environments to enhance student motivation and compe- tency development in technology-mediated learning contexts (Shannaq et al., 2025).
+2.2 Measuring AI literacy, importance and current gaps
+AI literacy is being rapidly integrated into school curricula worldwide to prepare students for an AI-driven future (Casal-Otero et al., 2023). In India and South Asia, researchers have stressed that without systematic assessment, integration risks deep- ening existing educational inequalities (Kundu & Bej, 2025b). Robust measurement of AI literacy is indispensable for evaluating initiatives, monitoring developmental progress, and aligning pedagogy with international benchmarks (Jin et al., 2025). Valid and reliable instruments allow teachers to differentiate instruction, researchers to compare interventions, and policymakers to inform curriculum reforms. While several instruments exist to assess AI literacy, such as the MAILS (Carolus et al., 2023), the AILQ (Ng et al., 2024), and scales tailored for kindergarten learners (Su, 2024), these tools are either designed for adolescents, adults, or very young children, limiting their applicability to elementary-aged students (approximately ages 6–12) - a time when children transition from concrete to more abstract thinking, acquire critical moral reasoning, and begin forming autonomous learning strategies (Piaget, 1952). Intervening during this phase is therefore crucial, as competencies developed here scaffold more complex skills in adolescence and adulthood (Vygotsky, 1978). Emerging research also emphasizes the role of interdisciplinary perspectives, includ- ing insights from cognitive neuroscience and digital pedagogy, in designing effec- tive technology-enhanced learning environments that foster students’ higher-order competencies (Duangngern et al., 2025). The rapid integration of AI into global school curricula highlights the need for a developmentally appropriate, psychometri- cally sound, and contextually connected instrument specifically for children. At the elementary level, research still depends heavily on informal evaluations, including interviews or activity-based assessments (Carrisi et al., 2025), which lack psycho- metric robustness. Consequently, three limitations persist: (i) inability to track devel- opmental progress systematically, (ii) lack of cross-context comparability, and (iii) misalignment of curricula with international standards. The AILQ-C aims to fill this gap by capturing children’s cognitive, behavioural, affective, and ethical dimensions of AI literacy, ensuring contextual and age-relevant assessment that existing tools do not fully provide.
+2.3 UNESCO’s AI competency framework for students
+UNESCO (2024) introduced the AI CFS, which synthesises human-centred, ethical, technical, and design dimensions into 12 interrelated competencies (Table 1). Cru- cially, these competencies are mapped across three progression levels—Understand, Apply, and Create—thereby aligning with children’s developmental trajectories.
+The strength of UNESCO’s framework lies in its integration of technical fluency with ethical reflection, offering a balanced and internationally comparable reference 
+
+Education and Information Technologies
+Table 1  UNESCO AI competency framework for students
+Dimension Competencies Progression Levels
+1. Human-centred mindset Awareness of AI; Agency in AI interaction;  Understand → Social good Apply → Create
+
+3 3
+Education and Information Technologies
+2. Ethics of AI
+3. AI techniques & applications
+4. AI system design
+Source: UNESCO (2024)
+Responsibility; Fairness; Privacy; Safety Basic concepts; Data literacy; Tool use
+Design thinking; Problem framing; Evaluation
+Understand → Apply → Create
+Understand → Apply → Create
+Understand → Apply → Create
+
+ 
+Education and Information Technologies
+point. Its alignment with global ethical imperatives, particularly the UNESCO (2021) Recommendation on the Ethics of AI, further strengthens its utility for curriculum, assessment, and policy. For this study, it functions as the conceptual anchor: the instrument under development operationalises these competencies into measurable, age-appropriate items. Although UNESCO’s AI Competency Framework provides an important global reference for structuring AI education, it should be viewed pri- marily as a conceptual and policy-oriented guideline rather than a fully empirically validated measurement model. The present study therefore treats the framework as a starting point for operationalizing competencies into measurable indicators.
+2.4 Present study
+Drawing directly from UNESCO’s AI-CFS model, this study conceptualises AI lit- eracy as a multidimensional construct spanning human-centred, ethical, technical, and design domains. Each of the 12 competencies is translated into child-friendly indicators aligned with the three progression levels.
+Figure  1  illustrates  the  framework:  horizontally,  it  represents  the  breadth  of UNESCO’s four dimensions; vertically, it reflects the progression from foundational understanding to applied practice and creative innovation. This mirrors Revised Bloom’s (Krathwohl, 2002) hierarchy from knowledge acquisition to higher-order thinking, while also aligning with constructivist approaches like the 21 st Century Skills Framework (Trilling & Fadel, 2009) and the Partnership for 21 st Century Learning (2019) model that emphasize critical thinking, collaboration, and creativ- ity. By integrating cognitive, ethical, and design dimensions, the framework not only supports knowledge mastery but also fosters transformative learning, preparing stu- dents to engage with AI responsibly and innovatively. Table 2 illustrates this direct alignment: UNESCO borrows Bloom’s progression of cognition, while weaving in P21’s future-ready competencies like ethics, collaboration, and creativity — mak- ing it more holistic for school education. This dual structure ensures that the pro- posed assessment based on this framework captures both cognitive and dispositional aspects of AI literacy, positioning the tool as a rigorous yet developmentally sensitive measure for elementary learners.
+
+3 3
+
+Fig. 1  Conceptual framework for the present study
+Table 2  Conceptual diagram showing UNESCO AI CFS maps Bloom’s taxonomy and 21 st Century Skills (P21) 
+UNESCO  Bloom’s Taxonomy  P21 Skills Integration AI Competency 
+Levels Mapping Example
+Understand Remember/Understand Information Literacy, Awareness  Explain how AI works; 
+of Ethics identify AI in daily life Apply Apply/Analyse Critical Thinking, Problem- Use AI responsibly to 
+Solving, Collaboration solve classroom tasks Create Evaluate/Create Creativity, Innovation, Ethical  Design an AI-based proj-
+Judgment ect with social benefit
+3  Methods
+3.1 Research design
+This study employed a cross-sectional survey design to develop and validate a psy- chometrically robust AI literacy instrument for elementary students. The research adhered to best practices in scale development (Boateng et al., 2018) and comprised three sequential phases: (i) item generation, (ii) pilot testing and face/content vali- dation, and (iii) psychometric evaluation. Ethical approval was obtained from the institutional review board, and all procedures followed ethical guidelines for research with minors, including confidentiality, voluntary participation, and the right to with- draw at any time.
+
+Education and Information Technologies
+3.2 Development of the initial instrument
+The development of the initial instrument was informed by a systematic review of existing AI literacy frameworks, assessment tools, and empirical studies on AI educa- tion for younger learners (e.g., Carolus et al., 2023; Lin et al., 2023; Ng et al., 2024; Su, 2024; UNESCO, 2024). Particular attention was given to UNESCO’s (2024) AI- CFS, which provides a globally endorsed foundation of 12 interrelated competen- cies across four dimensions: human-centred mindset, ethics of AI, AI techniques and applications, and AI system design. Drawing on these sources, an initial pool of 30 items was generated. The items were designed to capture both cognitive and dispo- sitional aspects of AI literacy, ensuring developmental appropriateness for elemen- tary students. For each of the 12 competencies, items were aligned with UNESCO’s three progression levels—Understand, Apply, Create—to reflect a developmental continuum. This design enabled the instrument to evaluate not only knowledge of AI but also the ability to apply concepts and demonstrate critical, ethical engage- ment with AI technologies. The initial version of the instrument therefore covered all four dimensions of UNESCO’s framework: (1) Human-centred mindset, focusing on awareness, agency, and social good; (2) Ethics of AI, including responsibility, fairness, privacy, and safety; (3) AI techniques and applications, such as basic con- cepts, data literacy, and tool use; and (4) AI system design, emphasising design think- ing, problem framing, and evaluation. Table 3 presents the dimensions, definitions, and sample items. By grounding the instrument in both international standards and empirical evidence, the initial 30-item version offered a balanced coverage of techni- cal, ethical, and humanistic elements of AI literacy, providing a solid foundation for subsequent expert validation and psychometric testing. Each item in the initial pool was explicitly mapped to one of the twelve competencies identified in UNESCO’s AI CFS. Multiple items were created for each competency to ensure adequate construct representation across the four dimensions. Statements were phrased in plain, student- friendly English (along with mother language (Bengali) translate) to accommodate varying levels of digital experience, and each item targeted attitudes, self-perceived competence, or beliefs aligned to its respective construct. All items adopted a five- point Likert format (1 = Strongly Disagree to 5 = Strongly Agree), balancing psycho- metric sensitivity with respondent burden. The AILQ-C primarily captures students’ self-reported perceptions, attitudes, and perceived competencies related to AI rather than objective knowledge tests. This approach aligns with prior research (Ng et al., 2024; Su, 2024; Carolus et al., 2023) on technology literacy among younger learners, where self-report instruments are commonly used to assess awareness, ethical orien- tation, and perceived ability to interact with technological systems.
+3.3 Assessing face and content validity
+To establish the face and content validity of the initial 30-item AI literacy instru- ment, a two-stage validation process was undertaken, combining expert judgment with child-centred testing. This process ensured that the instrument was both theo- retically grounded in UNESCO’s (2024) AI CFS and developmentally appropriate for elementary learners. A panel of ten domain experts was purposively selected, 
+
+3 3
+Table 3  Expert validation of 30-item AI literacy questionnaire
+Item No. Statement (shortened) nₑ (Experts said “Essential”) CVR Decision
+1 Recognize AI tools 9 0.80 Retained
+2 AI affects decisions 8 0.60 Retained (borderline) 3 Choose when to use AI 9 0.80 Retained
+4* Stop using AI if disliked 6 0.20 Removed
+5 AI should help everyone 10 1.00 Retained
+6 AI for social good 9 0.80 Retained
+7 Wrong to copy answers 8 0.60 Retained (borderline) 8 Use AI honestly 9 0.80 Retained
+9 AI can be unfair 9 0.80 Retained
+10 AI equal for all children 8 0.60 Retained (borderline) 11 Don’t share personal details 10 1.00 Retained
+12 Tell adult if unsafe 9 0.80 Retained
+13* AI collects my data 6 0.20 Removed
+14 AI learns from data 9 0.80 Retained
+15 AI vs. non-AI tools 8 0.60 Retained (borderline) 16 Predictions from data 9 0.80 Retained
+17 Mistakes from bad data 9 0.80 Retained
+18 AI not always correct 10 1.00 Retained
+19 Use AI for schoolwork 9 0.80 Retained
+20* Ask clear questions 7 0.40 Removed
+21 Learn with AI apps 9 0.80 Retained
+22 Imagine AI solving problems 8 0.60 Retained (borderline) 23 Inputs & outputs of AI 9 0.80 Retained
+24 Solve problems with AI 9 0.80 Retained
+25 Creative ideas for AI 10 1.00 Retained
+26 Check if AI is right/wrong 9 0.80 Retained
+27 Confirm AI with adults 8 0.60 Retained (borderline) 28 Compare different AI apps 9 0.80 Retained
+29 Confident using AI 9 0.80 Retained
+30 Want to learn more 10 1.00 Retained
+including three specialists in AI in education, three in child development and psy- chology, two in educational measurement, and two in pedagogy. All experts pos- sessed doctoral qualifications and had prior publications or professional engagement related to educational technology or learning sciences. Experts were asked to evalu- ate each item on four criteria: (i) relevance to AI literacy, (ii) clarity of wording, (iii) developmental appropriateness for elementary students, and (iv) alignment with UNESCO’s 12 competencies. Following Lawshe’s (1975) method, experts rated each item using a three-point scale (Essential, Useful but not essential, Not necessary). The content validity ratio (CVR) was computed for each item, and items below the critical CVR threshold of 0.62 (for 10 experts) were either revised or removed. The content validity index (CVI) across all items was 0.87, indicating strong consensus on the representativeness of the retained items (Polit & Beck, 2006). Table 3 presents a sample of the CVR results, highlighting retention and removal decisions. The items with borderline values were rewarded and shown to the experts before retaining. For example, one item that originally combined privacy and safety was divided into two 
+
+Education and Information Technologies
+separate items to improve construct clarity, while items with vague terms such as “machines” were reworded to use child-friendly terminology like “AI apps” or “AI tools.” Three items (4, 13, 20) were removed taking expert consensus making the final item pool of 27 items.
+To complement expert review, cognitive interviews were conducted with 16 ele- mentary students chosen conveniently from Grades 4–8, at least one student from each grade. Using a think-aloud protocol, participants read each item aloud and explained its meaning in their own words. Researchers noted items that prompted hesitation, misinterpretation, or reliance on adult clarification. For instance, children struggled with the phrase “non-discrimination in AI,” which was simplified to “AI should be fair to everyone.” Similarly, abstract items were modified to include famil- iar examples (e.g., “AI in video games” or “AI in voice assistants”) to enhance con- textual relevance. This process helped ensure that abstract concepts such as fairness or data use were expressed in language accessible to children. Interview responses were analysed qualitatively by identifying patterns of misunderstanding, hesitation, or ambiguous interpretation. Items flagged by multiple participants were revised to improve clarity and contextual relevance. This iterative process resulted in the refine- ment of five items, yielding a final pool of 27 items with strong face and content validity. The retained items not only reflect the four dimensions and twelve com- petencies of UNESCO’s AI CFS, but also align with elementary students’ cogni- tive, linguistic, and developmental levels. Together, these steps established a robust foundation for psychometric evaluation, ensuring that the refined instrument meets international standards for educational measurement research.
+3.4 Field test and data collection
+The field test was conducted with a total of 500 students (Mage = 11.2 years, SD = 1.1; 50% girls), recruited from Grades 4–8 across 10 schools in a district of eastern India. The sample included six government-run and four privately managed institutions, representing diverse geographic settings—urban, semi-urban, and rural. This pur- posive selection strategy was adopted in recognition of the unequal access to tech- nology and AI exposure in Indian schools. While a small number of elite private schools in metropolitan areas have begun integrating digital tools, robotics, and AI- related activities into the curriculum, the vast majority of government schools and low-fee private schools continue to operate with minimal technological infrastructure (Kundu et al., 2020). By including both government and private institutions from varied locales, the study sought to capture a more representative picture of children’s developing AI literacy under conditions of disparity in access, resources, and peda- gogical practices (UNESCO, 2024). Within schools, stratified random sampling was employed, with strata defined by school type, grades, gender, parental education, and household income. Such an approach enhanced socioeconomic representative- ness, mitigating the risk of over-representation of advantaged groups and thereby strengthening the ecological validity of the instrument (Cohen et al., 2018). The cho- sen grade levels (4–8; approximately ages 9–14) correspond to late childhood and early adolescence, a developmental period marked by significant cognitive transi- tions. At this stage, students begin to engage in higher-order metacognitive processes, 
+
+4 4
+such as abstract reasoning and reflective thinking, which are foundational for grasp- ing AI-related concepts (Piaget, 1952). They are also at an early stage of forming ethical judgments, rendering them particularly suitable for exploring humanistic and socio-ethical dimensions of AI literacy. Although the term “elementary” may vary across educational systems, this study adopts a developmental perspective focusing on learners aged approximately 9–14 years.
+The sample maintained a balanced gender distribution (50% girls, 50% boys), which allowed for the exploration of potential gender-based differences in AI literacy development, an area underexplored in prior research (Holmes et al., 2022). Infor- mal pre-assessments further indicated that all participants had regular exposure to digital devices—smartphones, tablets, or computers—either at home or school, with a majority reporting prior engagement with educational software or online learning environments. This baseline technological familiarity was important for ensuring that the instrument did not presuppose entirely novel interactions. Ethical protocols were rigorously followed. Prior to data collection, informed consent was obtained from parents/guardians, and child assent was secured from all participants. Inclusion cri- teria required that students be currently enrolled in Grades 4–8, demonstrate fluency in the language of instruction (English or the regional language of the school), and be physically and cognitively capable of independently completing the 30-minute ques- tionnaire. Exclusion criteria applied to students with severe learning disabilities or cognitive impairments that prevented independent engagement with the instrument. Data collection was conducted on-site within school premises from January to April 2025, with classrooms serving as the primary test environment to maintain ecologi- cal authenticity. The questionnaire required approximately 25–30 min to complete in a classroom setting. Administration was conducted in groups during regular class time, with trained research assistants available to clarify procedural questions with- out influencing responses. This standardization minimized interviewer bias while supporting student comfort and comprehension. Completion rates were near total, with only 4% of students (n = 480, 51% girls, 49% boys) excluded due to incom- plete responses. This heterogeneous and systematically sampled cohort allowed the study to capture a wide range of variability across age, gender, socioeconomic back- ground, school type, and prior technological exposure. Such diversity was critical for evaluating the psychometric robustness and generalizability of the AI literacy instrument in real-world school contexts. Although 500 students initially participated in the field test, incomplete responses led to the exclusion of 20 cases, resulting in a final dataset of 480 valid responses used for analysis. The final 24-item instrument emerged through a three-stage refinement process: expert validation (30→27 items), exploratory factor analysis identifying cross-loading items, and confirmatory factor analysis confirming the four-factor structure.
+3.5 Data analysis
+Data analysis followed a systematic, multi-stage approach to evaluate the psycho- metric properties of the refined 27-item AI literacy instrument. The process began with data screening, which included checks for missing responses, distributional assumptions, and outliers. Minimal missing data were handled using the expecta-
+
+Education and Information Technologies
+tion–maximization (EM) method. The dataset was then randomly divided into two subsets to enable independent validation of the factor structure: one portion was used for exploratory factor analysis (EFA), and the other for confirmatory factor analy- sis (CFA). We randomly split the dataset for EFA and CFA to independently vali- date the factor structure without needing a second sample, which is often difficult to collect from elementary students due to logistical constraints. This approach is statistically robust when sample sizes are sufficient (Brown, 2015; Worthington & Whittaker, 2006). Methodological guidance suggests that 50–70% of the sample can be used for EFA to explore the latent structure, and 30–50% for CFA to confirm it (Worthington & Whittaker, 2006). The split can be random to ensure representative- ness and maintain independence between the exploratory and confirmatory analyses. We used a 70:30 split depending on the total sample size and the need for sufficient power in both analyses. Item analysis was conducted by examining item discrimina- tion and item–total correlations to assess each item’s effectiveness in differentiating between high and low scorers and its alignment with the overall scale. EFA, carried out using Principal Axis Factoring (PAF) with oblique rotation, was employed to identify the underlying factor structure. PAF was selected due to its robustness when normality assumptions may not be fully met. Oblique rotation was used because the theoretical dimensions of AI literacy were expected to correlate. Items with low load- ings or substantial cross-loadings were revised or removed, yielding a structure that reflected four dimensions: human-centred mindset, ethics of AI, AI techniques and applications, and AI system design. Internal consistency was examined through mul- tiple reliability indices for both the total scale and each dimension. CFA was then performed on the holdout (30%) sample using structural equation modelling (SEM) with maximum likelihood estimation. Model fit was evaluated using several widely accepted fit indices. Convergent validity and composite reliability were assessed to ensure that each competency domain demonstrated adequate measurement quality. In addition, measurement invariance across gender and grade levels was tested through multigroup CFA to verify that the instrument functioned equivalently across different subgroups. This rigorous analytic process confirmed that the instrument possessed strong reliability, construct validity, and structural alignment with the UNESCO AI CFS, making it a robust tool for assessing AI literacy in elementary students across the four targeted dimensions.
+4  Results
+4.1 Item discrimination
+Item discrimination was assessed using both the Discrimination Index (DI) and cor- rected item–total correlations to evaluate the extent to which each item differentiated between students with higher and lower levels of AI literacy. Following conventional practice, the top 27% and bottom 27% of respondents were contrasted based on their total scale scores (Ponterotto et al., 1995). The DI values, calculated as the difference in the proportion of correct or high-agreement responses between these two groups, ranged from 0.51 to 0.76, consistently exceeding the recommended threshold of 0.40 
+
+3 3
+(Ebel & Frisbie, 1991), thereby indicating strong discriminatory capacity. In parallel, corrected item–total correlations were examined to establish the degree of alignment between individual items and the overall construct. All 27 items exceeded the mini- mum acceptable value of 0.30 (Nunnally & Bernstein, 1994), with observed correla- tions ranging from 0.66 to 0.93. These results confirm that each item was strongly integrated with the broader measurement framework, spanning cognitive, affective, behavioural, and ethical dimensions of AI literacy. Overall, the findings demonstrate that the instrument items reliably distinguished between high- and low-performing students, supporting the validity of the scale for capturing diverse levels of AI lit- eracy among elementary students. Table 4 reports the DI values and item–total cor- relations for all 27 items, underscoring the robustness of the scale at the item level.
+4.2 Instrument reliability
+Prior to performing EFA for the instrument’s reliability test, the dataset was assessed for suitability using SPSS (v22). The Kaiser–Meyer–Olkin (KMO) measure of sam- pling adequacy was 0.89, which is considered meritorious (Kaiser, 1974). Bartlett’s 
+Table 4  The item analysis (N = 480) 
+Item Cronbach’s α if item is deleted Mean (SD) Discrimination Index (DI) Item–total correlation
+1	 0.89 3.42 (0.78) 0.68 0.81
+2	 0.90 3.36 (0.81) 0.59 0.74
+3	 0.89 3.55 (0.73) 0.71 0.83
+4	 0.90 3.21 (0.85) 0.54 0.70
+5	 0.88 3.61 (0.69) 0.76 0.92
+6	 0.89 3.58 (0.74) 0.72 0.86
+7	 0.90 3.18 (0.87) 0.52 0.68
+8	 0.89 3.49 (0.76) 0.66 0.80
+9	 0.89 3.43 (0.78) 0.65 0.79
+10	 0.90 3.25 (0.82) 0.53 0.67
+11	 0.88 3.67 (0.70) 0.74 0.91
+12	 0.89 3.52 (0.77) 0.68 0.83
+13	 0.90 3.19 (0.86) 0.50 0.66
+14	 0.89 3.47 (0.75) 0.63 0.78
+15	 0.90 3.26 (0.83) 0.55 0.71
+16	 0.89 3.48 (0.77) 0.66 0.80
+17	 0.89 3.51 (0.76) 0.67 0.82
+18	 0.88 3.64 (0.71) 0.75 0.90
+19	 0.89 3.45 (0.79) 0.64 0.79
+20	 0.90 3.22 (0.84) 0.51 0.67
+21	 0.89 3.50 (0.77) 0.66 0.80
+22	 0.90 3.34 (0.81) 0.58 0.73
+23	 0.89 3.47 (0.76) 0.63 0.78
+24	 0.89 3.53 (0.75) 0.69 0.84
+25	 0.88 3.68 (0.69) 0.76 0.93
+26	 0.89 3.51 (0.77) 0.68 0.83
+27	 0.89 3.56 (0.74) 0.70 0.85
+
+Education and Information Technologies
+(1950) test of sphericity was significant, χ² (351) = 2430.12, p <.001, confirming that the correlation matrix was factorable. Given the theoretical expectation of corre- lated dimensions of AI literacy, PAF with oblique rotation (Oblimin) was employed (Costello & Osborne, 2005). Both the scree plot and parallel analysis supported a four-factor solution, jointly explaining 66% of the total variance. The four factors aligned closely with UNESCO’s AI CFS and were interpreted as:
+ lower-alpha  Human-Centred Mindset (HCM) 1  AI Techniques and Applications (AITA)
+2  Ethics of AI (EAI)
+3  AI System Design (AISD)
+Items with primary loadings ≥ 0.40 were retained. Three items (10, 29, and 30) showed problematic cross-loadings ≥ 0.30 on multiple factors and were removed, resulting in a refined 24-item instrument with an improved KMO value (0.91). For the retained items, factor loadings ranged from 0.43 to 0.79, communalities (h²) from 0.40 to 0.72, and uniqueness (u²) from 0.28 to 0.60, demonstrating that the extracted factors accounted for a substantial portion of item variance. The four extracted fac- tors showed high internal consistency (Table 5), with Cronbach’s alpha values rang- ing from 0.89 to 0.94 (all > 0.70; Nunnally & Bernstein, 1994). The overall reliability coefficient of the instrument was 0.96 (95% CI: 0.95–0.97), reflecting excellent scale reliability. The Root Mean Square of the Residuals (RMSR) was 0.03, indi- cating strong model-data fit, while the Root Mean Square Error of Approximation (RMSEA) was 0.071 (90% CI: 0.067–0.076), signifying acceptable model fit. The average inter-item correlation was 0.64, suggesting cohesive item clustering within each factor. Moreover, removing any single item did not improve Cronbach’s alpha, confirming that each item contributed meaningfully to the construct.
+4.3 Instrument validity
+4.3.1 Construct validity
+Construct validity of the 24-item AILQ-C was evaluated using CFA to verify the four-factor structure identified through EFA. The CFA was conducted in AMOS (v22) with maximum likelihood estimation, assessing model fit using multiple indi- ces recommended for educational measurement (Brown, 2015). The results indicated 
+Table 5  Exploratory factor analysis results for the 24-item AI literacy instrument (N = 336) 
+Factor No. of  Cronbach’s α Variance explained  Example items (%) item 
+loading
+Human-Centred Mindset (HCM) 6 0.91 18% 0.65–0.77 AI Techniques & Applications (AITA) 6 0.89 16% 0.58–0.74 Ethics of AI (EAI) 6 0.94 17% 0.61–0.79 AI System Design (AISD) 6 0.90 15% 0.43–0.72 Overall instrument 24 0.96 (95% CI:  66% (cumulative) —
+0.95–0.97)
+
+3 3
+a good overall model fit: RMSEA = 0.072, SRMR = 0.061, CFI = 0.948, TLI = 0.936, χ² = 1345.72 with df = 246, and χ²/df = 5.47 (Table 6). These indices met accepted thresholds for robust construct validity (Brown, 2015; Hu & Bentler, 1999).
+Standardized item loadings for each factor were all above the benchmark of 0.50 (Table 6), confirming that items adequately represented their respective constructs:
+● Human-Centred Mindset (HCM): 0.61–0.77.
+● AI Techniques and Applications (AITA): 0.58–0.74.
+● Ethics of AI (EAI): 0.63–0.79.
+● AI System Design (AISD): 0.52–0.72.
+All loadings were significant (p <.001), demonstrating that each item contributed meaningfully to its latent factor (Table 7). The CFA results thus confirmed the four- factor structure identified in the EFA and supported the alignment of the instrument with UNESCO’s AI CFS, indicating that the items cluster appropriately around theo- retically derived dimensions of AI literacy. The standardized path diagram illustrat- ing the model structure is presented in Fig. 2.
+4.3.2 Convergent validity
+Convergent validity assesses whether items of a construct are highly correlated and consistently measure the same underlying concept. For the 24-item AILQ-C, conver- gent validity was evaluated using three criteria: standardized factor loadings, Average Variance Extracted (AVE), and Composite Reliability (CR). Following Taherdoost (2016), item loadings should exceed 0.40 to adequately represent the latent construct. All CFA standardized factor loadings met or exceeded this threshold (Table 7), con- firming that each item significantly contributed to its respective factor. AVE measures the proportion of variance in observed items explained by the latent construct, rela- tive to measurement error. An AVE ≥ 0.50 indicates that the latent factor accounts for at least 50% of the variance in its items, demonstrating acceptable convergent valid- ity (Hair et al., 2019; Fornell & Larcker, 1981). As shown in Table 8, AVE values for all four factors ranged from 0.53 to 0.63, confirming strong convergent validity. Composite Reliability (CR) evaluates internal consistency while accounting for vary- ing factor loadings. A CR ≥ 0.70 indicates satisfactory reliability (Hair et al., 2019). 
+Table 6  Goodness-of-fit indices for the CFA Model (N = 144)
+Fit Index Value Recommended Threshold Chi-square (χ²) 1345.72 —
+Degrees of freedom (df) 246 —
+Chi-square/degrees of freedom (χ²/df) 5.47 < 3.00 (Acceptable); < 
+5.0 (Marginal)
+Comparative Fit Index (CFI) 0.948 ≥ 0.95 (Good Fit) Tucker–Lewis Index (TLI) 0.936 ≥ 0.90 (Acceptable); ≥ 
+0.95 (Good Fit)
+Root Mean Square Error of Approximation (RMSEA) 0.072 < 0.08 (Acceptable); < 
+0.06 (Good Fit)
+Standardized Root Mean Square Residual (SRMR) 0.061 < 0.08 (Good Fit)
+
+Education and Information Technologies
+Table 7  CFA standardized fac- tor loadings for the 24-item AI literacy instrument
+Factor Item Standardized Loading HCM 1 0.65
+HCM 2 0.72
+HCM 3 0.68
+HCM 4 0.77
+HCM 5 0.61
+HCM 6 0.66
+AITA 7 0.58
+AITA 8 0.64
+AITA 9 0.70
+AITA 10 0.74
+AITA 11 0.69
+AITA 12 0.62
+EAI 13 0.63
+EAI 14 0.71
+EAI 15 0.79
+EAI 16 0.68
+EAI 17 0.66
+EAI 18 0.72
+AISD 19 0.52
+AISD 20 0.61
+AISD 21 0.70
+AISD 22 0.72
+AISD 23 0.58
+AISD 24 0.65
+
+3 3
+Education and Information Technologies
+The CR values for all four factors ranged from 0.89 to 0.94, demonstrating robust internal consistency.
+4.3.3 Divergent validity
+Discriminant validity was assessed to determine the extent to which each factor of the AI literacy instrument is empirically distinct from the others. Following estab- lished procedures, we applied the Fornell-Larcker criterion, comparing the square root of each factor’s AVE with the correlations between factors (Chin, 1998; Fornell 
+& Larcker, 1981). As shown in Table 9, the square roots of AVE values (0.73–0.79) exceed all corresponding inter-factor correlations (0.44–0.53), indicating that each factor captures a unique dimension of AI literacy. All inter-factor correlations were statistically significant (p <.01), suggesting shared variance under the overarching construct of AI literacy (Kline, 2023), yet the AVE comparison confirms that the four factors—HCM, AITA, EAI, and AISD—are sufficiently distinct.
+To provide a more stringent assessment, we calculated the Heterotrait-Monotrait Ratio of Correlations (HTMT), which compares average correlations across con- structs with correlations within the same construct. HTMT values below 0.85 indicate adequate discriminant validity (Henseler et al., 2015). In this study, HTMT values for all pairs of factors ranged from 0.52 to 0.62, well below the threshold, confirm- ing that each factor represents a conceptually distinct domain of AI literacy (Table 
+
+3 3
+Fig. 2  Standardized path dia- 
+gram of the four-factor model  
+of AILQ-C  
+Table 8 Average variance ex- Factor No. of items AVE CR tracted and composite reliability 
+HCM 5 0.57 0.91 for the AI literacy instrument
+AITA 5 0.53 0.89 EAI 7 0.63 0.94 AISD 7 0.55 0.90
+
+Table 9  Inter-factor correlation matrix and square roots of AVE
+Factor HCM AITA EAI AISD √AVE HCM 1.00 0.48 0.53 0.46 0.76 AITA 0.48 1.00 0.51 0.44 0.73 EAI 0.53 0.51 1.00 0.49 0.79 AISD 0.46 0.44 0.49 1.00 0.74
+ Note: Square roots of AVE appear on the diagonal in bold. Values above diagonal represent inter-factor correlations.
+
+Education and Information Technologies
+10). Together, the Fornell-Larcker criterion and HTMT analyses provide strong evi- dence that the four dimensions of the instrument—HCM, AITA, EAI, and AISD—are empirically distinguishable, supporting the construct validity and theoretical integrity of the AI literacy instrument for elementary students.
+4.4 Measurement invariance
+Measurement invariance of the final 24-item (Appendix A) AILQ-C was assessed across gender (boys vs. girls) and grade levels (Grades 4–8) using multi-group con- firmatory factor analysis (MGCFA) following established procedures (Vandenberg & Lance, 2000). Three levels of invariance were tested sequentially:
+1. Configural invariance (same factor structure across groups).
+2. Metric invariance (equal factor loadings across groups).
+3. Scalar invariance (equal item intercepts across groups).
+Gender Invariance.
+● Configural  model:  χ²  =  1567.42,  df = 1168,  CFI = 0.954,  TLI = 0.946,  RM- SEA = 0.041, SRMR = 0.039.
+● Metric model: χ² = 1612.87, df = 1187, ΔCFI = 0.006, ΔRMSEA = 0.002.
+● Scalar model: χ² = 1668.35, df = 1206, ΔCFI = 0.007, ΔRMSEA = 0.003.
+All ΔCFI values were < 0.01 and ΔRMSEA < 0.015, supporting full configural, met- ric, and scalar invariance across boys and girls.
+Grade-Level Invariance.
+● Configural  model:  χ²  =  2134.56,  df = 1740,  CFI = 0.951,  TLI = 0.943,  RM- SEA = 0.043, SRMR = 0.041.
+● Metric model: χ² = 2189.12, df = 1765, ΔCFI = 0.005, ΔRMSEA = 0.002.
+● Scalar model: χ² = 2245.67, df = 1790, ΔCFI = 0.006, ΔRMSEA = 0.003.
+These results indicate that the AILQ-C demonstrates strong measurement invari- ance across grade levels, suggesting that the instrument assesses the same constructs equivalently for students from Grades 4–8.
+Table 10  Heterotrait-monotrait  Factor HCM AITA EAI AISD ratio matrix
+HCM 1.00 0.58 0.62 0.55 AITA 0.58 1.00 0.60 0.52 EAI 0.62 0.60 1.00 0.57 AISD 0.55 0.52 0.57 1.00
+
+4 4
+5  Discussion
+5.1 Advancing the conceptualisation of AI literacy in children
+This study contributes to the growing body of research on AI in education by devel- oping and validating the AILQ-C, a 24-item instrument designed for elementary stu- dents - a developmental phase where children begin demonstrating emerging abstract reasoning and ethical awareness relevant to AI concepts. Unlike previous measures that predominantly targeted adolescents or adults (Ng et al., 2024; Chiu & Lim, 2022), the AILQ-C extends AI literacy assessment to younger learners by opera- tionalising four dimensions: human–computer mediation, AI tools and applications, ethical AI interaction, and AI societal dispositions. Together, these domains reflect a multidimensional perspective that integrates cognitive, affective, behavioural, and ethical competencies (Lee et al., 2023). In doing so, this instrument not only aligns with UNESCO’s (2024) AI CSF but also extends broader conversations on digital literacy (Ng et al., 2024), computational thinking (Wing, 2006), and media literacy (Livingstone, 2004). By situating AI literacy within this wider ecosystem of litera- cies, the AILQ-C advances theory-building around how children engage with intel- ligent technologies in formative years. While the UNESCO framework includes a “Create” progression level, the present questionnaire format captures students’ orien- tation toward creative engagement with AI rather than direct demonstration of system design or programming skills. As such, the AILQ-C assesses students’ imaginative and problem-framing capacities related to AI rather than their ability to construct AI systems.
+5.2 Psychometric evidence and theoretical implications
+Item analyses demonstrated strong discrimination (DI = 0.51 to 0.76; item–total corre- lations = 0.66 to 0.93), with high internal consistency across all dimensions (α = 0.89– 0.94). These results exceed conventional psychometric benchmarks (Ponterotto et al., 1995), signalling that the instrument can meaningfully differentiate AI literacy levels among young learners. The four-factor structure was supported through EFA and con- firmed by CFA with excellent fit indices (CFI = 0.95; TLI = 0.93; RMSEA = 0.072). Convergent and discriminant validity further established construct robustness. These psychometric findings carry theoretical significance. First, the confirmation of a four- dimensional model provides empirical support for multidimensional frameworks of AI literacy, demonstrating that cognitive knowledge alone is insufficient to capture children’s readiness for AI supporting previous studies (Su, 2024; Ng et al., 2024; Carolus et al., 2023). Second, invariance across gender and grade levels underscores the developmental appropriateness of the instrument, allowing meaningful interpre- tation of differences across populations. This aligns with global debates on ensuring equity in AI education (UNESCO, 2024) and adds to the growing literature calling for tools that are both culturally adaptable and psychometrically rigorous (Kundu 
+& Bej, 2025b; Casal-Otero et al., 2023). The high reliability coefficients observed in the present study may reflect strong conceptual alignment between the items and the underlying construct of AI literacy. However, very high internal consistency may 
+
+Education and Information Technologies
+also indicate potential redundancy among items. Future studies could explore further refinement of the instrument to balance reliability with broader construct coverage.
+5.3 Measurement invariance and cross-cultural potential
+Multi-group CFA indicated configural, metric, and scalar invariance across gender and grade levels, with ΔCFI < 0.01 and ΔRMSEA < 0.015, confirming that the AILQ- C functions equivalently for boys and girls and across Grades 4–8. This robustness strengthens confidence in its use for comparative studies and longitudinal tracking. These findings also suggest the instrument’s potential adaptability beyond the present sample. While the instrument was validated within an eastern Indian district, its theo- retical grounding in UNESCO’s AI Competency Framework and widely recognised constructs (e.g., Bloom’s taxonomy) indicates the possibility of cross-cultural adap- tation, which should be examined through future validation studies in diverse educa- tional contexts. For instance, in contexts where AI integration is more advanced (e.g., Finland or Singapore), the tool may help examine students’ engagement with more advanced AI concepts, whereas in under-resourced regions it may serve as a diag- nostic tool for identifying foundational gaps in AI literacy. Nevertheless, the present findings should be interpreted primarily within the Indian educational context until further cross-cultural validation is conducted.
+5.4 Implications for practice and policy
+The AILQ-C offers immediate practical applications. For teachers, it provides a developmentally appropriate diagnostic tool to map students’ AI literacy profiles, which can inform differentiated instruction and integration of AI tools in classrooms. For school leaders and policymakers, the instrument offers data to evaluate curricu- lum effectiveness, track equity gaps, and monitor the progression of competencies across grade levels. Beyond formal schooling, it could guide parental awareness pro- grammes and informal learning initiatives by highlighting children’s ethical reason- ing and responsible AI engagement. Importantly, the scale bridges the gap between psychometric rigour and classroom usability—features often missing in prior instru- ments designed primarily for research contexts. For example, teachers may admin- ister the questionnaire at the beginning of a course to identify students’ baseline AI literacy profiles and subsequently design targeted instructional activities.
+5.5 Limitations and future research directions
+This study is not without limitations. The cross-sectional design restricts insights into developmental trajectories, and the regional sample limits generalisability. Addition- ally, the purposive sampling strategy, while useful for capturing diverse school con- texts, may further limit the generalizability of the findings. Because the instrument relies on self-reported responses, results may be influenced by comprehension differ- ences or social desirability bias among younger learners. Moreover, emergent aspects of AI literacy—such as collaborative AI problem-solving—remain underexplored in the current instrument.
+
+3 3
+Future research should pursue several directions. First, longitudinal studies are needed to capture the evolution of AI literacy across childhood and adolescence, particularly in response to curricular interventions. Second, cross-cultural valida- tion is essential to establish global transferability and highlight cultural nuances in students’ AI literacy. Third, integration of mixed-methods approaches—such as combining self-report scales with performance-based tasks or observational data— would enhance ecological validity. In particular, the present study focused primarily on internal psychometric validation, and criterion-related validity—such as correlat- ing AILQ-C scores with students’ performance on AI-related tasks—was not exam- ined. Future studies should therefore examine whether questionnaire scores predict students’ observable competence in interacting with AI systems. Collectively, these directions move beyond psychometric validation toward building a global research programme on children’s AI literacy development.
+6  Conclusion
+This study introduced and validated the AILQ-C, a developmentally appropriate instrument that captures elementary school students’ awareness, attitudes, and per- ceived engagement with cognitive, affective, behavioural, and ethical dimensions of AI literacy. By operationalising UNESCO’s competencies for younger learners, the AILQ-C fills a critical gap in early assessment, offering a psychometrically validated tool for examining AI literacy among elementary students. The validated four-dimen- sional structure and demonstrated measurement invariance highlight the instrument’s reliability across diverse groups, enabling meaningful comparisons by gender and grade.
+Beyond its psychometric strength, the AILQ-C offers a potential tool for teachers and researchers to explore students’ AI literacy profiles and identify areas where fur- ther learning support may be required. Importantly, this study underscores the need to foreground students’ ethical reasoning and creative problem-solving in AI educa- tion, rather than limiting discussions of AI literacy to technical knowledge alone. However, the instrument primarily captures students’ self-reported perceptions and orientations toward AI competencies rather than direct demonstration of AI system design or creation abilities.
+While validated in a regional Indian context, the AILQ-C may provide a founda- tion for future cross-cultural adaptation, supporting broader research efforts aimed at understanding how children engage with AI technologies in diverse educational sys- tems. Future research should extend its application in longitudinal and international studies  and  incorporate  complementary  assessment  approaches—such  as  perfor- mance-based tasks—to further examine emerging domains of AI literacy, including collaborative AI practices.
+
+Education and Information Technologies
+Appendix A
+Table 11 AI literacy questionnaire for children (AILQ-C)
+Item No. Item Statement
+Human-Centred Mindset
+1 I can tell when I am using an app or tool that uses AI, such as chatbots or voice assistants. 2 I notice that AI can affect what people choose to watch or play, such as suggesting videos 
+or games.
+3 I feel I can choose when to use AI tools for my schoolwork.
+4 I think AI should be used to help everyone, not just a few people.
+5 I believe AI should be used to solve problems and make the world better (for example in 
+health, the environment, or learning).
+Ethics of AI
+6 I know it is wrong to copy answers directly from AI without trying to solve the problem 
+myself.
+7 I use AI in ways that are honest and fair.
+8 I understand that AI can sometimes treat some people unfairly (for example in games or 
+apps).
+9 I know not to share my personal details (like phone number or address) with AI apps. 10 I can tell a teacher or parent if I see something unsafe or strange while using AI.
+AI Techniques & Applications
+11 I know that people create AI systems and train them using data.
+12 I can tell the difference between AI tools and other digital tools that do not use AI.
+13 I understand that AI makes predictions based on patterns in data it has learned from.
+14 I know AI can make mistakes if the data is not good.
+15 I know that AI answers are not always correct.
+16 I can use an AI app or tool to help me with my schoolwork.
+17 I can use AI to learn new things (like language apps, drawing tools, or chatbots).
+AI System Design
+18 I can imagine how AI could be used to solve a real problem in my school or community. 19 I know that AI takes information (data) and produces results.
+20 I can use AI tools in different ways to help solve problems at school
+21 I like to think of creative ideas for using AI in the future.
+22 I can check whether an AI answer is correct or not.
+23 I know that sometimes I should ask a teacher or parent to check if an AI answer is 
+correct.
+24 I can compare different AI apps or tools to see which one works better.
+Acknowledgements  The authors sincerely acknowledge the Institute for Educational Research and Policy for providing financial support, academic guidance, and valuable inputs during the earlier stages of this manuscript. The authors also extend their heartfelt gratitude to the 480 student participants and the partici- pating schools for their enthusiastic cooperation and for generously sharing their responses, which made this study possible.
+Data availability  The data supporting the findings of this study are available from the corresponding author upon reasonable request.
+
+4 4
+Declarations
+Conflict of interest  The authors declare that they have no conflict of interest, financial or otherwise, related to the authorship or publication of this manuscript.
+References
+Bartlett, M. S. (1950). Tests of significance in factor analysis. British Journal of Statistical Psychology, 
+3(2), 77–85. https://doi.org/10.1111/j.2044-8317.1950.tb00285.x
+Boateng, G. O., et al. (2018). Best practices for developing and validating scales for health, social, and 
+behavioural research: A primer. Frontiers in Public Health, 6, Article 149. https://doi.org/10.3389/f pubh.2018.00149 
+Brown, T. A. (2015). Confirmatory factor analysis for applied research (2nd ed.). Guilford Press. Carolus, A., Koch, M. J., Straka, S., Latoschik, M. E., & Wienrich, C. (2023). MAILS – Meta AI literacy 
+scale: Development and testing of an AI literacy questionnaire based on well-founded competency models and psychological change- and meta-competencies. Computers in Human Behaviour: Artifi- cial Humans, 1(2), Article 100014. https://doi.org/10.1016/j.chbah.2023.100014
+Carrisi, M., Marras, M., & Vergallo, R. (2025). Teaching AI in primary school: Evidence from unplugged 
+activities. Computers & Education, 218, Article 105123. https://doi.org/10.1016/j.compedu.2025.1 05123
+Casal-Otero, L., Catala, A., Fernández-Morante, C., Taboada, M., Cebreiro, B., & Barro, S. (2023). AI lit-
+eracy in K-12: A systematic literature review. International Journal of STEM Education, 10, Article Article No. 29. https://doi.org/10.1186/s40594-023-00418-7
+Chin, W. W. (1998). The partial least squares approach to structural equation modelling. In G. A. Marcou-
+lides (Ed.), Modern methods for business research (pp. 295–336). Lawrence Erlbaum Associates. Chiu, M. M., & Lim, L. (2022). Critical thinking and AI literacy: A conceptual linkage. Educational Tech-
+nology Research and Development, 70(3), 1237–1256. https://doi.org/10.1007/s11423-021-10056-7 Costello, A. B. & Osborne, J., (2005). Best practices in exploratory factor analysis: four recommendations 
+for getting the most from your analysis. Practical Assessment, Research, and Evaluation 10(1): 7. 
+https://doi.org/10.7275/jyj1-4868
+Cohen, L., Manion, L., & Morrison, K. (2018). Research methods in education (8th ed.). Routledge. 
+https://doi.org/10.4324/9781315456539
+Duangngern, P., Wannapipat, W., Srikoon, S., Higuchi, N., & Kwangmuang, P. (2025). Integrating social 
+cognitive neuroscience into digital learning: Strengthening pre-service teachers’ learning design competencies. HighTech and Innovation Journal, 6(1), 328–351. https://doi.org/10.28991/HIJ-202 5-06-01-021 
+Ebel, R. L., & Frisbie, D. A. (1991). Essentials of educational measurement (5th ed.). Prentice Hall. Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation models with unobservable variables 
+and measurement error. Journal of Marketing Research, 18(1), 39–50.https://doi.org/10.1177/0022 24378101800104 
+Hair, J. F., Hult, G. T. M., Ringle, C., & Sarstedt, M. (2019). A primer on partial least squares structural 
+equation modeling (PLS-SEM) (2nd ed.). Sage Publications.
+Henseler, J., Ringle, C. M., & Sarstedt, M. (2015). A new criterion for assessing discriminant validity in 
+variance-based structural equation modeling. Journal of the Academy of Marketing Science, 43(1), 115–135. https://doi.org/10.1007/s11747-014-0403-8
+Holmes, W., Porayska-Pomsta, K., Holstein, K., Sutherland, E., Baker, T., Shum, S. B., Santos, O. C., Rodrigo, M. M. T., & Koedinger, K. (2022). Ethics of AI in education: Towards a community-wide framework. International Journal of Artificial Intelligence in Education, 32(3), 504–526. https://doi .org/10.1007/s40593-021-00239-5 
+Hu, L. T., & Bentler, P. M. (1999). Cutoff criteria for fit indexes in covariance structure analysis: Conven-
+tional criteria versus new alternatives. Structural Equation Modeling: A Multidisciplinary Journal, 6(1), 1–55. https://doi.org/10.1080/10705519909540118
+Jin, Y., Martinez-Maldonado, R., Gasevic, D., & Yan, L. (2025). GLAT: The generative AI literacy assess-
+ment test. Computers and Education: Artificial Intelligence, Article 100436. https://doi.org/10.1016 /j.caeai.2025.100436 
+
+Education and Information Technologies
+Kaiser, H. F. (1974). An index of factorial simplicity. Psychometrika, 39(1), 31–36. https://doi.org/10.10 
+07/BF02291575 
+Kundu, A., Bej, T. & Rice, M. (2020). Time to Engage: Implementing Math and Literacy Blended Learn-
+ing Routines in an Indian Elementary Classroom. Education and Information Technologies, 26, 1201–1220. https://doi.org/10.1007/s10639-020-10306-0 
+Kundu, A. & Bej, T. (2025a). AI-Policies in School Education: A Comparative Study on China, Singapore, 
+Finland, and the US. Journal of Science and Technology Policy Management. https://doi.org/10.110 8/JSTPM-06-2024-0218 
+Kundu, A. & Bej, T. (2025b). Empowering Students Autonomy in EFL Learning: AI Innovations in 
+Schools of the Global South. The Electronic Journal of Information Systems in Developing Coun- tries, 91(6). https://doi.org/10.1002/isd2.70041
+Kline, R. B. (2023). Principles and practice of structural equation modelling (5th ed.). The Guilford Press. Krathwohl, D. R. (2002). A revision of Bloom’s taxonomy: An overview. Theory Into Practice, 41(4), 
+212–218. https://doi.org/10.1207/s15430421tip4104_2
+Lawshe, C. H. (1975). A quantitative approach to content validity. Personnel Psychology, 28(4), 563–575. 
+https://doi.org/10.1111/j.1744-6570.1975.tb01393.x
+Lee, H., Kim, H., & Park, M. (2023). Development of a multidimensional AI literacy framework: The 
+ABCE approach. Journal of Educational Computing Research, 61(1), 45–68. https://doi.org/10.117 7/07356331221089654 
+Lin, P., Chen, W., & Li, J. (2023). Measuring AI literacy in K-12: Systematic review and future directions. 
+British Journal of Educational Technology, 54(6), 1805–1823. https://doi.org/10.1111/bjet.13345
+Livingstone, S. (2004). Media literacy and the challenge of new information and communication technolo-
+gies. The Communication Review, 7(1), 3–14. https://doi.org/10.1080/10714420490280152
+Long, D., & Magerko, B. (2020). What is AI literacy? Competencies and design considerations. Proceed-
+ings of the 2020 CHI Conference on Human Factors in Computing Systems, 1–16. https://doi.org/1 0.1145/3313831.3376727 
+Ng, D., Lee, C., Tan, R., & Koh, E. (2024). Design and validation of the AI literacy questionnaire: The 
+affective, behavioural, cognitive and ethical approach. British Journal of Educational Technology, 55(2), 350–368. https://doi.org/10.1111/bjet.13411
+Nunnally, J. C., & Bernstein, I. H. (1994). Psychometric theory (3rd ed.). McGraw-Hill.
+Partnership for 21st Century Learning. (2019). Framework for 21st century learning. Washington, DC: 
+Author. Retrieved from https://static.battelleforkids.org/documents/p21/P21_Framework_Brief.pdf Piaget, J. (1952). The origins of intelligence in children. International Universities Press.
+Ponterotto, J. G., Charter, R. A., & Campanella, A. (1995). Evaluation of the Multicultural Counseling 
+Awareness Scale. In J. G. Ponterotto, J. M. Casas, L. A. Suzuki, & C. M. Alexander (Eds.), Handbook of multicultural counseling (pp. 247–282). Sage.
+Polit, D. F., & Beck, C. T. (2006). The content validity index: Are you sure you know what’s being 
+reported? Research in Nursing & Health, 29(5), 489–497. https://doi.org/10.1002/nur.20147
+Shannaq, B., Saleem, I., AlRawahi, S., Almhlawi, S., & AlMaqbali, S. (2025). Enhancing student motiva-
+tion and competencies: Integrating e-learning, technological literacy, and cultural alignment. Emerg-
+ing Science Journal, 9(1), 451–467.
+Su, J. (2024). Development and validation of an artificial intelligence literacy assessment for kindergarten 
+children. Education and Information Technologies, 29, 21811–21831. https://doi.org/10.1007/s1063 9-024-12611-4 
+Taherdoost, H. (2016). Validity and reliability of the research instrument: How to test the validation of 
+a questionnaire/survey in a research. International Journal of Academic Research in Management (IJARM), 5(3), 28–36. https://doi.org/10.2139/ssrn.3205040
+Trilling, B., & Fadel, C. (2009). 21st century skills: Learning for life in our times. Jossey-Bass. UNESCO. (2021). Recommendation on the ethics of artificial intelligence. UNESCO. https://doi.org/10. 
+54675/UMKE8874 
+UNESCO. (2022). Guidance for generative AI in education and research. UNESCO.
+UNESCO. (2024). AI competency framework for students. UNESCO.
+Vandenberg, R. J., & Lance, C. E. (2000). A review and synthesis of the measurement invariance literature: 
+Suggestions, practices, and recommendations for organizational research. Organizational Research Methods, 3(1), 4–70. https://doi.org/10.1177/109442810031002
+Vygotsky, L. S. (1978). Mind in society: The development of higher psychological processes. Harvard 
+University Press.
+
+3 3
+Wing, J. M. (2006). Computational thinking. Communications of the ACM, 49(3), 33–35. https://doi.org/ 
+10.1145/1118178.1118215 
+Worthington, R. L., & Whittaker, T. A. (2006). Scale development research: A content analysis and recom-
+mendations for best practices. The Counselling Psychologist, 34(6), 806–838. https://doi.org/10.117 7/0011000006288127 
+Publisher’s note  Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and appli- cable law.
+Authors and Affiliations
+ArnabK undu1 · TriptiB ej1
+  Arnab Kundu
+arnab.kundu@ierp.org.in; arnabkundu5@gmail.com
+1 Institute for Educational Research and Policy, Bankura, India

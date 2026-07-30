@@ -1,0 +1,466 @@
+﻿*  Davy Tsz Kit Ng 
+davyngtk@connect.hku.hk
+Education and Information Technologies (2024) 29:9715–9746 https://doi.org/10.1007/s10639-023-12183-9
+Fostering Secondary School Students’ AI Literacy throughM aking AI‑Driven Recycling Bins
+DavyTszKitNg Faculty ofEducation, The University ofHong Kong, HongKongSAR, China
+  · JiahongSu1· SamuelKaiWahChu School ofNursing andHealth Studies, Hong Kong Metropolitan University, HongKongSAR, China
+
+Received: 13 April 2023 / Accepted: 23 August 2023 / Published online: 19 September 2023 
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2023
+Abstract
+Artificial intelligence (AI) education has gained popularity, and educators are devel- oping activities to enhance students’ AI literacy and promote collaboration in prob- lem-solving. While current approaches using simulations and games can improve students’ AI knowledge, they may not adequately prepare them for higher-level cog- nitive tasks. Only a few studies have explored the use of maker education to develop students’  AI  literacy.  This  case  study  employed  a  mixed-method  approach  and integrated AI into maker education to enhance students’ motivation, career inter- est, confidence, collaboration, and AI literacy across low to high cognitive domains. The study involved 35 secondary school students in an AI maker program, where AI-driven recycling bins were employed as a project-based learning intervention. The results demonstrated a positive impact on students’ motivation, AI literacy, and collaboration. The study provides design principles and an instructional design framework to assist future educators in creating meaningful maker-based learning experiences in AI education. It highlights the potential of using maker education to enhance students’ AI literacy and offers guidance to educators on developing effec- tive AI maker activities. The article also discusses theoretical contributions and practical implications for future research.
+Keywords AI literacy· Maker education· Artifacts· AI education 1  Introduction
+In recent years, there has been increasing attention on artificial intelligence (AI) literacy education. Schools are incorporating AI into STEM and computer educa- tion to foster AI literacy among students. Educators are developing pedagogies and 
+
+3 3
+designing meaningful activities to develop students’ fundamental knowledge and skills behind AI technologies (Chai et al., 2020; Ng et al., 2021; Kong et al., 2021; Xia etal., 2022). However, these approaches to teaching AI primarily focus on basic AI understanding through the use of textbooks, simulations, and games, which may not adequately prepare students for the higher-level cognitive tasks and competen- cies necessary for success in today’s rapidly evolving world (Casal-Otero et al., 2023; Ng et al., 2022). Maker education has long been recognized as an effective pedagogy for fostering students’ STEM education, emphasizing learning through tinkering, coding, and play strategies (Honey & Kanter, 2013; Martinez & Stager, 2013; Timotheou and Ioannou, 2019). Pedagogical strategies, such as project-based learning, design experiences, and makerspaces, can connect students to authentic problems and empower them to evaluate and create AI-driven applications, moving beyond the role of end-users of AI technology.
+AI literacy refers to a set of competencies that enable individuals to critically evaluate AI technologies, communicate and collaborate effectively with AI, and use AI as a tool in various settings, including online, at home, and in the workplace (Long & Magerko, 2020). AI literacy has become an essential 21st-century digital literacy skill that is linked to various important competencies, such as problem-solv- ing, collaboration, and using AI for social good. Merely knowing how to use and understand AI concepts is not enough to foster AI literacy. Instead, students need to become problem-solvers who can effectively utilize AI concepts to solve authentic problems.
+While current AI teaching approaches may promote students’ inquiry and under- standing of AI through simulations and games, they may not be sufficient for pre- paring students for higher-level cognitive tasks (Casal-Otero et al., 2023; Ng et al., 2021; Su etal., 2023b). To foster students’ high cognition levels, instructors adopted practical, hands-on and maker experiences that bridge the gap between AI concepts and real-world applications, thus enhancing their critical thinking, problem-solving, and collaboration skills to foster their AI literacy and preparing them for an AI- driven world (Chiu et al., 2023; Sakulkueakulsuk et al., 2018). This study aims to explore the effectiveness of maker education as a pedagogical approach to enhance students’ ability to apply, evaluate, and create AI through project-based learning. Maker education allows students to ideate solutions and collaborate in creating arti- facts, providing them with a deeper understanding of AI concepts and their appli- cations (Lundberg & Rasmussen, 2018). Project-based learning can help students master  hands-on  experience  and  develop  critical  thinking,  problem-solving,  and communication skills (Helvaci & Helvaci, 2019; Weng etal., 2022).
+During the creative making process, students not only develop AI knowledge and skills, but also gain a deeper understanding of the underlying principles of AI, as well as develop attitudes and abilities such as effective communication and col- laboration (Chai et al., 2021; Kandlhofer et al., 2016). At the same time, it culti- vates students’ career interests and fosters their confidence and motivation, which in 
+
+Education and Information Technologies (2024) 29:9715–9746  9717
+turn enhances their ability to learn and succeed (Lee etal., 2021; Ng etal., 2023b). In addition, creative-making promotes students’ collaboration and communication through project-based experiences, which equips them with teamwork and commu- nication skills (Ng et al., 2022; Hsu et al., 2022a; Williams et al., 2022). It empha- sizes hands-on and open-ended inquiries which address authentic problems (Aranha et al., 2018; Estevez et al., 2019). By doing so, AI learning becomes more relevant for students, as they are able to connect their everyday lives with the concepts and skills they are learning.
+Teaching AI to young learners poses several challenges in instructional design. For example, studies have found it difficult for students to apply AI principles to their creations and applications, and students may struggle to collaborate with their classmates while using AI tools. A pedagogical approach stemming from the maker education has the potential to address these shortcomings and achieve various learn- ing goals. One major difficulty is that AI is a complex subject that requires multi- disciplinary knowledge (Dignum, 2020). While students may have a basic under- standing of AI, it can be challenging to develop higher-order cognitive abilities (e.g., evaluation, creativity) and collaboration (Markauskaite et al., 2022). Maker education offers a hands-on experience that engages students in both problem- and project-based learning. This approach can help students better understand how AI works, and apply AI concepts and other subject knowledge to solve real-world prob- lems (Weng et al., 2022). Moreover, it encourages students to work in groups to design and build AI-driven projects together, which can foster collaboration, sociali- zation, and communication skills that are essential for success in the AI-driven envi- ronment (Kim etal., 2022). Thus, maker education can play a critical role in prepar- ing the next generation for success in the increasingly AI-driven world.
+Recent research supports the notion of using maker education as a means to teach young learners AI. For example, multidisciplinary hands-on projects, such as build- ing machine learning models to automate tasks, creating artwork, writing stories using AI, etc., have been found to enhance students’ higher order thinking skills, including collaboration, critical thinking, and creation (Ng et al., 2022; Tamborg et al.,  2022). Moreover,  such  projects  can  help  students  understand  the  societal impacts of AI and how they can contribute to improving their communities (Chai etal., 2021; Ng etal., 2023a). These skills can help students appreciate the multidis- ciplinary nature of AI (Cañada etal., 2015; Julie etal., 2020).
+In the following section, we analyzed AI literacy education and proposed its cog- nitive domains through literature reviews. Then, we connected AI to existing educa- tional research about maker education and project-based learning. Section4 outlined the research method, including the research and instructional design, data collection and analysis. Section 5 presented the results of the study, and Sect. 6 drew insights by comparing our results with existing literature, and proposed a set of design prin- ciples that addressed our research questions.
+
+3 3
+2  Literature review
+2.1 AI literacy
+This section provides an overview of existing theoretical frameworks for AI liter- acy and discusses the common challenges students face when developing their AI knowledge and skills. It highlights the importance of hands-on projects and col- laborative problem-based learning as effective pedagogies to enhance students’ AI problem-solving skills and prepare them for the challenges of an AI-driven world.
+AI literacy has become an essential component of digital literacy, transforming the way people communicate, learn, work, and live (Long & Magerko, 2020; Ng et al., 2021). Long and Magerko (2020) reviewed interdisciplinary literature and proposed 17 competencies and 15 design considerations for meaningful, learner- centered AI technologies that foster students’ understanding of AI. The guidelines proposed by Long and Magerko (2020) are crucial for developing a conceptual understanding of AI literacy. Authors developed a parsimonious model that adapts AI literacy from classic educational theories. They proposed four cognitive domains (know and understand, use and apply, evaluate and create, and AI ethics) that aim to nurture responsible AI citizens from lower to higher cognitive levels (Ng et al., 2021). The revised model provides a framework for educators to design learning activities that promote students’ understanding of AI and enable them to develop the necessary skills and knowledge to apply AI in real-world contexts. Moreover, the “AI ethics” domain aims to cultivate students’ AI ethical mindsets, including responsibility and transparency when using AI. The study classified AI knowledge and skills according to levels of complexity and considered AI ethics as a critical knowledge of AI.
+To address the question of how to teach AI effectively, previous studies con- ducted systematic reviews and summarized the teaching tools, pedagogies, and key content for educators to integrate AI into their classrooms (e.g., Casal-Otero et al., 2023; Ng et al., 2023c; Su et al., 2023b). Ng et. al., (2022) added AI literacy as an essential digital literacy skill in the P21’s framework, which summarizes essential competencies to succeed in work and life. Su etal. (2023a) discussed teaching AI to students and highlighted the variety of AI topics covered, such as machine learning and deep learning. Different teaching approaches, including inquiry-based learning, project-based learning, and game-based learning, were used in AI classrooms. These reviews provide the basis for designing and implementing instructional methods for AI literacy education.
+Assessing students’ AI literacy can be challenging as there are currently few vali- dated questionnaires to measure their understanding and motivation. To address this gap, researchers have developed various measurement tools to evaluate students’ AI competencies. For instance, Chai etal. (2021) evaluated a pre-tertiary AI curriculum by measuring students’ AI knowledge, readiness, confidence, relevance of learning AI, and intrinsic motivation. Xia et al. (2022) modified the scale to examine stu- dents’ AI learning outcomes across gender and academic backgrounds, focusing on confidence in learning AI content, anxiety levels toward learning AI, attitude toward 
+
+Education and Information Technologies (2024) 29:9715–9746  9719
+Fig. 1  AI literacy cognitive  
+domains (adapted from Ng  
+etal., 2021) 
+AI, and learning motivation without validation. Kong et al. (2023) used a 14-item AI Concepts Test to measure students’ cognitive gains in understanding, applying, analyzing, and evaluating AI concepts. They also used the 10-item AI Literacy Sur- vey to assess students’ perceived levels of AI literacy in areas of AI concepts, using AI concepts for evaluation, and using AI concepts for understanding the real world through problem-solving. Additionally, they developed a17-item AI Empowerment Survey to evaluate four components: AI self-efficacy, meaningfulness, impact, and creative self-efficacy. Wang et al. (2022) designed a 31-item AI literacy scale to measure users’ awareness, usage, evaluation, and ethics of AI concepts, and applied it to evaluate 604 participants across different age groups (Fig.1).
+2.2 Maker education forAI lit eracy development
+Maker education is an educational approach that draws on the principles of experi- entialism, constructivism, and constructionism, empowering students to create what they desire (Kim et al., 2022). It emphasizes hands-on and experiential learning through making, designing, and creating physical objects and/or digital artifacts. It encourages learners to use a range of tools, materials, and technologies to explore their own interests and solve real-world problems (Lundberg & Rasmussen, 2018). Introducing AI in maker classrooms has potential to enhance young learners’ AI lit- eracy development.
+First, this pedagogy emphasizes hands-on making experience and authentic prob- lem-solving (Hu et al., 2020). Students can learn about AI by creating projects and working on real-world problems related to AI. This approach can help students gain a better understanding of complex AI concepts and apply them in authentic settings (Chai etal., 2020). Second, it encourages collaboration and teamwork (Markauskaite etal., 2022). Students can work in group projects to design and build AI-driven arti- facts, which can help them develop social and communication skills. Third, it is interdisciplinary and requires students to apply knowledge from multiple areas, such as science, technology, engineering, and mathematics (STEM). Students can learn about AI from different perspectives, which can help them develop a more holistic 
+
+3 3
+understanding of AI technology. Fourth, it fosters creativity and innovation. It often requires physical prototyping, such as laser-cutting, sensors, and 3D printers to make the AI-driven artifacts. Students can be exposed to different hardware and software, and come up with new and innovative ideas for using AI to solve problems.
+Previous studies in AI education have reported hands-on design projects, such as building a self-driving car, developing a smart home automation system, and cre- ating an intelligent robot, to help students learn AI (e.g., Druga et al., 2022; Ng etal., 2021). However, not many studies explicitly consider themselves maker-based instructional designs. Informed by prior research in STEM education, students can develop  essential  skills  such  as  problem-solving,  communication,  and  creativity through maker-based activities (Hsu etal., 2022b; Kim etal., 2022; Lin etal., 2020). To date, there is limited research on the use of maker-based pedagogy as a compre- hensive approach to AI education. Further research is needed to explore the effec- tiveness of maker-based pedagogy in AI education. Introducing maker education in AI lessons via project-based learning can address students’ learning challenges by providing hands-on learning opportunities, fostering collaboration and interdiscipli- nary learning, and encouraging creativity.
+2.3 Project‑based learning forAI lit eracy development
+Project-based learning (PBL) is often associated with maker activities, as learners design and build prototypes, create models, and use various tools and technologies to implement their ideas (Helvaci & Helvaci, 2019; Whewell et al., 2022). Maker education can include PBL as one of its instructional methods, but it also includes other activities such as tinkering and experimenting with various materials and tools. Researchers have emphasized the benefits of incorporating PBL into STEM activi- ties (Han etal., 2015; Helvaci & Helvaci, 2019; Kier & Johnson, 2021; Hall & Miro, 2016). For example, Helvaci and Helvaci (2019) reported how students designed recycling bin models as a maker activity to enhance their environmental awareness, STEM skills, career interest, and motivation. Kier and Johnson (2021) further high- lighted the importance of collaboration among students through engineering design tasks. In the tasks, collaborative design and maker learning experiences promote teamwork and communication between students, foster strong teacher-student and student–student relationships, and allow students to address real-world problems in their communities. Mahmud et al. (2021) introduced maker-based PBL design to foster young children’s collaboration, engineering literacy and green awareness using visual programming interfaces, Arduino devices, and cardboard. Their study recommends using collaborative problem-based learning to involve students in AI literacy education. By incorporating PBL in AI education, educators can increase students’ confidence, career interest, motivation, collaboration, and knowledge and skill acquisitions.
+In AI education, prior research reported examples of AI-powered projects that young learners can work on to gain hands-on experience and develop their AI lit- eracy skills. For example, Vartiainen et al. (2020) stated that students could build 
+
+Education and Information Technologies (2024) 29:9715–9746  9721
+machine learning (ML) models to train a computer to recognize different objects, such as fruits, animals, or vehicles, in an image using Teachable Machine. Students developed their own predictive models that used ML algorithms to make predictions about a particular dataset, such as the quality of a mango (Sakulkueakulsuk et al., 2018). A second example, Chiu et al. (2023) taught students to develop chatbots that use natural language processing algorithms to understand and respond to their inputs. They trained the computer to recognize different voices using speech recog- nition algorithms. A third example, students in Estevez et al.’s study (2019) devel- oped simple interactive games for learning using the Scratch AI platform (Estevez et al., 2019). In summary, these projects enabled students to gain hands-on experi- ences and simultaneously developed their AI attitudes, knowledge and skills.
+By incorporating PBL into maker education, educators can promote AI literacy, collaboration, and problem-solving skills. Students can engage in hands-on group projects to develop their understanding of AI, work collaboratively to ideate and implement solutions, and address authentic problems such as areas in health and sustainability. By doing so, students can better prepare themselves not only for the challenges of an AI-driven world, but also become responsible citizens who can contribute to improving our communities and the environment.
+Despite the growing interest in teaching AI literacy to young learners, few stud- ies have explored the effectiveness of maker-based activities for secondary students. This study hypothesizes that maker-based activities can help students reach higher cognitive levels, and enhance students’ positive motivation and collaboration. To test this hypothesis, this study investigates how making AI-driven recycling bins can increase secondary school students’ AI literacy. An instructional design based on the Ng etal. (2021) theoretical framework was developed to help students create AI- driven solutions and to solve authentic problems in their daily lives. The study aims to answer three research questions:
+RQ1: What is the effect of making AI-driven recycling bins on secondary school students’ AI literacy learning outcomes?
+RQ2: What is the change in AI motivation among secondary school students towards creating AI-driven recycling bins?
+RQ3: What is the change in AI collaboration among secondary school students towards creating AI-driven recycling bins?
+3  Method
+3.1 Research design
+This  study  used  a  mixed-methods  approach  to  examine  students’  learning  out- comes to gain AI literacy. Thirty-five Secondary 1 students between the age of 12 and 13 in Hong Kong participated in this study. They learned AI through a project about designing and making recycling bins. None of the students had any learning experience related to AI courses before participating in the project. The study was 
+
+3 3
+
+Fig. 2  Research design
+approved by the ethics committee of the university, and received consents from par- ticipants and their school.
+This  study  adopted  Creswell  and  Plano’s  (2018)  mixed-methods  case  study guidelines to generate an in-depth understanding of AI literacy development through maker-based learning. For the quantitative method, an AI literacy questionnaire and knowledge tests were administered before and after the lessons to examine how stu- dents experienced the instruction. For qualitative methods, artifact-based interviews were conducted to triangulate the quantitative findings (Creswell and Plano, 2018) (Fig.2).
+About the maker-based instructions, students engaged in learning activities to under- stand what AI is, experience how AI works, and its societal impacts and ethical concerns through 12 lessons. Each lesson consisted of 40 min, and all the lessons were completed within two months. The classes were taught in a makerspace learning environment located in a computer laboratory in a secondary school. A makerspace is a space that encourages students to engage in making and work with materials, equipment and tools such as sensors, laser-cutting boards, cardboards, and hot glue guns. This environment promotes individual tinkering, social learning, and group collaboration (Saorín et al., 2017). The first author of this study also played the role as a programme designer for these lessons. Two other teachers at the school worked closely with the first author to design and implement the instruction. One of the teachers served as the main instructor and provided all the instructions, while the other teacher helped students provide super- vision and technical assistance when they worked in groups.
+Before starting the course, students were invited to fill in an AI literacy question- naire and a pre-knowledge test to understand their motivation, collaboration, and AI literacy as the baseline of this study. After the intervention, students were invited to the post- knowledge test and AI literacy questionnaire about collaboration, motiva- tion and the four cognitive domains. The questionnaire was validated in Ng et al. (2023e)’s prior research which involved over 300 secondary students. Intrinsic moti- vation, collaboration, and four cognitive domains were selected from the question- naire to measure students’ learning outcomes in this study. The overall Cronbach’s alpha value of the questionnaire was 0.93, which demonstrates excellent reliability of the questionnaire. The research design is illustrated in Fig.3.
+3.2 Instructional design
+This study evaluates the design, development and implementation of a 12-lesson AI learning course that aims to enhance students’ motivation, collaboration, and AI lit- eracy over two months. Ng et al. (2023b) proposed an instructional framework for 
+
+Education and Information Technologies (2024) 29:9715–9746  9723
+
+Fig. 3  AI literacy cognitive domains and learning objectives (Ng etal.,  2021)
+teaching AI literacy, as shown in Fig. 4. Using this model, appropriate pedagogies and teaching tools were used to promote students’ AI literacy learning outcomes. For example, playful simulations such as Quickdraw and Teachable Machine were introduced to students for them to understand machine learning concepts. A few 
+
+Fig. 4  AI literacy instructional framework (Ng etal.,  2023b)
+
+3 3
+examples of the activities implemented include machine learning model building, and writing block-based programs to automate robotics devices and sensors. These activities align with the four cognitive domains to scaffold students’ AI literacy from lower to higher cognition levels (see Fig.3).
+3.2.1 The AI learning course
+Students were introduced to the topic “making an AI recycling bin”. They acquired necessary concepts for this task in the first four lessons, followed by hands-on activities from the fifth to the tenth lesson. During these ten lessons, other than the project, teachers also engaged students in AI learning across broader themes (e.g., creativity, smart city, environmental protection). These topics could provide students hands-on experience for their main task on the recycling bin as well as other scenarios. They learned to write block-based programs, used sensors and developed  simple  applications  to  solve  problems.  After  students  familiarized themselves with these skills, they started making and designing their AI-driven recycling bins in the last two lessons. They were then asked to present their crea- tion and evaluate other groups’ work.
+3.2.2 Learning elements forAI lit eracy andc ognitive development
+To support students in developing engineering, design, and maker perspectives, in the first four lessons, teachers focused on hands-on activities at lower levels (knowing, understanding, applying) so that students could understand what AI is and how it works, such as simulating machine learning model training, data train- ing processes, and adopting relevant software and hardware systems (e.g., block- based programs, laser-cutting boards, cardboards). These activities have shown their effectiveness in prior research (Chiu et al., 2021; Johnson & Smith, 2021; Tamborg et al., 2022).
+Building on this prior knowledge, in the next six lessons, students formed groups of four to five to work on the design and making of their AI-driven recycling bins. By showcasing their work, they address questions such as "What is AI?" and "How do AI-driven recycling bins work?" They also discussed any ethical related con- cerns they had considered during the process. Applying what they had learned about designing prototypes and creating their own recycling bins is regarded as a demon- stration of higher levels of cognition, increasing motivation and peer collaboration. In the last two lessons, students were presented with their work while appreciating others’. Throughout the 12 lessons, students learned basic AI knowledge and skills and thought, made, designed, and presented their work throughout the AI-driven recycling bin creation processes. AI ethical principles such as reliability, safety, privacy, responsibility, inclusiveness, transparency, awareness, accountability, and legal standards were taught throughout the lessons.
+
+Education and Information Technologies (2024) 29:9715–9746  9725
+To create AI-driven recycling bins, students were encouraged to start by con- sidering how they see and perceive the world and to think about how signals are transmitted to computers in a similar way. After exploring how AI works and learning the basics of AI, students built simple programs and machine learning models with a camera to understand the basic mechanism of AI-driven digital cameras. They used a machine learning model training platform (called Teach- able Machine) to understand how hundreds of data could be trained in pictures. Students were introduced to computer science concepts such as pixels, color, and related computer vision theories. Teachers introduced different simple computer vision  algorithms  to  let  students  understand  how  AI  can  manipulate  pixels  in images in a block-based programming interface. In this context, after interpreting the features of garbage images printed on cardboard, the machine could recognize the images and classify them. Neural networks were also introduced to students to identify features from datasets that they could not directly identify from looking at the image.
+3.3 Data collection andanaly sis
+The research tools in this study included a pre and post knowledge-test of AI lit- eracy, and the questionnaire for evaluating the students’ four cognitive domains, motivation, and collaboration. The evaluation criteria of AI literacy are based on the four cognitive domains (see Table 1). The pre-tests (i.e., AI literacy questionnaire, knowledge test) were conducted to understand students’ AI literacy and knowledge before the intervention, and post-tests were intended to examine students’ learning outcome at the end of the course. The pre- and post- knowledge tests each consisted of 20 multiple-choice questions which were designed according to the four cognitive domains.
+First, to evaluate students’ project presentations according to Bloom’s taxonomy, a set of criteria were evaluated. These criteria were adapted from Hu etal. (2020)’s creativity measurement: (1) Originality of ideas, (2) Application value, (3) Design appropriateness, and (4) Ease of use. The four items were measured on a 5-point Likert scale with 1 corresponding to “very poor” and 5 to “excellent”. Second, we used AI literacy questionnaire developed by Ng et al. (2023e) to evaluate learners’ AI literacy, consisting of 39 items with eight dimensions: (1) intrinsic motivation, (2) career interest, (3) confidence, (4) collaboration, (5) know and understand, (6) use and apply, (7) evaluate and create, and (8) AI ethics. For the four motivational constructs, Cronbach’s alpha (α) internal consistency reliability value of the ques- tionnaire was 0.88. Regarding the four cognitive domains, Cronbach’s alpha (α) internal consistency reliability value of the questionnaire was 0.91. All of the items were measured on a 5-point Likert scale with 1 corresponding to “strongly disagree” and 5 to “strongly agree”. For statistical analysis, this study used the SPSS version 27 software.
+
+4 4
+  
+  
+
+Education and Information Technologies (2024) 29:9715–9746  9727
+Table 2  Four cognitive domains and knowledge test results before and after the course
+Before experi- After experi- Pair differ- Effect size Paired t-test ence ence ences
+Mean SD Mean SD t df Cohen’s d p
+Know and understand 3.91 0.31 4.13 0.35 2.42 31 0.51 0.02* Use and apply 3.83 0.46 4.18 0.35 3.21 31 0.62 0.00** Evaluate and create 3.74 0.66 4.16 0.46 3.12 31 3.75 0.00** AI ethics 4.04 0.45 4.25 0.37 2.35 31 0.50 0.03* Knowledge test 2.06 0.91 4.16 0.45 12.8 31 0.94 0.00**
+p < 0.05*; p < 0.01**
+Regarding students’ interview feedback and teachers’ observation, we created an interview protocol (see Appendix2) to verify and elucidate our quantitative results. This process of triangulation can help to strengthen the findings by incorporating multiple sources of data. We analyzed students’ conversations and presentation dia- logues to support the quantitative findings based on artifact-based interviews. Stu- dents’ responses were transcribed and coded into themes. Inductive thematic analy- sis was applied to find patterns of shared meanings according to the RQs (i.e., AI literacy, motivation, collaboration). A coding framework was used when researchers categorized students’ feedback (see Table 1). To ensure reliability, their dialogues were analyzed by the two researchers, and Cohen’s kappa coefficient (0.93) was cal- culated to show a good inter-rater reliability between them.
+4  Results
+To answer the research questions on the changes of AI literacy, motivation, and collaboration before and after experiencing a maker-based AI learning course, this study examined students’ learning outcomes (i.e., pre- and post- knowledge test, AI literacy questionnaire), and the creativity measurement. Paired sample t-tests were conducted to examine whether students gain a significant improvement in AI lit- eracy (RQ1), intrinsic motivation, and collaboration (RQ2). Also, we collected stu- dents’ qualitative feedback to validate their quantitative results (RQ3).
+4.1 Quantitative results
+4.1.1 AI literacy cognitive learning outcomes (RQ1)
+The AI literacy learning outcomes are measured according to Ng et al. (2021)’s four cognitive domains of (1) knowing and understanding, (2) using and applying, (3) eval- uating and creating, and (4) AI ethics. According to the pre- and post-questionnaire, the scores of the “know and understand” increases from mean 3.91 to 4.13 (p < 0.05), 
+
+3 3
+Table 3  Creativity measurement of the project
+ 
+                                     Mean                      SD
+Originality of ideas                 3.56                      0.80
+Application value                    3.88                      1.00
+Design appropriateness               3.56                      0.88
+Ease of use                          3.75                      0.84
+Overall score                        4.51                      0.47
+ 
+
+Table 4  Intrinsic motivation and collaboration before and after the course
+Before experi- After experience Pair differ- Effect size Paired t-test ence ences
+Mean SD Mean SD t df Cohen’s d p
+Intrinsic motivation 4.03 0.45 4.27 0.56 2.21 31 0.62 0.035* Career interest 4.10 0.34 4.23 0.38 1.85 31 0.42 0.074 Confidence 4.03 0.43 4.28 0.42 2.44 31 0.56 0.021* Collaboration 3.71 0.70 4.01 0.42 2.09 31 0.81 0.045*
+p < 0.05*; p < 0.01**
+indicating a significant increase of basic understanding of AI. Regarding the “use and apply” level, the mean increases from 3.83 to 4.48 (p < 0.01); regarding the “evalu- ate and create” level, the mean increases 3.74 to 4.16 (p < 0.01). This shows that stu- dents could reach a higher level of cognition such as analyzing, evaluating and creat- ing towards Bloom’s taxonomy throughout the AI making project. Table 2 shows the means, standard deviations, and paired t-test scores of the pre and post questionnaire results. There is a significant improvement in the four cognitive domains for students throughout the AI-driven recycling bin making. This implies that the design and maker education setting provide students with a learning environment that promotes student cognition levels from lower to higher thinking skills, thus fostering students’ AI knowl- edge. This is also consistent with the knowledge test that the total scores of AI knowl- edge increased from pre-test mean 2.06 to post-test mean 4.16, a composite gain of 2.10 (p < 0.01), indicating a significant enhancement between the pre-test and the post-test.
+Teachers then evaluated students’ creativity (i.e., evaluation criteria of AI-driven recycling bins) as shown in Table3. Based on the four criteria shown, it is identified that originality of ideas was 3.56 (SD 0.80) for originality of ideas, 3.88 (SD 1.00) for application value, 3.56 (SD 0.88) for design appropriateness, and 3.75 (SD 0.84) for ease of use. The overall mean for creating knowledge was 4.51 (SD 0.47). This 
+
+Education and Information Technologies (2024) 29:9715–9746  9729
+
+Fig. 5  Finalized work (left) and prototype (right)
+shows that students could gain a mean score of creativity that is greater than 3 and attain higher order thinking skills.
+4.1.2 Motivational change (RQ2)
+The study investigates how students perceive their motivation in learning AI through making AI-driven recycling bins. The paired sample t-test (α = 0.05) shows that three aspects of motivation: intrinsic motivation, confidence and collaboration have signifi- cantly improved throughout the AI recycling making experience (p < 0.05). This shows that students could become more comfortable and confident with technology and use it to solve problems in everyday life. They tend to believe that they have the capacity to execute positive learning behaviors to produce AI learning performance. However, there is no significant improvement in career interest (p > 0.05). Table 4 shows the means, standard deviations, and paired sample t-test scores of the pre- and post- questionnaire.
+4.1.3 Collaboration (RQ3)
+According to the paired sample t-test, students were able to significantly enhance their collaboration from 3.71 to 4.01 marginally (p = 0.045). This indicates that students were able to collaborate effectively with their classmates and use AI to solve problems together during the maker-based learning experience.
+
+3 3
+
+Fig. 6  Classifying some aluminum
+
+Fig. 7  A block-based program for image recognition
+4.2 Qualitative results
+4.2.1 AI literacy cognitive learning outcomes (RQ1)
+The study further asked students to reflect on their AI-driven recycling bin making experience. A group of students (n = 6) who designed an AI-driven recycling bin as shown in Fig. 5 - 7. They drew a prototype on the right-hand side and displayed a real recycling bin on the left of the presentation slide. In their presentation, they showed a basic understanding of AI. “Through making an AI-driven recycling bin, we under- stand how AI works and learn how it conducts object or image recognition on datasets. However, it takes a lot of time to perfect (train) the model.” This reflection indicates that students were able to grasp the basic concepts of machine learning, computer vision, and image recognition. Furthermore, they were able to apply these concepts and relevant tools to solve problems and train their machine learning models.
+
+Education and Information Technologies (2024) 29:9715–9746  9731
+A student said, “There could be many errors in my design. We used paper cards that showed images of aluminum cans, water bottles and papers. However, in real- ity, the garbage is not paper cards. It’s hard to classify real objects. We think that our design is still in its early stages. And it can be advanced through rigorous model training and testing processes with more data sets. It takes a lot of time to increase more samples.” Likewise, another student said, “We installed a camera and a servo there. When we put some card papers that show images of garbage in front of the camera, it will automatically classify which garbage it belongs to. We prepared a lot of garbage images for the card papers, trained a machine learning model, and rec- ognized the common characteristics of garbage.” These examples demonstrate how students can develop a higher cognition level of AI literacy through AI-driven recy- cling bin making. They learn about the limitations of their machine learning meth- ods and the importance of data in enhancing the accuracy of their models. Addi- tionally, one student evaluated the effectiveness of the machine learning model that their team created, highlighting the importance of evaluation and assessment in the development of AI literacy.
+As shown in Fig. 6, another group of students (n = 6) demonstrated in a video presentation on how their AI-driven recycling bin could classify an aluminum can. The students put the card paper in front of their camera, and the door of the recy- cling bin that belongs to the aluminum cans would open. After demonstrating how the hardware works, the student further explained how the working mechanism and block-based program works behind. In Fig. 7, students captured the images (card papers) through the camera and called the well-trained machine learning model. They wrote a repeat loop to conduct image recognition for nine objects with their labels such as paper bag, book, newspaper, garbage can, plastic comb. The block- based programs could be translated into Python programs in real-time.
+This study also found that students could practice empathy and adopt AI for social good and shared with us the current challenge of waste management in Hong Kong. A student said, “According to our research, we found that Hong Kong has to deal with an unsustainable amount of waste in such a small geographical area of 1,100 km square. We need a better solution to manage waste and recycling. There- fore, we invented a machine learning software with sensors and a computer vision system.” This example shows that students could not only demonstrate their AI knowledge, but also show their ethical mindsets to make AI-driven recycling bins and understand the special impacts of the inventions.
+4.2.2 Motivational change (RQ2)
+At the end of the design and making experience, we investigated how students might be motivated to develop AI literacy, and why career interest did not show significant difference in the questionnaire. Students reported that the overall learning experi- ence was enjoyable and playful. They suggested several components (e.g., playful experience, authentic experience, co-construction) that could help them enhance intrinsic motivation, confidence and self-efficacy of learning AI.
+
+3 3
+According to interviews, students suggested the importance of playful interac- tions and experience. A student said, “I enjoy the activities proposed by teachers. For example, I can use Quickdraw to learn machine learning. It’s fun and interesting to find that there are many ways to draw a thing (such as a shoe). This motivates and inspires me to think more about AI ethics and machine learning working principles behind.” Another student commented, “Teachable Machine is an interesting simula- tion for us to build ML models quickly via hands-on and playful experience.” The explanations clearly identify the role of playful experiences with the use of appropri- ate teaching tools to develop basic understanding of AI during maker-based learning.
+In addition to boosting students’ motivation, maker-based pedagogy can also help build their confidence in using various AI applications and tools. By engaging in design and make learning activities, students can develop a deeper understanding of how AI works and how it can be used to solve real-world problems. “Before learn- ing about AI, I thought it would be challenging. However, as I began the design and making process, I discovered that there were tools and applications available that allowed me to build machine learning models without needing to know how to code. For instance, I collected many cardboard pieces and used a camera to capture images of them, which I could then use to train and improve my model. To my sur- prise, building the model was not as difficult as I had initially imagined.”
+Quantitative results indicate that students did not show a significant increase in their interest in pursuing a career in AI. In fact, one student provided feedback, “As a secondary one student, I think it’s too early for me to consider AI as my career.” While the educational program may not have directly influenced students’ career aspirations, it is still valuable for them to gain exposure to AI concepts and skills. Additionally, the program may have sparked students’ curiosity and motivation in learning AI, even if they do not ultimately pursue it as a career. To strengthen the elements that are related to career aspirations, a teacher proposed, “We can invite AI professionals or alumni to give talks and guide students in their projects. Career counseling  and  mentoring  plays  an  important  role  to  enhance  students’  career development.”
+4.2.3 Collaboration (RQ3)
+To understand how collaboration behaviors facilitate students’ design and making process, and AI literacy development. We interviewed a group of students to under- stand their needs and experiences. Students claimed that they could also resolve technical difficulties together through teamwork. A student commented, “In reality, people work together to solve problems (in an AI environment). Before the project, I thought it’s not possible to make a recycling bin using AI techniques. But in the end, we learned from each other to make the solutions come true.” A teacher suggested some recommendations to enhance collaboration that could further be enhanced, and said, “The existing instructional design could encourage collaboration among students. However, there could be room for improvement. For example, we can assign students into roles so that some students, especially those who are not good at computers, can also show their strength of conducting research and presentation.” This approach is consistent with the findings of Sankaranarayanan etal. (2020), who 
+
+Education and Information Technologies (2024) 29:9715–9746  9733
+proposed using collaborative project-based learning to assign students to different roles within their groups. This approach can enhance students’ teamwork skills and help them develop a sense of responsibility for the different aspects of their AI pro- jects. By working together in a structured and collaborative environment, students can learn from each other and develop a range of skills that are essential for success in the AI field.
+5  Discussion
+5.1 Cognitive development
+Given the successful implementation of maker-based education in STEM learning, it is essential to investigate students’ cognitive development about AI. Regarding the first RQ, it was not surprising to find that the students had a higher level of AI knowledge and ethical understanding after the lessons. They also demonstrated sig- nificant improvement in cognition skills related to using and applying, evaluating, and creating AI. The current methods of teaching AI, such as textbooks, games, and simulations, often struggle to engage students at a high cognitive level due to their lack of prior experience with AI learning (e.g., Dignum, 2020; Weng et al., 2022). A few studies adopted maker pedagogy via project-based learning to develop stu- dents’ high levels of cognition skills (Hsu et al., 2022a). This study added values to existing maker education papers that design appropriate maker-based environments to engage students to use and apply AI concepts, evaluate between AI applications, and create AI artifacts, as well as their critical understanding about AI ethics.
+According to previous research, maker pedagogy is identified to be an effective approach  to  further  stimulate  students’  high-order  thinking  tendencies  (Hwang, 2023; Kim et al., 2022; Lundberg & Rasmussen, 2018). It provides students with the opportunity to explore playful tools and materials for meaningful hands-on cre- ation, providing an entry point for the students in learning AI (Hsu et al., 2021). Recent AI education studies have shown its pedagogical potential in developing students’ competencies to apply AI concepts, evaluate between AI applications, and create AI-driven artifacts (e.g., Sabuncuoglu, 2020; Wong et al., 2020). For example, Hsu et al. (2021) created an instructional program that aimed to improve young students’ AI literacy through a "learning by doing" approach. Initially, stu- dents learned basic understanding of AI and practical skills through using MIT App Inventor and Personal Image Classifier. Next, they advanced their knowledge and skills to create a robot car using a laser-cutting machine, a personal image clas- sification application, and a micro: bit with Bluetooth capabilities to receive sig- nals from mobile apps. In Sabuncuoglu (2020)’s study, students could explore and have playful learning experiences with digital and physical materials (e.g., sensors, laser-cutting boards, AI tools) to build machine learning (ML) models and ideate their solutions.
+Pedagogically, this study proposed the importance of scaffolding for introduc- ing students to basic AI concepts and practical skills to build their familiarity with 
+
+3 3
+how AI works. Once they are comfortable with the fundamentals, they can then empathize  with  the  problems’  pain  points,  select  appropriate  sensors,  structure their  algorithms,  brainstorm  solutions,  and  critically  evaluate  the  ethical  impli- cations involved (Sabuncuoglu, 2020; Wong et al., 2020). This is similar to how students learn STEM knowledge via maker pedagogy with a systematic approach (Hwang, 2023; Kelly & Knowles, 2016), before ideating their solutions, students need to gain adequate knowledge and skills to manipulate with the tools through playful experiences. Then, they could apply what they have learnt to solve authen- tic  problems.  In  addition,  project  authenticity  is  a  crucial  pedagogical  element that promotes real-world problem-solving, as demonstrated by the students who designed, tested, and built their waste sorting machines. Throughout the process, students  effectively  refined  their  AI-driven  recycling  designs  by  prototyping, improving algorithms, enhancing model accuracy, and reducing data noise to build physical products. By learning through trial and error and observing presentations from their peers, students gained a better understanding of the concepts and skills being taught (Hwang, 2023; Murai et al., 2022). This study can serve as a refer- ence for future researchers who plan to incorporate authentic learning elements into maker-based instructional designs to foster students’ AI literacy. By engaging in these activities, students were able to develop high cognition skills such as prob- lem-solving and creativity skills, while also experiencing a sense of achievements and excitement as they visualized the outcomes during their AI-driven making pro- cess. While existing studies have explored the roles of motivation in AI education (e.g., Chiu et al., 2023; Ng et al., 2021), this study provides new insights into how motivation can impact students’ development of high cognition skills through the process of making.
+5.2 Motivating students tolea rn AI via making
+The second RQ investigated students’ motivational aspects such as intrinsic moti- vation, self-efficacy of learning AI, and confidence of using AI. Drawing on the findings of this study, maker pedagogy via project-based learning is an effective strategy for enhancing students’ motivation and promoting both low and high lev- els of AI understanding. In the past, AI was taught at university levels, and it was difficult to teach in secondary schools. As students do not have prior experience of learning AI, they may feel challenged before they start learning AI. With appropri- ate pedagogical approaches and teaching tools, educators could help students moti- vate their AI learning, and build their confidence in using AI tools. This is consist- ent with previous research that age-appropriate instructional design (e.g., playful experience, authentic problem solving, simulation) could make students feel opti- mistic and positive towards understanding the challenging AI concepts (Chiu et al., 2021; Ng et al., 2021). Furthermore, this study found that students do not have a significant improvement in career interest. One possible reason is that students may not have a strong interest in career aspirations, as it may be too young for Second- ary 1 students to imagine their future career (Luo et al., 2021).
+
+Education and Information Technologies (2024) 29:9715–9746  9735
+5.3 Co‑constructing AI knowledge
+The third RQ found that students gained their collaboration throughout maker-based learning. Maker-based pedagogy can create a constructivist learning environment that encourages students to enhance their collaboration, communication, and co- construct knowledge together via artifact creation (Mahmud et al., 2021; Saorín etal., 2017). Some studies claimed that learning AI via project-based learning could be challenging for students, especially those without strong technical background (e.g., MacLeod & van der Veen, 2020; Ng etal., 2021). When educators incorporate collaborative project-based learning, students could help each other to solve prob- lems together such as designing the outlook of the bin, writing programs, assem- bling the hardware, and doing research and presentations. These components require different skills such as computational thinking, design thinking, making, research skills, and presentation skills. Collaboration among students can be powerful for leveraging their strengths and co-constructing knowledge, which can motivate each other to learn, thus creating their final products successfully (Ng etal., 2023b; Chu et al., 2021; Saad & Zainudin, 2022). Appropriate collaborative teaching strategies are important. For example, role assignment is recommended in maker-based envi- ronments that help structure students’ collaboration and communication, and dis- courage divide-and-conquer of jobs. Moreover, aligned with the industry practices in computer science and engineering fields (e.g., Sankaranarayanan et al., 2020; Zuill & Meadows, 2016), students could make decisions, solve problems, create abstractions and encounter challenges according to their roles. For example, Cañada et al. (2015) explored the use of AI-driven intelligent agents to solve problems in groups using the Google AI Challenge platform. It is found that students could gain their knowledge of AI, motivation, and cooperation and organization skills. Future research can explore how collaborative behavior is promoted during the AI-driven making process. This study adds educational value by exploring the factor of col- laboration that helps students construct AI knowledge and create their own artifacts.
+5.4 Three design principles
+Based on the discussion according to the three RQs, some design principles of col- laborative project-based learning were proposed in this study to enhance project authenticity and high-order thinking skills, motivation and collaboration.
+Principle 1: Enhance project authenticity to foster students’ cognitive devel- opment. Project-based learning insituated learning could enhance students’ knowl- edge transfer, adaptation of materials and innovate their project design (e.g., Prof Tedre. Vartiainen et al., 2021; Toivonen et al., 2020). This approach was mostly adopted which involved students’ creation of AI-driven solutions. A number of prior AI education research included utilized group work activities to foster students to learn basic machine learning concepts and applications (e.g., Ossovski & Brink- meier, 2019; Sakulkueakulsuk etal., 2018). Sakulkueakulsuk etal. (2018) proposed the Four Ps of Creative Learning (Projects, Passion, Play, and Peers) to foster stu- dents’ creating machine learning models and categorize the quality of mangoes.
+
+3 3
+
+Fig. 8  Maker-based learning environment
+Principle 2: Leverage students’ motivation through playful and multidis- ciplinary experience. Learning AI could be challenging for most students. Using everyday experiences, serious games and gamified interventions could enhance stu- dents’ motivation and reduce learning difficulties. With the design of collaborative project-based learning in a playful environment, students could learn basic knowl- edge before making a real product. Appropriate pedagogical approaches and teach- ing tools (e.g., games, simulation, block-based code interfaces) allowed students to play and interact with AI-driven intelligent agents that provided students with fun learning experiences for them to get familiarized with AI. On top of playful experi- ence, a multidisciplinary approach is also important to develop AI concepts (Sabun- cuoglu, 2020). This is consistent with prior STEM education studies that making learning artifacts is a shift from technology-inspired designs towards multidiscipli- nary instructional designs. To align with global trends in STEM education, educa- tors are increasingly encouraging students to apply concepts by developing artifacts via digital means such as Scratch, intelligent agents, software development, virtual robots with neural networks and search strategies (Estevez et al., 2019). As such, the project-based learning intervention in this study suggests an interdisciplinary instructional design to motivate students to do computational thinking and problem- solving and enhance their communication and collaboration skills (Cañada et al., 2015). Figure8 provides a visual summary of the three design principles that can be used to enhance students’ learning outcomes in AI education.
+Principle 3: Reinforce co-constructing behavior. Since AI literacy is proposed to be an important twenty-first century skill, collaboration and communication are often considered to be important components that learners should empower them- selves to succeed in today’s world. To promote students’ collaboration and commu- nication, students were assigned into teams. However, it is reflected that we should further assign roles for each student, and reinforce students’ co-constructing behav- ior. To mimic design team collaboration in the real world, students were assigned to complementary roles associated with their responsibilities which focus on different work of their AI project in the future studies. In this way, the study could effectively structure their collaboration between students. Inspired by the industry practices of computer science projects (e.g., Sankaranarayanan et al., 2020; Zuill & Meadows, 
+
+Education and Information Technologies (2024) 29:9715–9746  9737
+2016), students needed to make decisions, solve problems, create abstractions and encounter challenges according to their roles. The project manager was responsible for making sure their team is complying with and performing their responsibilities. The navigator could make decisions on the next course of action based on previ- ous discussions in their groups. Two researchers consulted resources such as under- standing the background of projects and what types of AI technologies they have. At the end of the project, the teachers facilitated the project manager to lead the group through reflections. Throughout the project, students were asked to rotate their roles, reflect on their learning progress and present their final products.
+5.5 Contribution ofthestudy
+5.5.1 Theoretical contribution
+This study provides a case study exploring how collaborative project-based learning is incorporated in AI literacy education. Collaborative project-based learning can potentially benefit students by developing their AI literacy, socialization, motivation, confidence to learn and use AI in a student-centered design and making experience (Laal & Ghodsi, 2012). This study attributes the opportunities provided for learn- ers to experience the manipulation of authentic STEM and AI relevant objects (e.g., sensors, transistors, laser-cutting materials, and cardboard) that help students under- stand prototyping and implementation through their design and making processes. They could also conduct authentic AI engineering or programming methods (e.g., assembling hardware, developing software and ML models). This enabled novice learners, as young as secondary students, to integrate their AI knowledge, skills, and creativity in real-world applications, which helps spark their interest and knowledge in STEM and AI education (Chiu, 2023; Garduño-Aparicio etal., 2017; Ng & Chu, 2021).
+Maker-based pedagogy has been proposed as an effective approach to teaching AI education, as it provides students with hands-on experiences and promotes crea- tivity, critical thinking, and problem-solving skills (Ossovski & Brinkmeier, 2019; Sakulkueakulsuk et al., 2018). However, for educators who are new to teaching AI, there may be a lack of understanding about the most effective instructional ele- ments to incorporate in maker-based pedagogy. Based on the findings of this study, incorporating authentic elements and encouraging co-construction behavior experi- ences can be an effective strategy for enhancing students’ motivation and AI literacy. Moreover, the study informed how maker pedagogy was adopted in AI education that use playful and hands-on activities, and interdisciplinary projects to support students to apply what they have learned, evaluate different tools, solve problems, and simulate their creativity to ideate solutions. So far it is still unclear for educa- tors about how maker-based pedagogy has been used in AI literacy education. This study contributes to the development of instructional design principles and prac- tices that promote AI literacy in a maker-based setting. It provides empirical evi- dence supporting the effectiveness of maker-based pedagogies and teaching tools, which can facilitate future researchers to refine instructional design, and develop 
+
+3 3
+meaningful assessment methods and guidelines that help educators to teach AI in their classrooms.
+5.5.2 Practical contribution
+The second contribution of this study is the design of learning activities and the use of meaningful assessments (e.g., questionnaires and interview protocols) to measure students’ AI literacy development. This study echoed previous research by demon- strating that hands-on activities can foster learners’ higher-order thinking levels (Ng etal., 2021; Sakulkueakulsuk etal., 2018; Wong etal., 2020). The playful and less- challenging learning experience (e.g., Quickdraw, Teachable Machine) prepared stu- dents’ basic understanding about AI before engaging in hands-on activities such as creating an AI-driven recycling bin using laser-cutting materials, sensors, cardboard, machine learning models, and block-based programs (see Figs.5–7). With basic AI knowledge, students could further deepen their AI knowledge, skills, motivation, and collaboration by creating ideas for tangible and digital resources for recycling bin construction. The learners understood the working mechanism behind AI, so they created their own artifacts through co-construction and interactions with AI- driven intelligent agents.
+The findings of this study provide practical guidance for educators on how to implement effective maker-based instructional design in AI education, considering the learning content, tools, and pedagogy to develop students’ AI literacy from lower to higher cognition levels, as well as their AI ethics. Educators can use the proposed instructional inputs, including learning and teaching pedagogies, digital resources, and assessment methods, to design meaningful curricula that empower students’ learning in AI literacy education. The proposed framework for instructional design, as shown in Fig.5, can serve as a practical tool for educators to design activities and learning materials that align with the learning goals, students’ characteristics, and learning environment in AI education.
+As a theoretical and empirical contribution, the AI literacy education setting with the use of the AI-for-all curricula was constructed based on the practice and reflec- tion from a pilot study among Secondary 1 computer science education. Here are some recommendations based on this study to refine the instructional design for the next cycle:
+• Adding actual playful elements could allow students to simulate AI concepts and enhance their learning interests. Through the playful tasks, students could learn about machine learning, neural networks, and AI ethics in an interesting way.
+• Project-based learning could address real-world problem solving. Students could apply what they have learnt in the lessons to express their ideas and solve prob- lems through developing digital and physical artifacts (e.g., robots, inventions). This  also  encourages  students’  minds-on  thinking  (i.e.,  thinking  about  what they are doing) and higher-order thinking (e.g., creativity, evaluation) through inquiry-based research.
+
+Education and Information Technologies (2024) 29:9715–9746  9739
+• Collaborative learning could facilitate students’ communication and co-con- struct knowledge together. Students could also resolve technical difficulties and learning challenges to complete their tasks through cooperating with their partners.
+• Since AI concepts could be complex to learners, cognition support with dif- ferent levels of difficulty should be offered to reduce the cognitive load in AI learning.
+• There is a need for a multidisciplinary approach to learn AI. AI was applied in our everyday lives and had a great impact across industries (e.g., environmental protection in this study). Students could observe daily life problems, and ideate and create AI applications for social good.
+6  Conclusion
+While there are many studies on the effectiveness of AI literacy instructional design, including motivation, AI competencies, and collaboration in different settings (Chiu etal., 2021; Ng etal., 2023d), few have examined the maker-based approach to stud- ying secondary students’ AI literacy development processes. Previous studies have explored simulation and game-based approaches to support hands-on and interactive experiences for young learners in AI education. However, teachers also find it dif- ficult to enhance students’ higher cognition skills, especially evaluation and creativ- ity. This study contributes to the field by providing evidence to support the use of a maker-based approach with project-based learning design for AI literacy education. This is valuable for future researchers investigating how different pedagogies and learning tools can scaffold students’ AI learning.
+Examining AI design and maker education is in its infant stage. More effort is needed to document successful learning design, and evaluate how students gained their learning experiences in terms of various dimensions. This study used to make AI-driven recycling bins as an example for Secondary 1 students to develop their AI knowledge, motivation and collaboration. Based on the findings of the three RQs, three design principles were proposed to reinforce the problem-based learn- ing in design and maker education: (1) Enhance project authenticity to foster stu- dents’ cognitive domains; (2) Reinforce co-constructing behavior, and (3) Lever- age  students’  motivation  through  playful  and  multidisciplinary  experience.  This set of design principles and instructional design framework could help educators to develop meaningful design and maker-based learning in AI education.
+Some limitations were identified. Our study does not have a control group and involves a set of different AI technologies in different international groups. Instead, the students could only experience the AI design and making experience during the curriculum implementation. Second, there are many components in this study which enhance students’ learning outcomes. Future studies could examine how particular AI technologies, such as Teachable Machine and Python robotics, and chatbot devel- opments, can enhance students’ AI learning more effectively.
+
+3 3
+Appendix A
+AI literacy questionnaire (adapted from Ng etal., 2023e).
+Intrinsic motivation (4 items).
+IM01The AI concepts I learn are relevant to my life.
+IM02Learning AI is interesting.
+IM03Learning AI makes my life more meaningful.
+IM04I am curious about discovering new AI technologies.
+Career interest (5 items).
+CI01Learning AI will help me get a good job in the future.
+CI02Knowing AI will give me a career advantage.
+CI03Understanding AI will benefit me in my future career.
+CI04My future career will involve AI.
+CI05I will use AI-related problem-solving skills in my career.
+Confidence (4 items).
+CF01I can understand AI related resources.
+CF02I feel confident that I will do well in the AI related tasks.
+CF03I am confident I can learn the basic concepts about AI.
+CF04I am confident I can choose appropriate AI applications to solve problems. Collaboration (4 items).
+CO01I often try to explain the AI learning materials to my classmates or friends. CO02I try to work with my classmates to complete the AI learning tasks and projects. CO03I often spend spare time discussing AI with my classmates.
+CO04I usually ask classmates for help when I meet difficulties in AI activities.
+Four cognitive domains
+Know and understand AI (5 items).
+KU01I know what AI is and recall the definitions of AI.
+KU02I know how to use AI applications (e.g., Siri, chatbot).
+KU03I know some working principles behind AI (e.g., linear model, decision      tree, machine learning).
+KU04I understand how AI perceives the world (e.g., see, hear) to handle various tasks.
+KU05I can compare the differences between AI concepts (e.g., deep learning, machine      learning).
+Use and apply AI (4 items).
+UA01 I can apply AI concepts (e.g., computer vision, natural language processing)      to solve authentic problems.
+UA02 I can use AI applications (e.g., sensors, machine learning model trainer) to solve      authentic problems.
+UA03 I can analyze the working mechanism of an AI system (AI-driven recycling bin). Evaluate and create AI (4 items).
+EC01I can derive a machine learning model to solve problems.
+EC02I can create AI-driven solutions (AI-driven recycling bin) to solve problems.
+
+Education and Information Technologies (2024) 29:9715–9746  9741
+EC03I can evaluate AI applications and concepts for different situations.
+EC04I can evaluate the functions of AI components (e.g., sensors, machine learning      model trainers) to make an AI-driven recycling bin.
+AI ethics (9 items).
+AIE01I think that AI systems should perform reliably and safely.
+AIE02I think that AI systems need to be subjected to rigorous testing to ensure they      work as expected.
+AIE03I think that AI systems should respect privacy.
+AIE04I think that AI developers are responsible for considering AI design and      decision processes.
+AIE05I think that AI systems should benefit everyone, regardless of physical abilities      and gender.
+AIE06I think that AI systems should be transparent and understandable.
+AIE07I think that users should be made aware of the purpose of the system, how it      works and what limitations may be expected.
+AIE08I think that people should be accountable for using AI systems.
+AIE09I think that AI systems should meet ethical and legal standards.
+Appendix B
+Interview protocols.
+Sample interview questions for students are prepared as follows:
+•Do you enjoy learning about AI and making with AI?
+•What interests you about learning AI through maker-based activities?
+•How did you build confidence in using AI tools to solve problems throughout maker-based activities?
+•Have the maker-based activities influenced your career interests? If so, how? •What difficulties did you encounter while learning AI in the maker-based activi- ties?
+•What is your understanding of AI? What AI concepts have you learned in terms of knowing AI, using AI, creating with AI, and AI ethics?
+•Why did you design the recycling bin in this way? How do you plan to improve your design in the future?
+Data Availability Data available on request due to privacy/ethical restrict. Declarations 
+The datasets generated during and/or analysed during the current study are available from the correspond- ing author on reasonable request.
+
+4 4
+References
+Akgun, S., & Greenhow, C. (2021). Artificial intelligence in education: Addressing ethical challenges in 
+K-12 settings. AI and Ethics, 431–440.
+Aranha, E. A., dos Santos, P. H., & Garcia, N. A. P. (2018). EDLE: An integrated tool to foster entrepre-
+neurial skills development in engineering education. Educational Technology Research and Devel- opment, 66, 1571–1599.
+Auerbach, J. E., Concordel, A., Kornatowski, P. M., & Floreano, D. (2018). Inquiry-based learning with 
+RoboGen: An open-source software and hardware platform for robotics and artificial intelligence. IEEE Transactions on Learning Technologies, 12(3), 356–369.
+Baartman, L., & Ruijs, L. (2011). Comparing students’ perceived and actual competence in higher voca-
+tional education. Assessment & Evaluation in Higher Education, 36(4), 385–398.
+Benek, I., & Akcay, B. (2019). Development of STEM Attitude Scale for Secondary School Students: 
+Validity and Reliability Study. International Journal of Education in Mathematics, Science and Technology, 7(1), 32–52.
+Borenstein, J., & Howard, A. (2021). Emerging challenges in AI and the need for AI ethics education. AI 
+and Ethics, 1, 61–65.
+Cañada, J., Mateo Sanguino, T. J., MereloGuervós, J. J., & Rivas Santos, V. M. (2015). Open classroom: 
+Enhancing student achievement on artificial intelligence through an international online competi- tion. Journal of Computer Assisted Learning, 31(1), 14–31.
+Casal-Otero, L., Catala, A., Fernández-Morante, C., Taboada, M., Cebreiro, B., & Barro, S. (2023). AI 
+literacy in K-12: a systematic literature review. International Journal of STEMEducation, 10(1), 29. Celik, I. (2023). Towards Intelligent-TPACK: An empirical study on teachers’ professional knowledge 
+to ethically integrate artificial intelligence (AI)-based tools into education. Computers in Human 
+Behavior, 138, 107468.
+Chai, C. S., Lin, P. Y., Jong, M. S. Y., Dai, Y., Chiu, T. K., & Huang, B. (2020). Factors influencing 
+students’ behavioral intention to continue artificial intelligence learning. 2020 International Sympo- sium on Educational Technology (ISET) (pp. 147–150). IEEE. https://ieeexplore.ieee.org/abstract/ document/9215506/
+Chai, C. S., Lin, P. Y., Jong, M. S. Y., Dai, Y., Chiu, T. K., & Qin, J. (2021). Perceptions of and behavio-
+ral intentions towards learning artificial intelligence in primary school students. Educational Tech- nology & Society, 24(3), 89–101.
+Chen, C. H., & Su, C. Y. (2019). Using the BookRoll e-book system to promote self-regulated learning, 
+self-efficacy and academic achievement for university students. Journal of Educational Technology & Society, 22(4), 33–46.
+Chiu, T. K. (2023). The impact of Generative AI (GenAI) on practices, policies and research direction in 
+education: a case of ChatGPT and Midjourney. Interactive Learning Environments, 1-17.
+Chiu, T. K., Meng, H., Chai, C. S., King, I., Wong, S., & Yam, Y. (2021). Creation and evaluation of a 
+pretertiary artificial intelligence (AI) curriculum. IEEE Transactions on Education, 65(1), 30–39. Chiu, T. K., Moorhouse, B. L., Chai, C. S., & Ismailov, M. (2023). Teacher support and student moti-
+vation to learn with Artificial Intelligence (AI) based chatbot. Interactive Learning Environments, 
+1–17.
+Chu, S. K. W., Reynolds, R. B., Tavares, N. J., Notari, M., & Lee, C. W. Y. (2021). 21st century skills 
+development  through  inquiry-based  learning  from  theory  to  practice.  Springer  International Publishing.
+Creswell, J., & Plano Clark, V. (2018). Designing and conducting mixed methods research (3rd ed.). 
+Thousand Oaks, CA: Sage.
+Dignum, V. (2020). AI is Multidisciplinary. AI Matters, 5(4), 18–21.
+Druga, S., & Ko, A. J. (2021). How do children’s perceptions of machine intelligence change when train- ing and coding smart programs?. Interaction design and children (pp. 49–61). ACM. https://doi.org/ 10.1145/3459990.3460712
+Druga, S., Otero, N., & Ko, A. J. (2022). The landscape of teaching resources for ai education. Proceed-
+ings of the 27th ACM Conference on on Innovation and Technology in Computer Science Education Vol. 1 (pp. 96–102)
+Essinger, S. D., & Rosen, G. L. (2011). An introduction to machine learning for students in second-
+ary education. 2011 Digital Signal Processing and Signal Processing Education Meeting (pp. 243– 248). IEEE.
+
+Education and Information Technologies (2024) 29:9715–9746  9743
+Estevez, J., Garate, G., & Graña, M. (2019). Gentle introduction to artificial intelligence for high-school 
+students using scratch. IEEE access, 7, 179027–179036. https://ieeexplore.ieee.org/abstract/docum ent/5739219.
+Garduño-Aparicio, M., Rodríguez-Reséndiz, J., Macias-Bobadilla, G., & Thenozhi, S. (2017). A multi-
+disciplinary industrial robot approach for teaching mechatronics-related courses. IEEE Transactions on Education, 61(1), 55–62.
+Greenwald, E., Leitner, M., & Wang, N. (2021). Learning artificial intelligence: Insights into how youth 
+encounter and build understanding of AI concepts. Proceedings of the AAAI Conference on Artifi-
+cial Intelligence, 35(17), 15526–15533. https://ojs.aaai.org/index.php/AAAI/article/view/17828.
+Hall, A., & Miro, D. (2016). A study of student engagement in project-based learning across multiple 
+approaches to STEM education programs. School Science and Mathematics, 116(6), 310–319.
+Han, S., Capraro, R., & Capraro, M. M. (2015). How science, technology, engineering, and mathemat-
+ics (STEM) project-based learning (PBL) affects high, middle, and low achievers differently: The impact of student factors on achievement. International Journal of Science and Mathematics Educa- tion, 13, 1089–1113.
+Helvaci, S. C., & Helvaci, I. (2019). An Interdisciplinary Environmental Education Approach: Determin-
+ing the Effects of E-STEM Activity on Environmental Awareness. Universal Journal of Educational Research, 7(2), 337–346.
+Honey, M., & Kanter, D. (2013). Design, make, play: Growing the next generation of STEM innovators. 
+Routledge.
+Hsu, T. C., Abelson, H., Lao, N., Tseng, Y. H., & Lin, Y. T. (2021). Behavioral-pattern exploration and 
+development of an instructional tool for young children to learn AI. Computers and Education: Arti- ficial Intelligence, 2, 100012.
+Hsu, T. C., Abelson, H., & Van Brummelen, J. (2022a). The effects on secondary school students of 
+applying experiential learning to the Conversational AI Learning Curriculum. International Review of Research in Open and Distributed Learning, 23(1), 82–103.
+Hsu, T. C., Chang, Y. S., Chen, M. S., Tsai, I. F., & Yu, C. Y. (2022b). A validity and reliability study of 
+the formative model for the indicators of STEAM education creations. Education and Information Technologies, 1–24.
+Hu, C. C., Yeh, H. C., & Chen, N. S. (2020). Enhancing STEM competence by making electronic musical 
+pencil for non-engineering students. Computers & Education, 150, 103840.
+Hwang, Y. (2023). When makers meet the metaverse: Effects of creating NFT metaverse exhibition in 
+maker education. Computers & Education, 194, 104693.
+Jobin, A., Ienca, M., & Vayena, E. (2019). The global landscape of AI ethics guidelines. Nature Machine 
+Intelligence, 1(9), 389–399.
+Johnson, B., & Smith, J. (2021). Towards ethical data-driven software: filling the gaps in ethics research 
+&  practice.  2021  IEEE/ACM  2nd  International  Workshop  on  Ethics  in  Software  Engineering Research and Practice (SEthics) (pp. 18–25). IEEE.
+Julie, H., Alyson, H., & Anne-Sophie, C. (2020). Designing digital literacy activities: an interdisciplinary 
+and collaborative approach. 2020 IEEE Frontiers in Education Conference (FIE) (pp. 1–5). IEEE. https://ieeexplore.ieee.org/abstract/document/9274165
+Kandlhofer, M., Steinbauer, G., Hirschmugl-Gaisch, S., & Huber, P. (2016). Artificial intelligence and 
+computer science in education: From kindergarten to university. 2016 IEEE frontiers in education conference (pp. 1–9). IEEE.
+Kelley, T. R., & Knowles, J. G. (2016). A conceptual framework for integrated STEM education. Interna-
+tional Journal of STEM Education, 3, 1–11.
+Kier, M. W., & Johnson, L. L. (2021). Middle school teachers and undergraduate mentors collaborating 
+for culturally relevant STEM education. Urban Education, 00420859211058412.
+Kim, J. Y., Seo, J. S., & Kim, K. (2022). Development of novel-engineering-based maker education 
+instructional model. Education and Information Technologies, 27(5), 7327–7371.
+Kong, S. C., Cheung, W. M. Y., & Tsang, O. (2023). Evaluating an artificial intelligence literacy pro-
+gramme for empowering and developing concepts, literacy and ethical awareness in senior second- ary students. Education and Information Technologies, 28(4), 4703–4724.
+Kong, S. C., Cheung, W. M. Y., & Zhang, G. (2021). Evaluation of an artificial intelligence literacy 
+course for university students with diverse study backgrounds. Computers and Education: Artificial Intelligence, 2, 100026.
+
+4 4
+Ku,  H.  Y.,  Tseng,  H.  W.,  &  Akarasriworn,  C.  (2013).  Collaboration  factors,  teamwork  satisfaction, 
+and student attitudes toward online collaborative learning. Computers in Human Behavior, 29(3), 922–929.
+Laal, M., & Ghodsi, S. M. (2012). Benefits of collaborative learning. Procedia-Social and Behavioral 
+Sciences, 31, 486–490.
+Larson, R. W., & Rusk, N. (2011). Intrinsic motivation and positive development. Advances in Child 
+Development and Behavior, 41, 89–130.
+Lee, S., Mott, B., Ottenbriet-Leftwich, A., Scribner, A., Taylor, S., Glazewski, K., Hmelo-Silver, A., & 
+Lester, J. (2020, June). Designing a collaborative game-based learning environment for AI-infused inquiry learning in elementary school classrooms. Proceedings of the 2020 ACM conference on innovation and technology in computer science education (pp. 566–566).
+Lee, I., Ali, S., Zhang, H., DiPaola, D., & Breazeal, C. (2021). Developing middle school students’ AI 
+literacy. Proceedings of the 52nd ACM technical symposium on computer science education (pp. 191–197).
+Lin, Q., Yin, Y., Tang, X., Hadad, R., & Zhai, X. (2020). Assessing learning in technology-rich maker 
+activities: A systematic review of empirical research. Computers & Education, 157, 103944.
+Lin, C. H., Yu, C. C., Shih, P. K., & Wu, L. Y. (2021). Stem based artificial intelligence learning in 
+general education for non-engineering undergraduate students. Educational Technology & Society, 24(3), 224–237.
+Long, D., & Magerko, B. (2020). What is AI literacy? Competencies and design considerations. Proceed- ings of the 2020 CHI conference on human factors in computing systems (pp. 1–16). https://doi.org/ 10.1145/3313831.3376727
+Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing 
+Maker Education. Journal of Educational Technology, 14(4), 1–12.
+Luo, T., So, W. W. M., Wan, Z. H., & Li, W. C. (2021). STEM stereotypes predict students’ STEM career 
+interest via self-efficacy and outcome expectations. International Journal of STEM Education, 8, 1–13. MacLeod, M., & van der Veen, J. T. (2020). Scaffolding interdisciplinary project-based learning: A case 
+study. European Journal of Engineering Education, 45(3), 363–377.
+Mahmud, S., Weber, N., Higgins, P., & Kim, J. H. (2021, August). An Intelligent Trash Can Robt for 
+Early Childhood Green Education. 2021 16th International Conference on Computer Science & 
+Education (ICCSE) (pp. 870–874). IEEE. https://ieeexplore.ieee.org/abstract/document/9569360
+Markauskaite, L., Marrone, R., Poquet, O., Knight, S., Martinez-Maldonado, R., Howard, S., Tondeur, J., 
+De Laat, M., Shum, S. B., Gašević, D., & Siemens, G. (2022). Rethinking the entwinement between 
+artificial intelligence and human learning: What capabilities do learners need for a world with AI? 
+Computers and Education: Artificial Intelligence, 3, 100056.
+Martinez, S. L., & Stager, G. (2013). Invent to learn: A guide to why making should be in every class. 
+Constructing Modern Knowledge Press.
+Microsoft.  (2020).  FATE:  Fairness,  Accountability,  Transparency,  and  Ethics  in  AI.  Retrieved  from 
+https://www.microsoft.com/en-us/research/theme/fate/publications/
+Murai, Y., Kim, Y. J., Chang, S., & Reich, J. (2023). Principles of assessment in school-based making. 
+Learning: Research and Practice, 9(1), 57–72.
+Ng, D. T. K., & Chu, S. K. W. (2021). Motivating students to learn AI through social networking sites: A 
+case study in Hong Kong. Online Learning, 25(1), 195–208.
+Ng, D. T. K., Leung, J. K. L., Chu, S. K. W., & Qiao, S. (2021). Conceptualizing AI literacy: An explora-
+tory review. Computers and Education: Artificial Intelligence, 2, 100041.
+Ng, D. T. K., Luo, W., Chan, H. M. Y., & Chu, S. K. W. (2022). Using digital story writing as a pedagogy 
+to develop AI literacy among primary students. Computers and Education: Artificial Intelligence, 3, 100054.
+Ng, D. T. K., Lee, M., Tan, R. J. Y., Hu, X., Downie, J. S., & Chu, S. K. W. (2023a). A review of 
+AI  teaching  and  learning  from  2000  to  2020.  Education  and  Information  Technologies,  28(7), 8445–8501.
+Ng, D. T. K., Leung, J. K. L., Su, J., Ng, R. C. W., & Chu, S. K. W. (2023b). Teachers’ AI digital com-
+petencies  and  twenty-first  century  skills  in  the  post-pandemic  world.  Educational  Technology Research and Development, 71(1), 137–161.
+Ng, D.T.K., Leung, J.K.L., Su, J., Yim, H.Y., Shen, S., & Chu, S.K.W. (2023c). AI Literacy in K-16 Edu-
+cation. Switzerland: Springer Nature
+Ng, D.T.K, Su., J, Leung, J.K.L., & Chu, S.K.W. (2023d). Artificial Intelligence (AI) literacy in second-
+ary education: A review. Interactive Learning Environments
+
+Education and Information Technologies (2024) 29:9715–9746  9745
+Ng, D. T. K., Wu, W., Leung, J. K. L., & Chu, S. K. W. (2023e). Artificial Intelligence (AI) Literacy Ques-
+tionnaire with Confirmatory Factor Analysis. 23rd IEEE International Conference on Advanced Learning Technologies.
+Ossovski, E., & Brinkmeier, M. (2019). Machine learning unplugged-development and evaluation of a 
+workshop about machine learning. Informatics in Schools. Cyprus: New Ideas in School Informat-
+ics: 12th International Conference on Informatics in Schools: Situation, Evolution, and Perspectives. Saad, A., & Zainudin, S. (2022). A review of Project-Based Learning (PBL) and Computational Thinking 
+(CT) in teaching and learning. Learning and Motivation, 78, 101802.
+Sabuncuoglu, A. (2020). Designing one year curriculum to teach artificial intelligence for middle school. 
+Proceedings of the 2020 ACM conference on innovation and technology in computer science educa- tion (pp. 96–102). ACM. https://doi.org/10.1145/3341525.3387364
+Sakulkueakulsuk, B., Witoon, S., Ngarmkajornwiwat, P., Pataranutaporn, P., Surareungchai, W., Pata-
+ranutaporn, P., & Subsoontorn, P. (2018). Kids making AI: Integrating machine learning, gamifi- cation, and social context in STEM education. 2018 IEEE international conference on teaching, assessment, and learning for engineering (TALE) (pp. 1005–1010). IEEE.
+Sankaranarayanan, S., Kandimalla, S. R., Cao, M., Maronna, I., An, H., Bogart, C., Murray, R. C., Hil-
+ton, M., Sakr, M., & Penstein Rosé, C. (2020). Designing for learning during collaborative projects online: tools and takeaways. Information and Learning Sciences, 121(8), 569–577.
+Sanusi, I. T., Oyelere, S. S., Agbo, F. J., & Suhonen, J. (2021). Survey of resources for introducing 
+machine learning in K-12 context. 2021 IEEE Frontiers in Education Conference (FIE) (pp. 1–9). IEEE. https://ieeexplore.ieee.org/abstract/document/9637393
+Sanusi, I. T., Oyelere, S. S., Vartiainen, H., Suhonen, J., & Tukiainen, M. (2022). A systematic review of teach-
+ing and learning machine learning in K-12 education. Education and Information Technologies, 1–31.
+Saorín, J. L., Melian-Díaz, D., Bonnet, A., Carrera, C. C., Meier, C., & De La Torre-Cantero, J. (2017). 
+Makerspace teaching-learning environment to enhance creative competence in engineering students. 
+Thinking Skills and Creativity, 23, 188–198.
+Su, J., Guo, K., Chen, X., & Chu, S. K. W. (2023a). Teaching artificial intelligence in K–12 classrooms: a 
+scoping review. Interactive Learning Environments, 1-20.
+Su, J., Ng, D. T. K., & Chu, S. K. W. (2023b). Artificial intelligence (AI) literacy in early childhood 
+education: The challenges and opportunities. Computers and Education: Artificial Intelligence, 4, 100124.
+Sümen, Ö. Ö., & Çalisici, H. (2016). Pre-Service Teachers’ Mind Maps and Opinions on STEM Educa-
+tion Implemented in an Environmental Literacy Course. Educational Sciences: Theory and Prac- tice, 16(2), 459–476.
+Tamborg, A. L., Elicer, R., & Spikol, D. (2022). Programming and Computational Thinking in Math- ematics Education: An Integration Towards AI Awareness. KI-Künstliche Intelligenz, 36(1), 73–81. Timotheou, S., Ioannou, A. (2019). On a making- & -tinkering STEAM approach to learning Mathematics: 
+Knowledge gains, attitudes, and 21 st century skills. In Lund, K., Niccolai, G. P., Lavoué, E., Hmelo- Silver, C., Gweon, G., and Baker, M. (Eds.). A wide lens: Combining embodied, enactive, extended, and 
+embedded learning in collaborative settings, 13th International Conference on Computer Supported Col- laborative Learning (CSCL), Volume 2. Lyon, France: International Society of the Learning Sciences. Toivonen, T., Jormanainen, I., Kahila, J., Tedre, M., Valtonen, T., & Vartiainen, H. (2020). Co-designing machine learning apps in K–12 with primary school children. In 2020 IEEE 20th International Con- ference on Advanced Learning Technologies (ICALT) (pp. 308–310). IEEE.
+UNESCO. (2022). AI and education: guidance for policy-makers. Retrieved from https://unesdoc.unesco. 
+org/ark:/48223/pf0000376709
+Vartiainen, H., Tedre, M., & Valtonen, T. (2020). Learning machine learning with very young children: 
+Who is teaching whom? International Journal of Child-Computer Interaction, 25, 100182.
+Vartiainen, H., Toivonen, T., Jormanainen, I., Kahila, J., Tedre, M., & Valtonen, T. (2021). Machine 
+learning for middle schoolers: Learning through data-driven design. International Journal of Child-
+Computer Interaction, 29, 100281.
+Wang, B., Rau, P. L. P., & Yuan, T. (2023). Measuring user competence in using artificial intelligence: 
+validity and reliability of artificial intelligence literacy scale. Behaviour & information technology, 42(9), 1324–1337.
+Weng, X., Chiu, T. K., & Tsang, C. C. (2022). Promoting student creativity and entrepreneurship through 
+real-world problem-based maker education. Thinking Skills and Creativity, 45, 101046.
+Whewell, E., Caldwell, H., Frydenberg, M., & Andone, D. (2022). Changemakers as digital makers: Con-
+necting and co-creating. Education and Information Technologies, 27(5), 6691–6713.
+
+3 3
+Williams, R., Ali, S., Devasia, N., DiPaola, D., Hong, J., Kaputsos, S. P., Jordan, B., & Breazeal, C. 
+(2022). AI+ ethicscurricula for middle school youth: Lessons learned from three project-basedcur- ricula. International Journal of Artificial Intelligence in Education, 33, 325–383.
+Wong, G. K., Ma, X., Dillenbourg, P., & Huan, J. (2020). Broadening artificial intelligence education in 
+K-12: Where to start? ACM Inroads, 11(1), 20–29.
+Xia, Q., Chiu, T. K., Lee, M., Sanusi, I. T., Dai, Y., & Chai, C. S. (2022). A self-determination theory 
+(SDT) design approach for inclusive and diverse artificial intelligence (AI) education. Computers & Education, 189, 104582.
+Yau, K. W., Chai, C. S., Chiu, T. K., Meng, H., King, I., & Yam, Y. (2023). A phenomenographic 
+approach on teacher conceptions of teaching Artificial Intelligence (AI) in K-12 schools. Education and Information Technologies, 28(1), 1041–1064.
+Zhang, H., Lee, I., Ali, S., DiPaola, D., Cheng, Y., & Breazeal, C. (2023). Integrating ethics and career 
+futures with technical learning to promote AI literacy for middle school students: An exploratory study. International Journal of Artificial Intelligence in Education, 33(2), 290–324.
+Zuill, W., & Meadows, K. (2016). Mob programming: A whole team approach. Agile 2014 Conference. 
+Orlando,  Florida,  3, 1–11. https://www.agilealliance.org/wp-content/uploads/2015/12/Experience Report.2014.Zuill_.pdf.
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.

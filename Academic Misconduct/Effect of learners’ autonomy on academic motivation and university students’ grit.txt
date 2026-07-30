@@ -1,0 +1,611 @@
+﻿Education and Information Technologies (2024) 29:4159–4196 https://doi.org/10.1007/s10639-023-11976-2
+Effect oflearners ’ autonomy onac ademic motivation anduniv ersity students’ grit
+MuhammadJehanghir1· KashifIshaq2· RafaqatAliAkbar1
+Received: 14 July 2022 / Accepted: 13 June 2023 / Published online: 3 July 2023 
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2023
+Abstract
+Learner autonomy is the trait of an adult who displays agency concerning learning activities, whereas academic motivation is the primary driving force for students to learn, which is the drive and urge to achieve academically, while grit is an impor- tant personality trait for academic achievement. People with the motivation and persistence to work and study diligently despite hurdles and hardships to achieve a set of goals are more likely to be successful than those lacking these traits. The present study investigates the effect of learners’ autonomy on academic motivation and university students’ grit by employing a quantitative method. A survey method has conducted to collect the data from 1230 participants randomly selected from the general type universities. A theoretical framework has been proposed consisting of several components of learner autonomy, academic motivation, and grit. Learners’ autonomy is based on social cognitive theory, while academic motivation and grit are based on self-determination theory. This study uses three instruments: Learner Autonomy Profile-Short Form (LAP-SF), academic motivation scale (AMS), and grit scale. The LAP-SF  adapted  consists  of  four  constructs  (desire,  resourceful- ness, initiative, and persistence), whereas the scale’s reliability is 0.96. Similarly, the AMS developed by Vallerand adopted to collect data consists of three factors that have the reliability of a scale of 0.87. Lastly, data related to grit has been col- lected through the grit scale developed by Duckworth, which consists of two factors that have reliability of a scale of 0.81. The data has been analyzed through Lin- ear Regression to answer the study research questions. Findings of the regression analysis with its four factors (Desire, Resourcefulness, Initiative, and persistence) revealed that LAS and AMS have a positive association whereas these factors also has a positive association between LAS and Grit Scale. It has been concluded that Learners ‘Autonomy with all its sub-factors positively affects students’ academic motivation and grit level.
+Keywords Learners’ Autonomy· Academic motivation· Grit· Quantitative· Higher Education
+Extended author information available on the last page of the article
+
+3 3
+1  Introduction
+Education and social sciences researchers have realized that non-cognitive ele- ments have a more important influence on educational progress and accomplish- ment than cognitive factors (Duckworth & Quinn, 2009; Willems et al., 2019). Gutman & Schoon, (2013) pointed out that non-cognitive skills include motiva- tion, self-control, and persistence, contributing to success in educational institu- tions and the workplace. Cognitive abilities include the capacity to comprehend complex  thoughts,  adapt  to  a  changing  environment,  be  involved  in  different methods  of  reasoning,  intelligence,  learn  from  experience,  scientific  problem- solving,  metacognition,  reading,  and  writing.  Furthermore,  cognitive  abilities include problem-solving, learning styles, numeracy, new skills, and overcoming obstacles with strategy (King, 2016; Nickson et al., 2017). The study by Rosen et al., (2010) stated that non-cognitive skills are classified into seven categories: motivation,  academic  self-concept,  self-efficacy,  effort,  self-directed  learning, anti-social and pro-social behavior, coping, and resilience. Generally, they have been assessed through examinations or teacher evaluations.
+Non-cognitive  factors  have  been  studied  in  university  students’  success  by many researchers,  including  student  motivation  (Cardona,  2013),  student  self- regulation (Kelley & Salisbury-Glennon, 2016), Learner autonomy (Lowe, 2009), positive self-concept (Sedlacek, 2004), factors related to departments and faculty, in addition to best practices for faculty and institutions (Gardner, 2009), and pos- itive psychology constructs, like persistence (Ivankova & Stick, 2007) and grit (Cross, 2013). Higher education programs have one purpose to develop learners’ autonomy, and it has been suggested that attending university requires students to become independent learners (Hamad, 2018; Yurdakul, 2017).
+Learner autonomy is the trait of an adult who displays agency (i.e., purpose- ful acts) concerning learning activities (Bandura, 2001; Confessore, 1992). Indi- viduals with various learning styles, previous experiences, and perceptions of the educational environment influence their behavior when they want to learn (Ng & Confessore, 2010). Finally, individuals who desire to learn and use their resources and those provided by others are examples of autonomous learners (Confessore, 1992).  Larger  class  sizes  in  today’s  mass  higher  education  system  have  been replaced by digital technology, and online learning and flipped classrooms have been  used  to  emphasize  autonomous  study  (Kormos  &  Csizer,  2014;  Moore, 2016). The reason for encouraging learner autonomy is that learners must be self- motivated and self-independent, making learning more purposeful and effective (Agustina, 2017; Juan & Yajie, 2018). Learning and academic motivation are linked to a multi-dimensional structure of motivation (Cetin, 2015; Dogan, 2015).
+Academic motivation is the primary driving force for students to learn, which is the drive and urges to achieve academically (Gupta & Mili, 2017; Malkoç 
+& Mutlu, 2018). Academic motivation is founded on self-determination theory, which describes a person’s level of self-determination that affects their moti- vational orientation (Deci & Ryan, 2008). This theory’s spectrum spans amo- tivation to intrinsic motivation, passing different levels of extrinsic motivation 
+
+Education and Information Technologies (2024) 29:4159–4196  4161
+(Deci & Ryan, 2008). Amotivation is defined as an unwillingness to participate directly in an activity. At the same time, Intrinsic motivation is the enjoyment one receives from involving in a personal activity. Extrinsic motivation is when someone does something for a reason other than the inherent satisfaction of the action itself, such as achieving a specific result (Ryan & Deci, 2000; Deci & Ryan, 2008). Autonomy positively impacts cultivating cognitive resources and learning strategies and non-cognitive resources such as learners’ motivation and grit (Jin & Kim, 2017).
+Grit is a term used to describe a person’s determination to achieve long-term goals (Duckworth et al., 2007). It is a non-cognitive trait that requires long-term efforts to achieve the goal that a learner wants to complete and is essential for successfully  performing  difficult  or  difficult  tasks.  It  comprises  two  sub-ele- ments: persistence of effort and consistency of interest (Duckworth & Quinn, 2009). Few researchers have examined the link between learners’ autonomy and academic motivation, whereas there is a lack of literature on the connection between learners’ autonomy and students’ grit.
+Numerous  researches  on  learner  autonomy  have  also  demonstrated  that  as students exercise greater control over their learning, their motivation increases (Ceylan, 2021; Gandhimathi & Devi, 2016). Similarly, researchers investigated learner autonomy and its association with academic motivation (Alkan & Arslan, 2019; Kaur et al., 2014; Leininger, 2019; Phithakmethakun & Chinokul, 2020). The study of Wolter and Hussain (2015) investigated grit and its relations with college students’ self-regulated learning and academic achievement. In contrast, Ma et al., (2020) uncovered the moderating role of grit between teacher auton- omy support and social competence in China. Henning, (2019) examined self- regulation, mindset, grit, flow, expertise, and expert performance in multiple languages learning from a complex systems perspective in the UK. Ruttencutter, (2018) reviewed the relationship between self-directed learning and grit among doctoral students. It has been proven that autonomy-supportive instructors dis- cover students’ interests and needs, create a good classroom climate that benefits students’ academic performance. Increased creativity, engagement, fun, effort, pleasant feelings, persistence, and motivation, were some outcomes (Ishaq et al., 2019, 2021, 2022; Jang et al., 2010; Reeve, 2009).
+It is pertinent to mention that the researchers have found few kinds of research examining the effect of three variables simultaneously, i.e., learner’s autonomy, academic motivation, and students’ grit. Specifically, no study has been found regarding the Pakistani context to the best of our knowledge. This study’s ulti- mate goal is to investigate learner autonomy’s effect on academic motivation and grit in university students, filling a significant gap in the literature.
+This paper is presented in various sections, where the next section is for a comprehensive  literature  review,  including  matrix  tables,  while  section  three presents the study’s theoretical framework. The methodology and result sections are presented in sections four and five, respectively, whereas the article is con- cluded in the last section.
+
+3 3
+1.1  Objectives ofthestudy
+1. Measure the effect of learners’ autonomy on the academic motivation of univer- sity students.
+2. Find out the effect of learners’ autonomy on students’ grit of university students.
+2  Literature review
+This section presents the related work on learners’ autonomy, adult learning, andra- gogy, and self-directed learning in the subsequent sections.
+2.1 Learners autonomy
+Autonomy is derived from two Greek words: auto (self) and nomos (to govern, authority, or self-rule). It is widely understood to mean self-governance or self- determination (Manda-Taylor et al., 2014). It is difficult to define autonomy pre- cisely because each expert in the area views it individually and subjectively (Little, 1996; Judy, 2020). John Dewey laid the foundation for the idea of learner auton- omy in his publication, "Democracy and Education," in which he emphasized the importance of creating an organizational teaching environment that supports chil- dren’s self-education development rather than the knowledge acquisition and subject matter (Ishaq etal., 2020a, b, c; Salimi & Ansari, 2015). Nguyen, (2014) described learner autonomy as a learner’s desire and competence to take responsibility for, plan, execute, analyze, and assess their learning with tasks designed in discussion with assistance from the instructor.
+Learners’ autonomy is a person’s ability to take charge of their learning and decide what they want to do (Confessore & Park, 2004). According to Holec, (1981), learner autonomy is the ability to take control of one’s learning, which he further describes as having and maintaining responsibility for all decisions about all aspects of that learning. Little (199) defines autonomy as "the ability to maintain a sense of separation while engaging in critical thinking, decision-making, and self-directed action.Confessore & Park, (2004) defined learner autonomy as a state between two dysfunctional  states:  dysfunctional learner  dependence  occurs  when  the  student needs extra help and direction, whereas dysfunctional learner independence occurs when the learner rejects any guidance or facility. The student can do independent research and request assistance when needed. Confessore (1992) was the first todis- cuss learner autonomy in selecting gifted high school students for an early college summer arts program. He chose based on four criteria: desire, resourcefulness, ini- tiative, and persistence.
+Attributes  and  characteristics  of  learners  are  often  called  learner  autonomy (Derrick & Carr, 2003), whereas Confessore & Park, (2004) described functional learner autonomy as the competence and desire to choose and influence learning experiences.  The  learner  may  work  individually  or  collaboratively  with  others. 
+
+Education and Information Technologies (2024) 29:4159–4196  4163
+Additionally, the level to which an individual engages in functional learner auton- omy is measured by how the learner optimizes the learning process through the efficient and appropriate use of their own and others’ resources (Ng & Confessore, 2011). Desire, resourcefulness, initiative, and persistence are all personality attrib- utes connected with autonomous learning. Desire is the degree to which an indi- vidual engages in deliberate action. It shows how adults can use influence (freedom, power, and change) over their lives (Meyer, 2001). Resourcefulness is identified as a learner’s intention to be resourceful (Carr, 1999). It is connected with the learner’s traits to anticipate future benefits of learning, prioritize learning over non-learning activities, postpone immediate satisfaction of completing other activities, and over- come obstacles in education (Ishaq etal., 2022; Liando & Lumettu, 2017).
+The initiative is a set of behavioral intentions that includes goal-directedness, action  orientation,  perseverance  in  overcoming  obstacles,  an  active  approach  to problem-solving,  and  self-starting  (Ponton,  1999).  Persistence  is  the  behavior of continuing activity in the face of difficulties or conflicting objectives, whereas learner autonomy is a relatively recent idea in the canon of adult learning theory (Derrick, 2001; Ng etal., 2011). The idea of autonomy belongs to the character trait of self-directed learning, and its objective is to assist learners in developing auton- omy during the learning process (Merriam etal., 1999).
+2.1.1 Studies related tolearners ’ autonomy
+This section presents some related studies of learners’ autonomy in Table1.
+The study of Alkan & Arslan, (2019) investigated pre-service teachers’ learner autonomy and its relationships with academic motivation and self-efficacy. This sur- vey research was conducted in two parts; the initial step was to translate the Autono- mous Learning Scale into Turkish, which included 335 teachers. The second sec- tion explored the academic motivation and self-efficacy predictors of 776 teachers’ autonomous learning. Results showed that self-efficacy and academic motivation were important predictorsof learner autonomy among pre-service teachers. Further- more, their levels of autonomy varied greatly depending on department, high school type, and gender. In addition, there was a substantial association between pre-service teachers’ GPAs and their degrees of learning autonomy. Myartawan et al., (2013) investigated the relationship between learner autonomy and English proficiency in Bali, Indonesia. The sample consisted of 120 students, 79 female, and 41 male. A review of documents and administering two questionnaires were used to gather the information. A multiple linear regression analysis revealed a significant, positive, and strong relationship between learner autonomy and English proficiency.
+A  study  by  Ng  &  Confessore,  (2015)  investigated  the  relationships  between learner autonomy and life satisfaction and identified demographic variables among adults in Malaysia. A convenience sample of 111 adults aged 50 and up was used for this survey, and the correlations between demographic variables, LAP, and Life Satisfaction Scores were investigated using statistics. The results show that learner autonomy scores were strongly linked to ethnicity, education level, and living area. It was found that only education level was a significant predictor of life satisfaction, having a strong associationbetween learner autonomy and life satisfaction. Ng etal., 
+
+3 3
+  
+
+Education and Information Technologies (2024) 29:4159–4196  4165
+  
+
+3 3
+(2011) wanted to assess the current state of learners’ abilities to interpret life-long learners. The study included 425 Pre-Commerce students from MARS University of Technology, Malaysia, from low-income families with poor academic perfor- mance. The Learner Autonomy Profile was used to get information as a tool result- ing in a significant positive relationship between LAP score and the student’s aca- demic performance, and predicted as a diagnostic tool to enhance students’ learning performance.
+Palmer, (2003) investigated the connection between workplace manifestations of desire, resourcefulness, initiative, perseverance, and learning conditions. The study looked into how factors related to autonomous learning manifested themselves in people’s use or misuse of a learning management database. The LAP scale was used as a data collection tool for 96 technical management employees. The find- ings revealed that participants have a strong desire to assert control over learning resources and have control over their learning. There were no significant differences in any LAP’s primary scale scores across all learning conditions. Similarly, Phil- lips, (2004) investigated the relationship between college programs and the factors associated with autonomous learning at Thomas Nelson Community College, USA. The results showed that students in vocational programs wanted to learn more and take control of their education as their programs ended. On the other hand, academic program students did not show a greater desire to be in charge of their learning.
+Ponton etal., (2004) used path analysis to investigate the conative factors associ- ated with autonomous learning. The study sought to establish a linear relationship between the four constructs of desire, resourcefulness, initiative, and persistence. Findings reported that nurturing resourcefulness in learners is a valuable tool that facilitates persistence in autonomous learning. Once the facilitator of learning has encouraged  persistence,  learning  concentration  must  shift  to  personal  initiative. From teachers ’ perspectives, Shahzad et al., (2021) examined the potency of uti- lizing learner autonomy in English language classrooms at the university level in Pakistan. The study was descriptive and qualitative, with 19 ESL teachers partici- pating in a structured interview. The respondents were drawn from five universities in South Punjab. The interviews were taped, transcribed, and analyzed using the- matic categories previously discussed with the teachers. The findings revealed that teachers were well-informed about learner autonomy and used these practices in the classroom directly or indirectly.
+Wilson’s, (2004) study sought to establish a link between African-American stu- dents’ ethnic behaviors and the manifestations of desire, resourcefulness, initiative, and persistence in Virginia, USA. Two questionnaires were used for responses, the long form of the racial identity attitude scale (RIAS-L) and the short form of the LAP. The study’s findings discovered a significant difference in LAP levels depend- ing on the state of racial identity, and each stage of racial identity development yielded a different level of desire to learn from participants. Similarly, Yasmin and Sohail (2019) conducted a study to elucidate teachers’ strategies to enhance auton- omy in English language classes. The study was qualitative, and a semi-structured interview was conducted with sixteen English teachers from four public sector uni- versities in Punjab. Findings revealed that teachers prefer to use a teacher-centered approach, while students choose the role of facilitator over counselor or resource.
+
+Education and Information Technologies (2024) 29:4159–4196  4167
+2.2 Academic motivation
+Academic motivation, as a domain of motivation, relates to educational factors, such as the decision to attend college, students’ reasons for persistence, and study skills. Ultimately, it is an important concept in education because motivation has consequences and produces outcomes (Ryan & Deci, 2000). It is a complex part of human psychology and behavior that influences how individuals invest their time, exert energy, and persist in the given task, among others, toward a goal (Chinyere 
+& Afeez, 2019). Academic motivation is a student’s desire (as reflected in approach, persistence, and level of interest) regarding academic subjects when the student’s competence is judged against a standard of performance or excellence (Eccles & Wigfield, 2002). Usher & Morris (2012) defined academic motivation is related to the student’s academic functioning and success as well as how much effort the stu- dent puts forward to regulate their activities. It refers to internal processes instigat- ing and sustaining activities to achieve specific academic goals (Pintrich, 2003).
+2.2.1 Types ofac ademic motivation
+According to self-determination theory (SDT), the multi-dimensional motivation orientation  encompasses  three  global  types  of  motivation:  intrinsic  motivation, extrinsic motivation, and amotivation (Deci & Ryan, 1985; Ryan & Deci, 2000; Deci & Ryan, 2008). Intrinsic motivation and extrinsic motivation are the two pri- mary types of motivated academic behavior (Cokley, 2003). Intrinsic motivation is driven by an interest or enjoyment in the task and exists within the individual rather than relying on external pressure (Ryan & Deci, 2000). It is a motivation that involves doing an activity because of itself and refers to engaging in an activity for the enjoyment, challenge, interest, or natural fulfillment of curiosity (Chinyere & Afeez, 2019; Valerio, 2012). Intrinsically motivated students attend school for the purpose of learning new ideas and things (Ricard & Pelletier, 2016).
+Extrinsic motivation involves doing an activity as a means or way to achieve a target (Mahadi & Jafari, 2012). Ryan & Deci, (2000) opined that extrinsic moti- vation refers to doing something because it leads to a separable outcome. It is the desire to do or achieve something not for the enjoyment of the thing itself because doing so leads to a certain result (Pintrich, 2003). It comes from outside the indi- vidual, such as offering incentives for successful task performance, stickers, or point systems (Valerio, 2012). Extrinsic motivation includes many things that the teachers do, such as correct grading, providing encouragement, and having a helpful attitude, whereas it arises in many ways such as praise, teacher rewards, and the expectation of good grades (Mubeen & Reid, 2014; Shrivastava, 2012).
+Finally, the third type of motivation is amotivation, which concerns the “state of lacking an intention to act” (Ryan & Deci, 2000). According to the SDT, amotiva- tion depicts a situation in which individuals are neither intrinsically nor extrinsically motivated due to the uncontrollability of their behavior. Indeed, they perceive that their activities and behaviors are controlled and regulated by forces other than their control (Deci etal. 1991; Vallerand etal., 1992). Amotivation results when one per- ceives oneself as incompetent to reach intended outcomes (Deci & Ryan, 1985).
+
+3 3
+The following section presents some related studies of academic motivation in Table2.
+The study of Akomolafe & Adesua, (2016) explored the effect of physical facili- ties on academic performance and motivation in Nigeria. A link between physical facilities, student motivation, and achievement was found in which students were more motivated to learn when they had access to high-quality physical facilities, resulting in improved academic performance. Similarly, Bolkan et al., (2015) con- ducted research to test the hypothesis that the effect of instructor clarity when learn- ing relies on students’ motivation. The findings revealed that students’ motivation processes were weak, even when explicit instruction was provided, but test scores did not improve. It is concluded that students performed better due to motivation than less motivated students when instructions were clear. Cetin, (2015) studied whether academic motivation and self-regulated learning are determinants of stu- dents’ GPAs in the early childhood education department. The findings indicated no link between GPA, academic motivation, or self-regulating learning.
+Datu, (2017) investigated the relationship between PoM, academic motivation, and achievement, where PoM was positively associated with autonomous and con- trolled motivation and achievement. Dennis et al., (2005) looked into the motiva- tions of first-generation ethnic minority college students. The sample size was 100 students (70 percent female, 30 percent male) who took part in longitudinal research on students’ experiences from racial or ethnic minorities whose parents did not graduate from college. Personal motivation and a lack of peer support were major predictors of college GPA, adjustment, and commitment; therefore, adjusting for the great influence of academic ability assessed by school GPA was vital. The study of Dogan, (2017) looked into how student engagement, self-efficacy, and motivation, affect  academic  performance.  The  findings  indicated  that  cognitive  involvement was related to academic performance but not emotional and behavioral engagement. Additionally, self-efficacy and academic motivation were positively related to aca- demic performance.
+Similarly, Griffin, (2006) carried out qualitative research with nine black col- lege students to investigate the extent of academic motivation at State University. The findings showed that three theories: self-determination, socio-cognitive, and attribution theory, are all inadequate and can illustrate the motivation level of these black high-performer students individually. So, it is the best way to employ a multi- faceted model that identifies these three models and illustrates internally and exter- nally sources of motivation. Isik et al., (2018) examined whether study design was a moderating factor between motivation type and academic performance. The study also investigated how these relationships varied between students from different eth- nicities. According to the findings, improved academic performance was linked to greater self-motivation when used with a deep and achieving study strategy but neg- atively correlated with academic performance when used with a surface study strat- egy. Furthermore, achieving ethnic minority students’ plan for autonomous motiva- tion is positively associated with GPA.
+Lin, (2012) looked into the connection between academic motivation and stu- dent engagement and defined academic motivation as a category of discipline that impacts a human personality. Furthermore, a person’s goals, previous experiences, 
+
+Education and Information Technologies (2024) 29:4159–4196  4169
+  
+
+3 3
+  
+
+Education and Information Technologies (2024) 29:4159–4196  4171
+cultural  perceptions,  and  teachers’  and  peers’  perceptions  of  the  person  all  sig- nificantly impact academic motivation and student engagement. Lastly, Fulton & Turner, (2008) investigated the effects of primary and secondary control on aca- demic motivation at the end of the year. The sample included 703 first-year college students with an eight-month longitudinal field study. Primary control was linked to improved performance and increased motivation, positively impacting successful students. The combination of primary and secondary controls improves academic adjustment for failed students. Students who have failed in the past and who rely solely on primary control risk developing serious long-term motivational and per- formance deficits. These results are discussed in terms of academic overconfidence and treatment plan things.
+2.3 Students’ grit
+Grit is a person’s trait-level perseverance and passion for long-term goals. It refers to patience and enthusiasm for long-term goals and was proposed as a non-cognitive characteristic of people who succeeded in their own field (Duckworth et al., 2007). Perseverance of effort and consistency of interest are two main traits of grit. Stu- dents with high grit levels use continuous effort and do not shift the direction of a goal even when there is no positive feedback (Duckworth & Quinn, 2009; Millward et al., 2016). It has been identified as a learner trait variable that positively influ- ences learning outcomes in the context of learning (Wolters & Hussain, 2015). In general, learners with a high level of grit have a higher degree of self-control, are less likely to quit learning, and thus obtain higher academic achievement (Duck- worth etal., 2007; Strayhorn, 2014).
+Grit has been conceived as a stable characteristic or disposition of the individual that, similar to traditional personality traits, influences their attitudes and behavior across diverse contexts (Kleiman etal., 2013; Reed etal., 2013). Within educational contexts, grit is portrayed as a potentially important influence on outcomes such as students’ engagement, achievement level, retention, and probability of graduation (Maddi et al., 2012; Strayhorn, 2014). It has been connected to self-control, which is the ability to delay self-gratification (Duckworth & Gross, 2014; Stokas, 2015). Grit has also been related to hope, self-efficacy (Dixson et al., 2016), commitment (McGeown  et al.,  2016),  resilience  (Perkins-Gough,  2013),  and  growth  mindset (Dockterman & Blackwell, 2014; Perkins-Gough, 2013).
+The following section presents some related studies of students’ grit in Table3.
+Al-Mutawah & Fateel, (2018) conducted a study with college teachers in Bahrain on how Grit and Attitude influence students’ achievement in math and science. It was a quantitative study, and data were collected from students via two question- naires. A grit scale was used to collect information from 646 school students, and an Attitudes toward Science questionnaire was administered to 349 students to meas- ure student attitudes. The findings revealed that grit was favorably and substantially related to academic achievement in math, whereas attitudes toward math and science were positively related to academic success in math and science subjects. Similarly, Banupriya & Rajan, (2019) researched the relationship between grit and academic 
+
+3 3
+  
+
+Education and Information Technologies (2024) 29:4159–4196  4173
+  
+
+3 3
+achievement.  The  Short  Grit  Scale  was  the  instrument  that  was  utilized  among 200 high school students for data collection. The findings indicated no connection between the consistency of the Interests sub-factor and academic success. However, it was found that perseverance in one’s efforts was strongly linked to academic suc- cess. Grit was shown to be the same among high school pupils irrespective of gen- der or educational ability.
+Singh & Jha, (2008) conducted a study at the Indian Institute of Technology to investigate the relationship between life satisfaction, happiness, positive and nega- tive effect, and grit. It was a quantitative study with a sample of 254 undergradu- ate students. A positive effect was found between grit, happiness, and life satisfac- tion. Negative effects correlated negatively with grit, happiness, and life satisfaction. Moreover, Duckworth et al., (2007) collected self-reported grit-scale data using a noncommercial public website. The total number of participants was 1546, ranging from 25 to 45. According to the results, adults with a higher education level exhib- ited greater grit than those with a lower education level. People in their later years are considered more successful because they have more life experience and a greater drive to accomplish long-term objectives. Furthermore, Duckworth et al., (2007) investigated the relationship between grit and academic achievement in the United States by collecting data from 139 students at an elite undergraduate psychology department. The findings revealed that students with greater grit outperformed those with less grit.
+Another study by Duckworth et al., (2007) presented the findings of a grit study among first-year cadets in the United States. The study was quantitative, and the data gathered from 1218 students made grit a better predictor of success in the sum- mer program. A study by Hodge etal. (2018) investigated the role of grit in univer- sity students’ engagement and academic outcomes. The research was quantitative, with 395 Australian students. Grit, engagement, and academic performance were all correlated. Similarly, Hwang etal. (2018) investigated the structural relationship between female students’ age, conscientiousness, self-control, and school success. A total of 509 students were chosen from the Korean university. The instrument used for data collection was a grit scale with two factors. The findings revealed that the persistence of effort was negatively related to academic maladjustment. As a result, consciousness and self-control correlated positively with grit factors and negatively with academic maladjustment via effort persistence. Lastly, Strayhorn, (2014) inves- tigated whether grit could account for the academic success of black male students. A  total  of  140  people  from  predominantly  white  institutions  participated  in  the study, and grit was positively associated with college grades in Black males.
+3  Theoretical framework
+The researchers aim to examine the effect of learners’ autonomy on academic moti- vations and university students’ grit. The study’s theoretical framework was inte- grated based on two theories presented in Fig.1. Deci & Ryan, (1985) proposed the self-determination theory of motivation to determine the association between theory 
+
+Education and Information Technologies (2024) 29:4159–4196  4175
+
+Fig. 1  Theoretical framework of the study
+and academic motivation and student grit. Bandura (2009) proposed the social cog- nitive theory to identify the association between theory and learner autonomy.
+3.1 Social‑cognitive theory
+This section provides an understanding of Bandura’s social cognition theory (SCT) (1986) to understand how it relates to learner autonomy. A fundamental principle of Bandura’s SCT is that humans are driven to engage in various activities by cogni- tive processes that utilize the knowledge resulting from their acts or observations of other people’s behaviors. SCT identifies five human functions to support these performance-related mechanisms: Symbolization, Forethought, Vicarious learning, Self-regulation, and Self-reflection (Bandura, 1986).
+3.1.1 Symbolization
+Symbolization refers to a person’s ability to create mental images of temporary sensory experiences or information stored in long-term memory (Ponton & Rhea, 2006).
+3.1.2 Forethought
+Forethought is the ability to use symbolization to create mentally unrealized future scenarios that provide motivation and desirable courses to pursue (Ponton & Rhea, 2006).
+3.1.3 Vicarious learning
+Vicarious learning represents the ability to learn from others - a mechanism that allows our society to continually advance the knowledge base by not wasting time relearning the same lessons but also eliminating serious safety risks in relearning lessons with life-threatening consequences (Ponton & Rhea, 2006).
+
+3 3
+3.1.4 Self‑regulation
+Self-regulation enables a person to select and manage pertinent activities to realize goals (Ponton & Rhea, 2006).
+3.1.5 Self‑reflection
+Self-reflection refers to a person’s ability to think about the consequences of past experiences, thereby shaping subsequent beliefs, attitudes, intentions, and behaviors (Ponton & Rhea, 2006). As evident from these inherent human capabilities, SCT recognizes the importance of thought in action.
+SCT acknowledges that human conduct is deliberate and affected by environ- ment and cognition. Modeled as intentional behavior and autonomous learning, any description of how it is enacted must be compatible with social cognitive theory. Therefore, a contemporary definition of autonomous learning asserts that it is an intentional process that results in the display of resourcefulness (Carr, 1999), initia- tive (Ponton, 1999), and persistence (Derrick, 2001) in one’s learning. This agency is founded on the learner’s ideas and attitudes, influencing behavioral intentions and subsequent behavior (Fishbein & Ajzen, 1975). Consistent with SCT, autonomous learning happens in interactions between the environment, the person, and their actions, and it serves as a mechanism for self-motivated personal growth.
+Consistent with SCT, people engage in autonomous learning in response to their conceptualization of possible future situations. Anticipating desired results, devel- oping learning objectives, arranging learning activities, and monitoring the feedback from such activities, all of which influence the self-regulation of ongoing activity, are  compatible  with  SCT  and  autonomous  learning  ideas.  These  cognitive  pro- cesses occur within a dynamic paradigm considering the bidirectional effect of three important parameters: the environment, the individual, and behavior. Thus, autono- mous learners as agents are impacted not just by their environment and behaviors but also by their environment and behaviors via deliberate action (Ponton & Rhea, 2006).
+3.2 Self‑determination theory
+The Self-determination Theory (SDT) is a theoretical framework for investigating the  human  motivation,  character  building,  social  progress,  and  overall  cognitive well-being (Deci & Ryan, 2008; Ryan & Deci, 2000). SDT is a macro theory of human motivation, emotion, and growth, dealing with the factors that promote or impede assimilative and development mechanisms in individual people (Niemiec & Ryan, 2009). Deci & Ryan, (1985) proposed this theory, which has been expanded upon by numerous researchers worldwide. SDT classifies psychological require- ments into three categories (Ryan & Deci, 2000): the need for competence (White, 1959), the need for relatedness (Baumeister & Leary, 1995), and the need for auton- omy (deCharms, 1968). The requirement for competence, which acts as a catalyst 
+
+Education and Information Technologies (2024) 29:4159–4196  4177
+for intrinsic motivation, is the desire to find fulfillment through developing one’s talents. Another intrinsic motivator, the need for connectedness, is the desire to feel connected to important people. Finally, the need for autonomy is a factor that influ- ences intrinsic motivation, which contributes to the desire to act on one’s initiative. Autonomous people are in charge of initiating, maintaining, and regulating their actions (Deci & Ryan, 1985; Ryan & Deci, 2000).
+It is believed that meeting these three psychological demands is required to pro- mote  self-determined  motivation.  SDT  distinguishes  between  autonomous  and controlled motivation (Deci & Ryan, 2008). Autonomous motivation encompasses intrinsic and well-internalized (integrated) extrinsic motivation, which entails act- ing with complete decisions and options. Controlled motivation, on the other hand, involves responding to external stimuli (external regulation) and partially internal- ized stimuli (introjected regulation). Self-determination is limited to actions solely motivated by the active organism’s intrinsic core self or completely integrated into this core self via the organismic integration process (Deci & Ryan, 1985, 2002). A number of distinct types of self-motivation and self-control are presented in Table4.
+Grit  is  a  fairly  new  concept,  studied  and  operationalized  in  the  last  decade. Although prior research has produced contradictory results about its usefulness for people, it is critical to continue researching the grit idea in several settings (Clark & Clark, 2019). According to SDT, willingness for self-gain represents an underlying psychological need for effective performance and well-being (Deci & Ryan, 1985; Ryan & Deci, 2000). The desire for autonomy, in particular, is regarded as a funda- mental psychological need because humans require the ability to exert control over their behaviors (Gagne & Deci, 2005). SDT recognizes the importance of the atmos- phere on individual behavior and outlines ideal workplace, education, and relation- ship situations. The theory recognizes the contextual impacts on individual behavior and serves as a bridge between studying the person by incorporating environmental factors in studies of human behavior. The examination of grit components within a particular contextual domain was guided by SDT (Ryan & Deci,2000).
+The researcher utilized this idea to drive research into the grit and its capacity to persevere in facing difficulty. Grit refers to persistence and a strong desire to achieve long-term goals (Duckworth et al., 2007). Autonomous motivation may determine what motivates people to pursue a goal, whereas controlled motivation can be used to determine what motivates others to pursue a goal, while motivational styles can influence an individual’s excitement, persistence, and commitment to completing goals. Additionally, grit is associated with motivation, determination, and passion (Duckworth et al., 2007), whereas researchers associated their work on grit with SDT (Jin & Kim, 2017; Rozel, 2019).
+The literature section of the study consisted of learners’ autonomy, academic motivation, and grit, along with their related studies and theoretical background. After summarizing the section, it was found that few researchers have conducted studies on the given variables simultaneously, whereas no effect study was found regarding the Pakistani context to the best of our knowledge. This study’s ultimate goal was to investigate learner autonomy’s effect on academic motivation and grit in university students, filling a significant gap in the literature.
+
+3 3
+  
+
+Education and Information Technologies (2024) 29:4159–4196  4179
+4  Methodology
+The study methodology is presented in this section which includes research design and sampling, instrumentation, pilot testing, data collection technique, and analysis in the following sections.
+4.1 Research design andsampling
+This study was descriptive, and a survey method was employed to collect the data required to analyze the problems discussed in this research study. A multi-stage sim- ple random sampling method was used in the present study to select the population, as presented in Fig.2. Punjab province was divided geographically into three zones: East zone, North zone, and South zone (Bank, 2015; Shaheen, 2013). The required sample was selected at each stage given below:
+In the first stage, a list of all general-type public universities was taken from the Higher Education Commission (HEC) website.
+The researcher selected three universities (one from each zone) in the second stage using a simple random sampling technique (1230 participants selected). 
+
+Fig. 2  Sampling Flowchart
+
+3 3
+The rationale of the universities chosen was to provide equal representation for all students studying in all universities of Punjab province.
+The researcher contacted the concerned personnel of respective universities to get the students’ credentials, i.e., Name, Gender, Educational level, Faculty, and Email, to share the questionnaires.
+4.2 Data collection instruments
+The researcher used three questionnaires: Learner Autonomy Profile-Short Form (LAP-SF), Academic motivation scale (AMS), and Grit scale, to collect student data. The details of all the instruments are given in the following sub-sections.
+4.2.1 Questionnaire forlearners ’ autonomy
+The Learner Autonomy Profile-Short Form (LAP-SF) was adapted to measure the level of the learner’s autonomy (Confessore & Park, 2004). The questionnaire con- sisted of four factors: desire, resourcefulness, initiative, persistence, and twenty-two sub-factors having sixty-six items. The scale’s original response categories ranged from 0 to 10 (Will Never Perform the Behavior to Will Always Perform the Behav- ior), but the researcher changed it to 1 to 5 (Never to Always). The questionnaire’s reliability was between 0.95 to 0.98, with acceptable content, construct, and crite- rion validity.
+4.2.2 Questionnaire forAMS
+The Academic Motivation Scale (AMS) was adopted to assess students’ motiva- tion (Vallerand et al., (1992). AMS has twenty-eight items and seven subscales that measure three types of intrinsic motivation (knowledge, accomplishment, and stimulation), three types of extrinsic motivation (identified, introjected, and exter- nal), and amotivation. The Cronbach’s coefficients for the subscales varied between 0.83 and 0.86, with the exception of the recognized extrinsic motivation subscale, which had an internal consistency of 0.62 (Vallerand et al., 1992). In the present study, the word “college” was replaced with ‘university,’ and the word ‘school’ was replaced with ‘college’ to avoid confusion. The questionnaire was categorized into three parts:
+i. Intrinsic motivation (twelve items)
+ii. Extrinsic motivation (twelve items) and;
+iii. Amotivation (four items)
+4.2.3 Questionnaire forstuden ts’ grit
+Duckworth et al., (2007) created a Grit Scale to determine university students’ grit level. Grit is measured with 5-point Likert responses; not at all like me, not much like me, somewhat like me, very much like me, and mostly like me. It is categorized 
+
+Education and Information Technologies (2024) 29:4159–4196  4181
+into two parts: Duckworth etal., (2007) identified two characteristics in their initial scale validation study: the constancy of interests and persistence of effort. Consist- ency of interests and effort had a reliability of 0.84 and 0.78, respectively.
+i. Perseverance of effort (six items)
+ii. Consistency in interest (six items)
+4.3 Pilot testing
+The instruments utilized in this study were piloted and tested to confirm validity and reliability, for which five domain experts validated them. The instruments were tested on a sample of 100 university students who were not part of the final sample. Necessary changes were made to the tools, considering the experts’ suggestions and the pilot testing results.
+4.4 Data collection
+The questionnaires were uploaded in Google form to collect the data online because face-to-face data collection from the students was impossible due to the COVID-19 pandemic and the closure of the universities. The questionnaire link to the Google Form was emailed to the students. As the students filled in the questionnaires, the responses were recorded in the Google form and exported into the Microsoft Excel file (.csv) to analyze the data accordingly. The researchers finally sent an email of thanks to all the participants who solved the questionnaire.
+5  Results andfindings
+This section presents the study’s results and findings, in which data is shown in the tables. The information gathered was tabulated and analyzed with the statistical soft- ware package SPSS v.26 to investigate the effect of learner autonomy on academic motivation and student grit, null hypotheses were developed (significance level set at α = 0.05):
+Research Question 1: What is the effect of learner’s autonomy on the academic motivation of university students?
+To explore the effect of learner’s autonomy on academic motivation, the follow- ing null Hypotheses were developed (significant level α = 0.05).
+H01.There is no significant effect of the Desire to Learn on the Academic Moti- vation of university students.
+Regression Analysis was utilized to verify this hypothesis. Table 5 discusses the model’s summary of variance in the dependent variable (Academic Motivation), which the model explained.
+
+3 3
+Table 5  Model Summaryb  Model R R2 Adjusted R2 Std. Error F P
+(N = 1230)
+0.382 0.146 0.145 14.86 209.832 < 0.001
+a. Predictor: (Constant): Desire to Learn
+b. Dependent Variable: Academic Motivation
+According to this model, the value is 0.38, which indicates a 38% variance in Aca- demic motivation as described by the Desire to learn (independent variable). There- fore linear regression reveals that Desire to Learn significantly and positively predicts the outcome variable academic motivation, i.e., R2 = 0.146, Adjusted R2 = 0.145, F (1, 1228) = 209.83, p = 0.00. AM was statistically significant (β = 0.382, p < 0.05). It is strong evidence that a high level of perceived desire to learn leads to a higher pre- diction of academic motivation. The model reaches statistical significance at α = 0.05, thus rejecting the null hypothesis that ‘there is no significant effect of the Desire to Learn on the Academic Motivation of the university student.’
+H02.There is no significant effect of Resourcefulness on the Academic Motiva- tion of university students.
+Regression Analysis was utilized to verify this hypothesis. Table 6 discusses the model’s summary of variance in the dependent variable (Academic Motivation), which the model explained.
+a. Predictor: (Constant): Resourcefulness
+b. Dependent Variable: Academic Motivation
+According to this model, the value is 0.19, which indicates a 19% variance in the  Students’  Motivation  as  described  by  Resourcefulness  (independent  variable). Therefore, linear regression reveals that Resourcefulness significantly and positively predicts  Academic  Motivation  outcome,  i.e.,  R2 = 0.199,  Adjusted  R2 = 0.198,  F (1,1228) = 304.686, p = 0.00. AM was statistically significant (β = 0.446, p < 0.05). It is strong evidence to conclude that a high level of perceived Resourcefulness leads to a higher prediction of Academic Motivation. The model reaches statistical significance at α = 0.05, thus rejecting the null hypothesis that ‘there is no significant effect of the Resourcefulness to Learn on the Academic Motivation of the university student.’
+H03.There is no significant effect of Initiative on the Academic Motivation of university students.
+Table 6  Model Summaryb  Model R R2 Adjusted R2 Std. Error F P
+(N = 1230)
+0.446 0.199 0.198 14.39 304.69 < 0.001
+
+Education and Information Technologies (2024) 29:4159–4196  4183
+Table 7  Model Summaryb (N = 1230)
+Table 8  Model Summaryb (N = 1230)
+ 
+Model    R        2        2               Std.Error     F          P
+                  R        Adjusted R
+         0.392    0.153    0.153           14.80         222.58     < 0.001
+
+Model    R        2        2               Std. Error    F          P
+                  R        Adjusted R
+         0.421    0.177    0.177           14.59         264.49     < 0.001
+ 
+
+3 3
+Education and Information Technologies (2024) 29:4159–4196  4183
+Regression Analysis was utilized to verify this hypothesis. Table 7 discusses the model’s summary of variance in the dependent variable (Academic Motivation), which the model explained.
+a. Predictor: (Constant): Initiative
+b. Dependent Variable: Academic Motivation
+According to this model, the value is 0.15, which indicates a 15% variance in the  Students’  Motivation  as  described  by  the  Initiative  (independent  variable). Therefore, linear regression reveals that Initiative significantly and positively pre- dicts Academic Motivation outcome, i.e., R2 = 0.153 Adjusted R2 = 0.153,  F (1, 1228) = 222.576,  p = 0.00.  AM  was  statistically  significant  (β = 0.392,  p < 0.05). Having a high level of perceived Initiative is strongly linked to a higher level of aca- demic motivation. The model reaches statistical significance at α = 0.05, thus reject- ing the null hypothesis that ‘there is no significant effect of the Initiative to Learn on the Academic Motivation of university students.’
+H04. There is no significant effect of Persistence on the Academic Motivation of university students.
+Regression Analysis was utilized to verify this hypothesis. Table 8 discusses the model’s summary of variance in the dependent variable (Academic Motivation), which the model explained.
+a. Predictor: (Constant): Persistence
+b. Dependent Variable: Academic Motivation
+According to this model, the value is 0.15, which indicates a 15% variance in the Students’ Motivation as explained by Persistence (independent variable). Therefore, linear regression reveals that Persistence significantly and positively predicts  Academic  Motivation  outcome,  i.e.,  R2 = 0.177  Adjusted  R2 = 0.177, F  (1,  1228) = 264.494,  p = 0.00.  AM  was  statistically  significant  (β = 0.421, p < 0.05). It is safe to conclude that a degree of perceived Persistence, predicts a higher level of Academic Motivation. The model reaches statistical significance 
+
+3 3
+Table 9  Model Summaryb (N = 1230)
+Table 10  Model Summaryb (N = 1230)
+ 
+Model    R        2        2               Std.Error    F          P
+                  R        Adjusted R
+         0.451    . 203    . 203           14.35        313.09     < 0.001
+
+Model    R        2        2               Std.Error    F          P
+                  R        Adjusted R
+         0.296    0.088    0.087           7.22         117.80     < 0.001
+ 
+
+at α = 0.05, thus rejecting the null hypothesis that ‘there is no significant effect of the Persistence to Learn on the Academic Motivation of university students.’
+H05.There is no significant effect of Learners’ Autonomy on the Academic Moti- vation of university students.
+Regression Analysis was utilized to verify this hypothesis. Table 9 discusses the model’s summary of variance in the dependent variable (Academic Motivation), which the model explained.
+a. Predictor: (Constant): Learners’, Autonomy
+b. Dependent Variable: Academic Motivation
+The value of this model is 0.20, which indicates that 20% variance in the Stu- dents’  Motivation  as  explained  by  Autonomy  (independent  variable).  Therefore, linear regression reveals that Learners’ Autonomy significantly and positively pre- dicts Academic Motivation outcome, i.e., R2 = 0.203 Adjusted R2 = 0.203,  F (1, 1228) = 313.086,  p = 0.00.  AM  was  statistically  significant  (β = 0.451,  p < 0.05). It is reasonable to conclude that a high level of perceived Autonomy predicts a higher level of Academic Motivation. The model reaches statistical significance at α = 0.05, thus rejecting the null hypothesis that ‘there is no significant effect of the Learners’Autonomy on the Academic Motivation of university students.’
+Research Question 2: What is the effect of learner’s autonomy on student’s grit of university students?
+To study the effect of learner’s autonomy on the students’ grit following null Hypotheses were framed (significant level set at α = 0.05).
+H01.There is no significant effect of the Desire to Learn on Students’ Grit of uni- versity students.
+Regression Analysis was utilized to verifythis hypothesis. Table10 discussed the models’ summary of variance in the dependent variable (Student Grit), which the model explained.
+a. Predictor: (Constant): Desire to Learn
+
+Education and Information Technologies (2024) 29:4159–4196  4185
+b. Dependent Variable: Grit
+This model described the value as 0.08, which explores that 08% variance in the Students’ Grit as explained by Desire to learn (independent variable). Therefore, linear regression reveals that Desire to Learn significantly and positively predicts Student Grit’s outcome, i.e., R2 = 0.008, Adjusted R2 = 0.87, F (1, 1228) = 117.99, p = 0.00. SG was statistically significant (β = 0.296, p < 0.05). It is strong evidence to conclude that a high level of perceived desire to learn leads to a higher prediction of student grit. The model reaches statistical significance at α = 0.05, thus rejecting the null hypothesis that ‘there is no significant effect of the Desire to Learn on the Grit of the university student.’
+H02.There is no significant effect of Resourcefulness on Students Grit of univer- sity students.
+Regression Analysis was utilized to verifythis hypothesis. Table11 discussed the models’ summary of variance in the dependent variable (Student Grit), which the model explained.
+a. Predictor: (Constant): Resourcefulness
+b. Dependent Variable: Grit
+According to this model, the value is 0.09, indicating a 09% variance in the Stu- dents’  Grit  described  by  Resourcefulness  (independent  variable).  Therefore,  the model reveals that Resourcefulness predicts the outcome variable Student Grit sig- nificantly and positively, i.e., R2 = 0.093, Adjusted R2 = 0.092, F (1, 1228) = 125.32, p = 0.00. SG was statistically significant (β = 0.304, p < 0.05). There is strong evi- dence to suggest that a high level of perceived Resourcefulness predicts student grit. The model reaches statistical significance at α = 0.05, thus rejecting the null hypoth- esis that ‘there is no significant effect of the Resourcefulness on the Grit of university students.’
+H03.There is no significant effect of Initiative on university students’ Grit.
+Regression Analysis was utilized to verifythis hypothesis. Table12 discussed the models’ summary of variance in the dependent variable (Student Grit), which the model explained.
+a. Predictor: (Constant): Initiative
+b. Dependent Variable: Grit
+Table 11  Model Summaryb 
+(N = 1230)
+                                          Model    R        2        2                Std.Error    F          P
+                                                            R        Adjusted R
+                                                   0.304    0.093    0.092            7.20         125.32     < 0.001
+
+3 3
+Table 12  Model Summaryb  Model R R2 Adjusted R2 Std.Error F P
+(N = 1230)
+0.267 0.071 0.070 7.28 94.02 < 0.001
+This model exposes the value of 0.07, which explores a 07% variance in the Stu- dents’ Grit as explained by Initiative (independent variable). So, linear regression shows that Initiative predicts Student Grit in a significant and positive way, i.e., R2 = 0.071, Adjusted R2 = 0.070, F (1, 1228) = 94.019, p = 0.00. SG was statistically significant (β = 0.267, p < 0.05). It is reasonable to conclude that a high level of per- ceived initiative predicts higher levels of student grit. The model reaches statistical significance at α = 0.05, thus rejecting the null hypothesis that ‘there is no signifi- cant effect of the Initiative on the Grit of university students.’
+H04.There is no significant effect of Persistence on Students Grit of university students.
+Regression Analysis was utilized to verifythis hypothesis.
+Stage 2: The Model’s Evaluation.
+Table 13 discussed the models’ summary of variance in the dependent variable (Student Grit), which the model explained.
+a. Predictor: (Constant): Initiative
+b. Dependent Variable: Grit
+The value of this model is 0.08, which explores an 08% variance in the Students’ Grit as explained by Persistence (independent variable). As a result of the linear regression, Initiative positively and substantially predicts the outcome variable Stu- dent Grit, i.e., R2 = 0.089, Adjusted R2 = 0.088, F (1, 1228) = 119.618, p = 0.00. SG was statistically significant (β = 0.298, p < 0.05). There is compelling data to support that perceived persistence predicts student grit. The model reaches statistical signifi- cance at α = 0.05, thus rejecting the null hypothesis that ‘there is no significant effect of the Persistence on the Grit of university student’.
+H05.There is no significant effect of Learners’ Autonomy on Students’ Grit of university students.
+Regression Analysis was utilized to verifythis hypothesis. Table14 discusses the model’s summary of variance in the dependent variable (Student Grit), which the model explained.
+Table 13  Model Summaryb  Model R R2 Adjusted R2 Std.Error F P
+(N = 1230)
+0.298 0.089 0.088 7.22 119.62 < 0.001
+
+Education and Information Technologies (2024) 29:4159–4196  4187
+Table 14  Model Summaryb 
+(N = 1230)
+                                          Model    R        2        2                Std.Error    F          P
+                                                            R        Adjusted R
+                                                   0.320    0.102    0.102            7.16         140.08     < 0.001
+ 
+a. Predictor: (Constant): Learner Autonomy
+b. Dependent Variable: Grit
+According to the model, the value is 0.10, which indicates a 10% variance in the  Students’  Grit  as  explained  by  Learners’  Autonomy  (independent  variable). As a result of the linear regression, Initiative positively and substantially predicts the  outcome  variable  Student  Grit,  i.e.,  R2 = 0.102,  Adjusted  R2 = 0.102,  F  (1, 1228) = 140.08, p = 0.00. SG was statistically significant (β = 0.298, p < 0.05). There is a convincing reason to prove that a high level of perceived Learners’ Autonomy leads higher prediction of student grit. The model reaches statistical significance at α = 0.05, thus rejecting the null hypothesis that ‘there is no significant effect of the Learners’ Autonomy on the Grit of university students.’
+6  Discussion
+Effect of learners’autonomy on academic motivations Findings  of  the  regression analysis with its four factors (Desire, Resourcefulness, Initiative, and persistence) revealed that LAS and AMS have a positive association. Researchers have a com- mon consensus about the learner-centered teaching model that learner autonomy makes learning more purposeful, increases motivation, and leads to effective learn- ing (Fauzi et al., 2020; Juan & Yajie, 2018). The results of the research are com- parable with other researchers who also investigated that instructor autonomy sup- port and learner autonomy increase the motivation of students significantly (Hang et al., 2015; Kaur et al., 2014; Reeve, 2016). These results align with Stroet et al., (2013), who reviewed 71 experimental studies and exposed that autonomy-support- ive teaching increases learner motivation. Similarly, these outcomes are consistent with Hang et al., (2015), who discovered that teachers’ autonomy support signifi- cantly influenced students’ motivation (Kaur etal., 2017; Kaur etal., 2014; Ushioda, 2011). Similarly, numerous studies have proven the relationship between autono- mouslearning and academic motivation (Alkan & Arslan, 2019; Salehi & Vaez-Dal- ili, 2017; Tlfarlolu & Ciftci, 2011).
+Effect of learners’ autonomy on students’ grit Findings of the regression analysis with its four factors (Desire, Resourcefulness, Initiative, and persistence) revealed a positive association between LAS and G-S. These findings align with the findings of Lee etal., (2015), who found a very close correlation between learner autonomy and grit.Both were identified as excellent domestic English learners. Similarly, Her- nandez etal., (2020) reported that since autonomy predicts intrinsic motivation and intrinsic motivation predicts grit, autonomy is expected to be a predictive variable 
+
+3 3
+that explains grit. SRL showed a strong relationship with grit (a moderate relation- ship with the consistency of the interest factor and a strong relationship with the consistency of the effort factor). Ruttencutter, (2018) discovered a significant and positive relationship between self-directed learning and grit. Likewise, Wolters & Hussain, (2015) found a significant correlation between self-regulated learning and grit. Rojas etal., (2012) discovered that grit was positively related to self-regulation in math and reading between upper elementary and middle school students. Fur- thermore, Leaver etal., (2005) discovered that self-regulated learning is the process by which students’ learner autonomy is exercised and developed. In other words, because  the  relationship  between  grit  and  self-regulation  has  been  established, learner autonomy and grit may be linked.
+7  Conclusion
+The study aimed to determine the effect of learner autonomy on academic motiva- tion and university students’ grit. It was concluded that the learners’ autonomy with its sub-factors (desire to learn, resourcefulness, initiative, and persistence) positively affects students’ academic motivation. Similarly, the learners’ autonomy with its sub-factors (desire to learn, resourcefulness, initiative, and persistence) also posi- tively affects the grit of university students. Students may be equipped with more autonomous learning skills to enhance their lifelong learning motivation and long- term achievements. This study was limited to universities in the public sector of Punjab, Pakistan, which may also be extended to private-sector universities. The study’s findings might not be generalized to other countries, whereas the research- ers suggested that this study be conducted in different demographics and geographic locations.
+8  Implications
+In  this  study,  various  implications  may  be  identified  because  vast  literature  on learner autonomy, academic motivation, and grit is presented, providing support to determine the effect of the abovementioned variables. This study found the effect of learner autonomy on academic motivation and grit jointly, resulting the significant and positively predicted outcome variables. This research has promising implica- tions that might be helpful for curriculum developers, organizations, teachers, and the students of the universities. The research provides a detailed understanding of university students’ learner autonomy, academic motivation, and grit. This research also authenticates the findings of a positive relationship and effect between learner autonomy, academic motivation, and grit. By adopting learner autonomy with the help of teachers, administrators, and curriculum developers, motivation and long- term goals in students may be achieved. Moreover, student-centered learning is a new paradigm shift that is acknowledged all over the world. Lastly, this research adds to the literature by concurrently exploring the positive effect of three variables.
+
+Education and Information Technologies (2024) 29:4159–4196  4189
+9  Limitations
+The following limitations hampered this research:
+1-  The research focused on general types of public universities in the province of 
+Punjab; therefore, results may not be generalized to the other provinces of Paki- stan.
+2-  Survey-based research may include concerns such as question vagueness, personal 
+bias, and respondent ignorance, despite attempts to minimize these problems. 3-  The study was not longitudinal.
+10  Future directions
+There is a need to conduct cross-cultural research in order to examine future research regarding the study variables, as the findings among the variables remain the same in educational institutes. It is suggested that the current study may be conducted on a large sample of educational institutes, i.e., Schools, Colleges, and Universities. A comparative study investigating the variables of this research at public and private educational institutes may be conducted to see the effects of Learner autonomy, Academic Motivation, and Grit among the students. A mix- method research study may be carried out to provide a better context to policy makers with a broader scope at the different educational levels.
+Acknowledgements This research is the part of Ph.D. research work under the title of “Effect of Learn- ers’ Autonomy on Academic Motivation and University Students’ Grit” and also this research was not funded by any organization.
+Data availability Not Applicable.
+Code availability Not Applicable.
+Declarations 
+Competing interest The authors have no conflicts of interest to declare that are relevant to the content of this article.
+References
+Agustina, D. (2017). A complex system of teachers’ beliefs and practices in developing learner auton-
+omy in indonesian junior high school contexts: A mixed-methods study. Victoria University. https://researcharchive.vuw.ac.nz/xmlui/bitstream/handle/10063/6351/thesis_access.pdf?seque nce=1
+Akomolafe, C. O., & Adesua, V. O. (2016). The Impact of physical facilities on students’ level of 
+motivation and academic performance in senior secondary schools in South West Nigeria. Jour- nal of Education and Practice, 7(4), 38–42.
+
+4 4
+Alkan, M. F., & Arslan, M. (2019). Learner autonomy of pre-service teachers and its associations 
+with academic motivation and self-efficacy. Malaysian Journal of Learning and Instruction, 16(2), 75–96.
+Al-Mutawah, M. A., & Fateel, M. J. (2018). Students’ achievement in math and science: How grit and 
+attitudes influence. International Education Studies, 11(2), 97–105.
+Bandura, A. (1986). Social foundations of thought and action: A social cognitive theory. Prentice Hall, 
+Inc.
+Bandura, A. (2001). Social cognitive theory: An agentic perspective. Annual review of Psychology, 52(1), 
+1–26.
+Bandura, A. (2009). Social cognitive theory of mass communication. In Media effects (pp. 110–140). 
+Routledge.
+Bank,  W.  (2015).  Tracing  the  Flow  of  Public  Money.  https://openknowledge.worldbank.org/handle/ 
+10986/24693
+Banupriya, V., & Rajan, M. R. (2019). Grit and academic achievement: Is it related? The International 
+Journal of Indian Psychology, 7(2), 678–686.
+Baumeister, R. F., & Leary, M. R. (1995). The need to belong: Desire for interpersonal attachments as 
+a fundamental human motivation. Psychological Bulletin, 117, 497–529. https://doi.org/10.1037/ 0033-2909.117.3.497
+Bolkan, S., Goodboy, A., & Kelsey, D. (2015). Instructor clarity and student motivation: Academic per-
+formance as a product of students’ ability and motivation to process instructional material. Com- munication Education, 65(2), 129–148. https://doi.org/10.1080/03634523.2015.1079329
+Cardona, J. J. (2013). Determined to Succeed: Motivation towards doctoral degree completion (Doctoral 
+dissertation). https://deepblue.lib.umich.edu/bitstream/handle/2027.42/99774/jraya_1.pdf?s
+Carr, P. B. (1999). The measurement of resourcefulness intentions in the adult autonomous learner. The 
+George  Washington  University.  https://search.proquest.com/openview/520b5117b9684e0d0b05 531bc71b5edf/1?pq-origsite=gscholar&cbl=18750&diss=y
+Cetin, B. (2015). Academic motivation and self-regulated learning in predicting academic achievement in 
+college. Journal of International Education Research, 11(2), 95–106.
+Ceylan, N. O. (2021). The relationship between learner autonomy and motivation. TOJET: The Turkish 
+Online Journal of Educational Technology, 20(4), 1–9.
+Chinyere, O. T., & Afeez, Y. S. (2019). Influence of emotional intelligence ability level of electrical/
+electronic technology university students on academic motivation and attitude to study. The Inter- national Journal of Electrical Engineering & Education, 59(3), 191–231. https://doi.org/10.1177/ 0020720919840984
+Clark, R. S., & Clark, V. L. P. (2019). Grit within the context of career success: A mixed methods study. 
+International Journal of Applied Positive Psychology, 4(3), 91–111.
+Cokley, K. O. (2003). What do we know about the motivation of african american students? challenging 
+the “anti-intellectual” myth. Harvard Educational Review, 73(4), 524–558.
+Confessore, G. J. (1992). An introduction to the study of self-directed Learning. In G. J. Confessore & 
+S. J. Confessore (Eds.), Guideposts to self-directed learning: Expert commentary on essential con- cepts (pp. 1–6). Inc.
+Confessore, G. J., & Park, E. (2004). Factor validation of the learner autonomy profile, version 3.0 and 
+extraction of the short form. International Journal of Self-Directed Learning, 1(1), 39–58.
+Cross, T. M. (2013). Staying the course: Grit, academic success, and non-traditional doctoral students 
+(Doctoral dissertation, Pepperdine University). https://search.proquest.com/openview/9d39566195 26667e4ead4aa8064677f4/1?pq-origsite=gscholar&cbl=18750
+Datu, J. A. D. (2017). Peace of mind, academic motivation, and academic achievement in Filipino high 
+school students. The Spanish journal of psychology, 20(22), 1–8. https://doi.org/10.1017/sjp.2017. 19
+deCharms, R. (1968). Personal causation. Academic Press.
+Deci, E. L., & Ryan, R. M. (1985). The general causality orientations scale: Self-determination in person-
+ality. Journal of Research in Personality, 19(2), 109–134. https://doi.org/10.1016/0092-6566(85) 90023-6
+Deci, E. L., & Ryan, R. M. (2002). Overview of self-determination theory: An organismic dialectical per-
+spective. In E. L. Deci & R. M. Ryan (Eds.), Handbook of self-determination research (pp. 3–33). University of Rochester Press.
+Deci, E. L., & Ryan, R. M. (2008). Facilitating optimal motivation and psychological well-being across 
+life’s domains. Canadian Psychology/psychologie Canadienne, 49(1), 14–34.
+
+Education and Information Technologies (2024) 29:4159–4196  4191
+Deci, E. L., Vallerand, R. J., Pelletier, L. G., & Ryan, R. M. (1991). Motivation and education: The self 
+determination perspective. Educational Psychologist, 26(3–4), 325–346.
+Dennis, J. M., Phinney, J. S., & Chuateco, L. I. (2005). The role of motivation, parental support, and peer 
+support in the academic success of ethnic minority first-generation college students. Journal of College Student Development, 46(3), 223–236.
+Derrick, M. G., & Carr, P. B. (2003). Facilitating and understanding autonomy in adult learners. New 
+Horizons in Adult Education, 17(2), 4–10.
+Derrick, M. G. (2001). The measurement of an adult’s intention to exhibit persistence in autonomous 
+learning.  The  George  Washington  University.  https://www.proquest.com/openview/7288b253ce ec678eb92d454f686f55be/1?pq-origsite=gscholar&cbl=18750&diss=y
+Dixson, D. D., Worrell, F. C., Olszewski-Kubilius, P., & Subotnik, R. F. (2016). Beyond perceived abil-
+ity: The contribution of psychosocial factors to academic performance. Annals of the New York Academy of Sciences, 1377(1), 67–77.
+Dockterman, D., & Blackwell, L. (2014). Growth mindset in context: Content and culture matter too. 
+International  Center  for  Leadership  in  Education,  1–4.  https://kmhs.typepad.com/files/growt hmindset-1.pdf
+Dogan, U. (2015). Student engagement, academic self-efficacy, and academic motivation as predictors 
+of academic performance. The Anthropologist, 20(3), 553–561. https://doi.org/10.1080/09720073. 2015.11891759
+Dogan, U. (2017). Student engagement, academic self-efficacy, and academic motivation as predictors 
+of academic performance. The Anthropologist, 20(3), 553–561. https://doi.org/10.1080/09720073. 2015.11891759
+Duckworth, A., & Gross, J. J. (2014). Self-control and grit: Related but separable determinants of suc-
+cess.  Current  Directions  in  Psychological  Science,  23,  319–325.  https://doi.org/10.1177/09637 21414541462
+Duckworth, A. L., & Quinn, P. D. (2009). Development and validation of the Short Grit Scale (GRIT–S). 
+Journal of Personality Assessment, 91(2), 166–174.
+Duckworth, A. L., Peterson, C., Matthews, M. D., & Kelly, D. R. (2007). Grit: Perseverance and passion 
+for long-term goals. Journal of Personality and Social Psychology, 92(6), 1087–1101. https://doi. org/10.1037/0022-3514.92.6.1087
+Eccles, J. S., & Wigfield, A. (2002). Motivational beliefs, values, and goals. Annual Review of Psychol-
+ogy, 53(1), 109–132.
+Fauzi, C., Basikin, S., & Duisenbayeva, G. (2020). Exploring efl student teachers readiness and gen-
+der differences of learner autonomy. Bulletin of National Academy of Sciences of the Republic of Kazakhstan, 1(383), 288–299. https://doi.org/10.32014/2020.2518-1467.34
+Fishbein, M., & Ajzen, I. (1975). Belief, attitude, intention, and behavior: An introduction to theory and 
+research. Addison-Wesley. https://philarchive.org/archive/FISBAI
+Fulton, E., & Turner, L. A. (2008). Students’ academic motivation: Relations with parental warmth, 
+autonomy granting, and supervision. Educational Psychology, 28(5), 521–534.
+Gagne, M., & Deci, E. (2005). Self-determination theory and work motivation. Journal of Organizational 
+Behavior, 26(4), 331–362.
+Gandhimathi, S. N. S., & Devi, A. (2016). Learner autonomy and motivation-a literature review. Research 
+on Humanities and Social Sciences, 6(3), 80–83.
+Gardner, S. K. (2009). Conceptualizing success in doctoral education: Perspectives of faculty in seven 
+disciplines. The Review of Higher Education, 32(3), 383–406.
+Griffin, K. (2006). Striving for success: A qualitative exploration of competing theories of high achiev-
+ing black college students’ academic motivation. Journal of College Student Development, 47(4), 384–400.
+Gupta, P. K., & Mili, R. (2017). Impact of academic motivation on academic achievement: A study on 
+high schools students. European Journal of Education Studies., 2(10), 43–51.
+Gutman, L. M., & Schoon, I. (2013). The Impact of non-cognitive skills on outcomes for young peo-
+ple. Education Endowment Foundation. https://discovery.ucl.ac.uk/id/eprint/10125763/1/Gutman_ Schoon_%202013%20Non-cognitive_skills_literature_review_.pdf
+Hamad, K. A. (2018). Understanding the situation of learner autonomy within the context of higher edu-
+cation in Kurdistan-Iraq. University of Exeter. https://ore.exeter.ac.uk/repository/bitstream/handle/ 10871/33927/HamadK.pdf?sequence=1
+Hang, B. T. T., Kaur, A., & Patil, A. (2015). Impacts of school administration autonomy support on stu-
+dents’ learning motivation and intentions to drop out of vocational school. International Journal of 
+
+3 3
+Quality Assurance in Engineering and Technology Education (IJQAETE), 4(2), 1–12. https://doi. org/10.4018/IJQAETE.2015040101
+Henning, D. D. (2019). A complex systems perspective on multiple language learning: an examination of 
+self-regulation, flow, mindset, grit, expertise and expert performance. University of Exeter. https:// ore.exeter.ac.uk/repository/bitstream/handle/10871/40059/HenningD.pdf
+Hernandez, E. H., Moreno-Murcia, J. A., Cid, L., Monteiro, D., & Rodrigues, F. (2020). Passion or 
+perseverance? The effect of perceived autonomy support and grit on academic performance in college students. International Journal of Environmental Research and Public Health, 17(6), 21–43.
+Hodge, B., Wright, B., & Bennet, P. (2018). The role of grit in determining engagement and academic 
+outcomes for university students. Research in Higher Education, 54(4), 448–460.
+Holec, H. (1981). Autonomy and Foreign Language Learning. Pergamon.
+Hwang, M. H., Lim, H. J., & Ha, H. S. (2018). Effects of grit on the academic success of adult female 
+students at Korean open university. Psychological Reports, 121(4), 705–725.
+Ishaq, K., Azan, N., Zin, M., Rosdi, F., Abid, A., & Ijaz, M. (2020a). The impact of ICT on students’ 
+academic performance in public private sector universities of Pakistan. International Journal of Innovative Technology and Exploring Engineering, 9(3), 1117–1121.
+Ishaq, K., Rana, A. M. K., & Zin, N. A. M. (2020b). Exploring Summative Assessment and Effects: 
+Primary to Higher Education. Bulletin of Education and Research, 42(3), 23–50.
+Ishaq, K., Rosdi, F., Zin, N. A. M., & Abid, A. (2022). Serious game design model for language learn-
+ing in the cultural context. Education and Information Technologies, 27(7), 9317–9355.
+Ishaq, K., Zin, N. A. M., Rosdi, F., Abid, A., & Farooq, U. (2019, November). Effectiveness of lit-
+eracy & numeracy drive (LND): A students’ perspective. In 2019 International Conference on Innovative Computing (ICIC) (pp. 1–10). IEEE. https://doi.org/10.1109/ICIC48496.2019.89667 38
+Ishaq, K., Rosdi, F., Zin, N. A. M., & Abid, A. (2020c). Usability and design issues of mobile assisted 
+language learning application. International Journal of Advanced Computer Science and Appli- cations, 11(6). https://doi.org/10.14569/IJACSA.2020.0110611
+Ishaq, K., Zin, N. A. M., Rosdi, F., Jehanghir, M., Ishaq, S., & Abid, A. (2021). Mobile-assisted and 
+gamification-based language learning: a systematic literature review. PeerJ Computer Science, 7, e496.https://doi.org/10.7717/peerj-cs.496
+Isik, U., Wilschut, J., Croiset, G., & Kusurkar, R. A. (2018). The role of study strategy in motiva-
+tion and academic performance of ethnic minority and majority students: A structural equation model. Advances in Health Sciences Education, 23(5), 921–935.
+Ivankova, N. V., & Stick, S. L. (2007). Students’ persistence in a distributed doctoral program in edu-
+cational leadership in higher education: A mixed methods study. Research in Higher Education, 48(1), 93–135.
+Jang, H., Reeve, J., & Deci, E. L. (2010). Engaging students in learning activities: It is not autonomy 
+support or structure but autonomy support and structure. Journal of Educational Psychology, 102(3), 588–600.
+Jin, B., & Kim, J. (2017). Grit, basic needs satisfaction, and subjective well-being. Journal of Indi-
+vidual Differences, 38(1), 29–35. https://doi.org/10.1027/16140001/a000219
+Juan, L., & Yajie, C. (2018). EFL Teachers’ Beliefs and practices concerning learner autonomy: A 
+narrative inquiry. International Journal of Language and Linguistics, 6(6), 196–201.
+Kaur, A., Hashim, R. A., & Noman, M. (2014). Teacher autonomy support: Does it hinder motivation 
+among Thai students? Malaysian Journal of Learning and Instruction, 11, 171–189.
+Kaur, A., Hang, B. T. T., & Nur, A. H. B. (2017). A self-determination theory based motivational 
+model on intentions to drop out of vocational schools in Vietnam. Malaysian Journal of Learn- ing and Instruction, 14(1), 1–21.
+Kelley, M. J., & Salisbury-Glennon, J. D. (2016). The role of self-regulation in doctoral students’ sta-
+tus of all but dissertation (ABD). Innovative Higher Education, 41(1), 87-100L.
+King, W. R. (2016). Communications and information processing as a critical success factor in the 
+effective  knowledge  organization.  International  Journal  of  Business  Information  Systems, 10(5), 31–52.
+Kleiman, E. M., Adams, L. M., Kashdan, T. B., & Riskind, J. H. (2013). Grateful individuals are not 
+suicidal: Buffering risks associated with hopelessness and depressive symptoms. Personality and Individual Differences, 55(5), 595–599.
+
+Education and Information Technologies (2024) 29:4159–4196  4193
+Kormos, J., & Csizer, K. (2014). The interaction of motivation, self-regulatory strategies, and autono-
+mous learning behavior in different learner groups. Tesol Quarterly, 48(2), 275–299.
+Leaver, B. L., Ehrman, M., & Shektman, B. (2005). Achieving success in second language acquisi-
+tion. Cambridge University Press.
+Lee, H., Shin, S., Hwang, M., Kim, M., Lee, H., & Song, H. (2015). A case study on learner characteris-
+tics of Korean adult excellent english learners. Modern English Education, 16(3), 185–211.
+Leininger, D. (2019). Assessing teacher practice and effect on student growth mindset and grit (Doctoral 
+dissertation,  Indiana  State  University).  https://search.proquest.com/openview/285d1f9fff842f9 
+d56e2399ef33cfdb8/1?pq-origsite=gscholar&cbl=18750&diss=y
+Liando, N. V., & Lumettu, R. (2017). Students’ personal initiative towards their speaking performance. 
+International Education Studies, 10(8), 21–28.
+Lin, T. J. (2012). Student engagement and motivation in the foreign language classroom (pp. 1–78). 
+Washington  State  University.  https://rex.libraries.wsu.edu/view/pdfCoverPage?instCode=01ALL IANCE_WSU&filePid=13349904860001842&download=true
+Little, D. (1996). Freedom to learn and compulsion to interact: Promoting learner autonomy through the 
+use of information systems and information technologies. Taking Control: Autonomy in Language Learning, 1, 203–218.
+Lowe, C. (2009). A correlational study of the relationship between learner autonomy and academic per-
+formance (Doctoral dissertation, The George Washington University). https://search.proquest.com/ openview/b2d12fc06cecfa34455f4427e6980b48/1?pq-origsite=gscholar&cbl=18750
+Ma, Y., Ma, C., & Lan, X. (2020). Uncovering the moderating role of grit and gender in the association 
+between teacher autonomy support and social competence among Chinese undergraduate students. International Journal of Environmental Research and Public Health, 17(17), 63–98.
+Maddi, S. R., Matthews, M. D., Kelly, D. R., Villarreal, B., & White, M. (2012). The role of hardi-
+ness and grit in predicting performance and retention of USMA cadets. Military Psychology, 24(1), 19–28.
+Mahadi, T. S. T., & Jafari, S. M. (2012). Motivation, its types, and its impacts in language learning. Inter-
+national Journal of Business and Social Science, 3(24), 1–6.
+Malkoç, A., & Mutlu, A. K. (2018). Academic self-efficacy and academic procrastination: Exploring the 
+mediating role of academic motivation in Turkish university students. Universal Journal of Educa- tional Research, 6(10), 2087–2093. https://doi.org/10.13189/ujer.2018.061005
+Manda-Taylor, L., Masiye, F., & Mfutso-Bengo, J. (2014). Autonomy. In: H. ten Have (Ed.), Encyclope-
+dia of global bioethics. Cham: Springer. https://doi.org/10.1007/978-3-319-05544-2_460-1
+McGeown, S., Putwain, D., St. Clair-Thompson, H., & Clough, P. (2016). Understanding and supporting 
+adolescents’ mental toughness in an education context. Psychology in the Schools, 54(2), 196–209. 
+https://doi.org/10.1002/pits.21986
+Merriam, S. B., Caffarella, R. S., & Baumgartner, L. M. (1999). Learning in adulthood: A comprehensive 
+guide. Jossey-Bass. San Francisco.
+Meyer, D. T. (2001). The measurement of intentional behavior as a prerequisite to autonomous learn-
+ing. The George Washington University. https://search.proquest.com/openview/79d781d5888b1b7 618038bc26afef908/1?pq-origsite=gscholar&cbl=18750&diss=y
+Millward, P., Wardman, J., & Rubie-Davies, C. (2016). Becoming and being a talented undergraduate 
+student. Higher Education Research & Development, 35(6), 1242–1255.
+Moore, M. G. (2016). Flipped classrooms, study canters andragogy and independent learning. American 
+Journal of Distance Education, 30(2), 65–67. https://doi.org/10.1080/08923647.2016.1168637
+Mubeen, S., & Reid, N. (2014). The measurement of motivation with science student. European Journal 
+of Educational Research, 3(3), 129–144.
+Myartawan, I. P. N. W., Latief, M. A., & Suharmanto, S. (2013). The correlation between learner auton-
+omy and english proficiency of Indonesian EFL college learners. Teflin Journal, 24(1), 63–81.
+Ng, S. F., & Confessore, G. J. (2010). Understanding the relationship of perceived distance learning envi-
+ronments and the enhancement of learner autonomy. The International Journal of Learning, 17(2), 255–263.
+Ng, S. F., & Confessore, G. J. (2011). Assessing the capacity for success in distance learning in Malaysia. 
+Procedia Social and Behavioral Sciences, 15, 1742–1750. https://doi.org/10.1016/j.sbspro.2011. 03.362
+Ng, S. F., & Confessore, G. J. (2015). Learner autonomy and selected demographic characteristics as 
+they relate to life satisfaction among older adults in Malaysia. Educational Gerontology, 41(5), 361–372.
+
+3 3
+Ng, S. F., Confessore, G. J., Yusoff, Z., Aziz, A., Aidil, N., & Lajis, N. M. (2011). Learner Autonomy and Academic Performance among Undergraduate Students. International Journal of Social Sciences 
+& Education, 1(4), 669–679.
+Nguyen, T. N. (2014). Learner autonomy in language learning: Teachers’ beliefs. Queensland University 
+of Technology. https://eprints.qut.edu.au/69937/1/THANH%2BNGA_NGUYEN_Thesis.pdf
+Nickson, D., Price, R., Baxter-Reid, H., & Hurrell, S. A. (2017). Skill requirements in retail work: 
+The case of high-end fashion retailing. Work, Employment and Society, 31(4), 692–708. https:// 
+doi.org/10.2307/26500131
+Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: 
+Applying self-determination theory to educational practice. Theory and Research in Education, 7(2), 133–144.
+Palmer, C. A. (2003). Linking learner autonomy and conditions for learning in the workplace: Knowl-
+edge management systems as organizing circumstances. The George Washington University. https://search.proquest.com/openview/8e9eb04e5a2638b2d7e196b3c93b9c44/1?pq-origsite= gscholar&cbl=18750&diss=y
+Perkins-Gough, D. (2013). The significance of grit: A conversation with Angela Lee Duckworth. Edu-
+cational Leadership, 71(1), 14–20.
+Phillips, A. D. (2004). An assessment of the learner autonomy of students enrolled in academic and 
+vocational programs at Thomas Nelson Community College. The George Washington Univer- sity.  https://search.proquest.com/openview/f970d44e6ea02682e1cfd16dc42ed0b0/1?pq-origs ite=gscholar&cbl=18750&diss=y
+Phithakmethakun, M., & Chinokul, S. (2020). Autonomy-supportive english language instruction: An 
+experimental study on students’ motivation in english language classrooms. Language Educa- tion and Acquisition Research Network Journal, 13(1), 94–113.
+Pintrich, P. R. (2003). A motivational science perspective on the role of student motivation in learning 
+and teaching contexts. Journal of Educational Psychology, 95(4), 667–686.
+Ponton, M. K., & Rhea, N. E. (2006). Autonomous learning from a social cognitive perspective. New 
+Horizons in Adult Education and Human Resource Development, 20(2), 38–49.
+Ponton, M. K., Carr, P. B., & Derrick, M. G. (2004). A path analysis of the conative factors associated 
+with autonomous learning. International Journal of Self-Directed Learning, 1(1), 59–69.
+Ponton, M. K. (1999). The measurement of an adult’s intention to exhibit personal initiative in auton-
+omous learning (Order No. 9949350) [Doctoral dissertation, The George Washington Univer-
+sity ]. ProQuest Dissertations & Theses Global.
+Reed, J., Pritschet, B. L., & Cutton, D. M. (2013). Grit, conscientiousness, and the transtheoretical 
+model of change for exercise behavior. Journal of Health Psychology, 18(5), 612–619.
+Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. Educational Psychologist, 44(3), 159–175. https://doi.org/ 10.1080/00461520903028990
+Reeve, J. (2016). Autonomy-supportive teaching: What it is, how to do it. In W. Liu, J. Wang, & 
+R. Ryan (Eds.), Building autonomous learners. Singapore: Springer. https://doi.org/10.1007/ 978-981-287-630-0_7
+Ricard, N. C., & Pelletier, L. G. (2016). Dropping out of high school: The role of parent and teacher 
+self-determination  support,  reciprocal  friendships  and  academic  motivation.  Contemporary Educational Psychology, 44, 32–40. https://doi.org/10.1016/j.cedpsych.2015.12.003
+Rojas, J. P., Reser, J. A., Usher, E. L., & Toland, M. D. (2012). Psychometric properties of the aca-
+demic grit scale. Lexington: University of Kentucky. https://motivation.uky.edu/files/2013/08/ PojasPeserTolandUsher.pdf
+Rosen, J. A., Glennie, E. J., Dalton, B. W., Lennon, J. M., & Bozick, R. N. (2010). Noncognitive skills 
+in the classroom: New perspectives on educational research. RTI Press.
+Rozel, J.Z. (2019). A quantitative examination of grit and student engagement, instructional strate-
+gies, and classroom management teacher self-efficacy among alternatively certified educators (Unpublished doctoral dissertation). Grand Canyon University.
+Ruttencutter, G.S. (2018). Getting gritty with it: An examination of self-directed learning and grit 
+among goctoral students (Unpublished doctoral dissertation). University of Tennessee.
+Ryan, R. M., & Deci, E. L. (2000). Intrinsic and extrinsic motivations: Classic definitions and new 
+directions. Contemporary Educational Psychology, 25(1), 54–67.
+
+Education and Information Technologies (2024) 29:4159–4196  4195
+Salehi, E., & Vaez-Dalili, M. (2017). Interrelationship between motivation, autonomy, and proficiency 
+level of Iranian elementary/intermediate EFL learners. Journal of Applied Linguistics and Lan- guage Research, 4(8), 32–47.
+Salimi, A., & Ansari, N. (2015). Learner autonomy: Investigating Iranian english teachers’ beliefs. 
+Theory and Practice in Language Studies, 5(5), 1106–1115.
+Sedlacek, W. E. (2004). Beyond the big test: Noncognitive assessment in higher education. Jossey-
+Bass, An Imprint of Wiley. 10475 Crosspoint Blvd, Indianapolis, IN 46256. https://eric.ed. gov/?id=ED498559
+Shaheen,  A.  J.  (2013).  Punjab  School  Education  Sector  Plan  2013–2017.  http://aserpakistan.org/ 
+document/learning_resources/2014/Sector_Plans/Punjab Sector Plan 2013–2017.pdf
+Shahzad, A. K., Imtiaz, A., & Asgher, T. (2021). Promoting learner autonomy in an esl context in Pakistani 
+universities: A teachers’ perspective. Humanities & Social Sciences Reviews, 9(3), 1048–1055.
+Shrivastava, L. (2012). Student’s motivation: A teacher’s role. International Journal of Research and 
+Development, 1(1), 1–3.
+Singh, K., & Jha, S. D. (2008). Positive and negative affect, and grit as predictors of happiness and life 
+satisfaction. Journal of the Indian Academy of Applied Psychology, 34(2), 40–45.
+Stokas, A. G. (2015). A genealogy of grit: Education in the new gilded age. Educational Theory, 65(5), 
+513–528. https://doi.org/10.1111/edth.12130
+Strayhorn, T. L. (2014). What role does grit play in the academic success of black male collegians at pre-
+dominantly white institutions. Journal of African American Studies, 18(1), 1–10. https://doi.org/10. 1007/s12111-012-9243-0
+Stroet, K., Opdenakker, M. C., & Minnaert, A. (2013). Effects of need supportive teaching on early adoles-
+cents’ motivation and engagement: A review of the literature. Educational Research Review, 9, 65–87. Tlfarlolu, F. Y., & Ciftci, F. S. (2011). Supporting self-efficacy and learner autonomy in relation to aca-
+demic success in EFLclassrooms (A case study). Theory and Practice in Language Studies, 1(10), 
+1284–1294.
+Usher, E. L., & Morris, D. B. (2012). Academic motivation. In Encyclopedia of the sciences of learning 
+(pp. 36–39). Springer.
+Ushioda, E. (2011). Why autonomy? Insights from motivation theory and research. Innovation in Lan-
+guage Learning and Teaching, 5(2), 221–232.
+Valerio, K. (2012). Intrinsic motivaiton in the classroom. Journal of Student Engagement: Education 
+Matters, 2(1), 30–35.
+Vallerand, R. J., Pelletier, L. G., Blais, M. R., Briere, N. M., Senecal, C., & Vallieres, E. F. (1992). The 
+academic motivation scale: A measure of intrinsic, extrinsic, and amotivation in education. Educa- tional and Psychological Measurement, 52(4), 1003–1017.
+White, R. W. (1959). Motivation reconsidered: The concept of competence. Psychological Review, 66(5), 
+297.
+Willems, J., Coertjens, L., Tambuyzer, B., & Donche, V. (2019). Identifying science students at risk in 
+the first year of higher education: The incremental value of non-cognitive variables in predicting 
+early academic achievement. European Journal of Psychology of Education, 34(4), 847–872.
+Wilson, D. M. (2004). The correlation between racial identity development and learner autonomy of 
+African-American students (Order No. 3141235) [Doctoral dissertation, The George Washington 
+University]. Pro Quest Dissertations & Theses Global.
+Wolters, C. A., & Hussain, M. (2015). Investigating grit and its relations with college students’self-regu-
+lated learning and academic achievement. Metacognition & Learning, 10(3), 293–311. https://doi. org/10.1007/s11409-014-9128-9
+Yasmin, M., & Sohail, A. (2019). Realizing learner autonomy in Pakistan: EFL teachers’ beliefs about 
+their practices. International Journal of English Linguistics, 8(2), 153–162.
+Yurdakul, C. (2017). An investigation of the relationship between autonomous learning and lifelong 
+learning. International Journal of Educational Research Review, 2(1), 15–20.
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+
+3 3
+Authors and Affiliations
+MuhammadJehanghir1· KashifIshaq2· RafaqatAliAkbar1
+*  Kashif Ishaq 
+kashif.ishaq@umt.edu.pk
+Muhammad Jehanghir 
+mjehangir71@yahoo.com
+Rafaqat Ali Akbar 
+rafaqat.ier@pu.edu.pk
+1	 Institute ofEducation andReseach (IER), University ofthePunjab, Lahore, Pakistan
+2	 School ofSystems andTechnology, University ofManagement andTechnology, Lahore, Pakistan

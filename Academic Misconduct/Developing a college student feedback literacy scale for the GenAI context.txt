@@ -1,0 +1,314 @@
+﻿ASSESSMENT & EVALUATION IN HIGHER EDUCATION 
+https://doi.org/10.1080/02602938.2025.2495048 
+
+Developing a college student feedback literacy scale for the GenAI context
+Yu Cui  , Yaru Meng  , Xi Qian  and Lingjie Tang 
+School of Foreign Studies, Xi an Jiaotong University, Xi an, Shaanxi, P. R. China
+
+ABSTRACT
+Student feedback literacy (SFL) refers to understanding, interpreting, and utilizing  feedback  to  improve  their  work  and  learning  strategies.  Even though  the  SFL  Scale  has  received  some  attention,  the  traditional  SFL dimensions face new challenges as GenAI grows in popularity. To address this, the current study develops a new SFL Scale for college students for the GenAI context, GenAI-SFLS in short. The responses of 255 college stu- dents  were  used  for  the  scale  validation  in  exploratory  factor  analysis (EFA)  and  666  for  first-  and  second-order  confirmatory  factor  analysis (CFA).  The  validated  GenAI-SFLS  consists  of  four  dimensions  and  nine specific key factors: cognitive dimension (feedback knowledge and appre - ciation), behavioral dimension (feedback prompting skills, feedback judg - ment,  and  enaction  of  feedback),  affective  dimension  (emotional recognition, readiness to engage, and commitment to change), and eth - ical dimension (feedback ethics). Moreover, a multi-group CFA confirmed the  scale s  construct  validity  and  structural  consistency  across  gender, major, and educational background. Recommendations for improving SFL 
+in the context of GenAI are made for educators and students.
+KEYWORDS
+student feedback literacy; GenAI context; scale development; college students
+
+Introduction
+It is commonly known that feedback is an essential part of higher education and that it greatly aids  in  students   growth  and  learning  (Winstone  et al.  2021).  Traditionally,  feedback  research focused on the teacher s role. Still, recent studies also indicate its significant impact on students when they actively engage themselves with it (Winstone and Carless  2019), which has generated new interest in understanding the skills and knowledge in student feedback a concept known 
+as  student feedback literacy  (Carless and Boud  2018), SFL hereafter. Researchers have explored SFL  from  various  perspectives  (e.g.  Gravett  2022;  Chong 2021)  and  developed  instruments  (e.g. Song  2022; Zhan 2022;  zdemir-Yılmazer and Kabadayı  2024). Although these instruments offer the basis for feedback literacy assessments, it is imperative to modify them for novel situations to guarantee their efficacy and pertinence in various educational environments.
+Generative AI (GenAI) has significantly transformed the traditional feedback picture, making it more  diversified,  interactive,  personalized,  and  tailored  to  individual  needs.  Unlike  traditional feedback, which mainly relies on teacher input, GenAI provides real-time, adaptive feedback that encourages  students  to  actively  and  continuously  engage  with  their  learning  (Escalante,  Pack, and  Barrett  2023).  While  GenAI  enhances  student  engagement,  it  also  presents  challenges, 
+CONTACT Yaru Meng  maryann@mail.xjtu.edu.cn
+ Supplemental data for this article can be accessed online at https://doi.org/10.1080/02602938.2025.2495048.
+This article was originally published with errors, which have now been corrected in the online version. Please see Correction (https://doi.org/10.1080/02602938.2025.2525691)
+' 2025  Informa UK Limited, trading as Taylor & Francis Group
+
+ASSESSMENT & EVALUATION IN HIGHER EDUCATION  9
+including  concerns  over  academic  integrity  and  privacy  (Sullivan,  Kelly,  and  McLaughlan  2023). In response to these issues, the current study aims to develop a Student Feedback Literacy Scale specifically for the GenAI context (GenAI-SFLS in short). It is intended to capture students  com- petencies  and  effectively  utilize  them  in  the  GenAI  context.  The  following  two  questions  are addressed:
+RQ1: What are the dimensions and factors of GenAI-SFLS?
+RQ2: Is GenAI-SFLS a reliable and valid instrument for assessing SFL?
+Conceptualizing student feedback literacy
+The concept of feedback has evolved significantly in education. Initially, feedback was viewed as a skill teachers used to deliver assessment results to students, focusing on addressing their weak - nesses  (Butler  and Winne  1995).  However,  recent  research  on  feedback  literacy  has  shifted  the focus from a teacher-centered to a student-centered perspective, introducing the concept of SFL. SFL  emphasizes  students   active  roles  in  engaging  with  and  utilizing  feedback,  representing  a shift in how feedback processes are understood (Winstone et al.  2021).
+Sutton s  (2012)  framework  was  instrumental  in  this  shift.  Drawing  on  the  academic  literacy framework  (Lea  and  Street  1998),  Sutton  defined  feedback  literacy  as  the  ability  to  read,  inter - pret,  and  use  written  feedback   (p.  31).  This  model  includes  three  dimensions:  epistemological (knowing), ontological (being), and practical (acting). Students are expected to understand feed - back s  summative  and  formative  roles,  develop  self-confidence  in  engaging  with  feedback,  and use it to improve their performance. Carless and Boud (2018) expanded on Sutton s model, iden - tifying four core elements of feedback literacy: appreciating feedback, making judgments, man - aging emotions, and taking action. Feedback-literate students recognize feedback s value, assess their  own  and  others   work,  regulate  emotional  responses  to  feedback,  and  take  actions  to improve  learning  outcomes.  Molloy,  Boud,  and  Henderson  (2020)  further  expanded  this  frame - work by integrating students  perspectives. Their model includes seven interconnected elements: commitment  to  improvement,  active  engagement,  soliciting  information,  processing  feedback, managing  emotions,  recognizing  feedback  as  reciprocal,  and  acting  on  feedback. This  compre - hensive view incorporates cognitive, affective, and behavioral elements essential for students to engage effectively with feedback.
+Recent frameworks have embraced socio-cultural and ecological perspectives, enriching feed - back literacy. Winstone et al. (2021) and Chong (2021) highlighted how context and interpersonal dynamics affect feedback engagement. Chong s three-dimensional model emphasizes the role of engagement, context, and personal factors, while He et al. (2024) explored feedback literacy from an ecological perspective, focusing on the interplay of individual and environmental factors, and the role of learner agency. Gravett (2022) broadened the concept, suggesting that feedback lit - eracy  should  be  part  of  a  larger  educational  system,  considering  social,  spatial,  and  temporal dynamics.
+In a thorough analysis, Nieminen and Carless (2023) divided feedback literacy into two view - points:  socio-cognitive  and  socio-cultural.  The  socio-cultural  perspective  views  students  as embedded  learners  whose  feedback  interactions  are  influenced  by  their  communities  and  con - texts, while the socio-cognitive perspective focuses on individual skills needed to process and act on  feedback.  However,  they  did  not  explore  how  feedback  literacy  functions  in  technological contexts, such as GenAI.
+Student feedback literacy scales
+The  development  of  psychometric  tools  to  assess  SFL   has  garnered  significant  attention  in recent  years.  Some  scholars  have  started  developing  scales  specifically  focused  on  measuring feedback  literacy.  For  example,  Zhan  (2022)  developed  a  six-dimensional  SFLS  in  the  Chinese context, including eliciting, processing, enacting, appreciation of feedback, readiness to engage, and commitment to change. Moreover, Song s (2022) three-dimensional model highlights the key dimensions  of  feedback:  conceptions  of  feedback,  feedback  trust,  and  self-efficacy.  This  model emphasizes learners  predispositions before they engage with feedback, suggesting that their atti - tudes and beliefs about feedback play a crucial role in shaping how they interpret and respond 
+to  it.  Yildiz,  Bozpolat,  and  Hazar  (2022)  further  designed  a  four-dimensional  feedback  literacy scale  tailored  for  Turkish  students.  Their  framework  highlights  key  attitudes  and  dispositions, including an appreciation for feedback, a positive mindset, awareness of effective feedback prac - tices, and a willingness to utilize feedback constructively. While much of the existing research on feedback  literacy  tends  to  focus  on  attitudes,  it  often  overlooks  the  more  active  components, such as seeking, interpreting, and using feedback. These elements are considered crucial to feed - back literacy by scholars like Carless and Boud (2018) and Molloy, Boud, and Henderson (2020). In this context, Woitt et al. (2025) propose a model measuring feedback literacy across two key dimensions:  attitudes  and  practices.  Similarly,  Dawson  et al.  (2024)  introduce  the  Feedback Literacy Behaviour Scale (FLBS), which encompasses five key areas: seeking feedback information (SF), making sense of the information (MS), using feedback information (UF), providing feedback information (PF), and managing affect (MA). These frameworks highlight the importance of hav - ing  a  positive  attitude  toward  feedback  and  actively  engaging  with  feedback  through  practical behaviors.
+In addition to general feedback literacy models, several scales have been developed to address specific  contexts.  For  example,  Liao  (2021)  introduced  the  Student  Assessment-based  Feedback Literacy (SAFL) Scale, which focuses on assessment literacy. Meanwhile, Yu, Zhang, and Liu (2022) designed  the  L2  Student Writing Feedback Literacy Scale (L2-SWFLS), which evaluates feedback literacy  in  second  language  writing.  This  scale  includes  dimensions  such  as  valuing  feedback, recognizing  diverse  feedback  sources,  making  evaluative  judgments,  managing  emotions,  and taking action. Furthermore, Dong, Gao, and Schunn (2023) proposed a model for peer feedback literacy in writing, encompassing feedback-related knowledge and abilities, cooperative learning ability, appreciation of peer feedback, and willingness to participate. While these scales provide valuable insights into feedback literacy within specific contexts, Liao s SAFL is limited to assess - ment literacy. Yu, Zhang, and Liu s L2-SWFLS and Dong, Gao, and Schunn s peer feedback literacy primarily target writing skills.
+To  address  some  of  these  limitations,  zdemir-Yılmazer  and  Kabadayı  (2024)  adapted  Zhan s (2022) six-dimensional feedback literacy scale for the Turkish context, focusing on competencies like seeking, processing, and acting on feedback, along with the commitment to change. While this adaptation offers a more comprehensive approach, it remains grounded in traditional edu - cational  settings,  which  may  reduce  its  applicability  in  modern  learning  environments,  particu - larly those shaped by emerging technologies like GenAI.
+Student feedback literacy in technology-enhanced contexts
+Integrating technology into feedback processes is a key focus in educational research, particularly enhancing  SFL  in  technology-rich  environments. Technology  enables  dialogic,  personalized,  and scalable  feedback  exchanges  (Sembey,  Hoda,  and  Grundy  2024),  with  Pitt  and Winstone  (2020) highlighting its role in supporting cognitive growth through dynamic teacher-student communi - cation. Timely,  contextualized  feedback  provided  by  technology  enhances  feedback  uptake  and engagement, which is critical for developing feedback literacy (Wood  2021).
+In digital environments, SFL expands beyond traditional aspects, involving interpreting digital feedback,  engaging  with  automated  systems,  and  responding  across  digital  platforms (Wongvorachan et al.  2022). AI-driven feedback systems provide real-time, personalized feedback, promoting  student  engagement  and  improving  learning  outcomes  (Rad,  Alipour,  and  Jafarpour 2024).  These  systems  enhance  engagement  through  interactive  practice,  customized  learning plans, and feedback revision. Feedback analytics also support SFL by offering insights that help educators tailor strategies (Tepgec, Heil, and Ifenthaler  2025).
+However,  despite  the  promise  of  these  technologies,  a  unified  framework  for  measuring  SFL in  digital  contexts  is  lacking.  Carless  and  Boud  (2018)  stress  the  importance  of  feedback  dia - logues in developing SFL, noting that students must engage with multiple digital tools and plat - forms. Frameworks for assessing SFL should address students  ability to use digital tools, engage with  automated  systems,  and  collaborate  virtually  (Jin  et al.  2024). Wongvorachan  et al.  (2022) propose  a  model  that  incorporates  feedback  literacy s  contextual,  engagement,  and  individual dimensions, acknowledging its evolving nature.
+The  rise  of  GenAI  tools  has  transformed  feedback  processes.  AI-generated  feedback enables  timely  revisions,  reducing  anxiety  and  fostering  motivation  (Escalante,  Pack,  and Barrett 2023). In large classrooms, GenAI s individualized feedback capabilities are especially helpful  since  they  deliver  responses  that  are  specifically  designed  to  encourage  student autonomy and active interaction. However, GenAI also presents challenges, such as concerns over academic integrity, with students potentially misusing AI-generated content (Jukiewicz 2024). Disparities in access, data privacy issues, and algorithmic biases complicate their use (Sullivan, Kelly, and McLaughlan 2023; Yan et al. 2023). The lack of reliable AI detection tools raises concerns about maintaining academic standards (Lodge, Thompson, and Corrin  2023; Ng et al. 2024).
+Given these developments, traditional feedback literacy is insufficient. Students must develop skills to critically engage with GenAI-generated feedback, evaluate its accuracy, request tailored responses, and recognize biases in AI algorithms (Ng et al.  2024). Thus, reconceptualizing feed - back  literacy  in  the  context  of  GenAI  is  essential  for  students  to  navigate  and  leverage  these tools for educational growth (Carless et al.  2011).
+Methods
+Participants
+Participants in the two-phase study to build GenAI-SFLS were recruited using a convenience sam - ple technique; 255 people from Mainland China participated in the first development phase, and 
+666 people participated in the second validation phase. The majority of participants (69.7%) were older than 20. They were mostly gathered  via social media (e.g. WeChat, QQ, Little Red Book, and Zhihu)  and  university  classes.  In  order  to  guarantee  the  representativeness  of  the  sample,  we took  into  account  a  number  of  demographic  factors,  such  as  age,  gender,  major,  educational background, and previous GenAI experience. Males made up 34.5% of the participants during the development phase. A diverse group that represented the overall student body in higher educa - tion  was  sought  after,  and  every  effort  was  made  to  ensure  that  participants  were  as  evenly represented  as  possible.  Participants  were  required  to  have  prior  experience  using  GenAI  tools, such as Kimi, Ernie Bot, Tongyi Qianwen, Zhipu AI, and ChatGPT.
+Table 1.  Demographic information of the participants.
+Development stage Validation stage
+n % n %
+Gender Male 88 34.50 312 46.85 Female 167 65.50 354 53.15
+Major Social science 159 62.35 429 64.41 Science 96 37.65 237 35.59
+Educational background Undergraduate 139 54.51 402 60.36 Graduate 116 45.49 264 39.64
+As seen in Table 1, the 255 participants in the first phase comprised 88 males (34.50%) and 167 females (65.50%). Regarding major, 62.35% specialized in social science, while 37.65% were from  science.  Regarding  academic  background,  undergraduates  constituted  the  majority  at 54.51%, while graduate students comprised 45.49%. The 666 participants for the validation stage involved 312 males (46.85%) and 354 females (53.15%). Similarly, most were from social science (64.41%) and undergraduates (60.36%).
+Procedures
+Scale development procedures
+The scale development process followed the guidelines outlined by D rnyei and Taguchi (2010) and DeVellis (2016). A crucial initial step, also emphasized by Farhady (1995), involved establish- ing  the  theoretical  framework  for  the  scale. The  foundational  framework  for  enhancing  its  con - tent  validity  is  built  upon  a  theoretical  understanding  of  SFL   and  AI  literacy,  as  outlined  by Sutton (2012) and Ng et al. (2024). As such, the current framework of GenAI-SFLS encompasses four  domains:  cognitive,  behavioral,  affective,  and  ethical.  The  initial  items  of  the  scale  were developed based on these dimensions, drawing from the work of Carless and Boud (2018), Yildiz, Bozpolat,  and  Hazar  (2022),  and  Zhan  (2022),  covering  key  areas  such  as  eliciting,  processing, enacting, appreciating feedback, readiness to engage, and commitment to change. These items were specifically tailored to the context of GenAI. For example, Zhan (2022) noted,  I have real- ized that feedback from other people can make me recognize my learning strengths and weak - nesses , rephrased as  I believe that GenAI-generated feedback can help me recognize my learning strengths  and  weaknesses .  In  addition,  drawing  on  prior  research  on  GenAI  (Chiu  2024;  Law 2024; Moorhouse and Kohnke  2024), we incorporated elements of feedback ethics and feedback prompting  skills,  such  as,  I  can  continuously  refine  my  prompts  to  improve  the  quality  of GenAI-generated  feedback .  Following  the  recommendations  of  three  experts,  including  a  doc - toral  supervisor  and  two  university  English  teachers  with  over  15 years  of  teaching  experience, we  also  expanded  the  framework  to  include  feedback  knowledge  and  emotional  recognition, further refining the scale. Their expertise includes educational technology and methodologies in language teaching. The dimensionality of GenAI-SFLS is shown in Table 2.
+Based  on  the  above,  an  item  pool  of  70  items  was  produced. They  then  underwent  a  com - prehensive team discussion for item review and feedback seeking. The team consisted of 4 doc - toral  students  and  3  graduate  students,  all  of  whom  have  experience  in  the  field  of  language testing. With their combined expertise, this group engaged in multiple iterations of review and feedback,  refining  the  wording  and  ensuring  that  the  items  aligned  well  with  the  established dimensions. In total, 3 iterations were conducted to ensure the quality and clarity of the items. Next, six experts were consulted to diminish further the potential issues affecting its psychomet - ric properties. The experts, who were professors or instructors with expertise in teaching or psy - chometric assessment, suggested minor wording adjustments, such as adding  I believe  to items related  to  the  appreciation  of  feedback. The  revised  questionnaire  was  then  shared  with  seven students  familiar  with  the  questionnaire  design  to  ensure  the  clarity  and  unambiguity  of  the items.  Finally,  we  conducted  a  pilot  test  with  32  students  representing  the  target  population (Creswell 2003). The feedback from the majority of participants supported the proposed modifi - cations,  which  helped  inform  our  final  decisions.  As  a  result,  we  retained  64  items  specifically designed to assess SFL  in the context of GenAI.
+Scale exploration phase
+Prior  to  being  distributed  through  Wenjuanxing  (https://www.wjx.cn/),  the  questionnaire  is divided into nine sections, each of which focuses on a distinct facet of GenAI-SFLS. Participants were given the choice to leave the study at any time if they felt uncomfortable, and they were 
+Table 2.  Dimensionality of GenAI-SFLS.
+Dimension       Underlying factors Definitions
+Cognition       Feedback knowledge (FK) Knowledge of comprehending the GenAI-generated feedback
+ Behavior       Feedback appreciation (FA) Acknowledgement of the importance and impact of GenAI-generated 
+Affection       feedback in the learning process
+Ethics          Feedback prompting skills (FP) Refining and adapting prompts effectively to enhance the quality a nd 
+                relevance of GenAI-generated feedback
+                Feedback judgment (FJ) Capacities of judging GenAI-generated feedback
+                Enaction of feedback (EF) Capacities related to setting goals, creating plans, and monitoring 
+                actions to complete a feedback loop.
+                Emotional recognition (ER) Ability to acknowledge and resonate with the emotional aspects of
+                GenAI-generated feedback
+                Readiness to engage (RE) Managing emotions to respond constructively to negative or critical
+                feedback.
+                Commitment to change (CC) Students  enthusiasm to engage with GenAI-generated feedback for 
+                ongoing improvement by dedicating time and effort.
+                Understanding the potential biases, ethical issues, and implications for fairness in GenAI feedback (FE).
+told that their answers would only be used for research. Participants took roughly eight minutes 
+on average to finish the questionnaire.
+A total of 326 students were initially contacted for the scale exploration phase. However, 56 students  declined  to  participate,  resulting  in  270  responses  that  were  included  in  the  analysis. After removing 15 outliers, 255 responses remained for further study. Factor extraction was deter - mined using the Kaiser criterion (Kaiser  1960), a scree plot (Cattell 1966), and the percentage of variance explained. Principal axis factoring with direct oblimin rotation was applied, with a min - imum  loading  threshold  of  0.50  for  items  (Cohen,  Manion,  and  Morrison  2018).  This  process resulted in a finalized scale comprising 39 items.
+Scale validation procedures
+To validate the factor structure of the newly developed scale, 835 individuals were contacted for 
+the scale validation process.  Out of these, 666 responses were collected and included for analysis. 
+CFA was conducted using AMOS 26.0. To assess model fit, the absolute and incremental fit indi -
+ces  were  calculated,  including  the  Chi-Square  test  (χ2),  degrees  of  freedom  (df),  Root  Mean Square Error of Approximation (RMSEA), Comparative Fit Index (CFI), Tucker-Lewis Index (TLI), and Standardized Root Mean Square Residual (SRMR). Generally, a χ2/df value below three indicates a good  model  fit.  Additionally,  RMSEA  and  SRMR  values  closer  to  zero  further  support  the  ade- quacy of the model, as lower values signify better fit. Meanwhile, higher values for CFI and TLI, ideally approaching one, suggest a more optimal fit, reflecting the model s strong alignment with 
+the data (Hair et al.  2009; Kline 2023).
+Several  steps  were  adopted  to  ensure  both  reliability  and  validity.  For  internal  consistency, 
+Cronbach s α was calculated twice, one after the exploratory factor analysis (EFA) and the other      following the CFA (Mackey and Gass 2016). The EFA and CFA supported the construct validity. In addition,  a  multi-group  CFA  was  performed  to  verify  the  consistency  of  the  nine-dimensional       structure  across  various  groups  as  outlined  by  Schumacker  and  Lomax  (2010),  such  as  gender,       major, and educational background to test for equivalence. The multi-group CFA started with a 
+baseline  model  with  no  constraints  and  then  incrementally  added  constraints  in  subsequent 
+models: measurement weights in the second model, measurement weights and intercepts in the 
+third, and finally, weights, intercepts, and structural covariances in the fourth model. Each analy -
+sis was performed independently for the respective participant groups.
+Furthermore,  the  second-order  model  and  third-order  CFA  were  used  to  evaluate  the  struc - tural validity. The Heterotrait-Monotrait ratio of correlations (HTMT) was used to evaluate for dis - criminant validity between latent variables. The average variance extracted (AVE) was computed 
+in  order  to  assess  convergent  validity  (Henseler,  Ringle,  and  Sarstedt  2015).  The  Akaike 
+information  criterion  and  the  chi-square  difference  test  were  used  to  compare  the  second  and third-order models. CFA was performed using the R package to assess the overall model fit.
+Results
+Exploratory factor analysis
+Before performing EFA, we examined the skewness and kurtosis of each item. All items fell within the acceptable range of –2, indicating a distribution close to normal, supporting EFA s appropri - ateness (Bryman and Cramer  2001). Moreover, the item-total correlations for all items were above the recommended threshold of  r > 0.40 (p < 0.01) (Wu 2010). The KMO measure of sampling ade - quacy was 0.919, with a X2 value of 5405.053, 1326 df, and a significance level of p = 0.000, con- firming that the data was suitable for factor analysis.
+Principal component analysis was chosen for factor extraction, applying promax rotation with Kaiser normalization to accommodate correlated factors and retaining only those with eigenval - ues  exceeding  1. The  EFA  was  iteratively  re-run,  removing  items  with  loadings  more  significant than  |0.5|  on  multiple  factors  or  lacked  loadings  exceeding  |0.5|  (Cohen,  Manion,  and  Morrison 2011). This process resulted in a nine-factor solution based on 39 items, which explained 61.177% of the total variance (Appendix I). The identified factors were labeled as follows: feedback appre - ciation (FA), feedback knowledge (FK), feedback ethics (FE), feedback prompting skills (FP), feed- back  judgment  (FJ),  emotional  recognition  (ER),  enaction  of  feedback  (EF),  readiness  to  engage (RE),  and  commitment  to  change  (CC)  (Appendix  II).  The  reliability  coefficients  for  the  overall scale and the nine dimensions of the GenAI-SFLS were robust, with values of 0.931 for the overall scale ranging from 0.716 to 0.802 for the individual dimensions.
+Confirmatory factor analysis and multi-group confirmatory factor analyses
+Table  3  displays  the  reliability  coefficients  and  intercorrelations  for  the  nine  SFL   scale  dimen - sions. The Cronbach s α values, ranging from 0.80 to 0.90, demonstrate high internal consistency. Additionally,  it  is  shown  that  there  are  high  correlations  among  these  dimensions.  Researchers conducted a CFA using a sample of 666 students to validate the scale s factor structure further. 
+The model fit indices demonstrated strong results: χ2 = 957.078, df =666, χ2/df = 1.437, p < 0.001, RMSEA =0.026, CFI =0.978, TLI =0.975, and SRMR =0.0303, confirming that the nine dimensions are  well-supported  (Figure  1)  (Kline 2023).  Moreover,  the  Cronbach s  α  coefficients  for  the  nine dimensions (FA, FK, FE, FP, FJ, ER, EF, RE, and CC) ranged from 0.831 to 0.889, with an overall α of 0.948, underscoring the scale s reliability.
+Based  on  the  outcomes  from  the  graded  response  model,  a  correlated  factor  model  was developed through CFA to assess the structural validity of the proposed framework. Due to the two-tiered  structure,  a  second-order  CFA  is  required  to  evaluate  the  overarching  second-order 
+factor. To establish the concept of GenAI-SFLS, we begin by validating the first-order factors, then assessing the second-order factor within the measurement model. To determine the validity, we calculated the standardized factor loadings of each item, along with the composite reliability (CR) 
+and average variance extracted (AVE) for each variable to evaluate convergent validity. The CFA factor loadings for all items ranged from 0.743 to 0.804, indicating strong convergent validity at 
+the item level. All CR values exceeded the 0.7 threshold, and the AVE values surpassed the 0.5 cutoff (Kline 2023), confirming convergent validity ( Table 4). For discriminant validity, we followed 
+the  guidelines  of  Henseler,  Ringle,  and  Sarstedt  (2015). We  calculated  the  Heterotrait-Monotrait 
+Ratio  of  Correlations  (HTMT)  for  all  factors,  with  all  values  falling  below  0.85,  suggesting  the establishment of discriminant validity.
+Multi-group CFAs were performed for male and female students and students from different disciplines  and  educational  backgrounds  (Appendix  III).  The  baseline  model  (M1)  indicated  a 
+Table 3.  Reliability and correlations among the nine dimensions of GenAI-SFLS.
+         Cronbach s α        1           2            3            4            5            6            7            8            9
+1. FA    .844 .831 .889      .649**      .642**       .629**       .649**       .696**       .713**       .634** .667**.677**
+2. FK     .866 .837 .874      .623**      .617**       .642**       .682**       .691**       .671**
+3. FE     .841 .851           .606**      .643**       .691**       .659**       .590**       .668**
+4. FP     .869                .634**      .680**       .681**       .639**       .642**
+5. FJ                         .639**      .670**       .638**       .592**
+6. ER                         .627**      .607**       .630**
+7. EF                         .644**      .664**
+8. RE                        .649**
+9. CC
+Note:
+**p< .01.
+FA = feedback appreciation; FK = feedback knowledge; FE = feedback ethics; FP = feedback prompting skills; FJ = feedback judg-
+ment; ER = emotional recognition, EF = enaction of feedback; RE = readiness to engage; CC = commitment to change.
+
+Figure 1.  Confirmatory factor analysis of GenAI-SFLS.
+good fit with RMSEA below 0.08, SRMR below 0.050, and CFI above .90. Metric invariance, which requires equal factor loadings across groups, was then tested by constraining factor coefficients 
+in  each  subgroup. The  chi-square  difference  test  (Δχ2)  and  changes  in  fit  indices  (ΔCFI  <  0.01, ΔRMSEA  <  0.015,  and  ΔSRMR  <  0.03)  confirmed  metric  invariance  (Byrne 2016;  Kline 2023). 
+Table 4.  Convergent validity and discriminant validity of first-order factors.
+Heterotrait-Monotrait Ratio of Correlations (HTMT) (<.85)
+AVE (>.5) CR (>.7) 1 2 3 4 5 6 7 8 9
+
+ASSESSMENT & EVALUATION IN HIGHER EDUCATION  
+1. FA .576
+2. FK .553
+3. FE .571
+4. FP .617
+5. FJ .562
+6. ER .582
+7. EF .570
+8. RE .589
+9. CC .571
+.845
+.831 .604
+.869 .488 .562
+.866 .508 .587 .568
+.837 .518 .594 .560 .579
+.874 .551 .652 .580 .664 .598
+.841 .538 .671 .631 .641 .689 .644
+.852 .579 .555 .529 .644 .513 .370 .333
+.870 .499 .573 .510 .519 .545 .332 .377 .377
+
+ASSESSMENT & EVALUATION IN HIGHER EDUCATION  13
+Following  this,  scalar  invariance  was  tested  by  setting  equal  intercepts  across  groups,  requiring 
+ΔCFI < 0.01, ΔRMSEA < 0.015, and ΔSRMR < .10. The results indicate that the GenAI-SFLS struc- ture  is  consistent  across  gender,  major  and  educational  background,  supporting  its generalizability.
+After carefully analyzing the individual factor structures within the model, we considered the possibility  of  a  higher-order  factor,  SFL   in  GenAI  contexts,  which  integrates  cognitive,  behav - ioral, affective, and ethical dimensions. Four separate CFA models analyzed the individual struc - ture  of  the  model.  All  CR  values  exceeded  the  0.7  threshold,  and  the  AVE  values  were  above 
+the 0.5 minimum (Kline 2023), confirming convergent validity (see  Table 5). To assess discrimi- nant  validity,  we  adhered  to  the  guidelines  set  by  Henseler,  Ringle,  and  Sarstedt  (2015)  and calculated the HTMT for each factor. All HTMT values were below 0.85, indicating that discrim- inant validity was established.
+Both the second-order model (χ 2 = 983.189, df = 688, p < 0.01; RMSEA = 0.025; CFI =0.977; TLI =0.976;  and  SRMR  =0.032)  and  the  third-order  model  (χ2 = 985.481,  df  =  690, p < 0.01;  RMSEA =0.025;  CFI  =0.977;  TLI  =0.976;  and  SRMR  =  0.032)  exhibited  good  model  fit  (Figure  2).  The chi-square difference test and Akaike Information Criterion (AIC) comparison revealed no signifi - cant difference between the two models (Δχ2 = 2.29, p = 0.318; ΔAIC = 1.71).
+Despite  the  lack  of  a  statistically  significant  difference  between  the  second-  and  third-order models, the third-order model is still considered appropriate for this study due to its theoretical 
+and  practical  implications. The  third-order  model  was  explicitly  proposed  to  better  capture  the higher-order construct of SFL in GenAI contexts, integrating affective, behavioral, cognitive, and ethical dimensions. While both models show good fit indices, the third-order model provides a 
+more  nuanced  and  theoretically-driven  framework  that  reflects  the  complex,  multidimensional relationships among the factors. This model was introduced based on the premise that the rela - tionships between these dimensions are hierarchically structured, which is better represented by 
+a third-order factor.
+Discussion
+This study developed and validated a tool to evaluate GenAI-mediated feedback literacy among Chinese college students based on a thorough model that takes into account cognitive, behav - ioral,  affective,  and  ethical  factors.  The  third-order  model s  increased  complexity  provides  a deeper interpretation of the data, offering greater flexibility in explaining the higher-order fac - tors  that  influence  lower-order  components.  It  is  particularly  relevant  for  understanding  the complexities  of  SFL   in  the  context  of  emerging  GenAI  technologies.  After  conducting  exten - sive EFA and CFA, the study identified a GenAI-SFLS consisting of 39 items. The study s theo- retical  framework  is  based  on  the  feedback  literacy  models  that  Carless  and  Boud  (2018) developed, highlighting essential elements such as valuing feedback, making evaluative judg - ments, regulating affective responses, and taking proactive steps. Building on this foundation, 
+Table 5.  Convergent validity and discriminant validity of three separate CFA models.
+HTMT (<.85)
+AVE (>.5) CR (>.7) 1 2 3 4 5 6 7 8
+Cognitive dimension
+1. FA .600 .875
+2. FK .615 .864 .814
+Behavioral dimension
+3. FP .615 .865
+4. FJ .639 .876 .497
+5. EF .608 .861 .485 .518
+Affective dimension
+6. ER .605 .885
+7. RE .611 .887 .589
+8. CC .621 .867 .552 .629
+
+Figure 2.  The results of the correlated factor model (left) and third-order model (right).
+the  study  also  incorporates  the  conceptual  framework  developed  by  Carless  and  Winstone (2023), which introduces a tripartite structure of feedback literacy comprising  principles ,  dis - positions , and  beliefs  and integrates it with core components outlined by Lee (2021).
+Moreover, the study highlights how students actively participate in the feedback process and 
+stresses  the  value  of  abilities  like  feedback  prompting  and  enacting  different  feedback  dimen - sions. These components support students in actively seeking, analyzing, and using feedback in 
+a meaningful way, which is consistent with the viewpoints of Carless (2022) and Rodway (2017), who  emphasize  the  importance  of  student  participation  in  feedback  processes.  Additionally,  by highlighting  the  significance  of  students  acting  on  feedback,  the  enaction  of  feedback   dimen - sion  frames  feedback  literacy  as  a  dynamic  and  continuous  process  of  self-improvement.  This approach  resonates  with  Chong s  (2022)  conceptual  model  of  feedback  ecology,  which  views feedback  literacy  as  influenced  by  contextual  factors  and  individual  variables,  emphasizing  its complexity,  dynamism,  and  nonlinearity.  This  shift  from  a  psychological  to  a  behavioral  focus promotes active and constructive engagement with feedback.
+Compared to the feedback literacy scales developed by Yildiz, Bozpolat, and Hazar (2022) and Zhan (2022), which focus on traditional dimensions such as  appreciation ,  attitude ,  readiness to engage , and  commitment to change , our scale expands by emphasizing emotional recognition. This  addition  acknowledges  the  role  emotions  play  in  the  feedback  process,  where  individuals must  evaluate  feedback intellectually and manage their emotional responses to it, especially in challenging feedback situations. A key distinction in our study is categorizing feedback appreci - ation  within  the  cognitive  dimension,  unlike  Zhan  (2022),  who  places  it  under  disposition.  We view  feedback  appreciation  as  an  intellectual  process  involving  recognizing  feedback s  value  in specific  contexts.  This  aligns  with  a  cognitive,  behavioral,  affective,  and  ethical  model.  Placing feedback  appreciation  in  the  cognitive  dimension  emphasizes  the  intellectual  evaluation  and judgment  required  rather  than  a  passive,  dispositional  response.  This  approach  fosters  deeper cognitive engagement, promoting more meaningful learning and development through feedback.
+Further,  incorporating  the  conceptual  framework  from  Chiu  (2024),  and  the  comprehensive 
+review by Law (2024), alongside ethics in the GenAI contexts of Moorhouse and Kohnke (2024), our study highlights the need for feedback ethics as a distinct dimension. This dimension goes 
+beyond  simply  recalling  knowledge  and  emphasizing  the  ability  to  apply,  evaluate,  and  create 
+feedback  generated  by  GenAI.  Ethical  considerations  include  maintaining  academic  integrity,       addressing privacy concerns, and ensuring equitable access to AI tools. These principles are cru - cial  for  developing  a  set  of  assessment  items  that  evaluate  how  students  cultivate  proper  and 
+ethical  practices  when  engaging  with  GenAI-generated  feedback  (Ng  et al.  2024).  The  results indicate that the model and its specific dimensions represent distinct yet interconnected aspects 
+of feedback literacy. These findings highlight the complex and multi-faceted nature of engaging with  feedback  in  GenAI-generated  environments  and  underscore  the  importance  of  a  holistic approach to feedback literacy in the age of emerging technologies.
+This  study  makes  a  substantial  contribution  by  addressing  the  particular  opportunities  and challenges  presented  by  GenAI-based  feedback  systems  while  also  taking  digital  factors  into account. By drawing on research from Liao (2021), Song (2022), Yu,  Zhang, and Liu (2022), Zhan (2022)  and  Wongvorachan  et al.  (2022)  as  well  as  zdemir-Yılmazer  and  Kabadayı  (2024),  the study  extends  traditional  SFL  or  SFL   in  e-assessments  models,  emphasizing  the  competencies required  for  engaging  with  GenAI-generated  feedback.  It  also  introduces  dimensions  such  as feedback prompting skills, which equip students to elicit high-quality, context-relevant responses from GenAI tools, and feedback ethics, which underscore the responsible use of GenAI feedback. To ensure the validity and rigor of the GenAI-SFLS, the study also used a multi-group CFA, con- firming the scale s robustness and reliability across diverse contexts and populations. These results further validate the GenAI-SFLS as a reliable tool for assessing feedback literacy in GenAI-mediated educational settings, offering valuable insights for future research and applications in AI-supported learning environments.
+Conclusions, limitations, and implications
+The model proposed in this study refines and extends existing feedback literacy frameworks by adapting them to the emerging field of GenAI-driven feedback systems. By drawing on the cur - rent framework (Carless and Boud  2018; Molloy, Boud, and Henderson 2020; Yildiz, Bozpolat, and Hazar  2022;  Zhan  2022;  Ng  et al. 2024),  the  study  develops  a  more  nuanced  framework  for understanding  feedback  in  GenAI-assisted  learning  environments. This  framework  includes  four dimensions and nine factors, namely cognition (feedback appreciation and feedback knowledge), behavior  (feedback  prompting  skills,  feedback  judgment,  and  enaction  of  feedback),  affection (emotional recognition, readiness to engage, and commitment to change), and ethics (feedback ethics), highlighting critical competencies specific to GenAI. This contribution deepens our under - standing  of  feedback  literacy  in  GenAI  contexts.  It  lays  the  groundwork  for  future  research  on how  students  can  effectively  engage  with  and  benefit  from  GenAI-based  feedback  systems  in educational settings.
+However,  several  limitations  need  to  be  addressed.  First,  the  model  may  encounter  chal - lenges in real-world applicability across diverse educational environments, especially in different cultural  and  national  contexts.  Future  research  should  seek  to  include  broader,  more  varied educational contexts to assess the generalizability of the results. Additionally, the model s focus on  higher  education  raises  questions  about  its  relevance  to  secondary  or  primary  education, and  it  does  not  fully  consider  discipline-specific  challenges,  such  as  those  in  STEM  versus humanities. Future research should evaluate the model s applicability across diverse educational settings  and  subjects  (e.g.  listening,  speaking,  translation)  to  enhance  its  generalizability. Furthermore,  it  primarily  draws  from  literature  and  expert  views,  potentially  overlooking  the perspectives of students and teachers. Future research could address this by gathering qualita - tive  data  from  varied  educational  contexts  to  explore  the  nuances  of  GenAI-driven  feedback. Additionally, the model s reliance on theoretical constructs limits its ability to capture real-world interactions; longitudinal studies and observational data could better assess adoption and inte - gration over time.
+This  study  highlights  the  importance  of  feedback  literacy  in  GenAI  contexts,  emphasizing both cognitive and social-affective dimensions. Educators should address these aspects to help students use feedback effectively in GenAI-assisted environments. Teachers must focus not only on  enhancing  students   cognitive  understanding such  as  the  ability  to  appreciate  and  apply feedback but also on fostering emotional readiness and engagement. By addressing both cog - nitive and emotional factors, educators can better support students in critically evaluating and applying  feedback.  This  framework  also  serves  as  a  self-assessment  tool  for  students,  helping them  identify  areas  for  improvement  and  enhance  their  feedback  literacy.  Moreover,  feedback literacy is vital for fostering self-regulated, independent learners. The findings offer a foundation for  investigating  individual  variables  that  affect  feedback  literacy  in  GenAI  contexts  and  guide students  feedback-seeking behavior, making it integral to their learning journey.
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+Funding
+This work was supported by Foreign Language Teaching Evaluation System Construction    SK2024085    (2024-2025); Shaanxi Province Social Fund (SJS2023ZD028).
+Notes on contributors
+Yu Cui  is  a  PhD  student  at  Xi an  Jiaotong  University.  Her  research  interests  are  educational  technology,  language testing and language teacher education.
+Yaru  Meng  is  a  professor  at  Xi an  Jiaotong  University.  Her  research  interests  are  dynamic  assessment,  cognitive diagnosis, educational technology and language teacher education.
+Xi Qian is a professor at Xi an Jiaotong University. Her research interests are dynamic assessment and educational technology.
+Lingjie Tang is a PhD student at Xi an Jiaotong University. His research interests are language learning, and inter - cultural communication.
+ORCID
+Yu Cui  http://orcid.org/0009-0002-9605-5243
+Yaru Meng  http://orcid.org/0000-0003-4154-3776
+Xi Qian  http://orcid.org/0009-0007-7685-0852
+Lingjie Tang  http://orcid.org/0000-0002-8176-0604
+References
+Bryman,  A.,  and  D.  Cramer. 2001. Quantitative  Data  Analysis  with  SPSS  Release  8  for  Windows:  For  Social  Scientists. 
+New York, NY: Routledge.
+Butler,  D.  L.,  and  P.  H.  Winne. 1995.  Feedback  and  Self-Regulated  Learning:  A  Theoretical  Synthesis.   Review  of 
+Educational Research 65 (3): 245—281. doi:10.2307/1170684.
+Byrne,  B.  M. 2016.  Structural  Equation  Modeling  with  AMOS:  Basic  Concepts,  Applications,  and  Programming  (3rd 
+ed).New York: Routledge.
+Carless,  D. 2022.  From Teacher Transmission  of  Information  to  Student  Feedback  Literacy:  Activating  the  Learner 
+Role in Feedback Processes.   Active Learning in Higher Education 23 (2): 143—153. doi:10.1177/1469787420945845 . Carless,  D.,  and  D.  Boud. 2018.  The  Development  of  Student  Feedback  Literacy:  Enabling  Uptake  of  Feedback.  
+Assessment & Evaluation in Higher Education 43 (8): 1315—1325. doi:10.1080/02602938.2018.1463354 .
+Carless,  D.,  D.  Salter,  M.  Yang,  and  J.  Lam. 2011.  Developing  Sustainable  Feedback  Practices.   Studies  in  Higher 
+Education 36 (4): 395—407. doi:10.1080/03075071003642449 .
+Carless,  D.,  and  N. Winstone. 2023.  Teacher  Feedback  Literacy  and  Its  Interplay  with  Student  Feedback  Literacy.  
+Teaching in Higher Education 28 (1): 150—163. doi:10.1080/13562517.2020.1782372 .
+Cattell,  R.  B. 1966.  The  Scree  Test  for  the  Number  of  Factors.   Multivariate  Behavioral  Research  1  (2):  245—276. 
+doi:10.1207/s15327906mbr0102_10.
+Chiu,  T.  K. 2024.  Future  Research  Recommendations  for  Transforming  Higher  Education  with  Generative  AI.  
+Computers and Education: Artificial Intelligence 6: 100197. doi:10.1016/j.caeai.2023.100197.
+Chong, S. W. 2021.  Reconsidering Student Feedback Literacy from an Ecological Perspective.   Assessment & Evaluation 
+in Higher Education 46 (1): 92—104. doi:10.1080/02602938.2020.1730765 .
+Chong,  S.  W. 2022.  The  Role  of  Feedback  Literacy  in  Written  Corrective  Feedback  Research:  From  Feedback 
+Information to Feedback Ecology.   Cogent Education 9 (1): 2082120. doi:10.1080/2331186X.2022.2082120.
+Cohen,  L.,  L.  Manion,  and  K.  Morrison. 2011.  Multidimensional  Measurement  and  Factor  Analysis.   In  Research 
+Methods in Education, edited by J. Check and R. K. Schutt, 672—696. New York: Routledge.
+Cohen, L., L. Manion, and K. Morrison. 2018. Research Methods in Education. 8th ed. London; New York: Routledge. Creswell, J. W. 2003. Research Design: Qualitative, Quantitative, and Mixed Methods Approaches. Thousand  Oaks, CA: 
+Sage Publications. doi:10.1080/00461520.2023.2208670.
+Dawson, P., Z. Yan, A. Lipnevich, J. Tai, D. Boud, and P. Mahoney. 2024.  Measuring What Learners Do in Feedback: 
+The Feedback Literacy Behaviour Scale.  Assessment & Evaluation in Higher Education 49 (3): 348—362. doi:10.1080 /02602938.2023.2240983.
+DeVellis, R. F. 2016. Scale Development: Theory and Applications. Newbury Park, CA: Sage Publications.
+Dong, Z., Y. Gao, and C. D. Schunn. 2023.  Assessing Students  Peer Feedback Literacy in Writing: Scale Development and  Validation.   Assessment & Evaluation in Higher Education 48 (8): 1103—1118. doi:10.1080/02602938.2023.2175781 .
+D rnyei,  Z.,  and  T.  Taguchi.  2010.  Questionnaires  in  Second  Language  Research:  Construction,  Administration,  and 
+Processing. New York: Routledge.
+Escalante,  J.,  A.  Pack,  and  A.  Barrett. 2023.  AI-Generated  Feedback  on  Writing:  Insights  into  Efficacy  and  ENL  Student 
+Preference.   International Journal of Educational Technology in Higher Education 20 (1): 57. doi:10.1186/s41239-023-00425-2. Farhady, H. 1995. Research Methods in Applied Linguistics. Tehran: Payame-Noor University Press.
+Gravett, K. 2022.  Feedback Literacies as Sociomaterial Practice.   Critical Studies in Education 63 (2): 261—274. doi:10.
+1080/17508487.2020.1747099.
+Hair, J. F., W. C. Black, B. J. Babin, and R. E. Anderson. 2009. Multivariate Data Analysis. 7th ed. Pearson: Prentice Hall. He,  J.,  H.  Wang,  J.  Xia,  and  X.  He. 2024.  An  Ecological  Perspective  on  Learner  Agency:  The  Case  of  Chinese 
+Tertiary-Level EFL Students in Peer Reviews.  System 121: 103222. doi:10.1016/j.system.2024.103222 .
+Henseler,  J.,  C.  M.  Ringle,  and  M.  Sarstedt. 2015.  A  New  Criterion  for  Assessing  Discriminant Validity  in Variance-Based Structural Equation Modeling.   Journal of the Academy of Marketing Science 43 (1): 115—135. doi:10.1007/s11747-014-0403-8. Jin, F., B. Maheshi, R. Martinez-Maldonado, D. Gašević, and Y. S. Tsai. 2024.  Scaffolding Feedback Literacy: Designing 
+a Feedback Analytics Tool with Students.   Journal of Learning Analytics 11 (2): 123—137. doi:10.18608/jla.2024.8339. Jukiewicz, M. 2024.  The Future of Grading Programming Assignments in Education: The Role of ChatGPT in Automating 
+the Assessment and Feedback Process.   Thinking Skills and Creativity 52: 101522. doi:10.1016/j.tsc.2024.101522.
+Kaiser,  H.  F. 1960.  The  Application  of  Electronic  Computers  to  Factor  Analysis.   Educational  and  Psychological 
+Measurement 20 (1): 141—151. doi:10.1177/001316446002000116 .
+Kline, R. B. 2023. Principles and Practice of Structural Equation Modeling. New York: Guilford Publications.
+Law, L. 2024.  Application of Generative Artificial Intelligence (GenAI) in Language Teaching and Learning: A Scoping 
+Literature Review.  Computers and Education Open 6: 100174. doi:10.1016/j.caeo.2024.100174 .
+Lea, M. R., and B. V. Street. 1998.  Student Writing in Higher Education: An Academic Literacies Approach.   Studies 
+in Higher Education 23 (2): 157—172. doi:10.1080/03075079812331380364 .
+Lee,  I. 2021.  The  Development  of  Feedback  Literacy  for  Writing  Teachers.   TESOL  Quarterly  55  (3):  1048—1059. 
+doi:10.1002/tesq.3012.
+Liao,  Y. 2021.  "Developing  and  Validating  the  Student  Assessment-Based  Feedback  Literacy  (SAFL)  Instrument:  A 
+Mixed-Methods Approach." PhD diss., University of Texas at El Paso.
+Lodge, J. M., K. Thompson, and L. Corrin. 2023.  Mapping out a Research Agenda for Generative Artificial Intelligence 
+in Tertiary Education.   Australasian Journal of Educational Technology 39 (1): 1—8. doi:10.14742/ajet.8695 .
+Mackey, A., and S. M. Gass. 2016. Second Language Research: Methodology and Design. 2nd ed. Mahwah, NJ: Lawrence 
+Erlbaum Associates.
+Molloy,  E.,  D.  Boud,  and  M.  Henderson. 2020.  Developing  a  Learning-Centred  Framework  for  Feedback  Literacy.  
+Assessment & Evaluation in Higher Education 45 (4): 527—540. doi:10.1080/02602938.2019.1667955 .
+Moorhouse,  B.  L.,  and  L.  Kohnke. 2024.  The  Effects  of  Generative  AI  on  Initial  Language Teacher  Education: The 
+Perceptions of Teacher Educators.   System 122: 103290. doi:10.1016/j.system.2024.103290.
+Ng,  D. T.  K., W. Wu,  J.  K.  L.  Leung, T.  K.  F.  Chiu,  and  S.  K. W.  Chu. 2024.  Design  and  Validation  of  the  AI  Literacy 
+Questionnaire: The Affective, Behavioural, Cognitive, and Ethical Approach.   British Journal of Educational Technology 55 (3): 1082—1104. doi:10.1111/bjet.13411 .
+Nieminen, J. H., and D. Carless. 2023.  Feedback Literacy: A Critical Review of an Emerging Concept.  Higher Education 
+85 (6): 1381—1400. doi:10.1007/s10734-022-00895-9 .
+ zdemir-Yılmazer, M., and B. Kabadayı. 2024.  Adaptation of Student Feedback Literacy Scale into Turkish Culture: A 
+Study of Reliability and Validity.  System 122: 103294. doi:10.1016/j.system.2024.103294 .
+Pitt,  E.,  and  N.  Winstone. 2020.  Towards  Technology-Enhanced  Dialogic  Feedback.   In  Re-Imagining  University 
+Assessment in a Digital World: The Enabling Power of Assessment,  edited  by  M.  Bearman,  P.  Dawson,  R.  Ajjawi,  J. Tai, and D. Boud, Vol. 7, 79—94. Cham: Springer. doi:10.1007/978-3-030-41956-1_7.
+Rad,  H.  S.,  R.  Alipour,  and  A.  Jafarpour. 2024.  Using  Artificial  Intelligence  to  Foster  Students   Writing  Feedback 
+Literacy,  Engagement, and  Outcome: A Case of Wordtune Application.   Interactive Learning Environments 32 (9): 5020—5040. doi:10.1080/10494820.2023.2208170 .
+Rodway, C. L. 2017.  Encouraging Active Participation in Dialogic Feedback through Assessment as Learning.  Journal 
+of Response to Writing 3 (2): 5. https://scholarsarchive.byu.edu/journalrw .
+Schumacker, R. E., and R. G. Lomax. 2010. A Beginner s Guide to Structural Equation Modeling. 3rd ed. New York, NY: 
+Routledge.
+Sembey, R., R. Hoda, and J. Grundy. 2024.  Emerging Technologies in Higher Education Assessment and Feedback 
+Practices: A Systematic Literature Review.  Journal of Systems and Software 211: 111988. doi:10.2139/ssrn.4328075 . Song, B. K. 2022.  Bifactor Modelling of the Psychological Constructs of Learner Feedback Literacy: Conceptions of 
+Feedback, Feedback Trust and Self-Efficacy.  Assessment & Evaluation in Higher Education 47 (8): 1444—1457. doi:1
+0.1080/02602938.2022.2042187.
+Sullivan, M., A. Kelly, and P. McLaughlan. 2023.  ChatGPT in Higher Education: Considerations for Academic Integrity 
+and Student Learning.   Journal of Applied Learning & Teaching 6 (1): 1—10. doi:10.37074/jalt.2023.6.1.17.
+Sullivan,  M.,  M.  McAuley,  D.  Degiorgio,  and  P.  McLaughlan.  2024.  Improving  Students   Generative  AI  Literacy:  A 
+Single Workshop Can Improve Confidence and Understanding.   Journal of Applied Learning and Teaching 7 (2):88— 97. doi:10.37074/jalt.2024.7.2.7.
+Sutton,  P.  2012.  Conceptualizing  Feedback  Literacy:  Knowing,  Being,  and  Acting.   Innovations  in  Education  and 
+Teaching International 49 (1): 31—40. doi:10.1080/14703297.2012.647781 .
+Tepgec, M., J. Heil, and D. Ifenthaler. 2025.  Feedback Literacy Matters: Unlocking the Potential of Learning Analytics-Based 
+Feedback.   Assessment & Evaluation in Higher Education 50 (1): 50—66. doi:10.1080/02602938.2024.2367587 .
+Winstone,  N.,  D.  Boud,  P.  Dawson,  and  M.  Heron. 2021.  From  Feedback-as-Information  to  Feedback-as-Process:  A 
+Linguistic Analysis of the Feedback Literature.   Assessment & Evaluation in Higher Education 47(2): 213—230. doi:1 0.1080/02602938.2021.1902467.
+Winstone, N. E., and D. Carless. 2019. Designing Effective Feedback Processes in Higher Education: A Learning-Focused 
+Approach. London: Routledge.
+Woitt,  S.,  J.  Weidlich,  I.  Jivet,  D. Orhan  G ks n,  H.  Drachsler,  and  M.  Kalz.  2025.  Students   Feedback  Literacy  in 
+Higher Education: An Initial Scale Validation Study.   Teaching in Higher Education 30 (1): 257—276. doi:10.1080/13 562517.2023.2263838.
+Wongvorachan, T., K. W. Lai, O. Bulut, Y.-S. Tsai, and G. Chen. 2022.  Artificial Intelligence: Transforming the Future of 
+Feedback in Education.   Journal of Applied Testing Technology 23(1): 95—116. https://jattjournal.net/index.php/atp/ article/view/170387
+Wood, J. 2021.  A Dialogic Technology-Mediated Model of Feedback Uptake and Literacy.   Assessment & Evaluation 
+in Higher Education 46 (8): 1173—1190. doi:10.1080/02602938.2020.1852174 .
+Wu, M. 2010. Statistical Analysis of Questionnaire: Manipulation of SPSS. Chongqing: Chongqing University Press.
+Yan, Y., B. Li, J. Feng, Y. Du, Z. Lu, M. Huang, and Y. Li. 2023.  Research on the Impact of Trends Related to ChatGPT.  
+Procedia Computer Science 221: 1284—1291. doi:10.1016/j.procs.2023.08.117.
+Yildiz, H., E. Bozpolat, and E. Hazar. 2022.  Feedback Literacy Scale: A Study of Validation and Reliability.   International 
+Journal of Eurasian Education and Culture 7 (19): 2214—2249. doi:10.35826/ijoecc.624.
+Yu,  S.,  E.  Di  Zhang,  and  C.  Liu. 2022.  Assessing  L2  Student Writing  Feedback  Literacy:  A  Scale  Development  and 
+Validation Study.   Assessing Writing 53: 100643. doi:10.1016/j.asw.2022.100643.
+Zhan,  Y. 2022.  Developing  and  Validating  a  Student  Feedback  Literacy  Scale.   Assessment  &  Evaluation  in  Higher 
+Education 47 (7): 1087—1100. doi:10.1080/02602938.2021.2001430 .

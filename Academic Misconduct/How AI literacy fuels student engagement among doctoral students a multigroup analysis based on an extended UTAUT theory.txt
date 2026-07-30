@@ -1,0 +1,597 @@
+﻿Education and Information Technologies
+https://doi.org/10.1007/s10639-026-14064-3
+How AI literacy fuels student engagement among doctoral students: a multigroup analysis based on an extended UTAUT theory
+XuqiChen1,2· SanfaCai1,3· HaoYao4
+Received: 29 April 2025 / Accepted: 9 June 2026
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2026
+Abstract
+As generative AI (GenAI) becomes increasingly embedded in higher education, understanding how students engage with this technology is critical. Using an Ex- tended Unified Theory of Acceptance and Use of Technology (UTAUT) framework, this study explores the role of AI literacy in shaping student engagement among doctoral students with prior awareness or usage experience of GenAI. Specifically, we examine how AI literacy influences performance and effort expectancy, which in turn affect three dimensions of student engagement: behavioral (e.g., time and effort invested in learning), affective (e.g., interest in learning and sense of be- longing), and cognitive (e.g., deep thinking and cognitive strategies). Data from 626 Chinese doctoral students reveal that AI literacy significantly enhances per- formance  and  effort  expectancy,  fostering  behavioral  and  affective  engagement, though  not  cognitive  engagement.  Furthermore,  social  influence  and  facilitating conditions strengthen the link between AI literacy and cognitive appraisals. Media- tion analysis shows performance expectancy primarily drives affective engagement, while effort expectancy mediates behavioral engagement. Notably, the findings also uncover meaningful differences across gender, university types, and disciplinary backgrounds, highlighting the importance of context-specific strategies for GenAI integration in doctoral education.
+Keywords AI literacy · Student engagement · UTAUT model · Doctoral education · Multigroup analysis
+Extended author information available on the last page of the article
+ 
+
+1  Introduction
+The rapid development of generative AI (GenAI) is reshaping educational goals and learning paradigms (Baek & Hwang, 2024). GenAI models like ChatGPT and Deep- Seek have sparked debates on their impact on education and assessment due to their accessibility, cognitive enhancement, and rapid evolution (Shamsuddinova et al., 2024). The doctoral student population is particularly unique in this transformation. Unlike K-12 students or undergraduates, doctoral students’ learning styles are pri- marily driven by self-directed research rather than being course-oriented (Galindo- Domínguez et al., 2024; Getenet et al., 2024; Nikou & Aavakare, 2021; Pinto & Leite, 2020; Wang & Yin, 2025). They require greater academic independence and research capability to meet the demands of knowledge acquisition and innovation, engaging with GenAI more autonomously and deeply in their research (Khalifa & Albadawy, 2024). Therefore, exploring how AI literacy influences doctoral student engagement is critical for optimizing GenAI integration in academic research.
+AI literacy refers to the ability to critically understand, evaluate, and apply AI technologies (Laupichler et al., 2022; Ng et al., 2021). Doctoral students with high levels of AI literacy can train GenAI to assist in data analysis and theoretical model- ling through fine-grained prompt engineering (Holm, 2024; Sari, 2024), whereas less literate doctoral students may be limited to basic applications, such as simple text touch-ups (Thorp, 2023). Even doctoral students with higher AI literacy may face risks, such as over-reliance on AI weakening their critical thinking and problem-solv- ing skills, reducing motivation to learn and engagement (Vargas-Murillo et al., 2023).
+Student engagement is a multidimensional concept, including behavioral engage- ment (e.g., time and effort invested in learning), cognitive engagement (e.g., deep thinking and cognitive strategies), and affective engagement (e.g., interest in learning and sense of belonging) (Bowden et al., 2021). However, there remains a dearth of research on the impact of GenAI on different dimensions of student engagement (Lo et al., 2024).
+This study employs the extended unified theory of acceptance and use of technol- ogy (UTAUT) model as a theoretical framework. The UTAUT model emphasizes the influence of four key factors on the use of new technologies: performance expecta- tion (expectations that GenAI will enhance research efficiency and academic output), effort expectation (perceptions of GenAI’s ease of use), social influence (influence of peers and supervisors) and facilitating conditions (institutional resources and techni- cal support) (Venkatesh et al., 2003). As Tully et al. (2025) suggest, individuals with higher AI literacy may develop more nuanced perceptions of expectations of GenAI, viewing it as more capable and ethical or, alternatively, experiencing a reduced sense of its mystique and awe. Therefore, it remains unclear how AI literacy shapes student engagement through these cognitive appraisals, particularly among doctoral students who possess at least basic awareness or prior usage experience of GenAI. Conse- quently, the current article addresses this research gap by incorporating AI literacy into the UTAUT framework and empirically testing its impact on doctoral students.
+This study employs structural equation modelling to examine the mechanisms linking AI literacy to different dimensions of student engagement based on the ques- tionnaire data (N = 626) from doctoral students in China. Specifically, this study 
+
+Education and Information Technologies
+examines (1) the impact of AI literacy on doctoral students’ performance and effort expectations and how these expectations further influence different dimensions of student engagement: behavioral engagement, affective engagement, and cognitive engagement; (2) the moderating effects of facilitating conditions and social influence on performance and effort expectations; (3) differences across grouping individual characteristics (e.g., gender, discipline, and university).
+This paper is structured as follows. The next section reviews the literature and develops the hypotheses. Section  3 outlines the research methodology, while Section 4 presents the findings. Section  5 and Section  6 discuss the results and the implica- tions, and the final section concludes this paper.
+2  Theoretical background and hypotheses development
+2.1 AI literacy in higher education
+GenAI has emerged as a transformative force in education, with impacts that extend far beyond traditional educational technologies (Ali et al., 2023; Chan & Hu, 2023; Chiu, 2024). As GenAI becomes increasingly embedded in academic environments, AI literacy has emerged as a critical competency for students and educators in higher education (Černý, 2024; Tully et al., 2025). Recognizing this importance, higher edu- cation institutions have responded by integrating AI literacy into curricula (Brouil- lette, 2019; Xu & Babaian, 2021), though significant challenges remain, including disparities in access, faculty preparedness, and the rapid evolution of GenAI capabili- ties (Vesna, 2025).
+Given the growing emphasis on AI literacy, it is important to clarify what this concept entails, as scholars have proposed diverse and evolving definitions. The term “AI literacy” was first coined by Kandlhofer et al. (2016), who described it as com- petencies for understanding the basic knowledge and concepts about AI techniques. Long and Magerko (2020) further defined AI literacy as “a set of competencies that enables individuals to critically evaluate AI technologies, communicate and collabo- rate effectively with AI, and use AI as a tool online, at home, and in the workplace” (p. 598).
+In recent years, more structured frameworks have emerged to discuss the defini- tion of AI literacy. Grounded in Bloom’s Taxonomy, Ng et al. (2021) proposed a seminal four-dimensional framework, comprising (1) know and understand, (2) use and apply, (3) evaluate and create, and (4) AI ethics. This cognitive-hierarchical core is further supported by the systematic review of Almatrafi et al. (2024), which reaf- firms that AI literacy consists of technical, critical, ethical, and practical dimensions. Other systematic reviews have proposed alternative categorizations, such as the three learning axes (learning about AI, how AI works, and living with AI) identified by Casal-Otero et al. (2023), or the bundle of four core capabilities (technology-related, work-related, human-machine-related, and learning-related) proposed by Cetindamar et al. (2022).
+In addition, a scholarly debate is emerging regarding the conceptual boundaries of AI literacy, specifically whether it should encompass psychological elements. 
+
+3 3
+Carolus et al. (2023) and Feng and Carolus (2026) expanded the construct’s boundar- ies in their Meta AI Literacy Scale (MAILS) by incorporating psychological meta- competencies such as self-efficacy and perceived control. Ng et al. (2024) proposed the ABCE framework, which categorized AI literacy into four dimensions: affec- tive, behavioral, cognitive, and ethical learning. Conversely, Chiu (2024) provided a critical refinement by distinguishing between AI literacy and AI competency. They defined AI literacy as the foundational ability to explain, use, and collaborate with AI ethically, while explicitly categorizing psychological and dispositional factors, such as confidence and self-reflective mindsets, under AI competency rather than literacy. Table 1 provides a comparative summary of these key conceptualizations of AI literacy.
+Following this comparative review, this study adopts Ng et al.’s (2021) four- dimensional framework based on three considerations: First, aligning with Chiu (2024), we argue that AI literacy should focus on cognitive-technical elements rather than psychological traits. This maintains clear conceptual boundaries and avoids construct redundancy with the psychological dimensions in our extended UTAUT model (i.e., performance and effort expectancy). Second, Ng et al.’s framework is the most established operationalization of these core dimensions and has been validated across multiple educational levels (Kong et al., 2025; Ng et al., 2023; Walter, 2024). Third, based on Bloom’s Taxonomy, this framework provides a theoretically coher- ent operationalization that captures the progressive nature of AI literacy, from basic knowledge to higher-order critical evaluation, which is particularly relevant for the advanced cognitive demands of doctoral research.
+2.2 The extended UTAUT theory
+An extended UTAUT theory is adopted as the theoretical framework for this study. The UTAUT, developed by Venkatesh et al. (2003), seeks to explain users’ intentions to adopt an information system and their subsequent usage behavior by synthesiz- ing key constructs from eight foundational models, including the technology accep- tance model, the theory of planned behavior, the diffusion of innovations theory, and social cognitive theory (Ayaz & Yanartaş, 2020). This theory consists of four key constructs: performance expectancy, effort expectancy, social influence, and facilitat- ing conditions. UTAUT has gained widespread recognition in explaining technology acceptance behavior in educational contexts (Abbad, 2021; Xue et al., 2024).
+However, traditional UTAUT has focused primarily on emphasizing cognitive appraisal factors (performance and effort expectancy) as direct predictors of behav- ioral intentions (Altalhi, 2021) without adequately accounting for the antecedent skills that shape these cognitive appraisals. This limitation becomes particularly sig- nificant in AI educational settings, where doctoral students demonstrate substantial variation in AI literacy levels (Nikou & Aavakare, 2021). We argue that this literacy disparity fundamentally influences how students cognitively appraise AI technologies before forming usage intentions. Meanwhile, as delineated in Sect. 2.1, this approach distinguishes AI literacy as an objective competency from subjective perceptual judgments, aligning with the skill acquisition theories suggesting that competence precedes confidence in technology evaluation. Therefore, our study reconceptualizes 
+
+Education and Information Technologies
+Table 1  Comparative analysis of AI literacy definitions and frameworks
+Scholars Core  Key  Target  Psychological 
+perspective dimensions population dimensions
+Kandl- Foundation- Technical  K-12 Excluded hofer et al.  al technical  knowledge, 
+(2016) understand- conceptual 
+ing understand-
+ing
+
+3 3
+Education and Information Technologies
+Long and  Critical Magerko  evaluation (2020) and col-
+laboration
+Ng et al.  Cognitive- (2021) technical 
+hierarchy
+Cetin- Profes- damar et  sional 
+al. (2022) adaptation 
+capability
+Casal- Imple- Otero et al.  mentation- (2023) oriented 
+skill set
+17 com- General  Excluded petencies  public
+(skill, 
+knowledge)
+Know and  K-12 Excluded understand, 
+use and 
+apply, 
+evaluate 
+and create, 
+AI ethics
+Technol- Employees Excluded ogy, work, 
+human-
+machine, 
+learning
+Learn  K-12/  Excluded about AI,  General
+how AI 
+works,
+living with 
+AI
+
+ 
+Education and Information Technologies
+Carolus et  Meta- Apply,  Adults Integrated al. (2023) competency  understand,  as parallel (modular) detect, eth- modules
+ics, create, 
+AI self-
+efficacy, AI 
+self-com-
+petency
+Ng et al.  ABCE  Affective,  Secondary  Included (2024) framework behavioral,  students
+cognitive, 
+ethical
+Almatrafi  Evalua- Awareness,  University Excluded et al.  tion and  application, 
+(2024) innovation  innovation, 
+framework ethics
+Chiu  Distinction  Technolo- K-12 Excluded (2024) between  gy, impact, 
+literacy and  ethics, col-
+competency laboration
+the UTAUT model by positioning AI literacy as an antecedent variable that directly influences cognitive appraisals. At the same time, this study adjusted the outcome variable from technology use to student engagement, reflecting the theoretical evo- lution of educational technology research from a focus on technology adoption to learning effectiveness (Bond et al., 2020).
+
+3 3
+Furthermore, we reconceptualize social influence and facilitating conditions as moderating variables rather than direct predictors. This adjustment reflects the dis- tinct nature of these constructs as environmental factors external to individual cogni- tion. In the context of doctoral students’ GenAI use, social influence (from peers and supervisors) and facilitating conditions (institutional resources, technical support) serve as boundary conditions that moderate how AI literacy translates into cognitive appraisal factors. This reconceptualization enhances the model’s explanatory power by acknowledging the contextual nature of technology acceptance in academic set- tings (Teo et al., 2016).
+By reconceptualizing the UTAUT framework as a capability-appraisal-engage- ment pathway, our model advances UTAUT theory in three ways: (1) it introduces a pre-appraisal competency layer that accounts for individual differences in how users evaluate technology; (2) it shifts the outcome variable from behavioral intention to multidimensional student engagement, reflecting the educational technology field’s evolution from adoption-focused to learning-effectiveness-focused research; and (3) it reconceptualizes social influence and facilitating conditions as boundary condi- tions (moderators) rather than direct predictors, acknowledging their contextual role in shaping the literacy-to-appraisal translation process.
+2.3 Hypotheses development
+Performance  expectancy  refers  to  the  belief  that  using AI  will  improve  student engagement, while effort expectancy refers to the ease of using the system. Tech- nology literacy enables users to more accurately assess the potential value and use-
+fulness of technology (Karahanna et al., 2018). Higher AI literacy enables users to recognize the learning value of AI technologies better, thus enhancing their perfor- mance expectations (Duong et al., 2024; Lin et al., 2024). In addition, users with higher AI knowledge can better understand the system’s functionality, operational processes, and potential limitations, thereby reducing the cognitive load of use (Li, 2023). This cognitive advantage enables AI-literate users to form more accurate men- tal models and reduce the expected cost of effort (Jang, 2024; Yao & Wang, 2024). Therefore, we propose the following hypothesis:
+H1 AI literacy positively impacts doctoral students’ performance expectancy (H1a) and effort expectancy (H1b) in adopting AI tools for academic work.
+Students who perceive GenAI as beneficial to their academic performance are more inclined to develop positive emotional connections to their learning roles (Saif et al., 2024). Moreover, expectations of improved performance can enhance learning moti- vation by alleviating frustration related to technology use, thereby fostering greater confidence and a sense of autonomy in academic tasks (Vlachogianni & Tselios, 2022). Students with high-performance expectations have more behavioral intentions (Kanwal & Rehman, 2017). When students perceive that GenAI tools can enhance research efficiency, they are more willing to invest cognitive resources to explore maximizing the use of AI technology to support learning (Jang, 2024).
+
+Education and Information Technologies
+H2  Doctoral students’ performance expectancy is positively related to behavioral engagement (H2a), affective engagement (H2b), and cognitive engagement (H2c) in adopting AI tools for academic work.
+In  AI-supported  learning  environments,  user-friendly  GenAI  tools  can  promote emotional attachment by offering seamless and intuitive experiences (Olmos Raya et al., 2018; Özer et al., 2023). When students find technologies easy to use, they are more likely to enhance learning productivity and performance (Chahal & Rani, 2022). Easy-to-use AI tools can help PhD students quickly find information, generate scholarly content, and reduce their time on low-level tasks to focus on more com- plex scholarly reasoning and innovation (Imran & Almusharraf, 2023). Therefore, we posit:
+H3  Doctoral students’ effort expectancy is positively related to behavioral engage- ment (H3a), affective engagement (H3b), and cognitive engagement (H3c) in adopt- ing AI tools for academic work.
+In this study, social influence is defined as the degree to which doctoral students feel encouraged or pressured by key individuals in their academic environment, such as peers and supervisors, to adopt and use GenAI (Gursoy et al., 2019; Wang & Yin, 2025). Prior research has consistently demonstrated that social influence positively shapes users’ performance expectations regarding AI (Bilquise et al., 2024; Budha- thoki et al., 2024; Ma & Huo, 2023), influencing doctoral students’ engagement. Therefore, we propose:
+H4  Social influence positively moderates the relationship between doctoral students’ AI literacy and performance expectancy in adopting AI tools for academic work.
+The UTAUT model suggests enabling conditions are key to technology adoption (Venkatesh et al., 2008). Research in educational technology has shown that when teachers receive adequate technical support and training, the effect of their technolog- ical literacy on effort expectancy is enhanced (Teo, 2009). Even individuals with high AI literacy may have difficulty translating knowledge into practice without adequate support, resulting in lower effort expectancy (Chatterjee & Bhattacharjee, 2020; Erd- mann & Toro-Dupouy, 2025). Thus, we hypothesize:
+H5  Facilitating conditions positively moderate the relationship between AI literacy and effort expectancy in adopting AI tools for academic work.
+In addition, this study used three individual characteristics as grouping variables: gender, university, and discipline. Existing studies have shown that AI literacy is influenced by a variety of contextual factors, such as institutional background, disci- plinary background, and gender (Ivanov et al., 2024; Kelly et al., 2023; Şahin et al., 2021; Wang & Yin, 2025). Specifically, we categorize universities into double first- class universities and others, where double first-class universities are top-tier institu- tions and disciplines that are promoted to be the world’s best or leading ranks (Peters 
+
+3 3
+& Besley, 2018). In summary, these assumptions are consistent with the underlying principles of the extended UTAUT framework and are confirmed by the studies dis- cussing the integration of GenAI into the educational environment. Figure 1 illus- trates the conceptual model for this study.
+3  Methodology
+3.1 Procedure and participants
+Data collection was conducted in February 2025 through an online questionnaire administered via the Wenjuanxing platform. To ensure sample diversity and miti- gate potential selection bias, we employed a combination of purposive and snowball sampling strategies. Specifically, the questionnaire was distributed through three pri- mary channels: (1) Peer-assisted distribution. We invited doctoral students from vari- ous disciplines and various institutions to share the survey link within their private departmental or class WeChat groups, ensuring access to verified, active doctoral students across different academic fields; (2) Public academic community outreach. The survey was simultaneously shared in public academic communities on WeChat. These groups are not limited to specific disciplines or institutions but comprise mem- bers from a wide range of universities and geographic regions; (3) Referral-based snowballing within peer networks. Initial respondents were encouraged to share the questionnaire with fellow doctoral students. This online, multi-channel approach was designed to reach doctoral students from diverse disciplinary backgrounds, institu- tional types, and geographic regions, thereby reducing the risk of systematic selec- tion bias associated with any single distribution channel. Through this process, we received 1032 responses, of which 285 were not doctoral students. We also removed 121 responses from those who had never heard of it and those who had not used it. Consequently, a final sample of 626 doctoral respondents, who possessed at least a 
+
+Fig. 1  The hypothesized model
+
+Education and Information Technologies
+threshold level of awareness or prior usage experience with GenAI, was used for further analysis. Most participants (53.04%) were female. Majors were primarily in social science (76.20%), and most of the participants came from double first-class universities (57.35%) in China.
+3.2 Measures
+All scales employed a 5-point Likert scale (1 = strongly disagree, 5 = strongly agree). We undertook a rigorous contextual adaptation and translation process to adapt the existing scales for this study. Initially, minor linguistic adjustments were made to focus on GenAI’s role in supporting doctoral students’ academic work, replacing general technology terms with “GenAI” and specifying contexts such as “in my aca- demic work” or “assist research”. The adapted items were translated and back-trans- lated to ensure conceptual consistency across English and Chinese versions. A pilot study was conducted with doctoral students to confirm clarity and understanding. After data collection, Cronbach’s α was used to assess reliability, and Confirmatory Factor Analysis (CFA) was conducted to validate the measurement model, as out- lined below.
+3.2.1 Ability factors: AI literacy
+Doctoral AI literacy was measured using an adapted version of the AI literacy ques- tionnaire developed by Carolus et al. (2023). While Carolus et al. expanded on Ng et al.’s (2021) framework by adding psychological competencies, we deliberately excluded  these  psychological  competency  items  in  our  measurement  approach. This is because our extended UTAUT model comprehensively captures psychologi- cal dimensions through its cognitive appraisal constructs (performance and effort expectancy).
+Focusing exclusively on the technical and conceptual dimensions from Ng et al.’s (2021) original framework, we maintain clear conceptual boundaries between AI literacy and cognitive appraisals. As the items in Ng et al. (2021) are relevant to K-12 education, we further modify these items to adapt to doctoral students. There- fore, this questionnaire comprises four dimensions: know and understand AI (e.g., “I know what AI is and recall the definitions of AI.”), use and apply AI (e.g., “I can think of new uses for AI.”), evaluate and create AI (e.g., “I can assess the limitations and opportunities of using AI.”), and AI ethical issues (e.g., “I can weigh the conse- quences of using AI for society.”).
+3.2.2 Cognitive appraisal and external environmental factors
+The questionnaire developed by Venkatesh et al. (2003) is used to measure cogni- tive appraisal and external environmental factors, comprising performance expec- tancy (four items, e.g., “Using AI may enable me to accomplish academic tasks more quickly.”), effort expectancy (four items, e.g., “It would be easy for me to become skillful at using AI.”), social influence (three items, e.g., “My supervisors think that 
+
+3 3
+I should use AI.”), and facilitating conditions (three items, e.g., “I have the resources necessary to use AI.”) .
+3.2.3 Student engagement
+Doctoral student engagement was measured using three dimensions adapted from Bowden et al. (2021)’s scale. While their original framework included four dimen- sions (behavioral, cognitive, affective, and social engagement), we excluded the social engagement component based on Lo et al.’s (2024) research on ChatGPT’s impact on student engagement. Our final measurement focused on the three dimensions most relevant to GenAI interaction: behavioral, cognitive, and affective engagement.
+3.3 Data analysis
+We utilized SPSS 25.0 and Mplus 8.0 to conduct data analysis. The process began with Harman’s single-factor test for assessing the impact of common method bias. Next, we evaluated the psychometric properties of the scales, specifically assessing reliability and convergent validity. Furthermore, descriptive statistics and discrimi- nant validity were simultaneously evaluated. The main relationships were examined using structural equation modeling, with model adequacy assessed via multiple indi- ces (χ2, CFI, TLI, RMSEA, SRMR). Usually, the acceptable fit was determined by RMSEA < 0.08, SRMR < 0.10, and CFI and TLI > 0.90 (Hu & Bentler, 1999).
+Before conducting group comparisons, measurement invariance was assessed to ensure the validity of cross-group analyses. This involved testing for configural, met- ric, and scalar invariance across groups. Following established guidelines (Putnick 
+& Bornstein, 2016), model fit was evaluated by examining changes in key indices, including Δχ², ΔCFI (≤ 0.010), ΔTLI (≤ 0.050), ΔRMSEA (≤ 0.015), and ΔSRMR (≤ 0.030 for metric and ≤ 0.010 for scalar invariance). To further examine differences in structural paths between groups, Wald chi-square tests were performed on regres- sion coefficients.
+This study employed a stratified analysis approach, testing the basic moderating effects of social influence and facilitating conditions, then exploring gender, univer- sity, and disciplinary differences through multigroup analyses. We did not simultane- ously test third-order interactions between moderators and subgroup variables due to statistical power concerns and interpretation clarity (Cohen et al., 2013).
+4  Results
+4.1 Preliminary analysis
+Before testing the hypotheses, preliminary screening and psychometric evaluations were conducted. First, Harman’s single-factor test indicated that the first unrotated factor explained 41.469% of the total variance, confirming that common method bias was not a significant concern (Podsakoff & Organ, 1986). Second, as shown in Table 2, the standardized factor loadings for all questionnaire items exceeded the 
+
+Education and Information Technologies
+Table 2  Results of reliability and convergent validity
+Items Standard factor  Cron- CR AVE
+loadings bach’s α 
+AIL KU01 0.773 0.942 0.946 0.595
+KU02 0.762
+KU03 0.753
+UA01 0.794
+UA02 0.811
+UA03 0.741
+EC01 0.777
+EC02 0.792
+EC03 0.777
+EI01 0.744
+EI02 0.743
+EI03 0.788
+PE PE01 0.787 0.901 0.901 0.695
+PE02 0.827
+PE03 0.841
+PE04 0.877
+EE EE01 0.787 0.864 0.869 0.624
+EE02 0.812
+EE03 0.767
+EE04 0.793
+SI SI01 0.835 0.885 0.886 0.721
+SI02 0.829
+SI03 0.883
+FC FC01 0.789 0.828 0.828 0.616
+FC02 0.794
+FC03 0.772
+BE BE01 0.822 0.893 0.894 0.678
+BE02 0.823
+BE03 0.815
+BE04 0.834
+AE AE01 0.766 0.802 0.806 0.580
+AE02 0.774
+AE03 0.745
+CE CE01 0.794 0.818 0.823 0.608
+CE02 0.791
+CE03 0.753
+
+3 3
+Education and Information Technologies
+acceptable threshold of 0.50, Cronbach’s α and composite reliability (CR) values all exceeded 0.70, and the average variance extracted (AVE) for all constructs was well above 0.50. Third, Table 3 presents descriptive statistics, correlations, and discrimi- nant validity. Overall, the results generally support the discriminant validity, although the correlation between AI literacy and behavioral engagement is relatively high. Finally, confirmatory factor analysis demonstrated an acceptable model fit for all constructs (see Table 4). While most correlations were significant, with a few excep- tions, none showed a high correlation (r < .80; Cohen et al., 2013).
+
+3 3
+Table 3  Descriptive statistics, correlations, and discriminant validity
+AIL PE EE SI FC BE AE CE AIL 0.772 
+PE 0.590** 0.834
+EE 0.521** 0.346** 0.790
+SI 0.029 0.325** 0.066 0.849
+FC − 0.010 − 0.001 0.460** 0.023 0.785
+BE 0.792** 0.540** 0.526** 0.034 0.069 0.824
+AE 0.621** 0.556** 0.389** 0.192** 0.016 0.570** 0.762
+CE 0.036 − 0.008 0.041 − 0.080* 0.021 0.043 0.036 0.780 M 2.590 2.548 2.542 2.590 2.594 2.584 2.571 2.598 SD 0.990 1.120 1.071 1.150 1.088 1.078 1.054 1.066
+Note. ∗p < .05, ∗∗p < .01 (two tails); Bold values on the diagonal are the square roots of the AVE
+AIL = AI  Literacy;  PE=Performance  Expectancy;  EE=Effort  Expectancy;  SI=Social  Influence; FC =Facilitating Condition; BE =Behavioral Engagement; AE =Affective Engagement; CE =Cognitive Engagement
+Table 4  Model fit indices of the hypothesized models
+χ2 df RMSEA CFI TLI SRMR Hypothesized model 594.251 566 0.009 0.998 0.998 0.022 (whole sample)
+Hypothesized model 1246.454 1160 0.015 0.994 0.994 0.032 (gender)
+Male (N = 294) 640.140
+Female (N = 332) 606.314
+Hypothesized model 1230.268 1160 0.014 0.995 0.995 0.032 (university)
+Double first-class (N = 359) 665.178
+Other (N = 267) 565.091
+Hypothesized model 1333.870 1160 0.022 0.988 0.987 0.032 (discipline)
+Social science (N = 477) 703.379
+Science (N = 149) 630.491
+4.2 Results of hypothesized model
+4.2.1 SEM results
+The model demonstrated acceptable fit indices: χ2 = 594.251, df = 566, RMSEA=0.009, CFI=0.998, TLI=0.998, SRMR=0.022. As shown in Fig. 2, AIL positively influenced PE  (β  0.842,  p<.001)  and  EE  (β  0.715,  p<.001).  PE  positively  predicted  BE (β  0.577, p<.001) and AE (β  0.861, p<.001) but showed a non-significant negative relationship with CE (β=-0.091, p=.130). EE significantly predicted BE (β  0.423, p<.001) and AE (β  0.139, p<.001), while its relationship with CE was not signifi- cant (β  0.102, p=.087). Significant moderating effects emerged, with SI moderat- ing the relationship between AIL and PE (β  0.192, p<.001) and FC moderating the 
+
+Education and Information Technologies
+
+Fig. 2  The SEM results for the whole model. Note. ∗p < .05, ∗∗p < .01, ∗∗∗p < .001. The standardized coefficients are presented
+
+Fig. 3  Moderating effects of SI on AIL to PE and FC on AIL to EE relationships
+relationship between AIL and EE (β  0.175, p<.001). Figure 3 illustrates how higher levels of social influence strengthen the positive relationship between AIL and PE, as demonstrated by the increasingly steeper slopes from low to high SI conditions. It also reveals a parallel pattern for FC, which similarly enhances the positive effect of AIL on EE.
+4.2.2 Mediating roles of cognitive appraisal factors
+The indirect effects analysis (see Table 5) reveals several important mediation path- ways in the proposed model. For BE, AI literacy exerted significant total indirect effects (β = 0.142, p<.001), primarily through the AIL to EE to BE pathway (β = 0.096, p<.001), while the AIL to PE to BE pathway was not significant. For AE, AIL dem- onstrated stronger total indirect effects (β = 0.487, p<.001), with the AIL to PE to AE pathway (β = 0.463, p<.001) contributing substantially, while the effort expectancy mediation was not significant. For CE, neither the specific pathway nor the total indirect effect reached statistical significance, suggesting that AIL’s influence on CE is not effectively mediated through PE or EE. These findings highlight differential mediation patterns across engagement types, with PE primarily mediating AE and EE mediating BE.
+
+3 3
+Table 5  Indirect effects for the  Whole population (N = 626) β S.E. p whole sample
+AIL→PE/EE→BE
+→PE→BE 0.046 0.032 0.151 →EE→BE 0.096*** 0.021 0.000 Total indirect effects 0.142*** 0.037 0.000 AIL→PE/EE→AE
+→PE→AE 0.463*** 0.042 0.000 →EE→AE 0.024 0.027 0.363 Total indirect effects 0.487*** 0.050 0.000 AIL→PE/EE→CE
+→PE→CE − 0.121 0.070 0.085
+→EE→CE 0.034 0.046 0.462 Note. ∗p < .05, ∗∗p < .01, ∗∗∗p 
+< .001 Total indirect effects − 0.087 0.083 0.295
+4.3 Group comparison
+As shown in Table 6, the measurement invariance tests supported the model’s invari- ance across subgroups. Table 7 presents the results of the multigroup analysis, indi- cating differences based on gender, university, and discipline.
+The relationship of PE to CE differs significantly between males and females (Wald test pdifference=0.031), with males showing a non-significant positive effect (β = 0.066, p= .446) while females show a significant negative effect (β = − 0.190, p 
+= .018). No significant differences were found between double first-class universi- ties and other universities in any path relationship (all Wald tests pdifference >0.05). Regarding discipline relationship, science disciplines exhibited a stronger positive effect of PE on BE (science: β = 0.756, p=.000; social science: β = 0.571, p=.000; pdifference =0.021). The PE to CE relationship shows a highly significant difference between disciplines (Wald test pdifference = 0.000), with social sciences showing a negative effect (β=-0.182, p=.009) while science shows a positive effect (β = 0.274, p=.008).
+Table 8 summarizes the key findings regarding the examined relationships and highlights the significant group differences.
+5  Discussion
+Our research applies an extended UTAUT model to examine how AI literacy influ- ences different dimensions of student engagement among Chinese doctoral stu- dents. These findings advance the existing literature by (1) establishing AI literacy as a foundational driver of performance and effort expectancies; (2) identifying the  dynamics  and  paradoxes  of  multi-dimensional  engagement;  (3)  revealing social  influence  and  facilitating  conditions  as  key  socio-technical  moderators; and (4) highlighting the contextual specificity and global transferability of these mechanisms.
+
+Education and Information Technologies
+Table 6  Measurement invariance tests across gender, university, and discipline
+Models Model fit indices Model comparison
+χ2 df RMSEA CI90- CFI TLI SRMR ΔRMSEA ΔCFI ΔTLI
+RMSEA
+Gen- M1:  1268.226 1132 0.020 [0.012,  0.991 0.990 0.031
+der Con- 0.025]
+fig-
+ural
+
+3 3
+Education and Information Technologies
+M2:  1283.977 1160 0.018 Met-
+ric
+M3:  1302.650 1188 0.018 Sca-
+lar
+Uni- M1:  1249.105 1132 0.018 ver- Con-
+sity fig-
+ural
+M2:  1271.828 1160 0.018 Met-
+ric
+M3:  1296.215 1188 0.017 Sca-
+lar
+Dis- M1:  1335.629 1132 0.024 ci- Con-
+pline fig-
+ural
+[0.011,  0.992 0.991 0.032 0.024]
+[0.009,  0.993 0.992 0.033 0.024]
+[0.010,  0.993 0.992 0.032 0.024]
+[0.009,  0.993 0.992 0.034 0.024]
+[0.008,  0.993 0.993 0.034 0.023]
+[0.018,  0.987 0.986 0.032 0.029]
+− 0.001 0.000 0.003
+− 0.001 0.001 0.002
+− 0.001 0.001 0.002
+0.000 0.000 0.002
+
+ 
+Education and Information Technologies
+M2:  1352.547 1160 0.023 [0.017,  0.988 0.987 0.033 − 0.001 0.001 0.003 Met- 0.028]
+ric
+M3:  1391.873 1188 0.023 [0.018,  0.987 0.986 0.034 − 0.001 − 0.001 0.001 Sca- 0.028]
+lar
+5.1 Cognitive appraisal factors driven by AI literacy
+The robust positive impact of AI literacy on performance expectancy and effort expec- tancy aligns with the skill-before-perception logic in technology adoption (Venkatesh et al., 2016). For doctoral students, AI literacy is not merely a technical proficiency but a pragmatic toolkit that fosters a sense of control (Duong et al., 2024). Unlike undergraduates who may perceive GenAI through a lens of awe or magic (Tully et al., 2025), doctoral students exhibit a highly instrumental approach, valuing AI literacy precisely for its strategic integration into complex research workflows. Nota- bly, the cross-group invariance across gender, university type, and discipline suggests that the appraisal process driven by AI literacy is a universal cognitive mechanism independent of institutional or demographic backgrounds. Consequently, AI literacy functions as the foundational mechanism that transforms GenAI from an external innovation into a rationalized extension of one’s own intellectual labor.
+
+3 3
+   
+
+Education and Information Technologies
+Table 8  Summary of key  Results Whole  Significant differences across findings sample groups 
+Effect size Gender University Disci-
+pline
+
+3 3
+Education and Information Technologies
+H1a AIL  Sup- →PE ported
+H1b AIL  Sup- →EE ported
+H2a PE  Sup- →BE ported
+H2b PE  Sup- →AE ported
+H2c PE  Not →CE supported
+H3a  Sup- EE→BE ported
+H3b  Sup- EE→AE ported
+H3c EE  Not →CE supported
+H4  Sup- AIL*SI  ported →PE
+0.842*** n.s. 0.715*** n.s. 0.577*** n.s. 0.861*** n.s.
+− 0.091(n.s.) P<.05 0.423*** n.s. 0.139*** n.s. 0.102(n.s.) n.s. 0.192***
+n.s. n.s. n.s. n.s. n.s. P<.05 n.s. n.s. n.s. P<.001 n.s. n.s. n.s. n.s. n.s. n.s.
+
+ 
+Education and Information Technologies
+H5  Sup- 0.175***
+Note. ∗p < .05, ∗∗p < .01, ∗∗∗p  AIL*FC  ported
+< .001, n.s. = not significant →EE 
+5.2 The dynamics and paradoxes of multi-dimensional engagement
+GenAI has effectively transitioned into an indispensable tool for doctoral students, as evidenced by the significant impact of performance and effort expectancy on behav- ioral and affective engagement (Imran & Almusharraf, 2023; Jang, 2024). However, the non-significant path between performance expectancy and cognitive engagement presents an unexpected finding that warrants careful consideration. Our multigroup analysis suggests that this result might be partially driven by the dominant social sci- ence sample (76.20%) in this study. It is possible that disciplinary epistemic styles play a role in how GenAI is integrated into cognitive processes. For instance, a high perception of AI competence might pose a risk of students relying on AI-generated outputs as conclusions rather than as catalysts for dialectical reasoning (Lee et al., 2025; Lo et al., 2024). Conversely, for science students, GenAI might potentially function as a cognitive tool that, by handling structured tasks like algorithmic opti- mization, could theoretically liberate mental bandwidth for higher-order analysis (Xu et al., 2024). Nonetheless, as these disciplinary cognitive processes were not directly measured in this study, these explanations remain speculative.
+Furthermore, the finding that effort expectancy fails to predict cognitive engage- ment across all groups points towards a potential gap between operational simplic- ity and intellectual depth. While a user-friendly interface and a low learning curve for GenAI may reduce behavioral entry barriers, this baseline technical convenience does not necessarily or automatically stimulate the metacognitive exertion required 
+
+3 3
+for high-level scholarly inquiry. Through the lens of cognitive resource theory, a highly frictionless and low-effort interface might, under certain conditions, poten- tially obscure the perceived necessity for users to engage in deeper, iterative mental processing, such as cross-disciplinary synthesis and knowledge evolution (Cai et al., 2017).
+Therefore, these results may suggest that GenAI currently functions more as a productivity-enhancing supplement than a catalyst for transformative thinking. For doctoral education, particularly in the social sciences, the challenge is to foster criti- cal distance, ensuring that the perceived brilliance of AI does not erode independent dialectical rigor.
+5.3 Socio-technical amplification: social influence and facilitating conditions
+The significant moderating roles of social influence and facilitating conditions high- light the socio-technical nature of GenAI adoption. The impact of social influence on the AI literacy to performance expectancy path involves two distinct levels of influence. Within the Chinese doctoral system, this is primarily a vertical influence driven by the supervisor-centric tradition (Zheng et al., 2018). Because supervisors hold significant authority over academic standards, their approval makes the use of GenAI feel legitimate and academically safe. This may be a context-specific dynamic where the supervisor’s attitude determines whether a student views AI as a high-per- formance tool. Beyond this, social influence also includes horizontal influence from peers. The widespread adoption of GenAI within research groups creates a normative environment that encourages individual usage, a trend observed across various inter- national academic settings (Sawang et al., 2014; Wang & Yin, 2025).
+Similarly, facilitating conditions, such as university-provided accounts, clear ethi- cal guidelines, and technical training, positively moderated the relationship between AI literacy and effort expectancy by providing a stable technical foundation. These conditions ensure that a student’s technical skills are not wasted on solving access or policy problems but are instead focused directly on research tasks (Chatterjee et al., 2020).
+5.4 Contextual specificity and global transferability
+Although situated in China, the conceptual mechanisms unveiled in this study offer meaningful implications for global higher education, provided that such interpreta- tions are carefully qualified by the institutional differences inherent in diverse doc- toral education models.
+Specifically, our findings regarding the external boundaries of the model, including social influence and facilitating conditions may not directly transfer to Western con- texts. East Asian doctoral education is tightly coupled with the hierarchical, supervi- sor-centric norms prevalent in East Asian doctoral training (Zheng et al., 2018), while doctoral students typically enjoy greater intellectual autonomy and experience less direct administrative oversight in the Western contexts (Mainhard et al., 2009).
+Conversely, the core internal relationship, including the cognitive transition from ability acquisition to cognitive appraisal to behavior outcome, offers broader global 
+
+Education and Information Technologies
+transferability as a universal requirement for the AI-driven research paradigm (Kong et al., 2025). However, the downstream path from utility appraisals to actual engage- ment warrants caution abroad. In education models characterized by high student autonomy  and  independent  research  ownership  (Litalien  et  al.,  2015),  cognitive engagement might be driven more by intrinsic academic curiosity than by external performance expectancies, contrasting sharply with contexts where research direc- tions are closely tethered to supervisory benchmarks.
+6  Implications
+This study deepens our understanding of GenAI in higher education by revealing how AI literacy influences doctoral student engagement. The findings offer valu- able guidance for stakeholders in designing effective GenAI integration strategies to enhance doctoral students’ academic experience.
+The strong impact of AI literacy on doctoral students’ performance and effort expectancy underscores the need for universities to establish comprehensive AI lit- eracy programs that teach technical skills and foster critical understanding of AI- generated content (Chan & Hu, 2023). However, enhancing doctoral engagement with GenAI goes beyond individual competence. The significant moderating roles of social influence and facilitating conditions reveal the importance of cultivating a supportive socio-technical environment.
+As GenAI remains a relatively new tool in academia, faculty encouragement and peer endorsement play a vital role in shaping doctoral students’ willingness to adopt and explore its potential (Zheng et al., 2018). Universities can foster this through communities of practice, such as mentorships, student-led forums, and interdisciplin- ary workshops, that normalize AI use and offer opportunities for shared learning and reflection.
+Simultaneously,  institutional  infrastructure  must  be  strengthened.  Providing access to advanced AI tools, alongside clear guidance on tool selection, ethical use, and data security (Teo & Noyes, 2014), is essential. Centralized AI support centers and discipline-specific toolkits, including targeted workshops like “AI for Research”, can help doctoral students meaningfully integrate GenAI into key academic tasks such as literature reviews, data analysis, and academic writing.
+The differentiated effects of gender, institution type, and discipline on GenAI- driven engagement among doctoral students suggest the need for more targeted strategies. Universities should adopt gender-responsive support systems that reflect diverse learning preferences, ensuring inclusive access to GenAI resources. Addition- ally, GenAI training should be discipline-specific, emphasizing technical applications for science students while focusing on ethical, critical, and contextual understanding for those in the social sciences (Wang & Yin, 2025). Tailoring these approaches can foster more meaningful and equitable engagement with GenAI across diverse doc- toral populations.
+Since performance and effort expectancy do not significantly predict doctoral stu- dents’ cognitive engagement, institutions should move beyond a utilitarian approach to GenAI by promoting critical awareness and reflective use. This involves integrat-
+
+3 3
+ing AI ethics and critical thinking into research training, encouraging students to rec- ognize and articulate GenAI’s role in their work, and supporting educators in guiding its responsible use to enhance, rather than replace higher-order skills like creativity and conceptual reasoning (Habibi et al., 2023).
+7  Conclusion
+By focusing on doctoral students with prior awareness or usage of GenAI, this study examined how AI literacy shapes student engagement by influencing their perfor- mance and effort expectancy and how these expectancies further affect behavioral, affective, and cognitive engagement. We adopted an extended UTAUT model to reveal the cognitive appraisals and environmental factors influencing doctoral stu- dent engagement. We found that AI literacy positively impacts both performance and effort expectancy, enhancing behavioral and affective engagement. Social influence and facilitating conditions positively moderated these relationships, underscoring the role of environmental factors. Additionally, performance and effort expectancy played distinct mediating roles: the former mainly mediated affective engagement, while the latter primarily mediated behavioral engagement. Finally, notable differ- ences emerged across gender, university, and discipline, suggesting the need for tai- lored GenAI integration strategies in doctoral education.
+Future research can take into account several limitations of this study.
+First, this study relied on self-reported data, which are subject to well-known biases including social desirability, recall inaccuracy, and common method variance (Kong et al., 2025). To enhance methodological robustness, future research could employ a multi-method measurement strategy. Specifically, (1) Performance-based and context-specific assessment. Future research should transition from self-per- ception scales to objective measures of demonstrated competency. For example, to assess the “Use and Apply AI” dimension, doctoral students could be tasked with solving a specific research problem using GenAI tools, thereby allowing research- ers to objectively evaluate the quality, efficiency, and innovativeness of their out- put; (2) Integration of objective behavioral data. Future work could leverage digital trace data, such as analyzing usage logs from GenAI platforms (e.g., interaction frequency, session duration, and specific feature utilization), to obtain authentic and objective data.
+Second, this study employed a cross-sectional design, which precludes the estab- lishment of causal relationships and limits the ability to reveal the dynamic evolution of AI literacy and doctoral student engagement over time. Future research could con- sider: (1) Longitudinal research designs. Future studies could collect data at multiple time points throughout an academic year, allowing researchers to track how AI lit- eracy evolves over time and how these changes impact doctoral student engagement. Such a design helps reveal the long-term effects of AI literacy. (2) Experimental and quasi-experimental designs. Doctoral students could be randomly assigned to either experimental groups receiving specialized AI literacy training or a control group receiving no intervention. By comparing their subsequent performance and engage-
+
+Education and Information Technologies
+ment in standardized, AI-assisted research tasks, researchers can more effectively isolate the impact of literacy interventions while controlling for extraneous variables.
+Third, the extraordinary pace of GenAI iteration introduces temporal volatility to our findings. GenAI, such as ChatGPT and DeepSeek, is currently transitioning from standard large language models to reasoning-centric architectures. This significantly enhances the cognitive capabilities of GenAI in handling complex academic tasks. Concurrently, the emergence of AI agents is fundamentally shifting doctoral students’ usage habits from simple, manual query-response interactions toward the orchestra- tion of autonomous, multi-step research workflows. Such rapid iterations suggest that student engagement patterns, especially the behavioral and cognitive dimensions, may undergo drastic transformations over a very short period as these tools become more agentic and integrated into research. Consequently, future studies could adopt a real-time or multi-wave monitoring approach to capture how student engagement fluctuates in response to this continuous development of GenAI.
+In addition, this study excludes doctoral students with zero GenAI awareness or usage, which restricts our findings to active-aware learners. Future research is encouraged to investigate the barriers faced by non-users to provide a more holis- tic view of doctoral engagement. Other limitations include the geographic focus on China and the exclusive reliance on quantitative methods. Future research should aim to incorporate more diverse cultural settings to examine varying social influences, while integrating qualitative approaches to offer richer insights into how doctoral students make sense of GenAI in their academic practices.
+Appendix 1 questionnaire in this study
+AI literacy (12 items), adapted from Carolus et al. (2023) and Ng et al. (2021)
+Know and understand AI
+KU01 I know what AI is and recall the definitions of AI.
+KU02 I know how to use AI applications (e.g., ChatGPT, DeepSeek).
+KU03 I can compare the differences between AI concepts (e.g., deep learning, machine learning).
+Use and apply AI
+UA01 I can apply AI applications to solve problems.
+UA02 I can think of new uses for AI.
+UA03 I can imagine possible future uses of AI.
+Evaluate and create AI
+EC01 I can evaluate AI applications and concepts for different situations.
+EC02 I can assess the limitations and opportunities of using AI.
+EC03 I can assess the advantages and disadvantages of artificial intelligence.
+AI ethical issues
+EI01 I can weigh the consequences of using AI for society.
+EI02 I can incorporate ethical considerations when deciding whether to use data provided by an AI.
+EI03 I can analyze AI-based applications for their ethical implications.
+
+4 4
+Performance expectancy (4 items), Venkatesh et al. (2003)
+PE01 I would find AI useful.
+PE02 Using AI may enable me to accomplish academic tasks more quickly.
+PE03 Using AI may increase productivity in my academic work.
+PE04 If I use AI, I will increase my chances of achieving academic success. Effort expectancy (4 items), Venkatesh et al. (2003)
+EE01 My interaction with AI would be clear and understandable.
+EE02 It would be easy for me to become skillful at using AI.
+EE03 I find AI easy to use.
+EE04 Learning to operate AI is easy for me.
+Social influence (3 items), Venkatesh et al. (2003)
+SI01 My supervisors think that I should use AI.
+SI02 My peers think that I should use AI.
+SI03 In general, my university has supported the use of the system.
+Facilitating conditions (3 items), Venkatesh et al. (2003)
+FC01 I have the resources necessary to use AI.
+FC02 I have the knowledge necessary to use AI.
+FC03 A specific person (or group) is available for assistance with AI difficulties. Student engagement (10 items), Bowden et al. (2021)
+Behavioral engagement
+BE01 Using AI to assist academic work, I am more likely to be involved in aca- demic research.
+BE02 Using AI to assist academic work, it is easier for me to focus on academic research for longer.
+BE03 Using AI to assist academic work, my academic research becomes relatively easy.
+BE04 Using AI to assist academic work, I can shorten the time required to com- plete academic tasks.
+Affective engagement
+AE01 I am excited about the results of AI in assisting academic research and am willing to try new technologies to improve the quality of my research.
+AE02 Using AI to assist research has helped me to reduce the fear associated with unsolved problems and decrease anxiety.
+AE03 Using AI to assist research made me feel more accomplished in the research process and improved my academic motivation.
+Cognitive engagement
+CE01 Using AI to assist research has helped me to better think critically about relevant research information.
+CE02 Using AI to assist research has improved my thinking and understanding of my own research.
+CE03 Using AI to assist research has helped me to think about the broader inter- section of disciplines and the evolution of knowledge systems, in addition to focusing on specific problems in a certain field.
+Funding  No funding was received for conducting this study.
+Data availability  Data will be made available on reasonable request.
+
+Education and Information Technologies
+Declarations
+Conflict of interest  The authors have no competing interests to declare that are relevant to the content of this article.
+References
+Abbad, M. (2021). Using the UTAUT model to understand students’ usage of e-learning systems in devel-
+oping countries. Education and Information Technologies, 26(6), 7205–7224. https://doi.org/10.100 7/s10639-021-10573-5 
+Ali, O., Murray, P. A., Momin, M., & Al-Anzi, F. S. (2023). The knowledge and innovation challenges of 
+ChatGPT: A scoping review. Technology in Society, 75, 102402. https://doi.org/10.1016/j.techsoc.2 023.102402 
+Almatrafi, O., Johri, A., & Lee, H. (2024). A systematic review of AI literacy conceptualization, con-
+structs, and implementation and assessment efforts (2019–2023). Computers and Education Open, 6, 100173. https://doi.org/10.1016/j.caeo.2024.100173
+Altalhi, M. (2021). Toward a model for acceptance of MOOCs in higher education: The modified UTAUT 
+model for Saudi Arabia. Education and Information Technologies, 26(2), 1589–1605. https://doi.org /10.1007/s10639-020-10317-x 
+Ayaz, A., & Yanartaş, M. (2020). An analysis on the unified theory of acceptance and use of technology 
+theory (UTAUT): Acceptance of electronic document management system. Computers in Human Behavior Reports, 2, 100032. https://doi.org/10.1016/j.chbr.2020.100032
+Baek, J., & Hwang, Y. (2024). Old tales, new tools: How AI chatbots and the metaverse are transforming 
+premodern classical literature reading activities. International Journal of Educational Research, 128, 102461. https://doi.org/10.1016/j.ijer.2024.102461
+Bilquise, G., Ibrahim, S., & Salhieh, S. E. M. (2024). Investigating student acceptance of an academic 
+advising chatbot in higher education institutions. Education and Information Technologies, 29(5), 6357–6382. https://doi.org/10.1007/s10639-023-12076-x
+Bond, M., Buntins, K., Bedenlier, S., Zawacki-Richter, O., & Kerres, M. (2020). Mapping research in 
+student engagement and educational technology in higher education: A systematic evidence map. International Journal of Educational Technology in Higher Education, 17, 1–30. https://doi.org/10. 1186/s41239-019-0176-8 
+Bowden, J. L. H., Tickle, L., & Naumann, K. (2021). The four pillars of tertiary student engagement and success: A holistic measurement approach. Studies in Higher Education, 46(6), 1207–1224. https://d 
+o i.org/10.1080/03075079.2019.1672647 
+Brouillette, M. (2019). AI added to the curriculum for doctors-to-be. Nature Medicine, 25(12), 1808–1809. 
+https://doi.org/10.1038/s41591-019-0648-3
+Budhathoki, T., Zirar, A., Njoya, E. T., & Timsina, A. (2024). ChatGPT adoption and anxiety: A cross-
+country analysis utilising the unified theory of acceptance and use of technology (UTAUT). Studies in Higher Education, 49(5), 831–846. https://doi.org/10.1080/03075079.2024.2333937
+Cai, Z., Fan, X., & Du, J. (2017). Gender and attitudes toward technology use: A meta-analysis. Computers 
+& Education, 105, 1–13. https://doi.org/10.1016/j.compedu.2016.11.003
+Carolus, A., Koch, M. J., Straka, S., Latoschik, M. E., & Wienrich, C. (2023). MAILS - Meta AI literacy 
+scale: Development and testing of an AI literacy questionnaire based on well-founded competency models and psychological change- and meta-competencies. Computers in Human Behavior: Artifi- cial Humans, 1(2), 100014. https://doi.org/10.1016/j.chbah.2023.100014
+Casal-Otero, L., Catala, A., Fernández-Morante, C., Taboada, M., Cebreiro, B., & Barro, S. (2023). AI 
+literacy in K-12: a systematic literature review. International Journal of STEM Education, 10(1), 29. https://doi.org/10.1186/s40594-023-00418-7
+Černý, M. (2024). University students’ conceptualisation of AI literacy: Theory and empirical evidence. 
+Social Sciences, 13(3), 129. https://doi.org/10.3390/socsci13030129
+Cetindamar, D., Kitto, K., Wu, M., Zhang, Y., Abedin, B., & Knight, S. (2022). Explicating AI literacy 
+of employees at digital workplaces. IEEE Transactions on Engineering Management, 71, 810–823. https://doi.org/10.1109/TEM.2021.3138503
+
+3 3
+Chahal, J., & Rani, N. (2022). Exploring the acceptance for e-learning among higher education students 
+in India: Combining technology acceptance model with external variables. Journal of Computing in Higher Education, 34(3), 844–867. https://doi.org/10.1007/s12528-022-09327-0
+Chan, C. K. Y., & Hu, W. (2023). Students’ voices on generative AI: Perceptions, benefits, and challenges in higher education. International Journal of Educational Technology in Higher Education, 20(1), 43. https://doi.org/10.1186/s41239-023-00411-8
+Chatterjee, S., & Bhattacharjee, K. K. (2020). Adoption of artificial intelligence in higher education: A 
+quantitative analysis using structural equation modelling. Education and Information Technologies, 25(5), 3443–3463. https://doi.org/10.1007/s10639-020-10159-7
+Chatterjee, S., Rana, N. P., & Dwivedi, Y. K. (2020). Social media as a tool of knowledge sharing in aca-
+demia: An empirical study using valance, instrumentality and expectancy (VIE) approach. Journal of Knowledge Management, 24(10), 2531–2552. https://doi.org/10.1108/JKM-04-2020-0252
+Chiu, T. K. (2024). Future research recommendations for transforming higher education with generative 
+AI. Computers and Education: Artificial Intelligence, 6, 100197. https://doi.org/10.1016/j.caeai.20 23.100197 
+Cohen, J., Cohen, P., West, S. G., & Aiken, L. S. (2013). Applied multiple regression/correlation analysis 
+for the behavioral sciences. Routledge. https://doi.org/10.4324/9780203774441
+Duong, C. D., Le, T. T., Dang, N. S., Do, N. D., & Vu, A. T. (2024). Unraveling the determinants of digital 
+entrepreneurial intentions: Do performance expectancy of artificial intelligence solutions matter? Journal of Small Business and Enterprise Development, 31(7), 1327–1356. https://doi.org/10.1108/ JSBED-02-2024-0065 
+Erdmann, A., & Toro-Dupouy, L. (2025). The influence of the institutional environment on AI adoption 
+in universities: Identifying value drivers and necessary conditions. European Journal of Innovation Management, 28(9), 4365–4398. https://doi.org/10.1108/EJIM-04-2024-0407
+Feng, S., & Carolus, A. (2026). Artificial intelligence literacy at school: A systematic review with a focus 
+on psychological foundations. Computers and Education: Artificial Intelligence, 10, 100551. https:/ /doi.org/10.1016/j.caeai.2026.100551 
+Galindo-Domínguez, H., Delgado, N., Campo, L., & Losada, D. (2024). Relationship between teachers’ 
+digital competence and attitudes towards artificial intelligence in education. International Journal of Educational Research, 126, 102381. https://doi.org/10.1016/j.ijer.2024.102381
+Getenet, S., Cantle, R., Redmond, P., & Albion, P. (2024). Students’ digital technology attitude, literacy 
+and self-efficacy and their effect on online learning engagement. International Journal of Educa-
+tional Technology in Higher Education, 21(1), 3. https://doi.org/10.1186/s41239-023-00437-y
+Gursoy, D., Chi, O. H., Lu, L., & Nunkoo, R. (2019). Consumers acceptance of artificially intelligent 
+(AI) device use in service delivery. International Journal of Information Management, 49, 157–169. 
+https://doi.org/10.1016/j.ijinfomgt.2019.03.008
+Habibi, A., Muhaimin, M., Danibao, B. K., Wibowo, Y. G., Wahyuni, S., & Octavia, A. (2023). ChatGPT 
+in higher education learning: Acceptance and use. Computers and Education: Artificial Intelligence, 5, 100190. https://doi.org/10.1016/j.caeai.2023.100190
+Holm, P. (2024). Impact of digital literacy on academic achievement: Evidence from an online anatomy 
+and physiology course. E-Learning and Digital Media, 22(2), 139–155. https://doi.org/10.1177/204 27530241232489 
+Hu, L., & Bentler, P. M. (1999). Cutoff criteria for fit indexes in covariance structure analysis: Conven-
+tional criteria versus new alternatives. Structural equation modeling: a multidisciplinary journal, 6(1), 1–55. https://doi.org/10.1080/10705519909540118
+Imran, M., & Almusharraf, N. (2023). Analyzing the role of ChatGPT as a writing assistant at higher 
+education level: A systematic review of the literature. Contemporary Educational Technology, 15(4), 464. https://doi.org/10.30935/cedtech/13605
+Ivanov, S., Soliman, M., Tuomi, A., Alkathiri, N. A., & Al-Alawi, A. N. (2024). Drivers of generative AI 
+adoption in higher education through the lens of the Theory of Planned Behaviour. Technology in Society, 77, 102521. https://doi.org/10.1016/j.techsoc.2024.102521
+Jang, M. (2024). AI literacy and intention to use text-based genai for learning: The case of business stu-
+dents in Korea. Informatics, 11(3), 54. https://doi.org/10.3390/informatics11030054
+Kandlhofer, M., Steinbauer, G., Hirschmugl-Gaisch, S., & Huber, P. (2016). Artificial intelligence and 
+computer science in education: From kindergarten to university. 2016 IEEE Frontiers in Education  Conference, 1–9. https://doi.org/10.1109/FIE.2016.7757570
+
+Education and Information Technologies
+Kanwal, F., & Rehman, M. (2017). Factors affecting e-learning adoption in developing countries–empiri-
+cal evidence from Pakistan’s higher education sector. Ieee Access : Practical Innovations, Open Solutions, 5, 10968–10978. https://doi.org/10.1109/ACCESS.2017.2714379
+Karahanna, E., Xu, S., Xu, Y., & Zhang, A. (2018). The needs–affordances–features perspective for the 
+use of social media. MIS Quarterly: Management Information Systems, 42, 737–756. https://doi.org /10.25300/MISQ/2018/11492 
+Kelly, S., Kaye, S. A., & Oviedo-Trespalacios, O. (2023). What factors contribute to the acceptance of 
+artificial intelligence? A systematic review. Telematics and Informatics, 77, 101925. https://doi.org/ 10.1016/j.tele.2022.101925 
+Khalifa, M., & Albadawy, M. (2024). Using artificial intelligence in academic writing and research: An 
+essential productivity tool. Computer Methods and Programs in Biomedicine Update, 5, 100145. https://doi.org/10.1016/j.cmpbup.2024.100145
+Kong, J., Liu, J., Chen, G., & Shang, W. (2025). Assessing AI literacy in college students: The mediating 
+role of self-efficacy in motivational commitment pathways. Education and Information Technolo- gies, 30(16), 23957–23979. https://doi.org/10.1007/s10639-025-13753-9
+Laupichler, M. C., Aster, A., Schirch, J., & Raupach, T. (2022). Artificial intelligence literacy in higher 
+and adult education: A scoping literature review. Computers and Education: Artificial Intelligence, 3, 100101. https://doi.org/10.1016/j.caeai.2022.100101
+Lee, H. P., Sarkar, A., Tankelevitch, L., Drosos, I., Rintel, S., Banks, R., & Wilson, N. (2025). The impact 
+of generative AI on critical thinking: Self-reported reductions in cognitive effort and confidence effects from a survey of knowledge workers. Proceedings of the 2025 CHI Conference on Human  Factors in Computing Systems, 1121, 1–22. https://doi.org/10.1145/3706598.3713778
+Li, K. (2023). Determinants of college students’ actual use of AI-based systems: An extension of the tech-
+nology acceptance model. Sustainability, 15(6). https://doi.org/10.3390/su15065221
+Lin, X. F., Zhou, Y., Shen, W., Luo, G., Xian, X., & Pang, B. (2024). Modeling the structural relation-
+ships among Chinese secondary school students’ computational thinking efficacy in learning AI, AI literacy, and approaches to learning AI. Education and Information Technologies, 29(5), 6189–6215. https://doi.org/10.1007/s10639-023-12029-4
+Litalien, D., Guay, F., & Morin, A. J. S. (2015). Motivation for PhD studies: Scale development and vali-
+dation. Learning and Individual Differences, 41, 1–13. https://doi.org/10.1016/j.lindif.2015.05.006 Lo, C. K., Hew, K. F., & Jong, M. S. (2024). The influence of ChatGPT on student engagement: A system-
+atic review and future research agenda. Computers & Education, 219, 105100. https://doi.org/10.10 
+16/j.compedu.2024.105100 
+Long, D., & Magerko, B. (2020). What is AI literacy? Competencies and design considerations. Proceed-
+ings of the 2020 CHI conference on human factors in computing systems, 1–16. https://doi.org/10.1 145/3313831.3376727 
+Ma, X., & Huo, Y. (2023). Are users willing to embrace ChatGPT? Exploring the factors on the acceptance of chatbots from the perspective of AIDUA framework. Technology in Society, 75, 102362. https://d 
+o i.org/10.1016/j.techsoc.2023.102362 
+Mainhard, T., van der Rijst, R., van Tartwijk, J., & Wubbels, T. (2009). A model for the supervisor-doctoral 
+student relationship. Higher Education, 58(3), 359–373. https://doi.org/10.1007/s10734-009-9199-8 Ng, D. T. K., Leung, J. K. L., Chu, S. K. W., & Qiao, M. S. (2021). Conceptualizing AI literacy: An 
+exploratory review. Computers and Education: Artificial Intelligence, 2, 100041. https://doi.org/10. 
+1016/j.caeai.2021.100041 
+Ng, D. T. K., Leung, J. K. L., Su, J., Ng, R. C. W., & Chu, S. K. W. (2023). Teachers’ AI digital competen-
+cies and twenty-first century skills in the post-pandemic world. Educational technology research and development, 71(1), 137–161. https://doi.org/10.1007/s11423-023-10203-6
+Ng, D. T. K., Wu, W., Leung, J. K. L., Chiu, T. K. F., & Chu, S. K. W. (2024). Design and validation of the 
+AI literacy questionnaire: The affective, behavioural, cognitive and ethical approach. British Journal of Educational Technology, 55(3), 1082–1104. https://doi.org/10.1111/bjet.13411
+Nikou, S., & Aavakare, M. (2021). An assessment of the interplay between literacy and digital technology in higher education. Education and Information Technologies, 26(4), 3893–3915. https://doi.org/10 .1007/s10639-021-10451-0 
+Olmos Raya, E., Cavalcanti, J., Contero, M., Castellanos, M., Alice, I., Giglioli, C., I., & Alcañiz Raya, M. 
+(2018). Mobile virtual reality as an educational platform: a pilot study on the impact of immersion and positive emotion induction in the learning process. Eurasia Journal of Mathematics Science and Technology Education, 14. https://doi.org/10.29333/ejmste/85874
+
+4 4
+Özer, M., Alper, Ö.,and, & Koçak, A. (2023). Identification and emotional attachment in higher education: 
+Antecedents and consequences. Journal of Marketing for Higher Education, 33(2), 264–288. https:/ /doi.org/10.1080/08841241.2021.1936744 
+Peters, M. A., & Besley, T. (2018). China’s double first-class university strategy: 双一流 . Educational 
+Philosophy and Theory, 50(12), 1075–1079. https://doi.org/10.1080/00131857.2018.1438822
+Pinto, M., & Leite, C. (2020). Digital technologies in support of students learning in higher education: Lit-
+erature review. Digital education review, (37), 343–360. https://doi.org/10.1344/der.2020.37.343-360 Podsakoff, P. M., & Organ, D. W. (1986). Self-reports in organizational research: Problems and prospects. 
+Journal of Management, 12(4), 531–544. https://doi.org/10.1177/014920638601200408
+Putnick, D. L., & Bornstein, M. H. (2016). Measurement invariance conventions and reporting: The state 
+of the art and future directions for psychological research. Developmental review, 41, 71–90. https:/ /doi.org/10.1016/j.dr.2016.06.004 
+Şahin, F., Doğan, E., İlic, U., & Şahin, Y. L. (2021). Factors influencing instructors’ intentions to use infor-
+mation technologies in higher education amid the pandemic. Education and Information Technolo- gies, 26, 4795–4820. https://doi.org/10.1007/s10639-021-10497-0
+Saif, N., Khan, S. U., Shaheen, I., Alotaibi, F. A., Alnfiai, M. M., & Arif, M. (2024). Chat-GPT; validating 
+Technology Acceptance Model (TAM) in education sector via ubiquitous learning mechanism. Com- puters in Human Behavior, 154, 108097. https://doi.org/10.1016/j.chb.2023.108097
+Sari, A. (2024). Exploring the relationship between digital literacy skills and student success in online 
+science courses in indonesia. International Journal of Online and Distance Learning, 5, 30–40. http s://doi.org/10.47604/ijodl.2746 
+Sawang, S., Sun, Y., & Salim, S. A. (2014). It’s not only what I think but what they think! The moderating 
+effect of social norms. Computers & Education, 76, 182–189. https://doi.org/10.1016/j.compedu.20 14.03.017 
+Shamsuddinova, S., Heryani, P., & Naval, M. A. (2024). Evolution to revolution: critical exploration of 
+educators’ perceptions of the impact of Artificial Intelligence (AI) on the teaching and learning pro- cess in the GCC region. International Journal of Educational Research, 125, 102326. https://doi.or g/10.1016/j.ijer.2024.102326 
+Teo, T. (2009). Modelling technology acceptance in education: a study of pre-service teachers. Computers 
+& Education, 52(2), 302–312. https://doi.org/10.1016/j.compedu.2008.08.006
+Teo, T., & Noyes, J. (2014). Explaining the intention to use technology among pre-service teachers: A 
+multi-group analysis of the Unified Theory of Acceptance and Use of Technology. Interactive Learn- ing Environments, 22(1), 51–66. https://doi.org/10.1080/10494820.2011.641674
+Teo, T., Zhou, M., & Noyes, J. (2016). Teachers and technology: Development of an extended theory of 
+planned behavior. Educational technology research and development, 64, 1033–1052. https://doi.or g/10.1007/s11423-016-9446-5 
+Thorp, H. H. (2023). ChatGPT is fun, but not an author. Science, 379(6630), 313–313. https://doi.org/10. 
+1126/science.adg7879 
+Tully, S., Longoni, C., & Appel, G. (2025). Lower artificial intelligence literacy predicts greater AI recep-
+tivity. Journal of Marketing, 89(5), 1–20. https://doi.org/10.1177/00222429251314491 Vargas-Murillo, A. R., de la Asuncion, I. N. M., & de Jesús Guevara-Soto, F. (2023). Challenges and 
+opportunities of AI-assisted learning: A systematic literature review on the impact of ChatGPT usage 
+in higher education. International Journal of Learning Teaching and Educational Research, 22(7), 
+122–135. & de Jesús Guevara-Soto https://doi.org/10.26803/ijlter.22.7.7 
+Venkatesh, V., Morris, M. G., Davis, G. B., & Davis, F. D. (2003). User acceptance of information tech-
+nology: Toward a unified view. MIS Quarterly, 27(3), 425–478. https://doi.org/10.2307/30036540 Venkatesh, V., Brown, S. A., Maruping, L. M., & Bala, H. (2008). Predicting different conceptualizations 
+of system use: The competing roles of behavioral intention, facilitating conditions, and behavioral 
+expectation. MIS Quarterly, 32(3), 483–502. https://doi.org/10.2307/25148853
+Venkatesh, V., Thong, J. Y., & Xu, X. (2016). Unified theory of acceptance and use of technology: A syn-
+thesis and the road ahead. Journal of the Association for information systems, 17(5), 328–376. https ://doi.org/10.17705/1jais.00428 
+Vesna, L. (2025). Digital divide in AI-powered education: challenges and solutions for equitable learning. 
+Journal of Information Systems Engineering and Management, 10, 300–308. https://doi.org/10.527 83/jisem.v10i21s.3327 
+Vlachogianni, P., & Tselios, N. (2022). Perceived usability evaluation of educational technology using the 
+System Usability Scale (SUS): A systematic review. Journal of Research on Technology in Educa- tion, 54(3), 392–409. https://doi.org/10.1080/15391523.2020.1867938
+
+Education and Information Technologies
+Walter, Y. (2024). Embracing the future of Artificial Intelligence in the classroom: The relevance of AI lit-
+eracy, prompt engineering, and critical thinking in modern education. International Journal of Edu-
+cational Technology in Higher Education, 21(1), 15. https://doi.org/10.1186/s41239-024-00448-3 Wang, C., & Yin, H. (2025). How do Chinese undergraduates harness the potential of appraisal and emo-
+tions in generative AI-Powered learning? A multigroup analysis based on appraisal theory. Comput-
+ers & Education, 228, 105250. https://doi.org/10.1016/j.compedu.2025.105250
+Xu, J. J., & Babaian, T. (2021). Artificial intelligence in business curriculum: The pedagogy and learning 
+outcomes. The International Journal of Management Education, 19(3), 100550. https://doi.org/10.1 016/j.ijme.2021.100550 
+Xu, R., Sun, Y., Ren, M., Guo, S., Pan, R., Lin, H., Sun, L., & Han, X. (2024). AI for social science and 
+social science of AI: A survey. Information Processing and Management, 61(3), 25. https://doi.org/ 10.1016/j.ipm.2024.103665 
+Xue, L., Rashid, A. M., & Ouyang, S. (2024). The Unified Theory of Acceptance and Use of Technol-
+ogy (UTAUT) in higher education: A systematic review. SAGE Open, 14(1), 21582440241229570. https://doi.org/10.1177/21582440241229570
+Yao, N., & Wang, Q. (2024). Factors influencing pre-service special education teachers’ intention toward 
+AI in education: Digital literacy, teacher self-efficacy, perceived ease of use, and perceived useful- ness. Heliyon, 10(14). https://doi.org/10.1016/j.heliyon.2024.e34894
+Zheng, G., Shen, W., & Cai, Y. (2018). Institutional logics of Chinese doctoral education system. Higher 
+Education, 76(5), 753–770. https://doi.org/10.1007/s10734-018-0236-3
+Publisher’s note  Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and appli- cable law.
+Authors and Affiliations
+XuqiChen1,2· SanfaCai1,3· HaoYao4
+  Sanfa Cai
+csf@tongji.edu.cn
+Xuqi Chen
+xuqi.chen@tuni.fi
+Hao Yao
+yaohao@tongji.edu.cn
+1	 School of Economics and Management, Tongji University, 4800 Cao’an Road, Jiading District, Shanghai, China
+2	 Faculty of Management and Business, Tampere University, Tampere, Finland
+3	 Institute of Higher Education, Tongji University, Shanghai, China
+4	 Faculty of Education, East China Normal University, Shanghai, China
+3 3

@@ -1,0 +1,486 @@
+﻿
+Received: 21 July 2024  |  Accepted: 23 April 2025
+DOI: 10.1002/berj.4185  
+O R I G I N A L A R T I C L E 
+Linking students' grit and academic engagement: Mediating role of academic motivation and self-regulated learning
+Paul Obeng1  |   Medina Srem-Sai2  |   Iddrisu Salifu3,4  |   Mustapha Amoadu5  |   Francis Arthur6  |   Edmond 
+Kwesi Agormedah6  |   John Elvis Hagan Jr7,8  |   Thomas Schack8
+
+1Department of Public Health and Health Promotion, Robert Gordon University, Aberdeen, UK
+2Department of Health, Physical Education, Recreation and Sports, University of Education, Winneba, Ghana
+3School of Economics, University of Cape Coast, Cape Coast, Ghana
+4Centre for Coastal Management – Africa Centre of Excellence in Coastal Resilience, Department of Fisheries and Aquatic Sciences, University of Cape Coast, Cape Coast, Ghana
+5Biomedical and Clinical Research Centre, University of Cape Coast, Cape Coast, Ghana
+6Department of Business and Social Sciences Education, Faculty of Humanities and Social Sciences Education, University of Cape Coast, Cape Coast, Ghana
+7Department of Health, Physical Education and Recreation, University of Cape Coast, Cape Coast, Ghana
+8Neurocognition and Action – Biomechanics Research Group, Faculty of Psychology and Sports Science, Bielefeld University, Bielefeld, Germany
+Correspondence
+John Elvis Hagan Jr, Department of Health, Physical Education and Recreation, University of Cape Coast, Cape Coast, Ghana.
+Email: elvis.hagan@ucc.edu.gh
+Funding information
+Abstract
+The study investigated the relationships between stu- dents'  grit,  academic  engagement,  motivation  and self-regulated  learning  (SRL).  It  explored  the  me- diating role of academic motivation and SRL in the relationship  between  students'  grit  and  academic engagement.  Understanding  these  dynamics  can help  educators  foster  environments  that  enhance student engagement through targeted interventions. A predictive correlational design was used to model the relationships among the variables. Stratified ran- dom sampling selected 190 senior high school stu- dents from the Kwahu Afram Plains District in Ghana. Data were collected using validated instruments: the University  Student  Engagement  Inventory  (USEI); Academic Grit Scale (AGS); Motivated Strategies for Learning Questionnaire (MSLQ); and Self-Regulated Learning  Scale  (SRLS).  Analysis  was  performed using partial least squares structural equation model- ling to handle non-normality in the data. The results indicated that academic grit positively influenced aca- demic motivation (β = 0.631, p < 0.001), academic en- gagement (β = 0.320, p = 0.001) and SRL (β = 0.756, p < 0.001).  Academic  motivation  and  SRL  partially mediated the relationship between grit and academic engagement. The model demonstrated strong reli- ability and validity, with significant indicator loadings and acceptable variance inflation factors, indicating 
+
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited. © 2025 The Author(s). British Educational Research Journal published by John Wiley & Sons Ltd on behalf of British Educational Research Association.
+Br Educ Res J. 2025;51:2511–2535.  wileyonlinelibrary.com/journal/berj |  2511
+
+2512  | Universitätsbibliothek Bielefeld
+OBENG et al .
+no multicollinearity issues. Grit significantly impacts academic engagement directly and indirectly through academic motivation and SRL. These findings high- light the importance of fostering grit, motivation and self-regulation in students to enhance their academic engagement. Hence, educators are encouraged to design  cognitive-behavioural  interventions  to  pro- mote these attributes in order to ultimately improve educational outcomes.
+K E Y W O R D S
+academic engagement, academic grit, academic motivation, self-regulated learning
+
+Key insights
+What is the main issue that the paper addresses?
+The study investigated the relationships between students' grit, academic engage- ment, motivation and self-regulated learning (SRL). It explored the mediating role of academic motivation and SRL in the relationship between students' grit and aca- demic engagement.
+What are the main insights that the paper provides?
+1. Academic grit had a positive influence on academic motivation.
+2. Academic grit significantly influenced academic engagement.
+3. Academic grit had a positive effect on self-regulated learning.
+4. Academic motivation had a positive influence on academic engagement.
+5. Self-regulated learning had a positive influence on academic engagement.
+6. Academic motivation partially mediates the positive influence academic grit had on academic engagement.
+7. Self-regulated learning partially mediates the positive influence academic grit had on academic engagement.
+INTRODUCTION
+Globally, there has been a concerted effort to improve the quality of education through increased  student  engagement,  enrolment  and  greater  students'  satisfaction  following Sustainable Development Goal 4 (SDG 4), which strives for inclusive and high-quality edu- cation for everyone (Arkorful et al., 2020; Jones et al., 2021; Žalėnienė & Pereira, 2021). While many regions have made significant strides, Sub-Saharan Africa (SSA) still faces considerable challenges in achieving these educational goals (Ainscow, 2020; Arkorful et al., 2020; UNICEF, 2021). Despite various interventions in SSA, issues such as low aca- demic engagement, low academic performance, high dropout rates and low attrition rate persist (Agormedah, 2020; Arkorful et al., 2020). For instance, in Ghana, the academic 
+
+STUDENTS' GRIT AND ACADEMIC MOTIVATION ON SELF- REGULATED LEARNING AND 
+ACADEMIC ENGAGEMENT  |  2535
+landscape has witnessed increasing concerns regarding student performance and engage- ment in educational activities, despite various educational reforms and interventions. Many students exhibit low levels of academic engagement, which can significantly hinder their academic success and long-term educational outcomes (Agormedah, 2020; Chanimbe & Dankwah, 2021; Kwegyiriba, 2021; Mohammed & Kuyini, 2021).
+Academic engagement is characterised by students' active participation in learning activ- ities, level of interest, effort, motivation, enthusiasm, cognitive and emotional investment in their studies (Eroğlu & Kaya, 2023; Finn & Zimmer, 2012; Fredricks et al., 2004). According to Fredricks et al. (2004), academic engagement encompasses behavioural, emotional and cognitive dimensions of involvement in learning activities. The behavioural dimension encompasses the activities in the classroom, including active class participation and vol- unteering (Fredricks et al., 2004). Emotional engagement refers to students' interests and reactions in the classroom. Cognitive engagement refers to dedication for learning and the ability to strategically plan the learning process (Fredricks et al., 2004). Higher engagement levels are correlated with improved academic outcomes, such as higher grades and per- sistence (Agormedah, 2020; Fredricks et al., 2004) and negatively related to dropout rates (Archambault et al., 2009). On the contrary, low academic engagement among students has led to academic failure, dropping out of school and the increase of negative emotions such as anxiety and depression (Leslie et al., 2010; Li & Lerner, 2011). Students' academic engagement is a critical component of institutional effectiveness and teacher quality. In recognition of its importance, many educational institutions have implemented measures to promote student engagement in learning.
+Students' engagement in learning can be influenced by several factors, including intelli- gence and socioeconomic background. However, recent research emphasises the role of non-cognitive factors such as grit, learning motivation and self-regulated learning (SRL) (Bandura, 2012; Duckworth et al., 2007; Pintrich, 2004). Academic grit is defined as perse- verance and passion for long-term academic goals. Grit has been conceptualised to con- tain two main dimensions: perseverance of effort and consistency of interest (Duckworth et al., 2007). Perseverance of effort pertains to enduring hardships, failures and adver- sities to achieve long-term goals, while consistency of interest entails sustaining interest in activities that lead to goal achievement (Duckworth & Quinn, 2009). Grit is positively associated with behavioural outcomes, including academic achievement and persistence, self-efficacy (Credé et al., 2017; Duckworth et al., 2007). Recent literature revealed that stu- dents' academic grit has a significant positive influence on learning engagement (Babiera 
+& Quirap, 2024; Datu et al., 2023; Hodge et al., 2018; Jeon et al., 2022; Zhao et al., 2024). Research suggests that grittier students are more likely to engage deeply in their studies, persist through challenges and achieve academic success (Credé et al., 2017). Students with high levels of grit are more likely to persist in their studies despite setbacks, making it a crucial predictor of sustained academic effort in resource-constrained environments (Eroğlu 
+& Kaya, 2023; Hoferichter & Raufelder, 2023). However, the direct influence of grit on aca- demic engagement in Ghanaian senior high education remains underexplored.
+The nexus between academic grit and academic engagement may be mediated by learn- ing motivation and SRL. Thus, both learning motivation and SRL may serve as the mech- anisms through which grit influences academic engagement. Academic motivation refers to the internal and external factors that drive students to learn and perform academically (Ryan & Deci, 2020). Academic motivation—whether intrinsic, driven by internal satisfaction and interest, or extrinsic, driven by external rewards like grades and recognition—also sig- nificantly influences how engaged students are in their academic work (Ryan & Deci, 2020; Shin & Bolkan, 2021). Motivation plays a crucial role in student engagement, influencing their willingness to participate in academic activities (Schunk & Zimmerman, 2012). According to Ryan and Deci (2000), intrinsic motivation fosters personal growth and engagement, while extrinsic motivation can encourage initial participation but may not sustain long-term in- volvement. Extant researchers have confirmed that academic motivation has a significant positive effect on academic engagement (Daumiller et al., 2021; Huang et al., 2023; Shao et al., 2024). Prior studies suggest that grittier students are often more motivated, which in turn enhances their engagement (Muenks et al., 2017). This study examines whether aca- demic motivation mediates the grit–engagement relationship among Ghanaian senior high students.
+SRL refers to the processes through which students take an active, purposeful role in managing their own academic efforts (Panadero, 2017; Schunk & Zimmerman, 2012). SRL, involving the strategies students use to plan, monitor and evaluate their learning, further enhances academic engagement by empowering students to take control of their educa- tional journeys (Schunk & Zimmerman, 2012; Teng & Zhang, 2020). Recent studies have demonstrated a positive relationship between SRL and learning engagement (Fokkens- Bruinsma et al., 2021; Park & Kim, 2022; Setiani & Wijaya, 2020; Zhao & Cao, 2023). Sallam et al. (2022) suggest that SRL should be encouraged as it may reinforce student motivation and engagement. This study investigates whether SRL mediates the relationship between grit and academic engagement.
+Study context and gaps
+In recent years, the academic landscape in Ghana has witnessed increasing concerns re- garding student performance and engagement in educational activities. Despite various educational reforms and interventions, such as competency-based education, instructional technology and active learning strategies, many students exhibit low levels of academic engagement, which significantly hinders their academic success and long-term educational outcomes (Ministry of Education, 2019). The Ghanaian education system presents a unique set of challenges, including large class sizes, limited learning resources and varying levels of teacher support. These factors can significantly impact students' motivation and self- regulation, making it essential to understand how grit contributes to academic engagement in this context. In remote and hard-to-reach areas like the Afram Plains in Ghana, students face significant challenges that hinder their academic performance and engagement, such as limited resources, high student–teacher ratios, socioeconomic barriers and dropout rates. These challenges make it difficult for students to maintain consistent academic performance and engagement (Shikalepo, 2020). Despite the importance of academic engagement, there is a significant gap in the literature on the factors that influence academic engagement among students in Ghana.
+Recent educational literature emphasises the importance of psychological attributes such as grit in enhancing students' engagement with academic activities (Babiera & Quirap, 2024; Credé et al., 2017; Datu et al., 2023; Duckworth et al., 2007; Duckworth & Quinn, 2009; Hodge et al., 2018; Zhao et al., 2024). However, despite the significance of grit in fostering academic engagement, there is a lack of substantial empirical re- search  addressing  how  grit  influences  engagement  among  Ghanaian  students,  par- ticularly in the context of local educational challenges and cultural beliefs. Substantial literature indicates academic motivation and SRL as critical mediators in understanding the relationship between grit and academic engagement (Daumiller et al., 2021; Fokkens- Bruinsma et al., 2021; Huang et al., 2023; Park & Kim, 2022; Setiani & Wijaya, 2020; Shao et al., 2024; Zhao & Cao, 2023). However, there remains a gap in understanding how they function in the Ghanaian educational landscape. Despite the recognised impor- tance of academic grit, motivation, engagement and SRL, these factors have received limited research attention in academic contexts in SSA (Anggraeni et al., 2024; Lam & Zhou, 2022). The influence of these factors on academic engagement among students in different cultural and academic settings needs further exploration. In such resource- constrained environments, academic engagement, grit, self-motivation and SRL become crucial for sustaining students' interest and success in school (Eroğlu & Kaya, 2023). This study examined the association between academic grit and engagement and also the mediating roles of academic motivation and SRL in this association.
+Given Ghana's status as a developing country, this study highlights how psychologi- cal constructs like grit and self-regulation function in educational systems with different infrastructural and economic constraints. This contributes to a broader understanding of education in diverse global contexts. By situating this study within Ghana, the find- ings contribute to the global discourse on student persistence and engagement, offer- ing insights into how grit functions in a non-Western, resource-constrained environment. This study integrates grit theory, self-determination theory and SRL to propose a novel framework explaining how grit translates into academic engagement through motivation and SRL. By employing quantitative methods to test these relationships in the Ghanaian context, the study provides empirical evidence that can be compared with findings from other regions, helping to assess the universality or context-specificity of these constructs. Understanding how grit, mediated by academic motivation and SRL, affects academic engagement can provide valuable insights for developing interventions to improve educa- tional outcomes in these challenging contexts. In Ghana, understanding these constructs becomes increasingly important given the relevance of educational attainment to national development. The study offers actionable insights for educators, curriculum developers and policymakers by identifying key drivers of student engagement. This can lead to tar- geted interventions, such as training programmes that foster self-regulation and intrinsic motivation among students.
+THEORETICAL FRAMEWORK
+This study is grounded in two theoretical frameworks: self-determination theory (SDT) and social cognitive theory (SCT). In the current study, SDT is used to explain learning motiva- tion and how it influences academic engagement. SDT proposes that human behaviour (i.e., student engagement in learning) is motivated by three innate psychological needs: autonomy, competence and relatedness (Deci & Ryan, 2000, 2017). SDT also proposes that motivation can be categorised into two types: intrinsic motivation and extrinsic motivation (Deci & Ryan, 2000, 2017). Intrinsic motivation refers to engaging in an activity for the sake of enjoyment or interest. Extrinsic motivation refers to engaging in an activity for external rewards or pressures. In the context of this study, SDT suggests that students' engagement in academic activities is influenced by their learning motivation (Deci & Ryan, 2017; Ryan 
+& Deci, 2000). For instance, students in the Afram Plains who are motivated intrinsically or extrinsically will be willing to engage in learning activities.
+Similarly, Bandura (1986) developed SCT, which posits that learning and behaviour (i.e., engagement in learning) occurs through the interaction of personal, behavioural and envi- ronmental factors. This theory proposes that personal factors, such as self-efficacy, influ- ence students' behaviour (i.e., academic engagement). Within this framework, both grit and SRL can be understood as a personal characteristic that influences how students approach their academic challenges. SRL, an essential aspect of SCT, includes tactics such as set- ting goals and monitoring oneself (Bandura, 1986; Zimmerman, 2002). In the context of this study, SCT suggests that students' learning grit and SRL influence their academic engage- ment. In this study, SCT is used to explain how grit and SRL, as personal factors, influence academic engagement.
+Hypothesis development
+Research has shown that grittier individuals are more likely to maintain their interest and effort in their goals despite setbacks and difficulties. Grit is positively associated with adaptive outcomes among youth and adults, such as general self-efficacy, work satis- faction, career retention and positive affect (Credé et al., 2017). Studies in various edu- cational settings have demonstrated a positive correlation between grit and academic engagement (Babiera & Quirap, 2024; Datu et al., 2023; Eroğlu & Kaya, 2023; Hodge et al., 2018; Muenks et al., 2017; Vahedi, 2022; Zhao et al., 2024), suggesting that stu- dents who exhibit higher levels of grit are more likely to be engaged in their academic activities. For example, Babiera and Quirap (2024) established a positive significant effect of grit on learning engagement. Moreover, evidence has shown that grit has a positive association with academic motivation (Akos & Kretchmar, 2017; Hayri & Gökalp, 2023; Hodge et al., 2018; Jehanghir et al., 2024; Liu, 2022) and self-directed learning (Akos & Kretchmar, 2017; Hodge et al., 2018; Martin et al., 2022; Wolters & Hussain, 2015). Hence, it was hypothesised that:
+H1.  Academic grit has a positive influence on academic motivation. H2.  Academic grit has a positive influence on academic engagement. H3.  Academic grit has a positive influence on self-regulated learning.
+Academic motivation and SRL are critical factors influencing academic engagement. Academic motivation, where students engage in learning activities for inherent satisfaction, has been shown to enhance engagement, characterised by increased participation and en- thusiasm (Karimi & Sotoodeh, 2020; Wu, 2019). Numerous studies have confirmed that academic motivation is positively related with academic engagement (Daumiller et al., 2021; Huang et al., 2023). Shao et al. (2024) found a positive significant relationship between learning motivation and learning engagement. Research has further shown that intrinsically motivated students exhibit higher academic engagement, learning satisfaction, and achieve- ment (Agormedah, 2025).
+SRL, involving goal setting, progress monitoring and behaviour adjustment, is essential for sustained academic engagement (Estévez et al., 2021). Effective use of SRL strategies cor- relates with better academic outcomes and higher engagement (Cleary & Zimmerman, 2012; Panadero, 2017). Researchers have found that SRL significantly predicts learning engage- ment (Fokkens-Bruinsma et al., 2021; Park & Kim, 2022; Setiani & Wijaya, 2020; Zhao & Cao, 2023). Thus, it was hypothesised that:
+H4.  Academic motivation has a positive influence on academic engagement. H5.  Self-regulated learning has a positive influence on academic engagement.
+Grit is linked to positive academic outcomes and sustained engagement (Steinmayr et al., 2018). However, the pathways through which grit influences engagement often involve academic motivation and SRL (Martin et al., 2022). Studies suggest that students with high grit levels develop intrinsic motivation, driven by an internal desire to learn and achieve, en- hancing their academic engagement (Anggraeni et al., 2024; Guo et al., 2023). Additionally, students with high grit are more likely to employ SRL strategies, such as goal setting and progress monitoring, which help maintain focus and motivation, leading to increased ac- ademic engagement (Theobald, 2021). Empirical evidence supports that SRL enhances the effectiveness of grit by providing tools to manage learning processes more effectively, resulting in sustained engagement and improved academic performance (Jiang et al., 2021; Theobald, 2021). Thus, academic motivation and SRL significantly mediate the relationship between grit and academic engagement, emphasising the importance of fostering these skills in students. Hence, the following hypotheses were formulated:
+H6.  Academic motivation mediates the positive influence academic grit has on academic engagement.
+H7.  Self-regulated learning mediates the positive influence academic grit has on academic engagement.
+Conceptual model
+Based on the existing literature reviewed, a conceptual model was developed to guide the study (presented in Figure 1).
+RESEARCH METHODS
+Research design and participants
+The study employed a predictive correlational design to model and understand the rela- tions that exist among students' grit and academic engagement, learning motivation and SRL. This design is deemed fit because of the use of quantitative variables in the predic- tion of relationships. A stratified random sampling technique was used to select 370 sen- ior high school (SHS) students from the Kwahu Afram Plains District of Ghana. First, the Kwahu North and South districts were put into separate strata and, within each stratum, three schools were randomly selected using the fishbowl approach. Finally, a random sam- ple of 370 SHS students was selected from the strata. Out of 370 questionnaires distributed, 
+
+FIGURE 1  Conceptual model. 
+Source: Author's construct. [Colour figure can be viewed at wileyonlinelibrary.com]
+only 190 of them were valid for analysis. Out of 190 SHS students, the majority were males (n = 102; 54%) with an average age of 17.8 (SD = 2.00). This mean age is an indication that the students are adolescents within the school-going age range. Most of the students are from rural areas (n = 110; 58%) while 80 (42%) of them are from urban areas.
+Measures
+Data were collected using measures adapted from the University Student Engagement Inventory (USEI; Maroco et al., 2016), Academic Grit Scale (AGS; Clark & Malecki, 2019), Motivated Strategies for Learning Questionnaire (MSLQ; Pintrich et al., 1993) and Self- Regulated Learning Scale (SRLS; Manganelli et al., 2015). Except for the demographic pro- files of the respondents, all the items on the questionnaire were rated using a five-point Likert scale ranging from strongly disagree (1) to strongly agree (5).
+Endogenous variable: Academic engagement
+Students' academic engagement was measured using items modified from the USEI (Maroco et al., 2016). The scale has 15 items with three sub-dimensions, namely behavioural en- gagement (BE), emotional engagement (EE) and cognitive engagement (CE). Some of the items are as follows: ‘I follow the school's rules’ (BE); ‘I like being at school’ (EE); and ‘I try to integrate the acquired knowledge in solving new problems’ (CE). The scale has been vali- dated using different cohorts, confirming the three-facture structure with sound psychometric properties (Assunção et al., 2020; She et al., 2023; Sinval et al., 2021). In this current study, the three-factor structure of the USEI has been confirmed with a high reliability coefficient (α = 0.843).
+Exogenous variable: Academic grit
+Students'  academic  grit  was  assessed  using  items  adapted  from  the  AGS  (Clark  & Malecki, 2019). The AGS is a novel measure of academic-specific grit. The AGS was adapted from the general grit scale (Duckworth et al., 2007; Duckworth & Quinn, 2009). The AGS has 10 items measuring three sub-scales (determination, resilience and focus). Some of the items for each dimension are: ‘I push myself to do my personal best in school’ (de- termination); ‘I complete my schoolwork no matter how difficult it is’ (resilience); and ‘Even when I could do something more fun, I give schoolwork my best effort’ (focus). The AGS demonstrated evidence of sound reliability and validity (Clark & Malecki, 2019) and was sup- ported by a recent validation study (Lin et al., 2024). The three-factor structure of the AGS was confirmed with a high reliability coefficient (α = 0.843).
+Mediating variable: Academic motivation
+Students' academic motivation was measured using items adapted from the MSLQ (Pintrich et al., 1993). The MSLQ was developed to measure the types of learning strategies and aca- demic motivation used by students. The scale has eight items assessing both the intrinsic and extrinsic learning motivation of students. Some of the items for each sub-scale are: ‘I choose assignments that I can learn from even if they don't guarantee a good grade’ (intrinsic motiva- tion) and ‘I want to get better grades in this class than most of the other students’ (extrinsic motivation). The MSLQ has been used among several groups of students with adequate validity and reliability (Chow & Chapman, 2017; Duncan & McKeachie, 2005; Erturan Ilker et al., 2014; Segura-Robles et al., 2021). The reported MSLQ reliability coefficient (α = 0.846) was high.
+Mediating variable: Self-regulated learning
+Students' SRL was assessed using adapted items from the SRLS (Manganelli et al., 2015). The SRLS has 15 items measuring five sub-dimensions: knowledge extraction (KE); knowl- edge networking (KN); knowledge practice (KP); knowledge critique (KC); and knowledge monitoring (KM). Some of the items for each sub-dimension are: ‘I make summaries of the most important things that I do’ (KE); ‘I look for connections between the different subjects that I study’ (KN); ‘I always repeat the most important concepts to learn them better’ (KP); ‘I try to develop my idea about the things that I study’ (KC); and ‘I try to be sure to understand well what I am studying’ (KM). The scale has provided adequate construct validity and inter- nal consistency (Manganelli et al., 2015). The study also reported a high reliability coefficient (α = 0.842) for the SRL inventory.
+Procedures for data collection
+Data were collected during 2 weeks in August 2023. Preceding data collection, ethical clearance, with reference number DAA/P.1/Vol.1/39, was obtained from the Ethical Review Board of the University of Education, Winneba, Ghana. A copy of this letter was distributed to headmasters of selected schools to seek permission and approval for data collection. This was done to also create rapport between the researchers, class teachers and respond- ents. During data collection, the purpose of the study was explained to the students. They were informed of the right to participate or withdraw from the study without any penalty. Respondents were assured of their confidentiality and anonymity. Also, respondents were encouraged to give an honest response to the items in the questionnaire and assured that any information provided would be used solely for academic purposes. In addition, the stu- dents were asked to sign a consent letter and for students under the age of 18, the school headmasters served as their proxy parents. After their consent, the questionnaire was dis- tributed to students with the help of research assistants who were briefed and trained on the questionnaire. These research assistants were postgraduate students with considerable experience in the research process. In all, 370 questionnaires were distributed to students, however, only 190 questionnaires were valid for analysis, giving a response rate of 51.35%. The average response rate was due to internal and external examinations at the time of the data collection exercise.
+Data analysis strategy
+The data were first analysed using WebPower and SPSS to assess skewness and kurtosis (univariate and multivariate) and common method bias (CMB), respectively. After cleaning the data according to the guidelines of Hair et al. (2022), the analysis was performed using SmartPLS 3 software (Cheah et al., 2023; Ringle et al., 2015). This software employs par- tial least squares structural equation modelling (PLS-SEM), which is effective in examining complex relationships between different latent variables, such as mediation effects, while maximising explained variance (Becker et al., 2023).
+RESULTS
+Preliminary results
+Univariate and Mardia's multivariate skewness and kurtosis
+The study assessed univariate and multivariate normality using skewness and kurtosis tests. While the univariate skewness (−1.271 to −0.944) and kurtosis (0.927 to 2.312) were within acceptable ranges (Byrne, 2010), the multivariate skewness (4.8225) and kurtosis (33.9904) (see Appendix A) exceeded the recommended thresholds (±1; ±20) (Grilo et al., 2024; Vaithilingam et al., 2024). Consequently, since the assumptions of normality were violated, PLS-SEM was employed to analyse the data.
+Common method bias
+To mitigate CMB, Harman's one-factor test (Fuller et al., 2016; Kock, 2020) and variance inflation factor (VIF) analysis (Hair et al., 2022) were conducted to assess the presence of CMB. The results of Harman's one-factor test showed that the first factor explained 36.55% (<40%) of the variance (Podsakoff et al., 2003) and all VIF values were less than 5 (see Table 1) (Hair et al., 2022), suggesting no violation of the CMB problem in this study.
+Assessment of measurement model
+The assessment of the measurement model evaluates the reliability and validity of the con- structs used in the study. Table 1 presents various metrics for four constructs: motivation, academic engagement, grit and SRL, each with seven items. All the indicators of each scale that had a factor loading below 0.50 were deleted from the analysis. Their deletion enhances the reliability coefficient and average variance extracted (AVE) (Hair et al., 2024). The in- dicator loadings (IL) for all items are above 0.60, indicating strong individual item reliability (Hair et al., 2024). Cronbach's alpha (α) values range from 0.842 to 0.846 (see Table 1), demonstrating high internal consistency (Hair et al., 2024). The rho_A and composite reli- ability (CR) values provide further support, all exceeding the threshold of 0.70, confirming the constructs' reliability. AVE values are above 0.50 (Hair et al., 2024), indicating adequate convergent validity. The VIFs for the outer model range from 1.311 to 2.585 (see Table 1), all below the critical value of 5, suggesting no multicollinearity issues. All p-values are highly significant (p < 0.001), affirming the statistical significance of the indicator loadings. Further, the indicators showed robust loadings on their respective constructs (see Appendix B). These results collectively affirm the robustness of the measurement model in terms of reli- ability and validity. Figure 2 shows the PLS-SEM algorithm results.
+Discriminant validity
+Discriminant validity refers to the extent to which a construct is truly distinct from other con- structs in a model, ensuring that it captures phenomena not explained by other variables. One method to assess discriminant validity is the heterotrait–monotrait (HTMT) ratio of cor- relations. According to Table 2, the HTMT ratios between constructs are all below the com- monly recommended threshold of 0.90 (Hair et al., 2024; Henseler et al., 2015), indicating acceptable discriminant validity. Specifically, the ratios between academic engagement and 
+TABLE 1  Construct reliability and validity.
+ 
+                                   No. of                                                                                           p- 
+Construct                          items      Item         IL          CA (α)     rho_A       CR         AVE       VIF              value
+                                                                                                                   OM
+Academic motivation                7          ACM11        0.706       0.846      0.850       0.883      0.520     1.695            ***
+(VIF = 1.842)                                 ACM12        0.716                                                   1.744            ***
+IM
+                                              ACM14        0.742                                                   1.833            ***
+                                              ACM26        0.704                                                   1.531            ***
+                                              ACM6         0.744                                                   1.746            ***
+                                              ACM7         0.696                                                   1.691            ***
+                                              ACM9         0.737                                                   1.775            ***
+Academic engagement                7          AE1          0.784       0.843      0.852       0.881      0.514     1.863            ***
+                                              AE10         0.743                                                   1.741            ***
+                                              AE11         0.671                                                   1.546            ***
+                                              AE13         0.725                                                   1.951            ***
+                                              AE14         0.716                                                   1.908            ***
+                                              AE4          0.621                                                   1.311            ***
+                                              AE8          0.749                                                   1.704            ***
+Academic grit                      7          AGS10        0.691       0.843      0.846       0.882      0.516     1.671            ***
+(VIF = 1.000–2.556)                           AGS4         0.689                                                   1.508            ***
+IM
+                                              AGS5         0.774                                                   1.919            ***
+                                              AGS6         0.744                                                   1.729            ***
+                                              AGS7         0.642                                                   1.390            ***
+                                              AGS8         0.708                                                   1.632            ***
+                                              AGS9         0.773                                                   1.890            ***
+Self-regulated learning            7          SRL1         0.781       0.842      0.845       0.881      0.514     2.034            ***
+(VIF = 2.585)                                 SRL10        0.739                                                   1.740            ***
+IM
+                                              SRL12        0.652                                                   1.432            ***
+                                              SRL2         0.734                                                   1.819            ***
+                                              SRL4         0.661                                                   1.549            ***
+                                              SRL7         0.706                                                   1.547            ***
+                                              SRL9         0.734                                                   1.667            ***
+Note: AVE, average variance extracted; CA (α), Cronbach's alpha; CR, composite reliability; IL, indicator loadings; VIF, variance inflation factor; VIFOM, outer model VIF.
+***p < 0.001.
+other constructs (grit, motivation, SRL) range from 0.766 to 0.800, while the highest HTMT ratio observed is 0.884 between grit and SRL (see Table 2). These values suggest that each construct measures a distinct aspect of the conceptual framework, supporting the discrimi- nant validity of the measurement model.
+Descriptive statistics of constructs
+Table  3  presents  the  descriptive  statistics  and  intercorrelations  among  academic engagement, grit, motivation and SRL. The mean values range from 4.11 (SRL) to 4.25 (grit), with standard deviations between 0.63 and 0.67, indicating moderate variability. The 
+
+FIGURE 2  Algorithm results from the PLS-SEM. [Colour figure can be viewed at wileyonlinelibrary.com]
+median values closely align with the means, and the interquartile range (IQR) remains consistent at 0.71 for all constructs. Skewness values are negative, suggesting a tendency toward higher scores, particularly for grit (−1.265) and academic engagement (−1.087), while kurtosis values indicate varying peakness, with grit (2.242) having the highest response concentration. Positive correlations exist among the constructs, with the highest observed between SRL and grit (0.741).
+Structural model evaluation
+Following an assessment of the reliability and validity of the measurement model, this study analysed the data to explore the relationships between the variables. A critical aspect of the evaluation is the detection of multicollinearity, which can occur when independent variables are highly correlated. To address this, VIFs were calculated. All VIFs were below 3, indicat- ing no significant multicollinearity concerns. A rigorous bootstrapping procedure of 10,000 resamples was used to calculate the significance of the structural paths. The results after bootstrapping are shown in Figure 3.
+The PLS-SEM bootstrapping results showed that all the direct path hypotheses were sup- ported. In Table 4, the results showed that AGT positively influenced MT (β = 0.631, p < 0.001, t = 11.299), AE (β = 0.320, p = 0.001, t = 3.409) and SRL (β = 0.756, p < 0.001, t = 19.750). The effect size (f 2) indicated that AGT had a small (f 2 = 0.098) to large (f 2 = 1.330) (Cohen, 1992) 
+TABLE 2  HTMT ratio.
+ 
+  Construct                            Academic engagement          Academic grit          Academic motivation         Self-regulated learning
+
+
+
+  0.748
+TABLE 3  Descriptive statistics of constructs.
+ 
+                                     Academic                     Academic               Academic                    Self-regulated 
+Construct                            engagement                   grit                   motivation                  learning
+Academic engagement                  1
+Academic grit                        0.672                        1
+Academic motivation                  0.647                        0.620                  1
+Self-regulated learning              0.653                        0.741                  0.633                       1
+Mean                                 4.22                         4.25                   4.21                        4.11
+SD                                   0.66                         0.63                   0.67                        0.66
+Median                               4.29                         4.43                   4.29                        4.14
+IQR                                  0.71                         0.71                   0.71                        0.71
+Skewness                             −1.087                       −1.265                 −1.155                      −0.895
+Kurtosis                             1.268                        2.242                  1.131                       0.720
+effect on the endogenous variables. In addition, MT had a significant positive effect on AE (β = 0.317, p < 0.001, t = 4.288). Again, SRL significantly influenced AE (β = 0.234, p = 0.004, t = 2.876). However, the magnitude of the effect of MT and SRL on AE was small (see Table 4). Moreover, the coefficient of determination (R2) value for SRL showed that AGT moderately explained 57.1% of the variation in SRL (Hair et al., 2019; Henseler et al., 2009). Additionally, AGT, MT and SRL accounted for 59.3% of the variance in AE. The R2 values for the structural model ranged from weak (R2 = 0.398) to moderate (R2 = 0.593) (see Table 4).
+Mediation analysis
+The bootstrapping procedure was used to examine the mediating role of MT and SRL in the relationship between AGT and AE. To assess the mediating effect, the method recom- mended by Nitzl et al. (2016) was adopted. The results are shown in Table 5. Specifically, MT partially mediated the positive effect of AGT on AE (β = 0.200,  p < 0.001,  t = 3.955). The positive effect of AGT on AE was also partially mediated by SRL (β = 0.177, p < 0.05, t = 2.830) (see Table 5).
+Assessment of the model's predictive power
+We assessed predictive relevance using the PLSpredict approach, as recommended by Shmueli et al. (2019) and Chin et al. (2020). According to Hair et al. (2022), a model dem- onstrates predictive quality if the Q2 predictive value is greater than zero. The test results showed that the Q2 values for the endogenous variables were all above zero (see Table 6), 
+
+FIGURE 3  Bootstrapping results from the PLS-SEM. [Colour figure can be viewed at wileyonlinelibrary.com] TABLE 4  Structural model.
+ 
+ Hypothesis        Construct        β          M          SD         t-value     p-value      LLBCI, 2.5%    ULBCI, 97.5% f2         R2
+ H1                AGT→MT           0.631      0.637      0.056      11.299      <0.001       0.501          0.725        0.661      0.398
+ H2                AGT→AE           0.320      0.319      0.094      3.409       0.001        0.135          0.502        0.098      0.593
+ H3                AGT→SRL          0.756      0.759      0.038      19.750      <0.001       0.661          0.817        1.330      0.571
+ H4                MT→AE            0.317      0.318      0.074      4.288       <0.001       0.174          0.463        0.134
+ H5                SRL→AE           0.234      0.235      0.081      2.876       0.004        0.067          0.390        0.052
+Abbreviations: AE, academic engagement; AGT, academic grit; M, sample mean; MT, motivation; SD, standard deviation; SRL, self-regulated learning.
+TABLE 5  Mediation results.
+ 
+  Hypothesis            Construct                 β            M            SD           t-value        p-value         2.5%         97.5%
+  H6                    AGT→MT→AE                 0.200        0.203        0.051        3.955          <0.001          0.105        0.303
+  H7                    AGT→SRL→AE                0.177        0.179        0.063        2.830          0.005           0.051        0.298
+TABLE 6  PLSpredict.
+ 
+ Indicator      PLS_ RMSE  Q2_predict         LM_ RMSE    Q2_predict        Q2_predict        RMSEPLS —RMSELM  Is RMSEPLS         Decision
+                            (indicator)                    (indicator)       (construct)                       < RMSELM?
+ AE8            0.756      0.370              0.780       0.331             0.469             −0.024           Yes                Large
+ AE10           0.861      0.221              0.873       0.199                               −0.012           Yes
+ AE13           0.916      0.138              0.940       0.092                               −0.024           Yes
+ AE11           0.846      0.107              0.865       0.066                               −0.019           Yes
+ AE1            0.635      0.389              0.653       0.354                               −0.018           Yes
+ AE14           0.813      0.138              0.830       0.102                               −0.017           Yes
+ AE4            0.828      0.216              0.866       0.143                               −0.038           Yes
+ ACM9           0.859      0.223              0.831       0.273             0.382             0.028            No                 Medium
+ ACM12          0.884      0.124              0.903       0.085                               −0.019           Yes
+ ACM26          0.897      0.238              0.908       0.219                               −0.011           Yes
+ ACM14          0.882      0.159              0.915       0.094                               −0.033           Yes
+ ACM6           0.734      0.279              0.764       0.219                               −0.030           Yes
+ ACM11          0.839      0.146              0.872       0.077                               −0.033           Yes
+ ACM7           0.807      0.174              0.771       0.245                               0.036            No
+ SRL1           0.738      0.299              0.732       0.310             0.559             0.006            No                 Medium
+ SRL2           0.756      0.256              0.774       0.220                               −0.018           Yes
+ SRL4           0.850      0.199              0.875       0.151                               −0.025           Yes
+ SRL7           0.775      0.288              0.818       0.207                               −0.043           Yes
+ SRL9           0.656      0.362              0.662       0.351                               −0.006           Yes
+ SRL10          0.774      0.291              0.787       0.267                               −0.013           Yes
+ SRL12          0.959      0.256              0.982       0.221                               −0.023           Yes
+Abbreviations: LM, linear model; PLS, partial least squares; RMSE, root mean squared error.
+ranging from 0.382 (medium) to 0.559 (large), indicating the strong predictive power of these variables. A higher Q2 predictive value indicates better predictive power. In addition, all AE 
+indicators had smaller prediction errors in the PLS-SEM-based prediction compared to the linear model (LM) scores, highlighting the robust predictive ability of the model. Conversely, not all MT and SRL indicators showed smaller prediction errors in the PLS-SEM-based prediction than in the LM, indicating that the model has medium predictive power for these constructs.
+Revised conceptual model
+Figure 4 shows the revised conceptual model of the study based on the results of the hypotheses.
+DISCUSSION
+This study investigated the complex relationships between student grit, academic motivation, SRL and academic engagement among SHS students in the Kwahu Afram Plains District of Ghana. Utilising theoretical frameworks from SDT and SCT, this study underscores the 
+
+FIGURE 4  Revised conceptual model. 
+Source: Author's construct. [Colour figure can be viewed at wileyonlinelibrary.com]
+significance of these factors in enhancing educational outcomes. The findings reveal that academic grit positively influences both academic motivation (H1) and engagement (H2), aligning with Duckworth et al.'s (2007) assertion that perseverance and passion for long- term goals are essential for academic success. This result is supported by recent studies, including those by Muenks et al. (2017), Vahedi (2022) and Eroğlu and Kaya (2023), which also report a positive correlation between grit and academic engagement. Additionally, the study demonstrates that grit significantly impacts SRL, validating H3. This finding is con- sistent with Zimmerman's (2002) SCT framework, which highlights the pivotal role of self- regulation in academic achievement.
+Further evidence from Wolters and Hussain (2015) and Martin et al. (2022) underscores the importance of self-regulation in academic success. Moreover, the study found that aca- demic motivation directly and positively influences the academic engagement of Ghanaian SHS students, thereby confirming H4. This finding aligns with SDT, which highlights intrinsic and extrinsic motivations as key drivers of students' active participation in their learning processes (Ryan & Deci, 2000). It suggests that academic motivation significantly impacts academic engagement, underscoring the importance of both intrinsic and extrinsic motiva- tions in fostering active participation in academic tasks. Previous research supports these findings, indicating that motivated students tend to exhibit higher levels of engagement and achievement (Froiland & Worrell, 2016; Karimi & Sotoodeh, 2020; Wu, 2019).
+Additionally, SRL positively influences academic engagement (H5), in line with SCT (Bandura, 1991). This theory emphasises that self-efficacy and proactive learning strate- gies are crucial for enhancing students' academic engagement. This finding is supported by previous research, which consistently shows that SRL positively impacts academic en- gagement by highlighting the importance of self-efficacy and proactive strategies. For in- stance, Cleary and Zimmerman (2012) and Panadero (2017) demonstrated that effective self-regulation, including goal setting and progress monitoring, is essential for sustained engagement and improved academic outcomes. While grit is shown to positively affect ac- ademic engagement, our study delved into a more nuanced interaction by emphasising the mediating roles of academic motivation and SRL. This insight is particularly pertinent for marginalised regions in developing countries, such as Ghana, where students face consid- erable educational challenges, including limited resources and suboptimal teaching quality.
+Academic motivation and SRL are pivotal for enhancing students' resilience and growth mindset, which in turn fosters higher levels of academic engagement and improves educa- tional outcomes. The study reveals that academic motivation partially mediates the relation- ship between grit and academic engagement (H6), indicating that motivational processes enhance the direct impact of grit on engagement. Similarly, SRL also partially mediates this relationship (H7), underscoring the vital role of self-regulation. These findings align with previous research, which demonstrates that students with high levels of grit tend to develop intrinsic motivation and employ SRL strategies, such as goal setting and progress monitor- ing, to sustain engagement and improve performance (Jiang et al., 2021; Martin et al., 2022; Theobald, 2021). Consequently, higher levels of motivation and self-regulation amplify the effects of grit on academic engagement.
+Strengths and limitations
+A key strength of the present study is its use of a predictive correlational design with the PLS-SEM approach. This method effectively models the relationships between grit, motiva- tion, SRL and engagement among SHS students. Additionally, the stratified random sam- pling technique used ensures that the sample is representative of both rural and urban settings, thereby enhancing the generalisability of the findings. However, the study also has limitations. The reliance on self-reported data may introduce biases, such as response bias, potentially affecting the accuracy of the results. Furthermore, the cross-sectional design limits the ability to make causal inferences. This study conceptualised SRL within Bandura's SCT instead of Zimmerman's SCT, and this may not fully capture the complexities of SRL. Also, Bandura's SCT may not explicitly address metacognition processes such as planning, monitoring and evaluating, which are crucial for SRL. Accordingly, the findings should be interpreted with caution. Future research should address these limitations by employing lon- gitudinal designs to gain a deeper understanding of causal relationships and to mitigate the biases associated with self-reported data.
+Implications
+This study enhances a clearer understanding of the factors influencing students' academic engagement in developing countries. By integrating the SDT and SCT, it clarifies the medi- ating roles of academic motivation and SRL in the relationship between grit and academic engagement. This integration provides both theoretical and practical insights, as discussed below.
+Theory implications
+This study makes a significant theoretical contribution by advancing a clearer understanding of the intricate relationships between student grit, academic motivation, SRL and academic engagement among SHS students, particularly in marginalised districts such as the Afram Plains in Ghana. By applying SDT and SCT, this study integrates two prominent theoretical frameworks  to  explain  the  relationship  between  grit,  motivation,  SRL  and  academic engagement. By applying SDT and SCT, this study provides a nuanced understanding of the psychological mechanisms underlying the relationship between grit and academic engagement. Grounded in SDT and SCT, the research affirms that grit enhances both academic motivation and engagement, supporting the view that perseverance and passion for long-term goals are crucial for academic success. The findings also align with SCT by demonstrating that grit positively influences SRL—a critical factor in academic achievement. Moreover, the study reveals the mediating roles of academic motivation and SRL, showing that grit indirectly fosters academic engagement through these mediators. These theoretical insights are especially valuable for developing effective educational strategies in resource- limited settings. The outcomes emphasise the importance of nurturing both motivation and self-regulation while focusing on grit as a key driver to enhance student engagement and improve academic outcomes.
+Practical implications
+This study provides actionable insights for educators and policymakers aiming to enhance academic engagement in marginalised districts like the Afram Plains in Ghana. The findings have implications for educational practice, particularly for students in remote or underserved areas like the Afram Plains, who face educational challenges such as limited resources and suboptimal teaching quality. First, recognising the positive link between academic grit and motivation, educational programmes could emphasise developing students' perseverance and long-term goals. This goal can be achieved through specialised grit training workshops. These workshops could target goal-setting exercises, perseverance-building activities, self- reflection and self-awareness, mindset training, role modelling and mentorship. Second, given the crucial role of grit in SRL, it is important to integrate self-regulation strategies into the curriculum. These strategies include goal setting, progress monitoring and self- reflection techniques.
+In the Ghanaian context, grit and self-regulation may manifest differently due to cultural and socioeconomic factors. For instance, Ghanaian students may demonstrate grit by persevering through challenges such as limited access to resources, inadequate infrastructure and soci- etal expectations. In this context, grit may involve adapting to unfamiliar situations, seeking out opportunities for learning and maintaining motivation despite obstacles. To develop grit and self-regulation among students in Ghana, educators and policymakers could consider the following strategies: (a) incorporate local values, customs and experiences into teaching practices to make learning more relevant and engaging; (b) teach students to adapt to limited resources and find creative solutions to problems; (c) pair students with role models who can provide guidance, support and motivation, and encourage students to apply what they have learned in real-world settings, such as through service- learning projects or internships.
+Third, since academic motivation directly impacts engagement, teachers are encouraged to employ strategies that enhance intrinsic and extrinsic motivation. This pathway can be achieved by providing meaningful learning experiences, recognising achievements and of- fering students greater autonomy in their learning activities. In addition, the study's finding that SRL enhances engagement underscores the need for teaching approaches that pro- mote self-efficacy and proactive learning. Educators are encouraged to focus on develop- ing students' self-regulation skills through structured cognitive-behavioural activities that emphasise planning, organisation and self-evaluation. Addressing these factors can signifi- cantly improve academic engagement and educational outcomes for students in remote and underserved regions.
+Conclusions
+This research, focusing on SHS students in the Kwahu Afram Plains District of Ghana, re- vealed how grit influences academic engagement indirectly through academic motivation and SRL. Current findings highlight the importance of grit and also suggest a more complex relationship than the traditionally assumed direct link between grit and engagement. The findings emphasise the mediating roles of academic motivation and SRL. This outcome underscores the essential roles of both intrinsic and extrinsic motivation, self-efficacy and proactive learning strategies in enhancing academic engagement. This insight is particularly relevant for students in remote or underserved areas who face educational challenges such as limited resources and suboptimal teaching quality. Educators and policymakers in Ghana can leverage these findings to improve academic engagement by implementing strategies that foster motivation and SRL, thereby promoting a growth mindset and grit among SHS students. Overall, this research not only contributes to the theoretical understanding of these dynamics but also offers practical recommendations for improving academic performance and achieving quality educational outcomes, in line with SDG 4.
+ACKNOWLEDGEMENTS
+The authors sincerely thank the headmasters, teachers and students of the sampled SHS schools in Donkorkrom, Maame Krobo and Tease for supporting the data-collection exer- cise. Open Access funding enabled and organized by Projekt DEAL.
+FUNDING INFORMATION
+This study received no funding. However, the authors sincerely thank Bielefeld University, Germany for providing financial support through the Institutional Open Access Publication Fund organized by Projekt DEAL for the article processing charge (APC).
+CONFLICT OF INTEREST STATEMENT The authors declare no conflict of interest.
+DATA AVAILABILITY STATEMENT
+Anonymised data are available upon reasonable request through the corresponding author.
+ETHICS STATEMENT
+This study was approved by the Ethical Review Board of the University of Education, Winneba, Ghana with reference number DAA/P.1/Vol.1/39. All methods and standard proce- dures were carried out in accordance with relevant guidelines and regulations under the 6th edition of the Declaration of Helsinki.
+CONSENT
+Informed consent, parental consent and child assent were solicited from adolescents 18 years or above and children below 18 years, respectively, using a verbal and written agreement.
+ORCID
+Paul Obeng  https://orcid.org/0000-0002-5564-9240 Medina Srem-Sai  https://orcid.org/0000-0002-7623-1126 Iddrisu Salifu  https://orcid.org/0000-0002-1605-5941 Mustapha Amoadu  https://orcid.org/0000-0002-9582-8884 Francis Arthur  https://orcid.org/0000-0001-7792-6563 
+John Elvis Hagan Jr  https://orcid.org/0000-0003-3530-6133 
+REFERENCES
+Agormedah, E. K. (2020). Quality in management education programme: The perceptions of lecturers and stu-
+dents. PhD thesis, Department of Business and Social Sciences Education, University of Cape Coast, Ghana. http://hdl.handle.net/123456789/7061
+Agormedah, E. K. (2025). Association between learning engagement and learning satisfaction among first-year 
+business students in higher education: The moderating effect of gender. Discover Education, 4(2), 99. https:// doi.org/10.1007/s44217-025-004992
+Ainscow, M. (2020). Inclusion and equity in education: Making sense of global challenges. Prospects, 49(3), 
+123–134.
+Akos, P., & Kretchmar, J. (2017). Investigating grit as a non-cognitive predictor of college success. The Review of 
+Higher Education, 40(2), 163–186.
+Anggraeni, D., Wardani, D. K., & Noviani, L. (2024). Self-regulated learning, grit, and learning motivation in devel-
+oping learning achievement: A review. Formosa Journal of Multidisciplinary Research, 3(1), 135–148.
+Archambault, I., Janosz, M., Morizot, J., & Pagani, L. (2009). Adolescent behavioural, affective, and cognitive 
+engagement in school: Relationship to dropout. Journal of School Health, 79(9), 408–415.
+Arkorful, V. E., Basiru, I., Anokye, R., Latif, A., Agyei, E. K., Hammond, A., Pokuaah, S., Arkorful, E. V., & Abdul- 
+Rahaman, S. (2020). Equitable access and inclusiveness in basic education: Roadblocks to sustainable development goals. International Journal of Public Administration, 43(3), 189–202. https://doi.org/10.1080/ 01900692.2019.1627554
+Assunção, H., Lin, S. W., Sit, P. S., Cheung, K. C., Harju-Luukkainen, H., Smith, T., Maloa, B., Campos, J. Á. 
+D. B., Ilic, I. S., Esposito, G., & Francesca, F. M. (2020). University Student Engagement Inventory (USEI): Transcultural validity evidence across four continents. Frontiers in Psychology, 10, 489785. https://doi.org/ 
+10.3389/fpsyg.2019.02796 
+Babiera, R. E., & Quirap, E. A. (2024). Learners' grit, self-regulation, and classroom engagement. International 
+Journal of Multidisciplinary Research and Analysis, 7(4), 1811–1822. https://doi.org/10.47191/ ijmra/v7- i04-45 Bandura, A. (1986). Social foundations of thought and action: A social cognitive theory. Prentice-Hall.
+Bandura, A. (1991). Social cognitive theory of self-regulation. Organisational Behaviour and Human Decision 
+Processes, 50(2), 248–287.
+Bandura, A. (2012). On the functional properties of perceived self-efficacy revisited. Journal of Management, 
+38(1), 9–44. https://doi.org/10.1177/0149206311410606
+Becker, J. M., Cheah, J. H., Gholamzade, R., Ringle, C. M., & Sarstedt, M. (2023). PLS-SEM's most wanted guid-
+ance. International Journal of Contemporary Hospitality Management, 35(1), 321–346.
+Byrne, B. M. (2010). Structural equation modeling with AMOS: Basic concepts, applications, and programming. 
+Taylor & Francis.
+Chanimbe, T., & Dankwah, K. O. (2021). The ‘new’ free senior high school policy in Ghana: Emergent issues and 
+challenges of implementation in schools. Interchange, 52(4), 599–630.
+Cheah, J. H., Kersten, W., Ringle, C. M., & Wallenburg, C. (2023). Guest editorial: Predictive modeling in lo-
+gistics and supply chain management research using partial least squares structural equation modeling. International Journal of Physical Distribution and Logistics Management, 53(7/8), 709–717.
+Chin, W., Cheah, J. H., Liu, Y., Ting, H., Lim, X. J., & Cham, T. H. (2020). Demystifying the role of causal-predictive 
+modeling using partial least squares structural equation modeling in information systems research. Industrial Management & Data Systems, 120(12), 2161–2209.
+Chow, C. W., & Chapman, E. (2017). Construct validation of the motivated strategies for learning questionnaire 
+in a Singapore high school sample. Journal of Educational and Developmental Psychology, 7(2), 107–123. Clark, K. N., & Malecki, C. K. (2019). Academic Grit Scale: Psychometric properties and associations with achieve-
+ment and life satisfaction. Journal of School Psychology, 72, 49–66. https://doi.org/10.1016/j. jsp.2018.12.001 Cleary, T. J., & Zimmerman, B. J. (2012). A cyclical self-regulatory account of student engagement: Theoretical 
+foundations and applications. In S. L. Christenson, A. L. Reschly, & C. Wylie (Eds.), Handbook of research 
+on student engagement (pp. 237–257). Springer Science + Business Media. https://doi.org/10.1007/978-1- 
+4614-2018-7_11
+Cohen, J. (1992). A power primer. Psychological Bulletin, 112(1), 155–159.
+Credé, M., Tynan, M. C., & Harms, P. D. (2017). Much ado about grit: A meta-analytic synthesis of the grit litera-
+ture. Journal of Personality and Social Psychology, 113(3), 492–511. https://doi.org/10.1037/pspp0000102 Datu, J. A. D., Buenconsejo, J. U., Shek, C. Y. C., Choy, Y. L. E., & Sou, K. L. E. (2023). Grit, academic engage-
+ment in math and science, and well-being outcomes in children during the COVID-19 pandemic: A study 
+in Hong Kong and Macau. School Psychology International, 44(4), 489–512. https://doi.org/10.1177/01430 
+343221147273
+Daumiller, M., Rinas, R., Olden, D., & Dresel, M. (2021). Academics' motivations in professional training courses: 
+Effects on learning engagement and learning gains. International Journal for Academic Development, 26(1), 7–23. https://doi.org/10.1080/1360144x.2020.1768396
+Deci, E. L., & Ryan, R. M. (2000). The “what” and “why” of goal pursuits: Human needs and the self-determination 
+of behavior. Psychological Inquiry, 11(4), 227–268. https://doi.org/10.1207/S15327965PLI1104_01
+Deci, E. L., & Ryan, R. M. (2017). Self-determination theory: Basic psychological needs in motivation, develop-
+ment, and wellness. Guilford Press.
+Duckworth, A. L., Peterson, C., Matthews, M. D., & Kelly, D. R. (2007). Grit: Perseverance and passion for long- 
+term goals. Journal of Personality and Social Psychology, 92(6), 1087–1101. https://doi.org/10.1037/0022- 3514.92.6.1087
+Duckworth, A. L., & Quinn, P. D. (2009). Development and validation of the Short Grit Scale (Grit-S). Journal of 
+Personality Assessment, 91(2), 166–174. https://doi.org/10.1080/00223890802634290
+Duncan, T. G., & McKeachie, W. J. (2005). The making of the motivated strategies for learning questionnaire. 
+Educational Psychologist, 40(2), 117–128. https://doi.org/10.1207/s15326985ep4002_6
+Eroğlu, Y., & Kaya, M. D. (2023). Grit and academic life satisfaction: Assessment of the mediating role of school 
+engagement. African Educational Research Journal, 11(3), 441–451.
+Erturan Ilker, G., Arslan, Y., & Demirhan, G. (2014). A validity and reliability study of the motivated strategies for 
+learning questionnaire. Educational Sciences: Theory and Practice, 14(3), 829–833.
+Estévez, I., Rodríguez-Llorente, C., Piñeiro, I., González-Suárez, R., & Valle, A. (2021). School engagement, 
+academic achievement, and self-regulated learning. Sustainability, 13(6), 3011.
+Finn, J. D., & Zimmer, K. S. (2012). Student engagement: What is it? Why does it matter? In S. L. Christenson, A. 
+L. Reschly, & C. Wylie (Eds.), Handbook of research on student engagement (pp. 97–131). Springer Science 
++ Business Media. https://doi.org/10.1007/978-1-4614-2018-7_5
+Fokkens-Bruinsma, M., Vermue, C., Deinum, J. F., & Van Rooij, E. (2021). First-year academic achievement: The 
+role of academic self-efficacy, self-regulated learning and beyond classroom engagement. Assessment & 
+Evaluation in Higher Education, 46(7), 1115–1126. https://doi.org/10.1080/02602938.2020.184560
+Fredricks, J. A., Blumenfeld, P. C., & Paris, A. H. (2004). School engagement: Potential of the concept, state of 
+the evidence. Review of Educational Research, 74(1), 59–109. https://doi.org/10.3102/00346543074001059 Fuller, C. M., Simmering, M. J., Atinc, G., Atinc, Y., & Babin, B. J. (2016). Common methods variance detection in 
+business research. Journal of Business Research, 69(8), 3192–3198.
+Grilo, L. M., Braz, T. F., Grilo, H. L., Maidana, J. P., & Stehlik, M. (2024). Modeling the facets of burnout in Lisbon 
+airport border officers using PLSc-SEM estimator. Stochastic Analysis and Applications, 42(2), 414–434.
+Guo, W., Bai, B., Zang, F., Wang, T., & Song, H. (2023). Influences of motivation and grit on students' self- 
+regulated learning and English learning achievement: A comparison between male and female students. 
+System, 114, 103018.
+Hair, J. F., Hult, G. T. M., Ringle, C. M., & Sarstedt, M. (2022). A primer on partial least squares structural equation 
+modeling (PLS-SEM) (3rd ed.). Sage.
+Hair, J. F., Risher, J. J., Sarstedt, M., & Ringle, C. M. (2019). When to use and how to report the results of PLS- 
+SEM. European Business Review, 31(1), 2–24.
+Hair, J. F., Sarstedt, M., Ringle, C. M., & Gudergan, S. P. (2024). Advanced issues in partial least squares struc-
+tural equation modeling (PLS-SEM) (2nd ed.). Sage.
+Hayri, K. O. Ç., & Gökalp, Z. Ş. (2023). Understanding the relationship between self-control and grit: The medi-
+ating role of academic motivation and attention control. International Journal of Modern Education Studies, 7(1), 202–218.
+Henseler, J., Ringle, C. M., & Sinkovics, R. R. (2009). The use of partial least squares path modeling in interna-
+tional marketing. In R. R. Sinkovics & P. N. Ghauri (Eds.), New challenges to international marketing (pp. 277–319). Emerald Group Publishing.
+Henseler, J., Ringle, C. M., & Sarstedt, M. (2015). A new criterion for assessing discriminant validity in variance- 
+based structural equation modeling. Journal of the Academy of Marketing Science, 43, 115–135.
+Hodge, B., Wright, B., & Bennett, P. (2018). The role of grit in determining engagement and academic out-
+comes for university students. Research in Higher Education, 59(4), 448–460. https://doi.org/10.1007/s1116 2-017-9474-y
+Hoferichter, F., & Raufelder, D. (2023). Biophysiological stress markers relate differently to grit and school engage-
+ment among lower- and higher-track secondary school students. British Journal of Educational Psychology, 93, 174–194.
+Huang, C., Tu, Y., He, T., Han, Z., & Wu, X. (2023). Longitudinal exploration of online learning burnout: The role 
+of social support and cognitive engagement. European Journal of Psychology of Education, 39(1), 361–388. Jehanghir, M., Ishaq, K., & Akbar, R. A. (2024). Effect of learners' autonomy on academic motivation and univer-
+sity students' grit. Education and Information Technologies, 29(4), 4159–4196.
+Jeon, M. K., Lee, I., & Lee, M. Y. (2022). The multiple mediating effects of grit and learning agility on academic 
+burnout and learning engagement among Korean university students: A cross-sectional study. Annals of Medicine, 54(1), 2698–2712.
+Jiang, L., Zhang, S., Li, X., & Luo, F. (2021). How grit influences high school student's academic performance 
+and the mediation effect of academic self-efficacy and cognitive learning strategies. Current Psychology, 42, 1–10.
+Jones, E., Leask, B., Brandenburg, U., & De Wit, H. (2021). Global social responsibility and the internationalisa-
+tion of higher education for society. Journal of Studies in International Education, 25(4), 330–347.
+Karimi, S., & Sotoodeh, B. (2020). The mediating role of intrinsic motivation in the relationship between basic 
+psychological needs satisfaction and academic engagement in agriculture students. Teaching in Higher Education, 25(8), 959–975.
+Kock, N. (2020). Harman's single factor test in PLS-SEM: Checking for common method bias. Data Analysis 
+Perspectives Journal, 2(2), 1–6.
+Kwegyiriba, A. (2021). Free senior high school policy: Implications to education access equity in Ghana. British 
+Journal of Education, 9(8), 68–81.
+Lam, K. K. L., & Zhou, M. (2022). Grit and academic achievement: A comparative cross-cultural meta-analysis. 
+Journal of Educational Psychology, 114(3), 597–621.
+Leslie, L. K., James, S., Monn, A., Kauten, M. C., Zhang, J., & Aarons, G. (2010). Health-risk behaviors in young 
+adolescents in the child welfare system. The Journal of Adolescent Health, 47, 26–34. https://doi.org/10. 1016/j. jadohealth.2009.12.032
+Li, Y., & Lerner, R. M. (2011). Trajectories of school engagement during adolescence: Implications for grades, 
+depression, delinquency, and substance use. Developmental Psychology, 47, 233–247. https://doi.org/10. 1037/a0021307
+Lin, R., Chen, Y., Shen, Y., Hu, T., Huang, Y., Yang, Y., Yu, X., & Ding, J. (2024). Academic grit scale for Chinese 
+middle- and upper-grade primary school students: Testing its factor structure and measurement invariance. BMC Psychology, 12(1), 149. https://doi.org/10.1186/s40359-024-01622-y
+Liu, Y. (2022). Investigating the role of English as a foreign language learners' academic motivation and language 
+mindset in their grit: A theoretical review. Frontiers in Psychology, 13, 872014.
+Manganelli, S., Alivernini, F., Mallia, L., & Biasi, V. (2015). The development and psychometric properties of the 
+«Self-Regulated Knowledge Scale-University» (SRKS-U). Journal of Educational, Cultural and Psychological Studies (ECPS Journal), 1(12), 235–254.
+Maroco, J., Maroco, A. L., Campos, J. A. D. B., & Fredricks, J. A. (2016). University student engagement: 
+Development of the University Student Engagement Inventory (USEI). Psicologia: Reflexão e Crítica, 29, 21. https://doi.org/10.1186/s41155-016-0042-8
+Martin, H., Craigwell, R., & Ramjarrie, K. (2022). Grit, motivational belief, self-regulated learning (SRL), and 
+academic achievement of civil engineering students. European Journal of Engineering Education, 47(4), 535–557.
+Ministry of Education. (2019). Eduation strategic plan 2018–2030. MoE.
+Mohammed, A. K., & Kuyini, A. B. (2021). An evaluation of the free senior high school policy in Ghana. Cambridge 
+Journal of Education, 51(2), 143–172.
+Muenks, K., Wigfield, A., Yang, J. S., & O'Neal, C. R. (2017). How true is grit? Assessing its relations to high 
+school and college students' personality characteristics, self-regulation, engagement, and achievement. Journal of Educational Psychology, 109(5), 599–620. https://doi.org/10.1037/edu0000153 
+Nitzl, C., Roldan, J. L., & Cepeda, G. (2016). Mediation analysis in partial least squares path modeling: Helping re-
+searchers discuss more sophisticated models. Industrial Management & Data Systems, 116(9), 1849–1864. Panadero, E. (2017). A review of self-regulated learning: Six models and four directions for research. Frontiers in 
+Psychology, 8, 422.
+Park, S., & Kim, N. H. (2022). University students' self-regulation, engagement and performance in flipped learn-
+ing. European Journal of Training and Development, 46(1/2), 22–40.
+Pintrich, P. R. (2004). A conceptual framework for assessing motivation and self-regulated learning. In P. R. 
+Pintrich & M. L. Maehr (Eds.), Advances in motivation and achievement (Vol. 13, pp. 1–40). JAI Press.
+Pintrich, P. R., Smith, D. A. F., Garcia, T., & McKeachie, W. J. (1993). Reliability and predictive validity of the 
+Motivated Strategies for Learning Questionnaire (MSLQ). Educational and Psychological Measurement, 53, 
+801–813.
+Podsakoff, P. M., MacKenzie, S. B., Lee, J.-Y., & Podsakoff, N. P. (2003). Common method biases in behavioral 
+research: A critical review of the literature and recommended remedies. Journal of Applied Psychology, 88(5), 879–903. https://doi.org/10.1037/0021-9010.88.5.879
+Ringle, C. M., Wende, S., & Becker, J.-M. (2015). SmartPLS 3. https://www.smartpls.com/ 
+Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social de-
+velopment, and well-being. American Psychologist, 55(1), 68–78. https://doi.org/10.1037/0003-066X.55.1.68 Ryan, R. M., & Deci, E. L. (2020). Intrinsic and extrinsic motivation from a self-determination theory perspective: 
+Definitions, theory, practices, and future directions. Contemporary Educational Psychology, 61, 101860.
+Sallam, M. H., Martı'n-Monje, E., & Li, Y. (2022). Research trends in language MOOC studies: A systematic review 
+of the published literature (2012–2018). Computer Assisted Language Learning, 35, 764–791. https://doi.org/ 10.1080/09588221.2020.1744668
+Schunk, D. H., & Zimmerman, B. J. (Eds.). (2012). Motivation and self-regulated learning: Theory, research, and 
+applications. Routledge.
+Segura-Robles, A., Moreno-Guerrero, A. J., Parra-González, M. E., & López-Belmonte, J. (2021). Adaptation and 
+validation of the Motivated Strategies for Learning Questionnaire for Spanish adolescents. European Journal of Investigation in Health, Psychology and Education, 11(1), 142–153.
+Setiani, S., & Wijaya, E. (2020). The relationship between self-regulated learning with student engagement in col-
+lege students who have many roles. In The 2nd Tarumanagara International Conference on the Applications of Social Sciences and Humanities (TICASH 2020), pp. 307–312. Atlantis Press.
+Shao, Y., Kang, S., Lu, Q., Zhang, C., & Li, R. (2024). How peer relationships affect academic achievement among 
+junior high school students: The chain mediating roles of learning motivation and learning engagement. BMC Psychology, 12(1), 278.
+She, L., Khoshnavay Fomani, F., Marôco, J., Allen, K. A., Sharif Nia, H., & Rahmatpour, P. (2023). Psychometric 
+properties of the University Student Engagement Inventory among Chinese students. Asian Association of Open Universities Journal, 18(1), 46–60.
+Shikalepo, E. E. (2020). Challenges facing teaching at rural schools: A review of related literature. International 
+Journal of Research and Innovation in Social Science, 4(5), 211–218.
+Shin, M., & Bolkan, S. (2021). Intellectually stimulating students' intrinsic motivation: The mediating influence 
+of student engagement, self-efficacy, and student academic support. Communication Education, 70(2), 146–164.
+Shmueli, G., Sarstedt, M., Hair, J. F., Cheah, J. H., Ting, H., Vaithilingam, S., & Ringle, C. M. (2019). Predictive 
+model assessment in PLS-SEM: Guidelines for using PLSpredict. European Journal of Marketing, 53(11), 2322–2347.
+Sinval, J., Casanova, J. R., Marôco, J., & Almeida, L. S. (2021). University Student Engagement Inventory (USEI): 
+Psychometric properties. Current Psychology: A Journal for Diverse Perspectives on Diverse Psychological Issues, 40(4), 1608–1620. https://doi.org/10.1007/s12144-018-0082-6
+Steinmayr, R., Weidinger, A. F., & Wigfield, A. (2018). Does students' grit predict their school achievement above 
+and beyond their personality, motivation, and engagement? Contemporary Educational Psychology, 53, 106–122.
+Teng, L. S., & Zhang, L. J. (2020). Empowering learners in the second/foreign language classroom: Can self- 
+regulated learning strategies-based writing instruction make a difference? Journal of Second Language Writing, 48, 100701.
+Theobald, M. (2021). Self-regulated learning training programs enhance university students' academic perfor-
+mance, self-regulated learning strategies, and motivation: A meta-analysis. Contemporary Educational Psychology, 66, 101976.
+UNICEF. (2021). The state of the global education crisis: A path to recovery. A joint UNESCO, UNICEF and World 
+Bank report. UNESCO.
+Vahedi, S. (2022). The relationship of grit, psychological hardiness, and resilience with academic engagement: A 
+model for path analysis. Educational Psychology, 18(66), 169–192.
+Vaithilingam, S., Ong, C. S., Moisescu, O. I., & Nair, M. S. (2024). Robustness checks in PLS-SEM: A review of 
+recent practices and recommendations for future applications in business research. Journal of Business Research, 173, 114465.
+Wolters, C. A., & Hussain, M. (2015). Investigating grit and its relations with college students' self-regulated learn-
+ing and academic achievement. Metacognition and Learning, 10, 293–311.
+Wu, Z. (2019). Academic motivation, engagement, and achievement among college students. College Student 
+Journal, 53(1), 99–112.
+Žalėnienė, I., & Pereira, P. (2021). Higher education for sustainability: A global perspective. Geography and 
+Sustainability, 2(2), 99–106.
+Zhao, H., Zhang, Z., & Heng, S. (2024). Grit and college students' learning engagement: Serial mediating effects 
+of mastery goal orientation and cognitive flexibility. Current Psychology, 43(8), 7437–7450.
+Zhao, S., & Cao, C. (2023). Exploring relationship among self-regulated learning, self-efficacy and engagement in 
+blended collaborative context. SAGE Open, 13(1), 1–11. https://doi.org/10.1177/2158244023115724
+Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. Theory Into Practice, 41(2), 64–70.
+How to cite this article: Obeng, P., Srem-Sai, M., Salifu, I., Amoadu, M., Arthur, F., Agormedah, E. K., Hagan, J. E. Jr & Schack, T. (2025). Linking students' grit and academic engagement: Mediating role of academic motivation and self-regulated learning. British Educational Research Journal, 51, 2511–2535. https://doi.org/10.1002/ berj.4185
+APPENDIX A
+
+APPENDIX B
+B.1  |  Cross-loading
+                            Academic                                                                             Self-regulated 
+Item                        engagement                   Grit                  Motivation                        learning
+ACM11                       0.409                        0.400                 0.706                             0.414
+ACM12                       0.416                        0.376                 0.716                             0.443
+ACM14                       0.553                        0.419                 0.742                             0.517
+ACM26                       0.529                        0.501                 0.704                             0.472
+ACM6                        0.538                        0.543                 0.744                             0.521
+ACM7                        0.436                        0.427                 0.696                             0.372
+ACM9                        0.452                        0.482                 0.737                             0.446
+AE1                         0.784                        0.641                 0.533                             0.610
+AE10                        0.743                        0.480                 0.472                             0.423
+AE11                        0.671                        0.364                 0.477                             0.375
+AE13                        0.725                        0.401                 0.361                             0.393
+AE14                        0.716                        0.402                 0.392                             0.421
+AE4                         0.621                        0.475                 0.474                             0.529
+AE8                         0.749                        0.625                 0.578                             0.562
+AGS10                       0.457                        0.691                 0.400                             0.474
+AGS4                        0.485                        0.689                 0.517                             0.626
+AGS5                        0.530                        0.774                 0.415                             0.638
+AGS6                        0.506                        0.744                 0.518                             0.532
+  
+                            Academic                                                                             Self-regulated 
+Item                        engagement                   Grit                  Motivation                        learning
+AGS7                        0.510                        0.642                 0.435                             0.481
+AGS8                        0.476                        0.708                 0.409                             0.406
+AGS9                        0.531                        0.773                 0.461                             0.600
+SRL1                        0.480                        0.557                 0.431                             0.781
+SRL10                       0.525                        0.551                 0.461                             0.739
+SRL12                       0.439                        0.516                 0.461                             0.652
+SRL2                        0.468                        0.519                 0.468                             0.734
+SRL4                        0.418                        0.458                 0.413                             0.661
+SRL7                        0.517                        0.551                 0.505                             0.706
+SRL9                        0.533                        0.618                 0.450                             0.734
+Note: The bold values are the factor loadings of the respective constructs.

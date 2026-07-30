@@ -1,0 +1,508 @@
+﻿*  Rustam Shadiev 
+rustamsh@gmail.com
+Education Tech Research Dev 
+https://doi.org/10.1007/s11423-024-10434-1 
+RESEARCH ARTICLE 
+Understanding ther elationship betweenc olleges students’ artificial intelligence literacy andhigher or der thinking skills using the3P model: themedia ting roles ofbeha vioral engagement andpeer in teraction
+KailiLu College ofEducation Science andTechnology, Nanjing University ofPosts 
+andTelecommunications, Nanjing, China
+· JianrongZhu Nanjing University ofPosts andTelecommunications, Nanjing, China
+· FengPang College ofEducation, De La Salle University-Dasmariñas, Dasmariñas, Philippines
+· RustamShadiev College ofEducation, Zhejiang University, Hangzhou, China
+ 
+Accepted: 5 November 2024 
+© Association for Educational Communications and Technology 2024
+Abstract
+Artificial Intelligence (AI) has brought about significant changes in our lives, making AI literacy a crucial endeavor for the future. Despite its growing importance in academia, there is limited empirical research on its impact on college students’ higher order thinking skills (HOTS). The present study systematically and comprehensively explores the rela- tionship between college students’ AI literacy and HOTS using the 3P (Presage-process– product) model. In this model, students’ AI literacy represents the presage factors, while behavioral engagement and peer interaction serves as the process factors, and HOTS is the product factor. We gathered data from a survey of 260 college students. We utilized struc- tural equation modeling to analyze the relationships between the 3P factors. The results showed that both AI usage and AI evaluation directly influenced HOTS and also indirectly affected HOTS through the mediating role of behavioral engagement and peer interaction. Conversely, AI awareness and AI ethics showed no direct influence on HOTS, although AI awareness impacted HOTS via peer interaction mediation. The results of the study have several theoretical and practical implications. From a theoretical perspective, this study incorporates AI literacy, behavioral engagement, peer interaction, and HOTS within the 3P model framework, shedding light on their interrelations. On a practical note, the results emphasize the need to consider AI literacy, behavioral engagement, peer interaction when designing courses to enhance HOTS in the era of AI.
+Keywords Artificial intelligence literacy· Higher or der thinking skills· Beha vioral engagement· Peer interaction
+ 
+
+K.L u et al.
+Introduction
+Background
+In the twenty-first century, higher order thinking skills (HOTS) have been established as fundamental for college students, equipping them to address intricate and unforeseen chal- lenges in their future life and society (Huang et al., 2022; Lu et al., 2021a, 2021b). Its importance has been emphasized by researchers, educators, policymakers and the general publicacross various disciplines, educational stages and countries (Jansen & Möller, 2022; Lu etal., 2023; Zain etal., 2022). As Lewis and Smith (1993, p. 136) stated, “higher order thinking occurs when a person takes new information and information stored in memory and interrelates and/or rearranges and extends this information to achieve a purpose or find possible answers in perplexing situations.” From this point of view, the development process of higher order thinking skills is complex. Therefore, it is necessary to reveal the mechanism driving the development of higher order thinking skills, specifically, to under- stand how key factors in the learning process influence these skills.
+The advent of artificial intelligence (AI) technologies, such as AI-robots, virtual AI teaching  assistants,  intelligent  tutoring  systems,  and  generative  AI-tools  like  ChatGPT (Azevedo et al., 2022; Delcker et al., 2024; Dwivedi et al., 2023; Wang et al., 2024), has profoundly transformed our lives, a change that is widely recognized and supported by research. We now find ourselves in what is called ‘artificial intelligence era’ (Davenport & Ronanki, 2018). To today’s college students, navigating daily life without the assistance of these technologies would be challenging. The basic literacy required to survive and engage in the new age is becoming increasingly necessary, e.g. AI literacy. AI literacy is defined as “a set of competencies that enables individuals to critically evaluate AI technologies, communicate and collaborate effectively with AI, and use AI as a tool online, at home, and in the workplace” (Long & Magerko, 2020, p. 2). There is no doubt that contemporary college students’ AI literacy holds significant importance (Laupichler et al., 2022). This literacy encompasses not just the handling of artificial intelligence technology but also the realization of an ecological environment where humans and machines coexist harmoni- ously (Wang etal., 2023).
+For college students, AI can serve not only as a tool for content delivery but also as a catalyst that encourages questioning, analyze, and deep thinking about the presented infor- mation (van den Berg, G., & du Plessis, 2023). For example, AI systems could introduce complex problems and scenarios, requiring students to employ high order thinking skills such as analysis, evaluation and creation—beyond mere rote memorization or basic under- standing, to select the most appropriate scenario from among the complex options (Delcker et al., 2024). In other words, AI poses challenges that compel students to leverage their higher order thinking skills for problem-solving. Therefore, integrating AI literacy with these critical skills is paramount.
+Although AI literacy is increasingly important, the empirical studies are still limited, especially  about  the  influence  of  AI  literacy  on  students’  higher  order  thinking  skills (Laupichler etal., 2022). Understanding the relationship between AI literacy and HOTS is pivotal for educators, researchers and policy makers to guide college students in cultivating AI literacy, which in turn improves HOTS. As such, the present study aims to investigate how AI literacy influences college students’ higher order thinking skills.
+Learning is a complex process. To systematically explore the influence of various learn- ing factors on HOTS in the era of artificial intelligence, it is necessary to analyze their 
+ 
+
+Understanding ther elationship betweenc olleges students’…
+impact across different stages of learning. In this learning process, behavioral engagement and peer interaction are two essential factors (Lane & Harris, 2015; Nguyen et al., 2018). They not only correlate with AI literacy but also with HOTS (Lein etal., 2016; Prior etal., 2016; Tugtekin & Koc, 2020). Consequently, they are selected as the mediating factors in the relationship between AI literacy and HOTS.
+Based on the above analyses, the 3P model is adopted in the present study as the theo- retical framework to systematically and comprehensively explore the relationship between college students’ AI literacy and higher order thinking skills.
+Research purpose
+Drawing from the analysis of prior research, the objectives of the present study are to:
+(1) Review related theories and propose a structured research model, grounded in the 3P framework, to understand the relationship between AI literacy and higher order think- ing skills in higher education.
+(2) Investigate the relationships between AI literacy and higher order thinking skills as laid out in the proposed structured model within a higher education context.
+Theoretical framework andh ypotheses development Theoretical framework
+In the present study, the 3P model (Biggs, 1993) was used as the theoretical framework. This model was originally proposed by Dunkin and Biddle (1974). The 3P model has been widely used and validated as the theoretical model in different learning context to explain the relationship between different learning factors. For example, Li et al. (2023) used the model to explain the relationship between information literacy and self-directed learning skills (presage factors), academic emotions (process factors) and online learning engage- ment (product factors) among high school students. Li and Tsai (2020) also adopted this model to explain the relationship between prior web experience and prior domain knowl- edge (presage factors), patterns of accessing time (process factors) and learning perfor- mance (product factors) of 12th-grade students learning in a text structure learning system context. Han (2014) used this model to investigate the relationship between cognitive, non- cognitive, background factors and instructor presage factors, instructional process factors and learning outcomes (product factors) in interactive learning environments.
+The 3P model consists of three core components: presage, process and product. Within these components, factors classified into product dimension and are generally hypothesized as dependent variables. Conversely, factors classified into presage dimension are generally considered as the independent variables that influence the product factors either directly or indirectly, mediated by process factors (Lee et al., 2020). The presage factors usually exist prior to actual engagement in learning, these factors are relatively stable, learning- related, characteristics of the student, including prior knowledge, abilities, values, expecta- tions concerning achievement, such as information literacy (Li etal., 2023). Process factors usually represent the ongoing approach to learning, including learning strategies and moti- vation (Li & Tsai, 2020). Product factors focus on ‘how much’ was learned (Biggs, 1993; Biggs et al., 2001). As shown in Fig. 1, there are relationships between presage factors, process factors and product factors, each component interacting with others.
+
+Fig. 1  The 3P model
+Based on the above analyses, the present study views AI literacy as presage factor, behavioral engagement and peer interaction as process factors, and higher order thinking skills as product factor.
+AI literacy andpr ocess factors
+The  concept  of  AI  literacy  describes  the  competence  of  individuals  in  using  artificial intelligence technology. It extends information literacy (Jones-Jang et al., 2021; Webber & Johnston, 2000) and digital literacy (Eshet, 2004; Reddy et al., 2020) into the era of artificial intelligence. Similar to information literacy and digital literacy, AI literacy does not require individuals to become specialist in the field of artificial intelligence. Instead, it necessitates that individuals “have the ability to properly identify, use and evaluate AI- related products under the premise of ethical standards” (Wang etal., 2023, p. 1324). The widespread use of technologies, such as chatbots, virtual assistants, facial recognition, and translation apps, provides unprecedented opportunities for individuals to understand and integrate AI into their daily lives and learning experiences. These technologies enhance students’ ability to personalize their educational journey, streamline learning tasks, and improve access to diverse resources. By leveraging AI, students can experience tailored support, efficient communication, and enriched learning environments, thereby making advanced technological solutions an integral part of their academic success and everyday life (Ng etal., 2021; Shadiev etal., 2020; Wang etal., 2024). Therefore, there is no doubt that AI literacy is essential for everyone (especially college students) to know and use AI as a tool to learn, work and live in the artificial intelligence era (Laupichler etal., 2022; Ng etal., 2021).
+Generally, AI literacy consists of four dimensions: artificial intelligence awareness, artificial intelligence usage, artificial intelligence evaluation and artificial intelligence ethics. Artificial intelligence awareness is a cognitive process that occurs before one uses a particular technology (Hallaq, 2016). It refers to the ability to identify and under- stand AI technologies, as well as the basic techniques and concepts behind them, in the process of using AI-related applications and services. It also relates to perceived abilities, confidence, and readiness in learning AI (Burgsteiner et al., 2016; Kandlhofer et al., 2016). Artificial intelligence usage refers to the ability to apply and utilize arti- ficial  intelligence  techniques  to  skillfully  complete  tasks.  This  construct  focuses  on operational levels, including easy access to AI applications and tools, proficiency in the operation of AI applications and tools, and capable integration of different types of AI applications and tools. Artificial intelligence evaluation refers to the ability to select, analyze and critically evaluate AI applications and their results. This skill is closely related to students’ higher order thinking skills. In the present study, evaluation requires a user to form accurate opinions regarding AI applications and product. Users who are able to evaluate an AI applications or product may need rich experience of using AI applications or products. Artificial intelligence ethics refers to the ability to be aware of the responsibilities and risks related to the usage of AI technologies (Wang et al., 
+2023). While AI technology offers convenience, it also compels deeper reflection on its intelligence and ethics implications (Gunkel, 2012). Therefore, a person knowledgeable about AI should possess the capability to accurately discern and address ethical con- cerns, ensuring the appropriate and correct use of AI technology.
+In the present study, students’ behavioral engagement and peer interaction are selected as the process factors. Behavioral engagement is one of the important type of learning engagement. Learning engagement refers to the degree of attention, effort, involvement curiosity, interest, and enthusiasm shown by students in the learning process (Lu et al., 2022; Sun & Rueda, 2012). Behavioral engagement refers to students’ involvement and participation in the learning activities inside and outside the classroom (e.g. asking ques- tions, self-learning, and participating in discussions) (Fredricks etal., 2004). Peer interac- tion is “a form of cooperative learning that enhances the value of student-to-student inter- action and results in different advantages of learning outcomes” (Christudason, 2023). It consists of two key components, respectively are communication and collaboration. Col- laboration is the ability of two or more people to work together and share their perspectives and ideas in order to achieve a learning goal or complete a learning task (Hwang et al., 2018). Communication refers to the ability to “articulate thoughts and ideas effectively by using oral, written and nonverbal communication skills in a variety of forms and contexts” (Frazier & Reynolds, 2012). When it comes to the relationship between AI literacy and those process factors (behavioral engagement and peer interaction), previous related litera- ture provided a lot of implications to this study (Prior etal., 2016; Tugtekin & Koc, 2020).
+In higher education, AI facilitates a range of innovative teaching approaches, including the realization of virtual and augmented reality learning environments and the personaliza- tion of the learning experience (Chen et al., 2020; von Ende et al., 2023). For example, within virtual reality environments, virtual experiments allow students to engage more boldly in learning activities without the fear of wasting consumables due to errors. This not only encourages active participation but also enables repeated experimentation, fostering a deeper understanding of concepts and principles, thereby enhancing engagement in learn- ing (Huang et al., 2021). Furthermore, AI-driven personalized learning tailors activities to individual student needs and abilities, adjusting both content and pace according to the learner’s progress. This customization can significantly facilitate engagement and improve learning outcomes (Southworth etal., 2023). Moreover, the widespread availability of gen- erative AI allows for broader integration into various educational settings. These techno- logical advances enable educators and students to engage with content in innovative ways that were not possible before, further enhancing student engagement (Nguyen etal., 2024). Based on these insights, we hypothesized that:
+Hypothesis 1 (H1)  Students’ AI literacy is positively related to behavioral engagement in higher education.
+Based on the above analyses, hypotheses of the relationship between each dimension of AI literacy and behavioral engagement were as following:
+Hypothesis 1a (H1a)  Students’ AI awareness is positively related to behavioral engage- ment in higher education.
+Hypothesis 1b (H1b)  Students’ AI usage is positively related to behavioral engagement in higher education.
+Hypothesis 1c (H1c)  Students’ AI evaluation is positively related to behavioral engage- ment in higher education.
+Hypothesis 1d (H1d)  Students’ AI ethics is positively related to behavioral engagement in higher education.
+AI plays a crucial role in higher education by enhancing communication and collab- oration. Firstly, it facilitates the creation of virtual learning spaces, enabling students to effortlessly initiate online meetings with their peers from any location. This flexibility supports seamless collaboration and interaction. Secondly, AI’s application extends to the development of virtual assistants or chatbots, which streamline the communication process between students and their instructors, as well as among classmates (Southworth et al., 2023). Some other AI-enhanced collaborative tools, such as Google Docs and Wikipedia, can significantly improve the efficiency of collaboration between students and instructors. Moreover, the widespread availability of generative AI can enhance educational accessi- bility and convenience, allowing students to interact with learning materials anytime and anywhere (Nguyen et al., 2024). Beyond simplifying interactions, these AI-driven tools necessitate and foster the development of students’ critical thinking skills. They encourage students to articulate their knowledge clearly, apply it effectively, and collaborate using digital tools to address real-world challenges (Ng etal., 2023).
+Based on these insights, we hypothesized that:
+Hypothesis 2 (H2)  Students’ AI literacy is positively related to peer interaction in higher education.
+Based on the above analyses, hypotheses of the relationship between each dimension of AI literacy and peer interaction were as following:
+Hypothesis 2a (H2a)  Students’ AI awareness is positively related to peer interaction in higher education.
+Hypothesis 2b (H2b)  Students’ AI usage is positively related to peer interaction in higher education.
+Hypothesis 2c (H2c)  Students’ AI evaluation is positively related to peer interaction in higher education.
+Hypothesis 2d (H2d)  Students’ AI ethics is positively related to peer interaction in higher education.
+Process factors andHO TS
+Higher order thinking skills, a cornerstone of 21st-century competencies, are garnering significant attention nowadays (Huang etal., 2022). Hwang etal. (2018) categorized higher these skills into three dimensions: critical thinking, problem solving, and creativity. Criti- cal thinking is the ability to objectively analyze information, think clearly and rationally, and make rational judgments. Problem solving refers to the ability to identify problems, collect  and  analyze  relevant  information,  and  select  and  implement  relevant  solutions. Creativity refers to the ability to elaborate, refine, analyze and evaluate existing things, create new objects, and develop innovative ideas and methods. Regarding the relationship between process factors and higher order thinking skills, earlier studies offers valuable insights for the present study (Eseryel etal., 2014; Hwang etal., 2018).
+Referring to the relationship between behavioral engagement and HOTS, previous stud- ies found that students’ engagement had positive influence on problem representation in the game-based learning (Eseryel etal., 2014). Guo etal. (2016) also found that students’ classroom engagement was positively related to problem solving. Moreover, Lein et al. (2016) suggested that engagement uniquely predicted mathematics problem-solving per- formance among seventh-grade students. Students’ behavioral engagement encompasses classroom conduct, inquiry, participation in school-related activities, and interest in aca- demic tasks (Nguyen et al., 2018). Engagement in such activities nurtures their problem solving skills, critical thinking skills and creativity. Thus, we hypothesized that:
+Hypothesis 3 (H3)  Students’  behavioral  engagement  is  positively  related  to  HOTS  in higher education.
+Referring to the relationship between peer interaction and HOTS, previous studies found that peer interaction (including communication and collaboration) was positively related to HOTS (Lu et al., 2021a), this finding was also verified by Hwang et al. (2018). Thus, we hypothesized that:
+Hypothesis 4 (H4)  Students’  peer  interaction  is  positively  related  to  HOTS  in  higher education.
+AI literacy andHO TS
+AI systems, equipped with vast databases and analytical capabilities, offer students a more complex and dynamic learning environment than traditional settings. For example, AI can tailor learning experiences to individual students’ styles and abilities. This personalization not only matches the content to each student’s current level but also pushes them to expand their cognitive limits (Delcker et al., 2024). Additionally, given the complexity and fre- quent updates of AI applications, students must adapt and transfer skills across different software versions. Such scenarios demand the application of critical thinking, problem- solving, and other higher-order thinking skills, challenging students to effectively navi- gate and resolve issues (Ibna et al., 2022). Therefore, based on the foregoing analysis, we hypothesized that:
+Hypothesis 5 (H5)  Students’ AI literacy is positively related to HOTS in higher education.
+Based on the above analyses, hypotheses of the relationship between each dimension of AI literacy and HOTS were as following:
+Hypothesis 5a (H5a)  Students’  AI  awareness  is  positively  related  to  HOTS  in  higher education.
+Hypothesis 5b (H5b)  Students’ AI usage is positively related to HOTS in higher education.
+Hypothesis 5c (H5c)  Students’  AI  evaluation  is  positively  related  to  HOTS  in  higher education.
+Hypothesis  5d  (H5d)  Students’  AI  ethics  is  positively  related  to  HOTS  in  higher education.
+Drawing from the above analyses, we have proposed the research model for this study. Figure 2 visually represents the hypothesized relationships among presage, process, and product factors.
+Method
+Research design
+This study adopted a mixed methods research design to explore students’ AI literacy, behavioral engagement, peer interaction and higher order thinking skills within a higher education context. We collected data via questionnaires and applied statistical methods to study the relationship among these research variables.
+Participants
+A total of 260 students from one university in the east of China were recruited. They were between 18 and 23 years old. Seven individuals’ responses were incomplete, and so we removed them from data analysis. Thus, the valid response rate was 97.3%. Participants were distributed across different majors (e.g. arts or science) and academic level (e.g. fresh- man or junior). All participants had prior experience with artificial intelligence. Among the 253 participants, 152 were men (60.08%) and 101 were women (39.92%).
+Modern college students are, without a doubt, AI natives. Each of them possess both a smartphone and a laptop, devices that are equipped with intelligent applications. This means  they  interact  daily  with  AI-enabled  devises,  continually  cultivating  their  artifi- cial intelligence literacy through every day experiences. For example, they might utilize real-time location services for navigation, rely on search systems for exploring unfamiliar 
+
+Fig. 2  The research model
+topics, and employ virtual assistants, intelligent tutoring systems and AI chatbots to sup- port their learning processes (Azevedo etal., 2022; Li, 2023).
+Instruments
+The questionnaire survey in this study consisted of two parts. The first part was used to col- lect demographic data of participants. The second part was used to measure students’ per- ceptions of the key variables proposed in the research model (e.g. AI literacy, behavioral engagement, peer interaction, and higher order thinking skills). We used Cronbach’s Alpha to assess the reliability of our questionnaire, as it evaluates how closely related a set of items is overall. This metric is widely applied in educational research to ensure that ques- tionnaire items consistently measure the same underlying construct or trait. In the social sciences, values around 0.7–0.8 are generally considered acceptable, while values above 0.8 or 0.9 indicate good to excellent reliability (Fornell & Larcker, 1981).
+AI literacy Students’ AI literacy (α = 0.847), including artificial intelligence awareness, artificial intelligence usage, artificial intelligence evaluation, and artificial intelligence eth- ics, each was measured by three items adapted from Wang et al. (2023). This scale was initially developed for the university context and has since been widely utilized in various other higher education research contexts (Celik, 2023). Each item of the scale was scored on a five-point Likert scale, ranging from 1 (strongly disagree) to 5 (strongly agree). One representative sample item to measure students’ artificial intelligence awareness is “I can distinguish between smart devices and non-smart devices.” One representative sample item to measure students’ artificial intelligence usage is “I can skillfully use AI applications or products to help me with my daily work.” One representative sample item to measure stu- dents’ artificial intelligence evaluation is “I can evaluate the capabilities and limitations of an AI application or product after using it for a while.” One representative sample item to measure students’ artificial intelligence ethics is “I always comply with ethical principles when using AI applications or products.”
+Behavioral engagement
+Students’ behavioral engagement (α = 0.811) was measured by three items adapted from Skinner et al. (2009). This scale was originally developed for measuring academic activi- ties  in  classroom  contexts  and  has  been  widely  adopted  in  various  learning  contexts, including blended learning environments (Chiu et al., 2021). Each item was scored on a five-point Likert scale, ranging from 1 (strongly disagree) to 5 (strongly agree). One repre- sentative sample item to measure students’ behavioral engagement is “I try hard to do well in all of the learning activities.”
+Peer interaction andhigher or der thinking skills
+Students’  peer  interaction  (α = 0.805),  including  communication  and  collaboration, was measured by six and five items respectively. Students’ higher order thinking skills (α = 0.897), including critical thinking, problem solving and creativity, was measured by three, four and three items respectively. Items of both peer interaction and higher order thinking skills scales were adapted from Hwang etal. (2018). This scale was initially devel- oped for mobile learning contexts and has since been widely utilized in various other learn- ing contexts, including collaborative inquiry-based learning contexts and smart classroom learning environments (Lu etal., 2021a, 2021b). Each item was scored on a five-point Lik- ert scale, ranging from 1 (strongly disagree) to 5 (strongly agree). One representative sam- ple item to measure students’ communication is “While I’m talking I think about how the other person feels”. One representative sample item to measure students’ collaboration is “I can finish my work efficiently when I conduct collaborative learning.” One representa- tive sample item to measure students’ critical thinking is “I consider several alternatives to a problem before I answer.” One representative sample item to measure students’ problem solving is “I believe I can put effort into solving problems.” One representative sample item to measure students’ creativity is “I like to try something new.”
+Data collection andanaly sis
+Data were collected in the middle of the spring semester during a mid-class break of the course in 2023. Permission was granted by the university to conduct the research before the survey was conducted. Participants were told that their results in the survey would not influence their academic grades of the course and their information would only be used for educational research. Participation was both voluntarily and anonymous. Approximately 5–8 min were needed to complete the questionnaire. The online questionnaire platform (https://www.wjx.cn) was used to collect the data. This platform is popular in China and is widely used in academic settings such as universities. All responses were then imported into SPSS 21.0 and AMOS 21.0 for data analysis. The structural equation modeling analy- sis was conducted to analyze the relationships between college students’ AI literacy and higher order thinking skills.
+Results
+Exploratory factor analysis
+Both  exploratory  factor  analysis  (EFA)  and  confirmatory  factor  analyses  (CFA)  were employed to validate the instruments adopted in the present study. An exploratory factor analysis (EFA) with varimax rotation was conducted to investigate the construct validity of each subscale. The KMO value was 0.868, and Bartlett’s test of sphericity value was 3153.172 (p < 0.001). Furthermore, the structure explained 79.27% of the total variance in the model. Table1 indicates the factor loadings of the items. Combined, these results sug- gest that this solution was a reasonable interpretation of the present survey.
+Confirmatory factor analysis
+Following the EFA, CFA was conducted to validate the instruments. In the present study, a structural equation model (SEM) was developed and tested. The measurement model was assessed by goodness-of-fit, construct reliability and construct validity. The details of CFA are presented in Tables 2, 3 and 4. Goodness-of-fit was determined based on GFI, CFI, TLI, RMSEA and SRMR. As presented in Table 2, all model fit statistics were within  the  acceptable  ranges  (x2/df = 1.487 < 3,  GFI = 0.917 > 0.90,  CFI = 0.973 > 0.90, TLI = 0.966 > 0.90,  RMSEA = 0.044 < 0.08,  SRMR = 0.044 < 0.08)  (Hair  et al.,  2010), which demonstrates that the measurement model exhibits satisfactory values.
+Table 1  Exploratory factor  Component
+analysis results (only factor 
+loadings greater than 0.5 are  1 2 3 4 5 6 7 shown) 
+AW1 0.876
+AW2 0.814
+AW3 0.829
+US1 0.842
+US2 0.845
+US3 0.832
+EV1 0.803
+EV2 0.854
+EV3 0.813
+ET1 0.875
+ET2 0.91
+ET3 0.886
+BE1 0.745 BE2 0.613 BE3 0.765 PI1 0.772
+PI2 0.793
+PI3 0.755
+HOTS1 0.805
+HOTS2 0.886
+HOTS3 0.872
+EV Evaluation, US Usage, ET Ethics, AW Awareness, PI Peer interac- tion, BE Behavioral engagement, HOTS Higher order thinking skills
+Table 2  Results of goodness-of-fit
+                       2            Df            x2/df      GFI          CFI         TLI         RMSEA          SRM
+                       x
+Model Acceptable range 251.32       169.000       1.487      0.917        0.973       0.966       0.044          0.04
+                                                  < 3        ≥ 0.90       ≥ 0.90      ≥ 0.90      ≤ 0.08         ≤ 0.08
+As shown in Table 3, construct reliability of the model was determined through com- posite reliability (CR) and Cronbach’s alpha. First, the composite reliability values were all over 0.7, demonstrating satisfactory reliability (Nunnally & Bernstein, 1994). Sec- ond, the Cronbach’s alpha value were all over 0.7 and within acceptable limits (For- nell & Larcker, 1981). Convergent validity was determined through average variance extracted (AVE). The results of average variance extracted (AVE) were all greater than 0.5, which was also satisfactory (Segars, 1997).
+As presented in Table 4, the square roots of AVE were compared to correlations among latent variables to evaluate the discriminant validity (Fornell & Larcker, 1981). All latent correlations were less than the corresponding AVE square roots, which was satisfactory. Overall, these results indicate that the proposed research model has a good fit.
+Table 3  Results of construct reliability and validity
+Convergent validity Reliability
+AVE CR Cronbach’s alpha
+
+ 
+Understanding ther elationship betweenc olleges students’…
+Awareness
+Usage
+Evaluation
+Ethics
+Peer interaction
+Behavioral engagement Higher order thinking skills Criteria
+Table 4  Results of discriminant validity
+0.685 0.867 0.867
+0.682 0.866 0.867
+0.717 0.883 0.882
+0.733 0.892 0.891
+0.586 0.809 0.805
+0.587 0.810 0.811
+0.741 0.896 0.897
+> 0.50 > 0.70 > 0.70
+ 
+         EV        US        ET        AW        PI        BE        HOTS
+EV       0.846
+US       0.339     0.826
+ET       0.258     0.265     0.856
+AW       0.506     0.447     0.149     0.828
+PI       0.507     0.496     0.243     0.468     0.766
+BE       0.636     0.622     0.331     0.532     0.491     0.766
+HOTS     0.546     0.186     0.225     0.264     0.447     0.527     0.861
+ 
+
+ 
+Understanding ther elationship betweenc olleges students’…
+EV Evaluation, US Usage, ET Ethics, AW Awareness, PI Peer interac- tion, BE Behavioral engagement, HOTS Higher order thinking skills
+The structural model andh ypothesis test
+The structural model was conducted to test the hypotheses. A structural model was used to present the results of the structural modeling analysis. As can be seen in Fig.3, the struc- tural model was adjusted based on the research model, presented with the path coefficients marked by standardized regression weights (β value) and t-values to show the relationships between artificial intelligence literacy and higher order thinking skills. In Fig. 3, the solid line between every two variables represents that the hypothesis was supported, while the dashed line represents that the hypothesis was unsupported.
+As can be seen in Table5, findings reflect that some hypotheses were supported, includ- ing H2a, H1b, H2b, H1c, H2c, H5c, H3 and H4. While others were not supported, includ- ing H1a, H5a, H5b, H1d, H2d and H5d. AI awareness (β = 0.156, p < 0.05), AI usage (β = 0.309, p < 0.001) and AI evaluation (β = 0.298, p < 0.001) were significantly positively related to peer interaction. AI usage (β = 0.329, p < 0.001) and AI evaluation (β = 0.324, p < 0.001) were significantly positively related to behavioral engagement. AI evaluation (β = 0.296, p < 0.01), behavioral engagement (β = 0.616, p < 0.001) and peer interaction (β = 0.311, p < 0.01) were significantly positively associated with higher order thinking skills. In addition, it is worth mentioning that AI usage (β = -0.313, p < 0.01) had signifi- cantly negative association with higher order thinking skills.
+
+Fig. 3  The structural model
+Analysis ofindir ect effects amongk ey factors
+To investigate the mediation effect, the direct and indirect effect of each hypothesis was analyzed in the present study. Based on the above analyses, we performed percentile boot- strapping and bias-corrected bootstrapping at 95% confidence interval with 2000 bootstrap sample (Arnold etal., 2015) to test full or partial mediation. We calculated the confidence of interval of the lower and upper bounds to test the significance of indirect effects as rec- ommended by Preacher and Hayes (2008).
+Table 5  Results of the hypotheses
+Hypothesis       Relationship           β              S.E           T                  Result                  η2
+H1a              AW → BE                0.097          0.054         1.787              Not Supported           0.210
+H2a              AW → PI                0.156          0.076         2.055*             Supported               0.156
+H5a              AW → HOTS              -0.124         0.082         -1.502             Not Supported           0.062
+H1b              US → BE                0.329          0.059         5.531***           Supported               0.317
+H2b              US → PI                0.309          0.082         3.762***           Supported               0.224
+H5b              US → HOTS              -0.313         0.105         -2.988**           Not Supported           0.104
+H1c              EV → BE                0.324          0.059         5.463***           Supported               0.389
+H2c              EV → PI                0.298          0.079         3.774***           Supported               0.233
+H5c              EV → HOTS              0.296          0.104         2.846**            Supported               0.314
+H1d              ET → BE                0.078          0.046         1.694              Not Supported           0.204
+H2d              ET → PI                0.057          0.064         0.89               Not Supported           0.088
+H5d              ET → HOTS              0.035          0.069         0.502              Not Supported           0.090
+H3               BE → HOTS              0.616          0.174         3.546***           Supported               0.245
+H4               PI → HOTS              0.311          0.099         3.148**            Supported               0.218
+EV Evaluation, US Usage, ET Ethics, AW Awareness, PI Peer interaction, BE Behavioral engagement, HOTS Higher order thinking skills
+*p < 0.05; **p < 0.01; ***p < 0.001
+Table 6  Bootstrapping results for standardized direct, indirect and total effects of the hypothesized model
+β SE Z Bootstrapping
+95% CI Bias-corrected Two-tailed
+95% CI significance
+LLCI ULCI LLCI ULCI
+
+ 
+Understanding ther elationship betweenc olleges students’…
+Standardized direct effects
+AW → HOTS −0.12
+ET → HOTS 0.03
+US → HOTS −0.27
+EV → HOTS 0.27
+BE → HOTS 0.44
+PE → HOTS 0.28
+AW → BE 0.13
+ET → BE 0.10
+US → BE 0.40
+EV → BE 0.41
+AW → PI 0.17
+ET → PI 0.06
+US → PI 0.30
+EV → PI 0.30 Standardized indirect effects
+AW → BE → HOTS 0.06
+AW → PI → HOTS 0.05
+US → BE → HOTS 0.20
+US → PI → HOTS 0.10
+EV → BE → HOTS 0.20
+EV → PI → HOTS 0.09
+ET → BE → HOTS 0.05
+ET → PI → HOTS 0.02 Standardized total effects
+AW → HOTS −0.02 ET → HOTS 0.09 US → HOTS −0.01 EV → HOTS 0.53 BE → HOTS 0.44 PI → HOTS 0.28 AW → BE 0.13 ET → BE 0.10 US → BE 0.40 EV → BE 0.41 AW → PI 0.17 ET → PI 0.06 US → PI 0.30 EV → PI 0.30
+0.9 −1.39 −0.29
+0.10 0.46 −0.12
+0.11 −2.81 −0.48
+0.13 2.13 0.00
+0.14 3.14 0.20
+0.08 3.34 0.12
+0.08 1.59 −0.05
+0.08 1.20 −0.06
+0.08 4.98 0.24
+0.8 5.31 0.27
+0.9 1.98 −0.02
+0.7 0.86 −0.08
+0.8 3.47 0.13
+0.9 3.84 0.16
+0.04 1.40 −0.03
+0.3 1.66 0.00
+0.4 2.82 0.07
+0.5 2.59 0.03
+0.07 2.84 0.08
+0.04 2.66 0.03
+0.04 1.09 −0.03
+0.02 0.86 −0.02
+0.10 −0.15 −0.22
+0.06 1.60 −0.02
+0.08 −0.16 −0.17
+0.10 5.62 0.35
+0.14 3.14 0.20
+0.08 3.34 0.12
+0.08 1.59 −0.05
+0.08 1.20 −0.06
+0.08 4.98 0.24
+0.8 5.31 0.27
+0.9 1.98 −0.02
+0.7 0.86 −0.08
+0.8 3.47 0.13
+0.9 3.84 0.16
+0.05 −0.29 0.05 0.16
+0.16 −0.11 0.16 0.61
+−0.10 −0.46 −0.08 0.008(**)
+0.50 0.03 0.53 0.029(*)
+0.76 0.18 0.73 0.004(**)
+0.45 0.12 0.45 0.001(**)
+0.28 −0.03 0.29 0.11
+0.26 −0.07 0.25 0.27
+0.55 0.24 0.56 0.000(**)
+0.57 0.25 0.55 0.001(**)
+0.33 −0.01 0.33 0.07
+0.20 −0.09 0.19 0.42
+0.47 0.13 0.47 0.002(**)
+0.47 0.14 0.45 0.001(**)
+0.15 −0.01 0.16 0.09
+0.11 0.00 0.12 0.049(*)
+0.35 0.07 0.35 0.001(**)
+0.17 0.03 0.19 0.001(**)
+0.35 0.07 0.34 0.002(**)
+0.17 0.03 0.17 0.001(**)
+0.15 −0.03 0.15 0.20
+0.07 −0.02 0.07 0.35
+0.18 −0.22 0.18 0.87
+0.21 −0.03 0.21 0.13
+0.13 −0.17 0.14 0.88
+0.72 0.35 0.72 0.000(**)
+0.76 0.18 0.73 0.004(**)
+0.45 0.12 0.45 0.001(**)
+0.28 −0.03 0.29 0.11
+0.26 −0.07 0.25 0.27
+0.55 0.24 0.56 0.000(**)
+0.57 0.25 0.55 0.00
+0.33 −0.01 0.33 0.07
+0.20 −0.09 0.19 0.42
+0.47 0.13 0.47 0.002(**)
+0.47 0.14 0.45 0.001(**)
+
+ 
+Understanding ther elationship betweenc olleges students’…
+EV Evaluation, US Usage, ET Ethics, AW Awareness, PI Peer interaction, BE Behavioral engagement, HOTS Higher order thinking skills
+*p < 0.05; **p < 0.01
+As shown in Table6, the indirect effects of AI awareness on higher order thinking skills (β = 0.05, p < 0.05, Z = 1.66) via peer interaction, AI usage on higher order thinking skills (β = 0.20, p < 0.01, Z = 2.82) via behavioral engagement, AI usage on higher order think- ing skills (β = 0.10, p < 0.01, Z = 2.59) via peer interaction, AI evaluation on higher order thinking skills (β = 0.20, p < 0.01, Z = 2.84) via behavioral engagement and AI evalua- tion on higher order thinking skills (β = 0.09, p < 0.01, Z = 2.66) via peer interaction were all significant. While the indirect effect of AI awareness on higher order thinking skills (β = 0.06, p = 0.09, Z = 1.40) via behavioral engagement, AI ethics on higher order think- ing skills (β = 0.05, p = 0.20, Z = 1.09) via behavioral engagement and AI ethics on higher order thinking skills (β = 0.02, p = 0.35, Z = 0.86) via peer interaction were not significant.
+Discussion andconclusion
+The present study provides valuable insights into the relationship between AI literacy and HOTS, in a higher education context, particularly highlighting the mediating roles of behavioral engagement and peer interaction. Results of the study show that there are both direct and indirect relationship between AI literacy and HOTS.
+First, the relationship between the two process factors and HOTS was discussed. It was found that both behavioral engagement and peer interaction had significantly direct influ- ences on HOTS. This finding is consistent with those reported in related studies (Eseryel etal., 2014; Guo etal., 2016; Lein etal., 2016). This finding can be attributed to the facets of the students’ behavioral engagement domain, which encompasses classroom conduct, inquiry, participation in school-related activities, and interest in academic tasks (Nguyen etal., 2018). This is beneficial for HOTS development. Additionally, when students engage in peer interaction, they are exposed to diverse perspectives and are often encouraged to articulate and defend their ideas. This social aspect of learning promotes deeper cogni- tive processing, fostering skills such as critical analysis, information synthesis, and creative problem-solving—key components of HOTS. This finding indicated that instructors should endeavor to enhance students’ behavioral engagement and peer interaction to promote col- lege students’ HOTS in AI era (Davenport & Ronanki, 2018; Kim etal., 2020). For exam- ple, researchers could delve deeper into understanding how specific aspects of behavioral engagement and peer interaction, such as inquiry-based learning, problem-based learn- ing, or the use of AI-mediated peer collaboration, could contribute to the development of HOTS.
+Second, the influences of each dimension of AI literacy on process factors and HOTS were discussed. Referring to the influences of AI awareness on process factors and HOTS, it was found that AI awareness had no direct influence on behavioral engagement and HOTS. This finding is not consistent with those reported in related studies (Chen et al., 2014; Li et al., 2023). This may be because AI awareness alone does not prompt students to integrate AI technologies into their academic tasks unless they are explicitly taught how to apply these tools to enhance learning. Without active application, AI awareness remains a passive understanding, offering no substantial advantage in fostering engage- ment or HOTS. This suggests that AI awareness must be accompanied by practical skills and opportunities to use AI in real-world learning contexts to have measurable impacts on engagement and cognitive outcomes.
+But it was found that AI awareness had indirect effect on HOTS via the mediating vari- able of peer interaction. This finding highlights the significance of the social dimension of learning in the context of AI. While students with higher AI awareness may not engage with AI technologies independently, they are more likely to discuss AI-related topics with peers. Such discussions promote peer interaction, which positively influences HOTS. In other words, AI awareness may act as a catalyst for peer-based learning, where students exchange ideas, collaborate, and reflect on AI applications, thereby cultivating their HOTS. This suggests that educators should encourage collaborative AI-related activities and dis- cussions to maximize the benefits of AI awareness on student learning outcomes.
+Referring to the influences of AI usage on process factors and HOTS, it was found that AI usage had significant and positive influence on behavioral engagement and peer interac- tion. This finding is consistent with those reported by scholars (Li etal., 2023; Prior etal., 2016). However, it was surprising and interesting to observe a significant and negative cor- relation between AI usage and HOTS. This can be attributed to the fact that, during high school, students were restricted from using smartphones and laptops in classes, barring the information technology class. Consequently, they had limited exposure to AI applica- tions. Upon entering college, where they faced no such restrictions, they had sudden access to these technologies. This abrupt transition might have led students to misunderstand the correct approach towards AI applications, potentially leading to an overreliance or depend- ence on AI for problem-solving. When students rely too heavily on AI, their own cognitive efforts diminish. The development of HOTS necessitates robust analyzing, evaluating, and creating capabilities (Lu et al., 2021a, 2023). Hence, an overdependence on AI applica- tions can hinder the cultivation of HOTS. This observation might also support the rationale behind several countries’ decision to restrict ChatGPT in educational settings (Choi etal., 2023). Given that young individuals are still shaping their ideologies, unchecked AI app usage, without proper guidance, could negatively influence them. This finding suggests that AI tools should be integrated thoughtfully, with an emphasis on balancing technology use with opportunities for students to engage in meaningful cognitive effort, such as analysis, critical thinking, and problem-solving.
+When considering the relationship between AI evaluation on process factors and HOTS, we found that AI evaluation had significant and positive influences on behavioral engage- ment, peer interaction and HOTS. This finding is consistent with those reported by previ- ous studies (Li et al., 2023; Prior et al., 2016). Since AI evaluation refers to the ability to select, analyze and critically evaluate AI applications and their results, evaluation is origi- nally a sub-dimension of higher order thinking skills (Hwang etal., 2018). When students evaluate an AI app, they first need to query the information to understand which indicators to evaluate based on, and then they need to compare different parameters of the same indi- cator in different AI apps. In other words, evaluation itself is a process of training higher- order thinking skills. This result underscores the importance of integrating AI evaluation tasks into the curriculum to foster both student engagement and cognitive development. By actively evaluating AI applications, students move beyond passive technology use, becom- ing critical users who can assess the strengths and limitations of AI tools. This approach not only enhances their higher-order thinking skills but also prepares them for the complex decision-making processes they will encounter in both academic and professional contexts.
+Referring to the influences of AI ethics on process factors and HOTS, it was found that AI ethics had no significant influence on behavioral engagement, peer interaction and HOTS. This finding is inconsistent with those obtained in previous studies (Chen et al., 2014; Prior et al., 2016). This can be understood by considering that AI ethics pertains to the awareness of the responsibilities and risks related to the usage of AI technolo- gies. Whether a student uses AI doesn’t necessarily reflect their sense of responsibility or risk awareness; they might simply be conscious of aspects like privacy and security. Such considerations don’t appear to influence behavioral engagement, peer interaction, or HOTS. This results may also be attributed to the fact that, while ethical awareness is valu- able, it has not been embedded in practical learning scenarios that require students to apply ethical principles to complex problem-solving. Without applying ethical principles to real- world or problem-based learning tasks, students may not encounter the cognitive challenge necessary to foster HOTS. Therefore, it is essential to explore ways to integrate AI eth- ics more effectively into collaborative and problem-based learning environments, ensuring that ethical considerations become a core part of students’ critical thinking and decision- making processes.
+Theoretical andpedagogic al value
+From the theoretical perspective, this study verified that the 3P model is a great theoretical framework to understand the relationship between AI literacy and HOTS in higher educa- tion context. In addition, the mediating role of behavioral engagement and peer interaction was also investigated. Findings of the study provided a more integrative perspective on how to balance the relationship between AI literacy and HOTS.
+From the pedagogical perspective, this study offers valuable insights. Firstly, in terms of AI awareness, it is necessary to guide college students towards an accurate understand- ing of AI—as a supplementary tool rather than a replacement for our cognitive processes. For example, leveraging AI for routine and repetitive tasks can free up time, allowing us to tackle more complex, higher-order challenges, which in turn nurtures HOTS. Second, in terms of AI usage, it is necessary to guide college students to use AI rationally and effi- ciently. As the old saying goes, “everyone going too far is as bad as not going far enough.” While AI technologies can be invaluable when required, it’s essential not to become wholly dependent on them for every aspect. Third, in terms of AI evaluation, it is necessary to evaluate AI applications from a critical perspective, so that the right tools can be selected. On the other hand, it is conducive to cultivating higher order thinking skills. Forth, in terms of AI ethics, although AI ethics has no impact on behavioral engagement, peer inter- action, and HOTS, it is still necessary for students to pay attention to ethical aspects, their privacy and security when using AI apps. Finally, we need to encourage college students to improve their behavioral engagement and peer interaction in the learning process, since both of them had positive influences on HOTS. For example, instructors could design some collaborative inquiry-based learning activities, so that students are able to communicate and collaborate with others to complete learning tasks. This will be helpful to cultivate stu- dents’ behavioral engagement and peer interaction and may positively impact HOTS (Lu et al., 2021c). Additionally, some incentive mechanisms can be introduced into classroom teaching, including immediate evaluation, feedback and rewards (Zhong & Xia, 2022).
+Limitations andfutur e research directions
+While  the  present  study  has  important  implications,  some  limitations  still  should  be acknowledged. Firstly, it should be noticed that we have incorporated two important learn- ing factors (behavioral engagement and peer interaction) as the learning process factors into the structural model. Some other relevant factors, such as emotional engagement, self-regulated learning and cognitive engagement can also be considered by researchers in future studies. These elements may provide a more comprehensive understanding of the learning process and its influence between AI literacy and higher-order thinking skills.
+Secondly, data used in the present study was self-reported, i.e. subjective. Some other objective evidence (e.g. learning behavior observations and analyses) can be considered in future studies to triangulate findings with self-reported data. Specifically, methods like social network analysis could be employed to examine peer interaction patterns in a more nuanced way. Researchers could quantitatively assess the structure and quality of peer net- works and their mediating influences between AI literacy and higher order thinking skills.
+Third, the quantitative approach was used in the study, which does not allow in-depth analysis of the relationships between AI literacy and HOTS. Further studies should take a more qualitative approach to gain a more thorough and deeper understanding of this issue. A qualitative approach, such as in-depth interviews with students could be conducted. Interviews would allow researchers to explore students’ perceptions, motivations, and per- sonal learning experiences in greater depth, uncovering factors that are not easily captured by quantitative measures. This method would offer a more comprehensive understanding of how individual students navigate learning processes and apply AI literacy in different contexts.
+Lastly, future studies should aim for a broader and more diverse participant pool, e.g. expanding it beyond university-level students such as learners from elementary or second- ary schools. Involving younger students may provide insights into how AI literacy and higher-order thinking skills develop at different stages of education, helping to inform age- appropriate pedagogical approaches. Including participants from various socio-cultural and educational backgrounds will also enhance the generalizability of the findings, offering a more holistic view of how different populations engage with AI literacy and HOTS across educational settings.
+Appendix
+Participants’ AI literacy, behavioral engagement, peer interaction, and higher order think- ing skills are assessed based on specific criteria. Participants rate each item on a 5-point Likert-type scale, which ranges from 1 (strongly disagree) to 5 (strongly agree). Below is a breakdown of these criteria:
+AI literacy
+Awareness
+1. I can distinguish between smart devices and non-smart devices.
+2. I know how AI technology can help me.
+3. I can identify the AI technology employed in the applications and products I use.
+Usages
+1. I can skillfully use AI applications or products to help me with my daily work.
+2. It is usually easy for me to learn to use a new AI application or product.
+3. I can use AI applications or products to improve my work efficiency.
+Evaluation
+1. I can evaluate the capabilities and limitations of an AI application or product after using it for a while.
+2. I can choose a proper solution from various solutions provided by a smart agent.
+3. I can choose the most appropriate AI application or product from a variety for a particu- lar task.
+Ethics
+1. I always comply with ethical principles when using AI applications or products.
+2. I am alert to privacy and information security issues when using AI applications or products.
+3. I am always alert to the abuse of AI technology.
+Behavioral engagement
+1. I try hard to do well in all of the learning activities.
+2. In learning, I work as hard as I can.
+3. In learning, I participate in all the learning activities.
+Peer interaction
+Communication
+1. I try to make the other person feel good.
+2. I try to make the other person feel important.
+3. I try to be warm when communicating with others.
+4. While I’m talking I think about how the other person feels.
+5. I am verbally and nonverbally supportive of other people.
+6. I disclose at the same level that others disclose to me.
+Collaboration
+1. I believe our team can cooperate successfully when I conduct collaborative learning.
+2. I try to provide useful and sufficient information when I conduct collaborative learning.
+3. I have good communication with my team members when I conduct collaborative learn- ing.
+4. I can finish my work efficiently when I conduct collaborative learning.
+5. Work is split based on our abilities when I conduct collaborative learning.
+Higher order thinking skills
+Problem‑solving
+1. 1.When facing problems, I believe I have the ability to solve them.
+2. I believe I can put effort into solving problems.
+3. I can solve problems that I have met before.
+4. I am willing to face problems and make an effort to solve them.
+Critical thinking
+1. I ask myself periodically if I am meeting my goals.
+2. I consider several alternatives to a problem before I answer.
+3. I find myself pausing regularly to check my comprehension.
+4. I ask myself questions about how well I am doing once I finish a task.
+Creativity
+1. I like to observe something I haven’t seen before and understand it in detail.
+2. I like to try something new.
+3. I like to do something by myself.
+Acknowledgements This  work  was  supported  by  the  Major  Project  of  Philosophy  and  Social  Science Research in Colleges and Universities of Jiangsu Province, “Research on hierarchical collaborative inquiry- based teaching styles based on the smart education platform of primary and secondary schools in Jiangsu” (Grant No. 2024SJZD074), the Education Science Planning Project of Jiangsu Province, “Research on the mechanism and intervention of AI-supported collective intelligence in collaborative inquiry-based learn- ing” (Grant No. C/2023/01/108), the National Natural Science Foundation of China (Grant No. 62407023, 62407008), the Jiangsu Social Science Fund, “Research on the legalization of corruption governance ena- bled by digital governance” (Grant No. 22FXB001).
+Data availability The datasets generated and analyzed during the current study are not publicly available but will be provided by the corresponding author on reasonable request.
+Declarations 
+Competing interests The authors declare no competing interests.
+References
+Arnold, K. A., Connelly, C. E., Walsh, M. M., & Martin Ginis, K. A. (2015). Leadership styles, emotion 
+regulation, and burnout. Journal of Occupational Health Psychology, 20(4), 481.
+Azevedo, R., Bouchet, F., Duffy, M., Harley, J., Taub, M., Trevors, G., & Cerezo, R. (2022). Lessons 
+learned and future directions of MetaTutor: Leveraging multichannel data to scaffold self-regulated learning with an intelligent tutoring system. Frontiers in Psychology, 13, 813632.
+Biggs, J. (1993). What do inventories of students’ learning processes really measure? A theoretical 
+review and clarification. British Journal of Educational Psychology, 63(1), 3–19.
+Biggs, J., Kember, D., & Leung, D. Y. (2001). The revised two-factor study process questionnaire: 
+R-SPQ-2F. British Journal of Educational Psychology, 71(1), 133–149.
+Burgsteiner, H., Kandlhofer, M., & Steinbauer, G. (2016). Irobot: Teaching the basics of artificial intel-
+ligence in high schools. In Proceedings of the AAAI Conference on Artificial Intelligence. https:// doi.org/10.1609/aaai.v30i1.9864
+Celik, I. (2023). Exploring the determinants of artificial intelligence (Ai) literacy: Digital divide, com-
+putational thinking, cognitive absorption. Telematics and Informatics, 83, 102026.
+Chen, L. C., Chen, Y. H., & Ma, W. I. (2014). Effects of integrated information literacy on science learn-
+ing and problem-solving among seventh-grade students. Malaysian Journal of Library & Informa- tion Science, 19(2), 35.
+Chen, X., Xie, H., & Hwang, G. J. (2020). A multi-perspective study on artificial intelligence in edu-
+cation: Grants, conferences, journals, software tools, institutions, and researchers. Computers and Education: Artificial Intelligence, 1, 100005.
+Chiu, T. K. (2021). Digital support for student engagement in blended learning based on self-determina-
+tion theory. Computers in Human Behavior, 124, 106909.
+Choi, J. H., Hickman, K. E., Monahan, A., & Schwarcz, D. (2023). ChatGPT goes to law school. SSRN 
+Electronic Journal. https://doi.org/10.2139/ssrn.4335905
+Christudason, A. (n. d.). What is peer interaction/learning. Retrieved August 4, 2023, from What is Peer 
+Interaction/Learning | IGI Global (igi-global.com).
+Davenport, T. H., & Ronanki, R. (2018). Artificial intelligence for the real world. Harvard Business 
+Review, 96(1), 108–116.
+Delcker, J., Heil, J., Ifenthaler, D., Seufert, S., & Spirgi, L. (2024). First-year students AI-competence 
+as a predictor for intended and de facto use of AI-tools for supporting learning processes in higher education. International Journal of Educational Technology in Higher Education, 21, 18.
+Dunkin, M. J., & Biddle, B. J. (1974). The study of teaching. Holt, Rinehart & Winston.
+Dwivedi, Y. K., Kshetri, N., Hughes, L., Slade, E. L., Jeyaraj, A., Kar, A. K., & Wright, R. (2023). “So 
+what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and impli- cations of generative conversational AI for research, practice and policy. International Journal of Information Management, 71, 102642.
+Eseryel, D., Law, V., Ifenthaler, D., Ge, X., & Miller, R. (2014). An investigation of the interrelation-
+ships  between  motivation,  engagement,  and  complex  problem  solving  in  game-based  learning. Journal of Educational Technology & Society, 17(1), 42–53.
+Eshet, Y. (2004). Digital literacy: A conceptual framework for survival skills in the digital era. Journal 
+of Educational Multimedia and Hypermedia, 13(1), 93–106.
+Fornell, C., & Larcker, D. F. (1981). Evaluating Structural Equation Models with unobservable variables 
+and measurement error. Journal of Marketing Research, 18(1), 39–50.
+Frazier, K., & Reynolds, E. (2012). Power up your creative mind. Pieces of Learning.
+Fredricks, J. A., Blumenfeld, P. C., & Paris, A. H. (2004). School engagement: Potential of the concept, 
+state of the evidence. Review of Educational Research, 74(1), 59–109.
+Gunkel, D. J. (2012). The machine question: Critical perspectives on AI, robots, and ethics. Mit Press. Guo, F., Yao, M., Wang, C., Yan, W., & Zong, X. (2016). The effects of service learning on student prob-
+lem solving: The mediating role of classroom engagement. Teaching of Psychology, 43(1), 16–21. Hair, J. F. J., Black, W. C., Babin, B. J., & Anderson, R. E. (2010). Multivariate data analysis: A global 
+perspective (7th ed.). Pearson.
+Hallaq, T. (2016). Evaluating online media literacy in higher education: Validity and reliability of the 
+digital online media literacy assessment (DOMLA). Journal of Media Literacy Education, 8(1), 62–84.
+Han, J. H. (2014). Closing the missing links and opening the relationships among the factors: A litera-
+ture review on the use of clicker technology using the 3P model. Journal of Educational Technol- ogy & Society, 17(4), 150–168.
+Huang, W., Roscoe, R. D., Johnson-Glenberg, M. C., & Craig, S. D. (2021). Motivation, engagement, 
+and performance across multiple virtual reality sessions and levels of immersion. Journal of Com- puter Assisted Learning, 37(3), 745–758.
+Huang, Y. M., Silitonga, L. M., & Wu, T. T. (2022). Applying a business simulation game in a flipped 
+classroom to enhance engagement, learning achievement, and higher-order thinking skills. Comput- ers & Education, 183, 104494.
+Hwang, G. J., Lai, C. L., Liang, J. C., Chu, H. C., & Tsai, C. C. (2018). A long-term experiment to 
+investigate the relationships between high school students’ perceptions of mobile learning and peer interaction and higher-order thinking tendencies. Educational Technology Research and Develop- ment, 66, 75–93.
+Ibna Seraj, P. M., & Oteir, I. (2022). Playing with AI to investigate human-computer interaction technol-
+ogy and improving critical thinking skills to pursue 21st century age. Education Research Interna- tional. https://doi.org/10.1155/2022/6468995
+Jansen, T., & Möller, J. (2022). Teacher judgments in school exams: Influences of students’ lower-order-
+thinking skills on the assessment of students’ higher-order-thinking skills. Teaching and Teacher Education, 111, 103616.
+Jones-Jang, S. M., Mortensen, T., & Liu, J. (2021). Does media literacy help identification of fake news? 
+Information literacy helps, but other literacies don’t. American Behavioral Scientist, 65(2), 371–388. Kandlhofer, M., Steinbauer, G., Hirschmugl-Gaisch, S., & Huber, P. (2016). Artificial intelligence and 
+computer science in education: From kindergarten to university. In 2016 IEEE Frontiers in Educa-
+tion Conference (FIE) (pp. 1–9). IEEE.
+Kim, H. J., Yi, P., & Hong, J. I. (2020). Students’ academic use of mobile technology and higher-order 
+thinking skills: The role of active engagement. Education Sciences, 10(3), 47.
+Lane, E. S., & Harris, S. E. (2015). A new tool for measuring student behavioral engagement in large uni-
+versity classes. Journal of College Science Teaching, 44(6), 83–91.
+Laupichler, M. C., Aster, A., Schirch, J., & Raupach, T. (2022). Artificial intelligence literacy in higher 
+and adult education: A scoping literature review. Computers and Education: Artificial Intelligence, 3, 100101.
+Lee, M. H., Liang, J. C., Wu, Y. T., Chiou, G. L., Hsu, C. Y., Wang, C. Y., & Tsai, C. C. (2020). High school 
+students’ conceptions of science laboratory learning, perceptions of the science laboratory environ- ment, and academic self-efficacy in science learning. International Journal of Science and Mathemat- ics Education, 18, 1–18.
+Lein, A. E., Jitendra, A. K., Starosta, K. M., Dupuis, D. N., Hughes-Reid, C. L., & Star, J. R. (2016). Assess-
+ing the relation between seventh-grade students’ engagement and mathematical problem solving per-
+formance. Preventing School Failure: Alternative Education for Children and Youth, 60(2), 117–123. Lewis, A., & Smith, D. (1993). Defining higher order thinking. Theory into Practice, 32(3), 131–137.
+Li, H. (2023). Effects of a ChatGPT-based flipped learning guiding approach on learners’ courseware pro- ject performances and perceptions. Australasian Journal of Educational Technology, 39(5), 40–58.
+Li, H., Zhu, S., Wu, D., Yang, H. H., & Guo, Q. (2023). Impact of information literacy, self-directed learn-
+ing skills, and academic emotions on high school students’ online learning engagement: A struc- tural equation modeling analysis. Education and information technologies. https://doi.org/10.1007/ s10639-023-11760-2
+Li, L. Y., & Tsai, C. C. (2020). Students’ patterns of accessing time in a text structure learning system: Rela-
+tionship to individual characteristics and learning performance. Educational Technology Research and Development, 68, 2569–2594.
+Long, D., & Magerko, B. (2020, April). What is AI literacy? Competencies and design considerations. 
+InProceedings of the 2020 CHI conference on human factors in computing systems(pp. 1–16).
+Lu, K., Pang, F., & Shadiev, R. (2021a). Understanding the mediating effect of learning approach between 
+learning factors and higher order thinking skills in collaborative inquiry-based learning. Educational Technology Research and Development, 69(5), 2475–2492.
+Lu, K., Pang, F., & Shadiev, R. (2023). How to deepen college students’ approach to using technologies in 
+T-O-IBL? Examining the mediating influence of deep approaches to using technologies between learn-
+ing factors and higher order thinking skills. Journal of Computer Assisted Learning, 39(1), 182–193. Lu, K., Shi, Y., Li, J., Yang, H. H., & Xu, M. (2022). An investigation of college students’ learning engage-
+ment and classroom preferences under the smart classroom environment. SN Computer Science, 3(3), 
+205.
+Lu, K., Yang, H. H., Shi, Y., & Wang, X. (2021b). Examining the key influencing factors on college stu-
+dents’ higher-order thinking skills in the smart classroom environment. International Journal of Edu- cational Technology in Higher Education, 18, 1–13.
+Lu, K., Yang, H., & Xue, H. (2021c). Investigating the four-level inquiry continuum on college students’ 
+higher order thinking and peer interaction tendencies. International Journal of Innovation and Learn- ing, 30(3), 358–367.
+Ng, D. T. K., Leung, J. K. L., Chu, S. K. W., & Qiao, M. S. (2021). Conceptualizing AI literacy: An explor-
+atory review. Computers and Education: Artificial Intelligence, 2, 100041.
+Ng, D. T. K., Su, J., Leung, J. K. L., & Chu, S. K. W. (2023). Artificial intelligence (AI) literacy education 
+in secondary schools: A review. Interactive Learning Environments. https://doi.org/10.1080/10494820. 2023.2255228
+Nguyen, A., Kremantzis, M., Essien, A., Petrounias, I., & Hosseini, S. (2024). Enhancing student engage-
+ment  through  artificial  intelligence  (AI):  Understanding  the  basics,  opportunities,  and  challenges. Journal of University Teaching and Learning Practice. https://doi.org/10.53761/caraaq92
+Nguyen, T. D., Cannata, M., & Miller, J. (2018). Understanding student behavioral engagement: Importance 
+of student interaction with peers and teachers. The Journal of Educational Research, 111(2), 163–174. Nunnally, J. C., & Bernstein, I. H. (1994). Psychometric theory. McGraw-Hill.
+Preacher, K. J., & Hayes, A. F. (2008). Asymptotic and resampling strategies for assessing and comparing 
+indirect effects in multiple mediator models. Behavior Research Methods, 40(3), 879–891.
+Prior, D. D., Mazanov, J., Meacheam, D., Heaslip, G., & Hanson, J. (2016). Attitude, digital literacy and 
+self-efficacy: Flow-on effects for online learning behavior. The Internet and Higher Education, 29, 91–97.
+Reddy, P., Sharma, B., & Chaudhary, K. (2020). Digital literacy: A review of literature. International Jour-
+nal of Technoethics (IJT), 11(2), 65–94.
+Segars, A. H. (1997). Assessing the unidimensionality of measurement: A paradigm and illustration within 
+the context of information systems research. Omega International Journal of Management Science, 25(1), 107–121.
+Shadiev, R., Zhang, Z. H., Wu, T. T., & Huang, Y. M. (2020). Review of studies on recognition technologies 
+and their applications used to assist learning and instruction. Educational Technology & Society, 23(4), 59–74.
+Skinner, E. A., Kindermann, T. A., & Furrer, C. J. (2009). A motivational perspective on engagement and 
+disaffection: Conceptualization and assessment of children’s behavioral and emotional participation in 
+academic activities in the classroom. Educational and Psychological Measurement, 69(3), 493–525.
+Southworth, J., Migliaccio, K., Glover, J., Reed, D., McCarty, C., Brendemuhl, J., & Thomas, A. (2023). 
+Developing a model for AI Across the curriculum: Transforming the higher education landscape via 
+innovation in AI literacy. Computers and Education: Artificial Intelligence, 4, 100127.
+Sun, J. C. Y., & Rueda, R. (2012). Situational interest, computer self-efficacy and self-regulation: Their 
+impact  on  student  engagement  in  distance  education.  British  Journal  of  Educational  Technology, 43(2), 191–204.
+Tugtekin, E. B., & Koc, M. (2020). Understanding the relationship between new media literacy, communi-
+cation skills, and democratic tendency: Model development and testing. New Media & Society, 22(10), 1922–1941.
+van den Berg, G., & du Plessis, E. (2023). ChatGPT and generative AI: Possibilities for its contribution to 
+lesson planning, critical thinking and openness in teacher education. Education Sciences, 13(10), 998. von Ende, E., Ryan, S., Crain, M. A., & Makary, M. S. (2023). Artificial intelligence, augmented reality, and 
+virtual reality advances and applications in interventional radiology. Diagnostics, 13(5), 892.
+Wang, B., Rau, P. L. P., & Yuan, T. (2023). Measuring user competence in using artificial intelligence: 
+Validity and reliability of artificial intelligence literacy scale. Behaviour & Information Technology, 42(9), 1324–1337.
+Wang, L., Chen, X., Wang, C., Xu, L., Shadiev, R., & Li, Y. (2024). ChatGPT’s capabilities in providing 
+feedback on undergraduate students’ argumentation: A case study. Thinking Skills and Creativity, 51, 101440.
+Webber, S., & Johnston, B. (2000). Conceptions of information literacy: New perspectives and implications. 
+Journal of Information Science, 26(6), 381–397.
+Zain, F. M., Sailin, S. N., & Mahmor, N. A. (2022). Promoting higher order thinking skills among pre-
+service teachers through group-based flipped learning. International Journal of Instruction, 15(3), 519–542.
+Zhong, B., & Xia, L. (2022). Effects of new coopetition designs on learning performance in robotics educa-
+tion. Journal of Computer Assisted Learning, 38(1), 223–236.
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Kaili Lu is a lecture of the College of Education Science and Technology at Nanjing University of Posts and Telecommunications, China. Her research interests include artificial intelligence, higher order thinking skills and technology-enhanced learning.
+Jianrong Zhu is an associate researcher at Nanjing University of Posts and Telecommunications, China. His research interests include digital governance and legal theory and practice.
+Feng Pang is a doctor candidate in College of Education at De La Salle University-Dasmariñas, Philippines. His research interests include artificial intelligence and technology-enhanced learning.
+Rustam Shadiev is a tenured professor at the College of Education, Zhejiang University, China. His research interests include technology-supported language learning and cross-cultural education.
+ 

@@ -1,0 +1,362 @@
+﻿Nurse Education Today 130 (2023) 105942
+Contents lists available at ScienceDirect  
+Nurse  Education Today  
+journal homepage: www.elsevier.com/locate/nedt  
+Research article  
+Perceptions of nursing students and  faculty  members towards academic  integrity and  professionalism in Saudi  Arabia:  A cross-sectional study 
+Mariam Almutairi a,b,*, Talal Ali F. Alharbi c, Fiona Timmins a 
+a UCD School of Nursing, Midwifery and Health Systems, UCD Health Sciences Centre, 4, Stillorgan Rd, Belfield, Dublin, Ireland b Department of Nursing, College of Applied Medical Science, Prince Sattam bin Abdulaziz University, Al-Kharj, Saudi Arabia 
+c Department of Community, Psychiatric and Mental Health Nursing, College of Nursing, Qassim University, Saudi Arabia   
+
+A R T I C L E I N F O  
+Keywords: Academic integrity Professionalism Academic dishonesty Nursing student Faculty member 
+A B S T R A C T  
+Background: Maintaining and nourishing academic integrity along with professionalism in nursing education is integral and imperative to the development of the nursing profession. However, evidence shows that academic dishonesty and incompetency exist and are raising problems among college students of all disciplines including nursing. To date, limited studies have been conducted in this area in Saudi Arabia. 
+Objectives: To determine the perceptions of nursing students and faculty members towards academic integrity and professionalism. 
+Design: A cross-sectional design. 
+Settings and participants: A convenience sample of undergraduate students enrolled in government universities in Saudi Arabia, and their faculty members. 
+Methods: 342 Saudi nursing students and 113 nursing faculty members were surveyed with a valid and reliable questionnaire modified to the study setting. 
+Results: Findings revealed that the majority of nursing students and faculty members were aware of the nature of academic dishonesty and unprofessionalism. Less 40 % of students and teachers reported academic dishonesty and unprofessionalism as frequent. The majority of respondents in both groups revealed there were no existing policies  in  their  colleges  relevant  to  academic  integrity/dishonesty. For  those  who  reported  the  presence  of a policy, the highest percentage of the respondents expressed just occasional implementation. There was no sig- nificant difference between the perceptions of students and faculty in all scenarios regarding academic integrity and  professionalism. Lastly,  the  level  of education  and  affiliated  nursing  college  was  associated  with  the  re- spondents’ perceptions. 
+Conclusions: Nursing  students  and  faculty  members  have  considerable  cognizance  of the  concept  of academic integrity  and  professionalism.  However,  the  occurrence  of  academic  dishonesty  and  unprofessionalism  was observed at both universities. The lack of established policies is a particular challenge for management. Hence, it 
+is  essential  that  educational  institutions  formulate  clear  academic  policies  that  cultivate  academic  integrity, prevent academic dishonesty, and enhance the level of professionalism.   
+
+1. Introduction 
+Nursing  as  a  profession  is  imbued  with  indispensable  values  of integrity,  honesty,  and  utmost  professionalism.  These  values  are embedded  in  the  nursing  curriculum  and  form  a  crucial  part  of  the teaching-learning process. However, the academic and clinical demands might  result  in stress  among  nursing  students,  which  in turn  can  be  a contributing factor to academic dishonesty. Students under pressure to perform  both  clinically  and  academically  may  naively  resort  to 
+dishonest  approaches  to  ensure  their  success  (Kratovil,  2021).  Mean- while,  academic  dishonesty  is frowned  upon  by nursing  faculty,  espe- cially as it goes against the core ethical and moral principles of nursing 
+as  a  profession  (Kratovil,  2021).  Therefore,  breaches  of  academic integrity  reflect  dishonest  behavior  and  can  cause  gaps  in  knowledge and skills acquisition among students, who will become faculty members 
+in the future and who will carry this misconduct in their practice. This unethical conduct leads to negative repercussions which extend beyond students’  educational  years,  affecting  ethical  professional  practice 
+
+* Corresponding author at: UCD School of Nursing, Midwifery and Health Systems, UCD Health Sciences Centre, 4, Stillorgan Rd, Belfield, Dublin, Ireland. E-mail addresses: talal.alharbi@qu.edu.sa (T.A.F. Alharbi), Fiona.Timmins@ucd.ie (F. Timmins).  
+https://doi.org/10.1016/j.nedt.2023.105942 
+Received 27 March 2023; Received in revised form 25 July 2023; Accepted 10 August 2023   Available online 12 August 2023
+0260-6917/© 2023 Elsevier Ltd. All rights reserved.
+
+(Klainberg et al., 2015; LaDuke, 2013) and patient care and outcomes (Bloomfield et al., 2021). Notably, contraventions to academic integrity have  been  associated  with  unethical  behavior  among  students  in  pro- fessional settings (Carpenter et al., 2004). 
+On the other hand, academic integrity establishes students’ personal and professional facets with moral sense and the fundamental values of honesty, fairness, trust, responsibility and courage (International Center for  Academic  Integrity,  2021).  Despite  the  well-known  importance of academic  integrity,  evidence  from  related  studies  demonstrate  an alarming  global  increase  in  acts  of academic  dishonesty  across  higher education course specializations (Balbuena and Lamela, 2015; Lin and Wen,  2007;  Mustapha  et  al.,  2017),  including  nursing  programmes (McClung and Gaberson, 2021; Rafati et al., 2020; Keçeci et al., 2011). Academic  dishonesty  includes,  plagiarizing work,  cheating  on  assign- ments and examinations, data fabrication and unauthorized collabora - tions  between  students  (Ampuni  et  al.,  2020;  Birks et  al.,  2018).  The underlying  reasons  vary  from  peer  approval,  low  perceptions  of  its seriousness, attitude and perceived social norms on cheating, and lack of knowledge  regarding  academic  policies  (Taradi  et  al.,  2011;  McCabe et  al.,  2010).  Cultural  beliefs  regarding  the  acceptability of academic misconduct  (Yukhymenko-Lescroart,  2014)  and  the  advancement  in technologies and digitalization of educational materials and submissions have also been attributed as influencing factors (Bachore, 2014; Szabo and Underwood, 2004). 
+Although  there  have  been  several  studies  conducted  worldwide regarding  this  phenomenon,  limited  research  can  be  found  in  Saudi Arabia where findings to date have focused on elements and effects of academic  integrity  (Farahat,  2022;  Tayan,  2017).  Also,  extended research  has  been  made  on  lapses  in  professionalism in  relation  with academic integrity (Babelli et al., 2015), academic integrity perceptions 
+and  misconduct  among  university  students  in  general  (Razek,  2014; Guruswami  et  al.,  2022)  and  E-learning  factors  (Muhammad,  2020). Hence, there is scarce literature relevant to faculty and nursing students’ perception on academic integrity and professionalism in the Kingdom of Saudi Arabia, which prompted this research. 
+2. Background 
+Academic integrity is essential in higher education since it contrib -
+utes  to  the  acquisition  of intellectual competence  and  moral  develop - ment of college students (Nuss, 2012). Within nursing education this is especially  important  as  the  requirement  for  academic  integrity  and ethical conduct goes hand in hand with the moral and ethical standards required for professional nursing practice (Lynch et al., 2022). Profes- sionalism  is vital  in  the  context  of  nursing  practice  and  involves  the application of knowledge to make and act upon ethical and moral de- cisions  (Registered  Nurses’  Association  of  Ontario,  2007).  In  spite  of this,  there  are  considerable  findings  that  reveal  academic  dishonesty among  nursing  students  (Krueger,  2014;  Klocko,  2014;  Keçeci  et  al., 2011) and clinical settings (Abusafia et al., 2018). 
+Examples  of  academic  dishonesty  in  the  nursing  field  include cheating  (assignments  and  examinations), sharing  answers  with  class- mates,  and  plagiarism  (Park  et  al.,  2013;  McCabe,  2009;  Hart,  2021). Notably,  research  findings  from  Krueger  (2014)  reveal  that  dishonest behavior  also manifests in clinical settings, and can include, failing  to report  incidents  and  errors  with  patients,  falsification  of records,  and breaking  confidentiality.  Other  forms  of  professional  misconduct  like breaching patient’s privacy and inaccurate recording of vital signs and documenting findings that were not assessed or charting false findings 
+were also revealed in the findings of Birks et al. (2018) and Bultas et al. (2017).  These  findings  establish  the  correlation  between  academic dishonesty and unprofessional behavior, which is supported with older research by Hilbert (1985) which found unethical classroom behaviors 
+were significantly positively related to total unethical clinical behaviors. A more recent study by Maoz et al. (2022) also confirmed the assump -
+tion that academic dishonesty is related to clinical dishonesty. As such, 
+the consequence of these actions may not only affect students’  knowl -
+edge but could result in unethical professional practice (LaDuke, 2013; Abusafia et al., 2018) and misconduct in clinical areas that jeopardizes patient care and outcomes (McClung and Gaberson, 2023). 
+The extent to which a student commits academic dishonesty relates to their perceptions of the seriousness of their actions, level of education about the concept of academic integrity as well as awareness of policies 
+that  address  these  problems  (Tabsh  et  al.,  2017;  Yang  et  al.,  2013; McCabe  et  al.,  2010).  Kiekkas  et  al.  (2020)  identified  several  contrib - uting factors such as demands for high grades, absence of severe pun- ishment for cheating, examination settings and even unfair treatment by 
+school  personnel.  Further,  Costley  (2019)  revealed  that  students consider academic dishonesty as a natural aspect of their learning pro-
+cess and Macale et al. (2017) found students acclimatization to deceitful behaviors may cause stabilization of misconduct. These findings imply 
+that  students’  perception  greatly  influences  their  involvement  in  such activities (Bisping et al., 2010). In the same manner, the role of educa -
+tors in deterring acts of dishonesty is vital and similarly influenced by their  own  perceptions  of  academic  integrity/academic  dishonesty. McClung and Gaberson (2021) put emphasis on fostering honesty and integrity in learning environments as a way to reduce engagement with dishonest  behaviors,  rather  than  being  reactive  once  the  action  has occurred. 
+There  is a paucity  of research  focusing  on  the  perceptions of aca- demic integrity and professionalism among nursing students and faculty in  the  Kingdom  of Saudi  Arabia.  Understanding their  perceptions can assist with gaining insight into their respective views on the seriousness of  the  matter  and  could  encourage  the  implementation  of  strong rigorous standards and relevant policies (Macale et al., 2017; Gaberson, 2007)  that  endorse  academic  integrity  and  prevent  academic dishonesty. 
+3. Methods 
+This study utilized a cross-sectional design through an online survey 
+of  nursing  students  and  academic  faculty  members  at  two  reputable government universities in Riyadh region, Kingdom of Saudi Arabia. 
+3.1. Sample 
+The  sample  comprised  of  342  nursing  students  and  113  faculty members  which  were  selected  through  convenience  sampling.  The  in- clusion criteria were established for both subject categories that act to control  some  variables  that  might  influence  the  study  results.  For 
+nursing  students,  those  who  were  currently  enrolled  in levels  three  to eight  of  the  Bachelor’s  degree  in  Nursing  in  the  academic  year 2021–2022  were  included.  Furthermore,  for  faculty  members,  those affiliated with nursing colleges of chosen universities of the same school 
+year  were  included.  These  target  respondents  gave  their  consent  to participate in this study. 
+3.2. Instrument 
+The questionnaire, which was developed by Austin et al. (2005) and 
+then  adopted  by  Aaron  et  al.  (2011),  was  used  to  collect  information from  the  study  participants.  Official  permission  to  use,  modify  and translate  the  questionnaire was  obtained  from  the  authors  in  order  to suit  its  utilization  in  Saudi  culture.  The  new  developed  (translated) questionnaire comprised of two parts: the first part determined the de- mographic characteristics, and the second part focused on twenty-three scenarios  on  academic  integrity  (scenarios  1–18)  and  professionalism behaviors (scenarios 19–23). 
+The  questionnaire was  translated into  Arabic  and  then  back  trans - lated into  English by the researcher to ensure  the participants’ under - standing of its statements, which in turn can guarantee the reliability of 
+their  answers.  Two  bilingual  academic  professionals  revised  the 
+
+Demographic profile.  
+Demographic characteristics of the nursing students (n = 342)  Demographic characteristics of the faculty members (n = 113) Variables  No (%)  Variables  No (%) 
+
+Age (mean, ±SD) 
+18–20 
+20–22 
+23–25 
+Marital status  
+Single 
+Married 
+Others*a 
+Level of education  
+3rd level 
+4th level 
+5th level 
+6th level 
+7th level 
+8th level 
+Affiliated nursing college  
+College A 
+College B 
+21.1, ±1.3  Age (mean, ±SD)  37.1, ±7.1 
+38 (11.1 %)  <30  18 (16.0 %) 255 (74.6 %)  30–39  57 (50.4 %) 49 (14.3 %)  40–49  32 (28.3 %) 
+≥50  6 (5.3 %) 268 (78.4 %)  Marital status  
+71 (20.8 %)  Single  9 (8.0 %) 
+3 (0.8 %)  Married  99 (87.6 %) 
+Others  5 (4.4 %) 61 (17.8 %)  Level of education  
+87 (25.4 %)  Professor  5 (4.4 %) 40 (11.7 %)  Associate professor  18 (16.0 %) 68 (20.0 %)  Assistant professor  36 (31.8 %) 46 (13.4 %)  Lecturer  54 (47.8 %) 40 (11.7 %)  Affiliated nursing college  
+College A  79 (69.9 %) 119 (34.8 %)  College B  34 (30.1 %) 223 (65.2 %)    
+
+a * "Others" includes categories such as widowed, divorced, separated, etc. 
+
+translated  study  tool.  A  back-translation  was  conducted  by  the researcher and revised by another bilingual translator to assure that the translated  statements  retained  the  same  meanings.  This  helped  in identification and modification of differences between source and target language,  and  in  achieving  conceptual  equivalence  (Maneesriwongul and Dixon, 2004). To establish content validity, the questionnaire was submitted to a jury composed of six experts in the field of nursing ed- ucation  to  confirm  the  relevance  of  questionnaire  statements  to  the study  objectives.  Five  out  of  six  of  the  jury  members  gave  feedback. Based  on  the  feedback,  some  modifications  were  made  to  the  ques- tionnaire  to  be  more  compatible  with  Saudi  culture.  The  Cronbach’s alpha  was  computed  to  determine  the  degree  of  internal  consistency homogeneity between  the  instrument items.  Based  on  the  result,  this tool was highly reliable with alpha value of 0.931. 
+3.3. Ethical considerations 
+The  study  was  granted  ethical  approval  from  Institutional Review Boards (IRB) from the study site. Written Approval to conduct the study 
+was  obtained from the administrative personnel  at colleges of nursing where  the  study  was  conducted.  The  participants were  assured  in  the invitation  letter  with  the  questionnaire  that  their  participation  was voluntary and identities would be kept confidential. The names of uni-
+versities were also kept anonymous. Data privacy and management was extremely considered. All soft copies were kept in a secure folder file. 
+3.4. Data analysis 
+The data were analyzed using SPSS version 26. Descriptive statistics (frequencies, percentage and means) were used to interpret the data on demographic  profile,  perceptions  on  academic  integrity  and  profes- sionalism. Pearson’s chi-square test was used to identify the significant difference and association between the identified variables at p < 0.05 significance level. 
+4. Results 
+4.1. Demographic profile 
+There were 342 nursing students who completed the survey. Three- quarters  of the  students  255  (74.6  %)  were  aged  between  20  and  22 years old, with a mean age 21.1 ± 1.3. The majority of the students were single 268 (78.4 %), and one fifth of them were married: 71 (20.8 %). 
+Studying  nursing  in  Saudi  Arabia  takes  4 years  (8  levels),  and  in  this study  the  first  year  (levels  1  & 2)  were  excluded.  The  reason  for  the exclusion is that students at these levels study foundation subjects that 
+have  nothing  to  do  with  nursing,  and  some  of  the  scenarios  in  the questionnaire are  related  to  assignments  on  core  subjects  taken  from level  3.  Therefore,  the  participants were  from  level  3 to  level  8.  One- quarter of the students were on the 4th level in their study, and about one-fifth  were  on  the  6th  level.  Among  fourth-year students,  only  40 (11.7 %) were from 8th level. Slightly more than two thirds 223 (65.2 %) 
+of the  respondents were  from  college-  B, denoting  119  (34.8  %) were from College-A (Table 1). 
+Furthermore, 113  faculty  members  were  involved  in  the  study,  of whom,  sharply  57  (50.4  %)  were  within  the  age  group  30–39  year. About 18 (16 %) were <30 years old, and 6 (5.3 %) were 50 years old 
+and above. The mean age of faculty members was 37.1, with standard deviation  of  ±7.1.  About  99  (87.6  %)  of  the  faculty  members  were 
+married, while 9 (8 %) were single. Within the level of education, which 
+is  classified  as  the  positions:  professor,  associate  professor,  assistant professor  and  lecturer,  36  (31.8  %)  and  54  (47.8  %)  were  assistant professors and lecturers respectively. The majority of the faculty mem-
+bers were from college-A accounting for 79 (69.9 %). The student and faculty  response  rates  were  100  % since  all  participants answered  the questionnaire. 
+The  findings  further  unveiled  that  the  demographic  profile  of the respondents, age (p = 0.269; p = 0.861) and marital status (p = 0.722; p 
+= 0.093), was not associated with perceptions on academic integrity and professionalism with the p-values >0.05 level of significance. What was found however, was an association between the level of education (p = 0.019; p = 0.003) and affiliated nursing college (p = 0.002; p = 0.044) with the perceptions of both group of respondents (students and faculty respectively) being statistically significant. 
+4.2. Perception on academic integrity 
+In Table 2, results revealed that students and faculty members have consensus with their perceptions on all items regarding different forms of cheating. The average percentages from all scenarios are 76.1 % and 84.41 % from nursing students and faculty members respectively. When asked  if  academic  dishonesty  is  a  common  phenomenon  at  their respective  colleges,  students  (60.2  %)  and  faculty  members  (66.4  %) answered “No”. Majority of the students (66.7 %) and faculty (60.2 %) responded that there was no existing academic honesty policy existing in their college. For those who responded about the presence of a policy, 
+
+M. Almutairi  et al.                                                                                                                                                                                                                              Nurse Education Today 130 (2023) 105942 Table 2 
+Nursing students’ and faculty members perception on academic integrity.  
+Scenarios  Nursing students  Faculty members 
+(N = 342)  (N = 113) 
+
+4
+M. Almutairi  et al.                                                                                                                                                                                                                              Nurse Education Today 130 (2023) 105942 Table  
+Academic integrity 
+Scenario 1. During an exam, a student goes to the bathroom and while she is there, she looks at some notes that have been previously hidden in order to find answers. 
+Scenario 2. A student writes some notes on her arm or hand before going to an exam and uses these note to help answer some exam questions. 
+Scenario 3. As a memory prompt, a student writes some abbreviations, codes, or mnemonics on her hand or arm before going to an exam. 
+Scenario 4. A student is having difficulty writing up a nursing care plan. She borrows a care plan from her friend and uses this to gain ideas for her own write-up, but does not copy it directly. 
+Scenario 5. A student is having difficulty writing up a nursing care plan. She photocopies the work of a friend, then uses parts of this work to write up her own nursing care plan, without the knowledge of her friend. 
+Scenario 6. A student is having difficulty writing an assignment. She photocopies the work of a friend, and then uses part of this work directly to write up her own assignment, with the permission of her friend 
+Scenario 7. A student is having difficulty in a nursing practice lab. She is scheduled in the second or third section of the lab after her friend section. Prior to attending her lab section, the lab, she asks her friend to describe the procedures and content of the lab that she attended during lab section. 
+Scenario 8. A student has completed a course exam. In an effort to help her friends, she describes the specific content of the exam. Scenario 9. A student has completed an exam. When asked by a friend to describe the content, the student provides information about general topics, not specific details about the content. 
+Scenario 10. A student finds an internet site which is relevant to her work. She cuts and pastes portions of the content of this web page into her own work, did little modification. She does not use quotation marks, but lists the name of the website in her references. Scenario 11. A student is writing a difficult assignment for a course. She takes several quotes directly from a journal, textbook or another source, without using quotation marks, and does not cite them. 
+Scenario 12. Following a nursing laboratory procedure (measure blood pressure) which produces no useful results, a student makes up some data for her write-up. 
+Scenario 13. A student is completing a major course project. She does not understand some of the instructions, so she asks her neighbor for help in clarifying the difficult parts. 
+Scenario 14. A student uses exams, papers, and care plans handed down from previous years to complete her assignments. 
+Scenario 15. A student is very lenient and assigns a higher grade than deserved to her friend during a peer- assessment exercise. Scenario 16. A student presents a misleading or false medical excuse or gives other fabricated reasons to gain an extension on an assignment or to avoid taking a test. 
+Scenario 17. A student gives old lab books, tests and assignments to another student in a lower year taking those courses. 
+Scenario 18. A student continually skips classes for no valid reason. She borrows notes and handouts from other students to photocopy and keep for her own studying. 
+Average percentage 
+Is academic dishonesty a common phenomenon at your collage? 
+Yes 
+No 
+Does your college have an academic dishonesty policy of some kind 
+Yes 
+No 
+If yes, to what degree is the policy applied? 
+Not at all 
+Sometimes 
+Very often 
+All the time 
+Is this a form of cheating? 
+F  %  F  % (Yes)  (Yes) 
+330  96.5 %  113  100 % 312  91.2 %  111  98.2 % 255  74.6 %  111  98.2 % 259  75.7 %  88  77.9 % 268  78.4 %  111  98.2 % 230  67.2 %  90  79.6 % 267  78.1 %  81  71.7 % 
+282  82.5 %  70  61.9 % 228  66.7 %  104  92.0 % 
+283  82.7 %  97  85.8 % 289  84.5 %  95  84.1 % 196  57.3 %  111  98.2 % 226  66.1 %  108  95.6 % 
+302  88.3 %  77  68.1 % 242  70.8 %  108  95.6 % 273  79.8 %  108  95.6 % 
+193  56.4 %  75  66.4 % 287  83.9 %  59  52.2 % 
+–  76.71  –  84.41 
+%  % 
+F  %  F  % 136  39.8 %  38  33.6 % 206  60.2 %  75  66.4 % F  %  F  % 114  33.3 %  45  39.8 % 228  66.7 %  68  60.2 % F  %  F  % 
+8  7.0 %  7  15.6 % 56  49.1 %  24  53.2 % 41  40.0 %  7  15.6 % 9  7.9 %  7  15.6 %  
+
+4
+M. Almutairi  et al.                                                                                                                                                                                                                              Nurse Education Today 130 (2023) 105942 Table  
+highest  percentage  (49.1  %-  students  and  53.3  %-faculty)  of  the  re- spondents expressed that the implementation is just “sometimes”. 
+4.3. Perception on professionalism 
+As reflected in Table 3, the majority of responses from students and 
+faculty  were  in  agreement  on  scenarios  that  constitute  unprofessional behavior. The average percentages from all scenarios were 81.0 % and 88.70 % from nursing students and faculty members respectively. When asked  if unprofessional behaviors  are a common phenomenon at  their respective colleges, 69.2 % of students and 64.6 % of faculty members answered “No”. The majority of the students (68.4 %) and faculty (66.3 %)  affirmed  that  there  were  no  existent  policies  addressing  unprofes - sional  behaviors  at  their  college.  For  those  who  responded  about  the presence of a policy, the highest percentage (51.1 %- students and 65.8 %-faculty)  of the  respondents expressed  that  the  implementation was just “sometimes” (Table 3). 
+4.4. The difference between nursing students and faculty members in relation to their perception on academic integrity and professionalism 
+Nursing  students  and  faculty  members’  perception  on  academic integrity and professionalism were determined through given scenarios. The  variables  tested  were:  academic  honesty  (the  participants  were given 18 statements to measure whether they reject or accept different types  of cheating)  and  professionalism (the  participants were  given  5 statements to evaluate their conducts as professional nurses). For each scenario,  comparisons  were  drawn  between  students  and  faculty  for their  response  on  which,  the  difference  on  their  perceptions  were determine using  Pearson  chi-square  where  the  computed  p  > 0.05  is considered  not  significant.  Thus,  based  on  information in  Table  4, no significant  difference  was  found  on  nursing  students’  and  faculty members’ perception on academic integrity and professionalism on all scenarios  given.  The  results  suggest  that  nursing  students  and  faculty members generally shared similar perceptions regarding different forms of  cheating  and  unprofessional  behavior.  Furthermore,  there  was  a consensus  among  the  participants  that  academic  dishonesty  and 
+
+4
+M. Almutairi  et al.                                                                                                                                                                                                                              Nurse Education Today 130 (2023) 105942 Table 5 
+Nursing students’ and faculty members perception on professionalism.  
+Scenarios  Nursing students  Faculty members 
+(N = 342)  (N = 113) 
+Professionalism  Is this an unprofessional behavior? 
+F  %  F  % 
+(Yes)  (Yes) 
+Scenario 19. A student is allowed 30 min for her lunch break but takes 45 min.  262  76.6 %  93  82.3 % Scenario 20. A student is required to wear surgery scrubs into the OR. She left home with and decides not to return them back to the  273  79.8 %  90  79.6 % hospital. 
+Scenario 21. When starting an IV, a student breaks sterile technique by accidently touching the end of the IV catheter. No one but the  289  84.5 %  108  95.6 % student notices, so she decides to continue with starting the IV without changing to a new catheter. 
+Scenario 22. A student needs to run errands for an upcoming party. She calls the clinical instructor and says she has a sore throat and  282  82.5 %  106  94.0 % won’t be able to come to the hospital for clinical that day, in order to get more time to plan for the party. 
+Scenario 23. A student sees a nurse verbally abusing a patient but the student does not report the incident to her clinical instructor.  279  81.6 %  104  92.0 % Average percentage  –  81.0 %  –  88.70 
+% 
+Are unprofessional behaviors common phenomenon in your college?  F  %  F  % 
+Yes  105  30.8 %  40  35.4 % 
+No  237  69.2 %  73  64.6 % Does your college have policies to address unprofessional behaviors committed by students?  F  %  F  % 
+Yes  108  31.6 %  38  33.7 % No  234  68.4 %  75  66.3 % 
+If yes, to what degree is the policy applied?  F  %  F  % 
+Not at all  10  9.2 %  5  13.2 % Sometimes  55  51 %  25  65.8 % Very often  35  32.4.0  4  10.5 % 
+% 
+All the time  8  7.4 %  4  10.5 %  Table 4  education (p = 0.005) and the nursing college with which the students 
+Association between nursing students and faculty members in relation to their  were affiliated (p = 0.036). This suggests that both the level of education perception on academic integrity and professionalism.   and  the  specific  nursing  college  may  influence  students’  academic 
+Scenarios  Nursing students (N = Faculty members (N = p value*  integrity. Similarly, for professionalism, no significant associations were 342)  113)  found  with  age  (p  = 0.377)  or  marital  status  (p  = 0.514).  However, 
+F  %  F  %  significant associations were found between the level of education (p =   0.019) and the nursing college with which the students were affiliated 
+Academic Scenario 1  integrity 330  96.5 %   113  100 %   0.865  (p  = 0.002).  This  indicates  that  these  factors  may  also  influence  stu- Scenario 2   312  91.2 %   111  98.2 %   0.281  dents’ professionalism. 
+Scenario 3   255  74.6 %   111  98.2 %   0.346  On the other hand, potential associations between faculty member’s Scenario 4   259  75.7 %   88  77.9 %   0.828  demographics  and  academic  integrity  and  professionalism  were  also Scenario 5   268  78.4 %   111  98.2 %   0.366  investigated.  No  significant  association  was  found  between  faculty Scenario 6   230  67.2 %   90  79.6 %   0.780 
+Scenario 7   267  78.1 %   81  71.7 %   0.124  member academic integrity and age (p = 0.861) and marital status (p = Scenario 8   282  82.5 %   70  61.9 %   0.372  0.093). On the other hand, significant association was found on level of 
+Scenario 9   228  66.7 %   104  92.0 %   0.589  education  (p  = 0.028)  and  affiliated  nursing  college  (p  = 0.003). Scenario 10   283  82.7 %   97  85.8 %   0.429  Moreover,  no significant association  was found between  faculty  mem- Scenario 11   289  84.5 %   95  84.1 %   0.641 
+Scenario 12   196  57.3 %   111  98.2 %   0.107  bers’  professionalism  and  age  (p  = 0.627)  and  marital  status  (p  = Scenario 13   226  66.1 %   108  95.6 %   0.815  0.275). However, significant association was found on level of education 
+Scenario 14   302  88.3 %   77  68.1 %   0.637  (p = 0.006) and affiliated nursing college (p = 0.044) (Table 5). Scenario 15   242  70.8 %   108  95.6 %   0.189 
+Scenario 16   273  79.8 %   108  95.6 %   0.346  5. Discussion 
+Scenario 17   193  56.4 %   75  66.4 %   0.716 
+Scenario 18   287  83.9 %   59  52.2 %   0.394  
+
+5
+M. Almutairi  et al.                                                                                                                                                                                                                              Nurse Education Today 130 (2023) 105942 Table 6 
+Professionalism 
+Scenario 19   262  76.6 %   93  82.3 %   0.228 Scenario 20   273  79.8 %   90  79.6 %   0.362 Scenario 21   289  84.5 %   108  95.6 %   0.468 Scenario 22   282  82.5 %   106  94.0 %   0.416 Scenario 23   279  81.6 %   104  92.0 %   0.647  
+* p < 0.05 denotes statistical significance. 
+unprofessional  behavior  are  not  common  phenomena  at  the  partici - pants’ colleges. 
+The  associations  between  nursing  students’  demographics  (age, marital  status,  level  of  education, and  affiliated  nursing  college)  and their academic integrity and professionalism were investigated by using Pearson’s chi-square test. For academic integrity, no significant associ-
+ations were found with age (p = 0.269) or marital status (p = 0.722). However,  we  found  significant  associations  between  the  level  of 
+This study investigated the perceptions of Saudi nursing students and faculty  members  on  academic  integrity  and  professionalism from  two government universities. The results reveal that the majority of the re- spondents  from  both  groups  perceive  the  significance  of  academic dishonesty  (76.1  % and  84.41  %).  The  results  also  illustrate  that  the participants’ behaviors  suggest  professionalism  since  they  reach  high percentages  (81.0  %  and  88.70  %).  This  implies  that  a  considerable number of students and faculty are cognizant of the different forms of dishonesty and unprofessionalism. This is in line with findings from Rani et  al.  (2019)  which  showed  students  were  knowledgeable about  aca- demic integrity. Findings from this study also showed that there were no significant differences between the perceptions of students and faculty members on academic integrity and professionalism. This denotes that no divergence can be drawn on how they identify actions pertaining to academic  dishonesty  and  unprofessionalism.  Similarly,  Tabsh  et  al. (2017)  found  students  and  faculty  mutually  agreed  upon  the  issue  of academic  dishonesty.  Importantly,  Arhin  (2009)  findings  showed  at 
+
+6
+M. Almutairi  et al.                                                                                                                                                                                                                              Nurse Education Today 130 (2023) 105942 Table 5 
+Association of selected demographic characteristics of the study sample and the academic integrity and professionalism.  
+Demographic characteristics  Nursing students  Faculty members 
+Academic integrity  Professionalism  Academic integrity  Professionalism p-Value*  p-Value  p-Value*  p-Value 
+Age   0.269   0.377   0.861   0.627 Marital status   0.722   0.514   0.093   0.275 Level of education   0.005   0.019   0.028   0.006 Affiliated nursing college   0.036   0.002   0.003   0.044  
+* Pearson’s chi-square test of association used; p ≤ 0.05 was taken as significant. 
+
+6
+M. Almutairi  et al.                                                                                                                                                                                                                              Nurse Education Today 130 (2023) 105942 Table  
+times students had difficulty discerning scenarios on academic dishon -
+esty. This is important as it is well established that students perceptions influence their academic behaviors, so if there is no clear policy or ed- ucation  on  academic  integrity,  ambivalence  can  adversely  influence academic behaviors. 
+It is an alarming reality that academic dishonesty occurs in academic institutions (McClung and Gaberson, 2021; Theart and Smit, 2012) and within nursing programmes where clinical and professional misconduct is a known and concerning progression of unethical academic behaviors (Krueger,  2014; Birks et  al.,  2018; Bultas  et  al.,  2017). While  the  ma- jority of the respondents from this study confirmed that acts of academic dishonesty  (60.2  % and  66.4  %)  and  unprofessionalism  (69.2  % and 64.6  %)  are  not  common  occurrences  in  their  respective  colleges,  it cannot be neglected that just <40 % of students and faculty perceived these phenomenon to usually be happening in their schools. 
+Among respondents there was also consensus regarding an absence of  existing  policies  that  deal  with  academic  dishonesty  and  unpro - fessionalism.  Of  those  who  indicated  policies  existed,  the  majority concurred  that  the  implementation was  just  occasional.  Lack of insti- tutional  policies  can  greatly  influence  cheating  behaviors  among  stu- dents  and  encourage  misconduct  that  violates  academic  integrity  and professionalism (Kwong  et  al.,  2010).  Alternatively, the  presence  and awareness of policies can inhibit acts of academic dishonesty (Jordan, 2001),  highlighting  the  importance  of  developing  and  implementing policies that promote academic integrity. 
+Thus,  the demographic profile  of the  respondents’ age and  marital status  was  not  associated  with  perceptions on  academic  integrity  and professionalism with the p-values >0.05 level of significance. What was found however, was an association between the level of education (p =
+0.019; p = 0.003) and affiliated nursing college (p = 0.002; p = 0.044) with the perceptions of both group of respondents (students and faculty respectively)  being  statistically  significant.  This  implies  that  for  re- spondents  in  this  study,  educational  attainment  as  well  as  affiliated institution,  influence  perceptions  involving  academic  integrity  and professionalism. As such, it is vital that educational institutions develop programmes that shape faculty and students to value and foster integrity academically and professionally (Guerrero-Dib et al., 2020), and support prevention. 
+6. Limitations 
+In spite of the notable contribution of the findings of this study in the literatures, there are still some limitations that needs to be considered. The  generalizability  of  the  results  may  be  limited  due  to;  the  non- probability  sampling  used,  and  an  absence  of  gender  demographics captured in the data. 
+7. Conclusions 
+Nursing students and faculty members have considerable knowledge about the concept of academic integrity and professionalism. However, academic dishonesty remains a regular occurrence. This can be due to the  lack  of awareness,  established  policies  and/or  strong  implementa - tion  of  suggested  strategies  to  address  these  problems.  Hence,  it  is 
+essential that educational institutions formulate clear academic policies that cultivate positive behavior and prevent unacceptable practices that affect  not  just  learning  but  future  professional  practice.  This  can  be brought  into  fruition  with  proper  coordination,  orientation  and dissemination from the school administration, faculty, parents and stu- dents  as  stakeholders. It  is vital  that  educational institutions develop programmes that shape faculty and students to value and foster integrity academically and professionally (Guerrero-Dib et al., 2020), and support prevention. This particularly in light of the ongoing stress that nursing students face, and the potential effect of this on both their well-being, but  also  their  intention  to  stay  in  nursing.  The  consequences  of  aca- demic misconduct could further push these nursing students away from the  profession  at  a  time  when  there  is  a  global  nursing  shortage. Certainly  the  universities  ought  to  act  as  gatekeepers for  professional misconduct, and there are potential links between academic and clinical dishonesty.  That  said  for  many  students  this  is  as  a  consequence  of pressure  to  perform  within  the  limit  timeframes, and  over  burdening themselves,  or  feeling  overwhelmed  within  the  programme.  It  is important  that  academic  dishonesty  prevention  is offered  globally  as part of a holistic student support initiatives, and any such initiatives are underpinned by clear and transparent policies that support the students’ towards success. The scope of this paper is limited to two universities, and the findings and limitations have indicated areas of recommenda -
+tion for further research. First, it is recommended that future researchers should broaden the scope of the study and cover more universities. Also, they need to examine the development and implementation of policies on academic dishonesty as well as how to address the factors that may contribute to academic dishonesty. 
+Funding 
+This  study  did  not  receive  any  grants  from  funding  agencies  like government, private or non-profit organizations. 
+Declaration of competing interest 
+The authors confirm no conflicts of interest and that this work is not under consideration in another journal. 
+Acknowledgements 
+Researchers would like to thank the Deanship of Scientific Research, Qassim University for the support of this project. 
+References 
+Aaron, L., Simmons, P., Graham-Webb, D., 2011. Academic dishonesty and 
+unprofessional behavior. Radiol. Technol. 83 (2), 133–140. 
+Abusafia, A., Roslan, N.S., Yusoff, D.M., Mat Nor, M.Z., 2018. Snapshot of academic dishonesty among Malaysian nursing students: a single university experience. 
+J. Taibah Univ. Med. Sci. 13 (4), 370–376. https://doi.org/10.1016/j. jtumed.2018.04.003. 
+Ampuni, S., Kautsari, N., Maharani, M., Kuswardani, S., Buwono, S.B.S., 2020. Academic 
+dishonesty in Indonesian college students: an investigation from a moral psychology perspective. J. Acad. Ethics 18, 395–417. https://doi.org/10.1007/s10805-019- 09352-2. 
+
+6
+M. Almutairi  et al.                                                                                                                                                                                                                              Nurse Education Today 130 (2023) 105942
+Arhin, A., 2009. A pilot study of nursing student’s perceptions of academic dishonesty: a 
+generation Y perspective. Assoc. Black Nurs. Fac. Inc J. 20 (1), 17–21. https://pubm ed.ncbi.nlm.nih.gov/19278183/. 
+Austin, Z., Simpson, S., Reynen, E., 2005. The fault lies not in our students, but in 
+ourselves’: Academic dishonesty and moral development in health professions education – results of a pilot study in Canadian pharmacy. Teach. High. Educ. 10 (2), 143–156. 
+Babelli, S., Chandratilake, M., Roff, S., 2015. Recommended sanctions for lapses in 
+professionalism by student and faculty respondents to Dundee Polyprofessionalism Inventory I: academic integrity in one medical school in Saudi Arabia. Med. Teacher 37 (2), 162–167. https://doi.org/10.3109/0142159X.2014.943712. 
+Bachore, M.M., 2014. Academic dishonesty/corruption in the period of technology: its 
+implication for quality of education. Am. J. Educ. Res. 2 (11), 1060–1064. https:// doi.org/10.12691/education-2-11-9. 
+Balbuena, S., Lamela, R., 2015. Prevalence, motives, and views of academic dishonesty in 
+highereducation. Asia Pac. J. Multidiscip. Res. 3 (2). https://eric.ed.gov/? id=ED575015. 
+Birks, M., Smithson, J., Antney, J., Zhao, L., Burkot, C., 2018. Exploring the paradox: a 
+cross-sectional study of academic dishonesty among Australian nursing students. Nurs. Educ. Today 65 (Elsivier), 96–101. https://doi.org/10.1016/j. nedt.2018.02.040. 
+Bisping, T., Timothy, H., Roskelley, K., 2010. Modeling academic dishonesty: the role of 
+student perceptions and misconduct type. J. Econ. Educ. 39 (1), 4–21. https://doi. org/10.3200/JECE.39.1.4-21. 
+Bloomfield, J., Crawford, T., Fisher, M., 2021. Registered nurses understanding of 
+academic honesty and the perceived relationship to professional conduct: findings from a cross-sectional survey conducted in Southeast Asia. Nurse Educ. Today 100. https://doi.org/10.1016/j.nedt.2021.104794. 
+Bultas, M., Schmuke, A., Davis, R., Palmer, J., 2017. Crossing the “line”: college students 
+and academic integrity in nursing. Nurse Educ. Today 56, 57–62. https://doi.org/ 10.1016/j.nedt.2017.06.012. 
+Carpenter, D.D., Harding, T.S., Finelli, C.J., Passow, H., 2004. Does academic dishonesty 
+relate to unethical behavior in professional practice? An exploratory study. Sci. Eng. Ethics 10, 311–324. https://doi.org/10.1007/s11948-004-0027-3. 
+Costley, J., 2019. Student perceptions of academic dishonesty at a cyber-university in 
+South Korea. J. Acad. Ethics 17 (2), 205–217. 
+Farahat, A., 2022. Elements of academic integrity in a cross-cultural Middle Eastern 
+educational system: Saudi Arabia, Egypt, and Jordan case study. Int. J. Educ. Integr. 18 (9) https://doi.org/10.1007/s40979-021-00095-5. 
+Gaberson, K.B., 2007. Academic dishonesty among nursing students. Nurs. Forum 32 (3), 
+14–20. https://doi.org/10.1111/j.1744-6198.1997.tb00205.x. 
+Guerrero-Dib, J.G., Portales, L., Heredia-Escorza, Y., 2020. Impact of academic integrity 
+on workplace ethical behaviour. Int. J. Educ. Integr. 16, 2. https://doi.org/10.1007/ s40979-020-0051-3. 
+Guruswami, G., Mumtaz, S., Gopakumar, A., Khan, E., Abdullah, F., Parahoo, S., 2022. 
+Academic integrity perceptions among health-professions’ students: a cross-sectional study in the Middle East. J. Acad. Ethics. https://doi.org/10.1007/s10805-022- 09452-6. 
+Hart, L., 2021. Academic integrity in an online registered nurse to baccalaureate in 
+nursing program. J. Contin. Educ. Nurs. 41 (11) https://doi.org/10.3928/00220124- 20100701-03. 
+Hilbert, G., 1985. Involvement of nursing students in unethical classroom and clinical 
+behaviors. J. Prof. Nurs. 1 (4), 230–234. https://doi.org/10.1016/S8755-7223(85) 80160-5. 
+International Center for Academic Integrity, 2021. The fundamental values of academic 
+integrity. https://academicintegrity.org/images/pdfs/20019_ICAI-Fundame ntal-Values_R12.pdf. 
+Jordan, A.E., 2001. College student cheating: the role of motivation, perceived norms, 
+attitudes, and knowledge of institutional policy. Ethics Behav. 11 (3), 233–247. https://doi.org/10.1207/S15327019EB1103_3. 
+Keçeci, A., Bulduk, S., Oruç, D., Çelik, S., 2011. Academic dishonesty among nursing 
+students: a descriptive study. Nurs. Ethics 18 (5), 725–733. https://doi.org/ 10.1177/0969733011408042. 
+Kiekkas, P., Michalopoulos, E., Stefanopoulos, N., Samartzi, K., Krania, P., 
+Giannikopoulou, M., Igoumenidis, M., 2020. Reasons for academic dishonesty during examinations among nursing students: cross-sectional survey. Nurs. Educ. Today 86. https://doi.org/10.1016/j.nedt.2019.104314. 
+Klainberg, M.B., McCrink, A., Eckardt, P., Schecter, R., Bongiorno, A., Sedhom, L., 2014. 
+Perspectives on Academic Misconduct: Implications for Education and Practice. J. N. Y. State Nurses Assoc. 44 (1), 11–21. 
+Klocko, M.N., 2014. Academic dishonesty in schools of nursing: a literature review. 
+J. Nurs. Educ. 53 (3) https://doi.org/10.3928/01484834-20140205-01. 
+Kratovil, A., 2021. Plagiarism in the graduate nursing program: Occupation stress or lack 
+of knowledge? Nurs. Sci. Q. 34 (4), 374–377. 
+Krueger, L., 2014. Academic dishonesty among nursing students. J. Nurs. Educ. 53 (2), 
+77–87. https://doi.org/10.3928/01484834-20140122-06. 
+Kwong, T., Ng, H.M., Mark, K.P., Wong, E., 2010. Students’ and faculty’s perception of 
+academic integrity in Hong Kong. Campus Wide Inf. Syst. 27 (5) https://doi.org/ 10.1108/10650741011087766. 
+LaDuke, R., 2013. Academic dishonesty today, unethical practices tomorrow? J. Prof. 
+Nurs. 29 (6), 402–406. https://doi.org/10.1016/j.profnurs.2012.10.009. 
+Lin, C.H., Wen, L.Y., 2007. Academic dishonesty in higher education—a nationwide 
+study in Taiwan. High. Educ. 54, 85–97. https://doi.org/10.1007/s10734-006-9047- z. 
+Lynch, J., Glew, P., Salamonson, Y., Ramjan, L., 2022. “Integrity is integrity. IT doesn’t 
+matter the context”: a qualitative exploratory study of academic integrity in an undergraduate nursing program. Teach. Learn. Nurs. https://doi.org/10.1016/j. teln.2022.06.013. 
+Macale, L., Ghezzi, V., Rocco, G., Fida, R., Vellone, E., Alvaro, R., 2017. Academic 
+dishonesty among Italian nursing students: a longitudinal study. Nurs. Educ. Today 50, 57–61. https://doi.org/10.1016/j.nedt.2016.12.013. 
+Maneesriwongul, W., Dixon, J.K., 2004. Instrument translation process: a methods 
+review. J. Adv. Nurs. 48 (2), 175–186. 
+Maoz, E., Gorbunov, I., Danino, E., Zerahia, M., 2022. An honest cheater: perception of 
+self-concept, academic and clinical dishonesty among nursing students. Nurse Educ. Today 114, 105406. 
+McCabe, D.L., 2009. Academic dishonesty in nursing schools: an empirical investigation. 
+J. Nurs. Educ. 48 (11) https://doi.org/10.3928/01484834-20090716-07. 
+McCabe, D., Trevino, L.K., Butterfield, K., 2010. Cheating in academic institutions: a 
+decade of research. Ethics Behav. 11 (3), 219–232. https://doi.org/10.1207/ S15327019EB1103_2. 
+McClung, E., Gaberson, K., 2021. Academic dishonesty among nursing students: a 
+contemporary review. Nurse Educ. 46 (2), 111–115. https://doi.org/10.1097/ NNE.0000000000000863 (PMID: 32530897).  
+McClung, E., Gaberson, K., 2023. Students with high internal moral principles and 
+accurate perceptions of dishonest behaviors are more likely to view themselves as academically honest in classroom and clinical settings. Evid. Based Nurs. 26 (1), 29. https://doi.org/10.1136/ebnurs-2022-103587. 
+Muhammad, A.S., 2020. Factors affecting academic integrity in e-learning of Saudi 
+Arabian universities. An investigation using Delphi and AHP, 8, 16259–16268. https://doi.org/10.1109/ACCESS.2020.2967499. 
+Mustapha, R., Hussin, Z., Siraj, S., Darusalam, G., 2017. Academic dishonesty among 
+higher education students: the Malaysian evidence (2014 to 2016). KATHA Off. J. Centre Civilisational Dialogue 13 (1), 73–93. https://doi.org/10.22452/KATHA. vol13no1.4. 
+Nuss, E., 2012. Academic integrity: comparing faculty and student attitudes. Improv. 
+Coll. Univ. Teach. 32 (3), 140–144. https://doi.org/10.1080/ 00193089.1984.10533862. 
+Park, E.A., Park, S., Jang, I., 2013. Academic cheating among nursingstudents. Nurse 
+Educ. Today 33 (4), 346–352. https://doi.org/10.1016/j.nedt.2012.12.015. 
+Rafati, F., Bagherian, B., Shahrbabaki, P.M., Goghary, Z.I., 2020. The relationship 
+between clinical dishonesty and perceived clinical stress among nursing students in 
+Southeast of Iran. Natl. Libr. Med. 19, 39. https://doi.org/10.1186/s12912-020- 
+00434-w. 
+Rani, S., Ravindran, V., Esther, A., Susila, E., Charles, M., Rose, A., Chacko, S.T., 2019. 
+Nursing students’ perception and practices related to academic integrity. Int. J. Nurs. Educ. 11 (3) https://doi.org/10.37506/ijone.v11i3. 
+Razek, N., 2014. Academic integrity: a Saudi student perspective. Couns. Educ. Hum. 
+Serv. Fac. Publ. 18 (1), 143–154. https://ecommons.udayton.edu/edc_fac_pub/3. Registered Nurses’ Association of Ontario, 2007. Professionalism in nursing. https://rna 
+o.ca/sites/rnao-ca/files/Professionalism_in_Nursing.pdf. 
+Szabo, A., Underwood, J., 2004. Cybercheats: is information and communication 
+technology fuelling academic dishonesty? Act. Learn. High. Educ. 5 (2), 180–199. https://doi.org/10.1177/1469787404043815. 
+Tabsh, S., Abdelfatah, A., El Kadi, H., 2017. Engineering students and faculty perceptions 
+of academic dishonesty. Qual. Assur. Educ. 25 (4), 378–393. https://doi.org/ 10.1108/QAE-03-2017-0005. 
+Taradi, S.K., Taradi, M., Dogas, Z., 2011. Croatian medical students see academic 
+dishonesty as an acceptable behaviour: a cross-sectional multicampus study. J. Med. Ethics 38 (6). https://doi.org/10.1136/medethics-2011-100015. 
+Tayan, B.M., 2017. Academic misconduct: an investigation into male students’ 
+perceptions, experiences & attitudes towards cheating and plagiarism in a middle eastern university context. J. educ. learn. 6 (1), 158–166. 
+Theart, C., Smit, I., 2012. The status of academic integrity amongst nursing students at a 
+nursing education institution in the Western Cape. Natl. Libr. Med. 35 (1) https:// doi.org/10.4102/curationis.v35i1.27. 
+Yang, S., Huan, C.L., Chen, A.S., 2013. An investigation of college students’ perceptions 
+of academic dishonesty, reasons for dishonesty, achievement goals, and willingness to report dishonest behavior. Ethics Behav. 23 (6), 501–522. https://doi.org/ 10.1080/10508422.2013.802651. 
+Yukhymenko-Lescroart, M.A., 2014. Ethical beliefs toward academic dishonesty: a cross- cultural comparison of undergraduate students in Ukraine and the United States. J. Acad. Ethics 12, 29–41. https://doi.org/10.1007/s10805-013-9198-3. 
+7

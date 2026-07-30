@@ -1,0 +1,429 @@
+﻿Computers in Human Behavior: Arti  cial Humans 1 (2023) 100014 
+Contents lists available at ScienceDirect 
+Computers in Human Behavior: Artificial  Humans 
+journal homepage: www.journals.elsevier.com/computers-in-human-behavior-artificial-humans 
+MAILS - Meta  AI literacy scale:  Development and  testing of an  AI literacy  questionnaire based  on well-founded competency models  and 
+psychological change- and  meta-competencies
+Astrid Carolus a,1, Martin J. Koch a,*,1 , Samantha Straka b , Marc Erich Latoschik b,  Carolin Wienrich c
+a University of Würzburg, Media Psychology, Sanderring 2, Würzburg, 97070, Bavaria, Germany
+b University of Würzburg, Human-Computer Interaction, Sanderring 2, Würzburg, 97070, Bavaria, Germany
+c University of Würzburg, Psychology of Intelligent Interactive Systems, Sanderring 2, Würzburg, 97070, Bavaria, Germany
+
+A R T I C L E I N F O
+Keywords:
+AI literacy
+Questionnaire development Psychological competencies Self-efficacy
+Competence modeling
+A B S T R A C T
+Valid measurement of AI literacy is important for the selection of personnel, identification of shortages in skill and knowledge, and evaluation of AI literacy interventions. A questionnaire is missing that is deeply grounded in the  existing  literature  on  AI literacy,  is  modularly  applicable  depending  on  the  goals,  and  includes  further psychological  competencies  in  addition  to  the  typical  facets  of AIL. This  paper  presents  the  development  and validation of a questionnaire considering the desiderata described above. We derived items to represent different facets of AI literacy and psychological competencies, such as problem-solving, learning, and emotion regulation in regard to AI. We collected data from 300 German-speaking adults to confirm the factorial structure. The result is the Meta AI Literacy Scale (MAILS) for AI literacy with the facets Use & apply AI, Understand AI, Detect AI, and AI Ethics and the ability to Create AI as a separate construct, and AI Self-efficacy in learning and problem-solving and  AI Self-management  (i.e.,  AI persuasion  literacy  and  emotion  regulation).  This  study  contributes  to  the research on AI literacy by providing a measurement instrument relying on profound competency models. Psy- chological  competencies  are  included  particularly  important  in  the  context  of  pervasive  change  through  AI systems.
+
+1. Introduction
+It is an undeniable fact that Artificial Intelligence (AI) is coming into 
+our daily lives. Interaction with AI or AI systems will become increas -
+ingly common for work or entertainment. Worldwide, about one-third of all  companies  used  AI in  2022  which  is  an  increase  by  four  points compared to 2021.42% have not yet started using AI but explored the 
+topic of AI in 2022 (IBM, 2022). The demand for individuals skilled in AI 
+has steadily increased since 2014 compared to 2022, as the AI Adoption Index  2023  shows  for  North  American,  European,  and  other  Western countries.  For  example,  the  number  of  AI-related  job  postings  has increased on average from just above 0.50% in 2014 to 2.05% in 2022 in 
+the United States (Maslej et al., 2023). In parallel, more AI-based tech- nologies are being developed, as the average annual growth rate of filed 
+AI patents  is  76.6%  between  2015  and  2021  (Zhang,  Maslej,  et  al., 2022).  The  broad  spectrum  of AI brings  with  it  challenges  for  under - standing AI, as the underlying systems or capabilities of AI are complex 
+and  challenging  to  grasp  (Wienrich  & Latoschik,  2021). To find  one’s way in an AI-influenced world and to be able to act in a self-determined manner  and  participate in  future  developments, not  only  experts  but also average users need an understanding of what AI is, what it can do, 
+and  how  they  can  benefit  (Carolus  et  al.,  2022;  Wienrich,  Carolus, Markus,  &  Augustin,  2022).  Just  as  computer  skills  became  more important a few years ago, AI skills are becoming more relevant today. 
+This set of skills includes using, applying, or interacting with AI and is commonly  referred  to  as  ”AI literacy”  (Long  &  Magerko,  2020).  In- dividuals  with  high  AI literacy  will  likely  flourish  in  a working  envi- ronment rich with AI, while individuals with low AI literacy will have 
+
+* Corresponding author.
+E-mail addresses: astrid.carolus@uni-wuerzburg.de (A. Carolus),  martin.koch@uni-wuerzburg.de (M.J.  Koch),  samantha.straka@uni-wuerzburg.de (S. Straka), marc.latoschik@uni-wuerzburg.de (M.E. Latoschik), carolin.wienrich@uni-wuerzburg.de (C. Wienrich). 
+1 Both authors contributed equally to this research.
+https://doi.org/10.1016/j.chbah.2023.100014
+Received 30 May 2023; Received in revised form 11 September 2023; Accepted 16 September 2023  
+Available online 5 October 2023 
+2949-8821/© 2023 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-
+nc-nd/4.0/). 
+
+A. Carolus et al.                                                                                                                                                                                                                                 Computers in Human Behavior: Arti  cial Humans 1 (2023) 100014 
+problems  when  required  to  interact  with  AI.  As  automation  and collaboration with AI will occur in many jobs (Frey & Osborne, 2017), an  individual’s current  level  of  AI literacy  might  predict  if they  can adapt to new technologies and if implementing AI-reliant workflows will be successful. It is essential to develop suitable means to measure the AI literacy of individuals who are required to work with AI.
+A  reliable  and  valid  measurement  instrument  for  AI  literacy  is essential for selecting suitable personnel, identifying shortages in skills and knowledge that can be addressed, and evaluating interventions that focus  on  improving  AI literacy.  Specific  tests  and  questionnaires were developed to measure AI literacy in educational settings where efforts are  made  to  implement  AI literacy  into  school  curricula  and  develop educational  approaches  for  increasing  AI literacy  (Dai  et  al.,  2020; Kandlhofer  et  al.,  2016;  Rodríguez-García,  Moreno-Leon, ´ Rom´an-- Gonz´alez,  & Robles,  2021; Wan  et  al.,  2020a; Williams  et  al.,  2019). Besides, there are few ways to measure AI literacy, and many scales are bound  to  specific  contexts  (e.g.,  useable  only  in  an  educational  or medical setting) or need to be validated (Karaca et al., 2021; Wienrich & Carolus,  2021).  Moreover,  no  measurement instrument takes  into  ac- count psychological meta-competencies (Wienrich, Carolus, Markus, & Augustin, 2022). However, these are particularly important in work and adult education since the introduction of AI systems is often accompa -
+nied by general change processes that must be mastered constructively.
+The goal of the present paper is to provide a measurement instrument 
+that deals with the desiderata of current instruments and is modular in addition. In the context of this article, a modular measurement instru - ment  is understood to  be  an  instrument that  consists  of various  com- ponents that can be used separately from one another. The present paper addresses these research gaps by presenting an empirical study on the systematic development and factorial validation of an AI literacy scale that meets psychometric requirements, is cross-contextual applicable, is embedded  in  the  current  literature on  AI literacy,  and  considers  psy- chological meta-competencies.
+2. Theoretical background
+Originally,  ”literacy” referred  to  the  basic  knowledge  to  read  and write. More modern definitions apply a more general understanding of literacy  as  the  ”ability  to  identify,  understand,  interpret,  create, communicate and  compute,  using  printed  and  written  materials  asso- ciated with varying contexts” (for Statistics, nd). This, thus, involves not 
+only basic skills of reading and writing but also more complex thought processes  of  comprehension,  interpretation,  and  creation.  In  recent years,  the  term  literacy  has  been  used  for  a  broader  array  of compe - tencies regarding other domains (e.g., finance, health, or science). Most subtypes  of literacy,  however,  focus  on  information technology  (e.g., digital literacy, media literacy, information literacy, technology literacy, information technology literacy, social media literacy (Polanco-Levic´an 
+& Salvo-Garrido,  2022),  digital  interaction  literacy  (Carolus  et  al., 2022)).
+AI literacy definitions differ in the exact number and configuration of competencies. There are many different conceptualizations and defini - tions  of AI literacy:  Ng and  colleagues,  in  their  review  on  AI literacy conceptualizations in education, postulate that these can be organized into four concepts: Know & understand AI, Use & apply AI, Evaluate & create AI, and AI ethics (Ng et al., 2021). They assume that AI literacy is given  if an  individual  knows  the  basic  functions  of AI and  can  use  AI applications, can  apply  AI knowledge  in  different  scenarios,  can  eval- uate, appraise, predict, and design AI applications, and can make ethical considerations. Most conceptualizations of AI literacy consider users as AI literate even if they do not have the in-depth technical knowledge and cannot  develop  or  create  AI. For  example,  Long & Magerko  define  AI literacy as a ”[…] set of competencies that enable individuals to criti- cally evaluate AI technologies; communicate and collaborate effectively with  AI; and  use  AI as  a tool  online,  at  home,  and  in  the  workplace” (Long & Magerko, 2020). Cetindamar et al. (2022) define AI literacy as 
+”a  bundle  of four  core  capabilities”, namely  technology-related, work-- related,  human-machine-related,  and  learning-related  capabilities.  They argue that technological capabilities will be necessary to understand and 
+use AI, as it is based on technology. However, they limit these capabil -
+ities  to  the  use  of tools  and  data  literacy  and  do  not  include  in-depth programming skills  to be  part  of AI literacy.  Zhang,  Lee, et  al.  (2022) developed  a  curriculum  for  middle  schools  to  foster  AI literacy  with three components: AI concepts includes factual knowledge about AI and 
+its concepts and technical details. Ethical and societal implications consists 
+of the ability to understand the consequences of using AI for society, and 
+AI Career Future concerns the impact of AI on future careers. However, in-depth technical knowledge about the creation of AI is not included. For their measurement instrument on AI literacy, Wang and colleagues define AI literacy to have the components awareness, usage, evaluation, and  ethics but  do  not  include  the  ability  to  develop  AI applications as part of their conceptualization (Wang et al., 2022).
+Bloom’s taxonomy  of educational objectives  (Bloom,  1956) is also highly relevant to the definition of AI literacy and to the development of AI literacy scales. The taxonomy includes different levels of educational goals,  such  as  the  ability  to  remember  terms  and  concepts  (i.e., Remember)  or  more  complex  operations,  like  the  ability  to  analyze complex  matters.  Even  though  it  was  not  developed  to  function  as  a guideline  for  the  construction  of  literacy  conceptualizations  or  mea- surement scales, as Ng et al. (2021) conclude, most conceptualizations of 
+AI literacy parallel Bloom’s taxonomy regarding their general configu - ration of skills (Fig. 1). Since  this taxonomy is the basis for numerous competence formulations in schools and universities, the present paper 
+also  relates  to  it  by  considering  it  a  foundation  for  many  AI literacy conceptualizations and scales.
+There is one central point in which we differ from Bloom’s taxonomy 
+in our understanding of AI literacy. We do not expect all components of 
+AI literacy  to  be ordered  in a strict  hierarchical sense.  Instead,  we  as- sume that they are loosely connected. For example, it is possible to be able to create and develop AI without being able to make ethical con- siderations and evaluate the advantages and disadvantages of the use of AI.
+2.1. Measuring AI literacy
+Several scales have been developed to measure AI literacy so far. As many articles about AI literacy stem from an educational context, many measurement instruments were  developed  for the evaluation  of a spe- cific  intervention.  Often,  teaching  success  is  measured  with  single- choice  or  open-ended  knowledge  tests  (e.g.,  Ali  et  al.,  2019; Kandlhofer et al., 2016; Ng et al., 2022; Rodríguez-García et al., 2021; Wan et al., 2020b; Williams et al., 2019; Zhang, Lee, et al., 2022). The advantage of these  tests  is the  apparently higher  quality  of measure - ment, which is only given to a limited extent with open answers, which are  subject  to  personal  opinions.  An additional disadvantage of these tests is that they often remain close to the content of the intervention to be  evaluated  or  to  the  content  of the  lesson.  Other  researchers in  an educational context  resort  to  self-assessments  (e.g.,  Chai  et  al.,  2020, 2021; Dai et al., 2020; Kim et al., 2021; Kim & Lee, 2022), which are easier to carry out and more objective as no interpretation of answers is necessary.  Some  research  tends  to  use  both  options  in  combination (Kandlhofer et al., 2016; Zhang, Lee, et al., 2022). What all instruments used in schools have in common is that their factorial structure was not examined in large samples. Most of these questionnaires and tests might be  helpful  in evaluating specific  interventions. However,  they  are  less suitable for the measurement of AI literacy in a broader spectrum of use cases  for  two  reasons:  First,  they  heavily  depend  on  the  specific knowledge of the tested intervention. For example, in order to assess AI literacy  in  general  in  work  contexts,  it  should  be  possible  to  query general criteria, which can then be combined with context-specific as- pects in a modular way. Second, a large proportion of these studies do not differentiate between different aspects of AI literacy. Especially for 
+
+2 
+A. Carolus et al.                                                                                                                                                                                                                                 Computers in Human Behavior: Arti  cial Humans 1 (2023) 100014 
+
+Fig. 1. Bloom’s Taxonomy and AI literacy adapted from Ng et al. (2021).
+
+Fig. 2. AI used at work (n = 178) as reported by the participants (N = 300).
+
+Fig. 3. Conceptual model for the confirmatory factor analysis.
+
+3 
+A. Carolus et al.                                                                                                                                                                                                                                 Computers in Human Behavior: Arti  cial Humans 1 (2023) 100014 
+its extensive use in science and practice, it is important to differentiate between  distinct  facets  of AI literacy  so that  the  questionnaire can  be used economically and purposefully.
+At the time of finalizing this paper, there were three published scales that could be used for a more general measurement of AI literacy and one  collection  of items  to  measure  AI literacy.  Karaca  and  colleagues created a scale to specifically measure the AI Readiness of medical stu- dents  in  healthcare  through  a  self-report  scale  (Karaca  et  al.,  2021). However,  adapting  the  scale  to  different  professional  fields  would  be easily  possible.  The  Medical  Artificial  Intelligence  Readiness  Scale  for Medical  Students  (MAIRS-MS)  was  developed  to  measure  medical 
+students’  readiness  for  using  artificial  intelligence  in  their  work. Exploratory and confirmatory factor analysis showed a good fit for the 27-item scale, which tends to measure AI readiness in the four domains of  ”Cognition”,  ”Ability”,  ”Vision”,  and  ”Ethics”.  Another  study  on developing and validating a scale to measure AI literacy was published last year (Wang et al., 2022). The ”artificial intelligence literacy scale” measures AI literacy with 12 items on the four dimensions of ”Aware- ness”,  ”Usage”,  ”Evaluation”,  and  ”Ethics”.  Again,  the  identified  di- mensions  were  confirmed  by  factor  analysis.  However,  Wang  and colleagues  draw  heavily  on  existing  literature  on  digital  literacy  to conceptualize  AI  literacy  and  develop  their  questionnaire.  Both 
+
+ 
+A. Carolus et al.                                                                                                                                                                                                                                 Computers in Human Behavior: Arti  cial Humans 1 (2023) 100014 
+
+Fig. 4. Structural equation model of the modified confirmatory factor analysis. The items are omitted.
+
+4 
+A. Carolus et al.                                                                                                                                                                                                                                 Computers in Human Behavior: Arti  cial Humans 1 (2023) 100014 
+questionnaires  do  not  consider  the  current  theoretical  advancements regarding the conceptualization of AI literacy (Ng et al., 2021). The third instrument was  recently  presented  by Pinski  and  Benlian  (2023). It is designed  to  measure  the  AI  literacy  of  non-experts  in  the  working context. Even though they refer to AI literacy conceptualizations (Long 
+& Magerko, 2020; Ng et al., 2021), their conceptualization of AI literacy 
+and  the  structure  of the  questionnaire are  not  based  on  these  concep - tualizations. Instead,  they  follow  conceptualizations from  the  field  of information  systems  (Schuetz  et  al.,  2020)  to  guide  their  scale  con- struction.  Pinski  and  Benlian  (2023) differentiate  between  explicit knowledge  and  tacit  knowledge,  which  can  be  understood  -  and  is measured in their instrument - as an experience rather than knowledge 
+(i.e., ”I have experience in interaction with different types of AI […].”). 
+They also assume a ”socio-technical” perspective in the development of 
+their measurement instrument. However, this does not refer to similar - ities  between  human-AI  interactions  and  human-human  interaction. Instead, it is concerned with the knowledge of other human actors in the 
+field of AI.
+Laupichler et al. (2023) presented a collection of 38 items to measure 
+AI literacy. They generated an initial set of items and asked experts in the field of AI education to refine the items following the Delphi method. 
+Their  item  collection  targets  non-expert  users  of  AI.  Items  are  only loosely  based  on  a  recent  AI literacy  framework  (Long  &  Magerko, 2020), which was used as an ”implicit decision support tool”. Also, no factor analysis was conducted to test the factorial structure and advance 
+AI literacy conceptualizations.
+The  numerous  current  publications  show  that  AI  literacy  is  an important topic that is researched in very different and specialized ways. This  results  in  measuring  instruments  that,  on  their  own,  produce  a coherent structure but ignore essential aspects and thus have only a very limited  scope  of application. Established  competence taxonomies  like those of Bloom (1956) and Ng et al. (2021) are not consistently used as a theoretical basis for item formulation. Thus, the interpretation of latent factors  also  remains  arbitrary.  Therefore,  we  base  our  measurement instrument on  the  established  competence  taxonomy  of Bloom  (1956) and AI literacy conceptualization of Ng et al. (2021).
+2.2. A psychological perspective on the measurement of AI literacy
+When  measuring  human  competencies such  as  AI literacy,  several options  (e.g.,  tests,  observations  of  behavior,  questionnaires)  exist. Although  tests  tend  to  be  more  objective  and  observations  tend  to possess  a  higher  validity,  self-report  questionnaires  have  a  different advantage  not  despite  but  because  they  measure  the  self-perceived competence  of  an  individual:  According  to  the  theory  of  planned behavior (Ajzen, 1985) or similar theories (e.g., adaptions to UTAUT2, Venkatesh et al., 2012; Alalwan et al., 2015; Lallmahomed et al., 2017; 
+Gao  et  al.,  2015),  the  perceived  capabilities  regarding  a  particular 
+behavior  (called  perceived  control  or  self-efficacy)  are  central  to  the intention  of  showing  or  changing  a  behavior.  The  theory  of  planned behavior  (Ajzen,  1985)  postulates  that  intentions  and  perceived behavioral  control  are  most  important  to  predict  human  voluntary behavior  (such  as the  use  of AI or  managing  AI-induced  changes).  In- tentions,  in  turn,  are  centrally  predicted  by  attitudes  towards  the behavior, the subjective norm (i.e., influences from the social environ -
+ment),  and  perceived  behavioral  control.  Thus,  perceived  behavioral control  takes  a unique  role  in  that  it  influences  behavior  directly  and indirectly  (i.e.,  via  intentions).  Even  though  the  theory  of  planned behavior  is used  mainly  to  predict  change  in health  behavior  and  has been criticized (Sniehotta et al., 2014), recently, it has successfully been applied to predict the intention to use AI in different domains such as agriculture (Mohr  & Kühl,  2021),  and  human  resources  (Alam  et  al., 2020), the intention to learn AI (Chai et al., 2021) or other related new technologies (Zaman  et  al.,  2021).  Outside  the  theory  of the  planned behavior framework, it was also shown that the subjective assessment of 
+one’s competencies is central  to  the  intention  to  use  AI (Kwak  et  al., 2022;  Latikka  et  al.,  2019).  Consequently,  according  to  an  essential general psychological theory of intentional behavior, it is vital to mea-
+sure perceived behavioral control for the target domain of AI usage in addition to other constructs, such as the attitude towards the usage of AI 
+or  social  influences.  From  a  psychological  point  of  view,  it  is,  thus, reasonable to resort to a self-report questionnaire to measure AI literacy.
+However,  the  behavioral  process  does  not  end  with  the  one-time formation  of a behavioral  intention  (Gollwitzer,  1990). In the  further course of the use of AI, the control of action and emotion processes is necessary  for  the  successful  long-term  and  sustainable  use  of  AI (Gollwitzer,  1990).  According  to  Bandura  (1997), several  sources  are central to the formation of perceived behavioral control, which he calls self-efficacy. Individuals experience higher self-efficacy when they are successful themselves, when they see others being successful, when they experience no negative and high positive emotional arousal, and when 
+they are supported by others. Especially new developments in the field of AI might hinder the long-term use of AI as they can have a negative 
+effect  on perceived  behavioral control: Innovations  might unsettle  po- tential  users,  lead  to  failed  behavior,  and  thus  reduce  perceived behavioral  control.  In  addition,  negative  emotional  states  of  arousal might  occur,  which  can  have  further  adverse  effects  on  perceived behavioral  control.  We suggest  that  other  psychological  competencies are central to mitigating adverse effects on perceived behavioral control 
+and,  thus,  the  behavioral  intention  and  actual  use  of  AI.  Learning, problem-solving, and  emotion  regulation  might  be  needed  to  mitigate the  adverse  effects  of  innovations  on  perceived  behavioral  control. Especially  learning  and  problem-solving  regarding  AI can  enable  the potential AI user to keep up with current developments in AI. Learning 
+has been considered an essential part of or addition to AI literacy before (Carolus et al., 2022; Cetindamar et al., 2022; Dai et al., 2020). These 
+competencies presumably  lead  to  higher  future  use  of AI by  reducing failures leading to reduced perceived behavioral control. Additionally, emotion  regulation  helps  to  reduce  harmful  and  increase  positive emotional  arousal  (Carolus  et  al.,  2022)  and,  by  that,  also  increases perceived  behavioral  control.  We  argue  that  an  instrument  for measuring  AI literacy  to  predict  and  prepare  AI use  in  a professional context should, from a psychological point of view, primarily focus on the subjective assessment of one’s competencies (i.e., behavioral control or self-efficacy). From the perspective of the theory of planned behavior (Ajzen, 1985), behavioral control takes on a central role. In addition to subjective competence, other competencies are also critical, especially to  help  predict  and  ensure  the  long-term  use  of AI. These  include,  in particular,  the  ability  to  learn,  problem-solving  skills,  and  emotion regulation to compensate for failures and resulting negative emotional arousal. In addition, we also consider the ability to recognize and pre- vent the influences of human-like voice-based AI systems (Carolus et al., 2022; Wienrich, Carolus, Roth-Isigkeit, & Hotho, 2022) as necessary. In 
+the following, these competencies will be summarized under the term AI Self-management.  We  argue  that  AI Self-management  is  important  to ensure the prolonged and sustainable use of AI and, thus, consider it to 
+be an essential part of our measurement instrument.
+2.3. Summary and present work
+In summary, different conceptualizations of AI literacy exist where the main focus is on the domains of basic knowledge about AI, the use of AI, and  ethical aspects  of AI usage  (Long & Magerko, 2020; Ng et  al., 2021). Several measurement instruments already exist. However, some desiderata  in the research  on AI literacy measurement still need  to be worked on. 
+1. In general, few measurement instruments with initial validations and theoretical foundations exist (Karaca et al., 2021; Wang et al., 2022), besides  practically-oriented instruments often  developed  for  a spe- cific intervention study in an educational context.
+2. Most  instruments are  not  based  on  established theoretical compe - tency modeling, making interpreting latent factors seem arbitrary.
+3. Fewer researchers include the development of AI as a part of AI lit-
+eracy  or  allude  to  initial  psychological  components,  as  described above  (Carolus  et  al.,  2022; Carolus  & Wienrich,  2021; Wienrich, Carolus, Markus, & Augustin, 2022).
+4. The  assessment  of related  psychological  constructs  we  call  AI Self- management  (i.e.,  emotion  regulation,  problem-solving,  and learning in regard to AI) we deem vital information to support the long-term and sustainable use of AI at the workplace and beyond and 
+has not been included in efforts to measure AI literacy.
+With  these  desiderata  in  mind,  this  paper  aims  to  meaningfully extend previous work on the conceptualization and measurement of AI literacy by developing a measurement instrument that: 
+1. Is deeply grounded in the existing literature on AI literacy,
+2. Is modular  (i.e.,  including  different  facets  that  can  be  used  inde- pendently of each other) to be flexibly applicable in professional life depending on the goals,
+3. Meets psychological psychometric requirements,
+4. And includes further psychological competencies in addition to the classical facets of AI literacy.
+The present study contributes to the research on the conceptualiza -
+tion and measurement of AI literacy by (a) presenting a newly developed measurement  instrument  and  (b)  testing  the  factorial  structure.  The measurement  instrument  differs  from  already  existing  instruments  in several essential ways.
+3. Empirical study
+Empirical  data  were  collected  online  from  300  individuals  with  a first language of German on the 3rd and 4th of November 2022 using the survey  tool  SoSci-Survey  (Leiner,  2022).  Participants  were  recruited using Prolific. co, an online platform that provides contacts to potential participants for  online  studies  (Damer  & Bradley,  2014).  Participants were eligible for the study if they spoke German. We made no further requirements  regarding  socio-demographic  data  or  prior  experience with  or  knowledge  of AI. The  participants received  short  information about the purpose of the study before they could decide whether they wanted  to  start  the  study  or  not.  They  received  compensation  worth €3.38  for  completion after  their  data  was  reviewed.  300  participants completed the study, two were rejected due to failed attention checks, 13  participants decided  to  return  their  submission,  and  three  partici - pants  did  not  complete  the  study.  Preliminary  testing  resulted  in  an average  completion  time  of  approximately  20  min.  The  average completion time was 16:05 min (SD = 5:46), amounting to an average reward of approximately €12.8/hour. All participants were asked to give informed  consent  prior  to  participation.  In  addition  to  the  items  we generated  for  AI literacy  following  the  conceptualization  by  Ng  and colleagues (Ng et al., 2021), the creation and development component of (Bloom, 1956) and AI Self-management, anthropomorphism tendency, attitudes  towards  AI, and  the  willingness  to  use  technology  and  de- mographic  information  were  assessed  mainly  using  standardized instruments.
+3.1. Sample
+In the present sample, the average age was 32.13 years (SD = 11.66 years, ranging from 18 to 72 years). Most participants lived in Germany (77.00%)  or  Austria  (7.00%).  145  participants considered  themselves female (48.33%), while 152 participants identified as male (50.67%). 3 participants identified  as  diverse  (1.00%).  Participants were  asked  to indicate  their  experience  with  AI  by  rating  three  statements  ”I  use artificial  intelligence  at  work”, ”I use  artificial  intelligence  at  school/ university”, and ”I use artificial intelligence in my everyday life” on an 
+11-point  Likert  scale  (0  = ”never  or  only  very  rarely” to  10  = ”very often”).  Almost  one-fifth  of the  participants (19.67%)  reported  never using  AI in their  everyday  lives,  at  school/university, or  at  work.  The 
+average scores (and standard deviation) were M = 1.84 (2.79) for work, 
+M = 1.21 (2.31) for school/university, and M = 3.73 (3.03) for everyday life respectively showing rather low use of AI on the scale of 0 = ”never 
+or only very rarely” to 10 = ”very often”. Participants were also asked to report the AI they use at work (Fig. 2). In total, the participants reported 
+the use of 158 AI-based systems. The scope ranged from the use of de-
+vices with AI, to the use  of programs that include AI functions, to the autonomous  implementation  of  machine  learning  processes.  Ten  AI frameworks  and  ten  AI  providers  and  environments  (e.g.,  Amazon, Watson) were reported.
+3.2. Measures
+All measures were administered online via SoSci-Survey in German. Prior to participation, the participants were informed about the general purpose of the study and gave their informed consent.
+3.2.1. AI literacy and AI self-management
+After  reviewing  the  literature on  AI literacy  described  in the  theo - retical  background, we  generated  56  items  for  the  self-assessments  in different domains of AI literacy. We focused on the four superordinate domains described by Ng et al. Ng et al. (2021) 1, namely Know & un- derstand AI, Use & apply AI, Evaluate & create AI, and AI ethics. The item  construction was  heavily  guided  by  the  conceptualization of Ng et al. as each item was developed to directly represent one of their do- mains of AI literacy. 15 Items were developed for Know & understand 
+AI, while 12 items were created for Use & apply AI. The original item 
+pool  we  generated  for  Evaluate  & create  AI consisted  of 15  items  for Evaluate and 9 for Create AI. Lastly, 5 items were created for AI ethics. In addition  to  the  items  aiming  at  the  assessment  of  the  domains  of  AI literacy, we generated 12 items (three per construct) to measure addi -
+tional  constructs  derived  from  the  literature  as  presented  above  we deemed  necessary for individuals working on and with AI. These con- structs  include  (a)  the  ability  to  manage  one’s  own  emotions  while interacting with AI, called Emotion regulation, (b) the ability to recog-
+nize if one’s decisions are influenced by AI and to stop this influence (i.e. 
+”AI persuasion literacy”), (c) the ability to solve problems encountered while working with AI (i.e., AI problem solving), and (d) the ability to keep  up  to  date  with  current  developments and  inform  oneself  about new  AI applications, called  Learning.  These  abilities  have  in  common that  they  describe  self-management  aspects:  They  include  managing one’s  own  emotions  and  decisions  as  well  as  the  management  of problem-solving and learning processes. In the first step, for each of the domains, items were generated by one researcher. Then, the items were discussed, rephrased, rejected, and finalized by our team of researchers from the areas of human-computer interaction and psychology. The 12 items on AI self-management and 56 items on AI literacy were admin - istered  first.  Each  item  included  a  statement  about  a  specific  ability related to one of the domains of AI literacy or AI self-management (e.g., 
+”I can  develop  new  AI applications.”). The  participants were  asked  to rate their own abilities using an 11-point Likert scale (0–10). We decided 
+to use this scale because it can easily be understood as the certainty of being able to show a behavior Bandura et al. (2006). There is no scale labeling  to  achieve  an  approximate metric  scale  level.  The  only  addi - tional information the participants receive is that a value of 0 means that the  ability  is hardly  or  not  at  all  pronounced, whereas  a  value  of 10 means that the ability is very well or almost perfectly pronounced.
+3.2.2. Attitude towards AI
+To measure attitude toward AI, we used our own German translation of  the  General  Attitude  towards  Artificial  Intelligence  Scale  (GAAIS) (Schepman & Rodway, 2020). The scale consists of 20 items that mea-
+sure positive (e.g., ”There are many beneficial applications of Artificial Intelligence”)  and  negative  (e.g.,  ”I  think  Artificial  Intelligence  is dangerous”)  attitudes  towards  AI. Participants  rate  their  attitude  to- wards  AI  on  a  5-point  Likert  scale  with  the  anchors  strongly  ”dis- agree”/”somewhat  disagree”/”neutral”/”somewhat  agree”/”strongly agree”. In our sample, both subscales showed high internal consistencies 
+(α = 0.88 for positive and α = 0.82 for negative attitude).
+3.2.3. Willingness to use technology
+The short scale for willingness to use technology (Neyer et al., 2012) measures  the  acceptance  of technology  (i.e.,  ”I am  curious  about  new technical  developments.”),  the  competence (i.e.,” I usually  find  using modern technology to be a challenge.”) and the perceived control (i.e.,” Whether or not I succeed in using modern technology largely depends on 
+me.”) when  using  new  technologies  with  four  items  per  scale. Partici - pants rate the items regarding their willingness to work with technology 
+on a 5-point Likert scale (from 1 = ”not true at all” to 5 = ”completely true”). The items  for ”competence” were  recoded so that  a high value indicates a high perceived competence in line with the other two scales. 
+All three scales showed good internal consistencies (all α > 0.81). We are aware  that  the  use  of 5-point  Likert  scales  is often  discouraged (e.g., Dawes, 2008; van Beuningen et al., 2014). Although being aware of the disadvantages of 5-point Likert scales we decided to stick as close to the original  scales  as possible.  Descriptive  information for the  attitude  to- wards AI and willingness to use technology can be seen in Table 1.
+3.3. Results
+To test  the  factorial  structure  of our  measurement instrument, we calculated a confirmatory factor analysis with the package lavaan for R 
+(Rosseel,  2012) (version  0.6–12)  and  used  robust  Satorra-Bentler esti- mations.  In the  first  step,  we  included  all  items  on  AI literacy  and  AI self-management. Based  on  the  conceptual  derivation/structure of the items (3), we tested if the items loaded on the factor they were devel-
+oped in reference to. The lower level factors Know & understand AI, Use 
+& apply AI, Evaluate & create AI, and AI ethics were expected to load on 
+the second-level factor called AI literacy. The factors AI Problem solving, 
+AI Learning,  AI Persuasion  literacy,  and  AI Emotion  regulation  were expected  to  load  on  the  second-level  factor  we  called  AI Self-management; Fig. 3).
+Because of an insufficient model fit, in the second step, we made the following changes: We removed 34 items that showed low factor load-
+ings.  In  order  to  guarantee  that  the  questionnaire  still  covers  all  the domains of AI literacy, we ensured that only items were removed that doubled  in  content  with  the  remaining  items.  Three  items  from  the factor Know & understand AI were  moved to a separate factor named Detect AI. The model was changed so that the level one factor, Create AI, 
+does  not load on the  level two factor AI literacy.  Lastly, the  level two factor  AI Self-management  was  split  into  the  factors  AI Self-efficacy (including  AI  Learning  and  AI  Problem  solving)  and  AI  Self- competency  (including  AI Persuasion  literacy  and  AI Emotion  regula - tion. We re-run the confirmatory factor analysis with the changes. The 
+final  questionnaire can  be seen  in the appendix.  The  model  fit for the modified  model  was  good.  Although  the  χ2-test  became  significant 
+(χ2(513)  = 886.87,  p < 0.001),  the  other  model  fit  indices  showed  a good model fit (CFI = 0.926, RMSEA = 0.057, 95 %-CI [0.051, 0.063], SRMR = 0.079). CFI > 0.9 and RMSEA < 0.08 indicate an acceptable model fit, while an SRMR > indicates no good fit (Kline, 2015).
+All  items  loaded  significantly  on  their  respective  factor  (all  p  < 0.001), and all level one factors loaded significantly on their respective level two factor (all p < 0.001). All level two factors were significantly correlated  (all  p  < 0.01).  Interestingly,  AI Self-efficacy  and  AI Self- competency  showed  very  high  correlations  with  AI literacy,  whereas they were still highly correlated with each other, but to a lesser extent. The result of the confirmatory factor analysis is a measurement model for 34 manifest  items  on AI literacy and  related psychological compe - tencies (Fig. 4). A total of 18 items load on the level-one factors loading 
+on  the  level-two  factor  AI literacy:  Six items  each  load  on  the  latent dimensions  Use & Apply  AI (Cronbach’s α = 0.93)  and  Know  & Un- derstand AI (Cronbach’s α = 0.87). Three items each load on the latent dimensions Detect AI (Cronbach’s α = 0.77) and AI Ethics (Cronbach’s α 
+= 75).  Four  items  directly  load  on  the  second-level  latent  dimension Create AI (Cronbach’s α = 0.92). Three items each load on the first-level latent  dimensions  AI  Problem  solving  (Cronbach’s  α  = 0.84)  and Learning  (Cronbach’s  α  = 0.84)  loading  on  the  second-level  latent dimension  AI Self-Efficacy.  For  the  second-level  latent  dimension  AI Self-competency, three items load on the first-level latent dimensions of 
+AI Persuasion literacy (Cronbach’s α = 0.66) and AI Emotion regulation (Cronbach’s α = 0.71). All second-level latent dimensions were signifi- cantly correlated with each other (Fig. 4).
+In the third step, we additionally included the subscales for attitude towards AI and willingness to use technology as additional latent vari- ables to the structural equation model. All items loaded significantly on 
+Table 1 
+Descriptive statistics for AI attitudes (positive and negative) and willingness to use new technology (acceptance, competence, control).
+mean sd median min max AI attitude Positive  3.60 0.57 3.67 1.50 4.92
+attitude
+Negative  2.74 0.67 2.75 1.13 4.50 attitude
+Willingness to use  Acceptance 3.56 0.94 3.75 1.00 5.00 technology Competence 4.83 0.82 4.29 1.00 5.00 Control 3.85 0.68 4.00 1.75 5.00
+their respective scale (all p < .001). The correlations of the latent vari- ables can be seen in Table 2. The model showed an acceptable model fit 
+(χ2(2035) = 3004.35, p < 0.001, CFI = 0.900, RMSEA = 0.043, 95 %-CI [0.039,  0.047],  SRMR = 0.069).  A CFI > 0.9  and  an  RMSEA < 0.08 indicate an acceptable fit, while an SRMR > 0.05 indicates no good fit (Kline, 2015).
+Self-assessed competence in the use of new technologies correlated positively only with Create AI. It did not correlate with AI Self-efficacy 
+and  only  negatively  with  AI literacy  and  AI Self-competency.  All AI competencies correlated positively with the perceived control over new technology and acceptance of new technology except Create AI, which did not correlate with perceived control over new technology. A positive attitude towards AI was positively correlated with all AI competencies. A negative  attitude  was  negatively  correlated  to  AI literacy  and  AI Self- competency but was not correlated to Create AI and AI Self-efficacy.
+4. Discussion
+The aim of this paper was to develop and validate a questionnaire to assess AI literacy that targets several desiderata of current measurement instruments. In contrast  to  existing  questionnaires, first,  the  question - naire should be deeply grounded in the existing literature on AI literacy. Second,  the  questionnaire should  be  modular  (i.e.,  including  different facets  that  can  be  used  independently  of  each  other)  to  be  flexibly applicable  in  professional  life,  depending  on  the  goals  and  use  cases. Third, the questionnaire should meet psychological requirements, and, fourth, it should include further psychological competencies in addition to  the  classical  facets  of AI literacy.  For this  purpose,  the  data  of 300 German-speaking adults  were  analyzed  with  confirmatory factor  ana- lyses. The analyses resulted in a questionnaire consisting of 34 items to measure  AI literacy  and  psychological  competencies necessary  for  the sustainable use of AI literacy. Items were generated in direct reference to established  conceptualizations of competencies (Bloom,  1956) and  AI literacy (Ng et al., 2021). The measurement instrument can be used to measure  AI literacy  and  additional  psychological  competencies  inde- pendent  of  the  context.  The  MAILS will  have  an  impact  on  different fields  as  its  application  can  help  select  suitable  personnel,  identify shortages in skills and knowledge that can be addressed, and evaluate interventions.
+Instead of the eight factors (four derived from the literature, Ng et al., 2021) and  four  to  measure  specific  psychological  aspects  we  deemed essential)  that  loaded  on  2  s-level  factors  (i.e.,  AI  literacy  and  AI Self-management), we  found  the  facets  Use & Apply  AI, Know  & un- derstand  AI, Detect  AI, and  AI Ethics  which  loaded  on  a second-level factor called AI literacy. Nearly all scales of the questionnaire showed acceptable  (Cronbach’s α  > .7),  good  (Cronbach’s α  > 0.8),  or  high (Cronbach’s α > 0.9) values for Cronbach’s alpha supporting the com- posite  reliability  of  each  scale.  Only  the  latent  dimensions  of  AI Persuasion literacy showed a slightly low value (Cronbach’s α = 0.66). Interestingly, the facet Create AI did not load on AI literacy and was only correlated to it with a r = 0.5. This result from our measurement model 
+can be seen as support for the conceptualizations which do not include 
+the  creation  of AI as a part  (or  dimension)  of AI literacy.  Instead,  our research suggests that Create AI should be operationalized as a separate skill that is related to, but not an inherent part of, AI literacy. This is in line with most conceptualizations of AI literacy where the development of AI is not explicitly mentioned (Dai et al., 2020; Kong et al., 2021; Long 
+& Magerko, 2020), however, is in conflict with the conceptualization by Ng et al. (2021). The structure found, where Create AI does not load on AI literacy  but  is correlated  to  it,  covers  this  dichotomy  well,  and  the dimension Create AI can be measured modularly along with AI literacy. Concerning the domain AI literacy, we found further discrepancies between  the  first  specified  model  and  the  final  model.  Interestingly, items for the evaluation of AI did not load on one factor with items on Create AI but loaded on the factor for Know & understand AI. It seems 
+that  the  ability  to  evaluate  AI is  more  closely  related  to  the  general knowledge  and  understanding of AI than  to  the  ability  to  develop  AI. Presumably, according to the subjects’ self-assessment, for the evalua -
+tion of AI systems, precise knowledge and understanding (i.e., Know & understand AI) are more important than the ability to actually develop AI. This fits in with the general picture that Create AI is separate (Dai et al., 2020; Kong et al., 2021; Long & Magerko, 2020) and no part of AI literacy. Our findings, thus, partly contradict the conceptualization by Ng et  al.  (2021), who  included  Create  AI as  a  component  of their  AI literacy conceptualization. Additionally, we found a common factor for the ability to detect AI similar to the dimensions ”Awareness” (e.g., ”I can distinguish between smart devices and non-smart devices.”, Wang et al. (2022)). Possibly, recognizing AI does not seem to be necessarily tied  to  knowing  and  understanding  AI,  but  also  is  an  independent competence.  This  is  in  line  with  the  conceptualization  by  Long  and Magerko  (2020),  who  included  the  ability  to  recognize  AI  in  their framework. However, as expected, we found the other factors with the expected  items  to  load  on  the  second-level  latent  dimension  called  AI literacy.
+In place of one domain called AI Self-management, which includes 
+the factors AI Problem solving, AI Learning, AI Persuasion literacy, and 
+AI Emotion regulation, we found 2 s-level latent domains we called AI Self-efficacy (including the factors AI Problem solving and AI Learning) 
+and  AI  Self-competency  (including  AI  Persuasion  literacy  and  AI Emotion  regulation). Possibly,  problem-solving and  learning  are  com- petencies that are primarily aimed at managing information and infor-
+mation  processing,  while  persuasion  literacy  and  emotion  regulation also focus on the management of information, albeit with greater per-
+sonal value (own decisions and emotions). We follow the opinion that these factors are important for the prolonged and sustainable use of AI 
+tools (Carolus et al., 2022; Carolus & Wienrich, 2021; Cetindamar et al., 2022; Dai et al., 2020; Wienrich, Carolus, Markus, & Augustin, 2022). A clear  correlation  emerged  between  AI  Self-efficacy  and  AI Self-competency,  although  the  subordinate factors  do  not  load  on one common  factor.  It  is  possible  that  similar  cognitive  processes  are necessary  for  the  management  of  processes  that  are  more  concerned with  the  processing  of information (AI Self-efficacy)  or  emotions  and decisions  (AI  Self-competency),  leading  to  a  high  correlation  among both domains. However, enough uniqueness exists in both constructs. So 
+
+7 
+A. Carolus et al.                                                                                                                                                                                                                                 Computers in Human Behavior: Arti  cial Humans 1 (2023) 100014 
+Table 2 
+Correlations from the structural equation model.
+2. 3. 4. 5. 6. 7. 8. 9.
+1. AIL 0.49*** 0.86*** 0.93*** 0.14* 0.20** 0.47***   0.17* 0.47***
+2. Create 0.24** 0.63***   0.18*   0.02 0.21*** 0.10 0.14*
+3. AISC 0.72*** 0.24** 0.31*** 0.36***   0.27** 0.28**
+4. AISE 0.06 0.17** 0.48***   0.10 0.33***
+5. Competence 0.41*** 0.42***   0.39*** 0.22**
+6. Control 0.46***   0.27*** 0.36***
+7. Acceptance   0.30*** 0.00
+8. Negative   0.43***
+9. Positive
+Note. * indicates p < .05, ** indicates p < .01, *** indicates p < .001; AIL = AI literacy, AISC = AI self-competency, AISE = AI self-efficacy.
+
+ 
+A. Carolus et al.                                                                                                                                                                                                                                 Computers in Human Behavior: Arti  cial Humans 1 (2023) 100014 
+far, conceptual thinking existed to include such aspects (Carolus et al., 2022; Carolus  & Wienrich,  2021; Cetindamar et  al.,  2022; Dai  et  al., 2020; Wienrich, Carolus, Markus, & Augustin, 2022), Wienrich, Carolus, Roth-Isigkeit,  &  Hotho,  2022ut  no  measurement  tool  yet.  Our  mea- surement  instrument,  therefore,  provides  new  value  and  an  essential contribution to existing  considerations. This  is the  first step  regarding 
+the  individual  differences  in  such  a  general  measuring  instrument (Wienrich, Carolus, Roth-Isigkeit, & Hotho, 2022).
+There are high correlations between the constructs of our question -
+naire  (i.e.,  AI  literacy,  AI  Self-competency,  Create  AI,  and  AI  Self- efficacy),  but  still  enough  differentiation that  they  can  be  understood 
+as  unique  constructs.  All  second-level  latent  dimensions  positively correlate  with  positive  attitude  toward  AI.  AI  literacy  and  AI  Self- competency  negatively  correlate  to  a  negative  attitude  towards  AI, while  Create  AI and  AI Self-efficacy  do  not.  Presumably,  individuals with a higher positive attitude also deal with the topic more often and 
+are, therefore, more competent. Similar is true for negative attitude (but only for some of the constructs), with lower negative attitude going hand 
+in hand with higher literacy and self-competence. Possibly, individuals with  lower  negative  attitude  (i.e.,  less  fear  or  anxiety)  show  higher values of AI literacy and AI Self-competency because they interact with 
+AI  more  frequently.  Alternatively,  individuals  with  higher  self- competency  are better  at regulating  their  emotions and  attitudes (i.e., less fear or anxiety), leading to less negative attitude. In a similar way, 
+the three dimensions of the willingness to use technology are positively related to most of the dimensions of our questionnaire. These correlative findings suggest that there are relations between competencies related 
+to  AI and  attitudes towards  AI as  well  as  the  willingness  to  use  new technology.  Individuals  with  higher  positive  attitudes, lower  negative attitudes,  and  more  willingness  to  use  technology  are  more  likely  to consider themselves competent (Ajzen, 1985; Wienrich & Carolus, 2021; Wienrich,  Carolus,  Roth-Isigkeit,  & Hotho,  2022). One  reason  may  be that  these  individuals  are  also  more  likely  to  use  AI and  thus  become more competent.
+4.1. Limitations and future work
+Several limitations need to be mentioned in regard to the empirical study  presented  in this  paper.  Our  sample  was  collected  online  and  is specific to German-speaking individuals who live in Germany or Austria. Also,  it  was  not  possible  to  use  an  already  existing  and  validated  in- strument on AI literacy to validate our questionnaire, as would be the 
+gold standard for scale development. Although other instruments exist, none have been validated with external criteria so far. Even though we chose confirmatory factor analysis to test our models, we made changes 
+to the model, thus, it is necessary to consider our approach exploratory. It is, therefore,  highly  important to  confirm  the  factorial  structure  we identified in an independent sample.
+Future research should aim to test the factorial structure we identi - fied in independent samples. The most critical next step, however, is the validation of our questionnaire. This could be done by either correlating 
+our questionnaire results with results of tests, tasks, or the evaluations of individual  AI literacy  by  an  expert  or  by  correlating it  to  a validated questionnaire that might be published in the future. Alternatively, other external criteria could be used: We could test if the instrument is capable 
+of  detecting  expected  group  differences  or  finding  change  after  in- terventions/in  the  course  of  professional  studies.  We  are  currently exploring available options to test the predictive validity and construct validity of the scale in samples of university students. For this purpose, it seems  possible  to  ask  students  in  AI and  machine  learning  university 
+courses  to  complete  the  scale  and  also  report  their  grades  in  the respective  course.  Additionally, a  comparison  with  the  other  existing instruments regarding their predictive validity (e.g., use them to predict 
+the quality of future AI-related behavior) would be interesting to iden- tify  the  worth  of  the  additional  scales  we  included.  Also,  testing  the discriminant validity of the scale by comparing it with other constructs 
+(e.g., intelligence, IT literacy, data literacy) might be highly relevant to prove  the  instrument’s  worth.  A  translation  of  the  MAILS  seems reasonable  to  measure  AI literacy  in  different  linguistic  and  cultural contexts.  Additional  effort  is necessary  to  translate  the  questionnaire and validate it. Ensuring measurement invariance would be an impor -
+tant condition for using the MAILS cross-linguistically and culturally.
+4.2. Conclusion
+The current study aimed to develop and validate a questionnaire to measure AI literacy and include psychological competencies that might be  helpful  in  predicting  the  prolonged  and  sustainable use  of AI. We based our developed items on the existing literature on AI literacy and psychological competencies. Overall, we found the factors Use & Apply 
+AI, Know  & understand  AI, and  AI Ethics  (Ng et  al.,  2021)  with  the addition of Detect AI. The factor Evaluate & Create AI was not found. While the items on the evaluation of AI loaded on Know & understand 
+AI, the items on the creation of AI formed their own factor that cannot be seen as an inherent part of AI literacy. Instead of finding one superor -
+dinate factor for the psychological competencies related to AI, we found 
+two  (i.e.,  AI Self-efficacy  and  AI Self-competency).  We  mainly  found positive relations for our questionnaires’ dimensions with attitudes to- ward AI and willingness to use technology. Create AI is a notable special 
+case  in  that  its  correlations to  attitudes  and  willingness  are  compara - tively low compared to the other dimensions of our scale. The developed 
+scale  will  contribute  to  the  current  research  on  AI literacy  and  will facilitate  the  implementation  of  AI  into  working  environments  by providing a valid measurement for AI literacy and related psychological competencies that can be used by various practitioners and researchers. 
+In  addition,  it  has  theoretical  implications  as  it  helps  to  get  a  better understanding of AI literacy. Further research will be needed to relate 
+our  measure  to  other  valid  measures  of AI literacy  and  compare  their predictive  validity.  The  current  study  contributes  to  the  existing research by providing a measurement instrument for AI literacy that is 
+based  on the current  literature on AI literacy,  includes  important psy- chological constructs, and has a valid factorial structure. The instrument will be helpful for researchers, practitioners, and educators who plan to measure AI literacy and related constructs.
+Ethical approval
+This  study  did  not  require  formal  ethical  approval  according  to ethical guidelines in Germany. The study followed all applicable inter - national ethical standards and all participants provided informed con-
+sent prior to data collection.
+Declaration of competing interest
+The authors have no competing interest to declare. Acknowledgements
+This work was supported by the German Federal Ministry of Labour and Social Affairs [DKI.00.00030.21].
+
+8 
+A. Carolus et al.                                                                                                                                                                                                                                 Computers in Human Behavior: Arti  cial Humans 1 (2023) 100014 
+Appendix A. Structure and all items of the Meta AI literacy Scale and sources that motivate each facet
+AI literacy
+Apply AI (Ng et al., 2022)
+1. I can operate AI applications in everyday life.
+2. I can use AI applications to make my everyday life easier.
+3. I can use artificial intelligence meaningfully to achieve my everyday goals.
+4. In everyday life, I can interact with AI in a way that makes my tasks easier.
+5. In everyday life, I can work together gainfully with an artificial intelligence.
+6. I can communicate gainfully with artificial intelligence in everyday life.
+Understand AI (Ng et al., 2022)
+7. I know the most important concepts of the topic ”artificial intelligence”.
+8. I know definitions of artificial intelligence.
+9. I can assess what the limitations and opportunities of using an AI are.
+10. I can assess what advantages and disadvantages the use of an artificial intelligence entails.
+11. I can think of new uses for AI.
+12. I can imagine possible future uses of AI.
+Detect AI (Long & Magerko, 2020; Wang et al., 2022)
+13. I can tell ifI am dealing with an application based on artificial intelligence.
+14. I can distinguish devices that use AI from devices that do not.
+15. I can distinguish if I interact with an AI or a ”real human”.
+AI Ethics (Ng et al., 2022)
+16. I can weigh the consequences of using AI for society.
+17. I can incorporate ethical considerations when deciding whether to use data provided by an AI.
+18. I can analyze AI-based applications for their ethical implications.
+Create AI (Ng et al., 2022)
+19. I can design new AI applications.
+20. I can program new applications in the field of ”artificial intelligence”.
+21. I can develop new AI applications.
+22. I can select useful tools (e.g., frameworks, programming languages) to program an AI.
+AI Self-Efficacy
+AI Problem solving (Ajzen, 1985)
+23. I can rely on my skills in difficult situations when using AI.
+24. I can handle most problems in dealing with artificial intelligence well on my own.
+25. I can also usually solve strenuous and complicated tasks when working with artificial intelligence well. Learning (Carolus et al., 2022; Cetindamar et al., 2022; Dai et al., 2020)
+26. I can keep up with the latest innovations in AI applications.
+27. Despite the rapid changes in the field of artificial intelligence, I can always keep up to date.
+28. Although there are often new AI applications, I manage to always be ”up-to date”.
+AI Self-Competency
+AI Persuasion literacy (Carolus et al., 2022)
+29. I don’t let AI influence me in my everyday decisions.
+30. I can prevent an AI from influencing me in my everyday decisions.
+31. I realise if artificial intelligence is influencing me in my everyday decisions.
+AI Emotion regulation (Carolus et al., 2022)
+32. I keep control over feelings like frustration and anxiety while doing everyday things with AI.
+33. I can handle it when everyday interactions with AI frustrate or frighten me.
+34. I can control my euphoria that arises when I use artificial intelligence for everyday purposes.
+
+9 
+A. Carolus et al.                                                                                                                                                                                                                                 Computers in Human Behavior: Arti  cial Humans 1 (2023) 100014 
+References
+Ajzen, I. (1985). From intentions to actions: A theory of planned behavior. Action control, 
+11–39 (Springer, Berlin).
+Alalwan, A. A., Dwivedi, Y. K., Rana, N. P., Lal, B., & Williams, M. D. (2015). Consumer 
+adoption of internet banking in Jordan: Examining the role of hedonic motivation, 
+habit, self-efficacy and trust. Journal of Financial Services Marketing, 20(2), 145–157. Alam, M. S., Khan, T.-U.-Z., Dhar, S. S., & Munira, K. S. (2020). HR professionals’ 
+intention to adopt and use of artificial intelligence in recruiting talents. Business 
+Perspective Review, 2(2), 15–30.
+Ali, S., Payne, B. H., Williams, R., Park, H. W., & Breazeal, C. (2019). Constructionism, 
+ethics, and creativity: Developing primary and middle school artificial intelligence education. In International workshop on education in artificial intelligence k-12 (eduai’19) (pp. 1–4). Palo Alto, California: mit media lab. 
+Bandura, A. (1997). Self-Efficacy: The Exercise of control. New York: WH Freeman/Times 
+Books/Henry Holt & Co.
+Bandura, A., et al. (2006). Guide for constructing self-efficacy scales. Self-efficacy beliefs 
+of adolescents, 5(1), 307–337.
+van Beuningen, J., van der Houven, K., & Moonen, L. (2014). Measuring well-being: An 
+analysis of different response scales. The Hague: Statistics Netherlands. 
+Bloom, B. S. (1956). Taxonomy of educational objectives, Handbook I: The cognitive domain. 
+New York: David McKay Co Inc.
+Carolus, A., Augustin, Y., Markus, A., & Wienrich, C. (2022). Digital interaction literacy 
+model – conceptualizing competencies for literate interactions with voice-based ai systems. Computers and Education: Artificial Intelligence, 4, Article 100114.
+Carolus, A., & Wienrich, C. (2021). Towards a holistic approach and measurement of 
+humans interacting with speech-based technology. In A. Carolus, I. Siebert, & 
+C. Wienrich (Eds.), 1st AI-DEbate workshop : Workshop establishing an InterDisciplinary pErspective on speech-BAsed TEchnology (pp. 1–42). Magdeburg, Germany: Otto von Guericke University Magdeburg. 
+Cetindamar, D., Kitto, K., Wu, M., Zhang, Y., Abedin, B., & Knight, S. (2022). Explicating 
+ai literacy of employees at digital workplaces. Transactions on Engineering Management, Early Access, 1–14.
+Chai, C. S., Lin, P.-Y., Jong, M. S.-Y., Dai, Y., Chiu, T. K., & Qin, J. (2021). Perceptions of 
+and behavioral intentions towards learning artificial intelligence in primary school students. Educational Technology & Society, 24(3), 89–101.
+Chai, C. S., Wang, X., & Xu, C. (2020). An extended theory of planned behavior for the 
+modelling of Chinese secondary school students’  intention to learn artificial intelligence. Mathematics, 8(11), 2089.
+Dai, Y., Chai, C. S., Lin, P. Y., Jong, M. S. Y., Guo, Y., & Qin, J. (2020). Promoting 
+students’well-being by developing their readiness for the artificial intelligence age. Sustainability, 12(16), 1–15.
+Damer, E., & Bradley, P. (2014). Prolific.
+Dawes, J. (2008). Do data characteristics change according to the number of scale points 
+used? An experiment using 5-point, 7-point, and 10-point scales. International Journal of Market Research, 50(1), 61–104.
+Frey, C. B., & Osborne, M. A. (2017). The future of employment: How susceptible are jobs 
+to computerisation? Technological Forecasting and Social Change, 114, 254–280.
+Gao, S., Yang, Y., & Krogstie, J. (2015). The adoption of smartphones among older adults 
+in China. In International conference on informatics and semiotics in organisations (pp. 112–122). Toulouse: Springer. IFIP.
+Gollwitzer, P. M. (1990). Action phases and mind-sets. Handbook of motivation and 
+cognition: Foundations of social behavior, 2, 53–92.
+IBM. (2022). Ibm global ai adoption index 2022. IBM. Technical report.
+Kandlhofer, M., Steinbauer, G., Hirschmugl-Gaisch, S., & Huber, P. (2016). Artificial 
+intelligence and computer science in education: From kindergarten to university. In 
+2016 IEEE frontiers in education conference (FIE) (pp. 1–9). Pennsylvania: Eire. IEEE. Karaca, O., Çalıs¸kan, S. A., & Demir, K. (2021). Medical artificial intelligence readiness 
+scale for medical students (mairs-ms)–development, validity and reliability study. 
+BMC Medical Education, 21(1), 1–9.
+Kim, S., Jang, Y., Kim, W., Choi, S., Jung, H., Kim, S., & Kim, H. (2021). Why and what to 
+teach: Ai curriculum for elementary school. In Proceedings of the AAAI conference on artificial intelligence (pp. 15569–15576). Virtual event. AAAI. 
+Kim, S. W., & Lee, Y. (2022). The artificial intelligence literacy scale for middle school 
+students. Journal of the Korea Society of Computer and Information, 27(3), 225–238. Kline, R. B. (2015). Principles and practice of structural equation modeling. New York: 
+Guilford Publications. 
+Kong, S.-C., Cheung, W. M.-Y., & Zhang, G. (2021). Evaluation of an artificial intelligence 
+literacy course for university students with diverse study backgrounds. Computers and Education: Artificial Intelligence, 2, Article 100026.
+Kwak, Y., Ahn, J.-W., & Seo, Y. H. (2022). Influence of AI ethics awareness, attitude, 
+anxiety, and self-efficacy on nursing students’ behavioral intentions. BMC Nursing, 21(1), 2–8.
+Lallmahomed, M. Z., Lallmahomed, N., & Lallmahomed, G. M. (2017). Factors 
+influencing the adoption of e-government services in Mauritius. Telematics and Informatics, 34(4), 57–72.
+Latikka, R., Turja, T., & Oksanen, A. (2019). Self-efficacy and acceptance of robots. 
+Computers in Human Behavior, 93, 157–163.
+Laupichler, M. C., Aster, A., & Raupach, T. (2023). Delphi study for the development and 
+preliminary validation of an item set for the assessment of non-experts’ ai literacy. Computers and Education: Artificial Intelligence, 4, Article 100126.
+Leiner, D. J. (2022). Sosci survey version 3.3.08. .
+Long, D., & Magerko, B. (2020). What is ai literacy? Competencies and design 
+considerations. In Conference on human factors in computing systems - proceedings (pp. 1–16). Honolulu, Hawaii: ACM. 
+Maslej, N., Fattorini, L., Brynjolfsson, E., Etchemendy, J., Ligett, K., Lyons, T., 
+Manyika, J., Ngo, H., Niebles, J. C., Parli, V., Shoham, Y., Wald, R., Clark, J., & Perrault, R. (2023). The ai index 2023 annual report. Technical report, AI Index Steering Committee. Institute for Human-Centered AI, Stanford University. 
+Mohr, S., & Kühl, R. (2021). Acceptance of artificial intelligence in German agriculture: 
+An application of the technology acceptance model and the theory of planned behavior. Precision Agriculture, 22(6), 1816–1844.
+Neyer, F. J., Felber, J., & Gebhardt, C. (2012). Development and validation of a brief 
+measure of technology commitment. Diagnostica, 58(2), 87–99.
+Ng, D. T. K., Leung, J. K. L., Chu, S. K. W., & Qiao, M. S. (2021). Conceptualizing ai 
+literacy: An exploratory review. Computers and Education: Artificial Intelligence, 2, Article 100041.
+Ng, D., Luo, W., Chan, H., & Chu, S. (2022). An examination on primary students’ 
+development in ai literacy through digital story writing. Computers & Education: Artificial Intelligence, 3, Article 100054.
+Pinski, M., & Benlian, A. (2023). Ai literacy - towards measuring human competency in 
+artificial intelligence. In Proceedings of the 56th Hawaii international conference on 
+system sciences (pp. 165–174). Maui, USA: IEEE Computer Society Press. 
+Polanco-Levic´an,  K., & Salvo-Garrido, S. (2022). Digital interaction literacy model – 
+conceptualizing competencies for literate interactions. International Journal of 
+Environmental Research and Public Health, 19(14), 1–16.
+Rodríguez-García, J. D., Moreno-Leon, ´ J., Rom´an-Gonz ´alez,  M., & Robles, G. (2021). 
+Evaluation of an online intervention to teach artificial intelligence with learningml to 10-16-year-old students. In M. Sherriff, L. D. Merkle, P. Cutter, A. Monge, & J. Sheard (Eds.), Proceedings of the 52nd ACM technical symposium on computer science education (pp. 177–183). New York, NY, USA: ACM. 
+Rosseel, Y. (2012). lavaan: An R package for structural equation modeling. Journal of 
+Statistical Software, 48(2), 1–36.
+Schepman, A., & Rodway, P. (2020). Initial validation of the general attitudes towards 
+artificial intelligence scale. Computers in human behavior reports, 1, Article 100014. Schuetz, S., & V, V. (2020). Research perspectives: The rise of human machines: How 
+cognitive computing systems challenge assumptions of user-system interaction. 
+Journal of the Association for Information Systems, 21(2), 460–482.
+Sniehotta, F. F., Presseau, J., & Araújo-Soares, V. (2014). Time to retire the theory of 
+planned behaviour. Health Psychology Review, 8(1), 1–7.
+for Statistics, U. I. (n.d.).
+Venkatesh, V., Thong, J. Y., & Xu, X. (2012). Consumer acceptance and use of 
+information technology: Extending the unified theory of acceptance and use of technology. MIS Quarterly, 36(1), 157–178.
+Wang, B., Rau, P. L. P., & Yuan, T. (2022). Measuring user competence in using artificial 
+intelligence: Validity and reliability of artificial intelligence literacy scale. Behaviour & Information Technology. NULL(NULL):1–14.
+Wan, X., Zhou, X., Ye, Z., Mortensen, C. K., & Bai, Z. (2020a). Smileycluster: Supporting 
+accessible machine learning in k-12 scientific discovery. In Proceedings of the 
+interaction design and children conference (Vols. 23–35). New York, NY, USA: ACM. Wan, X., Zhou, X., Ye, Z., Mortensen, C. K., & Bai, Z. (2020b). Smileycluster: Supporting 
+accessible machine learning in k-12 scientific discovery. In Proceedings of the 
+interaction design and children conference (pp. 23–35). London: ACM. 
+Wienrich, C., & Carolus, A. (2021). Development of an instrument to measure 
+conceptualizations and competencies about conversational agents on the example of smart speakers. Frontiers of Computer Science, 3, 70.
+Wienrich, C., Carolus, A., Markus, A., & Augustin, Y. (2022). Ai literacy: 
+Kompetenzdimensionen und einflussfaktoren im kontext von arbeit. Working Paper. Wienrich, C., Carolus, A., Roth-Isigkeit, D., & Hotho, A. (2022). Inhibitors and enablers to 
+explainable ai success: A systematic examination of explanation complexity and 
+individual characteristics. Multimodal Technologies and Interaction, 6(12), 106.
+Wienrich, C., & Latoschik, M. E. (2021). Extended artificial intelligence: New prospects of 
+human-ai interaction research. Frontiers in Virtual Reality, 2, 94.
+Williams, R., Park, H. W., & Breazeal, C. (2019). A is for artificial intelligence. In 
+S. Brewster, G. Fitzpatrick, A. Cox, & V. Kostakos (Eds.), Proceedings of the 2019 CHI conference on human factors in computing systems (pp. 1–11). New York, NY, USA: ACM. 
+Zaman, U., Zahid, H., Habibullah, M. S., & Din, B. H. (2021). Adoption of big data 
+analytics (bda) technologies in disaster management: A decomposed theory of planned behavior (dtpb) approach. Cogent Business & Management, 8(1), 1–20.
+Zhang, H., Lee, I., Ali, S., DiPaola, D., Cheng, Y., & Breazeal, C. (2022). Integrating ethics 
+and career futures with technical learning to promote ai literacy for middle school students: An exploratory study. International Journal of Artificial Intelligence in Education, 1–35. NULL(NULL).
+Zhang, D., Maslej, N., Brynjolfsson, E., Etchemendy, J., Lyons, T., Manyika, J., Ngo, H., 
+Niebles, J. C., Sellitto, M., Sakhaee, E., Shoham, Y., Clark, J., & Perrault, R. (2022). The ai index 2022 annual report. Technical report, AI Index Steering Committee. Stanford Institute for Human-Centered AI, Stanford University. 
+10 

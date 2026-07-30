@@ -1,0 +1,277 @@
+﻿New Zealand Journal of Educational Studies (2024) 59:321–338 https://doi.org/10.1007/s40841-024-00315-9
+ARTICLE
+Academic Misconduct Among Undergraduates Across Aotearoa: Insights andI mplications forP olicy andP ractice
+JasonM.Stephens1  · KateAbsolum2  · LeeA.Adam3  · ChelseaJ.Blickem4  · KatherineE.Gilliver‑Brown4  · DeirdreE.Har t5  · JohnKelly6  · WendyOlsen7  · NeilUlrich8 
+Received: 8 October 2023 / Accepted: 15 February 2024 / Published online: 26 March 2024 © The Author(s) 2024
+Abstract
+As elsewhere in the world, academic misconduct is a serious problem in Aotearoa. Yet, beyond the occasional newspaper headline, we know relatively little about the extent of the problem here or the factors associated with it. Consequently, our edu- cational leaders and practitioners are left under-informed as they seek to address the problem and promote academic integrity. To help provide the knowledge and insights needed to craft good policy and best practice, the Research on Academic Integrity  in  New  Zealand  (RAINZ)  Project—a  research  collaboration  involving eight tertiary institutions—was founded in 2021. In the second semester of 2022, the RAINZ Project launched the first-ever nationwide survey of undergraduate stu- dents’ perceptions, attitudes, and behaviours related to academic integrity. Results from this survey, which was completed by undergraduates (N = 4493), indicate that most students (approximately two-thirds) reported engaging in at least one form of academic misconduct in the past year. As hypothesised, students’ perceptions (of the institutional climate and peer norms) and moral attitudes (related to cheating) were significantly associated with their engagement in academic misconduct. Details of these results as well as their implications for policy and practice are discussed.
+Keywords Academic misconduct· Tertiary students· Institutional climate· Peer norms· Moral attitudes
+Introduction
+As elsewhere in the world, academic misconduct is a serious problem in Aotearoa New Zealand (NZ hereafter). Yet, compared to other countries such as Australia, Canada, and the United States, we know relatively little about the extent of the problem here or the factors associated with it. Indeed, fewer than dozen empirical studies have investigated academic misconduct among students in NZ and none of 
+Extended author information available on the last page of the article
+
+3 3
+them have included students from more than one institution. Consequently, our edu- cational leaders and practitioners are left under-informed as they seek to address the problem and to promote academic integrity. To help provide the knowledge and insights needed to craft good policy and best practice, the Research on Academic Integrity in New Zealand (RAINZ) Project—a research collaboration involving aca- demic and professional staff from eight tertiary institutions—was founded in 2021. The present study represents the RAINZ Project’s first empirical investigation of academic misconduct and the first ever multi-institutional investigation of such in NZ.
+Theoretical Framework
+Rooted in psychological theories of human functioning, the present study concep- tualises academic misconduct (and behaviour more generally) as a function of per- sonal and environmental factors (e.g., Bandura, 1986; Dewey, 1922; Lewin, 1936). As Dewey (1922) wrote long ago, moral conduct is not “mysteriously cooped up within personality…all conduct is an interaction between elements of human nature and the environment, natural and social” (p. 10). This theoretical principle of inter- actionism articulated by Dewey was made more widely known by Lewin’s (1936) behaviour equation—B = f (P, E), i.e., behaviour (B) is a function (f) of the person (P; their personality, motivation, and history) and their environment (E; their physi- cal and social surroundings)—and Bandura’s (1986) reciprocal determinism (i.e., behaviour both affects and is affected by personal and environmental factors). As detailed below, the personal factors of interest in this study concern students’ moral attitudes towards academic misconduct, and the environmental factors include stu- dents’ perceptions of the academic integrity climate at their institution and their per- ceptions of peer norms related to academic misconduct.
+Academic Misconduct inA otearoa
+Only a handful of empirical studies of students’ academic misconduct have been undertaken in NZ with each using different measures and none involving students from more than one institution (e.g., Adam et al., 2017; de Lambert et al., 2006; Henning etal., 2013; Stephens etal., 2021; Walker, 1998). Accordingly, it is difficult to make any firm claims about the prevalence of academic misconduct among under- graduates in NZ. That said, it appears to be high. Walker (1998) reported that staff believed plagiarism to be “commonplace” at their institution, with 86% reporting they had detected at least one case of plagiarism in their current role. Stephens etal. (2021) found that 77.4% and 75.9% (in 2012 and 2017, respectively) of undergradu- ates reported engagement in at least one of the eight forms of academic misconduct on their survey. Collusion (unpermitted collaboration) on an assignment was the most commonly reported behaviour in both cohorts (62.8% and 62.2%, respectively) and plagiarising a few sentences or paragraphs from the internet the second most common (47.7% and 47.1%, respectively). Importantly, there have been no studies in NZ on the prevalence of contract cheating or other forms of third party writing 
+
+New Zealand Journal of Educational Studies (2024) 59:321–338  323
+assistance, including students’ use of generative artificial intelligence. By account- ing for these increasingly problematic behaviours and by including students from several institutions, the present investigation offers the most comprehensive study of academic misconduct undertaken in NZ.
+Academic Integrity Climate
+Students’ perceptions of the academic integrity climate reflect the extent the insti- tutional culture is characterised and guided by policies and practices as well as norms and values that make academic integrity central and salient (e.g., McCabe et al., 2012). Fostering a culture of integrity is complex, requiring collegial dis- cussion and student buy-in to create a holistic system (Bertram Gallant, 2011). A shared  system—one  that  is  clearly  communicated,  well-understood,  and  broadly supported—forms the foundation of that culture, allowing students to develop the knowledge, skills, and attitudes needed to “achieve with integrity” (Stephens, 2019). Decades of empirical research has found that students’ perceptions of institutional and staff support for academic integrity affect their engagement in academic mis- conduct (McCabe et al., 2012; O’Neill & Pfeiffer, 2012). For example, when stu- dents believed staff would report them and that the penalties were severe, they were less likely to engage in academic misconduct (O’Neill & Pfeiffer, 2012). Conversely, when students perceived that that staff did not take cheating seriously (Whitley, 1998) or that consequences would be negligible (Beasley, 2014), they were more likely to cheat.
+Peer Norms
+Consistent with the  social  psychological  and  social  cognitive  theories  discussed above,  students’  perceptions  of  peer  attitudes  and  behaviour  significantly  affect their own attitudes and behaviours. In his seminal study, Bowers (1964) found that students who perceived weak peer disapproval of cheating were three times more likely to cheat compared to those who perceived peer disapproval to be strong. Simi- larly, students’ perceptions of peer engagement in academic misconduct have been positively associated with their own engagement in such behaviour (Malesky et al., 2021; McCabe et al., 2012; Rettinger & Kramer, 2009). Moreover, perceived peer cheating has led students to underestimate the seriousness of academic misconduct, as they perceive it as a normative behaviour among their peers (Zhao et al., 2022). Peer norms can exert a strong influence on students’ decision-making processes and contribute to the normalisation of cheating within academic settings, particularly so when students have permissive attitudes towards cheating (O’Rourke etal., 2010).
+Moral Attitudes
+Students’  moral  or  ethical  attitudes  about  academic  misconduct  have  been  con- ceptualised and assessed in various ways over the past half century. Two types of attitudes or judgements related to cheating have received the most attention: moral 
+
+3 3
+valence (e.g., its “seriousness” or “unacceptability”) and moral disengagement (i.e., the extent to which one rationalises or negates personal responsibility for cheating). Research has consistently found students’ self-reported academic misconduct to be negative associated with the former (e.g., Anderman et al., 1998; Murdock et al., 2004; Stephens, 2018) and positively associated with latter (Farnese et al., 2011; Haines et al., 1986; Stephens, 2018). In a study that included measures of moral valence and moral disengagement, Stephens (2018) found that the relations between students’ beliefs about cheating (“It’s morally wrong”) and their engagement in it (“I did it”) were fully mediated by moral disengagement (“It’s not my fault!”).
+The Present Investigation
+The purpose of the present investigation was to help provide tertiary educational leaders and decision-makers in NZ the knowledge and insights needed to craft good policy and best practice related to academic integrity. In order to do so, the RAINZ Project launched the first-ever nationwide survey of academic misconduct among undergraduate students. The survey was designed to answer the following questions:
+1. How prevalent is academic misconduct among undergraduates in NZ? Specifi- cally, what percent of students report engaging in various types of academic misconduct over the past 12 months? Which behaviours are most common?
+2. Where do undergraduates learn about academic integrity? Which sources do students designate as the most informative?
+3. To what extent are undergraduates’ perceptions and attitudes associated with engagement in academic misconduct? As depicted in Fig. 1, a conceptual model 
+
+Fig. 1  Conceptual model of hypotheses tested. Note. Dashed lines indicate negative associations between factors, and solid lines indicate positive associations between them
+
+New Zealand Journal of Educational Studies (2024) 59:321–338  325
+and set of testable hypotheses were developed based on the foregoing theoreti- cal framework and literature reviewed. Specifically, participants’ engagement in academic misconduct was hypothesised to be: negatively associated with percep- tions of a culture of integrity (H1a) and positively with perceptions of a culture of cheating (H1b); negatively associated with perceptions of peer disapproval of cheating (H2a) and positively with perceptions of peer cheating behaviour (H2b); and negatively associated with their judgement of cheating as moral unaccept- ability (H3a) and positively with their tendency for moral disengagement (H3b).
+Method
+To address the foregoing research questions, a cross-sectional quantitative study uti- lising self-report data from a nation-wide student survey was employed.
+Participants
+Participants  included  undergraduate  students  from  seven  tertiary  institutions  in NZ: four on the North Island and three on the South Island. A total of 7,875 under- graduates started the survey. Among those who started the survey, 4,666 (59.3%) completed the survey (i.e., they responded to most items, including those related to academic misconduct). Among those who completed it, 173 (3.7%) were excluded for one of the three reasons: insufficient response time (i.e., less than 300 s), dis- honest responses (i.e., students who self-reported at the end of the survey that they were “Not at all honest” or “Not very honest” in their responses), and/or irregular response patterns (e.g., straight-lining/non-differentiation). As detailed in Table 1, the majority of 4,493 participants in the final dataset indicated they were between 16 and 19 (33.4%) or 20 and 24 (49.7%) years old, female (64.5%), and Pākehā (67.2%). These percentages, however, varied considerably among the seven institu- tions. For example, although the average percent of participants who indicated being 35 years of age or older was 5.7%, it was as low as 1.9% at one institution and as high as 40.8% at another. Similarly, although females comprised most of the sample at all institutions, the percentage ranged from 57.0 to 75.5%.
+Procedures
+The sampling and recruitment procedures varied by institution. Five of the seven institutions invited all undergraduate students to participate with three of the five sending email invitations to students’ university accounts and the remaining two institutions soliciting participation via various advertisements (e.g., survey links on Facebook as well as flyers and posters about campus). Two of the seven institutions invited stratified (based on gender, year of study, and ethnicity) random samples of undergraduate students to participate in the study via emails to their university accounts. Response rates varied by institution, ranging from 4.4 to 28.7% with a mean of 15.6%. Regardless of the sampling or recruitment procedure employed, 
+
+3 3
+
+ 326
+Table 1  Demographic characteristics of participants
+New Zealand Journal of Educational Studies (2024) 59:321–338 Full sample Observed range 
+among institutions
+Variable n % Min % Max %
+Age 16 to 19 1501 33.4 2.0 38.5
+20 to 24 2233 49.7 32.1 53.1
+25 to 29 293 6.5 5.6 18.7
+30 to 34 146 3.2 1.6 12.3
+35 or older 256 5.7 1.9 40.8
+PNS 49 1.1 0.8 4.1 Missing 15 0.4 0.0 0.4
+Gender Male 1337 29.8 16.3 34.9 Female 2899 64.5 57.0 75.5
+Diverse 98 2.2 0.0 3.4
+PSI 33 0.7 0.0 0.8
+PNS 111 2.5 0.8 5.5 Missing 15 0.3 0.0 1.2
+Ethnicity Māori 532 11.8 6.1 24.1 Pasifika 277 6.2 2.0 9.2
+Asian 867 19.3 0.0 34.9
+Pākehā 3019 67.2 49.3 77.8
+Other European 328 7.3 0.0 16.3
+Middle Eastern 38 0.8 0.0 2.4 African 61 1.4 1.1 3.1
+Latin American 35 0.8 0.0 1.6
+PSI 149 3.3 1.4 8.5
+PNS 131 2.9 1.7 6.1
+
+
+N = 4,493.  PSI = Prefer  to  Self-Identify;  PNS = Prefer  Not  to  Say. Total  percent  for  Ethnicity  may  exceed  100  as  participants  were allowed to designate more than one
+all participants completed the survey anonymously and online (via Qualtrics) and, at the end of the survey, were offered an opportunity to enter a prize draw for a $100 NZD Prezzy Card. This research was approved by The University of Auckland Human Participants Ethics Committee in 2022 (Reference Number UAHPEC23902) and, subsequently as needed (where reciprocal agreements were not in place), by other institutional ethics committees.
+Measures
+The survey used in this study was an adapted version of the McCabe-ICAI (Inter- national Center for Academic Integrity) Student Survey (e.g., Rettinger etal., under review). Specifically, we adapted the survey in four ways: (1) changing the spelling of words from American English to NZ English (e.g., “behavior” to “behaviour”); 
+
+New Zealand Journal of Educational Studies (2024) 59:321–338  327
+(2) replacing the word “professors” with “teachers” or “academic staff”; (3) remov- ing  several  questions  (e.g.,  parental  educational  attainment)  and  measures  (e.g., achievement goal structures) to shorten the survey; and (4) adding four items to the measure of academic misconduct as well as an additional measure related to aca- demic integrity learning. All measures are described below.
+Academic Integrity Climate
+Participants’ perceptions of the academic integrity climate at their institution were assessed with an 18-item measure designed to assess two latent constructs: culture of integrity (13 items; e.g., “The academic staff here clearly define what actions are considered to be cheating in their courses”) and culture of cheating (5 items; e.g., “Most students here ignore the academic integrity policy/regulations”). Par- ticipants indicated their agreement with the statements on a five-point Likert scale (1 = Strongly Disagree to 5 = Strongly Agree).
+Peer Norms
+Participants’ perceptions of peer norms at their institution were assessed with a 10-item  measure  designed  to  assess  two  latent  constructs:  peer  disapproval  of academic misconduct (5 items; e.g., “If I cheated on a test or exam, my friends would be really disappointed in me”) was assessed using a five-point Likert scale (1 = Strongly Disagree to 5 = Strongly Agree) and peer cheating was assessed by asking participants to indicate how often on a five-point scale (1 = Never to 5 = 11 or more times) they had “observed or had direct knowledge of students” engaging in academic misconduct (5 items; e.g., “Using unauthorized notes or sources during a test or exam”).
+Moral Attitudes
+Participants’ moral attitudes related to academic misconduct were assessed with a 12-item measure designed to assess two latent constructs: moral unacceptability of academic misconduct was assessed by asking participants to use a five-point scale (1 = Not at all morally/ethically wrong to 5 = Completely morally/ethically wrong) to indicate the extent to which they thought a set of behaviours were morally/ethi- cally wrong (5 items; e.g., “Getting questions or answers from someone who has already taken a test or exam”) and moral disengagement was assessed by asking participants to use a five-point Likert scale (1 = Strongly disagree to 5 = Strongly Agree) to indicate the extent to which they agreed with statements that displaced or otherwise minimised personal responsibility for cheating (7 items; e.g., “It is OK to cheat to help one’s friends”).
+Academic Misconduct
+Participants’  engagement  in  academic  misconduct  was  assessed  with  a  27-item measure designed to assess four types of misconduct: collusion (13 items); misuse 
+
+3 3
+of resources (8 items); fraud (3 items); and contract cheating (5 items). For each item, participants were asked to indicate how often (1 = Never; 2 = Once; 3 = 2–4 times; 4 = 5–10 times; 5 = 11 or more times; or “not applicable to my program”) during the last 12 months they engaged in the behaviours described. The 27 items included the 23 items used by Rettinger etal. (under review) as well as four original items: two related to collusion during tests or exams (“Working with other students or unauthorised individuals to complete an individual exam or test (including open book)” and “Communicating with other students during a test or exam when it is prohibited”) and two related to the use of artificial intelligence (“Using paraphras- ing tools on someone else’s writing and submitting it as your own” and “Using an artificial intelligence such as an online text generator to do your academic work and submitting it as your own”).
+Academic Integrity Learning
+An adapted version of a measure developed by McCabe et al. (2012) was used to assess participants’ learning about institutional policies related to academic integ- rity. Specifically, participants used a five-point scale (1 = Nothing to 5 = A lot) to report how much they had learned from various sources (12 items; e.g., “Orientation programme” and “Teacher discussions”).
+Analysis
+Data were first screened for missing, invalid responses, and other anomalies. Due to the highly skewed distribution of responses on the measure of academic miscon- duct, the items were dichotomised (where 0 = No, did not do it and 1 = Yes, did it at least once). Confirmatory factor analysis was then employed to confirm the structure and fit of all measurement models (results from these analyses are presented in the Online Resource). After establishing acceptable model fit, Cronbach’s alphas were calculated to assess the internal consistency of all factors. Finally, frequency sta- tistics and Pearson correlation coefficients were employed to address the research questions and test hypotheses. All analyses were conducted using version 25 of SPSS and its AMOS programme.
+Results
+Descriptive statistics for all latent variables are presented first, followed by results related to the four research questions are presented.
+Descriptive Statistics forA ll Latent Variables
+Full sample descriptive statistics and the observed range among the seven institu- tions for all latent factors are detailed in Table2. Three details merit comment. First, although Cronbach’s alpha for misuse of resources and fraud/contract cheating were 
+
+New Zealand Journal of Educational Studies (2024) 59:321–338  329
+Table 2  Descriptive statistics for all latent variables: full sample means and standard deviations and observed range of mean scores among the seven institutions
+Number Full sample Observed range Variable of items α Mean SD Skew Min Max
+
+3 3
+New Zealand Journal of Educational Studies (2024) 59:321–338  329
+Culture of Integrity Culture of Cheating
+Peer Disapproval
+Peer Cheating
+Moral Unacceptability Moral Disengagement Academic Misconduct
+- Collusion
+- Misuse of Resources
+- Fraud/Contract Cheating
+7 0.75 3 0.78 3 0.86 5 0.82 5 0.83 7 0.87 27 0.85 8 0.81 11 0.66 8 0.67
+4.05 0.57
+2.67 0.93
+3.86 0.97
+1.85 0.87
+3.20 0.95
+2.07 0.76
+2.65 3.42
+1.14 1.75
+1.21 1.57
+0.29 0.75
+− 0.74 3.82 4.23
+0.24 2.23 2.84
+− 0.83 3.76 4.24
+1.06 1.39 2.00
+0.95 3.04 3.58
+0.76 1.67 2.22
+2.06 0.99 3.18
+1.82 0.36 1.42
+1.66 0.54 1.30
+4.34 0.10 0.35
+
+ 
+New Zealand Journal of Educational Studies (2024) 59:321–338  329
+low (0.66 and 0.67, respectively), all others were acceptable or good. Second, per- ceptions of peer cheating as well as academic misconduct and its three sub-factors were positively skewed (skewness > 1.00). As described above, the latter variables were dichotomised and the mean values reported below are mean sum scores (e.g., for academic misconduct, participants, on average, reported engaging in 2.65 of the 27 behaviours assessed). Finally, mean scores (for both full sample and the observed range among the seven institutions) for all variables hypothesised to be negatively associated  with  academic  misconduct  were  above  the  scale  midpoint  (e.g.,  par- ticipants, on average, agreed with items on the culture of integrity measure) and below the scale midpoint for all variables hypothesised to be positively associated with academic misconduct (e.g., participants, on average, disagreed with items on the culture of cheating measure). Nonetheless, there were some notable between- institution differences, particularly with respect to academic misconduct (observed range = 0.99–3.18).
+Prevalence ofA cademic Misconduct
+As detailed in Table 3, the most frequently reported behaviour was a form of col- lusion: “Working together on an assignment with the other students…” (C_5). On average, 30.3% of participants reported engaging in that behaviour at least once dur- ing the previous 12months (observed range = 12.4% to 35.1%). The second to fourth most common forms of academic misconduct involved misuse of resources: unau- thorised downloading or use of teacher’s materials (M_7) as well as two forms of plagiarism (M_1 and M_2). Given that this survey took place during the two months prior to the release of ChatGPT, it is also notable that 14.8% of participants reported “using an artificial intelligence” to do their academic work during the past year (Misuse_11n). Finally, most students (approximately two-thirds) reported engaging in at least one form of academic misconduct (observed range = 39.3–73.1%).
+
+4 4
+   
+  
+
+New Zealand Journal of Educational Studies (2024) 59:321–338  331
+   
+  
+
+3 3
+Learning About Academic Integrity
+As detailed in Table 4, the source of participants’ learning about academic integ- rity  varied  considerably.  “Course  outlines  or  syllabus”  were  the  most  common sources of learning about AI polices with 57.9% indicating Very much or A lot (range = 54.7–63.9) and “Non-institutional social media sources” were the least pop- ular source with only 6.1% of students indicating that they learned Very much or A lot from them (range = 0.0–15.3). In terms of institutional sources, “Student organi- sation/association/advocacy group” was the least popular source with only 9.7% of students indicating Very much or A lot (range = 4.7–24.0).
+Perceptions, Attitudes, andA cademic Misconduct
+As hypothesised, participants’ engagement in academic misconduct was negatively associated with their perceptions of a culture of integrity (r = − .19) and positively with their perceptions of a culture of cheating (r = 0.26); negatively with percep- tions of peer disapproval of cheating (r = − .34) and positively with perceptions of peer cheating behaviour (r = .49); and negatively with their judgement of cheating as moral unacceptability (r = − .33) and positively with their tendency for moral dis- engagement (r = .42). As also detailed in Table5, the strength of hypothesised asso- ciations varied among the seven institutions. For example, the correlations between academic misconduct and culture of integrity were the lowest, ranging from − .14 (a small effect) to − .31 (a medium effect). By contrast, the correlations between aca- demic misconduct and peer cheating were the highest, ranging from .42 (a medium effect) to .55 (a large effect).
+Table 4  How much students learn about academic integrity policies from various sources: sample means and observed range among the seven institutions
+% "Fair amount" Observed range
+Source of learning or "A lot" Min Max
+Course outlines or syllabus 57.9 54.7 63.9 Teacher discussions 51.1 48.7 61.5 Online course or module(s) 48.3 26.7 64.0 Student handbook or code of conduct 43.6 41.4 50.0 Institutional website 26.5 17.3 37.6 Institutional policy or calendar regulations 22.5 14.8 38.1 Other students 20.9 15.8 29.4 Orientation programme 16.1 8.6 36.0 Pre-degree foundation/English programme 14.6 9.1 28.0 Student organisation/association/advocacy group 9.7 4.7 24.0 Non-institutional social media sources (e.g.,Youtube,  6.1 0.0 15.3
+TikTok, etc.)
+N = 1591–1619
+
+New Zealand Journal of Educational Studies (2024) 59:321–338  333
+Table 5  Tests  of  hypotheses:  associations  between  participants’  perceptions,  attitudes,  and  academic misconduct
+ 
+Variable                    H      1       2               3          4              5          6               7
+1. Academic Miscon- duct    H H H  –       − .14, − .31    .21, .27   − .21, − .50   .42, .55   − .26, − .39    .23, .44
+2. Culture of Integrity      H     − .19   –               –          –              –          –               –
+3. Culture of Cheating       H      .26    − .40           − .33 .45  − .30          − .21      − .50
+4. Peer Disapproval         1a 1b  − .34   .30             − .19 .28  .34            .28
+5. Peer Cheating             2a 2b  .49    − .27                      − .45
+6. Moral Unaccept- ability   3a    − .33   .27
+7. Moral Disengage- ment    H      .42     − .30
+                            3b
+N = 3520 − 4493. H = Hypothesis. All numbers are Pearson correlation coefficients, and all are statisti- cally significant
+(p < .001). Coefficients below the diagonal are for the sample of participants; coefficients above the diag- onal (first row) represent
+The observed range coefficients among the seven institutions
+Discussion
+Summary ofResults
+The RAINZ project was formed with the purpose of promoting academic integ- rity,  and  the  present  investigation  was  designed  to  garner  the  knowledge  and insights needed to help tertiary educational leaders and decision-makers to craft good policy and best practice related to academic integrity. This study—the first- ever nationwide survey of academic misconduct among undergraduate students in NZ—found that the majority of participants (64.8%) reported engaging in at least one form of academic misconduct (2.65, on average) in the previous year with unpermitted collaboration (i.e., “Working together on an assignment with other students when the teacher asked for individual work”), a form of collusion, being the most common breach (30.3%). Although the (unpermitted) use of generative artificial intelligence was comparatively low (14.8%), this survey was completed in the months prior to the release of ChatGPT and will likely have increased substantially over the past year. This study also found that “course outlines or syllabus”  and  “teacher  discussions”  were  designated  as  the  most  informative sources with respect to participants’ learning about academic integrity and “Stu- dent organisation/association/advocacy group” were among the least informative. Finally, results offered support all the hypotheses:
+o As participants’ perceptions of an institutional culture of integrity and peer dis- approval of cheating as well as their own belief in the moral unacceptability increased, their reported engagement in academic misconduct decreased; and
+
+3 3
+o As participants’ perceptions of an institutional culture of cheating and peer cheat- ing as well as their tendency for moral disengagement increased, so too did their engagement in academic misconduct.
+Implications forP olicy andP ractice
+The findings of this study suggest several implications for educational policy and practice. Firstly, the prevalence of academic misconduct among undergraduates war- rants discussion and action at the highest levels of leadership—within, between, and beyond individual institutions. The latter might include the Academic Quality Agency for New Zealand Universities broadening its oversight and requirements. Precedence (and perhaps a model) for such action can be found in the compliance mandates created by Australia’s Tertiary Education Quality and Standards Agency. For example:
+section 5.2  requires  providers  to  implement  procedures  and  policies  that uphold academic integrity and address misconduct or allegations of miscon- duct. Preventative action must be taken to mitigate foreseeable risks or to pre- vent the recurrence of identified breaches. Guidance on integrity must be pro- vided to students, and providers are responsible for ensuring that third-party delivery of teaching does not compromise academic integrity. https://www. teqsa.gov.au/guides-resources/compliance-focus/compliance-focus-academic- integrity#our-role
+Second, even in the absence of compliance mandates, the findings suggest that institutions (their leaders and decision-makers) should undertake efforts to create and sustain cultures of academic integrity. This is neither a novel suggestion nor an easy one, but decades of research have shown such cultures are possible and have  been  associated  with  lower  levels  of  academic  misconduct  (e.g.,  Malesky etal., 2021; McCabe etal., 2012; O’Neill & Pfeiffer, 2012; Vandehey etal., 2007). Numerous models and resources are available for promoting academic integrity. The International Center for Academic Integrity (2021), for example, offers a set of “fundamental values” as well as other resources for getting started. Others, such as Bertram Gallant (2011) and Stephens (2016, 2019), have proposed systems-based, multi-level approaches for developing cultures of integrity.
+Third, given the moderate to strong associations between peer norms and aca- demic misconduct found in this study and others (for a meta-analysis of the "per- ceived peer cheating effect", see Zhao etal., 2022), policy and practice should seek to “transform the norm” (Stephens, 2019). Previous research has shown that social influence  campaigns  involving  the  use  of  peer  models—typically  those  deemed credible and/or popular—might offer the best way to change attitudes and behav- iours (Haines, 1996). Findings from the present study indicate that student organisa- tions, associations, and advocacy groups are currently among the least informative sources with respect to student learning about academic integrity. This is a shame but also an opportunity. Much more can and should be done to involve students cre- ating a culture of integrity.
+
+New Zealand Journal of Educational Studies (2024) 59:321–338  335
+Finally, as found in the present study and others before it (Anderman etal., 1998; Stephens, 2018), students’ moral attitudes—their beliefs about the acceptability of academic misconduct and their personal responsibility for refraining from engage- ment in it—matter. Accordingly, efforts to educate students about the meaning and importance of academic integrity as well as their responsibilities for exemplifying the values and actions associated with it need to take place early and often. As sug- gested by Stephens etal. (2021), one-off academic integrity courses to be completed upon matriculation might be a good start but are insufficient on their own. Pre-com- mitment strategies and follow-up reminders are also needed. For example, experi- mental research has shown that students were significantly less likely to cheat and to justify dishonesty through moral disengagement after signing or even just reading an academic integrity statement (Shu etal., 2011).
+Limitations andF uture Directions forResear ch
+The present study used a cross-sectional research design, where data were collected at a single point of time via an anonymous self-report survey. Although conveni- ent and cost-effective, this design and method of data gathering presents limits with respect to making firm causal claims. Future studies should employ longitudinal or experimental designs to assess the causal effects of students’ perceptions and atti- tudes on academic misconduct. Another important limitation of the present study concerns its reliance on self-report measures. Future research should seek to include additional types of measures, including interviews, document analysis, and observa- tions. Towards these ends, the RAINZ Project plans to conduct additional studies in the years ahead that will both replicate and extend research design and meas- ures used in the present investigation. Accordingly, the findings reported here will serve as a baseline against which future results can be compared. Finally, although the 40% non-completion rate observed in this study is not unusual for a multi-page online survey (Spennemann, 2022), future research should take measures to reduce potential attrition bias.
+Conclusion
+Although seemingly intractable, the widespread problem of academic misconduct is not inevitable. Academic integrity can be cultivated. Indeed, it must be cultivated. At stake is nothing less than the value, validity, and credibility of not only our exams and all other assessments but also the degrees and credentials to which they lead. As the emergence and increasing accessibility of generative artificial intelligence pre- sents new opportunities to instruction and assessment, it also brings new challenges to academic integrity. The time to act is now. We hope the findings of this study will provide the impetus and roadmap needed for moving forward.
+Supplementary Information The online version contains supplementary material available at https://doi. org/10.1007/s40841-024-00315-9.
+
+3 3
+Funding Open Access funding enabled and organized by CAUL and its Member Institutions.
+Declarations 
+Conflict of interest On behalf of all authors, the corresponding author states that there is no conflict of interest.
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permis- sion directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/ licenses/by/4.0/.
+References
+Adam, L., Anderson, V., & Spronken-Smith, R. (2017). ‘It’s not fair’: Policy discourses and students’ 
+understandings of plagiarism in a New Zealand university. Higher Education, 74(1), 17–32. https:// doi.org/10.1007/s10734-016-0025-9
+Anderman, E. M., Griesinger, T., & Westerfield, G. (1998). Motivation and cheating during early adoles-
+cence. Journal of Educational Psychology, 90(1), 84–93. https://doi.org/10.1037/0022-0663.90.1.84 Bandura, A. (1986). Social foundations of thought and action: A social cognitive theory. Prentice-Hall. Beasley, E. M. (2014). Students reported for cheating explain what they think would have stopped them. 
+Ethics & Behavior, 24(3), 229–252. https://doi.org/10.1080/10508422.2013.845533
+Bertram Gallant, T. (2011). Creating the ethical academy: A systems approach to understanding miscon-
+duct and empowering change in higher education. Routledge.
+Bowers, W. J. (1964). Student dishonesty and its control in college. Columbia University Bureau of 
+Applied Social Research.
+de Lambert, K., Ellen, N., & Taylor, L. (2006). Chalkface challenges: A study of academic dishonesty 
+amongst students in New Zealand tertiary institutions. Assessment & Evaluation in Higher Educa- tion, 31(5), 485–503.
+Dewey, J. (1922). Human nature and conduct: An introduction to social psychology. The Modern Library. Farnese, M. L., Tramontano, C., Fida, R., & Paciello, M. (2011). Cheating behaviors in academic con-
+text: Does academic moral disengagement matter? Procedia - Social and Behavioral Sciences, 29, 356–365. https://doi.org/10.1016/j.sbspro.2011.11.250
+Haines, M. P. (1996). A social norms approach to preventing binge drinking at colleges and universities. 
+Washington, DC Retrieved from https://files.eric.ed.gov/fulltext/ED421930.pdf
+Haines, V. J., Diekhoff, G. M., LaBeff, E. E., & Clark, R. E. (1986). College cheating: Immaturity, lack of 
+commitment, and the neutralizing attitude. Research in Higher Education, 25(4), 342–354.
+Henning, M. A., Ram, S., Malpas, P., Shulruf, B., Kelly, F., & Hawken, S. J. (2013). Academic dis-
+honesty and ethical reasoning: Pharmacy and medical school students in New Zealand. Medical Teacher, 35(6), e1211–e1217. https://doi.org/10.3109/0142159X.2012.737962
+International Center for Academic Integrity. (2021). The fundamental values of academic integrity. www. 
+academicintegrity.org/the-fundamental-valuesof-academic-integrity
+Lewin, K. (1936). Principles of a topographical psychology. McGraw-Hill.
+Malesky, A., Grist, C., Poovey, K., & Dennis, N. (2021). The effects of peer influence, honor codes, and 
+personality traits on cheating behavior in a university setting. Ethics & Behavior. https://doi.org/10. 1080/10508422.2020.1869006
+McCabe, D. L., Trevino, L. K., & Butterfield, K. D. (2012). Cheating in college: Why students do it and 
+what educators can do about it. The Johns Hopkins University Press.
+
+New Zealand Journal of Educational Studies (2024) 59:321–338  337
+Murdock, T. B., Miller, A., & Kohlhardt, J. (2004). Effects of classroom context variables on high school 
+students’ judgments of the acceptability and likelihood of cheating. Journal of Educational Psychol- ogy, 96(4), 765–777. https://doi.org/10.1037/0022-0663.96.4.765
+O’Neill, H. M., & Pfeiffer, C. A. (2012). The impact of honour codes and perceptions of cheating on 
+academic cheating behaviours, especially for MBA bound undergraduates. Accounting Education, 21(3), 231–245. https://doi.org/10.1080/09639284.2011.590012
+O’Rourke, J., Barnes, J., Deaton, A., Fulks, K., Ryan, K., & Rettinger, D. A. (2010). Imitation is the 
+sincerest form of cheating: The influence of direct knowledge and attitudes on academic dishonesty. Ethics & Behavior, 20(1), 47–64. https://doi.org/10.1080/10508420903482616
+Rettinger, D. A., & Kramer, Y. (2009). Situational and personal causes of student cheating [Article]. 
+Research in Higher Education, 50(3), 293–313. https://doi.org/10.1007/s11162-008-9116-5
+Rettinger, D. A., Perry, A. H., McTernan, M., Anderman, E. M., Stephens, J. M., Tatum, H., Bertram 
+Gallant, T., McNally, D., & Cullen, C. (under review). Validation of a multi-scale measure of per-
+ceptions, attitudes, and behaviors related to academic integrity.
+Shu, L. L., Gino, F., & Bazerman, M. H. (2011). Dishonest deed, clear conscience: When cheating leads 
+to  moral  disengagement  and  motivated  forgetting.  Personality  and  Social  Psychology  Bulletin, 73(3), 330–349. https://doi.org/10.1177/0146167211398138
+Spennemann, D. H. R. (2022). Persistence and attrition among participants in a multi-page online survey 
+recruited via Reddit’s social media network. Social Sciences, 11(2), 31.
+Stephens, J. M. (2016). Creating cultures of integrity: A multi-level intervention model for promoting 
+academic honesty. In T. A. Bretag (Ed.), Handbook of Academic Integrity (pp. 995–1007). Springer. https://doi.org/10.1007/978-981-287-079-7_13-1
+Stephens, J. M. (2018). Bridging the divide: The role of motivation and self-regulation in explaining the 
+judgment-action gap related to academic dishonesty [Original Research]. Frontiers in Psychology, 9(246), 1–15. https://doi.org/10.3389/fpsyg.2018.00246
+Stephens, J. M. (2019). Natural and normal, but unethical and evitable: The epidemic of academic dis- honesty and how we end it. Change: the Magazine of Higher Learning, 51(4), 8–17. https://doi.org/ 10.1080/00091383.2019.1618140
+Stephens, J. M., Watson, P. W. S. J., Alansari, M., Lee, G., & Turnbull, S. M. (2021). Can online aca-
+demic integrity instruction affect university students’ perceptions of and engagement in academic dishonesty? Results from a natural experiment in New Zealand [Original Research]. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.569133
+Vandehey, M., Diekhoff, G. M., & LaBeff, E. E. (2007). College cheating: A twenty-year follow-up and 
+the addition of an honor code. Journal of College Student Development, 48(4), 468–480. https://doi. org/10.1353/csd.2007.0043
+Walker, J. (1998). Student plagiarism in universities: What are we doing about it? Higher Education 
+Research & Development, 17(1), 89–106. https://doi.org/10.1080/0729436980170105
+Whitley, B. E., Jr. (1998). Factors associated with cheating among college students: A review. Research 
+in Higher Education, 39(3), 235–274. https://doi.org/10.1023/A:1018724900565
+Zhao, L., Mao, H., Compton, B. J., Peng, J., Fu, G., Fang, F., Heyman, G. D., & Lee, K. (2022). Aca-
+demic dishonesty and its relations to peer cheating and culture: A meta-analysis of the perceived peer cheating effect. Educational Research Review, 36, 100455. https://doi.org/10.1016/j.edurev. 2022.100455
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+3 3
+Authors and Affiliations
+JasonM.Stephens1  · KateAbsolum2  · LeeA.Adam3  · ChelseaJ.Blickem4  · KatherineE.Gilliver‑Brown4  · DeirdreE.Har t5  · JohnKelly6  · WendyOlsen7  · NeilUlrich8 
+*  Jason M. Stephens 
+jm.stephens@auckland.ac.nz
+1	 School ofLearning, Development, andProfessional Practice, University ofAuckland, Auckland, NewZealand
+2	 Te Matapuna Library Learning & Research Services, Auckland University ofTechnology, Auckland, NewZealand
+3	 Department ofOral Sciences, University ofOtago, Dunedin, NewZealand
+4	 Centre forTertiary Teaching & Learning, University ofWaikato, Hamilton, NewZealand
+5	 Faculty ofScience Te Kaupeka Pūtaiao, University ofCanterbury Te Whare Wānanga O Waitaha, Christchurch, NewZealand
+6	 School ofHospitality & Tourism, Auckland University ofTechnology, Auckland, NewZealand
+7	 Te Pūkenga, School ofApplied Business, Nelson, NewZealand
+8	 Office oftheProvost, Massey University, PalmerstonNorth, NewZealand

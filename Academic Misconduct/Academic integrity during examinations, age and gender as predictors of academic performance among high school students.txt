@@ -1,0 +1,430 @@
+﻿International Journal of Educational Development 100 (2023) 102811
+Contents lists available at ScienceDirect  
+International Journal of Educational Development  
+journal homepage: www.elsevier.com/locate/ijedudev  
+Academic  integrity during examinations, age  and  gender as predictors of  academic performance among  high  school  students 
+Moses C. Ossai *, Nathaniel Ethe, Dennis E. Edougha, Onomiroro D. Okeh 
+Department of Educational and Counselling Psychology, Delta State College of Education, Mosogar, PMB 4088, Sapele, Nigeria   A R T I C L E I N F O   A B S T R A C T  
+
+Keywords: 
+Academic Integrity Age 
+Gender 
+Academic Performance Examinations 
+The study sought to determine if students academic integrity during examinations, age and gender predict their academic performance and examine its implications for adopting preventive actions against cheating in exam- inations. It was based on the Modified Theory of Planned Behaviour. Analysis of data collected with the aid of Academic  Integrity  Measurement  Instrument  (AIMI) led  to  significant  findings  that  Academic  Integrity  during examinations and Age significantly predict Academic Performance. There was significant predictive relationship between Age and Academic Integrity during examinations as well as between Age and Academic Performance. Also, there was a statistically significant difference between male and female students in the Academic Integrity during  examinations  as  well  as  in  their  Academic  Performances.  Whereas  mean  Academic  Integrity  score  of female students were slightly higher than that of the males; the mean Academic Performance of male students was  higher  than  that  of the  female  students.  These  findings  have  implications  for  test  development, adminis - tration  and  students’  academic  integrity  policies  and  practices.  Test  developers  and  administrators  should consider  inclusion  of a  segment  in  the  question  papers  that  assess  students’ academic  integrity  especially  in developing countries like Nigeria. The essence of such inclusion is to determine the relationship between students academic integrity quotient and their academic performance. In other words, the authors strongly recommend to the examination bodies and stakeholders to consider the possibility of determining the proportion of a student’s academic performance attributable to academic dishonesty or honesty.   
+
+1. Introduction 
+Relationship  between  academic  integrity  during  examinations and students’ academic performance is a relatively new area that has started attracting  the  attention  of  researchers  in  response  to  the  prevailing culture  of  examination  malpractices  in  schools  around  the  world.  In several studies, some factors have been identified as predictors of stu- dents academic performances such as study habits, examination anxiety, peer  influence,  honour  codes,  and  so  on.  For  instance,  Sasi  and  Anju (2020) in their study on the relationship between study habits and ac- ademic achievements of high school students in India found very strong correlation between the two variables. Similar results were obtained in the studies by Magulod (2019); Williams et al. (2013); and, Moeinikia and Zahed-Babelan (2010). It follows the course of logical reasoning to assume that students who study well for examinations are more likely to perform better than those who do not prepare adequately for the same examinations. It has also been proven in research studies that students who  suffer  from  high  examination  anxiety  have  more  tendency  to 
+perform poorly in school examinations (DordiNejad et al., 2011; Balo-
+gun et al., 2017; Zamani and Pouratashi, 2018). Given that these vari- ables  (study  habits  and  test  anxiety,  among  other  individual  and institutional factors) formed the basis for the earlier studies on academic integrity  such  as  McCabe  et  al.  (1996); McCabe  and  Trevino  (1997); McCabe  et  al.  (1999),  the  present  study  advanced  the  frontier  by generating  items  for  the  measurement of students’ academic  integrity during  examinations from  the  constructs  of study  habits,  examination anxiety, examination ethics, past experience and moral background of students and then testing the predictive relationship between each stu-
+dent’s composite score on academic integrity during examinations and academic performance. 
+Furthermore,  the  role  of  age  and  gender  in  the  determination  of academic performance and tendency to engage in academic dishonesty has been inconclusive. Whereas some previous studies found significant differences in academic performance and academic integrity on the basis of age  and  gender,  some  others  did  not.  For  instance,  the  studies  by McCabe  and  Trevino  (1997);  Hendershott  et  al.  (1999);  Becker  and 
+
+* Corresponding author. 
+E-mail addresses: ossaimoses@gmail.com, moses.ossai@descoem.edu.ng (M.C. Ossai).  
+https://doi.org/10.1016/j.ijedudev.2023.102811 
+Received 14 January 2023; Received in revised form 6 May 2023; Accepted 8 May 2023   
+Available online 12 May 2023
+0738-0593/© 2023 Elsevier Ltd. All rights reserved.
+
+M.C. Ossai et al.                                                                                                                                                                                                                                International Journal of Educational Development 100 (2023) 102811
+Ulstad (2007); Olasehinde-Williams, Olawuyi and Alabi (2011); Zhang 
+et al. (2018) found gender and age differences in students’ general ac- ademic  integrity;  while  other  studies  found  no  significant  gender  dif- ferences or relationship such as Muthukamatchi et al. (2021). Whereas 
+the question as to whether gender predicts academic integrity remains inconclusive  (Williams  and  Aremu,  2019),  it  is pertinent to  note  that most studies reported that males have more tendency to engage in ac- ademic dishonesty than females (Salleh et al., 2023). The present study 
+will  further  examine  the  impact  of gender  and  age  on  academic  per- formance  and  academic  integrity  of  students  during  examination periods. 
+The background to this study lies in the ravaging effects of cheating in examinations or what is called “examination malpractices” in some countries. The menace of examination malpractices has threatened the very essence of education. In a twelve year study from 2002 to 2015 in the United States of America (USA), McCabe (2020) reported that: “95% 
+of the surveyed students admitted to cheating on a test and homework, or  committing”  other  forms  of  academic  fraud.  Punch  Newspaper Editorial (2019) reported that China introduced seven-year jail term for 
+those caught cheating in examinations from 2016 onwards. They further deployed  information  and  communication  technology  tools  to  scan students’ dress and paraphernalia before they are admitted into exam-
+ination  halls.  In the  United  Kingdom,  there  was  11%  increase  in  pen- alties for cheating in examinations in 2019 compared to 2018 according 
+to the Office of Qualifications and Examinations Regulation (2019). In Nigeria, the situation is so pathetic that Magaji (2019) stated that aca-
+demic dishonesty is responsible for “most cases of collapsed buildings, death  through  medical  negligence,  drug  trafficking,  armed  robbery, drug adulteration, separatist agitation, kidnapping, insurgency” among 
+other vices. Magaji could make such claims because there are significant number  of  students  caught  engaging  in  examination  malpractices  in public examinations conducted in Nigeria by West African Examinations Council  (WAEC); National  Examinations  Council  (NECO);  and,  Joint Admissions and Matriculation Board (JAMB). Table 1 shows the data of examination malpractice cases in WAEC, NECO and JAMB examinations 
+in the past 15 years. 
+Data in Table 1 shows the rampancy of the examination malpractices 
+in  Nigeria.  The  situation  is such  that  no  examination is free  from  the menace. In fact, the data reflects only those who were caught. In actual 
+fact the cases of examination malpractices in WAEC, NECO and JAMB examinations may  be  triple  or  quadruple of the  numbers  reported.  In recent  times,  examination  malpractices  have  manifested  in  various forms  and  shapes  with  different  designations  such  as  ‘microchips’, 
+‘macro chips’, ‘down-loads’, ‘laptops’, ‘giraffe’, the use of ‘mercenaries’ and  quite  recently,  information and  communication technology  (ICT) devices  are employed  to facilitate  the  process of cheating  in examina - tions.  ‘Microchips’ and ‘macro  chips’ are terms  used to describe small pieces  and  more  large  sizes  of papers,  respectively,  with  prepared  an- swers smuggled into the examination hall. ‘Down-loads’ simply refers to 
+the act of smuggling a whole textbook into the examination hall from which the candidate intends to copy. ‘Laptops’, which is most common 
+with ladies, is the technique whereby the individual candidate’s lap is used as the writing surface from where relevant information to an on- 
+going  examination can  be  copied  in  the  examination hall  as the  need arises.  ‘Giraffe’ is a style  whereby  a candidate  uses  neck-stretching to look at what another candidate has written with the intent to copy. Use 
+of ‘mercenaries’ refers to the practice whereby candidates employ and pay  external  persons  to  sit  in  and  write  examinations on  their  behalf. Deployment of ICT to aid examination malpractices has lead to rampant plagiarism in the form of procuring prepared assignments and projects 
+from  fraudulent  websites  as  well  as  employing  gadgets  that  transmit answers to students in the examination halls. 
+The negative consequences of examination malpractices in Nigeria is 
+so  far-reaching  that  Onyechere  (2017)  stated  they  contribute  to  the economic, social and political underdevelopment of Nigeria. There is no doubt  that  examination  malpractice  is  a  plaque  which  has  defied  all previous  measures  adopted  to  curb  it  and  that  its  consequences have been  very  disastrous  to  the  extent  that  the  governments, examination bodies  and  educational  institutions  in  Nigeria  have  adopted  punitive measures to curtail it but to no avail. For example, the alarming resur - gence  of examination malpractices during  the  Babangida  and  Abacha regimes  and  the  public  outcry  which  it  generated  culminated  in  the promulgation of a Decree in 1999 tagged “Examination Malpractices Act 
+No. 33 of 1999′′by the Abdulsalami Abubakar administration. The Act failed to curb the menace of examination malpractices in Nigeria. It has been criticized for being too weak in some areas (such as Placing a fine of N500,  000  on  culprits);  too  strict  in  other  areas  (such  as 10–15  years imprisonment);  and  not  implementable  in  some  instances  (such  as banning  a culprit  from  future  examinations (Ogunlowo,  Onyechere  as cited in Ossai, 2013). 
+In  view  of  the  negative  impacts  of  examination  malpractices  to educational values,  there  is need  for  research  scholars  to  initiate  pre- ventive  strategies  to  check  them.  It has  become  pertinent  to  establish reliable predictors of academic integrity so that students who are prone 
+to  examination malpractices could  be  identified  and  reformed  before they sit for examinations. If the overall goal of education is to bequeath 
+
+2
+M.C. Ossai et al.                                                                                                                                                                                                                                International Journal of Educational Development 100 (2023) 102811
+Table 1 
+Data of Examination Malpractice Cases in WAEC, NECO and JAMB Examinations from 2008 to 2022 in Nigeria.  
+S/  Year  WAEC  NECO  JAMB 
+N 
+Candidates  Malpractice  %  Candidates  Malpractice  %  Candidates  Malpractice  % Participated  Cases  Participated  Cases  Participated  Cases 
+
+
+M.C. Ossai et al.                                                                                                                                                                                                                                International Journal of Educational Development 100 (2023) 102811
+1   2008  1,369,142 2   2009  1,373,009 3   2010  1,351,557 4   2011  1,540,250 5   2012  1,672,224 6   2013  1,689,188 7   2014  1,692,435 8   2015  1,593,442 9   2016  1,552,758 10   2017  1,559,162 11   2018  1,572,396 12   2019  1,590,173 13   2020  1, 538,445 14   2021  1,573,849 15   2022  1,601, 047 
+74,956  5.47 109,201  7.95 77,168  5.71 81,573  5.30 112,000  6.70 112,865  6.68 145,795  8.61 118,101  7.41 137,295  8.84 214,952  13.79 NA  - 180,205  11.33 215,149  13.98 170,146  10.81 365,564  22.83 
+1,166,118  88,884 1,184,907  32,000 1,132,357  615,010 1,160,561  51,312 1087.627  NA 1,034,263  8308 978,886  4307 969,491  1066 
+1, 022, 474  43,905 1,051,472  50,586 1,032,729  20,181 1,151,016  40,630 1,209,992  33,470 1,226,796  20,003 1,198,412  13,594 
+7.62  1,174,935 
+2.70  1,306,193 
+5.74  1,433,268 
+4.42  1,493,604 
+-  1,503,931 
+0.80  1,644,110 
+0.44  1,015,504 
+0.11  1,475,600 
+4.29  1,592,905 
+4.81  1,722,236 
+1.95  1,653,127 
+3.53  1,792,719 
+2.77  1,945,983 
+1.63  1,351,215 
+0.13  1,761,338 
+158,784  13.51 23,819  1.82 20,780  1.45 15, 160  1.02 27,266  1.81 68,309  4.16 38,658  3.81 NA  - 
+NA  - 76,923  4.47 NA  - 34,120  1.90 NA  NA NA  NA NA  NA 
+
+
+M.C. Ossai et al.                                                                                                                                                                                                                                International Journal of Educational Development 100 (2023) 102811
+NA = Not Available. 
+Source: Compiled by the researchers from reports by Atueyi (2019) and figures supplied by WAEC, NECO and JAMB in their results release announcements from 2008 to 2022. 
+
+
+M.C. Ossai et al.                                                                                                                                                                                                                                International Journal of Educational Development 100 (2023) 102811
+the best moral and social values to the next generation, then concerted efforts  must  be  made  to  checkmate  academic  dishonesty  of which  ex- amination  malpractices  is  the  trademark.  If  measures  of  academic integrity predicts academic performance of students, then a basis may 
+have been found to belief that improving the conglomerating variables that produce high academic integrity will lead to better academic per- formances  devoid  of  examination  malpractices.This  is  the  challenge taken up by this study. 
+1.1. Research questions 
+The  following  research  questions  guided  the  study:  What  relevant psychological  constructs  could  adequately constitute  the  blueprint  for measuring academic integrity during examinations among high school students?;  What  are  the  psychometric  properties  of  the  Academic Integrity  Measurement  Instrument?  Does  the  Academic  Integrity  and Age of  high  school  students  predict  their  academic  performance  ?  Is there significant relationship between Gender and the academic integ -
+rity scores and academic performance of the high school students? What are the implications of the findings of this study for adopting proactive strategies  towards  preventing students  from  engaging  in  examination malpractices? 
+1.2. Theoretical framework 
+This  study  is based  on  the  Modified  Theory  of Planned  Behaviour (MTPB). MTPB is an offshoot of the Theory of Planned Behaviour (TPB). TPB as enunciated and  espoused by Ajzen and Fishbein  (1980);  Ajzen (1985, 1991); and Ajzen and Madden (1986) identified three factors that combine to predict intention and behaviour. These are “attitudes toward 
+the  behaviour, subjective  norms,  and  perceived  behavioural control”. For instance, as applicable to the present study, a student’s tendency to engage in “examination malpractices” is determinable from his attitude towards  “examination  malpractices”;  subjective  norms  (acceptability beliefs  in  student’s  environment) of “examination malpractices”; and, perceived behavioural control (how easy it is for students) to engage in “examination malpractices” without being caught. Items in the research istrument developed by the researchers for this study tagged “Academic Integrity  Measurement  Instrument  (AIMI)”  elicit  responses  that  are indicative of students’ dispositions in the tripod dimensions of TPB and 
+the  additional  components  that  make  up  the  MTPB such  as moral  up- bringing, past experience and personality factors. These added compo - nents to TPB (moral upbringing, past experience and personality factors) emanated from the realization that there are other variables that could enhance or inhibit the three original factors. The three original elements of TPB which comprised of Attitude towards Behaviour (ATB), Subjec-
+tive  Norms  (SN)  and  Perceived  Behavioral  Control  (PBC)  could  be influenced  by  demographic  factors,  moral  obligation  and  moral reasoning because the phenomenon of academic dishonesty is not just a spontaneous event but an activity that is planned and coordinated before execution. Several research studies have proved this fact. For instance, Passow et al. (2006) initiated the concept of MTPB by introducing more variables to the theory of planned behaviour. These variables are “de- mographics, pre-college cheating behavior, co-curricular participation” 
+as  additions  to  TPB’s “moral  obligation  not  to  cheat,  attitudes  about cheating,  evaluation  of  the  costs  and  benefits  of  cheating,  perceived social pressures to cheat or not to cheat, and perceived effectiveness of academic  dishonesty  policies”.  They  found  all  eight  variables  to  be significant  predictors  of  cheating  behaviour  in  examinations.  Madara et  al.  (2016)  reviewed  twenty-two  theories  relevant  to  explaining cheating behaviour in school examinations including Kohlberg’s Theory 
+of  Moral  Development  and  came  to  the  conclusion  that  “human- - behaviour, such as cheating” is such a broad and complex construct that 
+a single  theory  may  not  be  sufficient  to  explain  it,  hence  they  recom - mended  combining  or  integrating several-different theories  or  models such as the MTPB for research studies in this field. Harding et al. (2007) 
+found  that  the  modified  theory  of  planned  behavior  proved  to  be consistent  in  predicting  students  cheating  behaviour  in  examinations irrespective of the context in which it was applied. Bagraim et al. (2014) applied the TPB model in their study among South African students and 
+found that “TPB significantly explains dishonest academic behaviour”. They  recommended  that  the  application  of  TPB  models  in  studies focusing  on  prediction  of  dishonest  academic  behaviour  should  be adopted  by  other  researchers in  this  field.  It  was  on  the  basis  of the findings and recommendations of these previous studies that Ossai et al. (2014) and Ossai et al. (2020) utilized the TPB and MTPB in their studies which yielded examination behaviour measurement instruments named Examination  Behaviour  Inventory  (EBI)  and  Tertiary  Examination Behaviour Inventory (TEBI) respectively. Most recent research by Juan 
+et  al.  (2022)  found  the  MTPB most  significant  in  the  prediction  of dishonest academic behaviour among Chinese students. It is interesting to note that these previous studies also involved prediction of academic cheating  behavior  from  measures  of  attitude  towards  cheating  in  ex- aminations,  subjective  norms  of  the  examinations,  perceived  permis - siveness  of  the  examination  conditions,  demographic  factors,  moral obligation or reasoning, and past experience in cheating. These factors were  taken  into  consideration in the  construction of the  items  for  the AIMI. For  instance,  students’  study  habits  and  levels  of  examination anxiety could predicate their disposition towards examination integrity (Salehi and Gholampour; , 2021; Abdulmumin et al., 2020). Moreover, demographic factors such as age, gender, socioeconomic background as well as past experience have been implicated as predictors of students’ tendency  to  cheat  in  examinations  or  their  academic  performance (Ukwetang  et  al.  (2021);  McCabe  and  Trevino  (1997);  Hendershott ,1999;  Becker  and  Ulstad  (2007);  Olasehinde-Williams  et  al.,  2011); Zhang  et  al.  (2018)).  In  the  light  of  the  findings  from  these  related previous  studies,  the  present  study  sought  to  develop  an  instrument (AIMI) that  encapsulates  the  aforementioned  attributes  and  use  it  to measure  the  predisposition  of  students  towards  academic  integrity during examination and then compare the scores of the AIMI with their academic performance. 
+The  advantage  of  the  MTPB over  other  theories  and  models  that explain some constructs used in the present study, such as moral back- ground  or  obligation,  is  that  it  amalgamates  principles  from  various theories  into  one.  For  instance,  some  aspects  of Kohlberg’s  theory  of moral development are accommodated in MTPB. The moral obligation and moral reasoning aspect of MTPB is rooted in Kohlberg’s theoretical assertion that society’s or institutional rules and regulations or laws and the  sanctions  meted  to  violators  determine  moral  development at  the “pre-conventional”  and  “conventional”  levels  (Sanders,  2022).  Moral reasoning  precedes  moral  action.  Therefore,  an  individual  builds  up moral  assets  from  the  training  received  at  home,  school,  social  in- teractions,  societal  and  institutional  norms  and  perceived  behavioral controls. These morality builders interfaces with other variables such as examination  anxiety,  study  habits,  age,  gender,  attitude  towards  ex- amination malpractices and past experience to determine how an indi- vidual will react to situations that demand academic honesty. This is the thrust  of the  MTPB upon  which  this  study  is based.  The  inclusion  of “ethics”  or “values”  governing certain kinds  of behaviour such as “ex- amination ethics”  among  the  variables  relevant  to  academic  integrity during  examinations is given  credence  by  Britannica  (2023)  where  it was stated that every society or institution has “moral rules”  or ethics that regulates individual behaviour.This study proposes that a students’ understanding,  internalization  and  possession  of  these  attributes  are measurable  with  an  instrument  that  contains  items  measuring  Study Habits;  Examination  Ethics;  Examination  Anxiety;  Moral  Background; Attitude towards Cheating in Examinations (Exam Attitude); and, Past Experience  in  Cheating  in  Examinations  (Past  Experience),  Age  and Gender. This study will prove whether propensity for “immoral actions” during examinations (examination malpractices) is more attributable to academically weak  students than  academically well prepared students 
+by comparing students’ scores on AIMI and their academic performance. 
+2. Method 
+Design: Survey research design was used in the study. The population 
+of the  study  consisted  of final  year  high  school  students  in Nigeria.  A sample  of 3214  students  were  drawn  from  6 geopolitical  zones  of the country and the Federal Capital Territory using multistage proportion -
+ate random sampling technique which led to the selection of 1274 males and 1940 females. 
+Instrument: data was collected with the aid of an Academic Integrity Measurement Instrument (AIMI) that was developed by the authors. It consisted of Sections A and B. Section A elicited responses on the stu-
+dents Age, Gender among other variables and Section B had an initial total of 102 items made up of 6 segments. First segment measured Study Habits  with  16  items;  second  segment  measured  Examination  Ethics with  20  items;  third  segment  measured  Examination  Anxiety  with  20 items; fourth segment measured Moral Background with 15 items; fifth segment  measured  Attitude  towards  Cheating  in  Examinations (Exam Attitude) with 11 items; and, the sixth segment measured Past Experi-
+ence in Cheating in Examinations (Past Experience) with 20 items.The AIMI was  first  subjected  to  face  and  content  validity  by 3 expert  Pro- fessors in the fields of educational measurement and evaluation, coun- selling psycho-metrics and counselling psychology. Their critiques and suggestions were used to fine tune the items and in some cases recon -
+struct certain items and this reduced the items to 102 which were then subjected  to  a pilot  study  with  a sample  of 150  subjects  and  the  data generated was analyzed with Principal Component Factor Analysis and Rotated Component Matrix. Measure of internal consistency for the 102 
+items produced Cronbach Alpha index of.91 while the split half method yielded Cronbach Alpha indices of.83 and.87 for each of the two parts of 
+51  items;  and  Spearman  Brown  Coefficient  of.82.  The  criterion  of “Cronbach Alpha if Item Deleted” is satisfactory for all 102 items with 
+the  least  index  being.91  (see  Appendix  A) but  the  items  were  further proned down to a total of 40 by means of Rotated Component Matrix and Factor Loading for each segment (see Table 4). The 40-item version of 
+the  AIMI was  tested  for  reliability  and  internal  consistency  (Table  3,) and used to elicit responses from the 3214 sampled students. In addition to  the  40-item  AIMI, the  average  academic  performance score  in  per- centage for the 3214 sampled students in their last school term exami - nation was collected from their school authorities for comparison with the AIMI scores. 
+The idea for developing the AIMI emanated from the observation in research literature that each of the segments of AIMI is associated with academic dishonesty. For instance, Oran et al. (2015) found that study habits is closely associated with nursing students academic honesty. In another study by Lambert et al. (2003), Past experience was found to be 
+the  most  significant  predictor  of  academic  dishonesty.  Examination anxiety is also a strong predictor of academic integrity. In Abuh (2022), test  or  examination anxiety  “accounted  for  56.2%  of the  variation  in academic dishonesty”. Attitude and moral background are also related to academic honesty as seen in the study by Bassey and Iruoje  (2016) where  they  investigated  “test  anxiety,  attitude  to  schooling,  parental influence,  and  peer  pressure  as  predictors  of  students  cheating  ten- dencies” among secondary school students in Nigeria. The items in the examination ethics component of AIMI were developed by the authors in line with the rules and regulations of WAEC, the foremost high school certificate  examination  body  in  West  Africa.  Given  that  most  of  the previous instruments designed for measuring academic honesty focused on just one or two of the predictor variables, the AIMI stands out because 
+it  consists  of items  covering  the  six predictor  variables  as highlighted above. AIMI was, therefore, conceived as an instrument that covers all the essential components of the Modified Theory of Planned Behaviour (MTPB), namely, attitude towards cheating in examinations, subjective norms of the examinations, perceived permissiveness of the examination conditions,  demographic  factors,  moral  obligation  or  reasoning,  and past  experience  (details  are  presented  in  the  Theoretical  Framework section). A four-point scale format was adopted where response to each 
+item ranges from SA = Strongly Agree, A = Agree, D = Disagree and SD 
+= Strongly Disagree. Depending on the direction of an item SA could be scored as 4 or 1; A as 3 or 2; D as 2 or 3 and SD as 1 or 4. This scoring pattern  helped  to  check  faking  of responses.  The  names  of the  six di- mensions were derived from common trait or attributes applicable to the 
+items loading on each component (see Table 6 and Appendix B Rotated Component Matrix of the 40-items). International Center for Academic Integrity [ICAI] (2019) defined academic integrity “as a commitment … to  six  fundamental  values:  honesty,  trust,  fairness,  respect,  re- sponsibility,  and  courage”. From  the  students’ perspectives, these  six values  are  measured  by  items  in  the  Moral  Background,  Examination Ethics,  Attitude  towards  Cheating,  Past  Experience,  Study  Habits  and Examination Anxiety  components of AIMI. For  instance,  items  28–34 measure  honesty  or  moral  integrity;  items  5–11  measure  fairness  and respect  for  examination  ethics;  items  21–27  measure  trust  and  re- sponsibility or past experience of engaging in examination malpractices; 
+and, items 1,2,3,4 measure courage or the lack of it as demonstrated by study  habits  of students  ahead  of examination as well  as items  12–20 that  measures  the  courage  of  students  in  dealing  with  examination anxiety (see Appendix B). 
+Method of Data Analysis: The researchers personally administered the copies  of the  AIMI to  the  3214  respondents and  all  3214  copies  were correctly filled and returned. The Point Biserial Correlation was used to 
+run the analysis for determining the association between Gender, Aca- demic Integrity during Examinations and Academic Performance since 
+the independent variable (gender) is dichotomous while the dependent variables  (examination  integrity  and  academic  performance)  are continuous  or  scale  variables.  Multiple  Regression  was  used  in  the analysis  of  the  association  among  Academic  Integrity,  Age  and  Aca- demic  Performance  (dependent  variables)  because  they  are  all  scale variables  and  they  satisfied  the  conditions  of  ‘Normal  Distribution’; being free from ‘Outliers’; and, ‘Non-collinearity’. 
+3. Results 
+In  order  to  answer  the  first  and  second  research  questions  which bordered  on  relevant  psychological  constructs  that  could  adequately constitute  the  blueprint  for  measuring  academic  integrity  during  ex- aminations among  high  school  students;  and,  the  psychometric prop - erties  of  the  AIMI, a  table  of  test  blueprint  for  the  40-item  AIMI is presented  in  Table  2 and  the  psychometric properties  are  reported  in Tables 3 and 4. 
+From  Table  3,Table  4  it  could  be  seen  that  the  names  of  the  six components were derived from common trait or attributes applicable to the  items  loading  on  each  component.  Thus,  the  six  components  are congruent to the six construct domains in Tables 2 and 3. 
+Data in Table 5 show that Academic Integrity and Age significantly 
+predict  Academic  Performance  at  0.05  level  of significance.  Separate Linear Regression of Age and Academic Performance; Age and Academic 
+Integrity; and, Academic Integrity and Academic Performance showed 
+Table 2 
+Test  Blue  Print  for  the  40-Item  Academic  Integrity  Measurement  Instrument (AIMI).  
+CONSTRUCT DOMAIN  PHASE DIMENSION  
+Pre-  During  Post  Total Exam  Exam  Exam 
+1) Study Habits  04  -  -   04 
+2) Examination Ethics  -  06  01   07 
+3) Examination Anxiety  01  06  02   09 
+4) Past Experience  03  04  -   07 
+5) Moral Background/  05  01  01   07 Reasoning 
+6) Attitude towards  05  01  -   06 Examinations 
+Total  18  18  04  40  
+
+4
+M.C. Ossai et al.                                                                                                                                                                                                                                International Journal of Educational Development 100 (2023) 102811
+Table 3 
+Reliability Statistics of the 40-items AIMI by Components and Whole Instrument.  
+S/  Component  Cronbach’s  Cronbach’s Alpha Based  N of N  Alpha  on Standardized Items  Items 
+1.  Study Habits   0.976   0.976   4 2  Examination Ethics   0.982   0.983   7 3  Examination  0.768   0.765   9 
+Anxiety  
+4  Past Experience   0.850   0.855   7 5  Moral Background/  0.902   0.902   7 
+Reasoning  
+6  Attitude towards  0.876   0.876   6 
+Examinations  
+7  All 40 items   0.918   0.920   40 8  Split-half (Odd  0.867   0.867   20 
+Numbers)  
+9  Split-half (Even  0.814   0.814   20  
+Numbers)  
+significant predictive Beta values as shown in Tables 6, 7 and 8 and this provided answer to the research question whether the Academic Integ- rity and Age of high school students predict their academic performance. 
+Data in Tables 6, 7, and 8 prove that Age alone is a significant pre- dictor  of Academic  Performance and  Academic  Integrity.  In the  same vein, Academic Integrity alone predicts Academic Performance. 
+Tables  9 and  10  show  results  of Point  Biserial  Correlation  (Levene Test)  of Gender  with  Academic  Integrity  and  Academic  Performance. Data in Table 9 show that the mean Academic Integrity score of female students (109.66) is slightly higher than that of male students (108.52). This  mean  difference  is significant  as  shown  in  Table  10.  Conversely, mean  Academic  Performance  score  of male  students  (68.09)  is higher than  that  of female  students (66.11)  as contained  in Table  9, and this difference is significant (Table 10). 
+4. Discussion 
+The major findings of this study are that Academic Integrity and Age significantly  predict  Academic  Performance.  There  was  significant negative  regression  coefficient  values  between  Age  and  Academic Integrity  as  well  as  between  Age  and  Academic  Performance  which seems  to  suggest  that  both  Academic  Integrity  and  Academic  Perfor - mance decreases as the Age of the students increases. Also, there were significant  differences  in  the  Academic  Integrity  and  Academic 
+
+5
+M.C. Ossai et al.                                                                                                                                                                                                                                International Journal of Educational Development 100 (2023) 102811
+Table 4 
+Rotated Component Matrix and Factor Loading of the Six Components 40-Item AIMI.   
+Component 
+Study  Exam  Exam  Past  Moral  Examination Habits  Ethics  Anxiety  Experience  Reasoning  Attitude 
+I usually cram materials in preparation for examinations.   0.954           
+I feel reluctant to study until examination date is close.   0.915           
+I study for at least three hours each day after classes.   0.937           
+I usually ask myself questions after studying each topic.   0.951           
+Use of programmable calculators should be allowed in the examination halls.     0.938         
+Students should be allowed to sit wherever they like in the examination hall.     0.918         
+Spying in the examination hall should be allowed.     0.899         
+I find it difficult not to talk to my mates during examinations.     0.923         
+Depending on a friend during examination is not a bad idea.     0.883         
+When I am not fit for the examination, my friend should be allowed to write  0.921         
+for me.    
+I wish I have someone to influence my result after examination     0.938         
+I am always anxious to read questions before we are asked to do so.       0.467       
+When I am studying, I worry that I will not remember the material in the  0.745       
+examination hall.      
+During important examinations, I often think that I am doing poorly.       0.737       
+I usually lose concentration during important examinations.       0.684       
+During examinations, I frequently feel the urgency to go to toilet.       0.421       
+I find it difficult to remember what I have studied during examination.       0.470       
+It is difficult for me to concentrate during examinations.       0.457       
+After examination I often think I will fail.       0.647       
+After examination, I worry about the grade I will make.       0.749       
+I pretend to be sick in order to be allowed to write my examination in a  0.636     
+secluded place.        
+Before examination I usually encourage others to be involved in cheating         0.693     
+I usually write expected examination answer on the desk, hand, wall, etc,  0.577     
+prior to the examination time.        
+I make up excuses to leave the examination hall when it has started.         0.929     
+I have received help from fellow students in the examination hall in the past.         0.604     
+I have helped fellow students in the examination hall in the past.         0.696     
+I sometimes copy already prepared assignments from my friends.         0.575     
+I will use any available means to get good grade before an examination.           0.891   
+My parents encourage examination malpractices.           0.670   
+I will use any available means to get good grades during any examination.           0.900   
+I do not like reporting those who cheat in an examination.           0.674   
+Copying from textbooks word for word in doing assignments is not bad.           0.879   
+Lobbying for marks after examination is not examination malpractice.           0.907   
+If one gets leaked examination questions, one should make use of them in  0.648   
+preparing for the examinations.          
+Examinations are very frustrating.             0.746 I hate examinations because it restricts my social activities.             0.738 The essence of schooling is to pass examination.             0.688 I hate school because of examinations.             0.744 Continuous assessment alone is enough to evaluate students’ academic  0.725 
+achievements.            
+I enjoy writing examinations.             0.737  
+Table 5 
+Regression Coefficients of Academic Integrity and Age on Academic Performance.  
+Model  Unstandardized Coefficients  Standardized  t  95% CI  Correlations  Collinearity Statistics 
+Coefficients 
+B  Std. Error  Beta  Lower  Upper Bound  Zero  Partial  Part  Tolerance  VIF 
+Bound  order 
+1  (Constant)  78.759  2.985   26.38*  72.906  84.613      
+Academic Integrity  0.054  0.013  0.073  4.16*  0.029  0.080  0.084  0.073  0.073  0.992  1.008 Age  -1.042  0.146  -0.125  -7.14*  -1.327  -0.756  -0.132  -0.125  -0.125  0.992  1.008  
+* p < .05 
+
+6
+M.C. Ossai et al.                                                                                                                                                                                                                                International Journal of Educational Development 100 (2023) 102811
+Table 6 
+Regression Coefficients of Age on Academic Performance Alone.  
+Model  Unstandardized  Standardized Coefficients  t 
+Coefficients 
+B  Std. Error  Beta 
+1  (Constant)   85.622   2.496    34.305* Age   -1.096   0.146   -0.132  -7.529*  
+* p < .05 
+Performance  of  male  and  female  students.  Whereas  mean  Academic Integrity  score  of female  students  was  slightly  higher  than  that  of the males;  the  mean  Academic  Performance of male  students  was  higher that of the female students. These findings have implications for adop -
+tion  of  preventive  strategies  against  examination  malpractices.  For instance, new insight has been provided into the inconclusive research on the roles of gender and age of students on their examination integrity and academic performances. The finding of significant difference in the academic integrity on the basis of gender in the present study with fe- males  having  a higher  mean  academic  integrity  score  is supported  by similar findings by Salleh et al. (2013); Becker and Ulstad (2007); Ola- sehinde-Williams  et  al.  (2011);  Zhang  et  al.  (2018).  The  significant negative  regression  coefficient  values  of Age with  Academic  Integrity and  Academic  Performance  has added  a new  dimension  to  the  role  of Age  in  the  determination  of  students’  academic  integrity  and performance. 
+The constructs that constituted the items of the Academic Integrity Measurement  Instrument  (AIMI),  namely,  Study  Habits;  Examination Ethics;  Examination  Anxiety;  Moral  Background/Reasoning;  Attitude towards  Cheating  in  Examinations  (Examination  Attitude);  and,  Past Experience  of  Cheating  in  Examinations  (Past  Experience)  could  be targeted for improvement in order to enable students have more confi-
+dence to write school  examinations without engaging in malpractices. Chinamasa et al. (2011) identified poor study habits as one of the strong factors  that  contribute  to  cheating  behaviour  among  students.  The 
+Table 7 
+Regression Coefficients of Age on Academic Integrity Alone.  
+Model  Unstandardized  Standardized Coefficients  t 
+Coefficients 
+B  SE  Beta 
+1  (Constant)   126.43   3.37    37.506* Age   -1.01   0.20   -0.09  -5.128*  
+* p < .05 
+finding by Chinamasa et al. was corroborated by Oyeyemi et al. (2019) who  discovered  that  there  is a significant  relationship between  online sourcing of leaked examination questions and study habits of students 
+and that there was significant difference between male and female stu- dents involvement in this form of examination malpractice.The findings by Asha and Anju (2020); Ossai (2011a, 2012, 2013, 2018); Abdulmu -
+min,  Abdullahi  and  Ibrahim  (2020)  also  lay  credence  to  the  fact  that study habit predicts tendencies to engage in examination malpractice by students as well as their academic performance hence preventive stra- tegies towards tackling the menace of examination malpractices should target the improvement of the study habits of students. In the context of the MTPB, study habits situates within the ambit of “Subjective Norms” which implies that the students’ beliefs about the permissible nature of the  culture  of  examination  malpractices  based  on  “past  experience” leads  to  the  formation  of “habits” that  conform  with  this  theory  and conceptual model. Poor study habits is one of such “habits” that propel the “intention” to engage in the target “behaviour” (examination mal- practices). Any plan of action aimed at improving the “Subjective Norm” which includes the examination integrity of the students and by exten - sion their academic performance should include activities targeting the inculcation of good study habits. 
+Examination  Anxiety  and  Ethics  are  two  other  variables  in  the “Subjective Norms” enclave of MTPB. In this study, these two variables were  part  of  the  constructs  that  produced  the  AIMI  whose  scores correlated  and  predicted  academic  performance. Examination  anxiety and ethical behaviour has been subjects of interest among researchers concerned with factors responsible for students’ academic performance 
+and  examination malpractices such as Becker and  Ulstad  (2007); Dor- diNejad et al. (2011); Balogun et al. (2017); Abdulmumin et al. (2020). These studies found that examination anxiety is a significant correlate of students’  academic  performance  and  attitude  towards  examination malpractices. Moreover, gender played significant roles in determining 
+the ethical behaviour of students with regards to academic dishonesty (Becker and Ulstad, 2007). Therefore, the test anxiety levels of students and their ethical leanings should be considered in taking proactive ac- tions towards improving their examination integrity. 
+The  moral  background  of  the  students  and  their  attitude  towards cheating as conceptualized in the present study play important roles in the  MTPB framework.  They fall into  the  “ Attitude  Toward  Behaviour [ATB]” segment. Some of the items in the EIMI reflected these attributes 
+and they contributed to the findings of the present study hence proactive strategies  towards  preventing  examination  malpractices  should  take cognizance  of them.  The  works  of McCabe  and  Trevino  (1997); Ossai (2011b); Bagraim et al. (2014); Madara et al. (2016); Ukwetang et al. (2021);  Mao  et  al.  (2021);  also  alluded  to  this  fact  that  moral 
+
+
+M.C. Ossai et al.                                                                                                                                                                                                                                International Journal of Educational Development 100 (2023) 102811
+Table 8 
+Regression Coefficients of Academic Integrity on Academic Performance.  
+Model  Unstandardized Coefficients  Standardized Coefficients  t  95% CI  Collinearity Statistics 
+B  SE  Beta  Lower Bound  Upper Bound  Tolerance  VIF 1  (Constant)   60.05   1.44    41.60*   57.22   62.88     
+Exam Integrity   0.06   0.01   0.084  4.79*   0.04   0.09   1.00   1.00  
+* p < .05 
+Table 9 
+Group Statistics of Male and Female Students.   
+Gender  N  Mean  SD  SE 
+Academic Integrity  Male   1274   108.52   15.47   0.43 
+Female   1940   109.66   16.21   0.37 Academic Performance  Male   1274   68.09   11.63   0.33 
+Female   1940   66.11   11.93   0.27  
+Table 10 
+Independent Samples Test of Gender on Students Academic Integrity and Academic Performance.   
+F  t  df  Mean Difference  SE  95% CI 
+Lower  Upper 
+Academic Integrity  Equal variances assumed   3.45  -1.98*   3212   -1.138   0.574   -2.263   -0.012 
+Equal variances not assumed    -2.00*   2810.60   -1.138   0.569   -2.253   -0.023 Academic Performance  Equal variances assumed   0.100  4.67*   3212   1.988   0.426   1.153   2.823 
+Equal variances not assumed    4.69*   2772.54   1.988   0.424   1.157   2.818  
+* p < .05 
+
+7
+M.C. Ossai et al.                                                                                                                                                                                                                                International Journal of Educational Development 100 (2023) 102811
+background and attitude towards examination malpractices are signifi- cant  factors  in  the  quest  for  solution  to  the  problem  of  academic dishonesty in schools around the world. 
+Past experience of cheating in examinations underlies the “Perceived Behavioural  Control[PBC]” segment  of the  MTPB. In  McCabe  (2020), 95% of the respondents that participated in the study reported that they 
+have engaged in one form of cheating or the other. This was also found to  be  true  in  the  Salehi  and  Gholampour (2021); Mohd  et  al.  (2013) studies  that  found  a  prevalence  of  academic  cheating  behaviour  in schools. All of this point to the fact that students engage in cheating in 
+school  examinations  because  they  find  it  easy  to  perpetuate  the  act without  being  caught.  Therefore,  the  AIMI  included  items  which bordered  on  previous  experience  with  cheating  such  as  items  21–27 (Appendix B). 
+5. Conclusion 
+Students’ academic integrity during examinations is the product of their  Study  Habits;  Examination  Ethics;  Examination  Anxiety;  Moral Background; Attitude towards Cheating in Examinations (Examination Attitude);  and,  Past  Experience  of  Cheating  in  Examinations  (Past Experience). It has been found to be a significant predictor of academic performance of students. Thus, each of these constructs that contributed 
+items for the academic integrity measurement instrument are potential determinants of students academic performance. Guided students’ pro- gramme  of  activities  through  teaching,  orientation  and  counselling could enhance students confidence and change their predisposition to-
+wards cheating in examinations. The age and gender of students should also  be  considered  when  drawing  up  proactive  strategies  aimed  at improving the academic integrity of students. 
+The implications of the findings of this study for test development, administration and  students’ academic  integrity  policies  and practices 
+are numerous. First, test developers and administrators should consider inclusion of a segment in the question papers that assess students’ aca-
+demic  integrity  especially  in  developing  countries  like  Nigeria.  The essence of such inclusion is to determine the relationship between stu- dents  academic integrity  quotient and their  academic  performance. In other words, the authors strongly recommend to the examination bodies and stakeholders to consider the possibility of determining the propor - tion  of  a  student’s  academic  performance  attributable  to  academic dishonesty. This is very possible through further development of stan- dardized instruments such as the AIMI for measuring students’ academic integrity quotient. If Intelligence Quotient (IQ) can be measured, then it is  also  possible  to  measure  Academic  Integrity  Quotient  (AIQ).  The usefulness  of AIQ will  not  only  be  for  comparism  with  academic  per- formance but will also be used by other stakeholders in education and 
+the industry in taking decisions. This fact is supported by Bagraim et al. (2014)  in  their  study  that  focused  on  “Understanding  dishonest  aca- demic behavior amongst business students: The business leaders of the future” where they recommended that “Validated TPB models that help 
+to predict dishonest academic behaviour should be helpful in designing interventions  to  decrease  academic  dishonesty  and  thereby  help  to prevent later unethical business practices”. The present study keyed into 
+their recommendation and developed the AIMI which is an instrument based on the MTPB model for predicting students’ academic dishonesty during examinations and further determined the instrument’s predictive power for academic performance. Second, School Counsellors and Psy- chologists could use AIMI scores as a basis for identifying and inviting students for preventive counselling against examination malpractices or academic dishonesty. Such identified students will be helped to improve 
+their  study  habits  and  reduce  their  high  examination  anxiety.  Ossai (2012, 2013) and UNESCO (2000a)(2000b) showed that Guidance and Counselling  programmes  in  the  school  system  help  students  improve their study habits and normalize high examination anxiety. A number of items  in  the  AIMI assess  Study  Habits  and  Examination  Anxiety.  It is, therefore, imperative for school counsellors to help students who score low  in these  sections  of AIMI to  improve  their  study  habits  as well  as control  their  examination  anxiety  levels.  The  Ossai  (2011a);  (2000b) (2012);  and  (2013)  studies  identified  poor  study  habits  and  high  ex- amination anxiety as significant correlates of positive attitude towards examination  malpractices.  One  of  the  implications  of  this  finding  by Ossai is that when Guidance Counsellors help students to improve their study habits and reduce their examination anxiety levels, they may be less interested in perpetrating acts of academic dishonesty. Such iden- tified students will be subjected to relevant counselling therapies such as Cognitive  Behaviour  Therapy  (CBT) and  Rational  Emotive  Behaviour Therapy  (REBT) to  reform  or  re-orientate them  before  they  sit for the actual  examinations (Ossai,  2014,  2018). Moreover,  students  who  are identified to be prone to examination malpractices based on their scores in the AIMI will be assisted further through study habits induction and self-regulated learning strategies. 
+Funding 
+Funds for carrying out the research study was provided by National Research Fund (NRF) of Nigeria Through Tertiary Education Trust Fund (TETFund)  Project  No.  TETF/DR&D/CE/NRF/COE/HSS/VOL.1.  The grant  covers  expenses  for  equipment,  field  work,  data  analysis  and personnel costs and they must be acknowledged in the publication. 
+
+
+M.C. Ossai et al.                                                                                                                                                                                                                                International Journal of Educational Development 100 (2023) 102811
+CRediT authorship contribution statement 
+Dr.  Moses  C.  Ossai:  Conceptualization  of  Ideas;  formulation  or evolution of overarching research goals and aims; Writing -Preparation, creation and presentation of the published work, specifically visualiza -
+tion/ data presentation; Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team; Project administration:Management and coordination responsibility for the research  activity  planning and  execution;  Acqui- sition of the financial support for the project leading to this publication. Dr. Nathaniel Ethe: Development or design of methodology; creation of models;  Software:  Programming,  software  development;  designing computer  programs;  implementation  of  the  computer  code  and  sup- porting  algorithms;  testing  of  existing  code  components;  Validation, Verification, whether as a part of the activity or separate, of the overall replication/experiments  and  other  research  outputs;  Formal  analysis: Application of statistical, mathematical, computational, or other formal techniques  to  analyze  or  synthesize  study  data.  Dr.  Onomiroro  D. Okeh:  Conducting  a research  and  investigation process,  and  evidence collection;  Provision  of  study  materials;  Data  Curation:  Management activities  to  annotate  (produce  metadata),  scrub  data  and  maintain research data (including software code, where it is necessary for inter - preting  the  data  itself)  for  initial  use  and  later  reuse.  Dennis  E. Edougha:  Original  Draft  Preparation, creation  and/or presentation of 
+the published work, specifically writing the initial draft. 
+Acknowledgement 
+The  publication must  include  this  statement: “The  authors  deeply appreciate the National Research Fund (NRF) of Nigeria and the Tertiary Education Trust Fund (TETFund) of Nigeria who provided the grant with Project No. TETF/DR&D/CE/NRF/COE/HSS/VOL.1 for carrying out the research study that led to the production of this article.” 
+Author contribution 
+All authors  contributed to  the  conception  and  design  of the  study. Material  preparation, data  collection  and  analysis  were  performed  by Dr. Moses C.Ossai, Dr. Nathaniel Ethe, Dr. Onomiroro D. Okeh and Mr. Dennis E. Edougha. The first draft of the manuscript was written by Dr. Moses C. Ossai and all authors commented on previous versions of the manuscript. All authors read and approved the final manuscript. 
+Conflict of interests 
+The authors declare that they have no conflict of interest. Informed consent 
+Informed  consent  was  obtained  from  all  individual  participants included in the study. 
+Appendix A. Supporting information 
+Supplementary data associated with this article can be found in the online version at doi:10.1016/j.ijedudev.2023.102811. 
+References 
+Abdulmumin, Hassan, Abdullahi, Rukayya, Ibrahim, Musa, 2020. Study habit and 
+computer anxiety as predictors of examination malpractice among undergraduate 
+students of National Open University Of Nigeria. Port. Harcourt Med. J. 4, 233–249. Abuh, L., 2022. Test. Anxiety a Predict. Acad. Dishonesty Undergrad. Tert. Inst. Kogi 
+State. https://doi.org/10.21474/IJARO1/13653. 
+Ajzen, I., 1985. From Intentions to Actions: A Theory of Planned Behavior. In: Kuhl, J., 
+Beckman, J. (Eds.), Action-control: From cognition to behavior. Springer, Heidelberg, pp. 11–39. 
+Ajzen, I., 1991. The theory of planned behavior. Organ. Behav. Hum. Decis. Process. 50 
+(2), 179–211. https://doi.org/10.1016/0749-5978(91)90020-T. 
+Ajzen, I., Fishbein, M. , 1980. Understanding attitudes and predicting social behavior. 
+Englewood-Cliffs: Prentice-Hall. 
+Ajzen, I., Madden, T.J., 1986. Prediction of goal-directed behavior: attitudes, intentions, 
+and perceived behavioral control. J. Exp. Soc. Psychol. 22 (5), 453–474. https://doi. org/10.1016/0022-1031(86)90045-4. 
+Bagraim, J., Goodman, S., Pulker, S., 2014. Understanding dishonest academic behavior 
+amongst business students- the business leaders of the future. Ind. High. Educ. 28 (5), 331–343. https://doi.org/10.5367/ihe.2014.0222. 
+Balogun, A., Balogun, S., Onyencho, C., 2017. Test anxiety and academic performance 
+among undergraduates: the moderating role of achievement motivation. Span. J. Psychol. 20, E14 https://doi.org/10.1017/sjp.2017.5. 
+Bassey, B.A., Iruoje, J., 2016. Test anxiety, attitude to schooling, parental influence, and 
+peer pressure as predictors of students cheating tendencies in examination in Edo 
+state, Nigeria. Glob. J. Soc. Sci. 15, 1. https://doi.org/10.4314/gjss.v15i1.4. 
+Becker, D.A., Ulstad, I., 2007. Gender differences in student ethics: are females really 
+more ethical? Plagiary: Cross-Disciplinary Studies in Plagiarism. Fabr., Falsif. 77–91. Britannica, T. Editors of Encyclopaedia , 2023, January 31). morality. Encyclopedia 
+Britannica. 〈https://www.britannica.com/topic/morality〉. 
+Chinamasa, E., Mavuru, L., Maphosa, C., Tarambawamwe, P., 2011. Examination 
+cheating: exploring strategies and contributing factors in five universities in Zimbabwe. J. Innov. Res. Educ. 1 (1), 86–101. 
+DordiNejad, F.G., Hakimi, H., Ashouri, M., Dehghani, M., Zeinali, Z., Daghighi, M.S., 
+Bahrami, N., 2011. On the relationship between test anxiety and academic performance. Procedia Soc. Behav. Sci. 15, 3774–3778. https://doi.org/10.1016/j. sbspro.2011.04.372. 
+Harding, T.S., Mayhew, M.J., Finelli, C.J., Carpenter, D.D., 2007. The theory of planned 
+behavior as a model of academic dishonesty in engineering and humanities undergraduates. Ethics Behav. 17 (3), 225–279. 
+Hendershott, Anne, Drinan, Patrick, F., Cross, Megan, 1999. Gender and academic 
+integrity. J. Coll. Stud. Dev. 40 (4), 345–354. 
+Juan, L.X., Tao, W.Y., Veloo, P.K., Supramaniam, M., 2022. Using extended TPB models 
+to predict dishonest academic behaviors of undergraduates in a Chinese Public 
+University. SAGE Open 12 (4). https://doi.org/10.1177/21582440221140391. 
+Lambert, E.G. & Hogan, Nancy & Barton, S.M.. 2003. Collegiate academic dishonesty 
+revisited: What have they done, how often have they done it, who does it, and why 
+did they do it?. Electronic Journal of Sociology. 7. 1–27. Retrieved from 〈https:// 
+sociology.lightningpath.org/ejs-archives/vol7.4/lambert_etal.html〉. 
+Madara, D.S., Namango, S.S., Katana, H., 2016. Theories and Models Relevant to 
+Cheating Behavior. Res. Humanit. Soc. Sci. 6 (17), 108–139. 
+Magaji, A. , 2019. NECO: Two decades of battling exam malpractice! Retrieved from 〈htt 
+ps://www.thenigerianvoice.com/news/281097/neco-two-decades-of-battling-exam -malpractice.html〉. 
+Magulod Jr., G.C., 2019. Learning styles, study habits and academic performance of 
+Filipino university students in applied science courses: Implications for instruction. J. Technol. Sci. Educ. 9 (2), 184–198. https://doi.org/10.3926/jotse.504. 
+Mao P., Cai Z., He J., Chen X., Fan X. , 2021.The Relationship Between Attitude Toward 
+Science and Academic Achievement in Science: A Three-Level Meta-Analysis. Front Psychol. 16, doi: 10.3389/fpsyg.2021.784068. PMID: 34975676; PMCID: PMC8716559. 
+McCabe, D.L. & The International Center for Academic Integrity , 2020. Statistics. 
+Retrieved from 〈https://academicintegrity.org/statistics/〉. 
+McCabe, D.L., Trevino, L.K., 1997. Individual and contextual influences on academic 
+dishonesty: a multicampus investigation. Res. High. Educ. 38 (379–396), 1997. https://doi.org/10.1023/A:1024954224675. 
+McCabe, D.L., Trevino, ˜ L.K., Butterfield, K.D., 1996. The influence of collegiate and 
+corporate codes of conduct on ethics- behavior in the workplace. Bus. Ethics Q. 6, 461–476. 
+McCabe, D.L., Trevino, ˜ L.K., Butterfield, K.D., 1999. Academic integrity in honor code 
+and non-honor code environments: a qualitative investigation. J. High. Educ. 70, 211–234. 
+Mohd, I.M., Noor, R.A., Hamid, H.A., Yusoff, Z., 2013. Academic dishonesty among 
+undergraduates in the higher education. Int. J. Acad. Res. 5 (2), 222–227. DOI: 10.7813/2075-4124.2013/5- 2/B.34.  
+Muthukamatchi, M., Veerachamy, M., Chitradevi, D., 2021. Exploration of academic 
+dishonesty among higher education students build by gender analysis. Turk. J. Comput. Math. Educ. 12 (2), 3385–3391. 
+Office of Qualifications and Examinations Regulation , 2019. Malpractice for GCSE, AS 
+and A level: Summer 2019 exam series. Retrieved from 〈https://www.gov.uk/go 
+vernment/statistics/malpractice-in-gcse-as-and-a-lvel-summer-2019-exam-series〉. Olasehinde-Williams, O., Alabi, Y.L., 2011. Gender and age variations in perceptions of 
+situational appropriateness of academic integrity among students in Kwara State 
+Niger. Int. J. Psychol. Couns. 3 (4), 62–70. Available online at http://www. 
+academicjournals.org/IJPC ISSN 2141-2499.  
+Onyechere, I. , 2017. Examination malpractices has destroyed Nigeria’s educational 
+fabric. The Vanguard, March 22, 2017. 
+Oran, N.T., Can, H.O., ¨ S¸enol, S., Hadımlı, A.P., 2015. Academic dishonesty among health 
+science school students. Nurs. Ethics. https://doi.org/10.1177/0969733015583929. Ossai, M.C., 2011a. Study habit predicts examination behaviour: an imperative for 
+enhancing quality of college guidance and counselling. Mediterr. J. Soc. Sci. (Spec. 
+Issue) 2 (4), 23–28 (Available online at www.mcser.org MJSS Archive).  
+Ossai, M.C., 2011b. Guidance and counselling implications of anxiety as a predictor of 
+student’s attitude towards examination malpractices. Mediterr. J. Soc. Sci. (Spec. Issue), Italy 2 (7), 85–90 (Available online at www.mcser.org MJSSArchive).  
+
+8
+M.C. Ossai et al.                                                                                                                                                                                                                                International Journal of Educational Development 100 (2023) 102811
+Ossai, M.C., 2012. Age and gender differences in study habits: a framework for proactive 
+counselling against low academic achievement. J. Educ. Soc. Res. Italy 2 (3), 67–73. https://doi.org/10.5901/jesr.2012.v2n3p67 (at www.mcser.org).  
+Ossai, M.C., 2013. Study habits, anxiety and examination malpractice attitude. 
+Saarbrucken, Germany: LAP Lambert Academic Publishing. 
+Ossai, M.C. , 2018. Taming the educational monsters: the rescue and reformative roles of 
+the guidance counsellor. 3rd Inaugural Lecture series of Delta State College of Education, Mosogar, Nigeria. 
+Ossai, M.C., Ethe, N., Okwuedei, C.A., Edougha, D.A., 2014. Development of examination 
+behavour inventory: an integrity measure for prevention of cheating in school exams (URL). World J. Educ. 4, 37–79. https://doi.org/10.5430/wje.v4n2p37. 
+Ossai, M.C., Ethe, N., Edougha, D.A., 2020. Development, validation and standardization 
+of tertiary examination behaviour inventory: diagnostic instrument for measuring cheating tendency in educational assessments. Educ. Q. Rev. 3 (3), 313–324. https:// doi.org/10.31014/aior.1993.03.03.142. 〈https://www.asianinstituteofresearch.or g/ 〉. 
+Oyeyemi, O., Victor, Akinola, Johnson, Mafikuyomi, Yakubu, Moses, 2019. Sociological 
+perceptions of E-cheating online runs sites and students study habit: focus on public examination quality in Nigeria. Int. J. Humanit. Soc. Sci. 6, 16–22. https://doi.org/ 10.14445/23942703/IJHSS-V6I1P104. 
+Passow, H.J., Mayhew, M.J., Finelli, C.J., Carpenter, D.D., 2006. Factors influencing 
+engineering students to cheat vary by type of assignment. Res. High. Educ. 47 (6), 643–684. 
+Salehi, M., Gholampour, S., 2021. Cheating on exams: investigating reasons, attitudes, 
+and the role of demographic variables. SAGE Open. https://doi.org/10.1177/ 21582440211004156. 
+Salleh, M.I.M., Alias, N.R., Hamid, H.A., Yusoff, Z., 2013. Academic dishonesty among 
+undergraduates in the higher education. Int. J. Acad. Res. 5 (2), 222–227. 
+Sanders, C.E. , 2022, November 30. Lawrence Kohlberg’s stages of moral development. 
+Encyclopedia Britannica. 〈https://www.britannica.com/science/Lawrence- 
+Kohlbergs-stages-of-moral-development〉. 
+Sasi, A., Anju, A.R., 2020. The correlation between study habits and the academic 
+achievement of high school pupils. Univers. J. Educ. Res. 8 (12A), 7359–7366. https://doi.org/10.13189/ujer.2020.082520. 
+Ukwetang, J.O., Eneyo, O., Josiah, S.O., Ayua, B.A., 2021. Parental moral background 
+checks on academic performance of senior secondary students in Biase Local 
+Government Area, Cross River State, Nigeria. Eur. J. Sci. Res. 159, 42–54. UNESCO. 2000a. Module 1: Guidance. France: Ag 2i Communication. 
+UNESCO. 2000b. Module 2: Counselling. France: Ag 2i Communication. 
+Williams, B., Brown, T., Etherington, J., 2013. Learning style preferences of 
+undergraduate pharmacy students. Curr. Pharm. Teach. Learn. 5, 110–119. https:// doi.org/10.1016/j.cptl.2012.09.003. 
+Williams, T.M., Aremu, O., 2019. Some correlates of academic dishonesty 
+amongundergraduates in Ogun State, Nigeria. umma Psicologica ´ UST 16 (2), 51–59. https://doi.org/10.18774/0719-448.x2019.16.429. 
+Zamani, A., Pouratashi, M., 2018. The relationship between academic performance and 
+working memory, self-efficacy belief, and test anxiety. J. Sch. Psychol. 6 (4), 25–44. https://doi.org/10.22098/jsp.2018.603. 
+Zhang, Y., Yin, H., Zheng, L., 2018. Investigating academic dishonesty among Chinese 
+undergraduate students: does gender matter? Assess. Eval. High. Educ. 43 (5), 812–826. https://doi.org/10.1080/02602938.2017.1411467. 
+9

@@ -1,0 +1,464 @@
+﻿This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+
+Date of publication xxxx 00, 0000, date of current version xxxx 00, 0000.
+Digital Object Identifier 10.1109/ACCESS.2024.Doi Number 
+The Development and Validation of the Artificial Intelligence Literacy Scale for Chinese College Students (AILS-CCS) 
+Shuai Ma1, Zhenzhen Chen2
+1 School of lnternational Business, Zhejiang Yuexiu University, Shaoxing 312000, China  2 Institute of big data, Fudan University, Shanghai 200000, China 
+Corresponding author: Zhenzhen Chen (e-mail: zhenzhenc@fudan.edu.cn). 
+This work was supported in part by the Zhejiang Higher Education Research Project under Grant KT2023049.  
+ABSTRACT In the context of rapid advancements in artificial intelligence (AI), enhancing AI literacy among college students is crucial for promoting the sustainable development of higher education. It is imperative to strengthen the assessment and training of AI literacy among college students. however, there is currently a lack of effective tools for evaluating AI literacy in students from developing countries. Therefore, based on previous literature and the Chinese context, this study developed and validated an Artificial Intelligence Literacy Scale for Chinese College Students (AILS-CCS). After developing the initial framework, this study collected survey data (N=546) through random sampling. Following the execution of Exploratory Factor Analysis (EFA) and Confirmatory Factor Analysis (CFA), the final validated AILS-CCS emerged as a theoretically and empirically consistent tool, consisting of 15 items across four dimensions: Awareness, Usage, Evaluation, and Ethics. This tool holds significant importance for the assessment and training of AI literacy among college students in China and other developing countries globally. 
+INDEX TERMS Artificial Intelligence Literacy; Scale Development; Factor Analysis  
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+I. INTRODUCTION 
+With the rising popularity of tools like ChatGPT and Sora, artificial intelligence (AI) has become a global focal point. AI is significantly impacting various aspects of daily life, including education[1] and healthcare[2]. For example, AI can  assist  in  improving  medical  practices  by  providing intelligent  algorithms  and  machine  learning  (ML) techniques to aid in accurate diagnosis and the development of effective treatment plans[3]. Similarly, the impact of AI appears to be growing increasingly significant in the field of education.A survey conducted among Chinese university students revealed that 84.88% of respondents had used AI tools, with 16.30% using them frequently[4]. Clearly, using these AI applications or tools requires a certain level of AI literacy, which includes not only the proficiency in using AI tools but also the ethical use of these tools and the ability to  critically  evaluate  their  capabilities  and  limitations. Meanwhile,  these  so-called  digital  natives,  the  college students, show differences in their ability to use digital technologies  like  AI  and  have  fundamentally  different understandings  and  uses  of  these  technologies[5].  The Chinese  government  has  consistently  promoted  the 
+integration of digital technologies, such as big data and AI, with higher education, as reflected in policy documents like "China  Education  Modernization  2035"[6].  As  college students are the main body of higher education, enhancing their  digital  technology  literacy  is  of  great  importance. Given  the  current  popularity  of  AI,  developing  tools  to measure  AI  literacy  among  Chinese  college  students  is crucial, as it helps relevant departments conduct targeted research and training. 
+Previous researchers have conducted extensive studies on digital literacy, which appears similar to AI literacy on the  surface[7]-[10].  However,  digital  literacy  cannot substitute  for  AI  literacy[11].  AI  literacy  is  an interdisciplinary  field  involving  computer  science, psychology, sociology, philosophy, and other disciplines [12]. These intersections highlight the differences between digital literacy and AI literacy, indicating the necessity of conducting  independent  studies  on  AI  literacy.  Some scholars[11],[13]-[15] have explored this field but have yet to reach a unified conclusion. For instance, Wang et al. (2022) proposed an AI literacy framework encompassing awareness, usage, evaluation and ethics, and developed and 
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+VOLUME XX, 2017  1 
+
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+validated  a  12-item  assessment  scale[11].  In  contrast, Laupichler  et  al.  (2023)  developed  an  AI  literacy  scale (SNAIL) for non-AI professionals, including three factors: "Technical  Understanding"  "Critical  Appraisal"  and "Practical  Application"  with  a  total  of  31  items[14]. However,  these  scales  may  not  be  suitable  for  Chinese college students, and most of these studies were conducted in developed countries, with little research focusing on AI literacy among college students in developing countries. The  disparity  in  internet  usage  between  developed  and developing countries[16] further emphasizes the need to develop AI literacy scales tailored to local contexts and specific target groups. Therefore, conducting research on AI  literacy  measurement  in  the  context  of  China  is necessary. 
+Given the significant role of college students' AI literacy in  promoting  the  digital  transformation  and  sustainable development  of  higher  education,  and  addressing  the shortcomings of existing research, developing an effective scale to assess AI literacy skills among Chinese college students is crucial. Identifying gaps and addressing them will significantly enhance AI literacy levels among college students  in  China  and  similar  developing  countries. Therefore, this study aims to explore and validate an AI literacy scale for Chinese college students (AILS-CCS). To achieve this goal, the following steps were taken: 
+1. Conduct  a  literature  review  to  develop  an  initial 
+framework and select items, forming a preliminary item pool. 
+2. Conduct a pilot test and in-depth interviews to refine 
+the proposed framework, resulting in an initial version of the scale. 
+3. Conduct  a  cross-sectional  survey  using  random 
+sampling and perform exploratory factor analysis to refine the factor structure. 
+4. Conduct  confirmatory  factor  analysis  to  test  the 
+stability of the factor structure and the model fit, enhancing the internal and external validity of the model 
+II. Literature Review 
+A. The Connotation of Artificial Intelligence Literacy
+The term "literacy" initially referred to the basic skills and knowledge related to books and printing[17]. However, with the rapid development of computers and digital technologies, many  attempts  have  been  made  to  extend  the  concept  of literacy  beyond  its  original  meaning  of  reading  and writing[18].  Consequently,  discussions  on  literacy  have expanded  to  include  television  literacy[19],  information literacy[20], digital literacy[21], game literacy[18], and media literacy[22]. 
+Artificial intelligence literacy is not a new concept; it is often referred to as AI competency in the literature. Currently, there is no unified definition of AI literacy among scholars, and different scholars have provided various interpretations. Long and Magerko (2020) listed 16 core AI literacy competencies and defined AI literacy as "a set of competencies that enable 
+individuals  to  critically  evaluate  AI  technologies, communicate and collaborate effectively with AI, and use AI as a tool in online, home, and workplace settings"[23]. Ng et al. (2021) pointed out that "learners should not only know how to  use  AI  applications  but  should  also  be  instilled  with fundamental AI concepts for their future careers, as well as the ethical  issues  of  AI  applications,  to  become  responsible citizens"[24]. Wang et al. (2022) proposed that AI literacy refers to the ability to correctly identify, use, and evaluate AI- related  products  in  accordance  with  ethical  standards[11]. Carolus  et  al.  (2023)  stated  that  AI  literacy  covers "competencies needed to interact with AI technology in a self- determined  and  rational  manner"[25].  Pinski  and  Benlian (2023) provided a definition of General AI literacy, describing it  as  "humans'  socio-technical  competence  consisting  of knowledge  regarding  human  and  AI  actors  in  human-AI interaction, knowledge of the AI process steps, that is input, processing, and output, and experience in AI interaction"[26]. Despite these and other attempts to define AI literacy, there is still no clear consensus on which specific skills fall under the umbrella term of AI literacy. However, researchers seem to agree  that  AI  literacy  is  aimed  at  non-experts,  that  is, laypersons who have not received specific training in AI or computer  science.  These  individuals  may  be  classified  as consumers of AI or individuals who interact with AI in a professional  manner[27].  Given  the  ambiguity  of  the definitions, this paper posits that AI literacy for ordinary users without  professional  AI  training  refers  to  the  ability  to correctly understand the basic principles of AI, use AI tools or applications  ethically,  and  critically  evaluate  the  AI  tools themselves or the content generated by these tools. 
+B. Measurement of Artificial Intelligence Literacy 
+Compared  to  the  conceptual  research  on  AI  literacy, measurement research is somewhat lagging and has produced fewer overall results until recent years when AI technology began to be widely applied in people's lives and work. As mentioned above, developing AI literacy measurement tools is crucial for assessing individuals' AI literacy levels, which is essential for conducting digital literacy initiatives and bridging the digital divide, especially as differences in AI literacy levels become a new source of the digital divide. Wang et al. (2022) developed an AI literacy scale that has gained widespread attention  and  citation,  including  four  dimensions: "Awareness" "Usage" "Evaluation" and "Ethics". This scale was developed to measure ordinary users' AI literacy[11]. Laupichler et al. (2023) developed an AI literacy scale for non- experts  (SNAIL),  which  comprises  three  dimensions: "Technical Understanding" "Critical Appraisal" and "Practical Application" with a total of 31 items[14]. Due to the increasing focus on AI literacy and AI education as research topics in recent years[28]-[29], some scholars have begun studying AI literacy among students, but the primary focus has been on secondary school students[15],[30]-[31]. For instance, Ng et al. (2023) developed an AI literacy scale for secondary school 
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+students based on the affective, behavioral, cognitive, and ethical  (ABCE)  model,  which  includes  six  dimensions: intrinsic  motivation,  self-efficacy,  behavioral  intention, behavioral engagement, know and understand, and use and apply AI[15]. However, as mentioned earlier, current research lacks studies assessing AI literacy among college students in developing countries, and effective AI literacy assessment is fundamental  for  conducting  digital  literacy  initiatives  and evaluating the effectiveness of AI education. The purpose of this study is to develop a scale that can effectively measure AI literacy  among  Chinese  college  students,  thereby  helping China  and  other  developing  countries  enhance  AI  literacy among college students and better utilize AI technology. 
+III. Method 
+Based on the classic scale development procedures initially proposed by Churchill (1979)[32] and the subsequent practical applications  in  AI  literacy  scale  development,  this  study followed several fundamental steps for the development and validation of the scale: (1) initial scale construction; (2) formal data collection; (3) exploratory factor analysis (EFA); and (4) confirmatory factor analysis (CFA). 
+The initial scale construction phase primarily included the construction  of  the  AI  literacy  framework,  collection  and organization of the item pool, initial item purification, and pilot  testing.  The  framework  construction  and  item  pool organization  were  based  on  extensive  literature  reviews. Subsequently, we purified the initial items mainly through expert  evaluations.  Following  this,  we  invited  25  Chinese college students to participate in a pilot test and conducted in- depth  interviews  to  assess  the  acceptability  and comprehensibility of the initial questionnaire. Based on the feedback, we further refined the scale, resulting in the initial version of the scale. 
+After constructing the initial scale, formal data collection commenced.  We  conducted  the  survey  through  random sampling, ensuring anonymity and promising respondents that their information would be kept strictly confidential and not used for any illegal purposes. Completing the questionnaire took approximately 3-5 minutes. Ultimately, we collected 493 questionnaires from five universities in Zhejiang Province, China, of which 448 were valid. Following previous research practices, we divided the sample into two parts: sample A and sample  B,  used  for  exploratory  factor  analysis  and confirmatory factor analysis, respectively. 
+During  the  exploratory  factor  analysis  phase,  we  used sample A and applied principal component analysis in SPSS to determine the factor structure, deleting non-compliant items based on certain criteria. In the confirmatory factor analysis phase,  we  used  sample  B  to  validate  the  factor  structure identified in the exploratory factor analysis phase. We utilized AMOS software for the analysis and tested the model fit. Finally, we examined the model's convergent validity and discriminant validity, further demonstrating the rationality of the factor structure. 
+IV. Scale Development Process
+A.Initial Scale Construction
+Based on the AI literacy framework established by Wang et al.[11], we conceptualized an original AI literacy framework comprising four dimensions: Awareness, Usage, Evaluation, and Ethics. Awareness refers to the understanding of AI concepts and basic principles. Usage denotes the ability to use AI in daily life and learning. Evaluation signifies the ability to critically assess AI tools and AI-generated content. Ethics involves the ethical and safe use of AI. 
+We  incorporated  relevant  items  from  previous studies[11],[13]-[15],[23], and adapted some items to fit the local internet environment in China, thereby determining the initial  items  for  the  four  dimensions  of  the  AI  literacy framework. Subsequently, we employed an expert validation approach to purify the initial items, making the following key modifications: first, we removed items that were not suitable for the living and learning characteristics of Chinese college students. Second, we revised items that were inaccurately phrased or prone to causing misunderstandings. 
+Additionally, to further refine the questionnaire design, the authors  conducted  in-depth  interviews  with  a  sample  of college students. Initially, respondents were asked to complete the original version of the questionnaire and were then asked if they could understand all the questions and complete the questionnaire smoothly. The respondents indicated that they could understand all the questions well, but some items needed adjustments to facilitate better responses. For example, the respondents mentioned that they did not adapt well to reverse- worded  items.  Therefore,  we  changed  all  reverse-worded items to positive ones to maintain consistency with the style of other items. For instance, the original item "I am never vigilant about  privacy  and  information  security  issues  when  using artificial intelligence applications or products." was revised to "I am always vigilant about privacy and information security issues  when  using  artificial  intelligence  applications  or products."Next, we randomly selected some tasks from these items and required respondents to perform them on-site during the  interviews  (for  example,  logging  into  AI  tools  and interacting with them) to test the consistency between their self-assessed AI skills and their actual AI skills. We found that the participants' self-reported answers were consistent with their actual behaviors and abilities. After the aforementioned steps, the finalized initial version of the AILS-CCS is shown in Table 1. 
+B. Survey and Sample Statistics
+The  survey  was  conducted  nationwide  through  an  online questionnaire platform. The questionnaire consisted of two parts: the first part covered the demographic characteristics of the respondents, and the second part was a scale measuring the respondents' AI literacy, using a five-point Likert scale. A total of  593  questionnaires  were  collected,  and  after  excluding those with too many missing answers or obvious anomalies, 
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+546  valid  questionnaires  were  obtained,  resulting  in  an effective  response  rate  of  approximately  92.1%.  Table  2 summarizes  the  demographic  characteristics  of  the respondents. 
+To examine the potential factor structure of the scale and the validity and reliability of the corresponding dimensions, we divided the sample into two groups: sample A and sample 
+B. Sample A was used for exploratory factor analysis (EFA) 
+to explore the factor structure of the scale, and sample B was used for confirmatory factor analysis (CFA) to test the factor structure and measurement invariance, thereby improving the validity and model fit. 
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+TABLE 1. Initial Version of AILS-CCS
+ 
+   Item No.  Item Description                                                                                                           Literature
+                                                                                                                                          Sources
+                                                                                                                                             
+   Awareness 
+   1         I understand the definition of artificial intelligence.                                                                    [11],[14],
+                                                                                                                                           [23]
+                                                                                                                                             
+   2         I am familiar with some underlying principles of artificial intelligence (e.g., linear models, decision trees, machine
+              learning).
+              
+   3         I understand how artificial intelligence perceives the world (e.g., seeing, hearing) to perform various tasks. 
+   4         I can distinguish between intelligent devices and non-intelligent devices. 
+   5         I can compare different concepts related to artificial intelligence (e.g., the difference between deep learning and
+              machine learning).
+              
+   6          I understand how artificial intelligence technology can aid my learning and daily life. 
+   Usage 
+   7         I am proficient in using artificial intelligence applications or products.                                               [11],[13],
+                                                                                                                                       [15], [23]
+                                                                                                                                       
+   8         I can use artificial intelligence applications or products to help me solve problems in daily life. 
+   9         I can leverage artificial intelligence for innovation (e.g., proposing innovative solutions or ideas). 
+   10        I can use artificial intelligence applications or products to assist my learning. 
+   11        I can select the most appropriate artificial intelligence application or product for a specific task. 
+   12        I can name some applications or products that use artificial intelligence technology. 
+   Evaluation 
+   13        I can select the appropriate solution from various options provided by artificial intelligence.                          [11],[14] 
+   14        I verify the accuracy of content generated by artificial intelligence when I have doubts about it. 
+   15        I know how to check the reliability of content generated by artificial intelligence. 
+   16        I can evaluate the limitations of different artificial intelligence applications or products. 
+   17        I can identify biases in content generated by artificial intelligence. 
+   18        I remain skeptical or cautious about content generated by artificial intelligence. 
+   Ethics 
+   19        I always adhere to ethical principles when using artificial intelligence applications or products.                         [11],[14],
+                                                                                                                                           [15]
+                                                                                                                                             
+   20        I can describe potential legal issues and try to avoid them when using artificial intelligence applications or products. 
+   21        I am always vigilant about privacy and information security issues when using artificial intelligence applications or
+              products.
+              
+   22        I can critically reflect on the impact of artificial intelligence on individuals and society. 
+   23        I am always alert to the misuse of artificial intelligence technology. 
+
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+C. Exploratory Factor Analysis
+We conducted exploratory factor analysis (EFA) using SPSS 24 to test the proposed factor structure. The Kaiser-Meyer- Olkin (KMO) measure and Bartlett's test of sphericity were used to examine the suitability of the data for factor analysis. A KMO value greater than 0.5 and a significant Bartlett's test indicate that the sample is suitable for principal component analysis[33]. The results showed that the KMO value was 0.855 and Bartlett's test of sphericity was significant (Sig. = 0.000, p < 0.01), indicating that the data were appropriate for EFA. 
+Following  previous  research,  we  adopted  the  principal component  analysis  method  with  maximum  orthogonal rotation and extracted factors with eigenvalues greater than 1. According to previous studies[34], items were deleted based on the following criteria: 
+1. Items with factor loadings less than 0.5 after rotation were 
+deleted. 
+2. Items  that  were  clearly  inconsistent  with  the  factor's 
+meaning were deleted. 
+3. Items  with  high  cross-loadings  (greater  than  0.5)  on 
+multiple factors were deleted. 
+4. Factors with fewer than three items were deleted. 
+TABLE 2. Demographic profile
+                    Sample A                Sample B 
+N           %           N           % 
+Gender 
+male                149         47.9        103         43.8 
+female              162         52.1        132         56.2 
+Grade 
+Freshman year       65          20.9        28          11.9 
+  Sophomore year    99          31.8        85          36.2 
+Junior year         122         39.2        76          32.3 
+Senior year         25          8.0         46          19.6 
+Frequency of AI Usage Per Week 
+0                   35          11.3        22          9.4 
+1-2 times           134         43.1        105         44.7 
+3-4 times           98          31.5        74          31.5 
+ more than 5 times  44          14.1        34          14.5 
+After several rounds of factor analysis, 8 items were deleted, resulting in a scale structure with 15 items and 4 factors. The four extracted factors explained a total variance of 70.14%, exceeding the 60% threshold[35]. Table 3 clearly shows the 
+remaining items that met the criteria and their corresponding factors, with all factor loadings greater than 0.5. 
+TABLE 3. EFA-based factor loadings with oblimin rotation
+  Item     Factor Loadings 
+  Factor 1       Factor 2       Factor 3       Factor 4 
+  17       .791 
+  13       .787 
+  16       .735 
+  18       .717 
+  23                      .823 
+  21                      .821 
+  22                      .773 
+  19                      .659 
+  2                                      .878 
+  3                                      .838 
+  5                                      .681 
+  1                                      .658 
+  8                                                     .868 
+  10                                                    .826 
+  7                                                     .782 
+Note: We extracted factors with initial eigenvalues greater than 1 through principal component analysis and rotated the factors using the Varimax method. 
+Factor 1 includes items 13 “I can select the appropriate solution  from  various  options  provided  by  artificial intelligence.”,  item  16  “I  can  evaluate  the  limitations  of different artificial intelligence applications or products.”, item 17 “I can identify biases in content generated by artificial intelligence.”, and item 18 “I remain skeptical or cautious about content generated by artificial intelligence.” Factor 1 is identified as “Evaluation,” measuring the ability to critically use AI tools and evaluate AI-generated content. 
+Factor  2  includes  items  19  “I  always  adhere  to  ethical principles when using artificial intelligence applications or products.”, item 21 “I am always vigilant about privacy and information security issues when using artificial intelligence applications or products.”, item 22 “I can critically reflect on the  impact  of  artificial  intelligence  on  individuals  and society.”, and item 23 “I am always alert to the misuse of artificial intelligence technology.” Factor 2 is identified as “Ethics,”  measuring  the  ethical  standards  of  using  AI applications or products and the ability to protect personal safety. 
+Factor 3 includes items 1 “I understand the definition of artificial  intelligence.”,  item  2  “I  am  familiar  with  some underlying  principles  of  artificial  intelligence  (e.g.,  linear models,  decision  trees,  machine  learning).”,  item  3  “I 
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+understand how artificial intelligence perceives the world (e.g., seeing, hearing) to perform various tasks.”, and item 5 “I can compare different concepts related to artificial intelligence (e.g.,  the  difference  between  deep  learning  and  machine learning).” Factor 3 is identified as “Awareness,” measuring the understanding of AI concepts and basic principles. 
+Factor 4 includes items 7 “I am proficient in using artificial intelligence  applications  or  products.”,  item  8  “I  can  use artificial intelligence applications or products to help me solve problems  in  daily  life.”,  and  item  10  “I  can  use  artificial intelligence applications or products to assist my learning.” Factor 4 is identified as “Usage,” measuring the ability to proficiently use AI in daily life. 
+D. Confirmatory Factor Analysis
+To validate the factor structure identified in the exploratory factor  analysis,  confirmatory  factor  analysis  (CFA)  was conducted using AMOS 24.0 software with the maximum likelihood estimation method. The model fit was evaluated using model fit indices. The model and fit results are shown in Figure 1. 
+
+FIGURE 1. Confirmatory Factor Analysis Fit Results of 
+AILS-CCS 
+Based  on  the  suggestions  by  Hair  et  al.[35],  this  study selected relevant fit indices to assess the model's fit, focusing on absolute fit indices (CMIN/df, RMSEA) and incremental fit indices (NFI, CFI)[36]. The chi-square value (CMIN) is an indicator for judging the overall model fit, used to assess the difference  between  the  sample  covariance  matrix  and  the theoretical  model  covariance  matrix.  A  smaller  CMIN indicates a better fit between the theoretical model and the actual data. The ratio of chi-square to degrees of freedom (CMIN/df)  should  be  less  than  3,  indicating  a  good  fit. RMSEA (Root Mean Square Error of Approximation) values between 0.05 and 0.08 represent a good fit. NFI (Normed Fit Index) and CFI (Comparative Fit Index) values greater than 0.9 indicate a good fit. The test results are shown in Table 4, demonstrating that all model fit indices meet the fit criteria, indicating a good model fit. 
+TABLE 4. Model Fit Results 
+     Measure             Threshold                    Estimate 
+     CMIN                —                            198.063 
+     /                   Between1 and 3               2.358 
+     RMSEA               <0.08                        0.076 
+     CFI                 >0.9                         0.941 
+     NFI                 >0.9                         0.903 
+Note:  CMIN=  chi-square  value;  df=  degree  of  freedom; RMSEA = Root Mean Square Error of Approximation; CFI = Comparative  Fit  Index;  NFI  =  Normed  Fit  Index.
+/ values  between  1  and  3,  RMSEA  values  less than  .08,  CFI  and  NFI  values  greater  than  .900  suggest adequate model fit. 
+TABLE 5. Confirmatory Factor Analysis Results
+ Dimension      Item      Std.             CR           AVE 
+                           Coefficients
+                           
+ Awareness      AW1       0.65             0.849        0.587 
+ AW2       0.83 
+ AW3       0.84 
+ AW4       0.73 
+ Usage          US1       0.75             0.862        0.676 
+ US2       0.87 
+ US3       0.84 
+ Evaluation     EV1       0.73             0.868        0.622 
+ EV2       0.86 
+ EV3       0.81 
+ EV4       0.75 
+ Ethics         ET1       0.74             0.890        0.669 
+ ET2       0.84 
+ ET3       0.83 
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+
+ 
+                ET4       0.86 
+For  discriminant  validity,  it  is  generally  determined  by Next, the composite reliability, convergent validity, and  whether the correlation coefficients between a factor and other discriminant  validity  of  the  scale  were  further  tested.  factors are less than the square root of its AVE value[40]. As Generally, a composite reliability greater than 0.700 indicates  shown in Table 6, the correlation coefficients between all good composite reliability of the sample data[37]. As shown  factors and other factors are less than the square root of their in Table 5, the composite reliability of the five factors is all  respective AVE values, indicating that the scale has good greater  than  0.700,  indicating  that  the  scale  has  strong  discriminant validity. 
+reliability.  Convergent  validity  is  typically  judged  by  the 
+following criteria: standardized factor loadings are all greater  E. Analysis of Demographic Influences on AILS-CCS 
+To  further  analyze  the  differences  in  AI  literacy  among than 0.500[38]; average variance extracted (AVE) is greater 
+Chinese college students based on demographic factors, we than 0.500[39]-[40]; and composite reliability (CR) is greater 
+conducted an ordinary least squares (OLS) regression analysis than 0.700[37]. If all these conditions are met, the sample data 
+on Sample B to examine the relationship between the scores are considered to have good convergent validity. The analysis 
+of each AI literacy sub-dimension and demographic variables. results show that the factor loadings of all items are higher than 
+The regression results are shown in Table 7.  
+0.500, the composite reliability of the factors is greater than 
+In the dimensions of AI Awareness, Usage, and Evaluation, 0.700,  and  the  AVE  values  are  all  greater  than  0.500. 
+we found that the coefficients for gender were significantly Therefore, the scale is considered to have good convergent 
+positive, indicating that male college students tend to score 
+validity. 
+higher in AI Awareness, Usage, and Evaluation. This also TABLE 6. Discriminant Validity Analysis Results suggests  that  male  students  have  better  abilities  in 
+                 Awareness       Usage      Evaluation      Ethics 
+ Awareness       0.766 
+ Usage           0.405           0.822 
+ Evaluation      0.383           0.526      0.789 
+ Ethics          0.152           0.489      0.416           0.818 
+understanding, using, and evaluating AI compared to female 
+students. There were no significant differences between male 
+and female students in AI Ethics. 
+Notably,  the  frequency  of  AI  usage  was  significantly positively correlated with all four dimensions, indicating that higher frequency of AI usage is associated with higher overall AI literacy. 
+Note: The values on the diagonal of the table are the square 
+roots of the AVE values for the corresponding dimensions. 
+TABLE 7.  Regression Analysis: AILS-CCS and Demographics. 
+                        Awareness                      Usage                         Evaluation                     Ethics 
+                 t                             t                             t                             t 
+ Gender                 0.135*          2.345         0.117*          2.135         0.202***        3.820         0.111           1.763 
+ Grade                  -0.059          -1.130        -0.024          -0.481        0.036           0.754         0.048           0.843 
+ AI use                 0.532***        9.221         0.593***        10.786        0.570***        10.772        0.425***        6.726 
+ F                      44.030***                      56.513***                     66.897***                      23.837*** 
+ Adjusted R2            0.356                          0.416                         0.458                          0.226 
+Note: *P<0.05,**p<0.01,***p<0.001 
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+V. Discussion 
+A .Major Findings 
+In recent years, research in the field of artificial intelligence has rapidly advanced. More and more scholars are beginning to consider the prerequisites and influencing factors for using AI  technologies,  with  AI  literacy  being  a  critical  aspect. However, there is a need for more theoretical knowledge and reliable, effective tools to measure developments in this area. In our current contribution, we propose a thoroughly tested scale to measure AI literacy among Chinese college students, 
+which is considered a key component in promoting digital inclusion. 
+The development of the scale began with a critical review of existing literature, ensuring that all proposed items were well-established  in  previous  research.  Additionally,  we avoided  items  related  to  specific  platforms  or  activities, allowing these items to be used for a considerable amount of time, as they do not depend on the type of activity or platform. Meanwhile, we optimized the initial item pool through expert validation  and  focus  group  interviews,  discussing  the acceptability  of  the  questionnaire.  We  then  conducted Confirmatory Factor Analysis (CFA) to refine the item factors and used Exploratory Factor Analysis (EFA) to verify the 
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+factor  structure  and  test  model  fit,  while  also  validating convergent and discriminant validity. The final version of the AILS-CSS, as shown in Table 8, includes four dimensions with  15  items.  Specifically,  the  "Awareness"  dimension (comprising  items  1,  2,  3,  and  5)  assesses  students' understanding of the definition and basic principles of AI; the "Usage" dimension (comprising items 7, 8, and 10) evaluates the  ability  to  use  AI  tools  (such  as  ChatGPT  and  Baidu Wenxin Yiyan) to assist learning or solve daily problems; the "Evaluation" dimension (comprising items 13, 16, 17, and 18) 
+measures the ability to critically evaluate AI-generated content and assess the limitations of the tools themselves; and the "Ethics" dimension (comprising items 19, 21, 22, and 23) assesses  adherence  to  ethical  standards  and  the  ability  to safeguard against security risks (such as privacy breaches) when using AI products. 
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+Table 8. Final Version of AILS-CCS (Including 15 Items)
+    Dimension          Item       Description                                                                                      Loadings 
+    Awareness          AW1        I understand the definition of artificial intelligence.                                          0.65 
+    AW2         I am familiar with some underlying principles of artificial intelligence (e.g., linear models,  0.83 
+                decision trees, machine learning).
+                
+    AW3        I understand how artificial intelligence perceives the world (e.g., seeing, hearing) to perform  0.84 
+                various tasks.
+                
+    AW4         I  can  compare  different  concepts  related  to  artificial  intelligence  (e.g.,  the        0.73 
+                difference between deep learning and machine learning).
+                
+    Usage              US1         I am proficient in using artificial intelligence applications or products.                      0.75 
+    US2        I can use artificial intelligence applications or products to help me solve problems in daily    0.87 
+                life.
+                
+    US3         I can use artificial intelligence applications or products to assist my learning.               0.84 
+    Evaluation         EV1        I can select the appropriate solution from various options provided by artificial intelligence.  0.73 
+    EV2        I can evaluate the limitations of different artificial intelligence applications or products.    0.86 
+    EV3        I can identify biases in content generated by artificial intelligence.                           0.81 
+    EV4         I remain skeptical or cautious about content generated by artificial intelligence.              0.75 
+    Ethics             ET1        I always adhere to ethical principles when using artificial intelligence applications or         0.74 
+                                   products.
+                                   
+    ET2        I am always vigilant about privacy and information security issues when using artificial         0.84 
+                intelligence applications or products.
+                
+    ET3        I can critically reflect on the impact of artificial intelligence on individuals and society.    0.83 
+    ET4        I am always alert to the misuse of artificial intelligence technology.                           0.86 
+ 
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+We also found that factors such as gender and the frequency of AI tool usage significantly affect AI literacy levels among college  students.  Specifically,  male  students  scored significantly higher than female students in the dimensions of AI Awareness, AI Usage, and AI Evaluation. This could be due  to  actual  differences  in  computer  technology  skills between  genders,  or  it  might  be  that  females  tend  to underestimate their digital abilities[41]-[42]. This is an issue 
+that future research should explore, particularly whether these differences  might  impact  behavioral  outcomes  between different gender groups in an AI-driven society. Additionally, the frequency of AI product usage significantly enhances AI literacy levels, aligning with previous studies on social media literacy[43] and digital health literacy[44], which concluded that the more frequently digital technologies are used, the higher the associated literacies. 
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+In a future AI society, it is crucial to improve the AI literacy of every college student. Therefore, we believe that the scale developed in this study is of great significance for promoting the digital transformation of higher education. It also holds substantial value for bridging the digital divide, ensuring that every student can benefit from AI technologies. This scale can provide  universities  with  an  effective  tool  to  understand students'  AI  literacy  levels  and  aid  in  evaluating  the effectiveness of AI education. Universities can use the specific scores from the four dimensions of this scale to implement differentiated training, thereby improving training efficiency. 
+B.Practical Implications 
+To  comprehensively  enhance  the  AI  literacy  of  university students,  institutions  of  higher  education  can  implement  a series of systematic and comprehensive measures across four dimensions of AI literacy. Firstly, enhancing AI awareness is crucial.  Universities  should  offer  courses  such  as "Introduction to Artificial Intelligence" that cover basic AI concepts, principles, and application scenarios to effectively strengthen  students'  foundational  knowledge  of  AI. Additionally, regularly organizing lectures and seminars that introduce cutting-edge AI technologies and applications can help students stay abreast of technological advancements and broaden their horizons. In terms of improving AI usage skills, universities  should  encourage  students  to  use  AI  tools reasonably and provide corresponding training and guidance. However, it is also essential to establish regulatory systems to ensure students use AI technology within reasonable limits, maintaining academic integrity, and avoiding over-reliance on AI, which could affect their autonomous learning capabilities. To strengthen AI evaluation skills, universities can use case studies and specialized assessment projects to teach students how to evaluate the effectiveness and potential risks of AI applications, thereby enhancing their evaluation capabilities. In  the  realm  of  AI  ethics  education,  universities  should emphasize the ethical and safety education related to artificial intelligence, ensuring that students adhere to relevant ethical standards and legal regulations while using AI technologies, and  increasing  their  awareness  of  privacy  protection  and ethical standards. 
+While  enhancing  the  overall  AI  literacy  of  university students, special attention should be given to particular groups such as female students, implementing targeted measures to help them improve their AI literacy. As the research results indicate,  female  students  exhibit  disadvantages  in  AI awareness, usage, and evaluation. This may be due to their insufficient grasp of AI principles or a lack of confidence in information technologies such as AI. Therefore, universities should provide personalized support, establish special tutoring classes for female students, and offer more learning resources and support to help them improve their understanding and evaluation capabilities of AI. A mentorship system could be established,  where  mentors  guide  female  students  through their challenges and questions in AI learning. Furthermore, 
+universities  should  create  more  opportunities  for  female students to interact with and use AI technologies, encouraging them to actively participate in AI-related clubs and community activities to increase their interest and engagement in AI and boost their self-efficacy. By implementing these practical and feasible measures, universities can ensure that every student benefits from the advancements brought by AI technologies. This approach not only facilitates the digital transformation of higher  education  but  also  helps  bridge  the  digital  divide, promoting  equitable  access  to  artificial  intelligence technologies[45]. 
+Meanwhile, it is essential to regularly assess AI literacy among  university  students.  Only  by  understanding  which aspects of AI literacy students score lower on can targeted training  be  effectively  conducted.  When  conducting assessments, it is recommended to use this scale flexibly and make adjustments based on the discipline or major of the individuals being assessed, as the AILS-CCS scale developed in this study is intended for general college students rather than students in specific fields. 
+C. Limitations and Further Research
+This study has certain limitations that need to be addressed in future research. First, although the development process of  AILS-CCS  was  informed  by  extensive  literature  and research  frameworks,  it  cannot  be  guaranteed  that  these sources encompass all aspects of AI literacy. There may still be unidentified areas of knowledge, indicating that much work  remains  to  be  done  on  this  topic.  Although  this questionnaire  is  relatively  comprehensive,  it  currently includes only four dimensions. As AI technology continues to evolve, additional issues may arise that require attention. Therefore,  future  research  should  strive  to  expand  the dimensions and items of the AI literacy scale and ensure that the scale is continuously updated. 
+Secondly, the AILS-CCS questionnaire is based on self- assessment  by  respondents,  but  a  limitation  of  self- assessment  questionnaires  is  that  the  results  may  be influenced by the subjective biases of the respondents. Thus, it is important to not only develop subjective scales but also to  create  objective  scales,  such  as  using  true/false  or multiple-choice  questions  to  measure  respondents'  AI literacy levels. Additionally, this study primarily employed questionnaire surveys; future research may need to explore other  methodologies.  For  example,  experimental  testing methods under controlled conditions could be used to collect data for the scale, and the structure and items of the scale could be optimized based on experimental data. 
+Finally, this scale was developed based on a sample of Chinese university students, and future research needs to translate the scale into other languages to test its applicability in different linguistic and cultural contexts. This would help enhance the international applicability of the scale. Ensuring measurement invariance is an important condition for using AILS-CCS  cross-linguistically  and  culturally.  It  is  also important to note that this scale was not developed for a specific population, and we recommend that it be used only 
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+for  measuring  AI  literacy  in  general  university  student populations. 
+VI. Conclusion 
+In the AI era, AI literacy has become a fundamental skill and essential literacy for citizens. As digital natives, enhancing AI literacy among college students plays a vital role in promoting the sustainable development of higher education. Conducting AI literacy training is an important way to enhance college students'  AI  literacy,  and  scientifically  and  effectively assessing college students' AI literacy levels is the foundation for digital literacy initiatives. Therefore, developing an AI literacy scale for college students is crucial. 
+The main contribution of this study is the development and validation of an AI literacy scale for Chinese college students (AILS-CCS),  enriching  the  research  on  AI  literacy  in  the context of developing countries. We primarily employed four steps to achieve the research objectives. The first step was the initial scale construction, mainly through a literature review to build a preliminary framework and initial item pool. Then, expert evaluations, pilot testing, and in-depth interviews were used to modify and refine the initial items, forming the first version of the AILS-CCS. We ensured that all suggested items genuinely reflected the AI literacy of college students. The second  step  involved  formal  survey  sampling,  with  valid questionnaires  being  divided  into  samples  A  and  B  for subsequent  analysis  and  validation.  The  third  step  was conducting exploratory factor analysis to refine the potential scale  structure  and  related  items.  The  fourth  step  was confirmatory  factor  analysis  to  test  the  consistency  of  the factor structure and to examine the model's convergent and discriminant validity. Through these steps, this study proposed a  reliable  AILS-CCS,  which  consists  of  four  dimensions: Awareness, Usage, Evaluation, and Ethics, encompassing 15 items. This represents an original contribution to the field of AI  research  in  developing  countries,  and  the  scale  holds significant  theoretical  and  practical  implications  for  the assessment, training, and enhancement of AI literacy among college students in developing countries in the future. 
+REFERENCES 
+[1] X. Zhai, X. Chu, C. S. Chai, M. S. Y. Jong, A. Istenic, M. Spector, J.-
+B. Liu, J. Yuan, and Y. Li, "A review of artificial intelligence (AI) in education from 2010 to 2020," Complexity, vol. 2021, pp. 1–18, 2021. doi: 10.1155/2021/8812542. 
+[2] S. Reddy, J. Fox, and M. P. Purohit, "Artificial intelligence-enabled healthcare delivery," J. R. Soc. Med., vol. 112, no. 1, pp. 22–28, Jan. 2019. doi: 10.1177/014107681881551. 
+[3] P. Gupta and M. K. Pandey, Role of AI for Smart Health Diagnosis and  Treatment,  in  Smart  Medical  Imaging  for  Diagnosis  and Treatment Planning, Chapman and Hall/CRC, 2024, pp. 23-45. 
+[4] China Youth Daily, "Over 80% of surveyed college students have used AI  tools,"  [Online].  Available: https://baijiahao.baidu.com/s?id=1782763724373222422&wfr=spide r&for=pc. Accessed on: May 5, 2024. 
+[5] A. Hernández-Martín, M. Martín-del-Pozo, and A. Iglesias-Rodríguez, "Pre-adolescents’  digital  competences  in  the  area  of  safety.  Does 
+frequency of social media use mean safer and more knowledgeable digital usage?" Educ. Inf. Technol., vol. 26, no. 1, pp. 1043-1067, 2021. 
+[6] Central Committee of the Communist Party of China and the State Council, "China Education Modernization 2035," [Online]. Available: https://hxzyrz.hnnu.edu.cn/_upload/article/files/4e/63/7371e2004767 84ecb791bb19dd54/098b7518-30b8-4983-83b4-8b4ffc1c933e.pdf. Accessed on: May 5, 2024. 
+[7] A. J. A. M. Van Deursen, E. J. Helsper, and R. Eynon, "Development and validation of the Internet Skills Scale (ISS)," Inf. Commun. Soc., vol. 19, pp. 804-823, 2016. 
+[8] F.  Siddiq,  P.  Gochyyev,  and  M.  Wilson,  "Learning  in  Digital Networks–ICT literacy: A novel assessment of students' 21st century skills," Comput. Educ., vol. 109, pp. 11-37, 2017. 
+[9] M.  Ghomi  and  C.  Redecker,  "Digital  Competence  of  Educators (DigCompEdu): Development and Evaluation of a Self-assessment Instrument for Teachers' Digital Competence," CSEDU, pp. 541-548, 2019. 
+[10] X. Li and R. Hu, "Developing and validating the digital skills scale for school children (DSS-SC)," Inf. Commun. Soc., vol. 25, pp. 1365- 1382, 2020. 
+[11] B. Wang, P. L. P. Rau, and T. Yuan, "Measuring user competence in using  artificial  intelligence:  Validity  and  reliability  of  artificial intelligence  literacy  scale,"  Behav.  Inf.  Technol.,  2022.  doi: 10.1080/0144929X.2022.2072768. 
+[12] S. Russel and P. Norvig, Artificial Intelligence: A Modern Approach, 3rd ed. Upper Saddle River, NJ, USA: Prentice-Hall, 2010. 
+[13] A. Carolus, et al., "MAILS-Meta AI literacy scale: Development and testing  of  an  AI  literacy  questionnaire  based  on  well-founded competency  models  and  psychological  change-and  meta- competencies," Comput. Human Behav.: Artif. Humans, vol. 1, no. 2, 2023, Art. no. 100014. 
+[14] M.  C.  Laupichler,  A.  Aster,  N.  Haverkamp,  and  T.  Raupach, "Development of the “scale for the assessment of non-experts’ AI literacy”–An exploratory factor analysis," Comput. Human Behav. Rep., vol. 12, 2023, Art. no. 100338. 
+[15] D. T. K. Ng, W. Wu, J. K. L. Leung, and S. K. W. Chu, "Artificial intelligence  (AI)  literacy  questionnaire  with  confirmatory  factor analysis," in Proc. IEEE Int. Conf. Adv. Learn. Technol., 2023, pp. 233-235. 
+[16] H. Ç. Bal, C. Kalayci, and S. Artan, "Farklı Gelir Grubuna Sahip Ülkelerde Dijital Bölünmenin Boyutu ve Belirleyicileri [The size and determinants  of  digital  divide  in  countries  of  different  income groups],"  Uluslararası  Ekon.  Yenilik  Dergisi,  vol.  1,  pp.  107-123, 2015. 
+[17] S.  McMillan,  "Literacy  and  computer  literacy:  Definitions  and comparisons," Comput. Educ., vol. 27, no. 3-4, pp. 161-170, 1996. 
+[18] D. Buckingham and A. Burn, "Game literacy in theory and practice," 
+J. Educ. Multimedia Hypermedia, vol. 16, no. 3, pp. 323-349, 2007. 
+[19] D. Buckingham, "Television literacy: A critique," Radical Philos., vol. 51, pp. 12-25, 1989. 
+[20] M.  B.  Eisenberg,  "Information  literacy:  Essential  skills  for  the information age," DESIDOC J. Lib. Inf. Technol., vol. 28, no. 2, 2008. 
+[21] P. Gilster and P. Glister, Digital Literacy, New York, NY, USA: Wiley Computer Pub., 1997. 
+[22] S. Livingstone, "Media literacy and the challenge of new information and communication technologies," Commun. Rev., vol. 7, no. 1, pp. 3-14, 2004. 
+[23] D. Long and B. Magerko, "What is AI literacy? Competencies and design considerations," in Proc. CHI Conf. Human Factors Comput. Syst., pp. 1-16, Apr. 2020. 
+[24] D. T. K. Ng, J. K. L. Leung, K. W. S. Chu, and M. S. Qiao, "AI literacy: Definition, teaching, evaluation and ethical issues," Proc. Assoc. Inf. Sci. Technol., vol. 58, no. 1, pp. 504–509, 2021. doi: 10.1002/pra2.487. 
+[25] A.  Carolus,  Y.  Augustin,  A.  Markus,  and  C.  Wienrich,  "Digital interaction literacy model–Conceptualizing competencies for literate interactions  with  voice-based  AI  systems,"  Comput.  Educ.:  Artif. Intell., vol. 4, p. 100114, 2023. 
+[26] M. Pinski, M. Adam, and A. Benlian. (2023, Apr). AI knowledge: Improving  AI  delegation  through  human  enablement.  presented  at Proc. 2023 CHI Conf. Human Factors Comput. Syst. 
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+[27] F. Faruqe, R. Watkins, and L. Medsker, "Competency model approach to AI literacy: Research-based path from initial framework to model," arXiv preprint arXiv:2108.05809, 2021. 
+[28] M. Kandlhofer, G. Steinbauer, S. Hirschmugl-Gaisch, and P. Huber, "Artificial  intelligence  and  computer  science  in  education:  From kindergarten to university," in Proc. IEEE Front. Educ. Conf., pp. 1-9, Oct. 2016. 
+[29] D. Cetindamar, et al., "Explicating AI literacy of employees at digital workplaces," IEEE Trans. Eng. Manage., 2022. 
+[30] I. Lee, S. Ali, H. Zhang, D. DiPaola, and C. Breazeal, "Developing middle  school  students'  AI  literacy,"  in  Proc.  ACM  Tech.  Symp. Comput. Sci. Educ., pp. 191-197, Mar. 2021. 
+[31] S. W. Kim and Y. Lee, "The artificial intelligence literacy scale for middle school students," J. Korea Soc. Comput. Inf., vol. 27, no. 3, pp. 225-238, 2022. 
+[32] G. A. Churchill Jr., "A paradigm for developing better measures of marketing constructs," J. Mark. Res., vol. 16, pp. 64-73, 1979. 
+[33] A. Field, Discovering Statistics Using IBM SPSS Statistics, Sage, 2013. 
+[34] J. C. Nunnally, Psychometric Theory, 2nd ed., New York, NY, USA: McGraw-Hill, 1978. 
+[35] F. Hair, W. C. Black, B. J. Babin, et al., Multivariate Data Analysis: A Global Perspective, New York, NY, USA: Pearson Educ. Int., 2010. 
+[36] D.  Hooper,  J.  Coughlan,  and  M.  R.  Mullen,  "Structural  equation modelling: Guidelines for determining model fit," Electron. J. Bus. Res. Methods, vol. 6, pp. 53-60, 2008. 
+[37] R. P. Bagozzi and S. K. Kimmel, "A comparison of leading theories for the prediction of goal-directed behaviours," Br. J. Soc. Psychol., vol. 34, pp. 437-461, 1995. 
+[38] R. Bailey and S. Ball, "An exploration of the meanings of hotel brand equity," Serv. Ind. J., vol. 26, pp. 15-38, 2006. 
+[39] R. P. Bagozzi and Y. Yi, "On the evaluation of structural equation models," J. Acad. Mark. Sci., vol. 16, pp. 74-94, 1988. 
+[40] C. Fornell and D. F. Larcker, "Evaluating structural equation models with unobservable variables and measurement error," J. Mark. Res., vol. 18, pp. 39-50, 1981. 
+[41] E. Hargittai and S. Shafer, "Differences in actual and perceived online skills: The role of gender," Soc. Sci. Q., vol. 87, no. 2, pp. 432-448, 2006. 
+[42] Y. J. Park, "My whole world’s in my palm! The second-level divide of teenagers’ mobile use and skill," New Media Soc., vol. 17, no. 6, pp. 977-995, 2015. 
+[43] E. C. Tandoc Jr., et al., "Developing a perceived social media literacy scale: Evidence from Singapore," Int. J. Commun., vol. 15, Art. no. 22, 2021. 
+[44] S. Liu, et al., "Current status and influencing factors of digital health literacy among community-dwelling older adults in Southwest China: a cross-sectional study," BMC Public Health, vol. 22, Art. no. 996, 2022. 
+[45] H.  Abuhassna,  et  al.,  "The  Information  Age  for  Education  via Artificial  Intelligence  and  Machine  Learning:  A  Bibliometric  and Systematic Literature Analysis," Int. J. Inf. Educ. Technol., vol. 14, no. 5, 2024. 
+Zhenzhen Chen received her master's degree in statistics from Iowa State University, in 2019. She is currently an engineer at Institute  of  big  data,  Fudan  University.  She  has participated  in  numerous  AI-related  research projects,  gaining  extensive  experience.  Her research  interests  include  data  analysis, quantitative  analysis,  sample  survey,  small  area 
+estimate.M  
+
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3468378
+Shuai  Ma  received  his  Ph.D.  degree  from 
+Zhejiang  Gongshang  University  in  2020.  Since 
+2020,  he  has  been  a  lecturer  at  the  School  of 
+International  Business  at  Zhejiang  Yuexiu 
+University of Foreign Languages, where he also 
+serves as the head of the Department of Business 
+Administration.  He  has  led  two  provincial  and 
+ministerial-level projects and has published several 
+papers  in  international  journals.  His  research 
+interests  include  digital  economy  and  artificial 
+intelligence. 
+8  VOLUME XX, 2017 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4.0/
