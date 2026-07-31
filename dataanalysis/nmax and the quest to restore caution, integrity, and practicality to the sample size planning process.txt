@@ -1,0 +1,872 @@
+﻿Psychological Methods
+nmax and the Quest to Restore Caution, Integrity, and Practicality to the Sample Size Planning Process
+Gregory R. Hancock and Yi Feng
+Online First Publication, August 11, 2025. https://dx.doi.org/10.1037/met0000776
+CITATION
+Hancock, G. R., & Feng, Y. (2025). nmax and the quest to restore caution, integrity, and practicality to the sample size planning process. Psychological Methods. Advance online publication. https://dx.doi.org/ 10.1037/met0000776 
+
+Psychological Methods
+' 2025 American Psychological Association
+ISSN: 1082-989X https://doi.org/10.1037/met0000776
+nmax and the Quest to Restore Caution, Integrity, and Practicality to the Sample Size Planning Process
+Gregory R. Hancock1 and Yi Feng2
+1 Department of Human Development and Quantitative Methodology, University of Maryland 2 Department of Psychology, University of California, Los Angeles
+Abstract
+In a time when the alarms of research replicability are sounding louder than ever, mapping out studies with statistical and inferential integrity is of paramount importance. Indeed, funding agencies almost always require grant applicants to present compellinga priori power analyses to justify proposed sample sizes, as a critical part of the information considered collectively to ensure a sound investment. Unfortunately, even researchers  most sincere attempts at sample size planning are fraught with the fundamental challenge of setting numerical values not just for the focal parameters for which statistical tests are planned, but for each of the model s other, more peripheral or contextual parameters as well. As we plainly demonstrate, regarding the latter parameters, even in verysimple models, anyslight deviation in well-intentioned numer- icalguessescanunderminepower forthe assessment ofthe more focalparametersthat are ofkeytheoretical interest. Toward remedying this all-too-common but seemingly underestimated problem in power analysis, we adopt a hope-for-the-best-but-plan-for-the-worst mindset and present new methods that attempt to (a) restoreappropriateconservatism androbustness, andinturncredibility, to the samplesizeplanningprocess, and(b)greatlysimplifythatprocess.Derivationsandsuggestionsforpractice arepresentedusingtheframe- workofmeasuredvariablepathanalysismodelsastheysubsumemanyofthetypesofmodels(e.g.,multiple linear regression, analysis of variance) for which sample size planning is of interest.
+Translational Abstract
+Among the many critical decisions when planning a study is the number of subjects to be sampled. From a statisticalperspectivethebasisforsuchadecisionistoachieveadequatepower,thatis,togatherenoughdata to have an acceptably high probability of detecting the variable effects or relations of primary theoretical interest. A key challenge in doing so, however, is accurately anticipating the context in which those exist. Focal variables  relations with covariates, for example, while not necessarily of keen interest, if set inaccu- rately can result in a study with inadequate sample size, and in turn little power to detect those effects or relationsthat areofinterest.Andyet it isvirtuallyimpossible tohave sufficientlypertinentprior information with which to foretell that context, leaving researchers tofill gaps in their knowledge with little more than wishful thinking. The current work seeks to address this long-standing challenge, proposing an insurance policy of sorts in which contextual relations are numerically consolidated and then set conservatively, thereby helping researchersto plan for sample sizesthat are robust to unanticipated and unfavorable contex- tual conditions, and ensuring statistical power to detect the focal effects and relations of theoretical importance.
+Keywords:power analysis, sample size planning, measured variable path analysis, structural equation modeling, multiple linear regression
+
+Poweranalysishaslostitsway.Tobespecific,wearenotspeaking of the post hoc variety whereby statistical tests already conducted (and which usually failed to yield statistical significance) are used
+Samantha F. Anderson served as action editor.
+Gregory R. Hancockhttps://orcid.org/0000-0002-6313-006X
+Versions of this work have been presented at the Annual Meeting of the American Educational Research Association, the Modern Modeling Methods Conference, the Meeting of the Society of Multivariate Experimental Psychology, and by invitation at numerous universities nationally and interna- tionally. We are most grateful to Fred Oswald, Roy Levy, Ethan McCormick, and Dan McNeish for their helpful comments on earlier versions of this work. Patrick Curran also provided comments. The authors have no known conflicts
+to estimate their own (inadequate) statistical power. Such a post- mortem examination  as Fisher (1938) famously referred to it, and many others have since echoed (e.g., Hoenig & Heisey, 2001;
+of interest to disclose.
+Gregory R. Hancock served as lead for conceptualization and writing original draft. Yi Feng served in a supporting role for conceptualization and writing  original draft. Gregory R. Hancock and Yi Feng contributed equally to methodology.
+Correspondence concerning this article should be addressed to GregoryR. Hancock,DepartmentofHumanDevelopmentandQuantitativeMethodology, University of Maryland, 1230D Benjamin Building, 3942 Campus Drive, College Park, MD 20742-1115, United States. Email: ghancock@umd .edu
+
+1
+
+3 HANCOCK AND FENG
+Maxwell, 2004; Yuan & Maxwell, 2005), is well known to be fraught with problems, not the least of which is quite simply that the study is over  the patient has already died. Rather, here we use the term power analysis in reference to its more useful a priori form, also known as sample size planning, in which a researcher attempts to estimate ahead of the study what sample size should beadequate inorder tohave somedesiredlevelof powerfor the stat- istical tests aimed at addressing the research questions of key theo- retical interest. It is this a priori power analysis, this sample size planning, that we believe has lost its way.
+In making this as-yet unjustified statement, we in no way wish to diminish the decades of methodological work that have extended the process of sample size planning to models and analyses of increasing complexity (see, e.g., Chattopadhyay et al., 2025; Donnelly et al., 2023; Feng & Hancock, 2021, 2023; Hancock, 2001; Hedges & Pigott, 2001, 2004; Mathieu et al., 2012; Moerbeek, 2022; Thoemmes et al., 2010; Tu et al., 2004; Wolf et al., 2013; Zhang, 2014) and that have attempted to make that process more accessible to applied researchers through dedicated software (e.g., G*Power, Faul et al., 2007; semPower, Moshagen & Bader, 2024; for a more comprehensivelistseeFeng&Hancock,2023).Allofthisworkiscrit- ically important methodologically and practically, and we hope it con- tinues to flourish and reach the widest audience possible.
+Inordertounderstandourconcernwithpoweranalysis,letusstart byturningtheclockback,say,40years,toatimewhenbeingversed in power analysis meant that one was armed with a well-worn copy of Cohen sclassic treatise (e.g.,the1977 revised edition or the1988 second edition). If you wished to conduct sample size planning for
+an independent samplest test, aχ2 test of independence, ora host of other statistical tests with no broader variable-related or data-related context (e.g., covariates, complex samples), all you had to do was choose your test s intended Type I error rate (e.g., α = .05), the desired level of power (e.g., π= .80), and the target effect size (e.g., Cohen s d= 0.20), and then turn to the appropriate table to reveal the necessaryn (under standard distributional assumptions). And this was important not just statistically, but ideologically: it embodied the beliefs that science worth doing is worth planning for carefully, and that sample size is an investment  an insurance policy, so to speak  to guard against a potentially wasteful research endeavor. But alas, as foundational and grounding asthis work was, when you step off the bus today clutching your copy of Cohen and gazewide-eyedatthestatisticalskyscrapersallaroundyou,itisclear that life is no longer so simple.
+Considerasagenericstartingexampleafairlytypicalmultiplelin- ear regression model with a continuous outcomeYand four contin- uous predictors, whereXis a predictor whose partial slope withYis of focal research interest, and the remaining three predictors/ covariates C1, C2, and C3 are control variables that set the context for addressing the primary research question (e.g., demographics such as family income and parents  education level).1 Expressed
+in standardized form for simplicity, the linear model isY= γX+ β1C1 + β2C2 + β3C3 + ɛ, where for this example the parameter for whichsamplesizeplanningisdesiredisγ.Aftersettingtheintended α level for the statistical test ofγ (e.g., .05), as well as the target power level π (e.g., .80), the task turns to the variable relations.
+The relation of primary importance, that for which the study wishes to have sufficient power, is γ. Let us assume that the researcher, by whatever process, believes the standardized value γ = .20 to represent the smallest effect size of interest(SESOI;
+Lakens, 2022; Lakens et al., 2018; also referred to as the critical effect sizeby Kraemer & Blasey, 2015, p. 11).2 Given this informa-
+tion, along with the chosen levels forα and π, one cannot merely consultatableor,moremodernly,insertthosevaluesintoasoftware application to get the necessary sample size. This is because that sample size also depends on (a) the relations among theC variables (ρ21, ρ31, and ρ32), (b) the relations that theC variables have withX (ρ1X, ρ2X, and ρ3X), and (c) the partial slopes relating theC variables to the outcome Yabove and beyond X(β1, β2, and β3). And here is where things become more tenuous (as any statistical consultant who has tried to guide an applied researcher through this process will attest). In this example, there are nine (standardized) parameters thatareperipheraltotheresearcher stheoreticalinterest,andthusfor which power is not of primary concern, but that are in fact essential context for determining the sample size needed to test the parameter that is focal,γ. And realistically speaking, knowing the precise pop- ulation values for all nine of these contextual parameters a priori is
+simply incredibly unlikely (as we will expand upon further later).3
+So, what do researchers do then for these contextual parameters? They make guesses  thoughtful, educated guesses we hope, but
+guesses nonetheless. If, for example,4 a researcher were to choose ρ21 = ρ31 = ρ32 = .35, ρ1X = ρ2X = ρ3X = .30, and β1 = β2 = β3 = .25, employing one of the approaches reviewed in thenext section yields an estimated necessary sample size ofn= 134 for a maximum likelihood (ML) based test of the SESOIγ= .20 (assuming α = .05 and π= .80). Of course, the precision of the sample size estimate is only as good as the assumptions upon which it rests, including, but not limited to, the accuracyof the values of the contextual parameters. If accurate (and if all other assumptions hold), thisn is exactly the insurance policy needed to address the research question addressed by γ. If inaccurate, however, the resulting power would likely deviate from the target level π, possibly substantially so. On the one hand, under such circumstances, this n could possibly yield more power than planned, thus still serving as an effective insurance policy for testingthefocal researchquestion.Alternatively,andmuchmorewor- risome for our purposes, inaccurate guesses about the contextual parameters could yield less power when testing γ. We simply do not know,becausewedonot know the stateof thepopulation(indeed, ifwedid,theresearchwouldbeunnecessary).Eventhemosteducated guesses about parameters, focal or in this case contextual, can be mis- informed due to publication bias, sampling variability, model (mis)
+1 A researcher could have theoretical interest in the partial slopes of more than one predictorofYwithin a given model; for this motivating examplewe will focus on just one predictor.
+2 That isto say, and we emphasizehere, that we arenot askinghere orany- whereinthisarticlethat theresearcherapproximatewhatisbelievedtobethe  true  effect size,which forcountlessreasonscan be misinformed and, espe- ciallyproblematicallyforplanningpurposes,upwardlybiased.Rather,weare asking the researcher to set the smallest justifiable value having practical meaningfortheirconstituentcommunitiesandbeingworthyofinvestigation.
+3 If there are multiple focal parameters in a model, as is common, sample size planning should be conducted for each focal parameter. In such cases, a specific parameter will be focal in one analysis but contextual in another. Consequently, as will be addressed and illustrated in this article, when serv- ing focallya parameter s worst-case scenariowill be governed by its SESOI; whenshiftingtoacontextualrolethatparameter suncertainty,particularlyin a problematic direction for planning purposes, must be accounted for.
+4 Valueswerechosentobeequalmerelyforthesimplicityofthisexample; researcherswouldbefreetochoosevaluesdifferingwithinandacrosssubsets (as long as their implied correlation matrix was positive definite [PD]).
+specification, and so forth (see, e.g.,Anderson et al., 2017; McShane
+& B ckenholt, 2016; Pek & Park, 2019; Pek et al., 2024; Perugini et al., 2014). Furthermore, the sample size ofn= 134 might be an unexpectedly costly pill for the researcher to swallow, provoking ini- tial responses such as: Are you sure? , Do you have any idea how hard it is to get subjects from this population?! , and We absolutely cannot afford to get that many.  But this reaction is typically short- lived, quickly giving way to negotiation, or the so-called sample size samba  (Schulz & Grimes, 2005): Well, what if we make that correlation a little smaller? , Can we make that β a bit bigger? ,  Let s take out that third control variable and see what happens. , and so on.
+Now, tobeclear, we absolutelybelieve that poweranalysis canbea place for principled exploration (e.g.,Judd et al., 2017). It should be a process in which one evaluates the consequences of different values for contextual parameters (e.g., Cole et al., 2025), rather than a quest for some single sacredn to be revealed. In our view, however, suchexplorationshouldbefor the purposeofprobing concerning sce- narios against which to be insured, not prospecting for a less expen- sive n and then cobbling together a story to convince oneself (and grant reviewers) that this has been some contextual truth all along. This latter, and in our experience extremely common, variation of the sample size samba is completely at odds with the original spirit of power analysis. What was intended to be an honest, planful insur- ancepolicyforourscientificendeavorshasessentiallydevolvedintoa statistical yard sale, haggling toslink awayas cheaplyas possible. It is for this reason that we believe power analysis has lost its way.
+Theworkwepresenthereaimstoconfrontthisproblematicmind- set and the practices it precipitates, offering new approaches in the quest to (a) restore appropriate conservatism and robustness, and in turn credibility, to the sample size planning process, and (b) greatly simplify that process by reducing the amount of speculation required of the researcher. We provide derivations, illustrative simu- lations, and suggestions for practice that have broad applications to multiple linear regression and the largeranalytic frameworkof mea- sured variable path analysis, of which many methods are special cases. A discussion of the benefits, limitations, and opportunities for further extensions then follows.
+Power for the Most Basic (Two-Predictor) Multiple
+Linear Regression Model
+Wewillstartwiththemostbasicmultiplelinearregressionmodel, asimplifiedversionof the one presentedabove, havingacontinuous outcome Y, one continuous focal predictorX, and only one continu-
+ous contextual covariate C.5 This scenario is certainly of practical utility in its own right, but even more importantly, will serve as thebasisforlargermodelsdiscussedatlengthinsubsequentsections of this article. Again, we will express the model in standardized form: Y= γX+ βC+ ɛ, where the parameter for which samplesize planning is desired is γ. After setting the intendedα level for the test of γ (e.g., .05), as well as the target powerπ (e.g., .80), the researcher must choose the SESOI for the focal parameterγ: we will select the standardized valueγ = .30 for this example. As for the contextual parameters, there are two in this scenario: (a) the rela- tion between C and X, which for this example we will assume theresearcher has selected asρ= .20, and (b) the partial slope relating C variable to Y, which we will assume the researcher had a strong rationale for setting to β= .40 (and which we will address more
+broadly later). These values lead to a model-implied correlation matrix (e.g., through path tracing; Wright, 1934) for X, C, and Y, respectively, of:
+• ⎤
+1 .20 .38
+⎣.20 1 .46⎦. (1)
+.38 .46 1
+In order to assess the sample size needed for the current circum- stance, several well-known and well-understood asymptotically equivalent approaches exist within the structural equation modeling (SEM) literature. One popular method is simulation-based (MuthØn
+& MuthØn, 2002), in which a large number of random samples are drawn from the population as specified (in ourexample, from a stan- dardized population with the above correlation matrix),fitting the model (usingML)eachtime.Samplesizeisthenadjusted iteratively until the proportion ofα-level focal parameter tests achieving statis- tical significance is at leastπ.
+Inadditiontothesimulationstrategy, therearetwopopulationanal- ysis methods we will mention here (see, e.g.,Feng & Hancock, 2023; Hancock & French, 2013). In the first, which is based on the focal parameter s Wald test (i.e., its squared z value), the model is fitted directly to the population moments implied by the chosen parameter values (using ML), assuming an arbitrary value ofn to start. Sample size is then adjusted until thezvalue (i.e., the square root of the Wald statistic) for the focal parameter test is as close as possible to, but no smaller than, the noncentrality parameterλz for a noncentral normal distribution corresponding to power π for α-level z tests (e.g., for π= .80 andα = .05,λz ≈ 2.802tothree decimals). Inthe secondpop- ulation analysis method, which utilizes the model-level likelihood ratio (LR) test, the model is fitted (using ML) to the population moments implied by the chosen parameter values, assuming an arbi- trary (and typically large) value ofn tostart, but constraining the focal parameterγ to 0. The resulting degree of misfit associated solely with the focal parameter s absence is reflected in the value of the MLfit function, FML, which is known (see, e.g., Satorra & Saris, 1985) to convert to a 1dfχ2 noncentrality parameter as:
+λ = (n − 1)FML. (2)
+Noncentralityparametersnecessarytoachievepowerπforα-level1df χ2 tests may be looked up (e.g., Johnson et al., 1995) or computed
+(e.g., using the chi2ncp function in the gtx R package; Johnson, 2020); for α = .05 and π= .80 the value to three decimal places is
+λ≈ 7.849.6 Substituting this target noncentrality parameter and
+5 As alluded to previously, the researcher could also view both predictors as focal, with neitheras covariate per se. However, as we are interested in the power associated with testing each individual focal predictor s partial slope, each predictor in turn may be viewed as the other predictor s pro tem covar- iate.Furthermore,thepredictorand/orthecovariatecouldbedichotomous,as in group coding; forour purposes, without loss of generality, wewill assume they are continuous (and standardized) for ease of presentation and interpretability.
+6 With α = .05, π= .80, and df= 1, the chi2ncp function yields λ= 7.848861. This six-decimal value will be used in all calculations in this arti-
+cle. Furthermore, it may be notedthat a 1dfχ2 test is equivalentto the square of aztest; as such, the noncentrality parameter for the former isthe square of
+the noncentrality parameter for the latter (e.g., 7.848861= 2.8015822 for α = .05 and π= .80).
+
+ HANCOCK AND FENG
+rearranging the formula forn yields: Table 1
+Required Sample Size to Detectγ = .20 n = (λ/FML)+ 1 = (7.849/FML)+ 1. (3)
+β
+
+5 HANCOCK AND FENG
+Following this second population analysis approach and constraining
+7
+γ= 0 inthe aboveexample,the resultingfit function isFML = 0.116. Substituting this value into Equation 3 yields n= (7.849/0.116)+ 1= 68.66, which, when rounded up to ensure sufficient power, sug- gests an estimated sample size of n= 69 to achieve π= .80 power for detectingγ= .30 using anα = .05 level test, given standard distri- butional assumptions and contextual parameters of ρ= .20 and β= .40.
+Although it may seem fairly straightforward to get to the sample sizeofn= 69inthissimpleexample,doingsobringsuptworeason- able questions: (a) how likely is it that researchers get the contextual parameters correct (ρandβ),and(b) howmuchdoesitmatterifthey donot?Onthefirstissue,wewouldarguethatthechancesarealmost always essentially zero. For the researcher who cites past research in choosing their numerical values, we ask (rather rhetorically, and possibly annoyingly) the following questions:
+  Did the prior work draw from the exact same population as
+the planned study?
+  Was the same model estimated, for example, with the same
+other variables (focal and contextual)?
+  Were the same scales/measures used, and did they have com-
+parable reliability and thus the same expected relations as in the planned study?
+  If the prior contextual parameter values were based on the
+researcher s own preliminary pilot work rather than pub- lished studies, how far off could the estimates be given the typically much smaller pilot sample size (and hence much larger standard errors)?
+As telegraphed above, it is extremely unlikely that any of these ques- tions couldbeanswered satisfactorily, arealitythat isprominent inthe ongoing replication crisis. Indeed, even when a planned study per- fectly replicates previous published studies in terms of the target pop- ulation, sampling method, measurement properties, analytical model, andestimation approach, othersources ofuncertaintystilllikely biasa priori model parameter estimates. For instance, publication bias, inherent sampling variability in point estimates, model misspecifica- tion, and assumption violations have been discussed extensively by, for example, Anderson et al. (2017), Pek and Park (2019), and Perugini et al. (2014). Perhaps even more fundamentally problematic for our purposes is that, particularly in complex models, estimates of contextual parameters are commonly deemed background noise rela- tive to the focal parameters constituting the main storyline, and thus are often omitted from research reports; as such subsequent research- ers simply lack the necessary information with which to educate their guesses. Allofthisistosay that,howeverwell intentioned the contex- tual parameter guesses may be, there are simply too many sources of mismatch between prior work and the planned study to completely trust those parameter values, and this issue only compounds as the model becomes increasingly complex.
+Thisthenleadstooursecondquestion:Ifresearcherslikelydonot have accurate prior knowledge about the contextual parameters, how much does it matter when it comes to the test of the focal parameter γ? As an initial foray into thinking about this question, we repeat the prior sample size estimation with the standardized SESOIγ = .30
+ρ − .6 − .4 −.2 0 .2 .4 .6
+− .6 51 88 114 129 134 127 110
+− .4 48 73 91 100 101 94 78
+− .2 49 69 82 88 87 78                                                      62
+0 53 71 82 85                                        82 71                 53
+.2 62 78 87 88                                       82         69         49
+.4 78 94 101 100                                     91 73                 48
+.6 110 127 134 129 114 88                                                   51
+Note. The bold value represents the true sample size needed under the assumed conditions. The gray square represents sample sizes when one or both of the contextual parameters are off by+ .20.
+but manipulating the (standardized) values of the contextual param- eters ρ and β both from − .60 to + .60 in increments of .20.Table 1 shows the estimated sample size for anα = .05 level test of γ to have π= .80 power (under assumed distributional conditions). At the intersection of the assumed targets ofρ= .20 and β= .40, we see the previously reported n= 69 in bold. Now, imagine that while planning for these specific values, the true contextual para- meters could be off from those assumed values by a seemingly negligible+ .20; this is represented inTable 1bya light graysquare circumscribed around the assumedn= 69. If β= .40 had been cor- rect,weseethatbeingoffinρby+ .20(i.e.,ρ= 0orρ= .40)would require a larger sample size (as indicated bythe two gray cells above and below 69), albeit only by 4 or fewer subjects (i.e.,n= 69 would technicallyleadtoanunderpoweredstudy,butnotseverely).Ifβhad been incorrect and its true value was actually higher by+.20 (i.e., β= .60), the planned sample size ofn= 69 would be more subjects than actually needed for values ofρ within + .20 of the assumed ρ= .20 (as indicated by the three gray cells to the right of 69), thus safely providing power in excess of the target level (i.e., π. .80). On the other hand, if β had been incorrect and its true value was actually off by −.20 (i.e., β= .20), the planned sample size ofn= 69 could fall well short of the needed sample sizes for val- uesofρwithin+ .20oftheassumedρ= .20(asindicatedbythethree gray cellstothe leftof69).Withβ= .20 andρ= .40, forexample,the required sample size would be estimated to ben= 91 (i.e., 22 more subjects than the assumedn= 69). And that is not even close to the worst case shown in the table. In the values displayed, we see that when β=− .20 and ρ= .60, the required sample size would be esti- mated to be n= 134, which is almost twice the assumed n= 69 based on the incorrect contextual parameter values ofρ= .20 and β= .40. As a result, using n= 69 under such conditions would yield power estimated (by the simulation method mentioned above) to be only .54 to detect the focal γ= .30 (with an α = .05 level test). One can hardly imagine investing valuable time and resources into a study with barely better than a coinflip s chance of success.
+Thus, given that the contextual parameters can be difficult (if not impossible, as argued above) to determine a priori with precision, and that the imprecision in contextual parameters can lead to a severely underpowered study that can thwart even the relatively
+7 We used Mplus 8.9 (MuthØn & MuthØn, 1998  2023).
+simple two-predictor multiple linear regression case, we can carry this further and ask a very practical question: Is there a sample size that would guarantee a minimum of π power for an α-level test of γ? Such information would be valuable for understanding the worst-case scenario, or framed more proactively, for estimating the cost of the safest insurance policy. Fortunately, this is a question that can be answered analytically.
+As detailed in Appendix A, given a fixed focal parameterγ, we can mathematically derive the contextual conditions under which the statistical power is minimized for testing its estimate, and more importantly, the corresponding theoretical lower bound of FML. Doing so in turn allows usto determine the largest necessarysample size,nmax,thatisrequiredtodetect (withtargetpowerπ)thenoncen- trality introduced by constraining the focal parameterγ to 0. This nmax will thus serve as the insurance policy that can cover us even under the least favorable contextual conditions. As shown in Appendix A, this worst-case scenario for testing a givenγ occurs as |ρ|→1 and β=− γρ, yielding a fit function FML of:
+1
+FML = ln . (4)
+1 − γ2(1− ρ2)
+Recalling fromEquation 1that the 1dfχ2 noncentrality parameterλ when setting focal parameterγ to 0 is λ = (n− 1)FML, we may sub- stitute the expression for FML from Equation 4 into Equation 1, yielding:
+1
+λ = (n − 1)ln . (5)
+1 − γ2(1 − ρ2)
+Equation 5 may, in turn, be rearranged to solve fornmax as:
+n = − ln[1− γλ(1 − ρ2)]+ 1. (6)
+max 2
+This implies that, under standard assumed conditions of conditional multivariate normality and independence of observations, for a given level of collinearity ρ (where |ρ|, 1) the sample size nmax ensures power of at leastπ all the way to the conditionalpessimum, thatis,totheleastfavorablecontextualconditionsforthatfocalγand thecontextualρ(and whichdonot likely correspondpreciselytothe select conditions shown inTable 1).
+Although not technically necessary, we can use atable displaying nmax values for select levels ofγ and a range of discrete |ρ| values to facilitate a more intuitive understanding of how these aspects are interrelated. Imagine, for example, that a researcher considers γ = .30 to be the smallest effect worth detecting forX, and that the collinearity ofXwith covariateC would not be expected to exceed |ρ|= .70. Table 2, which draws directly fromEquation 6, shows a correspondingvalueofnmax = 169.Thatis,understandardassumed conditions, a sample size ofn= 169 would be expected to yield at least π= .80 power to detect γ = .30 with an α = .05 level test (under assumed distributional conditions), as long as collinearity did not exceed |ρ|= .70. Thus, the researcher was not required to specify exact values forρ and β, but rather allowednmax essentially to plan for the worst  in order to ensure power coverage under all conditions deemed reasonably possible, even if unlikely.
+Now at this point, for the two-predictor case addressed here one might argue (a) that the method above offers only a slight simplifi- cation to the previous sample size planning processes, given that it still requires a researcher-supplied upper threshold ofρ, and (b)
+that the absolution of responsibility over the now hard-wired and maximally pessimistic β likely brings with it the cost of increased sample size. To the first point we agree: we cannot, and perhaps should not, fully relieve the researcher of responsibility for the col- linearity decision. However, we prefer to think of it differently: rather than the common taking an educated guess  framing, we see this as the researcher choosing to adopt a conservative mindset and taking responsibility for setting a realistic upper limit on the degree of expected collinearity (an issue we will return to later in the article). And in response to the second point about cost, indeed uncertaintyaboutcontextualrelationshasaprice;however,aspartof the quest to restore the integrity of power analysis as an insurance policy against just such uncertainty, we believe that planning for the worst while hoping for the best is a reasonable governing ideol- ogywhenfacedwiththepervasivetenuousnessofaprioricontextual parameter value selection. We will return to this point with further discussion at the end of the article.
+Power for Multiple Linear Regression Models With More
+Than Two Predictors
+As we will see in this section, the previous two-predictor deriva- tion has highly useful applicability when generalized to models that increasein complexity.Tostart,wecanextendthissimplifiedpower analysis process to a general linear model with any number of pre- dictors. For our purposes, let us again think of one predictorX as focal and p covariates C1 through Cp as contextual. Earlier, we described a standardized example with a focal predictor X plus p= 3 covariates, yielding a standardized focal slope parameterγ for X plus nine standardized contextual parameters: three correla- tions among the covariates, three correlations ofXwith the covari- ates, and three partial slopes relating the covariates to the outcome Y. More generally for p covariates, staying in the standardized realmforsimplicitywewouldexpectatotalofp(p+ 3)/2contextual parameters:p(p− 1)/2 correlations among the covariates,p correla- tions ofXwith the covariates,andp partial slopes relating the covar- iatestotheoutcomeY.Thismeansthatinamodelwith,say,p+ 1= 6 exogenous variables in total (one focal X variable plus five C covariates), treating any of the variables as focal with partial slope parameter γ would have p(p+ 3)/2= 5(5+ 3)/2= 20 contextual parameters. As argued previously in the case ofp+ 1= 2 exoge- nous variables (i.e., the simplest possible multiple linear regression model), it is already infeasible to provide accurate guesses about such contextual parameter values. Of course, the challenge only grows as more contextual predictors are introduced, and the conse- quencesforfailingtoprovideaccuratepopulationvaluescanbecon- siderable in terms of sample size planning and power.
+Fortunately,theprinciplesandmethodsdevelopedintheprevious section for multiple linear regression models with one predictor and p= 1 covariate can be applied to scenarios with any numberp of covariates. The reason stems from what we refer to here ascollaps- ibility, that is, that thep covariates themselves can be thought of as being collapsed into, and ultimately represented by, a single com- posite covariate. To elaborate, within the familiar unstandardized multiple linear regression expression Y= b0 + gX+ b1C1 + ⋯ + bpCp + e, the p covariates could be thought of as forming a linear composite, which we will label C , that is separate from the focal predictor X (i.e., C = b1C1 + ⋯ + bpCp, and thus Y= b0 + gX+ C + e). The covariance structure of this traditional model may be
+
+ HANCOCK AND FENG
+Table 2
+nmax Values as a Function of |γ| and |ρ|, for an α = .05 Level Test to Ensureπ= .80 Power
+|ρ|
+|γ| |ρ|≤ 0.9 |ρ|≤ 0.8 |ρ|≤ 0.7 |ρ|≤ 0.6 |ρ|≤ 0.5 |ρ|≤ 0.4 |ρ|≤ 0.3 |ρ|≤ 0.2 |ρ|≤ 0.1 ρ= 0
+0.1 4,129 2,178 1,537 1,224 1,044 932 860 815 790 783
+0.2 1,030 543 382 304 259 231 213 202 196 194
+0.3 457 240 169 134 114 101 93 88 86 85
+0.4 256 134 94 74 63 56 51 49 47 47
+0.5 163 85 59 47 39 35 32 30 29 29
+0.6 112 58 40 31 26 23 21 20 19 19
+0.7 82 42 29 22 19 16 15 14 13 13
+0.8 62 31 21 16 14 12 10 10 9 9
+0.9 48 24 16 12 10 8 7 7 6 6
+
+9 HANCOCK AND FENG
+expressed within an unstandardized path analytic framework, as seenontheleftinFigure1,withatechnicallyunnecessarybutnone- theless illustrative hexagon-enclosed compositeC represented as an endogenous phantom factor. Although not shown in Figure 1, this would be parameterized in an unstandardized model with zero disturbance variance for C and a path from C to Yset to 1.
+ This model is equivalent in all respects to the original model without the extraneous C , most importantly with regard to power and sample size associated with all focal and contextual parameters.
+Now consider the model on the right, represented in standardized form,depictingthecompositecovariateC andthefocalpredictorX. In this model,C need not literally be computed externally from the originalpcovariates,butratherstandssymbolicallyasaproxyforall relevant contextual information contained inC1 through Cp. Here, the parameter ρC is the Pearson correlation between X and C , while βC is the standardized partial slope relating the compositeC to the outcomeYabove and beyondX. Although we have no computational need for doing so here, bothρC and βC can be derived algebraically or using standard path tracing rules.
+ These parameters are herein referred to as contextualmetaparameters (specifically, the metacol- linearity parameterρC and the metaslopeparameterβC). Also worth noting is that, whileρC represents a multivariate relation betweenX and the covariatesC1 through Cp, it is not the same as their popula- tion multiple correlationΡX.1  p. In fact, because the latter is the Pearson correlation between X and a composite of C1 through Cp optimized to predict X, whereas C is a composite of C1 through Cp optimized to predictY(above and beyond X), the magnitude of the metacollinearity cannot exceed that of the multiple correlation:
+|ρC| ≤ PX.1... p. (7) We will return to this point later.
+Figure 1
+Multiple Linear Regression Model With Covariate Composite
+
+Toreiteratetheissueabove,thecollapsedmodelisnotintendedto be an analytical model per se; rather, it will serve as a vehicle for sample size planning with respect to the standardized focal parame- ter γ. As derived inAppendix B, with ML estimation, the LR test of thefocalparameterγ intheoriginal(uncollapsed)modelwithcovar- iatesC1 through Cp is strictly equivalent to that within the collapsed model with C as the proxy covariate. The important and unique implication of this equivalence is this: if we wish to conduct sample size planning for testing the focal parameterγ using the methods developed here, we only need values for the two contextual meta- parameters (ρC and βC) rather than for thep(p+ 3)/2 (standardized) contextual parameters in the uncollapsed model. In fact, as follows from the two-predictorcase, the latterβC will likewise automatically assume its conditional pessimum value, and as such will not require setting by the researcher. Thus, our contextual attention will be focused on the metacollinearityρC.
+Of course, as we should well expect by now, any misspecification in the contextual parameters, including in this metaform, can poten- tially lead to severely underpowered designs. Fortunately, given the equivalence of the collapsed form with respect to testingγ, simpli- fied sample size planning for a general linear regression model can be obtained directly from the prior derivation as a relabeled version of the previous Equation 6 for the collapsed model:
+λ
+nmax = − ln[1− γ2(1 − ρ2c)]+ 1. (8)
+Procedurally,thismeansthatfortestingthestandardizedparameterγ in the presence of p covariates (using an α-level test with target power π), the researcher (a) chooses the value for the SESOIγ and (b) sets a cautiously conservative threshold for the metacollinearity parameter ρC (while the value ofβC automatically assumes its con- ditional pessimum givenγ and ρC).
+From a practical standpoint, settingρC may precipitate discomfort giventhat,insteadofbeingthesimplecorrelationbetweenXandasin- gle contextual covariate C, it is actually the Pearson correlation between X and the composite C of the p contextual covariates C1 through Cp that has been optimized to predictY. Note again that we
+are not, however, asking the researcher to make an educated guess as tothevalueofthismorecomplexmetaparameter;rather,asbefore,we are asking the researcher to set a cautiously conservative threshold (i.e., an upper limit) that one would not likely exceed. Still, unlike the two-variable case in which one needed merely to think in terms of a simple correlation between X and a single covariate C, the involvement of the composite C may now be leading us beyond therealmofreasonableintuition.Fortunately,tohelpgroundus,recall that Equation 7 stated that the magnitude of the metacollinearityρC is boundedbythemulticollinearitybetweenXandcovariatesC1 through Cp,ΡX.1  p.Thismeansthat,althoughaddinganotherlayerofconser- vatism, setting an upper bound for the latter may be a useful practical guide to setting an upper bound for the former.
+Continuingfrom the above, then,we could askthe following con- servative but practical question: if X were to be predicted by the covariatesC1 throughCp, what isthe largest proportionof explained variance that the researcher could reasonably expect to see in reality for these specific variables (i.e., that the researcher would be extremelysurprised if exceeded)? The square root of this proportion is ΡX.1  p, which could be used as a conservative value to which to set the metacollinearityρC. So, for example, for a researcher inter- ested in predicting sixth-grade math achievement scores (Y) from fifth-grade math achievement scores (X), while controlling for p= 5 socioeconomic status (SES) measures (e.g.,C1 through C5 include total family income, mother s educational level, father s educational level, mother s occupational prestige, and father s occu- pational prestige), we believe that researchers should be able to formulate and defend a statement of the sort, We would expect fifth- grade math achievement scores to have a multiple correlation with the collection of SES measures no higher than .60.  Once such a justi- fiable (and again, cautiously conservative) statement is made, sample size planning immediately becomes straightforward, and familiar.
+For example, imagine that the above researcher decided that the standardized SESOI isγ = .30 (again, assuming this is a sufficiently conservative and reasonably justified value, and that this is a mean- ingful practical effect size that is worth investigation; see more details in the Discussion section), and that the worst-case metacolli- nearity is ρC = .60 (i.e., as informed by the multiple correlation per the sample statement above). For anα = .05 level test to achieve a minimum of π= .80 power (which has noncentrality parameter λ≈ 7.849), under standard assumptions of conditional multivariate normality and independence of observations, it follows from Equation 8 that nmax = 134 (technically, 133.30 rounded up). Thus, a sample size of 134 would yield at leastπ= .80 power to detectγ = .30usinganα = .05level test,aslongasmetacollinearity does not exceed |ρC|= .60. And in practice, given that this process assumes a worst-case scenario forρC, and thatβC is at acorrespond- ing pessimum, then the researcher would likely have more than .80 power with a sample size ofnmax given that the actual values of the contextual metaparameters are likely less pessimistic than planned for. As such,nmax effectively serves as the insurance policy to guar- antee statistical power.
+In fact, we may think about this result even more generally. In the above example, there was one predictorXand p= 5 covariates. But any,orevenall,ofthecovariatescouldhavepartialslopeparameters relating to the outcomeYthat are of theoretical interest for the pur- poses of sample size planning. In such a case, we can imagine all such focal predictors rotating through the position ofX while all other predictors become pro tem covariates. This means that we
+could ask a researcher for the SESOIγ across all focal parameters in the model, and a conservative metacollinearity threshold ρC expected to hold across all corresponding sets of contextual covari- ates. We would thus expectnmax to provide at least π power for all α-level focal parameter tests (under standard assumed conditions), within a general linear model with any number of predictors, as long as no test s contextual metacollinearity exceeds the conserva- tive researcher-specified level ρC.
+Power for Measured Variable Path Analysis Models
+In the above section, we expanded to allow for any number of exogenousvariables; inthis section, we dothe same forendogenous variables. This includes not just multivariate multiple regression models, where the same exogenous variables serve as predictors of each of multiple endogenous variables; here we extend the power analysis principles and practice to the general measured var- iable path analysis setting in which endogenous variables may be dependent upon both exogenous variables and other endogenous variables. Consider a generic such model inFigure 2, in which we assume for simplicity that all variables (labeledP through V) are
+continuous.10 In this model, variables P, Q, and R are exogenous, while variablesS, T, U, and Vare endogenous. To elaborate on the latter, S= fS(P) (i.e., S is a linear function of only one direct input variable, P), T= fT(P, Q), U= fU(R, S, T), and V= fV(P, Q, S, U). From the perspective of each endogenous variable, it is part of a microsystem within the larger model that consists of one or more predictors that may or may not covary, with their interrelations being a model-implied function of all legitimate path traces from one predictor to another (Wright, 1934). Said differently, for q endogenous variables, the larger measured variable path model can be thought of as a collection ofq simple/multiple linear regres- sion models spliced together. Indeed, in the early-to-mid-1900s, path models  parameters were often estimated in just such a parsed manner, using ordinary least squares methods (see, e.g.,Pedhazur, 1982); since the advent of ML estimation, however, all model parameters are estimated concurrently as part of the model-fitting process.
+Intermsofsamplesizeplanningformeasuredvariablepathanalysis models as awhole, thecommonSEM-based approaches as previously described involve the following steps: (1) assign values to all param- eters, focal and contextual, to define the population; (2) set theα level for significance tests (e.g., .05) and the target power levelπ(e.g., .80); (3)estimatethenneededfortestingeachindividualfocalparameterby simulation or population analysis methods; (4) choose the largest such nneededacrossallfocalparameters.Withinthisgeneralprocess,Steps (2) through (4) are straightforward; Step (1), however, as we have argued previously, is essentially impossible with any degree of cer- tainty. The broader implication here is that, because modelfitting and estimation are approached at the model levelwith ML,improperly assumed parameter values in one location can (depending on the model structure) have repercussions for sample size planning for focal parameters elsewhere in the model.
+Fortunately, for the purposes of sample size planning in the man- ner advocated in this article, we may return to the classical
+10 Exogenous variables could also be dichotomous; for simplicity here, andtomakethestandardizedexamplemoreeasilyinterpreted,we areassum- ing all variables are continuous.
+
+ HANCOCK AND FENG
+Figure 2 Figure 3
+Generic Measured Variable Path Model Submodels From Parsing the Model in Figure 2
+
+13 HANCOCK AND FENG
+
+perspective in which we think of the measured variable path model with q endogenous variables as being parsable intoq separate linear regression submodels. Now, in general, with ML estimation, these submodels and the original (unparsed) model do not necessarily yield the same ML results with respect to tests of parameters. Thisis because the fit function optimization occurs across the space spanned by all variables in a given analysis, whereas the submodels require optimization across a space spanned by fewer variables than the full model. However, the predictors in each of theq submodels can be considered locally exogenous, with their covariation being a function of all legally traceable relations between them within and beyond their submodel. As such, regardless of the specific val- ues yielded by such tracing, the population covariation among these locally exogenous predictors cannot be worse (from the perspective of statistical power for testingγ) than the previously derived pessi- mum.Therefore,theconditionalpessimumwithineachoftheqsub- models insulates against the otherq− 1 submodels, as long as the larger unparsed model is correct. This model parsability (along with some practical points of elaboration addressed below) is what enables application of the sample size planning methods here to these more general measured variable path analysis models.
+Imagine inFigure 2, for example, that a researcherconsidered the path from Rto U to be focal. This path occurs within the submodel for endogenous variableU, which would have related predictorsR, S, andT, and is shown in the bottom left ofFigure 3. Thus, variables S and T constitute the pro tem context, with relevant contextual parameters including (in a standardized metric) the correlation between S and T, both of their correlations with R, and both of
+their partial slopes relating toU.11 Also shown in Figure 3 are the remaining submodels for endogenous variables S, T, and V, for which similar focal/contextual parameter examples could be pre- sented. In fact, every possible focal parameter from the original model in Figure 2 exists within a submodel in Figure 3, complete with predictor and outcome and contextual variables as relevant (i.e., none in the model for S, one in the model for T, two in the model for U, and three in the model for V). In each submodel, one of the possible focal parameters is represented at the top of
+the model with a thick, horizontal arrow.12
+Now that the theoretical model has been conceptually parsed into its q submodels, for the purposes of sample size planning, we may draw upon the previous notion of collapsibility. Specifically, the sub- models for endogenous variablesU and Vmay have their contextual aspectscollapsedfurther,asshowninFigure4(alongwithsubmodels for endogenous variables S and T). In each case, an exemplar stan- dardized focal parameter γ and contextual metaparameters ρC and
+
+βC are shown (grayed out as appropriate for endogenous variablesS and T). Within each of these submodels, we know from the previous section of the article that for the SESOIγ across all focal parameters, and fora metacollinearity thresholdρC expectedtohold across all cor- respondingsetsofcontextualcovariates,thereexistsannmax valuethat providesatleastπpowerforα-leveltestsofallfocalparameters inthat submodel (under standard assumed conditions).
+Based on the above, a researcher could therefore proceed in a piecemeal manner, determining an nmax value for each submodel and then planning the study based on the largest such value across all submodels. However, in a measured variable path analysis model, a researcher might proceed even more generally. For sample size planning purposes, every structural focal parameter and its sub- model context can be conceptually collapsed down to the same generic proxy model (as seen in the identical structures within Figure 4). This means that a researchercould go through the follow- ing steps atthe level of the entire model(which wewill illustrate ina tutorial example in the next section):
+1. Choose the smallest (standardized) effectγ of interest for any focal structural path anywhere in the model.
+2. Set the α level for the significance tests (e.g., .05) and the target power levelπ (e.g., .80), and find the corresponding noncentrality parameter (e.g., λ ≈ 7.849 for α = .05, π= .80).
+3. Choose and justify a worst-case value for the contextual metacollinearityρC across all submodel contexts.
+4. Insertthevaluesofγ,λ,andρC intoEquation8androundup to get nmax.
+11 And of course, as a reminder, the roles of predictor and contextual var- iables could change within a submodel, depending how many of its parame- ters are considered focal.
+12 In Figure 3, the model with endogenous variableSin the top left corner showsagrayed-outcontextualvariablebecausenoadditionalpredictorexists in the original model inFigure 2. In the model for endogenous variableTin the top right corner, the correlation betweenP and Q is grayed out as no source of relation exists between P and Q in the original model in Figure2.Thesespecialcasesdonotlimitthe generalizabilityof theproposed methods to come, but rather were chosen deliberately to illustrate the meth- ods  versatility.
+Figure 4
+Collapsed Submodels From Parsing the Model in Figure 2
+
+As stated previously, given that this process in practice takes a conservative worst-case scenario approach to settingρC, and that βC is automaticallyset at a corresponding pessimum, the researcher would likely have more than the target level of power with a sample size of nmax, given that the actual values of the contextual meta- parameters are likely less pessimistic (e.g., the largest metacolli- nearity across all the submodels is likely less than the upper limit specified by the researchers). In fact  and this is the real punch line here  under standard assumed conditions, nmax would be expected to provide at least π-level power for α-level testing of any structural parameter within any measured variable path model (i.e., with any number of variables, and any relations among them), as long as the test s associated metacollinearity does not exceed the conservative, researcher-specified level. The above expectation, of course, follows from the derivation that is based on asymptotic behavior; a demonstration of the behavior of nmax in practice, as well as some important practical caveats, fol- lows in the next section.
+Illustrative Example
+To illustrate how to obtain thenmax estimate when planning for a measured variable path analysis, we use the context of the generic model in Figure 2, with four structural paths being of primary focal interest: γVP (i.e., P →V), γTQ (i.e., Q→T), γUT (i.e., T→U), and γVU (i.e., U→V).
+Step 1: One could elicit standardized SESOIs for each of
+these, say:
+γVP = .40, γTQ = .30, γUT =  .30, and γVU =  .20, (9)
+again assuming each value to be, as per the spirit of SESOIs, sufficiently conservative, reasonably justified, and practi- cally important. In this case, however, only the smallest SESOI mustbeformallyarticulated. In fact, itsspecific loca- tion within the model need not even be designated, merely that the SESOI anywhere is of absolute magnitudeγ. So, imagine a researcher chooses |γ|= .20 as the (standardized) SESOI for the entire model.
+Step 2: Now suppose the researcher plans to conduct the focal parameter statistical test at theα = .05 level and targeting
+π= .80 power. The corresponding noncentrality parameter for the 1df χ2 test may be looked up in an existing table
+(e.g., Johnson et al., 1995) or computed using, for example, the chi2ncp function in the gtx R package (Johnson, 2020). With either approach, for α = .05 and π= .80, the noncentrality parameterλ ≈ 7.849.
+Step 3: Next, a conservative metacollinearity level for the
+model (specifically, the highest upper threshold across all focal parameters  submodel contexts) is selected. In this example, assume the researcher sets an expected upper bound to metacollinearity of ρC = .70 (more information on such values will be provided later in the article).
+Step 4: Using Equation 8 and making standard assumptions of
+conditional multivariate normality and independence of observations, we can obtain:
+7.849
+nmax = + 1 = 381.8169. (10)
+− ln[1− 0.22(1 − 0.72)]
+Therefore, rounding nmax up to the next integer to ensure sufficient power, the necessary sample size planned for this analysis would be nmax = 382. Thus, based on all that has been presented so far, under standard assumed conditions, a samplesize of 382 wouldbe expected to yield at least π= .80 power to detect |γ|= .20 anywhere within this model, as long asthe associated metacollinearity does not exceed |ρC|= .70.
+Some Fine Print for the Case of Measured Variable Path
+Analysis Models
+The metacollinearity parameter ρC upon which the proposed methods are based relies, in part, on the bivariate relations between a focal predictorXand each covariate (C1,  , Cp) as well as among thecovariatesthemselves.Inthetwo-predictorandthengeneralmul- tiple regression cases addressed in Appendices A and B, these bivariate relations are each only a function of themselves. As such, the power and sample size for testing the focal parameterγ, which dependsinpartontheexpectedsamplingbehaviorofρC,morefoun- dationally depends on the expected sampling variability in those exogenous variables  bivariate relations. In sample size planning for focal parameters within a measured variable path analysis model, however, where a model with q endogenous variables is treated herein as parsed into q simple/multiple regression sub- models, bivariate relations between X and each covariate and among the covariates may have different model-implied origins: some might have been bivariate relations in the original unparsed model, but others might be a (multiplicative and/or additive) func- tion of one or more directed and undirected relations from within
+that original model.13 Indeed, in Figure 2, consider the relation γVU (i.e., U→V) as focal, in which case variables P, Q, and S become contextual covariates in the collapsed submodel upon which samplesizeplanning isbased withthe methodsinthis article. In this example (and assuming a standardized model for simplicity), the bivariate relation betweenP and S in the collapsed submodel is
+13 For example, in the path model shown inFigure 2, the model-implied totalcorrelationbetweenvariablesTandRisthesumoftwoproducts,involv- ing four model parameters in all:βTPρPR + βTQρQR.
+merelyafunctionofβSP intheoriginalmodel.Ontheotherhand,the bivariate relation between U and P in the collapsed submodel is implied in the original model to be a more complex function of six free elements: βSPβUS + βTPβUT + ρPRβUR. This means that while the sampling behavior of the bivariate relation betweenP and S would be expected to be largely the same in the original model and any relevant submodels involving onlyP and S as the contextual covariates, with a finite sample, the behavior for the bivariate relation between U and P would be expected to have some divergence between the collapsed submodel and the original path model. Specifically, with a finite sample, one might expect the sampling behavior of the assumed simple bivariate relation between U and P to potentially underestimate the actual variability implied and propagated from the sampling behavior of the bivariate relations  six constituent elements within the original uncollapsed model. In short, this could translate into a power shortfall. Further examination of this issue follows in the next section.
+Monte Carlo Simulation Illustration
+To get a practical sense of the potential cost associated with the propagation issue described above, we conducted a modest simula- tion using the measured variable path analysis model inFigure 2for purposes of illustration. Note that, given the mathematical deriva- tions upon which the proposed methods rest, we did not intend this article to be a simulation study per se, nor did we feel a large study of that type, commonly crossing many conditions factorially, would be necessary. Indeed, given all the points of conservatism builtintothe methodsproposedinthisarticle, we expectedtheprop- agation issue to amount to very little, if anything, in practice, with whatever effects may exist likely being felt more for testing focal parameters further downstream  in the model (i.e., where bivariate focal predictor and covariate relations are expected to be more com- plex functions of original model parameters).
+In this simulation illustration, the structure of the data-generating model, which was the path model shown in Figure 2, was fixed across all simulation conditions. The factors that were systematically manipulated were: (a) designation of the focal parameter in the model (10 different structural paths), (b) the (standardized) SESOI forthefocalparameter(threevalues),(c)theupperboundofthecon- textual metacollinearityρC (seven levels), and (d) the (standardized) contextual parameter values (1,000 different sets), resulting in a maximum of 10× 3× 7× 1,000= 210,000 different possible sce- narios forassessing the empirical power withnmax. Within each per- missible condition (i.e., where the combination of focal and contextual parameters yielded a PD covariance matrix), 1,000 sam- ple replications were randomly generated and used for testing the focal parameter. The empirical power for each condition was calcu- lated as the proportion ofα-level statistically significant test results across all converged replications.
+To elaborate, eachofthe 10 directpaths inthismodelinturnserved as the focal parameter for hypothesis testing. The focal parameterγ was set to be .20, .30, and .40 in turn, and metacollinearityρC valueswere examined ranging from .50 to .80 in increments of .05.Contextual parameters were randomly generated from uniform distri- butions (with the onlyexception being residual variances, which were fixed deterministically based on path coefficients values in order to yield unit variances for all variables). The simulation results for an upper bound ρC = .70 will be presented in more detail below.14
+As nmax only depends on ρC and γ (Equation 8), the corresponding planned sample size nmax can be determined to be 382, 169, and 94, respectively, for each standardized SESOI focal value ofγ, for an α = .05 level test to provide π= .80 power (under standard assumed conditions). These sample sizes will thus be used to assess the empirical power through simulations across a wide range of ran- domly varying contextual conditions. More specifically, for each focal parameter and a chosenγ value, 1,000 sets of contextual param- eter values were randomly generated, thus defining 30,000 unique populationconditionsintotalgiventheupperboundρC = .70:10pos- sible focal parameters× 3 γ values× 1,000 contextual parameter conditions. Of these, a total of 24,322 produced permissible values and PD population covariance matrices, with the resulting actual pop- ulation metacollinearity ρC ranging from − .84 to .87 (i.e., it was allowed to exceed, that is, be even worse than, the plannedρC level as resulting population parameter conditions dictated). Within each of these unique permissible population model conditions, empirical power for testing the focal parameter withnmax was assessed across 1,000 replications of random data generation from that population condition with the original model in Figure 2 fitted each time. Empiricalpowerwasobtainedbycalculatingtheproportionofstatisti- cally significant (p, .05) test results from the convergent models among the 1,000 replications; this value was derived for all 24,322 permissible populationconditions. It isimportanttonotethat itispos- sible for an empirical power estimate to dip belowπ (in this case, .80) for four reasons: (a) random Monte Carlo error, (b)finite sampling behavior deviatingfrom the asymptotics assumed inthe mathematical derivations upon which nmax was based, (c) selected values of ρC being further from the asymptotic worst-case scenario where |ρC| approaches 1.00 (seeAppendix A), and (d) randomly generated pop- ulationconditionswhere the resulting metacollinearitywasallowedto be in excess of the chosen level (thus yielding no necessary expecta- tion of sufficient power).
+For reasons described below, simulation results specifically for the case ofρC = .70 are summarized inTable 3, which focus on two out- comes for each condition: the percentage of relevant population con- ditions with an empirical power of 0.80 or larger,15 and the first percentile point (P01) in the distribution of that condition s empirical power estimates (to accommodate Monte Carlo error). The latter, in other words, is the empirical power value that is lower than 99% of the other empirical power estimates for testing the same focal parameter under different randomly drawn contextual parameter val- ues. The results are summarized from three perspectives separately: (a) all simulated population conditions (with permissible values and a PD population covariance matrix), (b) population conditions in whichthemodel-impliedmetacollinearityρC doesnotexceedthecho- sen upper bound of .70, and (c) population conditions in which the multiple correlation between the focal predictor and the contextual
+14 Full results for ρC ranging from 0.50 to 0.80 are available from the authors upon request.
+15 This is analogous to the assurance level  discussed by Du and Wang (2016), which was defined as the probabilityof achieving or exceeding atar- get power level given the sample size. The difference here is that the param- eter values in our simulation were not drawn from a posterior distribution to form a posterior power distribution. The contextual parameter values were drawn from predefined uniform distributions in order to cover as many pos- siblescenariosaspossibletoassesstherobustnessofnmax underawiderange of conditions.
+
+ HANCOCK AND FENG
+Table 3
+Distribution of Empirical Power With nmax
+All PD |ρC|≤ .70 |ΡX.1  p|≤ 0.70
+γ nmax Focal par. %≥ 0.80 P01 %≥ 0.80 P01 %≥ 0.80 P01
+0.2 382 γSP 100.00% 0.966 100.00% 0.966 100.00% 0.966 γTP 100.00% 0.970 100.00% 0.970 100.00% 0.970 γTQ 100.00% 0.971 100.00% 0.971 100.00% 0.971 γUR 100.00% 0.949 100.00% 0.949 100.00% 0.954 γUS 100.00% 0.950 100.00% 0.950 100.00% 0.950 γUT 100.00% 0.937 100.00% 0.937 100.00% 0.945 γVP 99.89% 0.858 100.00% 0.864 100.00% 0.865 γVQ 100.00% 0.960 100.00% 0.960 100.00% 0.961 γVS 99.64% 0.834 99.64% 0.834 100.00% 0.856 γVU 99.88% 0.881 99.88% 0.881 100.00% 0.912
+0.3 169 γSP 100.00% 0.970 100.00% 0.970 100.00% 0.970 γTP 100.00% 0.975 100.00% 0.975 100.00% 0.975 γTQ 100.00% 0.975 100.00% 0.975 100.00% 0.975 γUR 100.00% 0.949 100.00% 0.949 100.00% 0.955 γUS 100.00% 0.948 100.00% 0.948 100.00% 0.948 γUT 100.00% 0.933 100.00% 0.933 100.00% 0.950 γVP 100.00% 0.882 100.00% 0.884 100.00% 0.886 γVQ 100.00% 0.969 100.00% 0.969 100.00% 0.970 γVS 99.40% 0.837 99.52% 0.845 100.00% 0.887 γVU 99.36% 0.863 99.36% 0.863 100.00% 0.916
+0.4 94 γSP 100.00% 0.975 100.00% 0.975 100.00% 0.975 γTP 100.00% 0.977 100.00% 0.977 100.00% 0.977 γTQ 100.00% 0.978 100.00% 0.978 100.00% 0.978 γUR 100.00% 0.952 100.00% 0.953 100.00% 0.960 γUS 100.00% 0.965 100.00% 0.965 100.00% 0.965 γUT 100.00% 0.928 100.00% 0.941 100.00% 0.947 γVP 100.00% 0.874 100.00% 0.880 100.00% 0.895 γVQ 100.00% 0.966 100.00% 0.971 100.00% 0.972 γVS 99.74% 0.859 99.74% 0.859 100.00% 0.889 γVU 99.12% 0.820 99.11% 0.819 100.00% 0.911
+Note. Focal Par.= focal parameter; PD= positive definite; P01 = first percentile.
+
+17 HANCOCK AND FENG
+covariates (ΡX.1  p) does notexceedthechosenupperboundforρC of .70 (and thus neither doesρC).
+Results are both as expected and reassuring. To start, even allow- ing metacollinearityρC to exceed the planned level of .70 (i.e., the  all PD  columns), as some randomly generated parameter condi- tions did, most scenarios still yield empirical power in excess of 0.80 in 100% of conditions; indeed, even the worst scenario had more than 99% of the cases with empirical power exceeding .80. Furthermore, all of the corresponding P01 values exceeded 0.80, with the lowest being 0.820. Lowest performance, as expected, was consistently associated with parameters involvingV, that is, parameters involvingthisultimatedownstreamvariable, whosecon- textual variable bivariate relations are compound functions of multi- ple model parameters. To reiterate, however, performance was generally outstanding, even with population parameter conditions whose implied metacollinearityρC values were allowed to exceed the planned level of .70.
+Restricting cases only to those with metacollinearityρC at or below .70 (i.e., the middle pair of columns inTable 3), power performance stayed the same or improved slightly, as expected. Also interesting from a practical standpoint is what happens when wefilter by cases whose population conditions have multicollinearity ΡX.1  p at or below .70. Recall that this serves as a generally more conservative restriction than metacollinearityρC ≤ .70, and this conservatism is reflected in the performance in thefinal two columns of Table 3 as every single condition had empirical power at or above .80. In other
+words, if a researcher had set the target metacollinearity using an expected worst-case levelof multicollinearityof contextual covariates with a predictor, power would be ensured in all cases.
+To reiterate what was stated at the start of this section, this is by no means intended to be an exhaustive simulation; however, we do believe itnicelyillustratestheviabilityofthe proposednmax approach. First, although only a single measured variable path analysis model was utilized, it was designed to accommodate parameters in a wide variety of structural and contextual locations. Focal parameter values were chosen in the small to medium range (γ from .20 to .40), with nmax values from 94 to 382, and with contextual parameters spanning the full permissible range. Perhaps the most challenging practical issue is the selection of the metacollinearity levelρC; this was varied from.50to.80,findingthatforthecurrentillustrationρC valuesexam- ined below.70 yielded power that occasionally dipped below.80, and ρC values examined exceeding .70 generally provided excessive power. While additional power is not a bad thing from a statistical standpoint, it can be unnecessarily costly in terms of sample size. For the circumstances examined here, we foundρC = .70 to be a sur- prisingly robust choice for metacollinearity in terms of providing the target levelofpowerfor parametersthroughoutthe model,even under scenarios in which the chosen level of metacollinearity is violated. This means that a predictorXand the optimally predictive linearcom- posite C of the contextual variablesC1,  , Cp share around half of their variance (i.e., 0.702 = 0.49). And while we do not wish to endorse ρC = .70 as a universal metacollinearity recommendation,
+seeingthebehaviorofnmax underthisandneighboringconditions,ina structurally diverse measured variable path analysis model, appearsto offer some useful numerical grounding. Furthermore, these results alsosuggest that,ifaresearcherpreferredtoconductsamplesizeplan- ning from a multicollinearity rather than metacollinearity perspective, setting ρC based on a belief about the more conservativeΡX.1  p appears to ensure adequate power, as long asΡX.1  p indeed does not exceed the stated level set forρC.
+Discussion
+Planning quality research requires extensive a priori reflection regarding, for example, sufficient sample size and statistical power, the study s potential for contribution to itsfield, the research design, methods of sampling, variables to be included, the nature and quality of those variables  measurement, proper specification of models, and expectations regarding the parameters within those models. The current study has focused on sample size planning, which is at the core of a priori power analysis, with particular atten- tion to model parameters  role within this process. To summarize, the models analyzed in research endeavors include not just the focal parameters that are directly tied to the primary research ques- tions, but also the contextual parametersthat surround them; sample size planning has historically required a priori information from the researcher about both. While the methodological literature offers many guidelines and strategies for setting focal parameters for sam- ple size planning, especially within the traditional Cohen frame- work, setting values for the surrounding contextual parameters, particularly for more complex models, is far more difficult. Quite simply, as this article and others before it have argued, our models typically differ from prior studies in too many ways to be able to trust the values of their contextual parameters with any reasonable certainty (if such values were even reported in those prior studies at all). This means that when choosing such values, researchers are routinely forced to fill the gaps in their contextual knowledge with educated guesses, and maybe, however unintentionally, a bit of wishful thinking. Unfortunately, by whatever means those con- textual values are arrived upon, the cost of their inevitable inaccu- racy can be a woefully underpowered and possibly completely wasted research endeavor.
+Thus, rather than relying on such tenuous contextual speculation and hoping for the best, the methods offered in the current work encourage planning for the worst. Toward that end, we have devel- oped a simple, practical approach for conducting sample size plan- ning for methods that fall within the scope of the measured variable path analysis framework. This domain explicitly subsumes a number of familiar analyses, including multiple linear regression and its derivatives (e.g., independent samplest test, analysis of var- iance), and should straightforwardly extend to a variety of specific measured variable modeling scenarios (e.g., SEM approaches to conditional process modeling;Hayes & Preacher, 2013).
+Thisapproachtosamplesizeplanning,aswebelieveisworthreit- erating, has been built upon both statistical and ideological founda- tions. Statistically, and in reverse order from their appearance in the article,weencounteredthenotionofparsability.Ifyoupagethrough justaboutanyappliedjournalnowadays,themodelsbeingpresented and analyzed are increasinglysophisticated. In the social and behav- ioralsciences,andwellbeyondaswell,weseldomaskquestionsthat are answered by the test of a single parameter, but instead tend to
+focus on larger systems where research questions are addressed by the interplay of many such parameters. Given these models  com- plexity, the case was made here that it can be useful to consider them in parts. Doing so is not meant to claim that the whole func- tions precisely as the sum of its parts, but rather that planning for each of those parts  especially the weakest  can be a very useful strategy when it comes to making sample size preparations for the model as a whole.
+In the measured variable path analysis models addressed here, those parts are general linear regression submodels, each having a single endogenous outcome and as many predictors as variables leading directly into that outcome. These submodels can differ in the numberof predictors as well as the numberof focal paths, seem- ingly undermining parsing s promise of simplification. But here we may invoke the second statistical concept encountered in the article, that of collapsibility: foreach focal parameter within a submodel, its submodel collapses into the predictor, the outcome, and a linear composite of any and all remaining predictors to serve as a contex- tual proxy covariate. To be clear, we don t mean to imply that all such collapsed submodels are the same; rather, from a planning per- spective, if you can plan for the weakest such collapsed submodel, then you should be prepared for the entire model.
+Sample size planning for such a collapsed submodel still requires inputs from the researcher. Our concern with parameter inputs, as echoed throughout this article, is that prior knowledge is almost always of questionable accuracy. And thus we invoked another important notion, the pessimum. This is the worst-case context sur- rounding a given effect size of interest, where that context depends onthemetacollinearityparameter(ρC)asspecifiedbytheresearcher, as well as the metaslope for the composite covariate (βC), which is automatically assumed to be in the least favorable configuration.
+Although the pessimum is derived mathematically and serves as one of the three statistical pillars of this sample size planning approach, it also directly embodies the ideological foundation embracedhere,thatofplanningfortheworst.Imaginehowdifferent, say, a grant proposal would be that explicitly adopted this perspec- tive. Rather than fumbling through a narrative that is benign in its fiction under the best of circumstances, a researcher could instead  andwithcompletesincerity  includesomethingassimple as the following:
+The proposed investigation will utilize a sample size ofn= 382, which (under standard assumed conditions) is expected to provide a minimum of .80 power (using .05-level tests) to detect standardizedX→Ydirect effectsof absolutemagnitudeassmallas .20anywhereinthetheoretical model,whenotherconcurrentpredictorsofagivenendogenousvariable Yhave metacollinearity with the givenXvariable of up to .70.16
+The proposed methods make possible such simplicity.
+Although the focus of this current study has been primarily on managing uncertainty in the most challenging area, the contextual parameters, the proposed methods still rest on the ability of the researcher to specify a meaningful value for the focal parameter embedded within that context. By meaningful value, however, we do not mean a true value. Attempts at accurate estimation of focal parameters, as much methodological research has discussed,
+16 The researcher would still need to defend the specified level of metacollinearity.
+frequently leads to underpowered studies (Anderson, 2019; Anderson et al., 2017; McShane & B ckenholt, 2016; Perugini et al., 2014), and both frequentist and Bayesian approaches have been offered for remediation and strategic conservativism in such estimation and planning (e.g., Anderson & Maxwell, 2017; Anderson et al., 2017; Du & Wang, 2016; McShane & B ckenholt, 2016 ; Pek & Park, 2019; Perugini et al., 2014; Spiegelhalter & Freedman, 1986). Rather, and importantly, with regard to focal parameter specification, we have assumed an SESOI perspective (e.g., Lakens, 2022; Lakens et al., 2018), which requires the researcher to speculate as to what constitutes  meaningful  fortheoreticalandappliedstakeholdersandthenoper- ationalizethatspeculationwithinthefocalparametersthemselves.In subscribing to this perspective, anything smaller than the specified SESOI is deemed too small to be of inferential interest, or at least too small to commit the necessary resources toward such inference, but this SESOI requires no less justification than otherapproachesto focal parameter specification (albeit possibly using different criteria for that justification). Irrespective of how one justifies their SESOI, objectively and/or subjectively (for more details, seeLakens, 2022; Lakens et al., 2018), the key contribution of the approach proposed in the current article is this: if the true focal parameter is at least as large as the SESOI justified by the researcher,nmax ensures (under standard distributional assumptions) at least the target level of power for the statistical test of that parameter.
+With regard to our proposed methods, we do note that in our sim- ulation illustration, the empirical statistical power yielded bynmax was higher than the target power level (π= .80) in most cases, suggesting itmaystillbeabletoaccommodatesomedeviationinthefocalparam- eterfromitsdesignatedvalue.Assuch,thisapproachmaystillachieve the target power even when the SESOI selected and justified is some- what higher than actual minimum thresholds of practical interest and importance. But to what extent our methods are robust under increas- ing deviations from the assumed population value remains for future investigation. Nevertheless, the conservatism inherent to nmax is expected to at least partially offset potential loss of power when the conditions are less optimistic, whether by virtue of a smaller focal parameter or a higher metacollinearity than specified.
+Returning to dealing with uncertainty in the contextual parameters, other approaches also exist.Cole et al. (2025), for example, recently proposed the plausible values for secondary parameters approach, where a plausible range for each nonfocal model parameter is explic- itly defined. Researchers with solid prior knowledge, for instance, may determine that one of the contextual paths is no lower than 0.1 and no higher than 0.5, that one of the residual covariances is no less than 0.05 and no larger than 0.3, and so on, establishing lower and upper bounds for each contextual parameter. Based on this infor- mation, a full factorial Monte Carlo simulation is implemented by examining every combination of these boundary values, generating a collection of power estimates under varying population conditions, which in turn can inform sample size planning. Of course, this approach does rely on researchers providing reasonable upper and lower bounds for parameters within potentially complex systems, where the combinations of those bounds must themselves define fea- siblepopulations (e.g.,withPD covariance matrices). Furthermore, as those systems become increasingly complex, the number of combina- tions can become rather prohibitive. In the relatively modest model in Figure 2, for example, and assuming a standardized model for sim- plicity, for a single focal parameter, there are 12 contextual structural
+and nonstructural parameters for which to specify lower and upper bounds, leading to a sizeable 212 = 4,096 simulation conditions.
+And there is no guarantee that the worst-case scenario, whether in a simple or more complex model, will occur at the intersection of bounds rather than somewhere in between.
+As another option for dealing with uncertainty, a sequential design could be used to help refine knowledge of focal and contex- tual parameters. Although, as noted previously, a standalone exter- nal pilot study has many potential limitations (see alsoBrowne, 1995), an internal pilot study could be employed whereby research- ers use parameter estimates from data collected in an initial pilot phase to update the nuisance parameters and inform sample size planninginsubsequentphases.Thisapproachcould,however,intro- duceendogenousbiasinmorecomplexmodelsthatinvolvemultiple focal parameters, given that each focal parameter also serves as a contextual parameter in testing a different focal parameter (see, e.g., Wittes & Brittain, 1990).
+In the end, the methods we propose in this article resonate with prior studies  concerns about uncertainty in setting model parameters for sample size planning, offering a framework guided by what we believe to be appropriate conservatism regarding focal parameters implicitly (through subscribing to an SESOI perspective) and contex- tual parameters explicitly (through pessimistic metaparameters). Certainly, more work (some relatively simple and some more com- plex) remains to be done, beyond the scope of the foundations we intended to lay in the current article. For example, althoughnmax often suggests a sample size that could be considered large, Table 2 shows that this is not always the case. Indeed, some of the sample sizes shown could present challenges within SEM, including biased estimates, model nonconvergence, inadmissible solutions, and unstable parameter estimates and modelfit indices, particularly when unconstrained traditional ML estimation is used (Bentler & Yuan, 1999; Ulitzsch et al., 2023; Wolf et al., 2013). Therefore, other key factors for sample size planning, including the stability and interpret- ability of the model solution, desirable distributional properties of the data,andanadequateestimationprecisionlevel(Peketal.,2024;Wolf et al., 2013), may need to be considered as well.
+In addition, sample size planning methods were not explicitly illustrated here for models in which the unstandardized parameter values are particularly important, nor for testing parameters that are explicit functions of other parameters (e.g., indirect and total effects). Furthermore, we did not address models with categorical outcomes, multiple groups, mean structures, latent variables, and many other variations and extensions within and beyond the SEM framework. We also presented these methods with the assumption of complete data and standard distributional conditions (as is quite customary in the methodological power analysis literature); under- standing these methods  performance and robustness under other conditions, including extensions to more complex (e.g., multilevel) data structures, would be both interesting and necessary.
+Finally, having been a part of countless sample size planning dia- logs ourselves, we are quite familiar with the retort, But I can only afford _____ subjects.  Whatever numberfills in the blank, it repre- sents the reality of resource and budget constraints experienced all too commonly by applied researchers. Indeed, such constraints are often the primary cause of the haggling and sambaing to which we have also borne frequent witness. To this, we offer three responses. First, and admittedly least empathically, we start with a reminder that the truths of the universe are unmoved by haggling
+and sambaing, however artful they may be. That is, the knobs one twiddles in setting parameter values have no wires leading to the population parameters themselves. This means that a genuinely ear- nest attempt at sample sizeplanning that yieldsavalue forn that one cannotaffordshouldstop,oratleastpause,astudyfrommovingfor- ward. Otherwise, one is proceeding with an investigation that has an often severely reduced probability of detecting the relations of key theoretical interest: 0.70. 0.60, 0.50, or worse. Does one really wish to conduct a study whose key conclusions are effectively the toss of a coin?
+Second, perhaps a more compassionate perspective is one not framed as hagglingor sambaing,but rathercapturedin anothercom- mon response: I only have ____ amount of money. What can I get for it?  Herethe researcherstill presumablywishestomaintain atar- get level of power, but is inquiring as to the various corresponding settings of the parameter knobs. For instance, we translate that ques- tion as, If nmax were limited to 200 subjects, to what values of the focal parameter (γ) and metacollinearity (ρC) would that corre- spond?  Assuming an α = .05 level test and a target power of π= .80 (for which the noncentrality parameter isλ ≈ 7.849), this is tantamount to articulating an isopower contour in which:
+7.849
+nmax = 200 = − ln[1− γ2(1 − ρ2c)]+ 1, (11)
+which could be approximately satisfied by an infinite number of combinations, including (γ = .20, ρC = .20) or (γ = .45, ρC = .90). While perhaps informative, we do worry that this kind of reverse-engineering will reverse us right back to the kind of negoti- ations from which current sample size practices suffer, and which nmax was aiming to help avoid. On the other hand, doing so could also serve as a bit of a sensitivity analysis, providing reasonable encouragement should the combinations of focal parameter and metacollinearity values be in defensibly meaningful ranges.
+Third, and transcending issues regarding the current methods, other ways exist to maximize information on a fixed budget. Planned missing data designs, for example, can allow for an increased number of subjects overall by lowering the cost per indi- vidual participant through strategically limiting the number of vari- ables gathered from each subject (see, e.g.,Feng & Hancock, 2021; Rhemtulla & Hancock, 2016; Rhemtulla et al., 2016). On the other hand, perhaps power does not even constitute the proper target; in specific settings, for example, maybe one should be determining sample size for the purpose of achieving a defensible level of preci- sion in the estimation of the focal parameter (e.g., Kelley & Maxwell, 2003; Lai & Kelley, 2011). How these issues, and those already mentioned above within this section, can work hand in hand with nmax remains to be explored. And thus we consider the current work to be a useful start, helping to ensure that researchers sample size planning is rooted in caution (through strategic pessi- mism), integrity (through the formal inculcation of that pessimism into nmax to help avoid researchers  motivated manipulations), and practicality(inthesimplicityofthemethodswepropose).Andinuti- lizing these methods, then, researchers are putting into action the beliefs that (a) studies worth doing are worth erring on the side of caution in planning, and that (b) admitting uncertainty in our prior knowledge, and being willing to pay to ensure against its potentially severeconsequences,isareasonableinvestmentinabetterandmore replicable science.
+References
+Anderson, S. F. (2019). Best (but oft forgotten) practices: Sample size plan-
+ning for powerful studies. The American Journal of Clinical Nutrition,
+110(2), 280  295. https://doi.org/10.1093/ajcn/nqz058 Anderson,S.F.,&Maxwell,S.E.(2017).Addressingthe replicationcrisis :
+Using original studies to design replication studies with appropriate statis-
+tical power. Multivariate Behavioral Research, 52(3), 305  324. https://
+doi.org/10.1080/00273171.2017.1289361
+Anderson, S. F., Kelley, K., & Maxwell, S. E. (2017). Sample-size planning
+for more accurate statistical power: A method adjusting sample effect sizes for publication bias and uncertainty.Psychological Science, 28(11), 1547  1562. https://doi.org/10.1177/0956797617723724
+Bentler, P. M., & Yuan, K.-H. (1999). Structural equation modeling with
+small samples: Test statistics. Multivariate Behavioral Research, 34(2), 181  197. https://doi.org/10.1207/S15327906Mb340203
+Browne, R. H. (1995). On the use of a pilot sample for sample size determi-
+nation.StatisticsinMedicine,14(17),1933  1940.https://doi.org/10.1002/ sim.4780141709
+Chattopadhyay, B., Bandyopadhyay, T., Kelley, K., & Padalunkal, J. J.
+(2025). A sequential approach for noninferiorityorequivalence of a linear contrast under cost constraints.Psychological Methods, 30(2), 425  439. https://doi.org/10.1037/met0000570
+Cohen, J. (1977). Statistical power analysis for the behavioral sciences
+(revised ed.). Academic Press.
+Cohen, J. (1988). Statistical power analysis for the behavioral sciences
+(2nd ed.). Routledge.
+Cole, D. A., Abitante, G., Kan, H., Liu, Q., Preacher, K. J., & Maxwell, S. E.
+(2025). Practical problems estimating and reporting power when hypothe- ses are embedded in complex statistical models.Advances in Methods and Practices in Psychological Science, 8(1), Article 25152459241302300. https://doi.org/10.1177/25152459241302300
+Donnelly, S., Jorgensen, T. D., & Rudolph, C. W. (2023). Poweranalysis for
+conditionalindirecteffects:A tutorialforconductingMonteCarlosimula- tions with categorical exogenous variables.Behavior Research Methods, 55(7), 3892  3909. https://doi.org/10.3758/s13428-022-01996-0
+Du, H., & Wang, L. (2016). A Bayesian power analysis procedure consider- ing uncertainty in effect size estimates from a meta-analysis.Multivariate Behavioral Research, 51(5), 589  605. https://doi.org/10.1080/00273171
+.2016.1191324
+Faul, F., Erdfelder, E., Lang, A.-G., & Buchner, A. (2007). G*Power 3: A
+flexible statistical power analysis program for the social, behavioral, and biomedical sciences. Behavior Research Methods, 39(2), 175  191. https://doi.org/10.3758/BF03193146
+Feng, Y., & Hancock, G. R. (2021). Oh no! They cut my funding! Using post
+hoc  planned missing data designs to salvage longitudinal research.Child
+Development, 92(3), 1199  1216. https://doi.org/10.1111/cdev.13501 Feng, Y., & Hancock,G. R. (2023). SEM as aframeworkfor poweranalysis.
+In R. Hoyle (Ed.), Handbook of structural equation modeling (2nd ed.,
+pp. 163  183). Guilford Press.
+Fisher, R. A. (1938). Presidential address to the First Indian Statistical
+Congress. Sankhya, 4(1), 14  17. https://www.jstor.org/stable/40383882 Graybill, F. A. (1983). Matrices with applications in statistics. Wadsworth
+Publishing Company. Hancock,G.R.(2001).Effectsize,power,andsamplesizedeterminationfor
+structured means modeling and mimic approaches to between-groups
+hypothesis testing of means on a single latent construct.Psychometrika,
+66(3), 373  388. https://doi.org/10.1007/BF02294440 Hancock,G.R.,&French,B.F.(2013).Poweranalysisinstructuralequation
+modeling. In G. R. Hancock & R. O. Mueller (Eds.),Structural equation
+modeling: A second course(2nd ed., pp. 117  159). IAP Information Age
+Publishing.
+Hayes, A. F., & Preacher, K. J. (2013). Conditional process modeling: Using structural equation modeling to examine contingent causal processes.
+
+NMAX FOR SAMPLE SIZE PLANNING 19
+In G. R. Hancock & R. O. Mueller (Eds.),Structural equation modeling:
+Asecondcourse(2nded.,pp.219  266).IAPInformationAgePublishing. Hedges, L. V., & Pigott, T. D. (2001). The power of statistical tests in meta-
+analysis. Psychological Methods, 6(3), 203  217. https://doi.org/10.1037/
+1082-989X.6.3.203
+Hedges, L. V., & Pigott, T. D. (2004). The power of statistical tests for mod-
+erators in meta-analysis.Psychological Methods, 9(4), 426  445. https:// doi.org/10.1037/1082-989X.9.4.426
+Hoenig, J. M., & Heisey, D. M. (2001). The abuse of power: The pervasive
+fallacy of power calculations for data analysis.The American Statistician, 55(1), 19  24. https://doi.org/10.1198/000313001300339897
+Johnson, N. L., Kotz, S., & Balakrishnan, N. (1995).Continuous univariate
+distributions (Vol. 2, 2nd ed.). Wiley.
+Johnson, T. (2020).gtx: R package for genetic data analysis (Version 2.1.6)
+[Computer software].https://github.com/tobyjohnson/gtx
+Judd, C. M., McClelland, G. H., & Ryan, C. S. (2017). Data analysis:
+A model comparison approach to regression, ANOVA, and beyond (3rd ed.). Routledge. https://doi.org/10.4324/9781315744131
+Kelley, K., & Maxwell, S. E. (2003). Sample size for multiple regression:
+Obtaining regression coefficients that are accurate, not simply significant. Psychological Methods, 8(3), 305  321. https://doi.org/10.1037/1082- 989X.8.3.305
+Kraemer, H. C., & Blasey, C. (2015).How manysubjects?: Statistical power
+analysis in research (2nd ed.). Sage Publications.
+Lai, K., & Kelley, K. (2011). Accuracy in parameter estimation for targeted
+effects in structural equation modeling: Sample size planning for narrow confidence intervals. Psychological Methods, 16(2), 127  148. https:// doi.org/10.1037/a0021764
+Lakens, D. (2022). Sample size justification. Collabra: Psychology, 8(1),
+Article 33267. https://doi.org/10.1525/collabra.33267
+Lakens,D., Scheel, A. M., &Isager, P. M.(2018). Equivalencetestingfor psy-
+chological research: A tutorial. Advances in Methods and Practices in Psychological Science, 1(2), 259  269. https://doi.org/10.1177/25152459 18770963
+Mathieu, J. E., Aguinis, H., Culpepper, S. A., & Chen, G. (2012).
+Understanding and estimating the power to detect cross-level interaction effects in multilevel modeling. Journal of Applied Psychology, 97(5), 951  966. https://doi.org/10.1037/a0028380
+Maxwell, S. E. (2004). The persistence of underpowered studies in psycho-
+logical research: Causes, consequences, and remedies. Psychological
+Methods, 9(2), 147  163. https://doi.org/10.1037/1082-989X.9.2.147 McShane, B. B., & B ckenholt, U. (2016). Planning sample sizes when effect
+sizesare uncertain: Thepower-calibrated effectsizeapproach.Psychological
+Methods, 21(1), 47  60. https://doi.org/10.1037/met0000036
+Moerbeek, M. (2022). Power analysis of longitudinal studies with piece-
+wise linear growth and attrition. Behavior Research Methods, 54(6), 2939  2948. https://doi.org/10.3758/s13428-022-01791-x
+Moshagen, M., & Bader, M. (2024). Sempower: General power analysis
+for structural equation models. Behavior Research Methods, 56(4), 2901  2922. https://doi.org/10.3758/s13428-023-02254-7
+MuthØn, L. K., & MuthØn, B. O. (1998  2023). Mplus user s guide (8th ed.). MuthØn, L. K., & MuthØn, B. O. (2002). How to use a Monte Carlo study
+to decide on sample size and determine power. Structural Equation Modeling: A Multidisciplinary Journal, 9(4), 599  620. https://doi.org/ 10.1207/S15328007SEM0904_8
+Noble, B. (1969). Applied linear algebra. Prentice-Hall.
+Pedhazur, E. J. (1982).Multiple regression in behavioral research (2nd ed.).
+Holt, Rinehart, & Winston. Pek,J.,&Park,J.(2019).Complexitiesinpoweranalysis:Quantifyinguncer-
+tainties with a Bayesian-classical hybrid approach. Psychological
+Methods, 24(5), 590  605. https://doi.org/10.1037/met0000208
+Pek, J., Pitt, M. A., & Wegener, D. T. (2024). Uncertainty limits the use of
+power analysis. Journal of Experimental Psychology: General, 153(4), 1139  1151. https://doi.org/10.1037/xge0001273
+Perugini, M., Gallucci, M., & Costantini, G. (2014). Safeguard power as a pro-
+tection against imprecise power estimates. Perspectives on Psychological
+Science, 9(3), 319  332. https://doi.org/10.1177/1745691614528519 Rhemtulla, M., & Hancock, G. R. (2016). Planned missing data designs in
+educational psychology research. Educational Psychologist, 51(3-4),
+305  316. https://doi.org/10.1080/00461520.2016.1208094 Rhemtulla,M.,Savalei, V., &Little,T. D.(2016).On the asymptotic relative
+efficiency of planned missingness designs.Psychometrika, 81(1), 60  89.
+https://doi.org/10.1007/s11336-014-9422-0 Satorra,A.,&Saris,W.E.(1985).Powerofthelikelihoodratiotestincovari-
+ance structure analysis. Psychometrika, 50(1), 83  90. https://doi.org/10
+.1007/BF02294150
+Schulz, K. F., & Grimes, D. A. (2005). Sample size calculations in rando-
+mised trials: Mandatory and mystical. The Lancet, 365(9467), 1348 1353. https://doi.org/10.1016/S0140-6736(05)61034-3
+Spiegelhalter, D. J.,&Freedman, L. S.(1986). A predictiveapproachtoselect-
+ing the size of a clinical trial, based on subjective clinical opinion.Statistics
+in Medicine, 5(1), 1  13. https://doi.org/10.1002/sim.4780050103 Thoemmes,F.,MacKinnon,D.P.,&Reiser,M.R.(2010).Poweranalysisfor
+complex mediational designs using Monte Carlo methods. Structural
+Equation Modeling: A Multidisciplinary Journal, 17(3), 510  534.
+https://doi.org/10.1080/10705511.2010.489379
+Tu, X. M., Kowalski, J., Zhang, J., Lynch, K. G., & Crits-Christoph, P. (2004). Power analyses for longitudinal trials and other clustered designs. Statistics in Medicine, 23(18), 2799  2815. https://doi.org/10.1002/sim
+.1869
+Ulitzsch, E., L dtke, O., & Robitzsch, A. (2023). Alleviating estimation
+problems in small sample structural equation modeling  A comparison
+of constrained maximum likelihood, Bayesian estimation, andfixed reli-
+ability approaches. Psychological Methods, 28(3), 527  557. https://
+doi.org/10.1037/met0000435 Wittes,J.,&Brittain,E.(1990).Theroleofinternalpilotstudiesinincreasing
+the efficiency of clinical trials. Statistics in Medicine, 9(1  2), 65  72.
+https://doi.org/10.1002/sim.4780090113
+Wolf, E. J., Harrington, K. M., Clark, S. L., & Miller, M. W. (2013). Sample
+size requirements for structural equation models: An evaluation of power, bias, and solution propriety. Educational and Psychological Measurement, 73(6), 913  934. https://doi.org/10.1177/0013164413495237
+Wright, S. (1934). The method of path coefficients. The Annals of
+Mathematical Statistics, 5(3), 161  215. https://doi.org/10.1214/aoms/ 1177732676
+Yuan, K. H., & Maxwell, S. (2005). On the post hoc power in testing
+mean differences. Journal of Educational and Behavioral Statistics, 30(2), 141  167. https://doi.org/10.3102/10769986030002141
+Zhang, Z. (2014). Monte Carlo based statistical power analysis for media-
+tion models: Methods and software. Behavior Research Methods, 46(4), 1184  1198. https://doi.org/10.3758/s13428-013-0424-0
+
+NMAX FOR SAMPLE SIZE PLANNING 
+(Appendices follow)
+
+19 HANCOCK AND FENG
+Appendix A
+Deriving the Conditional Pessimum
+Inthisappendix,wederivetheglobalminimumofthemaximumlikelihood(ML)fitfunctionFML.Westartwiththeproofthatthepowerfor testing the focal parameter in multiple linear regression is minimized with perfect collinearity |ρ|→1.
+Supposewe have the population regression model (with mean-centered variables The proof of the conditional pessimum is derived more generallyon mean-centered data, with standardized data being a special case. As shown later, con- clusions regarding the conditional pessimum remain the same.
+ to eliminate the need fora mean structure here, for sim- plicity):
+y = XG+ 1, (A1) with population parameters denoted byQ = (G′, σ2ε)′. The predictorsX contain both the focal predictorXfocal and p contextual predictorsC,
+X = (Xfocal | C). The covariance matrix of the predictorsX is denoted as:
+cov(X) = 1 (XX′) = F = F XX F XC . (A2)
+n − 1 F CX F CC
+The coefficients Γ can thus be partitioned into focal parameterγ and peripheral parametersβ:
+G = [γ| b ′]′. (A3)
+′ ′ ′ ′ 2 ′
+We can also partition the parametersΘ into Q = (Qfocal | Qperipheral) = (γ| b , σε) . Assuming normally distributed errors, the likelihood function is computed as:
+− exp − 1  (y − x G)2
+L(Q; y, X) = P(y|Q, X) = (2πσ2ε) n2 2 i σ2ε i , (A4) and the corresponding log likelihood is computed as:
+LL(Q; y, X) = − nln(2π) − nln(σ2)− 1 [(y − XG)′(y − XG)]. (A5)
+2 2 ε 2σ2ε
+It is well known that the maximum likelihood estimation (MLE) estimator ofΘ (i.e., Q  ) can be obtained as follows:
+ G = (X′X)−1X′y
+ σ2 = 1  (yi − x G)2. (A6)
+ε n i
+The MLE estimatorQ  is also asymptotically normally distributed, with asymptotic variance computed from the inverse of Fisher information:
+(I(Q; y, X)| )− 1 = − 1 ∂2LL(Q; y, X) − 1. (A7)
+Q= Q n ∂ Q2 Q= Q
+The observed information can be organized as a block matrix:
+I(Q; y, X)|
+Q= Q
+⎡− ∂2LL(Q; y, X)  | − ∂2 ∂LL(Q; y, X) ⎤
+n ⎢⎢⎣ ∂ ∂LL(Q; y, X) ∂2LL(Q; y, X) Q= Q ⎥⎥⎥⎥. (A8)
+⎢⎢ ∂ G2 Q= Q ∂σε ∂ G
+= 1 ⎢−− − − − − − − − −− | −− − − − − − − − −−
+⎥
+− ∂G ∂ σε Q= Q | − ∂ σε Q= Q ⎦
+2 22
+What we care about for the problem at hand is thefirst block, because the standard error of G is computed as the square root of itsfirst element:
+− 1 1 ′
+1 ∂2LL(Q; y, X) = − ∂ ∂ − [y y − y′XG− G′X′y + G′X′XG]
+n ∂ G2 Q= Q n ∂G∂G 2σ2ε Q= Q
+1 ′ (A9)
+= − n ∂G 2σ2ε [(y X) − X y + 2X XG] Q= Q = n Xσ2εX.
+1 ∂ − 1 ′ ′ ′ ′
+On the other hand, it can also be shown that the other two blocks contain only zeroes:
+− n 2ε ∂ G Q= Q = − 2ε ′ σε Q= Q
+1 ∂ ∂LL(Q; y, X) 1 ∂ X (y − XG)
+∂σ n ∂σ 2
+′
+= − 1 − X (y −)2XG) 
+n (σ2ε Q= Q
+1[X′(y − X(X′X)− 1X′y)]
+= n ( σ2ε)2 (A10) 1[X′y − X′X(X′X)− 1X′y]
+= n
+2 2
+( σε)
+1[X′y − IX′y]
+= n ( σ2ε)2 = 0.
+Therefore, the information can be simplified as:
+⎡1 ⎤
+⎢⎢nX′X
+I(Q; y, X)| = ⎢⎢ σ2ε 0 ⎥⎥⎥⎥, (A11)
+Q= Q ⎢ 1 2 ⎥
+• 0 − ∂ LL(Q; y, X)  ⎦
+n ∂ σ22
+ε Q= Q
+and the asymptotic covariance matrix can thus be simplified as:
+⎡⎛1 ⎞− 1 ⎤
+⎢⎜ X′X
+• n  2 ⎠ 0 ⎥⎥⎥
+⎢⎝ ⎟
+(I(Q; y, X)| )− 1 = ⎢⎢ σε ⎥⎥ . (A12)
+Q= Q ⎢ ⎥
+• 1 ∂2LL(Q; y, X) − 1 ⎥
+• ⎦
+0 − n ∂ σ2ε2 Q= Q
+The first block of the asymptotic covariance matrix can be further written as a partitioned matrix:
+⎡1(X′X)⎤⎥− 1 ′
+⎢⎣n  2 ⎦ = 12 X′focal Xfocal C − 1
+σε n σε C
+1 ′ X X′ C −1
+X focal focal focal
+= n σ2ε C′Xfocal C′C
+• ⎤−1
+1 1 ′ C
+⎢n σ2 (X′focalXfocal) n σ2 (X focal )⎥
+• ε ε ⎥ (A13)
+= ⎢ ⎥
+• 1 ′ 1 ′C ⎦
+2 (C Xfocal) 2 (C )
+n σε n σε
+n σ2 F XX F XC − 1
+= ε
+n − 1 F CX F CC
+= 2ε XX XCF −CC1 CX −XX1 XC(F CC CX XXF XC − 1 − 1
+n σ (F − F F )− 1 − F F − F F −1 )
+n − 1 − F − 1F (F − F F − 1F )− 1 (F − F F − 1F )− 1 .
+CC CX XX XC CC CX CC CX XX XC
+The first block in this partitioned matrix is by definition a scalar, and thus can be further simplified as:
+2 2 2
+n σε (F − F F − 1F )− 1 = n σε × 1/σX
+n − 1 XX XC CC CX n − 1 F XC − 1 F CX
+1 − F CC
+σ2X σ2X
+n σ2ε × 1 − F )] 2 − 1
+= 1/σ2X
+n − 1 XC − 1 1 [diag(F )]1[diag(F )]− 1 F CX
+σ2 [diag(F CC [diag(F CC)]2F CC CC 2 CC 2 2
+X σX
+2 2
+= n σε × 1/σX
+n − 1 1 − PXC [diag(F CC)]12F −CC1[diag(F CC)]12PXC (A14) n −2ε1 1 − PXC [diag(F CC)]− 12F CC[diag(F CC)]− 12 −1PXC
+n σ 2
+= × 1/σX
+n σ2ε × 1/σ2X
+= n − 1 1 − PXC (PCC)− 1PXC
+n σ2 1/σ2
+= ε × X ,
+n − 1 1 − r 2XC
+where ρ2 is the coefficient of determination for regressing the focal predictorXon contextual predictorsC.
+ThereforXC e, the standard error for γ is: Again,thisstandarderrorformulastillassumesmean-centeredvariablesforgenerality,withstandardizeddatabeingaspecialcase.Ifstandardizedvariables are assumed here, the derivation of this equation would become more straightforward, but arriving at the same conclusion that whenρ2XC 1, the statistical power approaches its global minimum. Note that although the standard error will be different depending on the scaling, the difference is only in the numerator of the equation; the pessimum, however, is determined solely based on the denominator.
+
+1 n σ2/σ2 σ2/σ2
+ε X = ε X . (A15) n(n − 1)(1− ρ2 ) (n − 1)(1− ρ2 )
+XC XC
+[ when ρ2 1, the standard error for testing γ  1 , and thus the corresponding statistical power approaches its global minimum.▪
+XC
+Next, we derive the theoretical lower bound of the statistical power for testing the focal parameterγ under perfect collinearityρ2XC 1. The population covariance matrix is defined based on a full (f) model:
+S f(Qf) = GF′F G ′FGFG+ C . (A16)
+The populationparametercanbepartitionedinto the focal parameterγ and peripheral contextualparameters:Qf = (γ, Q′ )′.We then need to fit a reduced (r) model to the population, where the focal pathγ is constrained to zero,Qr = (γ = 0, Q′peripheral)′. Theperipheralreduced model
+implied covariance matrix can be expressed as:
+S r(Qr = F′ r ′F r . (A17)
+) F rG
+GrF r Gr rGr + C r
+To obtain the parameter estimates for the reduced model, we need tofind the parameter estimatesQ  r that minimizes thefit function:
+Fr = ln|S r| + tr(S fS −r 1) − ln|S f| − p. (A18)
+Forourcurrent problem, we can consider the simple casewith one focal predictorXand one contextual predictorC, furtherassuming stan- dardizedformfromthispointonwardinderivingthetheoreticalpowerlowerbound.Therefore,thepopulationvaluesofthemodelparameters can be written as:
+1 ρ
+F = ,
+ρ 1
+G = γ β ′, (A19) C = ψε,
+with the known constraint that:
+G′FG + C = γ2 + β2 + 2βγρ + ψε = 1. (A20) The population covariance matrix is thus:
+• ⎤
+1 ρ γ + βρ
+Σf(Qf) = ⎣ ρ 1 β+ γρ ⎦. (A21)
+γ + βρ β+ γρ γ2 + β2 + 2βγρ + ψε
+Correspondingly, the reduced model parameters are denoted as:
+c1 r
+F r = ,
+r c2
+(A22)
+Gr = 0 b ,
+C r = c3,
+producing the reduced model implied covariance matrix:
+• ⎤
+c1 r br
+S r(Qr) = ⎣ r c2 b ⎦. (A23)
+br b b2c2 + c3
+When ρ→1 (or − 1; the conclusion will be the same), the reduced model parameter estimates are the following:
+⎧⎪⎪⎪⎪⎨  cc12 == 11
+ r = ρ , (A24) ⎪⎪⎪⎪⎩ b = γρ + β
+ c3 = 1 − γ2ρ2 − β2 − 2γρβ
+which minimizes the discrepancy betweenΣf(Θf) and S r(Q  r).
+Therefore, under the condition |ρ|→1, the estimated reduced model parameters are theoretically the following:
+F  = 1 ρ ,
+r ρ 1
+(A25)
+ Gr = 0 γρ + β ,
+C  2 2 2
+r = 1 − γ ρ − β − 2γρβ.
+(Note, however, whenρ deviates increasingly from 1, the estimated model parameters will also deviate more from this theoretical result.)▪
+Note that for ln(1−(1ρ−2)[1ρ2)[1−β−−(βγ+γρ− 2)2βγρ] ] to be mathematically legitimate,ρ2 cannot be exactly equal to 1.
+To derive the theoretical lower bound of power for testing γ, we follow theSatorra and Saris (1985)approach. The statistical power is min- imized when the following targetfit function is minimized:
+− 1
+Fr = ln|S r| + tr(S fS r ) − ln|S f| − 3. (A26)
+Let us substitute the population parameter values and theoretical parameter estimates into each of the terms within the targetfit function:
+1. The first term: ln| S r|
+1 ρ (γρ + β)ρ
+ln| S r| = ln ρ 1 γρ + β
+(γρ + β)ρ γρ + β (γρ + β) 2
+To make sure this is mathematically permissible, let us denoteρ= 1− δ, whereδ is a sufficiently small positive value such that 0, δ, 1. [Note. The same results can be obtained for the caseρ≤ 0. We can let ρ = − 1 + δ, ∀ a sufficiently small positive valueδ, 0, δ, 1.]
+ + 1 − γ2ρ2 − β2 − 2γρβ (A27)
+= ln[(1− ρ2)[1− (β+ γρ)2]].
+2. The second term: tr(S fS −r 1)
+• ⎤
+1 ρ
+• 2 2 0 ⎥
+⎢1 − ρ ρ − 1 ⎥
+• ρ − 1 + β ρ + 2βγρ + γ ρ β+ γρ ⎥⎥
+− 1 = ⎢⎢ 2 2 3 2 4 ⎥
+S r ⎢ρ2 − 1 2 2 2 ⎥
+• (1 − ρ )[1− (β+ γρ) ] − 1 + (β+ γρ) ⎥
+• β+ γρ − 1 ⎦
+0 − 1 + (β+ γρ)2 − 1 + (β+ γρ)2
+• ⎤
+1 ρ
+⎤⎢⎢1 − ρ ρ2 − 1 0
+− 1 ⎡⎢ 1 β+ γρ⎦⎢⎢ρ2 − 12 (1 − ρ2)[1− (β+ γρ)2] 4 + γρ ⎥⎥⎥⎥⎥
+ρ γ + βρ ⎢ β
+S S = ⎣ ρ 1 ⎥⎢ ρ − 1 + β2ρ2 + 2βγρ3 + γ2ρ (A28)
+f r γ + βρ β+ γρ 1 ⎢⎣ β+ γρ − 1 + (β+ γρ)2 ⎥⎥⎦
+0 − 1 2
+− 1 + (β+ γρ)2 − 1 + (β+ γρ)
+• ⎤
+γ(β+ γρ)(ρ2 − 1) γ(ρ2 − 1)
+⎢1 − 1 + (β+ γρ)2 − 1 + (β+ γρ)2 ⎥
+= ⎢ ⎥⎥
+⎢⎣0 1 0 ⎦
+γ − γρ 1
+[ tr(S fS −r 1) = 3.
+3. The third term: ln|Σf|
+1 ρ γ + βρ
+ln|S f| = ln ρ 1 β+ γρ
+γ + βρ β+ γρ 1 (A29)
+= ln[(1− ρ2)[1− β2 − γ2 − 2βγρ]].
+Putting them together, we thus have the targetfit function:
+Fr = ln (1− ρ2)[1− (β+ γρ)2] + 3 − ln (1− ρ2)[1− β2 − γ2 − 2βγρ] − 3
+(1 − ρ2)[1− (β+ γρ)2] (A30)
+= ln 2 .
+(1 − ρ2)[1− β − γ2 − 2βγρ]
+The target fit function can thus be expressed as:
+Fr = ln[1 −1β−2 −[βγ+2 −γ(12βγ− (1δ)]−2 δ)]
+1 − [(β+ γ)− γδ]2
+= ln 2
+[1 − (β + γ2 + 2βγ)+ 2βγδ]
+(A31)
+[1 − (β+ γ)2 + 2γδβ]+ 2γ2δ − γ2δ2
+= ln 2
+[1 − (β+ γ) + 2βγδ]
+γ2δ(2 − δ)
+= ln 1 + 2 + .
+1 − (β+ γ) 2βγδ
+Importantly, we are interested in the population condition that yields the lowest power given afixed focal parameterγ. That is to say, we need to find the population value of contextual path parameterβ that minimizes the target functionFr. Therefore, we take the derivative with respect to β:
+∂Fr [1− (β+ γ)2 + 2βγδ] 1
+= 2 δ ∂ + γ2δ(2 − δ)
+∂β [1 − (β+ γ) + 2γδβ] + 2γ2δ − γ2 2 ∂β 1 − (β+ γ)2 + 2βγδ
+[1− (β+ γ)2 + 2βγδ] γ2δ(2 − δ)(− 2β− 2γ + 2γδ)
+= 2 2 δ2 2
+[1 − (β+ γ) + 2γδβ] + 2γ δ − γ2 [1− (β+ γ)2 + 2βγδ]
+(A32) 1 γ2δ(2− δ)(− 2β− 2γ + 2γδ)
+= 2 δ2 2
+[1 − (β+ γ) + 2γδβ] + 2γ2δ − γ2 1 − (β+ γ) + 2βγδ
+− 2γ2δ(2 − δ)(β+ γ − γδ)
+= 2 .
+([1− (β+ γ)2 + 2γδβ] + 2γ2δ − γ2δ )[1− (β+ γ)2 + 2βγδ]
+To have ∂∂Fβr = 0 given a sufficiently small 0, δ, 1, we need to set β+ γ − γδ = 0. Therefore, we have the following result:
+β = γ(δ − 1) . (A33)
+[ when β= − γρ, Fr is minimized. ▪
+The theoretical lower bound ofFr can thus be computed as:
+γ2δ(2 − δ)
+F = ln 1 + 2
+r 1 − γ(δ − 1) + γ + 2γ(δ − 1) γδ
+1 + γ2δ2 − 2γ2δ + γ2δ(2 − δ)
+= ln
+1 + γ2δ2 − 2γ2δ
+(A34)
+1
+= ln
+1 + γ2δ2 − 2γ2δ
+1
+= ln .
+1 − γ2 1 − ρ2
+In summary, in this appendix, we have proved the following: when |ρ|→1 and β= − γρ, the fit function Fr is minimized, and thus the statistical power for testing γ is minimized:
+|ρ|  1,limβ = − γρ Fr = ln 1 − γ2(11 − ρ2) . (A35) Therefore, the theoreticalnmax is,
+nmax = λ1  + 1 = − ln[1− γλ2(1− ρ2)]+ 1. (A36)
+ln
+1 − γ2(1 − ρ2)
+Appendix B
+Equivalence of Uncollapsed and Collapsed Multiple Regression Models for Testing γ
+In this appendix, we prove the equivalence between the uncollapsed model and the collapsed model in terms of testing focal pathγ.
+We begin with the likelihood ratio test (LRT) under the uncollapsed model. The parameters (Θ) of the uncollapsed model are denoted as follows:
+1. The path coefficients are: G = [γ, β1, β2, ..., βp],
+1×(p+ 1)
+and particularly, the contextual path coefficients are: b = [β1, β2, ..., βp],
+1×p
+2. The covariance matrix for exogenous predictorsX is:
+• ⎤
+cXX
+F = ⎢⎢⎢⎣c1...X c11... ... ⎥⎥⎥⎦, (B1)
+cpX cp1 ... cpp
+3. The error variance of outcomeYis ψ.
+The observed data are denoted as:
+• ⎤
+Y
+= ⎡Y⎤ ⎢⎢⎢⎢CX1 ⎥⎥⎥.
+Q ⎣X⎦ = ⎢ . ⎥⎥ (B2) (p+2)×n C ⎣ .. ⎦
+Cp
+Therefore, the model-implied covariance matrix under the uncollapsed model can be written in the following block matrix:
+• ′ ⎤ ⎡ ⎤
+GFG + ψ | GF A B
+S(Q) = ⎣−− − −− | −− ⎦ = ⎣ 1× 1 1× (p+ 1) ⎦, (B3)
+′ C∗ D
+FG | F (p+ 1)×1 (p+ 1)×(p+ 1)
+where:
+A = GFG ′ + ψ,
+1× 1
+B = GF ,
+1×(p+ 1) (B4)
+C∗ = FG ′,
+(p+ 1)× 1
+D = F .
+Assuming multivariate normality and independence, the likelihood ofQ given the observed data are:
+n p+ 2 1 ′
+L(Q; Q) = i=1 (2π)− 2 det[S(Q)]− 12 exp − 2QiS(Q)− 1Qi
+= (2π)− (p+22)n det[S(Q)]− n2 exp − 12  Q′iS(Q)− 1Q . (B5) i
+Setting the focal parameterγ = 0 and keeping the other parametersfixed, we will obtain the reduced (uncollapsed) model, whose model parameters (Θr) are correspondingly defined as the following:
+1. The path coefficients are: Gr = [0, β1, β2, ..., βp]
+1×(p+ 1)
+and particularly, the contextual path coefficients are: b r = b
+2. The covariance matrix for exogenous predictorsX is: 1×p
+F r = F (B6)
+3. The error variance of outcomeYis ψr = ψ.
+Therefore, the model-implied covariance matrix under the reduced uncollapsed model can be written as the following block matrix:
+′
+( GrF rGr + ψr | GrF r
+S Q) = −− −′ − − − | −−−
+r F rGr | F r
+• ⎤ ⎡ ⎤ (B7) Ar B A B
+= ⎣ 1×1 1×(pr+ 1) ⎦ = ⎣ 1×r1 1×(pr+ 1) ⎦,
+Cr Dr Cr D
+(p+1)× 1 (p+1)× (p+ 1) (p+1)× 1 (p+1)× (p+ 1)
+where:
+Ar = GrF rG′r + ψr = GrFG ′r + ψ,
+1× 1
+Br = GrF ,
+1× (p+ 1)
+Cr = FG ′r, (B8) (p+1)× 1
+Dr = D = F .
+(p+ 1)× (p+ 1)
+Similarly, assuming multivariate normality and independence, the likelihood ofQr given the observed data are:
+Lr(Qr; Q) = n (2π)− p+2 2 det[S r(Q)]− 12exp − 12Q′iS r(Q)− 1Qi
+i=1 (B9)
+− ( 1
+= (2π) (p+22)n det[S r Q)]− n2 exp − 2 Q′iS r(Q)−1Qi .
+With Equations B5 and B9, the LRT for testing the focal parameterγ is thus defined as:
+(2π)− (p+2)n det[S(Q)]− n exp − 1  Q′ S(Q)− 1Q
+L(Q; Q) 2 2 2 i i
+Lr(Qr; Q) = − (p+ 2)n − n 1 ′ − 1Q
+(2π) 2 det[S r(Q)] 2 exp − 2 QiS r(Q) i (B10)
+= detdet[[SSr((QQ)])] − n2exp − 12 Q′i(S(Q)− 1 − S r(Q)− 1)Qi .
+Using Theorem 8.2.1 (2) inGraybill (1983, p. 184), the determinant ofΣ(Θ) and Σr(Θ) can be written as:
+det[S(Q)] = det[D]det[A − BD− 1C∗]
+= det[D](A − BD−1C∗),
+(B11) det[S r(Q)] = det[Dr]det[Ar − BrD−r 1Cr]
+= det[D](Ar − BrD− 1Cr).
+Therefore, thefirst term in Equation B10 can be computed as:
+det[S(Q)] − n2 = det[D](A − BD−1C∗) − n2= (A − BD− 1C∗) − n2
+det[S r(Q)] det[D](Ar − BrD− 1Cr) (Ar − BrD−1Cr)
+= −1FG′ ′ − n2
+(GFG ′ + ψ − GFF − 1FG )
+(GrFG ′r + ψr − GrFF r)
+(GFG ′ + ψ − GFG ′) − n2 (B12)
+=
+(GrFG ′r + ψr − GrFG ′r)
+= n2= − n2= 1.
+ψ − ψ
+ψr ψ
+Next we further simplify the second term inEquation B10. Using Theorem 8.2.1 (1) inGraybill (1983, p. 184) and Equation 1.36 inNoble (1969, p. 25), the inverse ofΣ(Θ) and Σr(Θ) can be written as:
+S − 1(Q) = (A − BD−1C∗)− 1 − 1 − (A − BD− 1C∗)− 1BD−1 ,
+− D− 1C∗(A − BD− 1C∗) D− 1 + D− 1C∗(A − BD−1C∗)− 1BD− 1
+S r(Q)−1 −r 1 r r− Br rDr r −r 1−1 r −1 r r Cr(Ar − BrDr Cr) BrDr . (B13)
+= (A − 1Cr) − (Ar − BrD−r 1Cr)− 1BrD−r 1
+− D C (A − B D C ) D− 1 + D− 1 − 1 − 1 − 1
+Therefore, the difference betweenΣ(Θ) and Σr(Θ) can be computed as the following:
+S − 1(Q) − S (Q)−1 = (I) (II) , (B14)
+r (III) (IV)
+where (I), (II), (III), and (IV) each represents the corresponding element in this block matrix:
+(I) = (A − BD−1C∗)−1 − (Ar − BrD−r 1Cr)− 1
+1 1
+= ∗−
+A − BD− 1C Ar − BrD−r 1Cr
+1 1 (B15)
+= GFG ′ + ψ − GFG ′ − GrFG ′r + ψr − GrFGr′
+1 1 1 1
+= − = − = 0;
+ψ ψr ψ ψ
+−1 ∗ −1 − 1 − 1 − 1 − 1
+(II) = − (A − BD C ) BD + (Ar − BrDr Cr) BrDr
+= − 1 BD− 1 + 1 B D− 1
+ψ ψr r r
+= 1 −
+− ψ(B − Br)D 1
+1 − 1 (B16)
+= − ψ(GF − GrF )F
+= − ψ1 (G− Gr)
+= − 1 γ  0 ;
+ψ 1× p
+• ⎤
+− B D = ⎣ −−γ ⎦ − 1 ;
+(III) = − D− 1C∗(A − BD− 1C∗)− 1 + D−r 1Cr(Ar r −r 1Cr)−1 0 ψ (B17) p× 1
+
+(Appendices continue)
+33 HANCOCK AND FENG
+(IV) = D− 1 + D− 1C∗(A − BD− 1C∗)− 1BD− 1 − D−r 1 − D−r 1Cr(A − BrD−r 1Cr)−1BrD−r 1
+= D− 1 + D− 1C∗ 1 BD− 1 − D−r 1 − D−r 1Cr ψ1 BrD−r 1
+ψ r
+1 − 1
+= D− 1 + D− 1C∗ ψ BD− 1 − D 1 − D− 1Cr BrD−1
+ψ
+1 −
+= D 1(C∗B − CrBr)D− 1
+ψ
+= ψ1 D− 1(FG ′GF − F rG′rGrF r)D− 1
+(B18)
+= 1 F − 1(FG ′GF − FG ′ G F )F −1
+ψ r r
+= 1 ′ ′
+ψ (GG− GrGr)
+1 γ2  γb 0  0′
+= −− −− − −− −−
+ψ b ′γ b ′b 0 b ′b
+1 γ2  γb
+= −− −− .
+ψ b ′γ 0
+Therefore, Σ− 1(Θ)− Σr(Θ)− 1 is computed as:
+− 1( − 1 ⎢⎢⎡ ⎤ ψ 1× p ⎥⎥ = ⎡⎢⎢γ − − ψ1 γ 0′ ⎤⎥⎥
+• 1 ⎤ 0
+• 0 − γ  0 ⎥ ⎢⎢
+S Q)− S r(Q) = ⎢ γ 1 1 γ2  γb ⎥ ⎢⎢ 1 1 γ2 1 γb ⎥⎥⎥. (B19)
+⎣⎣ −− ⎦ − −− −− ⎦ ⎢⎣ ψ ψ ψ ⎥⎥
+0	 ψ ψ b ′γ 0 0 1 ′ ⎦
+p× 1 b γ 0
+ψ
+Therefore, the second term inEquation B10 is simplified as:
+1  − 1 (
+exp − 2 Q′ (S(Q) − S r Q)− 1)Qi
+⎧⎪⎪ i ⎡ 1 ⎤ ⎫
+⎪ ⎢ 0 − ⎥ ⎪
+⎪⎪⎪ ⎢ ψγ 0′ ⎥ ⎪⎪⎪⎪
+= exp⎪⎨⎪− 1  Qi⎢⎢⎢γ − 1 1 γ γb ⎥⎥⎥Q ⎪⎪⎬
+′ 2 1
+⎪⎪⎪⎪⎪⎪⎩ 2 ⎢⎢⎣ 0ψ 1ψ b γ ψ0 ⎥⎥⎦ i⎪⎪⎪⎪⎭
+′ ⎪⎪⎪
+ψ
+• ⎡ ⎤ ⎫
+⎪⎪⎪ 0 − 1 γ 0′ ⎪⎪⎪
+⎪⎪⎪⎪⎨ ⎢⎢ ψ ⎥⎥⎡Y ⎤⎪⎪⎪⎪
+= exp − 1 Y X C′ ⎢⎢⎢γ − 1 1 γ2 1 γb ⎥⎥⎢Xi ⎥⎬
+⎪⎪ 2 i i i ⎢ ψ ψ ψ ⎥⎥⎣ i ⎦⎪⎪⎪
+⎪⎪⎪⎪ ⎢ 1 ⎥⎦ Ci ⎪⎪⎪ (B20)
+• ′ ⎪⎭
+⎪⎩ 0 b γ 0
+ψ
+• ⎡ ⎤⎫
+= exp⎪⎨− 12  Xiγ − ψ Yi ψ1 γYiXi + Xi2 ψ γ2 + C′i ψ1 b γXi + Xi ψ ⎢CYiii ⎥⎪⎬
+1  1 1 1 2 + ′ 1 ′ 1
+= exp − Xγ − − γY + X γ C b γ Xi γb ⎣X ⎦
+⎪⎩ 2 i ψ ψ i i ψ i ψ ψ ⎪⎭
+1	 − 1 ′ 1 γbCi
+1 2 2 ′ ′
+= exp − 2ψ − XiγYi − γYiXi + Xi γ + Cib γXi + XiγbCi
+1  2 2
+p
+= exp − 2 − 2γXiYi + Xi γ + 2 (βjCij)γXi .
+ψ j= 1
+Piecing togetherEquations B12 and B20, Equation B10 can be simplified as the following:
+Lr(Qr; Q) = det[S r(Q)] − n2exp − 2 Q′ S(Q)− 1 − S r(Q) )Q
+L(Q; Q) det[S(Q)] 1 i( − 1 i
+(B21)
+  p
+= exp − 1 − 2γXY + X2γ2 + 2 (βjCij)γXi .
+2ψ i i i j= 1
+Assuming multivariate normality and independence, the likelihood ratio for the collapsed model can be similarly computed (which can be considered a special case of the uncollapsed model withp= 1):
+L(C)(Q(C); Q(C)) 1
+(C) (C) (C) = exp − 2ψ − 2γXiYi + Xi2γ2 + 2(βCC )γXi . (B22)
+Lr (Qr ; Q )
+p βj
+Since we define the collapsed model with the known constraints:C = 1 βcCj, therefore we can establish the equivalence between Equations B21 and B22:
+LL(rC) QQ((rCC));;QQ(C)  = exp − 2ψ − 2γXiYi + Xi2 + 2(βCC )γXi
+(C) (C) 1 γ2
+1 γ2 p
+= exp − − 2γX Y+ X + 2 βjC γX (B23) L(C) Q(C);Q(C) L(Q;Q)
+2ψ 1 12 j= 1 ij i
+[ C  == .
+L(rC) Q(rC);Q( ) Lr(Qr;Q)
+This establishes that the LRT statistic for testing the focal parameterγ is equivalent between the original uncollapsed model withp con- textual predictors and the collapsed model with only one composite contextual covariate.
+Received January 2, 2025
+Revision received June 2, 2025
+Accepted June 3, 2025 ▪
+
