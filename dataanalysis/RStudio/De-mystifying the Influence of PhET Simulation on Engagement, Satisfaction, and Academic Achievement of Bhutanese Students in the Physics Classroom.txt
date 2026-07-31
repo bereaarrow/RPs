@@ -1,0 +1,507 @@
+﻿Journal of Science Education and Technology (2024) 33:892–909
+classrooms of Bhutan, we have observed first-hand the challenges inherent in the country’s educational landscape. While Bhutan’s modern educational system employs English as the medium of instruction to align with global standards (Dendup, 2023), the fact that English is not the first language for many students, combined with economic constraints that limit access to traditional laboratory equipment, poses significant difficulties in delivering effective science 
+*  Tshering Dorji 
+tsheringdorji86@education.gov.bt
+Sumitra Subba sumitrasubba18@education.gov.bt
+Tshering Zangmo tshering0363@education.gov.bt
+https://doi.org/10.1007/s10956-024-10131-x
+
+De‑mystifying theI nfluence ofPhE T Simulation onEngagemen t, Satisfaction, andA cademic Achievement ofBhutanese Studen ts inthePh ysics Classroom
+TsheringDorji1	 Department of Science, Shari Higher Secondary School, 
+Paro District, Bhutan
+education. Many Bhutanese students grapple with engaging in science curricula delivered in English due to language 
+2	 Ministry ofEducation andSkills Development, Changangkha 
+  · SumitraSubba1  · TsheringZangmoMiddle Secondary School, Thimphu, Bhutan
+ 
+Accepted: 12 June 2024 / Published online: 26 June 2024 
+© The Author(s), under exclusive licence to Springer Nature B.V. 2024
+Abstract
+This study employed anon-equivalent quasi-experimental pre-test/post-test control-group design to study the effect of thePhET simulation intervention on students’ engagement, satisfaction, and academic achievement in the learning of direct current electric circuit concepts among Bhutanese students. We analysed thepre- and post-test scores and perceptions of 57 ninth-grade students, divided into experimental group (EG, n = 29) and control group (CG, n = 28), from one high school in Paro District, Bhutan. The EG students were taught with the PhET simulation intervention, while the CG students were taught with the traditional chalk- talk method. The pre- and post-test scores were collected with the Electric Circuits Conceptual Evaluation (ECEE) inventory. Mean, standard deviation, a two-sample t-test, and multiple linear regression (MLR) were computed using R and RStudio. The t-test revealed a statistically significant difference in the mean post-test scores of CG and EG students. MLR analysis further confirmed that this difference was due to the PhET simulation intervention, ruling out the influence of other confounding vari- ables. Additionally, an instrument called thePhET Engagement-Satisfaction Questionnaire was developed to assess EG students’ engagement level and satisfaction with the PhET simulation intervention. Confirmatory factor analysis and Cronbach’s alpha calculation confirmed its validity and reliability. Data from thePhET Engagement-Satisfaction Questionnaire unveiled significant impact of thePhET simulation intervention on students’ engagement level and their overall satisfaction, reinforcing prior research. However, further research witha larger sample size, incorporating lesson observations, interviews, and our measurement tool, is necessary to ascertain whether the findings it yields align with the present study’s findings.
+Keywords PhET simulations· Confirmatory factor analysis· Engagement· Satisfaction· RStudio
+
+
+Journal of Science Education and Technology (2024) 33:892–909
+Introduction
+Science education in Bhutan has undergone significant evolution since its inception with the advent of Western education in 1961. Over the years, the science curriculum has undergone numerous reforms and adaptations to align with the evolving educational landscape and the unique needs of Bhutanese learners. These transformations reflect a 
+dynamic journey towards cultivating a scientifically literate populace capable of meeting the challenges of the twenty- first century. From the early days of borrowed curriculum to the recent emphasis on STEM education, Bhutan has strived to provide a holistic and relevant learning experience (Kinley et al., 2021). However, amidst these strides, there exists a pressing need to assess and enhance the effectiveness of science instruction methodologies. As teachers in the vibrant 
+
+
+893
+Journal of Science Education and Technology (2024) 33:892–909
+barriers. Moreover, the availability of laboratory equipment in Bhutanese schools is often limited, hindering hands-on learning experiences crucial for conceptual understanding in science (Penjor et al., 2022). With experience teaching in many schools across the country, we are well aware that these schools typically have basic science laboratories. Additionally, studies have also pointed to inadequate teacher knowledge, a fragmented curriculum, and minimal integration of technology in classrooms as additional hurdles in providing effective science education (Childs et al., 2012). Consequently, the current teaching methods for STEM subjects in schools nationwide primarily consist of textbook- based instruction, a practice that fails to resonate with the digital upbringing of today’s tech-savvy generations. Given these contexts and the imperative to prepare learners for the challenges of the twenty-first century, there is a need to evaluate the efficacy of current pedagogical approaches and identify strategies for enhancing science education in schools across Bhutan.
+The advent of educational technology, or “EdTech” (Rodriguez-Segura, 2022), has given both teachers and students a myriad of educational tools, strategies, and resources (Ross et al., 2010) to enhance and facilitate teaching and learning processes. EdTech interventions in the teaching and learning process have provided students the opportunities to engage in more interactive, hands-on, and collaborative learning experiences rather than simply being passive recipients of information from textbooks or lectures (Banda & Nzabahimana, 2021; Bo et al., 2018; Perkins, 2020). One often touted technology is Physics Education Technology (PhET) simulations, created by the University of Colorado. PhET simulations, available for free download for off-line use or which can be run online from the PhET website (https://phet.colorado.edu/), are a collection of research-based interactive, animated, game-like, and easy-to-use computer simulations (Banda & Nzabahimana, 2022; Ruwiyah et al., 2021) for the teaching and learning of topics in science and mathematics. A PhET simulation holds the potential to revolutionise science education for several reasons.
+PhET simulations possess numerous hallmark features that render them an effective tool for educators to incorporate into their teaching processes (Ruwiyah etal., 2021). Firstly, the simulations have “extraordinary potential to facilitate authentic  inquiry  practices  that  include  articulating questions, hypothesis formulation, exploring the effect of data in a situation, and theory revision” (Rutten etal., 2012, as cited in Almasri, 2022, p. 7164). This type of inquiry- based exploration shifts the focus from a teacher-centred classroom to a more student-centred one, where students can explore, experiment, discover, and develop a deeper understanding of scientific concepts and phenomena by enabling them to form their own hypotheses and test them through virtual simulations. “Just as scientists construct and 
+expand their knowledge through experimentation, students can simultaneously be constructing and expanding their knowledge through exploration and discovery in interactive simulations” (Perkins, 2020, p. 43). Indeed, when evaluated based on Dale’s Cone of Experience, this EdTech tool fell into the category of concrete experience, which is effective in engaging 90% of students in educational tasks such as observation, experimentation, and data analysis (Haryadi 
+& Pujiastuti, 2020). PhET simulations provide students with a more inclusive, effective, interactive, and engaging virtual learning environment to explore and experiment with abstract concepts and phenomena they may not otherwise have access to in real classroom settings (Lindgren et al., 2016). For example, the “Build an Atom” simulation allows students to manipulate subatomic particles to build different types of atoms and observe their behaviour, providing a hands-on learning experience that is difficult to replicate in a traditional classroom setting. Secondly, PhET simulations offer a challenging and game-like environment (Perkins etal., 2012), where students learn through inquiry-based authentic explorations (Ruwiyah et al., 2021), making the learning experience more dynamic and exciting. For example, the Circuit Construction Kit activity challenges students to apply their knowledge and problem-solving skills to make working circuits with the minimal electronics kit at their disposal in the simulation itself (Perkins et al., 2012). Thirdly, the instant dynamic feedback provided by the simulations allows students to identify and correct their misconceptions (Ganasen & Shamuganathan, 2017), explore cause-and- effect relationships, and answer scientific questions through simulated exploration (Ruwiyah et al., 2021), fostering a deeper understanding of the scientific concepts. Fourthly, they are designed to help students develop a mental picture of the scientific phenomenon, enabling them to retain the information for longer periods of time (Ruwiyah etal., 2021). Fifthly, PhET simulations incorporate diverse representations of scientific concepts, including object movements, graphs, and numerical data. This caters to diverse learning styles and enables students to interact with the simulations in a way that best suits them (Almasri, 2022). By providing visual and interactive representations of scientific concepts, PhET simulations allow students to understand complex ideas without relying on text-based explanations, thus transcending language barriers. Lastly, these simulations circumvent the need for expensive equipment, making science instruction more accessible and efficient in classrooms.
+Recent international studies have used PhET simula- tions in teaching subjects like physics (Almasri, 2022; Banda & Nzabahimana, 2022; Chinaka, 2021; Haryadi 
+& Pujiastuti, 2020), chemistry (Almasri, 2022; Ganasen 
+& Shamuganathan, 2017), biology (Almasri, 2022), and other disciplines (Liu & Lin, 2010). Despite the differ- ences in methodology, the foregoing studies have found a 
+
+
+
+Journal of Science Education and Technology (2024) 33:892–909
+positive impact of PhET simulation interventions on the academic performance of students. In addition to academic performance, studies also revealed satisfaction (Almasri, 2022), engagement (Almasri, 2022; Mrani et al., 2020), motivation (Banda & Nzabahimana, 2022; Mrani et al., 2020; Prima et al., 2018), and a positive attitude towards learning science (Banda & Nzabahimana, 2022; Lee et al., 2021; Lindgren et al., 2016) as the positive outcomes of students’ involvement with PhET simulation-based learn- ing. Further, studies have also found gains in analytical, critical thinking, strategic, and problem-solving abilities as the outcomes of simulation-assisted learning (Falloon, 2019; Gani et al., 2020; Sanina et al., 2020). However, research studies conducted in Bhutanese schools to sup- port such claims are relatively sparse (see Tenzin et al., 2023; Penjor et al., 2022). This research gap impedes a comprehensive understanding of the potential benefits of PhET simulations on students’ learning outcomes in Bhu- tanese schools.
+Given the foregoing contexts, we are compelled to explore the potential of PhET simulations as a pedagogi- cal tool to overcome barriers to effective science education 
+in Bhutan. Specifically, this study addressed the following research questions:
+1. What is the effect of PhET interactive simulation-based instructional approach on academic performance, engagement, and satisfaction in physics class?
+2. Are the differences in learning gains due to the effect of PhET simulation intervention or due to some other confounding variables?
+Study’s Significance
+Such a study aligns with Bhutan’s vision of nurturing a gen- eration of scientifically literate citizens capable of contribut- ing meaningfully to global scientific discourse and address- ing complex societal challenges. Moreover, this study provides further empirical validation of the existing research in the literature advocating PhET simulation as a powerful teaching tool for enhancing student engagement, satisfaction, and academic performance. Additionally, our study also vali- dates the efficacy of the six heuristics (Table 1) developed 
+
+
+
+Journal of Science Education and Technology (2024) 33:892–909
+Table 1  Six heuristics and their description of how it was used
+Six heuristics
+1. Use the simulation to coordinate multiple forms of representation
+2. Use the simulation to mediate discussion
+3. Set up game-like situations and take advantage of explicit and implicit challenges
+4. Focus on illuminating cases
+5. Ask students to re-create or re-present features
+6. Use “Predict, Observe, Explain” methods
+Description
+Students were involved in the creation of series and parallel DC circuits 
+with the PhET simulation’s drag-and-drop components. Addition- ally, instructions to check current values and voltage drops at different points using voltmeters and ammeters were given. Further, emphasis was placed on observing how circuits with different parameters influ- enced the overall behaviour of the circuits
+Students were prompted with specific circuit configurations or instructed 
+to change certain parameters (voltage, resistance, and current) in the series and parallel circuits. This was given to facilitate interactive and engaging discussions and ultimately enhance the understanding of the circuit concepts
+Students were asked to build circuits with specific requirements, such as 
+achieving a certain voltage or current output, and observe their impact on the circuit. Additionally, identifying and rectifying circuit issues to foster a problem-solving mindset, experimenting with changing volt- age, resistance, and current, and balancing resistance to achieve desired current or voltage output activities were given
+Students were presented with series and parallel circuits with different 
+parameters (voltage, resistance, and current). Subsequently, they were instructed to discuss in group how circuits with different parameters influence the overall behaviour of the circuits
+Students were tasked with creating a given circuit using the simulation 
+based on provided diagrams or descriptions or real circuits made with real components like resistors, bulbs, batteries, and wires. This hands- on experience will reinforce their understanding of circuit components and series and parallel circuits
+Students were tasked with predicting the outcomes of specific circuit 
+configurations or changing certain parameters (voltage, resistance, and current) in the series and parallel circuits without simulation. Subse- quently, using simulation, they were asked to observe, compare results with predictions, and explain any discrepancies
+
+
+895
+Journal of Science Education and Technology (2024) 33:892–909
+
+
+
+
+Journal of Science Education and Technology (2024) 33:892–909
+by Rehn et al. (2013) as a potent strategy for facilitating the productive use of the PhET simulations.
+Theoretical Framework andHypothesis Development
+This study is guided by several educational theories and models such as constructivist pedagogy, experiential learning theory, and technology acceptance model (TAM). Constructivist pedagogy and experiential learning theory, rooted in the constructivist learning theory, pioneered by Jean Piaget and Lev Vygotsky, emphasise active, contex- tual, and social learning, where learners construct knowl- edge through experiences and interactions with their envi- ronment (Richardson, 2003). Piaget’s theory emphasises the active role of learner in the learning process, suggest- ing that knowledge is best acquired through active interac- tion and hands-on activities rather than passively receiving and memorising information (Zajda, 2021). PhET simula- tion-assisted teaching supports this by providing interac- tive, hands-on experiences that engage students in active learning. For example, in the “Circuit Construction Kit” simulation used in this study, students can build their own electrical circuits by dragging and dropping components like batteries, wires, and light bulbs. They can change the configuration and immediately see the effects, such as how altering the resistance impacts the brightness of the light bulb. This hands-on activity requires students to actively engage with the concepts of electricity and electric cir- cuits. Additionally, the feedback provided by the PhET simulations to students while exploring the simulations resembles the concept of scaffolding proposed by Lev Vygotsky. Similar to how scaffolding, typically provided by a more knowledgeable other such as teacher or peer, assists learners in mastering tasks beyond their current level of competence, feedback mechanisms within PhET simulations serve to guide students through the learning process. For example, dragging a slider might change a variable, and the immediate feedback (in the form of vis- ual changes, numerical updates, or other indicators) helps users understand the relationship between their actions and the outcomes. PhET simulations also facilitate social interaction, another critical aspect of Vygotsky’s social constructivist theory, by encouraging collaborative prob- lem-solving and discussions among students. Addition- ally, to maximise the effectiveness of simulation-based teaching, Kolb’s (2014) experiential learning theory was also used. While direct research linking PhET simulations to Kolb’s experiential learning theory is lacking, Meyer et al.’s (2021) study in the clinical field suggests that inte- grating four stages of Kolb’s experiential learning theory into simulation-based education can significantly enhance 
+students’ skills and performance across various subjects. Kolb proposed a four-stage learning cycle, which includes concrete experience, reflective observation, abstract con- ceptualisation, and active experimentation (Babin et al., 2019; Lehane, 2020). According to Kolb, concrete expe- rience involves engaging in hands-on, discovery-based learning experiences like simulation, reflective obser- vation involves reflecting on their concrete experiences, abstract conceptualisation involves conceptualising their observations to formulate hypotheses or mental models to explain the observed phenomena, and active experimen- tation involves testing their hypotheses through further experimentation (Babin et al., 2019; Lehane, 2020). Even- tually, optimal learning takes place when learners experi- ence all four stages (Poore et al., 2014). Simulation-based teaching aligns well with this theory, as it offers opportu- nities for students to engage in immersive hands-on activi- ties, receive immediate feedback encouraging reflection, develop theories, and test those theories through further experimentation within the simulations. Furthermore, this study integrates technology acceptance model (TAM; Davis, 1987), into its theoretical framework. TAM pro- vides a framework for understanding whether users will accept or refuse a technology (Fussell & Truong, 2022). According to TAM, perceived ease of use and perceived usefulness are critical factors that influence users’ atti- tudes towards and acceptance of a new technology (Fussell 
+& Truong, 2022). If users perceive a technology as easy to use, they are more likely to accept and adopt it, whereas perceived complexity or difficulty may deter it. Users are more likely to accept and use a technology if they believe it will be useful to them in achieving their goals. In the context of this study, TAM is used to explore how Bhuta- nese students perceive PhET simulations. We hypothesised that if students perceive the simulations as easy to use and useful for understanding scientific concepts, they are more likely to engage with the PhET simulations. This height- ened engagement, in turn, was anticipated to positively influence their learning outcomes.
+Method
+Research Design
+This study used a mixed method approach. The study employed a non-equivalent quasi-experimental pre-test/ post-test control-group design to compare the academic per- formance of experimental group (EG) students, who were taught with the PhET simulation intervention, with those in the control group (CG), who were taught with the traditional chalk-talk method. The concepts covered in the study was direct current (DC) circuit concepts, including topics such 
+
+
+
+Journal of Science Education and Technology (2024) 33:892–909
+as electric current, resistance, potential difference, electric power, series, and parallel DC circuits. The Electric Circuits Conceptual Evaluation (ECEE) inventory was used as both pre- and post-test measures. To assess EG students’ engage- ment level and satisfaction with the PhET simulation inter- vention, data were collected through a self-created measure called the PhET Engagement-Satisfaction Questionnaire and a qualitative, open-ended reflective survey.
+Setting, Sample Size, andS ampling Method
+This study employed a two-sample approach. Initially, data was collected from 302 tenth–twelfth grade students from two higher secondary schools in western Bhutan to assess the questionnaire’s psychometric properties. This sample was 59.9% male and 40.1% female, with an average age of 16.2 years. Subsequently, for the pri- mary research investigation, akin to a second pilot study due to the small sample size, 57 ninth-grade students enrolled in three different sections at our school were used. This sample, with an average age of 15.6, was used to address the research questions. This smaller sample consisted of 57.9% males and 42.1% females. These students were divided into two groups: CG (n = 28) 
+and EG (n = 29). To ensure impartial group labelling, a flip of the coin was conducted. Both sets of samples were selected via the convenience sampling method. This approach was chosen for its practicality and ease of access to the student population under investigation (Andrade, 2021).
+Instruments
+ECEE
+We used the original English version of the ECEE, a con- cept inventory developed by Sokoloff (1992), to assess students’ mastery of direct current (DC) circuit concepts, including electric current, resistance, potential difference, electric power, series, and parallel DC circuits. Permission to download and use the ECEE inventory from https://www. physport.org was approved. The original ECEE contained 45 multiple-choice test items. However, only 32 items, specifi- cally items 1 to 16 and 23 to 38, pertaining to DC electric circuit concepts, were included in this study. The developer, Sokoloff (1992), carried out a rigorous process to establish its validity and reliability.
+
+
+
+Journal of Science Education and Technology (2024) 33:892–909
+Table 2  CFA results of PhET Engagement-Satisfaction Questionnaire
+Items Factor loadings
+1 2
+E1. I found the PhET simulation-assisted learning interesting and engaging 0.535
+E2. Using the PhET simulation helped me understand taught concepts better 0.727
+E3. I actively participated in the PhET simulation-assisted learning activities 0.534
+E4.The PhET simulation-assisted learning helped me develop analytical, critical thinking, and problem-solving skills 0.607
+E5. The PhET simulation helped me visualise and grasp abstract taught physics concepts 0.710
+E6. I found the PhET simulation-assisted learning boring and uninteresting 0.605
+E7. The use of PhET simulation felt like a waste of time 0.210
+E8. I would like to use PhET simulation for learning other subjects too 0.473
+E9. I struggled to understand the taught concept/s while using the PhET simulation 0.310
+E10. PhET simulation made me feel more confident about my understanding of taught concepts 0.606
+E11. Overall, I found PhET simulation-assisted learning of taught concepts to be effective and engaging 0.645
+S12. The PhET simulation was relevant to the concepts taught 0.453 S13. The PhET simulation was easy to use and understand 0.659 S14. The PhET simulation was interactive and engaging 0.712 S15. The PhET simulation provided clear explanations and feedback 0.718 S16. The PhET simulation helped me perform better on post-intervention assessments 0.687 S17. The PhET simulation made learning physics more enjoyable 0.670 S18. The PhET simulation increased my interest in learning physics 0.578 S19. I would like to use PhET simulation in future classes 0.660 S20. I would recommend the use of PhET simulation to other students 0.614 S21. Overall, I am satisfied with my experience in PhET simulation-assisted learning of taught physics concepts 0.654
+1 = engagement factor, 2 = satisfaction factor
+
+
+897
+Journal of Science Education and Technology (2024) 33:892–909
+PhET Engagement‑Satisfaction Questionnaire
+A tool named PhET Engagement-Satisfaction Questionnaire (Table 2) was developed to estimate students’ engagement level and satisfaction with the PhET simulation intervention during their study of DC electric circuit concepts. A total of 21 observed variables (items) were adapted from existing sur- vey questionnaires (Jefferies & Rizzolo, 2006; Lindgren etal., 2016) and the TAM model. The questionnaire consisted of three sections. Section A collected participants’ demographic information, such as their current grade level, age, and other confounding variables (discussed below). Sections B and C with, 11 and 10 items, respectively, measured EG students’ engagement level and satisfaction with the PhET simulation intervention. Each item was measured on a five-point Likert- type scale (1 = Strongly Disagree, 2 = Disagree, 3 = Neutral, 4 = Agree, and 5 = Strongly Agree). Negatively keyed items were reverse-scored before conducting any analysis.
+Before administering the PhET Engagement-Satisfaction Questionnaire to the actual sample, a pilot study was con- ducted to assess its psychometric properties via CFA and Cronbach’s alpha analysis. The details are mentioned under the “Statistical Analysis” section.
+Confounding Variables
+Researchers (e.g. Pourhoseingholi et al., 2012; Theobald 
+& Freeman, 2014) have asserted that failure to control the impacts of confounding variables in a non-equivalent quasi- experimental pre-test/post-test control-group research design study can potentially mislead researchers and lead to valid- ity issues. Confounding variables refer to the extraneous variables that have the potential to exert an influence on the response variable (Pourhoseingholi et al., 2012). There- fore, to confirm whether the difference in the mean post- test scores of the CG and EG students is due to the PhET simulation intervention, we collected data on students’ prior exposure to PhET simulation, hours spent preparing for the post-test, prior knowledge of taught concepts, and level of motivation to learn physics.
+Qualitative Reflective Survey
+To elicit a comprehensive understanding of students’ percep- tions regarding the usefulness of PhET simulation interven- tion, we also collected qualitative reflective responses from a few EG students using open-ended questions. Students responded to the reflective survey in English.
+Data Collection Procedures andIn tervention
+This study was conducted during the academic year 2023. Ethical approval for conducting the study was sought from 
+the school’s principal. The study’ purpose and objectives were thoroughly explained to the school principal and participants. Informed consent was obtained from all parents and partici- pants, given the students’ minor status. Prior to the instruc- tional intervention, a pre-test was administered to diagnose and evaluate students’ prior knowledge of DC electric circuits. This pre-test also served to determine whether the academic achievement levels of the CG and EG students were similar before the intervention (Banda & Nzabahimana, 2022). Subse- quently, as mentioned earlier, the CG students were then taught in a traditional way with the chalk-talk method, while the EG students were taught with a free-ware PhET simulation titled “Circuit Construction Kit: DC” (available at https://phet.color ado.edu). To minimise any teacher-related effects, both groups were taught by the same teacher in English, who was one of the researchers. The CG students did not use both real circuits or PhET simulations during the study. They only engaged in theoretical learning and traditional problem-solving exercises (network problem-solving) without hands-on practice, either with simulations or physical components. As for the EG stu- dents, they participated in both hands-on practice with real circuit and PhET simulation activities (see Fig. 8). Initially, they engaged in PhET simulation activities. After mastering the concepts through simulation, they transitioned to practical work with real circuits. They used battery eliminators (device that provide a stable DC power supply by converting AC from the mains), wires, resistors, ammeters, one-way keys, voltme- ters, and multimeters (see Fig. 8), to recreate the circuits they had built virtually. This practical work involved constructing series and parallel circuits, measurement of actual current and voltage, and observation of any disparities between simulated and real circuit behaviour. Both activities were conducted in English, as it serves as the medium of instruction in Bhutan’s modern educational system (Dendup, 2023).
+To develop the PhET simulation activities for EG students, we used six heuristics—a research-based strategies devel- oped by Rehn etal. (2013)—to facilitate the productive use of the PhET simulations. Table 1 depicts these six heuristics and describes their implementation in the present study.
+After the interventions, a post-intervention post-test was administered to both classes. Then, EG students’ engagement and satisfaction levels with the PhET simu- lation intervention were assessed using the PhET Engage- ment-Satisfaction Questionnaire and a qualitative, open- ended reflective survey. Students completed their ECEE pre- and post-tests using the English version, the only version available, and also responded to the two survey questionnaires in English.
+Statistical Analysis
+Data was entered into Microsoft Excel, cleaned, and analysed using the statistical software RStudio, version 
+
+
+899
+Journal of Science Education and Technology (2024) 33:892–909
+2024.04.1 + 748, as explained below. Statistical analysis was considered significant at the p < 0.05 level.
+PhET Engagement‑Satisfaction Questionnaire’s Psychometric Evaluation
+CFA was conducted with initial data collected from 302 students to assess its structural or factorial validity (i.e. whether 21 items are related to the two hypothesised latent variables (factors), engagement and satisfaction, as expected) of the PhET Engagement-Satisfaction Ques- tionnaire. CFA was chosen because of its unique ability to explore the causal relationships among latent and observed variables in pre-defined, theory-derived models (Tavakol 
+& Wetzel, 2020). CFA was conducted using the cfa () func- tion from the lavaan package in R (Rosseel, 2012). Before conducting CFA, data screening procedures were con- ducted, including the examination of missing data, outli- ers, and univariate and multivariate normality. Fortunately, there were no missing data or outliers in our datasets. The univariate and multivariate normalities of the data were checked using the mardia () function from the mvnormal- Test package (Zhou & Shao, 2014). Since our data did not meet both the univariate and multivariate normality assumptions (Li, 2016), we chose Diagonally Weighted Least Square (DWLS) for estimating CFA models (Ross 
+& Bauldry, 2022). We set the variance of the latent vari- able to one. To assess the CFA model’s goodness-of-fit, various goodness-of-fit indices including chi-square test (χ2) and χ2/df, Root Mean Square Error of Approxima- tion (RMSEA) with 95% confidence interval (CI), Com- parative Fit Index (CFI), Tucker-Lewis Index (TLI), and Standardised Root Mean Square Residual (SRMR) were used. The CFA model was deemed to be a good fit for the data when the χ2 result was non-significant (Marsh 
+& Hocevar, 1985) and the χ2/df < 2 (Hu & Bentler, 1999; Schreiber et al., 2006). The adequacy of the other fit indi- ces was assessed by comparing them to the threshold val- ues recommended in prior research studies (Hu & Bentler, 1999; Ross & Bauldry, 2022; Schreiber et al., 2006); RMSEA ≤ 0.05, CFI ≥ 0.95, and SRMR < 0.08 indicate 
+the model’s good fit to the observed data. Due to the χ2 statistic’s sensitivity to the sample size (Marsh & Hocevar, 1985) and departures from multivariate normality in the data (Ross & Bauldry, 2022), more importance is placed 
+on these fit indices, because the χ2 statistic tends to reject the null hypothesis in samples larger than 100 (Lebowitz et al., 2019; Ross & Bauldry, 2022). Finally, we used the semPlot () function from the semPlot package to visualise the ultimate CFA model (Fig. 1). Furthermore, to estimate the questionnaire’s construct reliability, Cronbach’s alpha coefficient was calculated and assessed following George and Mallery’s (2019) guidelines.
+Main Data Analysis
+To address research question 1, tables, graphs, mean (M), median, standard deviations (SD), and interquartile range (IQR) were used to describe and summarise the pre- and post-test scores collected from EG and CG students. Addi- tionally, an independent two-sample t-test (hereafter t-test) was computed to examine the statistical significance of the difference in means of the pre- and post-test scores of CG and EG students. To quantify the magnitude of the dif- ference, if any, Cohen’s d effects size was calculated. Its magnitude was assessed using the thresholds outlined in Cohen (1992), that is, |d|< 0.2 “negligible”, |d|< 0.5 “small”, |d|< 0.8 “medium”, otherwise “large”. Assumptions of the t-test were checked, including the normality of the data and Levene’s test of homogeneity of variances. No violations were observed. Specifically, the normality of the data was checked visually by plotting diagnostic plots such as histo- grams and Quantile–Quantile plots (Q-Q plot). Additionally, the Shapiro–Wilk test, skewness, and kurtosis values were also computed.
+Parametric tests, like t-tests, assume the data follows a normal distribution and that the variances of two groups (EG and CG) are equal. The Shapiro–Wilk test assesses if the data are normally distributed, while Levene’s test checks whether the variances of two groups are equal. If both tests’ p values are greater than the chosen significance level (  = 0.05), it indicates the data follows a normal distribution and variances are similar between groups. Skewness and kurtosis also help assess the normality of the data. Skewness measures the asymmetry of a distribution, with a skewness of zero indicating symmetry (Kallner, 2018). Kurtosis measures the peakedness or tailedness of the distribution, with a kurtosis of 3 indicating a normal distribution (Kallner, 2018). Deviations from these values result in the non-normality of the data. In such cases, non-parametric tests may be more suitable (Mishra et al., 2019). Histograms and Q-Q plots provide a graphical representation of data distributions.
+Additionally, means and SD were calculated for each item under the engagement and satisfaction constructs. The means were categorised into three levels: low (1.7 or lower), medium (1.8–3.5), and high (3.6–5.0) to describe EG students’ level of engagement and satisfaction with the PhET simulation intervention. Furthermore, Pearson’s correlation coefficient was calculated to examine the potential association between engagement, satisfaction, and the post-test scores achieved by EG students. Finally, qualitative analysis was performed on the data obtained from the post-intervention reflective survey to gain comprehensive understanding of students’ percep- tions about the PhET simulation intervention.
+To address research question 2, MLR analysis was con- ducted. This analytical approach enabled us to thoroughly examine whether the post-test score gains of EG students 
+
+
+
+Journal of Science Education and Technology (2024) 33:892–909  899
+
+Fig. 1  Ultimate CFA model. Items E7 and E9 were excluded due to factor loadings below 0.40
+
+
+
+were due to the PhET simulation intervention or other con- founding variables (Banda & Nzabahimana, 2022; Theobald 
+& Freeman, 2014). We defined and integrated the follow- ing confounders into our MLR analysis: Pre_Test (students’ pre-test scores), Post_Test (students’ post-test scores), Treat- ment (whether students were in the class that received PhET simulation intervention; Treatment = 1 if the students were in intervention class and a 0 otherwise), Prior_Exposure_ PhET (how frequently students have used PhET simulation before the current study; Prior_Exposure_PhET = 0 if they have never used, 1 if they have used it a couple of times, 2 if they have used it few times a week and 3 if they have used it daily), Hours_Spent (hours spent preparing for post- test; Hours_Spent = 1 if less than one hour, 2 if 1–2 h, 3 if 3–4 h, 4 if 5–6 h and 5 if more than 6 h), Prior_Knowl- edge (students’ prior knowledge of DC electric circuit on a scale of 1–5; 1 = very weak foundation and 5 = very strong foundation), and Motivation (students’ level of motivation to learn Physics on scale of 1–5). The regression model was specified as Post_Test = β0 + β1 (Pre_Test) + β2 (Treat- ment) + β3 (Prior_Exposure_PhET) + β4 (Hours_Spent) + β5 (Prior_Knowledge) + β6 (Motivation) +   . Here, β0, β1, β2, β3, β4, β5, and β6 are the regression coefficients that describe 
+the relationship between each confounder and the students’ post-test scores and   represent the random disturbance or error (Chatterjee & Hadi, 2013). Assumptions of MLR were checked, including linearity, normality of residuals, and homoscedasticity. No violations were observed.
+Result
+PhET Engagement‑Satisfaction Questionnaire’s Psychometric Properties
+The initial CFA with initial data indicated an accept- able fit of the data to the hypothesised two-factor meas- urement model with 21 observed variables (χ2 (188, N = 302) = 253.733,  p = 0.001,  χ2/df = 1.35, CFI = 0.991, TLI = 0.990, RMSEA = 0.034 (90% CI [0.022, 0.044], p = 0.996), and SRMR = 0.063), providing evidence for the questionnaire’s factorial validity. The standardised loadings for each observed variable on their respective latent factors ranged from 0.210 to 0.727 (Table2). While this model’s fit indices are reasonably good, item-level inspection revealed some items factor loading below 0.400. Although there is no 
+
+
+
+Journal of Science Education and Technology (2024) 33:892–909
+Table 3  Group statistics of pre- test scores
+ 
+                      Group             n             Score range              M               SD              SEM
+Pre-test scores       CG* EG*           28 29         4–12 2–12                7.89 7.21       2.11 2.31       0.47 0.53
+* CG control group (chalk-talk group), EG experimental group (PhET group)
+
+
+
+Journal of Science Education and Technology (2024) 33:892–909
+universally accepted cut-off value for factor loadings (Doll et al., 1995), following Ross and Bauldry’s (2022) recom- mendation, we dropped items E7 and E9 under engage- ment factor with factor loadings below 0.40 and re-ran the CFA. The respecified model, represented by Fig. 1, yielded an even better fit (χ2 (151, N = 302) = 170.559,  p = 0.132, χ2/df = 1.13, CFI = 0.997, TLI = 0.997, RMSEA = 0.021 (90% CI [0.000, 0.035], p = 1.00), and SRMR = 0.056) with standardised factor loadings ranging from 0.452 to 0.722. All of the goodness-of-fit indices of the model comfortably met the threshold values recommended in prior works (Hu & Bentler, 1999; Ross & Bauldry, 2022), indicating a good fit between the model and the data. Hence, no further modifica- tion to the model was deemed necessary. The plot displayed in Fig. 1 shows the ultimate CFA model with 19 measure- ment items. Items E7 and E9 under the engagement factor were excluded due to factor loadings below 0.400.
+In Fig. 1, a single-headed arrow from a latent to the observed variables shows the causal relationship between them, and a double-headed arrow shows a covariance between the factors (Li, 2016; Tavakol & Wetzel, 2020). The correlation between the engagement and satisfaction construct was 0.89. The little double-headed arrows out- side the observed variable boxes represent the error vari- ances, capturing unaccounted-for variability or measure- ment error within the 19 items. While collecting data from 302 students, we did not consider confounding variables, also known as extraneous variables, which may uniquely 
+influence each student’s engagement and satisfaction sur- vey responses. These error variances in the CFA plot repre- sent this unpredictability or distinct influences that are not directly accounted for.
+The instrument’s construct reliability was evidenced by Cronbach’s alpha coefficient of 0.92 (95% CI = 0.90–0.93). The  Cronbach’s  alpha  coefficient  was  0.83  (95% CI = 0.79–0.85) for the engagement factor and 0.87 (95% CI = 0.85–0.90) for the satisfaction factor of the PhET Engagement-Satisfaction Questionnaire. These values indicate good to excellent internal consistency reliability (George & Mallery, 2019). Collectively, the CFA and Cron- bach’s alpha analysis support the validity and reliability of the 19-item PhET Engagement-Satisfaction Questionnaire.
+Results forQ uestion 1
+Table 3 shows the group statistics for the pre-test scores of CG and EG. The data in the table clearly shows that stu- dents in CG performed better than in EG. Figure 2 further validates this result.
+Figure 2 depicts the boxplots with jitters for the pre-test scores. Before the intervention, we observed a slight dif- ference between the EG (median = 7, IQR = 4) and the CG (M = 8, IQR = 3.3) students’ knowledge of DC electric cir- cuits, indicated by a relatively close median. The EG had a median pre-test score of 7 with an interquartile range (IQR) of 4. In contrast, the CG exhibited a slightly higher median 
+
+
+
+Journal of Science Education and Technology (2024) 33:892–909
+Fig. 2  Box plot with jitters of  
+CG and EG students’ pre-test  
+scores 
+
+
+
+Journal of Science Education and Technology (2024) 33:892–909 
+
+Fig. 3  Histogram of pre-test scores, ranging from 2 to 12
+
+Fig. 4  Q-Q plot of pre-test scores
+score of 8 but a narrower IQR of 3.3. The IQRs suggest that the CG’s pre-test scores were more concentrated around the median and the EG’s scores were more dispersed.
+To check whether the differences between the pre-test mean scores (Table 3) were significant or not, a t-test was executed. Before conducting the t-test, the normality of the data was checked. As seen in Fig. 3, the distribution of the histogram is fairly bell-shaped, with one peak in the centre of the distribution, which is typical of data that is normally distributed. Additionally, nearly all data points (pre-test scores) fell along 45-degree straight reference diagonal line in a Q-Q plot, indicating a normal distribution of the data (see Fig. 4). Skewness (0.03) and kurtosis (2.57) were also 
+901
+in the acceptable range (Kallner, 2018; Lei & Lomax, 2005). Additionally, the Shapiro–Wilk test showed that the data was normally distributed (W = 0.97, p = 0.25). Further, Levene’s test showed that the pre-test scores of the two groups have equal variances, F(1, 55) = 0.30, p = 0.59. Furthermore, there were no outliers in the pre-test scores, as assessed by the rstatix package’s identify_outliers () function.
+After testing the assumptions, we conducted the t-test. The t-test result suggested no statistically significant dif- ference between the mean pre-test scores of CG (M = 7.89, SD = 2.11) and EG (M = 7.21,  SD = 2.31);  t (55) = 1.17, p = 0.25. This result suggests that any post-intervention dif- ferences between the CG and EG can be solely attributed to the effect of PhET simulation intervention, rather than other confounding variables (Petrus, 2015).
+Table 4 depicts the group statistics of post-test scores of CG and EG students. As desired, students in the EG per- formed better than those in the CG. Figure 2 further vali- dates this result.
+Figure 5 depicts the boxplots with jitter for the post- test scores. After the intervention, we observed a notable improvement in the EG (median = 13, IQR = 2) compared to the CG (M = 11, IQR = 2). The median mark of the EG was 13, indicating that half of the students in this group scored 13 or above. In contrast, the CG had a lower median mark of 11, suggesting that half of the students in this group scored 11 or higher. This result suggests that the intervention was effective in improving the post-test scores of the EG students. However, both groups exhibited the same level of variability in their post-test scores, as indicated by the simi- lar IQRs. This suggest that the intervention did not have a significant impact on the spread of the post-test scores. The box plots (Figs. 2 and 5) show a clear shift in the distribution of post-test scores among EG students, indicating that PhET simulation intervention had a positive impact on learning DC electric circuit concepts.
+To check whether the differences between the means of post-test scores (Table 4) were significant or not, a t-test was executed. Before running the t-test, assumptions were checked. Figure 6 shows that the distribution of the histo- gram is fairly bell-shaped, with one peak in the centre, as is typical of normally distributed data. Additionally, as seen in Fig. 7, all Q-Q plot data points (post-test scores) were within the 95% confidence bounds, demonstrating a nor- mal distribution of the data. In addition, skewness (−0.19) 
+
+
+
+Table 4  Group statistics of 
+post-test scores
+                                                                  Group             N            Score range             Mean             SD              SEM
+                                           Post-test scores       CG* EG*           28 29        8–13 10–16              11.1 13.2        1.46 1.26       0.28 0.29
+* CG control group (chalk-talk group), EG experimental group (PhET group)
+
+
+ Journal of Science Education and Technology (2024) 33:892–909
+Fig. 5  Box plot with jitter of  
+CG and EG in post-test scores 
+
+
+ Journal of Science Education and Technology (2024) 33:892–909
+and kurtosis (2.66) were also in the acceptable range (Kall- ner, 2018; Lei & Lomax, 2005). Additionally, the Shap- iro–Wilk test showed that the data was normally distributed (W = 0.96, p = 0.09). Further, Levene’s test showed that the post-test scores of the two groups have equal variances, F(1, 55) = 0.89, p = 0.35. Furthermore, there were no extreme outliers in the post-test scores.
+The results of the t-test indicate significant differences in mean post-test scores between the CG and EG: t (55) = 5.64, p < 0.001 (6.2e − 07),  d = 0.3 (95% CI [−0.224, 0.844]). Despite the effect size being deemed “small” according to Cohen’s guidelines, on average, EG students (M = 13.2, SD = 1.26) notably outperformed CG students (M = 11.1, SD = 1.46). Interestingly, despite CG’s better overall per- formance in the pre-test (see Table 3), they were unable to outperform EG students in the post-test. This underscores the positive influence of the PhET simulation intervention on the learning outcomes of EG students. This is further supported by the narrower standard deviation observed in 
+
+Fig. 6  Histogram of post-test scores, ranging from 8 to 16
+the EG compared to the CG, indicating more consistent per- formance among EG students. Notably, EG students’ scores clustered closely around 13.2, whereas CG students hovered near 11.1. This observation indicates that the intervention may have had a stabilising effect, ensuring that most students achieved similar levels of success. In sum, these findings confirm the beneficial impact, albeit modest, of the interven- tion on students’ outcomes.
+EG Students’ Engagement andS atisfaction Level.
+Tables 5 and 6 show the frequencies of responses in each category (SD, D, N, A, and SA) along with the means and SD of the responses for each item under engagement and satisfaction factors. The SD indicates the spread or vari- ability in the responses around the mean score. Under the engagement factor, item E2 (Using the PhET simulation helped me understand taught concepts better) received the highest score (M = 4.2) of all items. As expected, item E6 
+
+Fig. 7  Q-Q plot of post-test scores
+
+
+
+Journal of Science Education and Technology (2024) 33:892–909  903 Table 5  Responses of items in  Item SD D N A SA M* SD
+engagement construct (N = 29)
+E1 0 0 6 14 9 4.1 0.72 E2 0 0 2 18 9 4.2 0.58 E3 0 1 5 13 10 4.1 0.82 E4 0 0 8 17 4 3.9 0.64 E5 0 3 4 18 4 3.8 0.82 E6 12 13 4 0 0 1.7 0.67 E8 0 0 5 18 6 4.0 0.63 E10 0 1 5 19 4 4.0 0.57 E11 0 1 2 18 8 4.1 0.69 Total mean 3.8
+M* for E1 = (1 × 0 + 2 × 0 + 3 × 6 + 4 × 14 + 5 × 9)/29 = 4.1
+
+
+
+(I found the PhET simulation-assisted learning boring and uninteresting) received the lowest score (M = 1.7) of all items. The overall mean score of the engagement factor was 3.8. Consequently, the engagement level of students in EG fell into the “High” mean category. Additionally, the mean of each item expressing positive feedback about the PhET simulation was above 3.8 on a five-point Likert scale. This suggests that EG students were highly engaged in the PhET simulation intervention.
+Further, a qualitative analysis of the students’ reflective surveys unveiled that the PhET simulation used in this study was an engaging and valuable tool for understanding the concepts of DC electric circuits. Students responded to the reflective question “How did you find the experi- ence of using the PhET simulation in your lessons, and what impact do you think it had on your understanding of the concepts taught?” in English. They were instructed to seek help from their English language teachers in correct- ing any grammar or spelling mistakes in their reflections.
+For instance, one student said:
+“The simulation provided an excellent platform for exploring series and parallel circuits. It allowed me to construct circuits of my own design and observe the outcomes much faster and I was able to modify and correct the errors and learn in a more interactive way.”
+Another, student expressed:
+“I felt engaged with the simulation while working on the DC electric circuit activities. Working out the ques- tions of the DC circuit practically and setting up the circuit kept me engaged. Setting up the circuit kept me on my toes because I couldn’t afford to make mistakes and redo the entire process from the start. One spe- cific feature that I found engaging and interactive was the ready-to-use setup provided for users. This setup included all the materials and tools needed to create a circuit, and it was convenient and easy to use.”
+
+
+
+Table 6  Responses of items in  Item SD D N A SA M* SD satisfaction construct (N = 29)
+S12 0 0 2 17 10 4.3 0.59 S13 0 0 3 15 11 4.3 0.65 S14 0 1 4 19 5 4.0 0.71 S15 1 0 3 21 4 4.0 0.82 S16 0 1 6 18 5 3.9 0.59 S17 0 0 3 19 7 4.1 0.58 S18 0 0 5 18 6 4.0 0.63 S19 0 0 4 19 6 4.1 0.59 S20 0 0 2 20 7 4.2 0.54 S21 0 0 3 17 9 4.4 0.67 Total mean 4.1
+M* for S12 = (1 × 0 + 2 × 0 + 3 × 2 + 4 × 17 + 5 × 10)/29 = 4.3
+
+
+ Journal of Science Education and Technology (2024) 33:892–909
+Table 7  Results of MLR  Coefficient (  ) Std. error t value Pr( >|t|) 95% CI Sig analysis
+Lower Upper
+
+
+ Journal of Science Education and Technology (2024) 33:892–909
+Intercept (β0)
+Treatment (β1)
+Pre_Test (β2) Prior_Exposure_PhET (β3) Hours_Spent (β4) Prior_Knowledge (β5) Motivation (β6)
+9.487 0.996
+2.261 0.356
+0.251 0.073 −0.152 0.255 −0.715 0.265
+0.017 0.265
+0.191 0.183
+9.528 7.97e − 13
+6.353 6.17e − 08
+3.449 0.001 −0.598 0.552
+0.065 0.130
+0.065 0.948
+1.999 0.302
+7.487 11.488 ***
+1.546 2.976 ***
+0.105 0.397 **
+−0.664 0.359 −1.649 0.219 −0.515 0.550 −0.177 0.559
+
+
+ Journal of Science Education and Technology (2024) 33:892–909
+Sig. indicates the significance level: ***p < 0.001, **p < 0.01, *p < 0.05, p < 0.1
+
+
+ Journal of Science Education and Technology (2024) 33:892–909
+Under the satisfaction factor, item S21 (Overall, I am satisfied with my experience in PhET simulation-assisted learning of taught physics concepts) received the highest score (M = 4.4) of all items. Item S16 (The PhET simulation helped me perform better on the post-intervention assess- ment) received the lowest score (M = 3.9) of all items. The overall mean score for the satisfaction factor was 4.1. Con- sequently, the satisfaction level of EG students fell into the “High” mean category. Additionally, the mean of each item under the satisfaction factor was above 3.9 on a five-point Likert scale. This suggests that EG students were highly satisfied with the PhET simulation intervention.
+Similarly, the qualitative analysis of the students’ reflec- tive surveys revealed a high level of satisfaction with the PhET simulation intervention. For example, one student said:
+“I give 9 out of 10 because PhET Simulations offer a wide range of engaging and interactive features that encourage exploration, experimentation, and active learning. features allow us to interact with Virtual models, adjust Parameters, analyse data, and conduct virtual experiments, making the learning experience highly engage and interactive.”
+Another student expressed:
+“Simulation can be integrated into my assignments by doing practical PhET simulation anytime instead 
+of doing practical work which takes lots of time and energy so by using phET simulation it will help me to evaluate and do the practical work on my own within few hours contributing greatly to the completion of my assignments and understanding. I would rate this phET simulation 9 out of 10 as I was greatly satisfied with the efficiency and convenience of this simula- tion. Using PhET simulation is a very effective way of learning. Students not only develop critical thinking but can enjoy virtual practical works. This simulation is efficient as it doesn’t take much time compared to the practical session that we do in the class hours. I think it is also a great opportunity for students to develop their ICT skills as simulation is all about computer-based learning.”
+The Pearson’s correlation coefficient unveiled a positive moderate correlation, r (27) = 0.48, p = 0.00, between EG students’ engagement level and their post-test scores. Addi- tionally, this study found a moderate, positive correlation, r (27) = 0.43, p = 0.02, between students’ satisfaction levels during the PhET simulation intervention and their post- test scores. Both correlations were statistically significant at the   = 0.05 level. These results suggest that the PhET simulation intervention’s engagement and satisfaction had a moderate influence on students’ academic achievement in post-intervention assessment (Almasri, 2022). Since stu- dents’ prior knowledge of the subject matter also contributed 
+
+
+ Journal of Science Education and Technology (2024) 33:892–909
+Fig. 8  Students interacting with  
+PhET simulations (four left  
+pictures) and real circuits (four  
+right pictures) 
+
+
+911
+Journal of Science Education and Technology (2024) 33:892–909
+to the improvement in the post-test scores (refer to the MLR result), participants, on average, did not strongly agree with item S16 under the satisfaction factor.
+Results forQ uestion 2
+The results of the MLR analysis are summarised in Table 7. The fitted regression equation was Post_Test = 9.487 + 2.261 (Treatment) + 0.251  (Pre_Test) − 0.152  (Prior_ Exposure_PhET) − 0.715 (Hours_Spent) + 0.017 (Prior_ Knowledge) + 0.191 (Motivation). The overall model was statistically significant: F(6, 50) = 9.586, p = 5.231e − 07, 
+R2 = 0.535. The adjusted  R2 value was 0.479 (47.9%), indicating a good model fit (Cronk, 2020).
+The MLR analysis showed that the PhET simulation intervention had a significant positive effect on students’ post-test scores (  = 2.261, p = 6.17e − 08), even after con- trolling for all other confounders. This analysis revealed that, on average, for each additional point on the treatment scale, there is a statistically significant increase of 2.261 points in the post-test score (p < 0.05), indicating a robust and posi- tive relationship between the treatment and post-test scores. Additionally, the pre-test scores had a significant positive effect on students’ post-test scores (  = 0.251, p = 0.001) after controlling for all other confounders. This analysis revealed that, on average, for each additional point acquired in the pre-test, there is a slight increase of 0.251 points in the post-test score. This relationship between the pre-test and post-test scores is statistically significant (p < 0.05). However, prior exposure to PhET (−0.152, p = 0.552), hours spent preparing for the post-test (−0.715, p = 0.130), prior knowledge of taught concepts (0.017, p = 0.948), and level of motivation to learn physics (0.191, p = 0.302) did not have a statistically significant effect on post-test scores (p > 0.05).
+Discussion
+This study investigated the experiences of Bhutanese stu- dents as they engaged with the free-ware “Circuit Construc- tion Kit: DC” PhET simulation to learn DC electric circuit concepts (Fig. 8). Following our initial pilot study involv- ing 302 students, this research can be considered a second pilot study due to the smaller sample size of 57 participants. Despite this limitation, the results offer additional empirical validation for existing research, affirming the PhET simula- tions as a potent educational tool that enhances students’ engagement, satisfaction, and academic performance.
+From the post-test score analysis, we found that students in EG, who received PhET simulation intervention, per- formed better on average than their counterparts in the CG, who did not receive PhET simulation intervention. This is evident from the higher mean and median post-test scores 
+of the EG students compared to the CG students (Table 4). Moreover, a t-test confirmed that the observed difference was not due to random chance but rather a consequence of the PhET simulation intervention (p < 0.05). The MLR analysis provided further confirmation that the gain in the post-test scores among the EG students was due to the PhET simulation intervention and students’ prior knowledge of the subject matter and not due to some other confounding vari- ables, including prior exposure to PhET, hours spent prepar- ing for the post-test, prior knowledge of taught concepts, and level of motivation to learn physics. Since students’ prior knowledge of the subject matter also contributed to the improvement in the post-test scores, participants, on aver- age, did not strongly agree with item S16 under the satisfac- tion factor. Nevertheless, the PhET simulation has positively influenced EG students’ scores in the post-intervention assessment. These results align with the findings of Banda and Nzabahimana (2022). Banda and Nzabahimana (2022) investigated the impact of PhET simulation on students’ motivation and academic achievement in learning oscilla- tions and waves among Malawian secondary students. The t-test showed a statistically significant difference between the EG and CG students’ mean post-test scores. Also, the results from linear regression indicated that the difference between the two groups in the post-test was due to the inter- vention and not owing to other students’ characteristics (Banda & Nzabahimana, 2022).
+Our study also unveiled the substantial influence of the PhET simulation on students’ levels of engagement and overall satisfaction with the learning experience. The quantitative results obtained from PhET Engagement- Satisfaction Questionnaire provided compelling evidence of the high level of engagement among students exposed to the PhET simulation intervention. As depicted in Table 5, the mean engagement score, measured on a five-point Likert scale, surpassed 3.8, categorising the students’ engagement level as “High”. This is also evident from the low mean score (M = 1.7) on item E6 (I found the PhET simulation-assisted learning boring and uninteresting) under engagement construct. This data strongly supports the notion that PhET simulation is a great pedagogical tool to effectively captivate and involve students in the learning process. Additionally, qualitative feedback obtained from the reflective survey at the end of the instruction provided robust support for this quantitative finding. EG students expressed overwhelmingly positive feedback regarding their experience with the PhET simulation. They found the PhET simulation to be highly engaging and effective, providing an interactive, hands-on approach to experimenting with different circuit designs, observing the outcomes, and making quick modifications. Additionally, students appreciated the challenging yet engaging nature of the PhET simulation activities, which not only piqued their interest but also facilitated their active 
+participation. This, in turn, boosted their understanding and retention of the DC electric circuit concepts, a fact clearly evident in their improved performance in the post-test (Table 4). Moreover, a high level of satisfaction expressed by students provided additional convincing evidence supporting PhET simulations as a powerful teaching tool. As depicted in Table6, the mean satisfaction score, measured on a five- point Likert scale, surpassed 4.1, categorising the students’ satisfaction level as “High”. Additionally, qualitative feedback obtained from a reflective survey further reaffirmed this finding. For instance, EG students acknowledged the PhET simulation as an invaluable tool for enhancing their learning experiences, while also highlighting its efficiency in saving time and energy, and promoting the development of critical thinking and ICT skills. Moreover, a resounding satisfaction rating of 9 out of 10 clearly underscored a strong contentment with the PhET simulation intervention in the learning process. Additionally, students’ high level of satisfaction with the PhET simulation intervention is also evident from the notably high mean score (M = 4.4) on item S21 (Overall, I am satisfied with my experience in PhET simulation-assisted learning of taught physics concepts) under the satisfaction construct. We hypothesised that if students perceive the simulations as easy to use and useful for understanding scientific concepts, they are more likely to engage with the PhET simulations. This heightened engagement, in turn, was anticipated to positively influence their learning outcomes. Our result affirmed this hypothesis. Students who perceived the simulation as user- friendly and beneficial for their learning were more inclined to use them. The mean response for students’ willingness to use PhET simulations in future classes was 4.1 and 4.2 for recommending them to peers. This demonstrates enhanced student engagement with the PhET simulations, aligning with the TAM model (Davis, 1987). Moreover, our study’s significant positive correlation between students’ academic achievement and their level of engagement with PhET simulations, as well as between students’ academic achievement and their overall satisfaction with the PhET simulation intervention, strongly supports our hypothesis. Overall, our study’s findings provide strong empirical support for the TAM, demonstrating how users’ perceptions of technology’s ease of use and usefulness influence their attitudes, engagement, intention to use, and ultimately their outcomes. This emphasises the importance of educational institutions in Bhutan and similar contexts to prioritise tools that align with TAM to maximise learning effectiveness.
+Our foregoing results supplement the results of Almas- ri’s (2022) and Alhadlaq’s (2023) studies. Almasri (2022) used computer simulations like PhET interactive simulations, SimPop, and OLABS for teaching science subjects such as physics, chemistry, and biology to explore tertiary students’ learning experiences. This study demonstrated that computer 
+simulations are an effective pedagogical tool for increasing stu- dents’ engagement and satisfaction with the learning process. Alhadlaq utilised PhET simulations to explore university stu- dents’ attitudes and experiences of using PhET simulations as a tool for unsupervised science learning without teacher support. The participants of the study showed a high level of engage- ment and satisfaction with the use of simulations in unsuper- vised science learning. Our findings also complement the quali- tative results of Penjor etal.’s (2022). Penjor and his colleagues identified several benefits of using PhET simulations, including the ability to assist teachers in keeping students’ interest and enthusiasm levels high throughout the lesson, simplify abstract concepts and enhance knowledge of the subject, enhance con- cept retention over the long term, and foster independent learn- ing through self-exploration and discovery.
+Our study not only empirically validates the PhET simula- tions as a powerful teaching tool for enhancing student engage- ment, satisfaction, and academic performance, but it also vali- dates the efficacy of the six heuristics (Table 1), which are research-based strategies developed by Rehn et al. (2013) to facilitate the productive use of the PhET simulations. Rehn and colleagues have already demonstrated the utility of these six heuristics in facilitating the productive usage of the PhET sim- ulations. Our study adds to their utility by showing that using these heuristics with PhET simulations has the potential to:
+1. Promote genuine inquiry-based learning by encourag- ing students to pose questions, formulate hypotheses, experiment with data’s effect in various situations, and revise their theories (Rutten et al., 2012).
+2. Shift the educational focus from a teacher-centred class- room to a more student-centred one, where students can freely explore, experiment, discover, and gain a deeper understanding of scientific concepts and phenomena (Lindgren et al., 2016).
+3. Provide students with instant, dynamic feedback to identify and correct their misconceptions, leading to a more pro- found grasp of the concepts (Ganasen & Shamuganathan, 2017; Ruwiyah etal., 2021).
+4. Help students construct a mental model of the scientific phenomenon, enabling them to retain the information for longer of period (Ruwiyah et al., 2021).
+Consequently, we urge educators to implement these six heuristics to develop assignments that facilitate productive use of a PhET simulation in the teaching and learning process (Rehn etal., 2013). If we use these heuristics as our guide, we can develop PhET simulation assignments or activities that can facilitate productive use of PhET simulation to enhance student engagement, satisfaction, and academic performance. We also implore teacher educators, teacher training institu- tions, and school administrators within Bhutan, as well as from any part of the world, to provide workshops and training for 
+both pre- and in-service teachers to enhance their efficacy in implementing these six heuristics effectively. This will facili- tate the successful integration of PhET simulations into their teaching and learning process.
+Conclusion
+Overall, this study’s results highlight that transitioning from conventional teaching methods and incorporating interactive and immersive PhET simulations in the teaching and learning process can create more engaging and effective educational experiences for students (Banda & Nzabahimana, 2021; Bo et al., 2018; Perkins, 2020). This approach not only fosters a deeper interest in the subject matter but also enhances students’ overall satisfaction with the content elucidated by the simulations (Rehn et al., 2013). Our study also validates the utility of the six heuristics (Table 1), which are research-based strategies developed by Rehn et al. (2013) for facilitating the productive use of the PhET simulations. Our study also underscores the importance of incorporating the principles of TAM when introducing new tools for educational purposes.
+Limitations andFuture Recommendation
+While the study yielded promising positive outcomes, any generalisation beyond the study’s participants should be made with care due to the following reasons. First, the dependence on a small sample size may hinder the generalis- ability of its findings to a larger population of interest (Faber 
+& Fonseca, 2014). The small sample used in this study may not represent the diverse range of students found in a larger population. Second, another limitation of the present study is its reliance on the self-report measure called the “PhET Engagement-Satisfaction Questionnaire” to assess students’ engagement and satisfaction with the PhET simulation inter- vention. While this instrument has showcased its validity and reliability via methods such as CFA and Cronbach’s alpha analysis, the response obtained through it is vulner- able to various issues (Demetriou et al., 2015). According to Demetriou et al. (2015), responses obtained through self- report measures suffer from various issues such as social desirability bias, response bias (both acquiescent and non- acquiescent bias), the inherent subjectivity of participants when responding to open-ended questions, potential recall bias, and the limited flexibility associated with fixed-choice questions (Demetriou et al., 2015). Consequently, further research with a larger sample size, incorporating lesson observations, interviews, and our measurement tool, is nec- essary to ascertain whether the findings it yields align with the present study’s findings.
+Supplementary Information The online version contains supplemen- tary material available at https://doi.org/10.1007/s10956-024-10131-x.
+Author Contribution Dorji T. and Subba S. contributed to the design and implementation of the intervention. Dorji T. processed the experi- mental data, performed the quantitative data analysis, designed the figures, interpreted the result, and wrote the manuscript. Qualitative data analysis was carried out by Zangmo T. All authors discussed the results, approved the final manuscript as submitted and agree to be accountable for all aspects of the work.
+Funding The authors did not receive any fund to conduct this research study.
+Availability of Data and Materials The R code and raw datasets used and/or analysed during the current study are available from the cor- responding author on request.
+Declarations 
+Ethical Approval and Consent to Participate The ethical approval for conducting the study was sought from the participating school’s principal. The purpose and intent of the study was explained well to the school principal and student participants. Informed consent was obtained from all individual participants before their participation.
+Consent for Publication By submitting this manuscript for publication, we give our consent for its publication in Journal of Science Education and Technology.
+Conflict of Interest The authors declare no competing interests.
+References
+Alhadlaq, A. (2023). Computer-based simulated learning activities: 
+Exploring Saudi students’ attitude and experience of using simulations to facilitate unsupervised learning of science con- cepts. Applied Sciences, 13(7), 4583. https://doi.org/10.3390/ app13074583
+Almasri, F. (2022). Simulations to teach science subjects: Connec-
+tions among students’ engagement, self-confidence, satisfaction, 
+and learning styles. Education and Information Technologies, 
+27(5), 7161–7181. https://doi.org/10.1007/s10639-022-10940-w Andrade, C. (2021). The inconvenient truth about convenience and 
+purposive samples. Indian Journal of Psychological Medicine, 
+43(1), 86–88. https://doi.org/10.1177/0253717620977000
+Babin, M. J., Riviere, E., & Chiniara, G. (2019). Theory for practice: 
+Learning theories for simulation. In G. Chiniara (Ed.), Clinical 
+simulation (2nd ed., pp. 97–114). Academic Press. https://doi. 
+org/10.1016/B978-0-12-815657-5.00008-5
+Banda, H. J., & Nzabahimana, J. (2021). Effect of integrating phys-
+ics education technology simulations on students’ conceptual understanding in physics: A review of literature. Physical Review Physics Education Research, 17(2), 023108. https:// doi.org/10.1103/PhysRevPhysEducRes.17.023108
+Banda, H. J., & Nzabahimana, J. (2022). The impact of physics edu-
+cation technology (PhET) interactive simulation-based learn- ing on motivation and academic achievement among Malawian physics students. Journal of Science Education and Technology, 32, 127–141. https://doi.org/10.1007/s10956-022-10010-3
+Bo, W. V., Fulmer, G. W., Lee, C. K. E., & Chen, V. D. T. (2018). How  do  secondary  science  teachers  perceive  the  use  of 
+interactive simulations? The affordance in Singapore context. Journal of Science Education and Technology, 27, 550–565. https://doi.org/10.1007/s10956-018-9744-2
+Chatterjee, S., & Hadi, A. S. (2013). Regression analysis by example. 
+John Wiley & Sons.
+Childs, A., Tenzin, W., Johnson, D., & Ramachandran, K. (2012). 
+Science education in Bhutan: Issues and challenges. Interna- tional Journal of Science Education, 34(3), 375–400. https:// doi.org/10.1080/09500693.2011.626461
+Chinaka, T. W. (2021). The effect of PhET simulation vs. phenomenon-
+based experiential learning on students’ integration of motion along two independent axes in projectile motion. African Journal of Research in Mathematics, Science and Technology Education, 25(2), 185–196.
+Cohen, J. (1992). A power primer. Psychological Bulletin, 112, 155–
+159. https://doi.org/10.1037/0033-2909.112.1.155
+Cronk, B. C. (2020). How to use SPSS: A step-by-step guide to analysis 
+and interpretation (11th ed.). Routledge. https://doi.org/10.4324/ 9780429340321
+Davis, F. D. (1987). Technology acceptance model: TAM. Al-Suqri, 
+MN, Al-Aufi, AS: Information Seeking Behavior and Technol- ogy Adoption, 205, 219. https://quod.lib.umich.edu/b/busadwp/ images/b/1/4/b1409190.0001.001.pdf
+Demetriou, C., Ozer, B. U., & Essau, C. A. (2015). Self-report question-
+naires. In R. L. Cautin & S. O. Lilienfeld (Eds.), The encyclopedia of clinical psychology (pp. 1–6). Wiley. https://doi.org/10.1002/97811 18625392.wbecp507
+Dendup, P. (2023). English medium instruction in the Bhutanese edu-
+cation system: A historical journey. In R. A. Giri, A. Padwad, 
+& M. M. N. Kabir (Eds.), English as a medium of instruction in South Asia (pp. 145–155). Routledge. https://doi.org/10.4324/ 9781003342373
+Doll, W. J., Raghunathan, T. S., Lim, J. S., & Gupta, Y. P. (1995). A 
+confirmatory factor analysis of the user information satisfaction instrument. Information Systems Research, 6(2), 177–188. https:// doi.org/10.1287/isre.6.2.177
+Faber, J., & Fonseca, L. M. (2014). How sample size influences 
+research outcomes. Dental Press Journal of Orthodontics, 19(4), 
+27–29. https://doi.org/10.1590/2176-9451.19.4.027-029.ebo
+Falloon, G. (2019). Using simulations to teach young students science 
+concepts: An experiential learning theoretical analysis. Comput-
+ers & Education, 135, 138–159. https://doi.org/10.1016/j.compe 
+du.2019.03.001
+Fussell, S. G., & Truong, D. (2022). Using virtual reality for dynamic 
+learning: An extended technology acceptance model. Virtual Real-
+ity, 26(1), 249–267. https://doi.org/10.1007/s10055-021-00554-x Ganasen, S., & Shamuganathan, S. (2017). The effectiveness of physics 
+education technology (PhET) interactive simulations in enhancing 
+matriculation students’ understanding of chemical equilibrium and 
+remediating their misconceptions. Overcoming students’ miscon-
+ceptions in science: Strategies and perspectives from Malaysia 
+(pp. 157–178). Springer.
+Gani, A., Syukri, M., Khairunnisak, K., Nazar, M., Sari, R. P., Nazar, 
+N., Sari, R. P., Nazar, M., & Sari, R. P. (2020). Improving concept understanding and motivation of learners through Phet simula- tion word. Journal of Physics: Conference Series, 1567, 042013. https://doi.org/10.1088/1742-6596/1567/4/042013
+George, D., & Mallery, P. (2019). IBM SPSS statistics 26 step by step: 
+A simple guide and reference (16th ed.). Routledge.
+Haryadi, R., & Pujiastuti, H. (2020). PhET simulation software-based 
+learning to improve science process skills. Journal of Physics: Conference Series, 1521(2), 022017. https://doi.org/10.1088/ 1742-6596/1521/2/022017. IOP Publishing.
+Hu, L. T., & Bentler, P. M. (1999). Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new 
+alternatives. Structural Equation Modeling: A Multidisciplinary 
+Journal, 6(1), 1–55. https://doi.org/10.1080/10705519909540118 Jeffries, P. R., & Rizzolo, M. A. (2006). Designing and implementing 
+models for the innovative use of using simulation to teach nurs-
+ing care of Ill adults and children: A national, multi-site, multi-
+method study. National League for Nursing.
+Kallner, A. (2018). Formulas. In A. Kallner (Ed.), Laboratory sta-
+tistics: Methods in chemistry and health science (2nd ed., pp. 
+1–140). Elsevier. https://doi.org/10.1016/C2017-0-00959-X
+Kinley, Rai, R., & Chophel, S. (2021). A journey towards STEM educa-
+tion in Bhutan: An educational review. In T. W. Teo, A. Tan, & P. 
+Teng (Eds.), STEM education from Asia: Trends and perspectives 
+(pp. 49–62). Routledge. https://doi.org/10.4324/9781003099888 Kolb, D. A. (2014). Experiential learning: Experience as the source 
+of learning and development (2nd ed.). Pearson Education Inc. Lebowitz, E. R., Marin, C. E., & Silverman, W. K. (2019). Measur-
+ing family accommodation of childhood anxiety: Confirmatory 
+factor analysis, validity, and reliability of the parent and child 
+family accommodation scale–anxiety. Journal of Clinical Child 
+& Adolescent Psychology. https://doi.org/10.1080/15374416. 2019.1614002
+Lee, W. C., Neo, W. L., Chen, D. T., & Lin, T. B. (2021). Fostering 
+changes in teacher attitudes toward the use of computer simula- tions: Flexibility, pedagogy, usability and needs. Education and Information Technologies, 26, 4905–4923. https://doi.org/10. 1007/s10639-021-10506-2
+Lehane, L. (2020). Experiential learning - David A. Kolb: Learn-
+ing through experience. In B. Akpan & T. J. Kennedy (Eds.), Science  education  in  theory  and  theory  (pp.  241–257). Springer International Publishing. https://doi.org/10.1007/ 978-3-030-43620-9
+Lei, M., & Lomax, R. G. (2005). The effect of varying degrees of 
+nonnormality in structural equation modeling. Structural Equa- tion Modeling, 12(1), 1–27. https://doi.org/10.1207/s15328007s em1201_1
+Li, C. H. (2016). Confirmatory factor analysis with ordinal data: 
+Comparing robust maximum likelihood and diagonally weighted least squares. Behavior Research Methods, 48, 936–949. https:// doi.org/10.3758/s13428-015-0619-7
+Lindgren, R., Tscholl, M., Wang, S., & Johnson, E. (2016). Enhanc-
+ing learning and engagement through embodied interaction within a mixed reality simulation. Computers & Education, 95, 174–187. https://doi.org/10.1016/j.compedu.2016.01.001
+Liu, T. C., & Lin, Y. C. (2010). The application of Simulation-
+Assisted Learning Statistics (SALS) for correcting misconcep- tions and improving understanding of correlation. Journal of Computer Assisted Learning, 26(2), 143–158.
+Marsh, H. W., & Hocevar, D. (1985). Application of confirmatory 
+factor analysis to the study of self-concept: First-and higher order 
+factor models and their invariance across groups. Psychological 
+bulletin, 97(3), 562. https://doi.org/10.1037/0033-2909.97.3.562 Meyer, E. G., Battista, A., Sommerfeldt, J. M., West, J. C., Hamaoka, 
+D., & Cozza, K. L. (2021). Experiential learning cycles as an 
+effective means for teaching psychiatric clinical skills via repeated 
+simulation in the psychiatry clerkship. Academic Psychiatry, 45, 
+150–158. https://doi.org/10.1007/s40596-020-01340-8
+Mishra, P., Pandey, C. M., Singh, U., Gupta, A., Sahu, C., & Keshri, 
+A. (2019). Descriptive statistics and normality tests for statistical data. Annals of Cardiac Anaesthesia, 22(1), 67–72. https://doi. org/10.4103/aca.aca_157_18
+Mrani, C. A., El Hajjami, A., & El Khattabi, K. (2020). Effects of 
+the integration of PhET simulations in the teaching and learning of the physical sciences of common core (Morocco). Universal Journal of Educational Research, 8(7), 3014–3025. https://doi. org/10.13189/ujer.2020.080730
+Penjor, T., Utha, K., & Seden, K. (2022). Effectiveness of simulation 
+in teaching geometrical optics. International Journal of English Literature and Social Sciences, 7(5), 88–94.
+Perkins, K. (2020). Transforming STEM learning at scale: PhET inter-
+active simulations. Childhood Education, 96(4), 42–49. https:// doi.org/10.1080/00094056.2020.1796451
+Perkins, K., Moore, E., Podolefsky, N., Lancaster, K., & Denison, C. 
+(2012). Towards research-based strategies for using PhET simula-
+tions in middle school physical science classes. In AIP Conference 
+Proceedings, 1413(1), 295–298. American Institute of Physics. Petrus, R. M. (2015). Comparing the performance of national curricu-
+lum statements and old curriculum students’ in electric circuits. 
+International Journal of Educational Sciences, 8(3), 453–460. 
+https://doi.org/10.1080/09751122.2015.11890267
+Poore, J. A., Cullen, D. L., & Schaar, G. L. (2014). Simulation-based 
+interprofessional education guided by Kolb’s experiential learning theory. Clinical Simulation in Nursing, 10(5), e241–e247. https:// doi.org/10.1016/j.ecns.2014.01.004
+Pourhoseingholi, M. A., Baghestani, A. R., & Vahedi, M. (2012). How 
+to control confounding effects by statistical analysis. Gastroenter- ology and Hepatology from Bed to Bench, 5(2), 79. https://www. ncbi.nlm.nih.gov/pmc/articles/PMC4017459/
+Prima, E. C., Putri, A. R., & Rustaman, N. (2018). Learning solar 
+system using PhET simulation to improve students’ understanding and motivation. Journal of Science Learning, 1(2), 60–70. https:// doi.org/10.17509/jsl.v1i2.10239
+Rehn, D. A., Moore, E. B., Podolefsky, N. S., & Finkelstein, N. D. 
+(2013). Tools for high-tech tool use: A framework and heuristics for using interactive simulations. Journal of Teaching and Learn- ing with Technology, 2, 31–55. https://scholarworks.iu.edu/journ als/index.php/jotlt/article/view/3507
+Richardson, V. (2003). Constructivist pedagogy. Teachers College 
+Record: THe Voice of Scholarship in Education, 105(9), 1623–
+1640. https://doi.org/10.1046/j.1467-9620.2003.00303.x
+Rodriguez-Segura, D. (2022). EdTech in developing countries: A 
+review of the evidence. The World Bank Research Observer, 
+37(2), 171–203. https://doi.org/10.1093/wbro/lkab011
+Ross, J. M., & Bauldry, S. (2022). Confirmatory factor analysis: 
+Quantitative applications in the social sciences (Vol. 189). SAGE Publications. Inc. https://us.sagepub.com/en-us/nam/confirmato ry-factor-analysis/book269092#preview
+Ross, S. M., Morrisson, G. R., & Lowther, D. L. (2010). Educational 
+technology research past and present: Balancing rigor and rel- evance to impact school learning. Contemporary Educational Technology, 1(1), 17–35.
+Rosseel, Y. (2012). lavaan: An R package for structural equation mod-
+eling. Journal of Statistical Software, 48(2), 1–36. https://doi.org/ 10.18637/jss.v048.i02
+Rutten, N., Van Joolingen, W. R., & Van Der Veen, J. T. (2012). The 
+learning effects of computer simulations in science education. Computers & Education, 58(1), 136–153. https://doi.org/10. 1016/j.compedu.2011.07.017
+Ruwiyah, S., Rahman, N. F. A., Rahim, A. A., Yusof, M. Y., & Umar, 
+S. H. (2021). Cultivating science process skills among physics students using PhET simulation in teaching. Journal of Physics: Conference Series, 2126(1), 012007. https://doi.org/10.1088/ 1742-6596/2126/1/012007. IOP Publishing.
+Sanina, A., Kutergina, E., & Balashov, A. (2020). The co-creative 
+approach to digital simulation games in social science education. Computers & Education, 149, 103813. https://doi.org/10.1016/j. compedu.2020.103813
+Schreiber, J. B., Nora, A., Stage, F. K., Barlow, E. A., & King, J. (2006). 
+Reporting structural equation modeling and confirmatory factor 
+analysis results: A review. The Journal of Educational Research, 
+99(6), 323–338. https://doi.org/10.3200/JOER.99.6.323-338
+Sokoloff, D. (1992). Teaching electric circuit concepts using micro-
+computer-based current/voltage probes. Amsterdam: Proceedings 
+of the NATO Advanced Research Work-shop on Microcomputer-
+Based Laboratories, November 9–13.
+Tavakol, M., & Wetzel, A. (2020). Factor analysis: A means for theory 
+and instrument development in support of construct validity. Inter- national Journal of Medical Education, 11, 245. https://doi.org/ 10.5116/ijme.5f96.0f4a
+Tenzin, D., Utha, K., & Seden, K. (2023). Effectiveness of simula-
+tion, hands-on and a combined strategy in enhancing conceptual understanding on electric circuit: A comparative study. Research in Science & Technological Education. https://doi.org/10.1080/ 02635143.2023.2202388
+Theobald, R., & Freeman, S. (2014). Is it the intervention or the stu-
+dents? Using linear regression to control for student characteristics 
+in undergraduate STEM education research. CBE-Life Sciences 
+Education, 13, 41–48. https://doi.org/10.1187/cbe-13-07-0136 Zajda, J. (2021). Globalisation and education reforms: Creating effec-
+tive learning environments (Vol. 25). Springer Nature.
+Zhou, M., & Shao, Y. (2014). A powerful test for multivariate normal-
+ity. Journal of Applied Statistics, 41(2), 351–363. https://doi.org/ 10.1080/02664763.2013.839637
+Publisher's  Note Springer  Nature  remains  neutral  with  regard  to jurisdictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+

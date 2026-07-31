@@ -1,0 +1,422 @@
+﻿Social resources, work demands and I4J0E,8M workplace commitment among
+Finnish school principals and teachers
+58 Jukka M€akinen, Katja Upadyaya and Lauri Hietaj€arvi
+University of Helsinki, Helsinki, Finland
+Received 25 June 2025
+Revised 13 January 2026
+16 February 2026 Abstract
+Accepted 22 March 2026 Purpose – This study examines whether associations of workplace social resources, work demands and
+workplace commitment differ between Finnish school principals and teachers. Since the educators’ work environment is becoming more complex and fragmented, the study also examines whether social resources buffer the negative effects of work demands on workplace commitment.
+Design/methodology/approach – A cross-sectional study design was employed using data from the Finnish Principal Barometer (N 5 498) and Finnish Teacher’s Occupational Wellbeing Study (N 5 1855). The study used instruments from the Copenhagen Psychosocial Questionnaire (COPSOQ), with a focus on social support from supervisor, social support from colleagues, social community at work, emotional demands, cognitive demands, role conflicts and commitment to the workplace. Multigroup structural equation modeling (MG- SEM) in R was used to analyze direct and interaction effects.
+Findings – The findings indicate that in the Finnish educational system, social resources, work demands and workplace commitment are perceived similarly between teachers and school principals. Social support from supervisors and a sense of community were positively associated and role conflicts were negatively associated with workplace commitment. In addition, emotional and cognitive demands, and collegial support were not associated with workplace commitment. No significant interaction effects were identified. Originality/value–Thisstudycontributestothefieldbyofferinganuancedunderstandingofthedifferentroles that workplace social resources and demands play in emphasizing educators’ workplace commitment. The unique setting of two groups involved in the same analysis offers new insights into the social structures of the educational settings.
+Keywords Social resources, Work demands, Workplace commitment, Finnish school principals and teachers Paper type Research article
+Social resources, work demands and workplace commitment among Finnish teachers and school principals
+In the context of school, changes in working life have affected teaching and school leadership demands. In addition, wide-ranging educational reforms, such as curriculum development, have set new standards for the teaching staff working in Finnish schools in recent years (Toyama et al.,2022;Nissinenet al.,2024;R€as€anen etal.,2020).Theincreasingjob demands placed on educators are a well-recognized problem in many countries such as China, Finland, France and Norway (Chan, 2002; R€as€anen et al., 2020; Desrumaux et al., 2015; Skaalvik and Skaalvik, 2018;Elomaa et al.,2023). In Finland,such demands have led to increased levels of turnover intentions, and declining workplace commitment has become a concern (R€as€anen et al., 2020). At the same time, studies have shown that social factors, for example school climate,areassociatedwithworkplacecommitment(Collieetal.,2011).Suchsocialresources
+©JukkaM€akinen, KatjaUpadyayaandLauriHietaj€arvi.Publishedby EmeraldPublishingLimited.This article is published under the Creative Commons Attribution (CC BY 4.0) license. Anyone may
+reproduce, distribute, translate and create derivative works of this article (for both commercial and non-
+commercial purposes), subject to full attribution to the original publication and authors. The full terms of International Journal of Educational this licence may be seen at Link to the terms of the CC BY 4.0 licence.
+MVoaln. a4g0eNmoe.n8t, 2026 Funding: The present study is a part of the EDUCA Flagship funded by the Research Council of
+Finland (#358924, 358945) and the EDUCA-Doc Doctoral Education pilot funded by the Ministry of pEe-pmI.Se5Sr8aN-l7d:41P7u5b8li-s6h5i1n8g Limited EducationandCulture(DoctoralSchoolpilot#VN/3137/2024-OKM4).Thisstudywasalsosupportedby
+pD-OISIS1N0:.10190581/-I3JE54MX-06-2025-0462 the Academy of Finland under Grants 320241 and 345264 (awarded to K. Salmela-Aro).
+can function as a key resource for occupational wellbeing and workplace commitment and International mitigate the negative effects of increasing job demands. Studies have highlighted the Journal of importanceofdiverseformsofsocialresources(e.g.supervisorysupport,collegialsupport)in Educational maintaining the occupational and general wellbeing of school principals’- and teachers Management
+(Beausaert et al.,2023;Edinger and Edinger,2018). However,previousstudieshave typically
+examined teachers and school principals separately, and social resources are often treated as
+generic constructs. Less is known about whether associations between different aspects of
+social resources and work demands, and workplace commitment differ between teachers and 59 school principals working within the same organizational and policy context.
+Building on job demands-resources (JD-R) theory (Bakker and Demerouti, 2007), the aim
+of the study is to examine whether the theory’s core assumptions hold equally for different
+occupational roles embedded in the same organizational and policy context, which is
+characterized by high professional autonomy and increasing demands. The study intends to
+inform school leadership, municipalities, and policymakers on how to support workplace
+commitment in educational work environments and secure the quality of teaching.
+Context
+In Finland, the educational system is characterized by a high level of decentralization and autonomy at the municipality and school levels (OECD, 2013). Following this, teachers and school principals are highly educated professionals holding master’s degree in education who have autonomy to pedagogically design and apply their own school and classroom practices (Haapaniemi et al., 2021). School principals in Finland serve as pedagogical and administrative leaders of the school (Fang et al., 2025). In addition to master’s degree, principals have accomplished mandatory studies in educational leadership and administration and possess sufficient work experience as teachers to receive qualifications to serve as school principals. Despite the shared educational background, the dual leadership role of school principals may cause different sets of demands and resources, and their associations with workplace commitment compared to teachers.
+The Finnish educational system is publicly funded, noncompetitive framework emphasizing equality and trust rather than accountability and standardized testing (Pyh€alt€o et al., 2011). This context provides an interesting setting for examining differences as high levels of autonomy and social trust coexist with increased demands. In addition, the same educational and policy context, combined with a similar educational background, offers a unique setting to reveal possible nuanced differences between the two occupational groups.
+Theoretical framework
+The theoretical framework of this study is built on the JD-R model (Bakker and Demerouti, 2007). Thecore idea of the JD-Rmodel is thatevery occupation contains potential risk factors (jobdemands)andassets(jobresources)thatcanaffectpsychological,physiological,social,or organizational costs or goals (Bakker and Demerouti, 2007). According to JD-R theory, demands and resources may form the foundation of employee wellbeing, behaviors and performance, such as workplace commitment (Bakker et al., 2023). Another premise of the JD-R model is its dual processes, where job demands predict the health impairment process and job resources predict the motivational process, which predicts organizational outcomes, such as occupational wellbeing (Bakker and Demerouti, 2007).
+Previous studies using the JD-R model have shown that various work demands (e.g. workload, discipline problems, classroom disturbances) and resources (e.g. self-efficacy, autonomy, collegial and administrative support) are associated with occupational wellbeing among school principals and teachers (Collie et al., 2020; Dicke et al., 2018; Skaalvik and Skaalvik, 2018). Moreover, previous studies has shown that social resources are associated withoccupationalwellbeingamongseveraloccupationalgroups(UpadyayaandSalmela-Aro, 2020; Beausaert et al., 2023; Edinger and Edinger, 2018). The current study is utilizing JD-R
+IJEM theory by examining associations of various aspects of social resources (collegial support, 40,8 supervisory support, sense of community), as job resources, with educators’ occupational wellbeing. In addition, different forms of work demands (cognitive, emotional, social)
+associations with occupational wellbeing, used as job demands, are examined utilizing JD-R
+theory. Next, these key constructs of the study are presented further. WorkplaceCommitment.Onewaytooperationalizetheoccupationalwellbeingofteachers
+and school principals is organizational commitment (Collie et al., 2020; Collie and Perry, 2019). 60 Workplace commitment refers to psychological state that characterizes employees’ relationship
+with organization and influences their decision to stay or leave (Meyer and Allen, 1991). The
+concept of organizational commitment includes three different dimensions: normative, continuance, and affective commitment (Meyer and Allen, 1991). These dimensions vary in natureandqualityofcommitment.Normativecommitmentisseentobeformedfromobligations, loyalty and duty (Meyer and Parfyonova, 2010). Continuance commitment, in turn, is based on employees’ need to stay in the current organization and considerations of the possible costs of leaving(KarakusandAslan,2009).Affectivecommitmentisdefinedasanemployee’semotional
+attachment to, identification with and involvement in their work (Meredith et al., 2023). Building on previous workplace commitment studies (Liu and Bellibas, 2018), current researchalsoexaminesorganizationalcommitmentthroughthelensofaffectivecommitment, which encompasses emotional aspects of commitment, pride in one’s work, and a sense of belonging in one’s job, and it is often considered as a key indicator of occupational wellbeing. In addition, the emotional aspects of workplace commitment emphasize engagement and healthy psychological functioning at work (Collie et al., 2020). For example, affective commitment has been found to be negatively associated with absenteeism, and positively
+associated with self-efficacy (Bakker et al., 2003; Chesnut and Burley, 2015).
+According to previous studies, lack of commitment, workload and problems in the school system are the main reasons for teacher turnover (R€as€anen et al., 2020). In addition, studies have shown that among school principals, affective commitment is positively associated with occupationalwellbeingandnegativelyassociatedwithturnoverintentionsandburnout(Houle et al.,2022). Consequently,workplace commitment is acrucial factor in retaining educational professionalsandmaintainingthequalityofteaching,whichhighlightstheneedtoexplorethe workplace commitment of both teachers and school principals within the same study.
+SocialResources.Socialjobresourcesareunderstoodasthesocialrelationships,networks and community bonds available to individuals, which can support their occupational wellbeing and work-related goals. The concept of social resources is related with the broader and more theoretically developed term social capital, which is a complex concept, and researchersdefinethetermindifferentways(AhnandDavis,2020).Nonetheless,eventhough differenttheoriesandconceptualizationsdiffer,anddependonthedisciplineoftheresearcher, they are considered complementary, each contributing to the understanding of the complex concept of social capital (Villalonga-Olives and Kawachi, 2015). Social resources refer to the structural and cognitive aspects embedded in workplace relationships and are built on the broad theoretical work on social capital.
+The main theories of social capital have been presented by Bourdieu (1986), Coleman (1988) and Putnam (2000). Common to all these theories is the recognition that the concept of social capital includes the social network as a structural core component operating as a resource bank for the individual, based on cognitive factors such as trust, reciprocity, shared norms and values and used to achieve personal or collective goals. These are also the aspects we refer to here as social resources. Within the JD-R model, social relationships are typically considered social job resources, covering both structural and cognitive dimensions.
+The structural perspective on social resources can be examined horizontally and vertically. Horizontalsocialresourcesoccuratthesamehierarchicallevel,forexamplebetweenpeers,while verticalsocialresourcesarefoundinrelationshipsbetweenindividualsoccupyingdifferentlevels of formal power, for example an employee and supervisor (Beausaert et al., 2023). The social community at work has been considered an indicator of cognitive social resources. The social
+community has been seen to reflect an individual’s attachment and belonging to the community, International anddensenetworkspromotethepreservationandproductionofresources.Moreover,bothasense Journal of of community and cognitive social resources highlight the importance of participation, trust, Educational values and norms (Lin et al., 2001; Ahn and Davis, 2020; Pooley et al., 2005). Management
+WorkDemands.OneofthemainassumptionsoftheJD-Rmodelisthatjobdemandsvary dependingontheoccupationandorganization(Bakkeretal.,2023).Inthecurrentstudy,work
+demands were examined through emotional demands, cognitive demands and role conflicts thatschoolprincipalsandteachersexperienceatwork.Roleconflictscanresembleasocialjob 61
+demand that occurs between people or groups of people within the context of work. Role
+conflicts arise when expectations about interaction with different people clash (Papastylianou
+et al., 2009). Recently, teachers’ work has become more complex, and teachers face diverse
+expectations caused by high-pressure work and lack of resources, which is one of the reasons
+behind increasing turnover intention (R€as€anen et al., 2020).
+In addition, the roles of school principals and teachers include demanding emotional work
+through interpersonal interactions with colleagues, students, parents and other stakeholders,
+which can further increase the emotional demands on the profession. Maslach et al. (2001)
+argue that emotional demands can affect an individual’s capability to be involved with, and
+responsive to, the needs of service recipients, which, in the context of school, may lower the
+quality of teaching. Previous studies have found that emotional demands are negatively
+associated with workplace commitment (Bozionelos and Kiamou, 2008; Collie et al., 2018).
+Moreover, as healthy psychological functioning is often an essential part of workplace
+commitment, the role of cognitive demands (e.g. multiple tasks, working memory, creativity,
+decision making) in workplace commitment has also been examined. A constant flow of
+developmental tasks, school reforms and educational innovations has increased the
+complexity of teachers work, and teachers must tolerate more insecurity and
+incompleteness and a higher workload, which can cognitively burden them (R€as€anen et al.,
+2020). Nonetheless, though cognitive demands are likely to be related to workplace
+commitment, there is a gap in the literature regarding these potential associations.
+In addition to direct effects, the JD-R model offers a functional platform to examine
+interaction effects between job demands and job resources and their association with organizationaloutcomes.Thebufferingeffectsuggeststhathighresourcesreducethenegative
+effects of job demands (Bakker and Demerouti, 2007). By contrast, the boosting effect
+suggests that job resources play a stronger role in boosting organizational outcomes when
+demands are high (Bakker and Demerouti, 2007; Dicke et al., 2018). For example, social
+capital as a form of participatory organizational culture can reduce emotional demands
+(Kowalski et al., 2010), and servant leadership can buffer the positive association between
+workload and depressive symptoms (Upadyaya et al., 2016). However, in the context of
+workplace commitment, less is known about how social resources may buffer against work
+demands among educators. Thus, the present study focuses on examining such effects further.
+All the direct and interaction effects between constructs are presented in Figure 1.
+Aims
+(1) Do the associations between social resources (social support from supervisor, social support from colleagues, social community at work) and workplace commitment differ among Finnish school principals and teachers?
+(2) Do the associations between work demands (emotional demands, cognitive demands, role conflicts) and workplace commitment differ between Finnish school principals and teachers?
+Hypotheses: Building on JD-R theory, and its core assumption that every occupation contains its own potential psychological, physical, social or organizational assets and risks, which can affect organizational costs or goals, study hypothesizes that aspects of social resources are
+
+Downloaded from http://www.emerald.com/ijem/article-pdf/40/8/58/11527140/ijem-06-2025-0462en.pdf by guest on 18 April 2026
+IJEM 40,8 
+62 
+Figure 1. Hypothesized model of the study. Note. SC 5 Social support from colleagues, SS 5 Social support from supervisor, SW 5 Social community at work, CD 5 Cognitive demands, ED 5 Emotional demands, CO 5 Role conflicts, CW 5 Commitment to the workplace
+positively associated with workplace commitment among school principals (H1) and teachers (H2), while aspects of work demands are negatively associated with workplace commitment among school principals (H3) and teachers (H4), and there is not any differences between the two groups (Bakker and Demerouti, 2007).
+(3) Do the possible buffering effects of social resources on work demands regarding workplace commitment differ between Finnish school principals and teachers?
+Methods
+Participants. Data collection considering school principals occurred through the Finnish Principal Barometer (University of Helsinki, 2025b), which is collected annually. The data were collected between May and August 2023 through an online survey. The data for the present study were drawn from the fifth data collection round of a cohort study that began in 2019. Altogether 498 (63% men) school principals participated in the study. The age range of the participants was 30–67, and the average age of the school principals was 50 years.
+The data considering teachers were part of the Finnish Teachers’ Occupational Wellbeing Study (University of Helsinki, 2025a). Data has been collected every half a year, starting in 2020. In the current study, we used data from spring 2023 (May–June). A total of 1855 (80%
+
+Downloaded from http://www.emerald.com/ijem/article-pdf/40/8/58/11527140/ijem-06-2025-0462en.pdf by guest on 18 April 2026
+
+women) teachers answered the online questionnaire. The participants’ age ranged from 23 to International 68, while the mean age was 50 years. Journal of
+The link to the questionnaire was distributed to school principals via email, along with a Educational description of the study and its aims. The data collection considering teachers was carried out Management
+in collaboration with the Trade Union of Education in Finland and considering school principalswiththeFinnishPrincipalsAssociation.Thelinktothequestionnairewasdelivered
+to all the members of the associations in question. The members of associations considered
+teachers and school principals from all the levels of education (early childhood education to 63 university level) and no distinctions or clarifications were made considering educational
+context.Participationinthestudywasvoluntary,andtheresearchprojectwasapprovedbythe
+university’s Ethical Review Board.
+Measurements. The study utilized part of the Copenhagen Psychosocial Questionnaire
+(COPSOQ II). The COPSOQ is a widely used and validated self-report instrument that
+includes various psychosocial dimensions of the workplace (Pejtersen et al., 2010). Key
+figures for the instruments are presented in Table 1.
+Social Resources. Both structural (horizontal and vertical) and cognitive aspects of social
+resources were assessed using three scales from the COPSOQ interpersonal relations and
+leadership dimension. The horizontal aspect of social resources was measured by social supportfromcolleagues(e.g.“Howoftendoyougethelpandsupportfromyourcolleagues?”)
+and the vertical aspect of social resources was measured by social support from supervisor
+(e.g. “How often is your nearest supervisor willing to listen to your problems?”). Both scales
+contained three items. Cognitive social resources, social community at work, also included threeitems(e.g.“Doyoufeelpartofthecommunityatyourplaceofwork?”).Allthequestions
+considering social resources were answered using a Likert scale from 1 - Always – 5 - Never/
+hardly ever, and the scales were reversed before analysis.
+Work demands. Work demands included emotional demands, cognitive demands, and
+role conflicts. Role conflicts were part of the COPSOQ domain “Interpersonal relations and
+leadership” and included four items (e.g. “Are contradictory demands placed on you at work?”).QuestionswereansweredwithaLikertscalefrom1-Toaverylargeextent–5-Toa
+very small extent. Cognitive and emotional demands were from the COPSOQ domain “Demandsat work”(e.g. cognitive demands:“Do youhave to keep youreyes onlotsof things while you work?”, emotional demands: “Is your work emotionally demanding?”. The Likert- type 5-point scale for cognitive demands ranged from 1 - always – 5 - never/hardly ever. The first two items of the emotional demands scale were measured from 1 - always – 5 - never/ hardlyever,whilethelasttwoweremeasuredfrom1-toaverylargeextent–5-toaverysmall extent.
+TheoriginalCOPSOQscaleforemotionaldemandscontainedfouritems,butoneitemwas excluded from the present study. Removing item 4 (“Do you get emotionally involved in your
+Table 1. Key figures for the instruments
+ 
+                            Items α(1) α(2) Ωt(1) Ωt(2) M(1) M(2) SD(1) SD(2)
+                            SC 3 0.75 0.83 0.77 0.85 3.51 3.63 0.88 0.94 SS 3 0.85 0.86 0.87 0.88 3.27 3.01 1.03 1.12 SW 3 0.75 0.85 0.77 0.86 4.14 3.97
+                             0.59 0.81 CD 4 0.69 0.72 0.60 0.76 4.05 4.02 0.75 0.86 ED 3 0.75 0.76 0.76 0.77 3.32 3.28 0.81 1.00 CO 4 0.76 0.75 0.82 0.80
+                             3.01 2.90 0.87 1.00 CW 4 0.79 0.84 0.84 0.88 3.79 3.37 0.99
+                             1.16
+                            Note(s): SC 5 Social support from colleagues; SS 5 Social support from supervisor; SW 5 Social community atwork;CD5
+                             Cognitivedemands;ED5 Emotionaldemands;CO5 Roleconflicts;CW5 Commitmenttoth workplace. 1 5 School principals; 2 5
+                             Teachers
+
+Downloaded from http://www.emerald.com/ijem/article-pdf/40/8/58/11527140/ijem-06-2025-0462en.pdf by guest on 18 April 2026
+IJEM work?”) increased the scale’s Cronbach’s alpha from 0.67 to 0.75 for school principals, and 40,8 from 0.69 to 0.76 for teachers. Further examination revealed that the reason behind this might
+be poor translation from English to Finnish. All the work demand scales were reversed before analysis with school principals and items for role conflicts with teachers.
+Workplace commitment. Workplace commitment was measured using items from the COPSOQ domain “Work organization and job contents”. Workplace commitment included
+four items (e.g. “Do you feel that your place of work is of great importance to you?”). Three 64 itemswereansweredonLikertscalerangingfrom1-Toaverylargeextent–5-Toaverysmall
+extentandoneitemonascalefrom(item4)1-Always–5-Never/hardlyever.Items1,2and3
+were reversed before analysis with school principals, and item 4 was reversed with teachers. Demographics. We controlled age and gender as covariates to account for potential sociodemographic differences among educators. Years of experience have previously been used as acovariate inrecent studies (Collie et al.,2020), but because of limitationsof the data, it was not possible to include in this study. In both questionnaires, age was reported by birth year,whichwetransformedtoagebysubtractingthebirthyearfromtheyearthequestionnaire was conducted (2023). Gender was recoded as a binary variable (0 5 female, 1 5 male) for a
+more simplified interpretation.
+Descriptives. Latent correlations of latent constructs representing all the variables are presented in Table 2. For a further examination of the correlations between all the variables, please see supplementary materials Table A.
+Analyses. The normality of the data was tested with the Shapiro–Wilk test. In the Shapiro– Wilk test, all the p-values from both datasets were <0.05, which confirms the null-hypothesis that the data are non-normally distributed. In addition, multivariate normality of the data was tested with Mardia’s test. In Mardia’s test the skewness and kurtosis tests for both datasets returned significant p-values, which means that the data violated multivariate normality (Mardia, 1970). Consequently, because of the nature of data collection, there was no reason to assume that the data were not missing at random. Therefore, in this study, missing data were treated asMAR. MAR allowsmissing data to behandled using the full informationmaximum likelihood (FIML) approach (Allison, 2003). To avoid issues with multicollinearity, correlations between variables were examined. According to the methodological literature onstructuralequationmodeling,correlationshigherthan0.85foranypairofvariablesindicate possibleissueswithmulticollinearity(Teoetal.,2013).Whentestingthecorrelationsbetween variables within both datasets, none exceeded that limit.
+Multigroup confirmatory factor analysis (MG-CFA) and structural equation modeling (MG-SEM) werethemain analysesused inthe study,and theywereconducted with R version
+Table 2. Latent correlations of all scales
+ 
+                                                                         1 2 3 4 5 6 7
+                                                                         1. Social support from – 0.36** �10 �0.11 �0.14* �0.19** 0.08 supervisor
+                                                                         2. Social support from 0.46** – 0.68** 0.00 �0.08 �0.23* 0.27* colleagues
+                                                                         3. Social community at work 0.40** 0.71** – 0.01 �0.06 �0.45** 0.36
+                                                                         4. Emotional demands �0.05 �0.01 �0.12** – 0.62** 0.47** 0.14
+                                                                         5. Cognitive demands �0.03 0.08 0.03 0.71** – 0.51** �0.06
+                                                                         6. Role conflicts �0.22** �0.21** �0.37** 0.39** 0.33** – �0.30*
+                                                                         7. Commitment to the 0.23** 0.02 0.46** 0.02 0.08 �0.37** – workplace
+                                                                         Note(s): At the top of the table are the correlations for the school principals, while the bottom of the tabl presents the
+                                                                          teachers’ latent constructs. * Correlation is significant at p < 0.05, ** correlation is significan at p <
+                                                                          0.01
+4.4.1 (R Core Team, 2024) in R Studio (R Studio Team, 2024). The Lavaan package (Yves International Rosseel, 2012) was used to define the measurement model and conducting multigroup CFA, Journal of andmaineffectsSEMmodel,whiletheModsempackage(Slupphaugetal.,2024)wasusedto Educational test the multigroup interaction SEM model. Model fits were evaluated with the robust Management
+comparative fit index (CFI), robust root mean square error of approximation (RMSEA) and standardizedrootmeansquareresidual(SRMR).Inaddition,withCFIandRMSEA,Bayesian
+Information Criteria (BIC) were used as additional evaluation criteria when testing
+measurement and structural invariance. 65
+For the CFI, values higher than 0.90 were considered an acceptable fit and values higher than0.95anexcellentfit,fortheRMSEA,valuessmallerthan0.05wereconsideredtoreflecta
+good fit and values between 0.05 and 0.08 an acceptable fit, and for the SRMR values smaller than0.05wereconsideredasgoodfitandvaluessmallerthan0.10anacceptablefit(Teoetal.,
+2013). Models were estimated using the maximum likelihood robust (MLR) method to gain
+standard errors adjusted for the non-normality of the data.
+Measurement invariance strategy included three steps covering configural, metric and
+scalarinvariance. Configural invariancewasexamined byallowing allparametersto befreely
+estimated between groups, metric model by constraining factor loadings as equal, and scalar
+invariance by constraining factor loadings and item intercepts as equal between groups (Xu
+and Tracey, 2017). After establishing an acceptable level of measurement invariance (metric),
+structural invariance was tested in multigroup SEM by constraining also path regressions. To comparedifferencesinstructuralregressionsinmultigroup SEM,achievingmetricinvariance
+in measurement invariance is needed (Davidov et al., 2014). During invariance testing, not
+only was the overall model fit examined, but changes in selected fit indices. To evaluate the
+level of invariance thresholds of CFI ≥0.01, RMSEA ≥0.015, SRMR ≤0.03, and the lowest
+value of BIC showed the best fit (Cheung and Rensvold, 2002). If the constrained model fits
+similarly (differences between the thresholds) or better, the level of invariance can be
+accepted.
+Results. First multigroup confirmatory factor analysis was conducted. Configural model
+showed acceptable fit. After that, metric model was determined and metric model showed an
+acceptable fit. Model fits of each model are presented in Table 3.
+After metric measurement invariance was achieved, multigroup structural equation
+modeling was conducted to examine if associations between social resources, work demands,
+and workplace commitment differ between school principals and teachers. In the first model,
+only main effects were included. Both baseline model and constrained models showed
+acceptable fit. Fit of the constrained model was better, indicating that there are no differences
+between groups inregressions. From the socialresources, social supportfrom supervisors and
+social community at work were significantly associated with workplace commitment, and
+from the work demands, only role conflicts were significantly associated with workplace
+commitment. From demographics, women and older educators showed a significant but weak
+association with higher workplace commitment. Standardized coefficients of the main effects
+model are visualized in Figure 2, and model fit indices are presented in Table 4.
+Finally, interaction model was defined. Only interactions between significant main effects wereaddedinthemodel.Inthestudy,interactioneffectswereexploratoryinnature,andwhen
+testing interaction model, non-significant main effects were not added because of model
+Table 3. Multigroup CFA model fit indices
+ 
+                Model CFI RMSEA                                                               SRMR                      BIC
+                Configural 0.93 0.056 Metric 0.93 0.056                                       0.048 0.049               91562.1 91484.9
+                Note(s): For CFI and RMSEA, robust estimates are reported
+
+Downloaded from http://www.emerald.com/ijem/article-pdf/40/8/58/11527140/ijem-06-2025-0462en.pdf by guest on 18 April 2026
+IJEM 40,8 
+β = 0.28***
+66
+ β = 0.36***
+β = –0.26***
+β = 0.06*
+β = –0.07*
+Figure 2. Standardized coefficients of the main effects model in multigroup SEM. Note. SW 5 Social community at work, SS 5 Social support from supervisor, SC 5 Social support from colleagues,
+ED 5 Emotional demands, CW 5 Commitment to the workplace, CO 5 Role conflicts, CD 5 Cognitive demands
+Table 4. Main effects multigroup SEM model fit indices
+ 
+                                   Model CFI RMSEA                                                               SRMR                      BIC
+                                   Baseline 0.90 0.050 Constrained 0.91 0.049                                    0.054 0.056               88320.6 88191.1
+                                   Note(s): For CFI and RMSEA, robust estimates are reported
+complexity, stability, and reliability (Little et al., 2006). Crossover interaction effects are possible when testing SEM models, but they were not expected within the context of the present study. To determine interaction effects, residual centering approach (RCA) was selected because it provides conceptually straightforward and computationally stable solutions.
+Testing invariance of structural regressions with interaction models, baseline and constrained models showed acceptable to excellent fit. Furthermore, constrained model showed a better fit, pointing out that associations of social resources, work demands and workplacecommitmentdonotdifferbetweenschoolprincipalsandteachers.Modelfitindices arepresentedinTable5.Theinteractionmodelshowedthatassociationsofsocialsupportfrom supervisors, social community at work, role conflicts, and workplace commitment remained significant. In addition, associations between demographics and workplace commitment remained weak but significant. None of the interaction effects were significant. Standardized coefficients of interaction model are presented in Figure 3.
+
+Downloaded from http://www.emerald.com/ijem/article-pdf/40/8/58/11527140/ijem-06-2025-0462en.pdf by guest on 18 April 2026
+
+Table 5. Interaction model in multigroup SEM, model fit indices
+International
+Journal of
+Educational
+Management
+                Model CFI RMSEA                                                               SRMR                     BIC
+                Baseline 0.96 0.053 Constrained 0.96 0.053                                    0.037 0.041              183693.7 183476.4
+                Note(s): For CFI and RMSEA, robust estimates are reported
+67
+β = 0.24***
+β = 0.33***
+β = –0.27***
+β = 0.05*
+β = –0.05*
+Figure 3. Standardized coefficients of interaction effects model in multigroup SEM. Note. SW 5 Social community at work, SS 5 Social support from supervisor, SC 5 Social support from colleagues,
+ED 5 Emotional demands, CW 5 Commitment to the workplace, CO 5 Role conflicts, CD 5 Cognitive demands
+Discussion Thepurposeofthestudywastoexaminewhethertheassociationsofsocialresourcesandwork demands with workplace commitment differ among Finnish school principals and teachers. Further, we examined differences in associations between the interaction effects of social resourcesandworkdemandsinworkplacecommitment.BuildingonJD-Rtheory(Bakkerand Demerouti, 2007), we hypothesized that aspects of social resources are associated positively withworkplacecommitment,whileaspectsofworkdemandsarerelatednegatively,regardless oftheroleofeducator.Theinteractioneffectswereexploratoryinnature,andhypotheseswere not set.
+Theresultsofthestudypartiallysupportedourhypotheses.Thestudyshowsthattherewere no differences in the structural regression paths between Finnish school principals and teachers. From the social resources, social community at work and supervisory support were positively associated with workplace commitment among educators (H1&2). Role conflicts were negatively associated with workplace commitment among educators (H3&4). However,
+
+Downloaded from http://www.emerald.com/ijem/article-pdf/40/8/58/11527140/ijem-06-2025-0462en.pdf by guest on 18 April 2026
+IJEM cognitive and emotional demands, and collegial support were not associated with workplace 40,8 commitment. In addition, none of the interaction effects were significant.
+Differences inassociations ofsocial resourcesandworkplacecommitment betweenschool principals and teachers. The results showed that the associations between workplace social
+resources and workplace commitment were similar between Finnish teachers and school principals.Socialsupportfromsupervisorsandsocialcommunityatworkwasassociatedwith workplacecommitmentamongbothschoolprincipalsandteachers.Theseresultshighlightthe
+68 significanceofthequalityofleadershipanddensenetworksintheworkcommunityinschools. Previous studies have also highlighted the importance of supervisory support and sense of
+community among teachers and school principals (Collie et al., 2018; Beausaert et al., 2023). In Finland, the hierarchical structure of schools has traditionally positioned principals as school leaders. Nonetheless, school principals are also teachers by education, and it is natural that they view teachers as their close social community at work. Previous studies have noted that the fragmentation caused by a high workload limits school principals’ ability to focus on strategic and pedagogical leadership, which may lead to a lack of resources and hinder
+professional development (Lantela et al., 2024).
+In Finland, the teaching profession is highly appreciated, and teachers enjoy strong autonomy and decision-making power over their work (Salmela-Aro et al., 2019). School principalsarecrucialfacilitatorsofteachers’socialcapital,andasschoolleaders,theyformthe key aspects of school organizationalculture, such as school mission, vision, values and norms (Minckler, 2014). As the social community at work represents trust, participation, safety and the density of the social network, a well-functioning organizational culture is an essential resource for enhancing teachers’ workplace commitment. Therefore, the fragmentation of school principals’ job may not only lead to school principals decreasing resources but also distancing them from teachers’ day-to-day work and affect the perceived social climate.
+In the present study, collegial support was not associated with workplace commitment, which contradicts the findings of earlier research (Kaihoi et al., 2022; Beausaert et al., 2023). One possible explanation among teachers is that teaching in Finland, due to the high level of autonomy, is often seen as an individualistic profession, and it is possible that teachers rely on colleagues more for practical aspects of the profession (e.g. sharing materials, co-teaching), and these interactions do not translate into a stronger emotional attachment to the workplace. Among school principals, this finding can be explained by the complexity of the work and hierarchicalstructure,whichmaycausealonelyleadershiproleasinFinland,notalltheschool principals have colleagues within the same school.
+Differences in associations of work demands and workplace commitment between school principals and teachers. The second aim of the present study was to examine whether the associations between work demands and workplace commitment differ between Finnish school principals and teachers. Again, results showed that associations were similar between the groups. Of the aspects of work demands, role conflicts were negatively associated with workplacecommitment amongbothschoolprincipalsandteachers,while emotionaldemands and cognitive demands were not associated with workplace commitment.
+Thereisagapintheresearchontheeffectofcognitivedemandsonworkplacecommitment among educators. The study’s results on emotional demands contradict previous research among educators (Skaalvik and Skaalvik, 2011). Teaching and school leadership are professions where emotional demands are commonplace, and thus, they may not directly affect workplace commitment. For example, in previous studies, teachers’ intention to remain in the profession has been mostly explained by individual factors (Casely-Hayford et al., 2022).
+Role conflicts reflect the diverse expectations educators increasingly face at work and within the school community. Decreasing workplace commitment is one of the main reasons behind teachers’ increasing turnover intentions, and especially younger teachers’ turnover intentions have been linked to the increasing number of tasks, problems of interaction and a perceived mismatch between expectations and reality (R€as€anen et al., 2020). Moreover,
+school principals operate with high levels of autonomy, and there is no standardized job International description,whichrenderstheworkmorefragmentedandcomplex(SaloandSaarukka,2023), Journal of which may cause an increasing number of role conflicts. The results of this study support Educational earlier findings and highlight the importance of effective interaction and clear, well-defined Management
+job descriptions.
+Differences in associations of interaction effects of social resources and work demands on
+workplace commitment between school principals and teachers. Next, the interaction effects
+between social resources and work demands were examined. As the associations were similar 69 between work demands, social resources and workplace commitment, the same interaction
+terms were set with both. None of the interaction effects was associated with workplace
+commitment among educators. As role conflicts may violate personal values (Papastylianou
+et al., 2009), it is also possible that role conflicts are connected to more fundamental issues
+concerning a person’s job (e.g. values), and no aspect of workplace social resources affects
+teachers’ personal opinions. Moreover, as educators enjoy considerable autonomy in their
+work, they may manage role conflicts independently rather than relying on external support.
+Limitations and suggestions for future research
+Earlier studies have suggested that future research should clarify the concept of social capital (Beausaertetal.,2023).Inadditiontosocialcapital,theconceptofsocialresourcesalsoneeds more clarified theorizing. Thus, there is space for research on domain-specific definitions and instruments measuring social resources in educational settings. Educational settings are often morespecific,and,forexampletheFinnishschoolsystem differsfromthatofmanycountries. Moreover, there is a need for more research to identify the most relevant and demanding interactions that educators face, their antecedents, and consequences.
+To better understand social resources in educational settings, both qualitative and quantitative research is required. This also occurs with work demands, such as role conflicts. Qualitative research settings or different types of measurement reports (e.g. observations, network analysis) may deepen our knowledge of the field and help us better understand the increasing demands faced by educators, and the way social resources are formed within the schools. This study was conducted in a cross-sectional setting, and a longitudinal approach is necessary to examine the evolution of levels of social resources through time. In addition, this research focused on the differences in associations between social resources, work demands, and workplacecommitment, but inthefuture, more descriptiveresearch couldbeimportant to compare the two groups of educators. For example, the context of school and school-level factors(e.g.sizeoftheschool)wereexcludedfromthisresearch,whiletheseaspectsmayhave aneffectonsocialstructuresoftheschool.Thesefactorsmayrevealcompletelynewviewsand nuances about educators’ occupational wellbeing.
+For the instruments used in the school principals’ study, Cronbach’s alpha and MacDonald’s omega were relatively low for cognitive demands, suggesting that the scale’s reliability may be suboptimal.
+Implications
+Inthe context ofsocial capital,socialresourcesare seenas sharedand jointfeatures ofa social community, which can also be unevenly distributed within the community (Bourdieu, 1986; Coleman, 1988; Putnam, 2000). However, this study points out that in the Finnish educational system, these features are relatively equally distributed despite the hierarchical structure. The functioning schoolcommunityappearstobeamore importantfactor thantherole ofeducator. The findings of this study suggest that interventions considering cohesion of the workplace could be targeted similarly for both school principals and teachers in Finland. Trust, collaboration and social resources develop in the same way for both and should be considered as collective resources. This highlights the importance of well-designed structures of
+IJEM mentoring and supporting educators’ jobs as well as dialogue between teachers, school 40,8 principals and management.
+Conclusion
+This study examined how associations of social resources, work demands and workplace
+commitmentdifferbetweenFinnishteachersandschoolprincipals.Thefindingshighlightthat 70 between teachers and school principals, there are no differences in these associations and the
+ professional community works similarly for both teachers and school principals in Finland.
+Moreover, they demonstrate that role conflicts are negatively associated, while supervisory
+support and social community at work are positively associated with workplace commitment
+among educators.
+The resilience of the school as an organization can also be examined through the lens of social resources, as schools that foster strong support networks are likely to be better positioned to adjust to challenges and crises. In addition, a well-functioning organizational culture that highlights the importance of effective social networks can also connect social capital to school-wide effectiveness. A deeper knowledge of social networks enhances our understanding of human resources and places the development of educator’s workplace commitment on more sustainable ground.
+Acknowledgments
+The author wishes to thank the Finnish teachers and school principals who participated in the study. Sincere thanks also to the Finnish Principals’ Association (Suomen Rehtoritry) and the Trade Union of Education in Finland (OAJ) for their support in facilitating the data collection.
+Supplementary material
+The supplementary material for this article can be found online.
+References
+Ahn, M.Y. and Davis, H.H. (2020), “Sense of belonging as an indicator of social capital”, International
+Journal of Sociology and Social Policy, Vol. 40 Nos 7/8, pp. 627-642, doi: 10.1108/IJSSP-12-
+2019-0258.
+Allison, P.D. (2003), “Missing data techniques for structural equation modeling”, Journal of Abnormal
+Psychology, Vol. 112 No. 4, pp. 545-557, doi: 10.1037/0021-843X.112.4.545.
+Bakker, A.B. and Demerouti, E. (2007), “The job demands-resources model: state of the art”, Journal
+of Managerial Psychology, Vol. 22 No. 3, pp. 309-328, doi: 10.1108/02683940710733115.
+Bakker, A.B., Demerouti, E., de Boer, E. and Schaufeli, W.B. (2003), “Job demands and job resources
+as predictors of absence duration and frequency”, Journal of Vocational Behavior, Vol. 62 No. 2, pp. 341-356, doi: 10.1016/S0001-8791(02)00030-1.
+Bakker, A.B., Demerouti, E. and Sanz-Vergel, A.I. (2023), “Job demands-resources theory: ten years
+later”, Annual Review of Organizational Psychology and Organizational Behavior, Vol. 10 No. 1, pp. 25-53, doi: 10.1146/annurev-orgpsych-120920-053933.
+Beausaert, S., Froehlich, D.E., Riley, P. and Gallant, A. (2023), “What about school principals’ well-
+being? The role of social capital”, Educational Management Administration and Leadership, Vol. 51 No. 2, pp. 405-421, doi: 10.1177/1741143221991853.
+Bourdieu, P. (1986), “The forms of capital”, in Richardson, J.G. (Ed.), Handbook of Theory and
+Research for the Sociology of Education, Greenwood Press, pp. 241-258.
+Bozionelos, N. and Kiamou, K. (2008), “Emotion work in the Hellenic frontline services environment:
+how it relates to emotional exhaustion and work attitudes”, International Journal of Human Resource Management, Vol. 19 No. 6, pp. 1108-1130, doi: 10.1080/09585190802051410.
+Casely-Hayford, J., Bj€orklund, C., Bergstr€om, G., Lindqvist, P. and Kwak, L. (2022), “What makes International teachers stay? A cross-sectional exploration of the individual and contextual factors associated Journal of
+with teacher retention in Sweden”, Teaching and Teacher Education, Vol. 113, 103664, doi: Educational 10.1016/j.tate.2022.103664. Management
+Chan, D.W. (2002), “Stress, self-efficacy, social support, and psychological distress among prospective
+Chinese teachers in Hong Kong”, Educational Psychology, Vol. 22 No. 5, pp. 557-569, doi: 10.1080/0144341022000023635.
+Chesnut, S.R. and Burley, H. (2015), “Self-efficacy as a predictor of commitment to the teaching 71
+profession: a meta-analysis”, Educational Research Review, Vol. 15, pp. 1-16, doi: 10.1016/
+j.edurev.2015.02.001.
+Cheung, G.W. and Rensvold, R.B. (2002), “Evaluating goodness-of-fit indexes for testing
+measurement invariance”, Structural Equation Modeling: A Multidisciplinary Journal, Vol. 9 No. 2, pp. 233-255, doi: 10.1207/S15328007SEM0902_5.
+Coleman, J.S. (1988), “Social capital in the creation of human capital”, American Journal of Sociology,
+Vol. 94, pp. S95-S120, doi: 10.1086/228943.
+Collie, R.J. and Perry, N.E. (2019), “Cultivating teacher thriving through social-emotional competence
+and its development”, Australian Educational Researcher, Vol. 46 No. 4, pp. 699-714, doi: 10.1007/s13384-019-00342-2.
+Collie, R.J., Shapka, J.D. and Perry, N.E. (2011), “Predicting teacher commitment: the impact of school
+climate and social–emotional learning”, Psychology in the Schools, Vol. 48 No. 10,
+pp. 1034-1048, doi: 10.1002/pits.20611.
+Collie, R.J., Granziera, H. and Martin, A.J. (2018), “Teachers’ perceived autonomy support and
+adaptability: an investigation employing the job demands-resources model as relevant to workplace exhaustion, disengagement, and commitment”, Teaching and Teacher Education, Vol. 74, pp. 125-136, doi: 10.1016/j.tate.2018.04.015.
+Collie, R.J., Granziera, H. and Martin, A.J. (2020), “School principals’ workplace well-being: a
+multination examination of the role of their job resources and job demands”, Journal of Educational Administration, Vol. 58 No. 4, pp. 417-433, doi: 10.1108/JEA-04-2019-0075.
+Davidov, E., Meuleman, B., Cieciuch, J., Schmidt, P. and Billiet, J. (2014), “Measurement equivalence
+in cross-national research”, Annual Review of Sociology, Vol. 40 No. 1, pp. 55-75, doi: 10.1146/ annurev-soc-071913-043137.
+Desrumaux, P., Lapointe, D., Sima, M., Boudrias, J.-S., Savoie, A. and Brunet, L. (2015), “The impact
+of job demands, climate, and optimism on well-being and distress at work: what are the mediating effects of basic psychological need satisfaction?”, Revue Europ�eenne de Psychologie Appliqu�ee/European Review of Applied Psychology, Vol. 65 No. 4, pp. 179-188, doi: 10.1016/ j.erap.2015.06.003.
+Dicke, T., Stebner, F., Linninger, C., Kunter, M. and Leutner, D. (2018), “A longitudinal study of
+teachers’ occupational well-being: applying the job demands-resources model”, Journal of Occupational Health Psychology, Vol. 23 No. 2, pp. 262-277, doi: 10.1037/ocp0000070.
+Edinger, S.K. and Edinger, M.J. (2018), “Improving teacher job satisfaction: the roles of social capital,
+teacher efficacy, and support”, Journal of Psychology, Vol. 152 No. 8, pp. 573-593, doi: 10.1080/ 00223980.2018.1489364.
+Elomaa, M., Eskel€a-Haapanen, S., Pakarinen, E., Halttunen, L. and Lerkkanen, M.-K. (2023), “Work-
+related stress of elementary school principals in Finland: coping strategies and support”, Educational Management Administration and Leadership, Vol. 51 No. 4, pp. 868-888, doi: 10.1177/17411432211010317.
+Fang, Y., Yu, J., Toyama, H. and Salmela-Aro, K. (2025), “School principals’ job burnout and job
+satisfaction in Finland: the impact of work–family conflict, role conflict, and sense of community”, Educational Management Administration and Leadership, 17411432251333560, doi: 10.1177/17411432251333560.
+Haapaniemi, J., Ven€al€ainen, S., Malin, A. and Palojoki, P. (2021), “Teacher autonomy and
+collaboration as part of integrative teaching – reflections on the curriculum approach in Finland”,
+IJEM Journal of Curriculum Studies, Vol. 53 No. 4, pp. 546-562, doi: 10.1080/
+40,8 00220272.2020.1759145.
+Houle, S.A., Morin, A.J.S. and Fernet, C. (2022), “Longitudinal trajectories of affective commitment to
+the occupation among school principals: a person-centered perspective”, Journal of Vocational Behavior, Vol. 137, 103758, doi: 10.1016/j.jvb.2022.103758.
+Kaihoi, C.A., Bottiani, J.H. and Bradshaw, C.P. (2022), “Teachers supporting teachers: a social network 72 pscehrsopoelcetidvuecaotnorcso”l,leSgcihaolosltrMesesnstaulppHoeratlathn,dVeoml.o1ti4onNaol.w4e,llpbpe.in1g07a0m-1o0n8g5e,ldemoie:n1t0a.r1y0a0n7d/s1m2i3d1d0le-
+022-09529-y.
+Kowalski, C., Ommen, O., Driller, E., Ernstmann, N., Wirtz, M.A., K€ohler, T. and Pfaff, H. (2010),
+“Burnout in nurses: the relationship between social capital in hospitals and emotional exhaustion”, Journal of Clinical Nursing, Vol. 19 Nos 11-12, pp. 1654-1663, doi: 10.1111/ j.1365-2702.2009.02989.x.
+Karakus¸, M. and Aslan, B. (2009), “Teachers’ commitment focuses: a three-dimensioned view”, The
+Journal of Management Development, Vol. 28 No. 5, pp. 425-438, doi: 10.1108/ 02621710910955967.
+Lantela, L., Pietil€ainen, V. and Korva, S. (2024), “Examining contradictions for the development of
+competencies in school leadership”, in Ahtiainen, R., Hanhim€aki, E., Leinonen, J., Risku, M. and Smeds-Nylund, A.S. (Eds), Leadership in Educational Contexts in Finland. Educational Governance Research, Springer, Cham, Vol. 23, pp. 257-279, doi: 10.1007/978-3-031-37604-7_13.
+Lin, N., Cook, K.S. and Burt, R.S. (2001), Social Capital: Theory and Research, Transaction
+Publishers, New Brunswick, NJ.
+Little, T.D., Bovaird, J.A. and Widaman, K.F. (2006), “On the merits of orthogonalizing powered and
+product terms: implications for modeling interactions among latent variables”, Structural Equation Modeling: A Multidisciplinary Journal, Vol. 13 No. 4, pp. 497-519, doi: 10.1207/ s15328007sem1304_1.
+Liu, Y. and Bellibas, M.S. (2018), “School factors that are related to school principals’ job satisfaction
+and organizational commitment”, International Journal of Educational Research, Vol. 90,
+pp. 1-19, doi: 10.1016/j.ijer.2018.04.002.
+Mardia, K.V. (1970), “Measures of multivariate skewness and kurtosis with applications”, Biometrika,
+Vol. 57 No. 3, pp. 519-530, doi: 10.1093/biomet/57.3.519.
+Maslach, C., Schaufeli, W.B. and Leiter, M.P. (2001), “Job burnout”, Annual Review of Psychology,
+Vol. 52 No. 1, pp. 397-422, doi: 10.1146/annurev.psych.52.1.397.
+Meredith, C., Moolenaar, N., Struyve, C., Vandecandelaere, M., Gielen, S. and Kyndt, E. (2023), “The importance of a collaborative culture for teachers’ job satisfaction and affective commitment”,
+European Journal of Psychology of Education, Vol. 38 No. 1, pp. 43-62, doi: 10.1007/s10212-
+022-00598-w.
+Meyer, J.P. and Allen, N.J. (1991), “A three-component conceptualization of organizational
+commitment”, Human Resource Management Review, Vol. 1 No. 1, pp. 61-89, doi: 10.1016/ 1053-4822(91)90011-Z.
+Meyer, J.P. and Parfyonova, N.M. (2010), “Normative commitment in the workplace: a theoretical
+analysis and re-conceptualization”, Human Resource Management Review, Vol. 20 No. 4, pp. 283-294, doi: 10.1016/j.hrmr.2009.09.001.
+Minckler, C.H. (2014), “School leadership that builds teacher social capital”, Educational Management Administration and Leadership, Vol. 42 No. 5, pp. 657-679, doi: 10.1177/1741143213510502.
+Nissinen, T., Upadyaya, K., Lonka, K., Salmela-Aro, K. and Hiroyuki, T. (2024), “School principals’
+job crafting profiles and their differences during the prolonged COVID-19 pandemic”, International Journal of Organization Theory and Behavior, Vol. 27 No. 3, pp. 185-205, doi: 10.1108/IJOTB-03-2023-0060.
+OECD (2013), Education Policy Outlook: Finland, OECD Publishing, available at: https://
+www.oecd.org/content/dam/oecd/en/about/projects/edu/education-policy-outlook/256005-
+EDUCATION%20POLICY%20OUTLOOK%20FINLAND_EN.pdf
+Papastylianou, A., Kaila, M. and Polychronopoulos, M. (2009), “Teachers’ burnout, depression, role International
+ambiguity and conflict”, Social Psychology of Education, Vol. 12 No. 3, pp. 295-314, doi: Journal of
+10.1007/s11218-008-9086-7. Educational Pejtersen, J.H., Kristensen, T.S., Borg, V. and Bjorner, J.B. (2010), “The second version of the Management
+copenhagen psychosocial questionnaire”, Scandinavian Journal of Public Health, Vol. 38 3_
+suppl, pp. 8-24, doi: 10.1177/1403494809349858.
+Pooley, J.A., Cohen, L. and Pike, L.T. (2005), “Can sense of community inform social capital?”, The
+Social Science Journal, Vol. 42 No. 1, pp. 71-79, doi: 10.1016/j.soscij.2004.11.006. 73
+Putnam, R.D. (2000), Bowling Alone: the Collapse and Revival of American Community, Simon &
+Schuster, New York.
+Pyh€alt€o, K., Pietarinen, J. and Salmela-Aro, K. (2011), “Teacher–working-environment fit as a
+framework for burnout experienced by Finnish teachers”, Teaching and Teacher Education, Vol. 27 No. 7, pp. 1101-1110, doi: 10.1016/j.tate.2011.05.006.
+R Core Team (2024), _R: a Language and Environment for Statistical Computing_. R Foundation for
+Statistical Computing, Vienna, Austria, available at: https://www.R-project.org/
+R Studio Team (2024), Rstudio: Integrated Development Environment for R (Version 2024.12.1.563),
+[Computer software], Posit Software, PBC, available at: https://posit.co
+R€as€anen, K., Pietarinen, J., Pyh€alt€o, K., Soini, T. and V€ais€anen, P. (2020), “Why leave the teaching
+profession? A longitudinal approach to the prevalence and persistence of teacher turnover
+intentions”, Social Psychology of Education, Vol. 23 No. 4, pp. 837-859, doi: 10.1007/s11218-
+020-09567-x.
+Salmela-Aro, K., Hietaj€arvi, L. and Lonka, K. (2019), “Work burnout and engagement profiles among
+teachers”, Frontiers in Psychology, Vol. 10, 2254, doi: 10.3389/fpsyg.2019.02254.
+Salo, P. and Saarukka, S. (2023), “In quest for principalship”, In R. Ahtiainen, E. Hanhim€aki, J.
+Leinonen, M. Risku and A.-S. Smeds-Nylund (Eds.), Leadership in Educational Contexts in Finland : Theoretical and Empirical Perspectives (Educational Governance Research Springer, Vol. 23 pp. 41-59, doi: 10.1007/978-3-031-37604-7_3
+Skaalvik, E.M. and Skaalvik, S. (2011), “Teacher job satisfaction and motivation to leave the
+teaching profession: relations with school context, feeling of belonging, and emotional exhaustion”, Teaching and Teacher Education, Vol. 27 No. 6, pp. 1029-1038, doi: 10.1016/ j.tate.2011.04.001.
+Skaalvik, E.M. and Skaalvik, S. (2018), “Job demands and job resources as predictors of teacher
+motivation and well-being”, Social Psychology of Education: International Journal, Vol. 21 No. 5, pp. 1251-1275, doi: 10.1007/s11218-018-9464-8.
+Slupphaug, K.S., Mehmetoglu, M. and Mittner, M. (2024), “Modsem: an R package for estimating
+latent interactions and quadratic effects”, Structural Equation Modeling: A Multidisciplinary Journal, Vol. 324, pp. 717-729, doi: 10.1080/10705511.2024.2417409
+Teo, T., Tsai, L.T. and Yang, C.-C. (2013), “Applying structural equation modeling (SEM) in
+educational research: an introduction”, in Khine, M.S. (Ed.), Application of Structural Equation Modeling in Educational Research and Practice, Sense, pp. 3-21.
+Toyama, H., Upadyaya, K. and Salmela-Aro, K. (2022), “Job crafting and well-being among
+school principals: the role of basic psychological need satisfaction and frustration”, European Management Journal, Vol. 40 No. 5, pp. 809-818, doi: 10.1016/ j.emj.2021.10.003.
+University of Helsinki (2025a), Study of Teachers’ Work-Related Well-Being [Spring 2023], Zenodo.
+doi: 10.5281/zenodo.14801687.
+University of Helsinki (2025b), The Principal Barometer (Finland) [2023], Zenodo. doi: 10.5281/
+zenodo.13643802.
+Upadyaya, K. and Salmela-Aro, K. (2020), “Social demands and resources predict job burnout and
+engagement profiles among Finnish employees”, Anxiety, Stress and Coping, Vol. 33 No. 4, pp. 403-415, doi: 10.1080/10615806.2020.1746285.
+IJEM Upadyaya, K., Vartiainen, M. and Salmela-Aro, K. (2016), “From job demands and resources to work 40,8 engagement, burnout, life satisfaction, depressive symptoms, and occupational health”, Burnout
+Research, Vol. 3 No. 4, pp. 101-108, doi: 10.1016/j.burn.2016.10.001.
+Villalonga-Olives, E. and Kawachi, I. (2015), “The measurement of social capital”, Gaceta Sanitaria,
+Vol. 29 No. 1, pp. 62-64, doi: 10.1016/j.gaceta.2014.09.006.
+Xu, H. and Tracey, T.J.G. (2017), “Use of multi-group confirmatory factor analysis in examining measurement invariance in counseling psychology research”, The European Journal of
+74 Counselling Psychology, Vol. 6 No. 1, pp. 75-82, doi: 10.5964/ejcop.v6i1.120.
+Yves Rosseel (2012), “Lavaan: an R package for structural equation modeling”, Journal of Statistical
+Software, Vol. 482, pp. 1-36, doi: 10.18637/jss.v048.i02
+Corresponding author
+Jukka M€akinen can be contacted at: jukka.ai.makinen@helsinki.fi
+For instructions on how to order reprints of this article, please visit our website: www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+Downloaded from http://www.emerald.com/ijem/article-pdf/40/8/58/11527140/ijem-06-2025-0462en.pdf by guest on 18 April 2026

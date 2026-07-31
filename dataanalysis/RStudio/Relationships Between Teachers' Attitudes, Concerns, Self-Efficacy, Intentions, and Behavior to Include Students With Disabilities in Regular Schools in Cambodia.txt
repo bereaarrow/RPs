@@ -1,0 +1,368 @@
+﻿Psychology in the Schools
+ RESEARCH ARTICLE
+Relationships Between Teachers' Attitudes, Concerns, Self‐Efficacy, Intentions, and Behavior to Include Students With Disabilities in Regular Schools
+in Cambodia
+Sokunrith Pov1 | Norimune Kawai2
+1Graduate School of Humanities and Social Sciences, Hiroshima University, Higashihiroshima, Japan | 2The Institute for Diversity and Inclusion, Hiroshima University, Higashihiroshima, Japan
+Correspondence: Sokunrith Pov (sokunrithp@gmail.com)
+Received: 10 June 2024 | Revised: 29 November 2024 | Accepted: 14 February 2025
+Keywords: attitude | behavior | behavioral intention | concern | inclusive education | self ‐efficacy | theory of planned behavior
+ABSTRACT
+In Cambodia, students with disabilities remain marginalized and excluded from regular education settings, leading to low attendance and primary education completion rates. These challenges highlight critical concerns about teachers' inclusive practices. This study utilized the Theory of Planned Behavior to explore how teachers' attitudes (attitudes toward inclusion), subjective norms (c oncerns about inclusion), perce ived behavioral control (self ‐efficacy for inclusive prac- tices), and behavioral intentions shaped their actual behavior to include students with disabilities. A survey was con- ducted with 1008 in ‐service teachers from 236 primary schools across Cambodia using the teachers' attitudes toward inclusion scale, concern about inclusive education scale, and teacher efficacy for inclusive practices. Data analysis employed a mediation analysis using structural equation modeling with the lavaan package in RStudio. The study revealed that subjective norms and perceived behavioral control significantly and directly predicted teachers' intentions to support students with disabilities. Behavioral intentions, subjective norms, and perceived behavioral control also directly predicted their actual behavior. Indirect effects showed that subjective norms and perceived behavioral control significantly predicted actual behavior through behavioral intentions. The findings highlight the importance of strengthening policy and training programs to alle viate teachers' concerns and enhance their self ‐efficacy to promote inclusive practices.
+
+1 | Introduction
+International commitments toward inclusive education have triggered significant shifts in education policies and practices in both the Global North and Global South. The Agenda 2030 on Sustainable Development Goal 4 (SDG4) calls for a global movement to “ensure inclusive and equitable quality education and promote lifelong learning opportunities for all ” (United Nations Educational, Scientific, and Cultural Organization [UNESCO], 2015, 21). Many countries have aligned their
+policies with this agenda, incorporating its principles into framework and action plans. Some have prioritized inclusive education as a core policy focus, fostering reforms to support students with special educational needs and disabilities (SEND)
+in regular schools. Translating these commitments into practice remains a critical challenge, particularly in the Global South, where most teachers lack adequate preparation for inclusive practices, and limited resources hinder progress (e.g., Agbenyega 2007; Agbenyega and Klibthong 2014; Ravet and Mtika 2021; Round et al. 2015; Shah et al. 2016).
+
+© 2025 Wiley Periodicals LLC.
+Psychology in the Schools, 2025; 62:2237–2249 2237 of 2338 https://doi.org/10.1002/pits.23460
+
+Summary
+• This study provides theoretical and empirical insights into the relationships between Cambodian teachers' at- titudes, subjective norms (concerns about inclusion), perceived behavioral control (self ‐efficacy for inclusive practices), behavioral intentions, and their actual behavior toward inclusion, laying a strong foundation for effective policy and practice improvements to en- hance teachers' behavior in including and supporting students with disabilities.
+• The study found that for direct effects, teachers' sub- jective norms and perceived behavioral control signifi- cantly predicted their behavioral intentions to support inclusion. Subjective norms, perceived behavioral con- trol, and behavioral intentions significantly predicted actual behavior toward inclusion. For indirect effects, subjective norms and perceived behavioral control sig- nificantly predicted the actual behavior through behav- ioral intentions.
+• The study advocates for policy reforms in Cambodia, emphasizing systematic policy dissemination with on ‐ site support, compulsory inclusive education training, curriculum modification skills, aligned training dura- tion, extended training efforts, an improved training model, shared responsibility, collaborative support, school leadership involvement, better resource access, and further research on the effectiveness and challenges
+of inclusive education courses and field experiences.
+Cambodia has demonstrated strong commitments to SDG4, making it a key priority in its Education Strategic Plans 2019–2023 and 2024–2028. The Ministry of Education, Youth and Sport (MoEYS) prioritizes education policy “en- suring all Cambodians have access to quality, equitable, and inclusive education enriched with knowledge, skills, disci- pline, ethics, good behavior, health, fitness, and lifelong learning ” (MoEYS 2019b, 2024). This commitment not only facilitates the expansion of educational projects and the establishment of systems to support students with SEND, particularly students with disabilities (SWDs), but also holds the potential for significant positive change in the Cambodian education system. Notable initiatives include the establishment of special education schools, the National Institute of Special Education (NISE), and the Department
+of Special Education to advance both special and inclusive education for SWDs (Pov 2021).
+Legislation further supports these efforts. Article 39 of Cam- bodia's Law on Education affirms the right of SWDs to be educated alongside peers without disabilities in regular class- rooms through curriculum modifications rather than separate curricula (Cambodia National Assembly 2007). To further address the needs of SWDs, MoEYS introduced the Policy on Education for Children with Disabilities in 2008 (see MoEYS 2008). After 10 years of its implementation, this policy was revised into the Policy on Inclusive Education in 2018 (see MoEYS 2018). The Policy on Inclusive Education builds on the previous policy and aims to further integrate SWDs into regular schools, providing additional support and resources for teach- ers. These policies reinforce this right and encourage teachers to
+accept SWDs into regular education classrooms (Cook and Cameron 2010).
+Data from the Education Management Information System (EMIS) for the academic year 2021 –2022 classify disabilities into four categories: physical, intellectual, mental, and other dis- abilities. Physical disabilities, including movement, visual, and hearing impairments, are the most prevalent, particularly at the primary level, followed by intellectual disabilities, as shown in Figure 1. Mental disabilities and other conditions are the least reported across educational levels (MoEYS 2023). The defini- tions of these terms are detailed in the “Determination of Criteria for Types and Levels of Disabilities ” (see Ministry of Social Affairs, Veterans, and Youth Rehabilitation. 2011). These statistics reflect a growing number of SWDs in regular schools, presenting substantial challenges in achieving a fully inclusive education system (Disability Action Council 2003).
+In regular school settings, while some schools admit students with low‐incidence disabilities, only a few accommodate a broad range of conditions and varying severity levels, including hearing, visual, and intellectual impairments (Kalyanpur 2016; Ravet and Mtika 2021). In Cambodia, SWDs face significant challenges in accessing the curriculum due to the lack of nec- essary modifications to address their specific needs. Often, they are placed in so ‐called “inclusive classes ” without receiving the additional tailored support from teachers (Nishio 2019).
+2 | Framing the Problems
+Despite various government's commitments, a significant number of children with disabilities remain out of school, while SWDs are marginalized within regular classrooms and continue to drop out before completing an educational cycle, especially at the primary level. According to the UNESCO Institute for Sta- tistics (2018), 57% of Cambodian children with disabilities of primary school age (6 –11 years old) were out of school, com- pared to only 7% of their peers without disabilities. Further- more, only 44.4% of SWDs completed primary education, with the remaining 55.6% dropping out of schools. Similarly, the 2019 population census reported that 44.3% of individuals aged seven and over with disabilities completed primary education (UNESCO Institute for Statistics 2018).
+The needs of SWDs extend beyond mere school attendance. They require tailored support and assistance from teachers to participate fully in regular classrooms (Disability Action Council 2003). Achieving the principle of inclusion necessitates changes to values, attitudes, policies, and, most importantly, teachers' practices (Polat 2011). Teachers play a crucial role in implementing inclusive practices, determining the success or failure of inclusive education (Forlin and Lian 2008). They translate inclusive education policies into changes in teaching practices, making it imperative to address their attitudes, con- cerns, self‐efficacy, intentions, and behavior toward inclusion (Emmers et al. 2020; Shah et al. 2016; Yan and Sin 2014).
+While previous studies have commonly investigated teach- ers' attitudes and self ‐efficacy, and the factors influencing them (e.g., Agbenyega 2007; Alnahdi 2019; Ekins et al. 2016;
+
+ of 2338
+
+FIGURE 1 | Number and types of disabilities by percentages educational levels. Note. author's calculation based on data from MoEYS in the academic year 2021 –2022 (MoEYS 2023); 1=movement disorders; 2=visual impairments; 3=hearing impairments; 4=speech impairments; 5=internal disorders; 6=intellectual disabilities; 7=mental disabilities; 8=others.
+
+2239 of 2338
+Sharma et al. 2012; Woodcock et al. 2022), limited research has examined how these aspects interrelate and influence teachers' actual behavior toward the inclusion of SWDs in regular schools. None of these studies exist in the context of Cambodia. It is crucial to explore the relationships between teachers' attitudes, concerns, self ‐efficacy, behav- ioral intentions, and actual behavior concerning the inclu- sion of SWDs in regular classrooms, as they directly affect the acceptance or rejection of SWDs and contribute to high dropout rates (Emmers et al. 2020).
+Research has explored these relationships from various per- spectives and using different measures. Some studies have fo- cused on teachers' behavior related to their communication and involvement in inclusive practices with SWDs in inclusive classrooms (e.g., Emmers et al. 2020; Yan and Sin 2014), while others have examined teachers' behavior in terms of the acceptance or rejection of SWDs in their classrooms (e.g., Cook and Cameron 2010). Understanding the relationships between attitudes, self ‐efficacy, and behavior in implementing inclusive education holds significant implications for both policy and
+practice, fostering inclusive practices in regular classrooms (Emmers et al. 2020).
+3 | Research Objective and Question
+The current study focused on in ‐service teachers from all 25 provinces and cities in Cambodia, investigating their behavior toward the acceptance or rejection of SWDs in their classrooms. The primary aim was to assess the relationships between atti- tudes toward behavior (attitudes toward inclusion), subjective norms (concerns about inclusion), perceived behavioral control (self‐efficacy for inclusive practices), behavioral intentions to support inclusion, and their actual behavior toward the inclu- sion or rejection of SWDs in regular primary schools in Cambodia.
+The study sought to answer the question: “Did teachers' atti- tudes toward behavior, subjective norms, perceived behavioral control, and behavioral intentions significantly predict their actual behavior toward the inclusion or rejection of SWDs in
+
+ of 2338
+regular primary school classrooms in Cambodia? ” To address this question, Ajzen's (1991) Theory of Planned Behavior was employed as the study's theoretical framework.
+4 | Theoretical Framework
+Understanding individuals' behavior in all its complexity is challenging. Ajzen (1991) asserts that to comprehend an in- dividual's behavior,
+It can be approached at many levels, from concern with physiological processes at one extreme to concentration on social institutions at the other. Social and personality psychologists have tended to focus on an intermediate level, the fully functioning individual whose processing of available information mediates the effects of biological and environmental factors on behavior.
+(p. 179)
+The Theory of Planned Behavior provides a robust theoretical framework for understanding how teachers' behavior is shaped within regular education settings. This study serves as a guiding framework to examine whether Cambodian in ‐service teachers' attitudes toward behavior regarding attitudes toward inclusion, subjective norms regarding concerns about inclusion, and per- ceived behavioral control regarding self ‐efficacy for inclusive practices, and behavioral intentions significantly predicted their actual behavior toward acceptance or rejection of SWDs in their classrooms. In principle, the theory posits that individuals' behavioral intentions are influenced by their attitudes toward the behavior, subjective norms, and perceived behavioral control. Behavioral intentions and perceived behavioral control, in turn, shape their actual behavior to perform an action (Ajzen 1991).
+Ajzen (1991, 188) defines attitude toward behavior as “the degree to which a person has a favorable or unfavorable evaluation or appraisal of the behavior in question. ” Subjective norms involve “the perceived social pressure to perform or not to perform the behavior. ” Perceived behavioral control refers to “the perceived ease or difficulty of performing the behavior, and
+it is assumed to reflect past experience as well as anticipated impediments and obstacles. ” In essence, more positive attitudes and subjective norms, along with stronger perceived behavioral control, lead to greater behavioral intentions to perform a par- ticular behavior. The significance of attitudes, subjective norms, and perceived behavioral control varies across behaviors and situations (Ajzen 1991). These aspects are particularly crucial in the field of inclusive education to examine their significant association with teachers' behavior in implementing inclusive practices (Emmers et al. 2020; Urton et al. 2023; Yan and Sin 2014).
+In the context of inclusive education, the Theory of Planned Behavior is a robust theoretical framework commonly used to explain attitudes, concerns, and self ‐efficacy in implementing inclusive practices that shape in ‐service teachers' behavioral intentions and actual behavior in including SWDs in regular classrooms. Attitudes toward behavior are conceptualized as individuals' perceptions, such as their attitudes toward
+inclusion, regarding the characteristics and outcomes of including SWD in regular classrooms, evaluated based on their assessments of these aspects. Subjective norms pertain to teachers' perceptions of the views of significant others (e.g., colleagues, students without disabilities, and parents) on inclusive education, considering their motivation to adhere to these beliefs. Perceived behavioral control involves teachers' perceptions of their ability to implement inclusive practices, particularly self ‐efficacy for inclusive practices, concerning their knowledge of strategies and their sense of control over the implementation process (Scanlon et al. 2022; Yadav et al. 2015).
+5 | Previous Studies
+Research shows that the Theory of Planned Behavior has been employed as a framework in several studies to examine how teachers' attitudes, subjective norms, perceived behavioral control, and behavioral intentions influence their actual behavior in implementing inclusive practices (e.g., Emmers et al. 2020; Urton et al. 2023; Yan and Sin 2014). This theory is particularly relevant in studies exploring in ‐service teachers' actual behavior and its determinants, especially in terms of the inclusion or rejection of SWDs in regular classrooms.
+In Flanders, Emmers et al. (2020) utilized the Theory of Planned Behavior to examine the relationships between atti- tudes, self‐efficacy, and behavior toward inclusion of teachers from all higher education institutions. The study employed the Teacher Efficacy for Inclusive Practices (TEIP), developed by Sharma et al. (2012), and the Sentiments, Attitudes, Con- cerns regarding Inclusive Education ‐Revised (SACIE‐R) scales, developed by Forlin et al. (2011). Attitudes toward behavior were measured using SACIE ‐R, specifically the attitude scale assessing attitudes toward inclusion. Subjective norms were assessed using three items that gauged teachers' beliefs about how important individuals in the learning en- vironment talked about SWDs. Perceived behavioral control was assessed using the 18 ‐item TEIP. Behavioral intentions were measured with a four ‐item scale related to how teachers label SWDs, while actual behavior was assessed using a three ‐ item scale focusing on communication with SWDs. The study found that only attitudes had a significant impact on behav- ioral intentions, while subjective norms, perceived behavioral control, and behavioral intentions did not significantly influence actual behavior.
+In Germany, Urton et al. (2023) utilized the Theory of Planned Behavior to measure factors explaining primary school teachers' intentions to implement inclusive practices. In their study, at- titudes were divided into behavioral beliefs and outcome ex- pectations, measured by three key aspects: academic learning, social development, and social inclusion for students with and without special educational needs. Subjective norms were divided into normative beliefs and motivation to comply, mea- sured by the beliefs of the ministry, the school inspectorate, the school principal, colleagues, parents, and students. Perceived behavioral control was divided into control beliefs and per- ceived power, measured by three aspects: cooperation, resources, and knowledge. The study found that all these factors
+
+ of 2338
+had significant relationships with teachers' behavioral inten- tions to implement inclusion.
+In Hong Kong, Yan and Sin (2014) used the Theory of Planned Behavior to analyze predictors explaining teachers' behavioral intentions and behavior toward inclusion. The study involved 841 primary and secondary school teachers from regular schools. The study found that attitudes toward behavior, sub- jective norms, and perceived behavioral control had a signifi- cant influence on behavioral intentions to implement inclusive practices. Furthermore, intentions, along with attitudes toward behavior, subjective norms, and perceived behavioral control, significantly influenced actual behavior toward inclusion. Similarly, a recent study by Yang et al. (2024) confirmed that attitudes toward behavior, subjective norms, and perceived behavioral control significantly impacted both behavioral intentions and behavior. Additionally, the study revealed that intentions and behavior significantly mediated the effects on the social and academic competencies of students with special educational needs in Hong Kong.
+and behavioral intentions. Furthermore, the design supports the study's goal of generalizing findings to all primary school teachers in Cambodia.
+6.2 | Participants
+The selection of schools for this study was based on a cluster random sampling method, considering school location (urban and rural areas) and the school's track record in accommodat- ing SWDs. A list of all primary schools in Cambodia in the academic year 2021 –2022 was obtained from EMIS of MoEYS. Primary schools were filtered based on location and the inclu- sion of SWDs, resulting in 1314 eligible schools. From this pool, primary schools were randomly selected from each province, resulting in 236 primary schools across 25 provinces and cities in Cambodia. All teachers from the selected schools were invited to participate in the current study, with a total of 1008 teachers voluntarily completing the questionnaire, with a response rate of 71%. Detailed participant characteristics are presented in the “Results” section.
+
+2241 of 2338
+These studies collectively underscore the importance of un-
+derstanding the relationships between attitudes toward behav-
+ior, subjective norms, perceived behavioral control, behavioral
+intentions, and behavior toward inclusion, using the Theory of 6.3 | Instruments and Variables
+Planned Behavior as a guiding framework. The relationships
+among these factors differ across samples and the country ‐ This study employed a four ‐part questionnaire for data collec- specific contexts. It would be intriguing to explore these re- tion, comprising (1) demographic background, (2) the 24 ‐item lationships among Cambodian teachers, considering the varia- Teachers' Attitudes Toward Inclusion Scale (TATIS), (3) the tions in school and resource contexts for implementing 18‐item TEIP scale, and (4) the 21 ‐item Concerns about Inclu- inclusive education. sion Scale (CIES).
+
+ of 2338
+To date, no studies have examined these relationships among Cambodian in ‐service teachers, nor have any studies employed theoretical frameworks with large samples for generalization purposes. Some studies have focused on teachers' attitudes and the implementation of training programs related to inclusive education (e.g., Nishio 2019; Kuroda et al. 2017; Pov et al. 2024; Ravet and Mtika 2021). The present study seeks to fill these gaps, offering implications for improving policies and practices
+to enhance teachers' behavior toward the inclusion of SWDs, with the ultimate goal of improving enrollment rates and reducing dropout rates among SWDs in regular education settings.
+6 | Methodology
+6.1 | Study Design
+This study employed a quantitative approach using a correla- tional research design for the investigation. In essence, corre- lational research serves two primary purposes to elucidate significant human behaviors through naturalistic observation by (1) exploring relationships among variables, and (2) to pre- dict likely outcomes of one variable in relation to other variables that are not manipulated during the research period (Fraenkel
+et al. 2011; Privitera 2016). This study design aligns with the study's objective of predicting the likely outcomes of teachers' actual behavior toward inclusion based on their attitudes to- ward behavior, subjective norms, perceived behavioral control,
+Attitudes toward behavior were measured using the TATIS scale, which was originally developed by Bailey (2004). This 24‐item scale, rated on a 5 ‐point Likert scale (1=strongly dis- agree, 2=disagree, 3=neither disagree nor agree, 4=agree, and 5=strongly agree), comprises five subscales: (1) imple- mentation issues, (2) benefits of inclusion, (3) learning chal- lenges, (4) exclusion of SWDs, and (5) professional training. Implementation issues address challenges regarding fairness, practicality, and the impact of inclusion on workload, class time, and other students' learning. Benefits of inclusion capture perceived academic and social advantages of inclusion. Learn- ing challenges reflect difficulties in accommodating SWDs due to their specific needs. Exclusion of SWDs emphasizes beliefs about excluding students with behavioral challenges. Profes- sional training highlights concerns over inadequate teacher preparation (see Bailey 2004).
+Subjective norms were measured using the 21 ‐item CIES, which was originally developed by Sharma and Desai (2002). Rated on a four‐point scale (1=not concerned at all, 2=a little con- cerned, 3=very concerned, 4=extremely concerned), the scale includes four subscales: (1) resources, (2) workloads, (3) aca- demic standards, and (4) acceptance. Resources address con- cerns about insufficient funding, staff, infrastructure, and support. Workloads highlight concerns about increased work- load, lack of incentives, and staff stress. Academic standards reflect concerns about declining academic standards, teacher performance, and student attention. Acceptance indicates con- cerns about time to plan for SWDs, maintaining discipline, and
+
+ of 2338
+lack of knowledge and skills to teach them (see Sharma and Desai 2002).
+Perceived behavioral control was measured using the TEIP scale, which was originally developed by Sharma et al. (2012). It consists of 18 items, rated on a six ‐point scale (1=strongly disagree; 2=disagree; 3=disagree somewhat; 4=agree some- what; 5=agree; 6=strongly agree). The scale includes three subscales: (1) managing behaviors, (2) collaboration, and (3) using inclusive instruction. Using inclusive instruction high- lights confidence in assessment, alternative explanations, task design, and student engagement. Managing behavior reflects confidence in handling disruptions, enforcing rules, and managing aggression. Collaboration captures confidence in supporting families, working with professionals, involving parents, and educating others on inclusion policies (see Sharma et al. 2012).
+Behavioral intentions were evaluated by teachers' intentions to support SWDs in regular classrooms. Previous studies also used several items to determine teachers' behavioral intentions, fo- cusing on their willingness to support SWDs (see Urton et al. 2023; Yan and Sin 2014). In the analytical model, behav- ioral intentions served as a mediator between attitudes, sub- jective norms, and perceived behavioral control.
+Teachers' actual behavior toward inclusion served as the outcome variable, assessed based on their real ‐life experi- ences of accepting or rejecting SWDs throughout their teaching careers. This approach has been utilized in previ- ous studies (e.g., Cook and Cameron 2010). Actual behavior toward inclusion was a dichotomous dependent variable
+(0 = not included SWDs, 1 = included SWDs). Teachers were asked to report their experiences of including or rejecting SWDs in their classrooms.
+As described in the sampling procedure, this study included 50% of schools with inclusive education programs. Despite this, only 45% of teachers reported having experience ac- cepting SWDs into their classrooms, while 55% reported rejecting them. This finding raises serious concerns about the underlying attitudes, concerns, and self ‐efficacy that may contribute to such negative behavior (see Emmers
+et al. 2020; Kroesch and Peeples 2021; Urton et al. 2023; Yan and Sin 2014).
+6.4 | Data Collection and Ethical Issues
+To collect data, ethical approval and permission were obtained from Hiroshima University and MoEYS. In Japan, ethical approval was granted by the Research Ethics Review Board of Hiroshima University (reference #HR ‐ES‐000805) in Japan on 24 February 2023. In Cambodia, permission for data collection was granted by MoEYS (reference #735) on 6 February 2023. Permission was also secured from the target schools, and individual consent was obtained from the participants to address ethical considerations. Conse- quently, the questionnaire was distributed to all teachers in 236 primary schools, resulting in 1008 valid responses, with
+a 71% response rate.
+6.5 | Data Analysis
+Descriptive statistics, including mean (M), standard deviation (SD), and frequency, were used to calculate the attitude, con- cern, self‐efficacy, intentions, behavior, and demographic characteristics of the participants. For the validity test, an Ex- ploratory Factor Analysis using Principal Axis Factoring (PAF) with Equamax rotation was employed to explore the underlying structure of the 24 ‐item TATIS, 21‐item CIES, and 18 ‐item TEIP using data from Cambodian teachers. Subsequentially, reli- ability tests (Cronbach's Alpha) were conducted to assess the internal consistency and reliability of the general scales and subscales of these instruments.
+The mediation analysis using structural equation modeling (SEM) with the lavaan package in RStudio (version 2024.09.0+375) was utilized to examine the direct, indirect, and total effects of teachers' attitudes toward behavior, subjec- tive norms, perceived behavioral control, and behavioral intentions on their actual behavior toward inclusion. This model was based on Ajzen's (1991) Theory of Planned Behavior (see Figure 2). Three primary variables were included as pre- dictors: attitudes (AT), subjective norms (SN), and perceived behavioral control (PBC), along with one mediator, behavioral intentions (BHI). The binary outcome variable was behavior toward inclusion (BH).
+Given the categorical nature of the outcome variable (0=not included SWDs, 1=included SWDs), the robust diagonally weighted least squares (DWLS) estimator was employed to address non ‐normality data distribution. DWLS is particularly suited for binary and ordinal outcome variables, as it provides robust standard errors and chi ‐square test statistics, making it an appropriate choice for this analysis (Mîndril ă. 2010).
+To assess the effects of the mediation, a bootstrapping proce- dure with 5000 resamples was utilized to estimate the Confi- dence Interval (CI) for the indirect effects. Bootstrapping is a non‐parametric resampling method that allows for more accu- rate CI estimation without relying on the assumption of nor- mality in the sampling distribution of the indirect effects. This method yields robust estimates for mediation analysis by com- puting bias ‐corrected bootstrap CI for indirect effects. The sta- tistical significance of the indirect effect was assessed using the bootstrap CI method. If the 95% CI for the indirect effect does not include zero, the mediation effect is deemed statistically significant (see Hayes 2022).
+To ensure that the model fitted with the data, various fit indexes were considered as prerequisites for interpreting the estimated results. The chi ‐square test ( χ2) indicates whether there is a significant difference between the model ‐implied covariance matrix and the original covariance matrix (Fan et al. 2016). This test should yield a nonsignificant result (p >0.05) (Hu and Bentler 1999). The values of the comparative fit index (CFI) and Tucker–Lewis index (TLI) should meet the threshold value of 0.90 (Hu and Bentler 1999; Kline 1998, 2023). The root mean square error of approximation (RMSEA) should have a cut ‐off value close to 0.08, and the standardized root mean square residual (SRMR) should be below 0.09 to indicate a good model fit (Hu and Bentler 1999).
+
+ of 2338
+
+FIGURE 2 | Mediation model.
+
+2243 of 2338
+As a prerequisite step before estimating a mediation model, Pearson correlation was computed to examine the strength and direction of the linear relationships between all variables included in the model. Subsequently, the analysis assessed the direct, indirect, and total effects of attitudes, subjective norms, and perceived behavioral control on actual behavior toward inclusion, with intentions as a mediator. Figure 2 presents the direct and indirect paths, as well as the covariances between the three predictors: attitudes, subjective norms, and perceived behavioral control.
+For direct paths, the model estimated whether attitudes toward behavior ( a2 =AT →BHI), subjective norms ( a1 =SN →BHI), and perceived behavioral control ( a =PBC →BHI) significantly predicted behavioral intentions (BHI). Subsequently, it esti- mated whether these predictors, together with behavioral intentions, significantly predicted behavior (BH) toward the inclusion of SWDs.
+For indirect paths, the model examined whether attitudes to- ward behavior ( a2b =AT → BHI → BH), subjective norms (a1b =SN →BHI →BH), and perceived behavior control ( ab = PBC → BHI → BH) significantly predicted actual behavior through behavioral intentions (BH), with behavioral intentions (BHI) acting as the mediator.
+7 | Results
+7.1 | Participants' Characteristics
+Table 1 presents the participants' characteristics. Among the participants, 33% were male and 67% were female. Regarding their educational background, 12% had an education level below a diploma, 58% held a diploma, 1% had an associate degree, 28% possessed a bachelor's degree, and 1% held a master's degree. In terms of teaching experience, 27% had 1 to 5 years of experience, 22% had 6 to 10 years, 15% had 11 to 15 years, and 36% had 16 years or more. Approximately 71% of the teachers worked in rural schools, with the remaining 29% in urban schools. In this study, 45% of the teachers had experience accepting SWDs into their classrooms, while 55% had experi- ence rejecting them.
+7.2 | Validity and Reliability of the Instruments
+For the validity test, the Exploratory Factor Analysis using PAF with Equamax rotation was used to examine the factor structure of the instruments (TATIS, CIES, and TEIP) using Cambodian teacher samples. For the attitude scale (TATIS), the PAF model unveiled a total of five factors that explain 43% of the total variance, aligning with Bailey (2004). The Kaiser‐Meyer‐Olkin (KMO) measure con- firmed the sample's adequacy (KMO=0.80). Bartlett's test of sphericity was statistically significant ( χ2 (190)=5516.66, p<0.001), showing that the variables' correlations were sufficient for the model. The alpha coefficients ( α) were 0.75 for the benefits of inclusion, 0.73 for learning challenges, 0.72 for implementation is- sues, 0.85 for the exclusion of SWDs, 0.76 for professional training, and 0.74 for the general attitude scale.
+For the self‐efficacy scale (TEIP), the PAF model unveiled a total of three factors that account for 56.77% of the total variance, aligning with Sharma et al. (2012). The KMO measure indicated the ade- quacy of sampling for the analysis (KMO=0.94). Bartlett's test of sphericity was statistically significant ( χ2 (136)=9676.72, p<0.001), suggesting that the variables' correlations were sufficient for the model. The alpha coefficients ( α) were 0.91 for managing behaviors, 0.87 for collaboration, 0.81 for using inclusive instruction, and 0.93 for the general self ‐efficacy scale.
+For the concern scale (CIES), the PAF model unveiled a total of four factors that account for 57.26% of the total variance, aligning with Sharma and Desai (2002). The KMO measure indicated the ade- quacy of sampling for the analysis (KMO=0.93). Bartlett's test of sphericity was statistically significant ( χ2 (120)=8109.09, p<0.001), indicating that the variables' correlations were sufficient for the model. The alpha coefficients ( α) were 0.84 for resources, 0.86 for workloads, 0.85 for academic standards, 0.72 for acceptance, and 0.91 for general concern scale.
+7.3 | Correlation Coefficients
+Table 2 indicates that attitudes toward behavior had significant relationships with subjective norms ( r = −0.38, p <0.01), per- ceived behavioral control (r =0.09, p <0.01), behavioral inten- tions (r =0.13, p <0.01), and the actual behavior toward
+
+ of 2338
+inclusion (r =0.07, p <0.05). Subjective norms had significant but negative relationships with perceived behavioral control
+(r = −0.16, p <0.01), behavioral intentions ( r = −0.19, p <0.01) and the actual behavior ( r = −0.15, p <0.01). Additionally, perceived behavioral control had significant and positive correlations with both behavioral intentions (r =0.25, p <0.01) and the actual behavior (r =0.16, p <0.01). Lastly, behavioral intentions had a significant and positive relationship with actual behavior toward the acceptance or rejection of SWDs
+(r =0.27, p <0.01). These results indicated weak correlations.
+7.4 | Model Fit Indices
+Table 3 presents the results of the fit indices of the mediation models. The analysis revealed that the χ² value (df=2, N=1008) was 8.10, with a corresponding p‐value of less than
+TABLE 1 | Participants' characteristics in numbers (n) and per- centages (%).
+Predictor variables n % Gender
+Male 336 33
+Female 672 67 Educational level
+Lower than diploma 117 12
+Diploma 588 58
+Associate degree 14 1
+Bachelor's degree 278 28
+Master's degree 10 1 Years of teaching
+1–5 years 275 27
+6–10 years 218 22
+11–15 years 149 15
+16 years or more 366 36 School location
+Urban 296 29
+Rural 712 71 Inclusive education programs
+No 503 50 Yes 505 50
+0.05 (p =0.02). The χ² value is notably sensitive to the sample size (Hu and Bentler 1999; Kline 1998, 2023), and in this study, its significance was influenced by the large sample size, con- sisting of 1008 teachers. Additionally, the model fit indices indicated strong alignment with the framework of Ajzen's (1991) Theory of Planned Behavior. The CFI value was 0.99, the TLI value was 0.94, the RMSEA was 0.05, and the SRMR was
+0.03. These fit indices collectively indicated a good model fit with the study's data.
+7.5 | Covariance Estimates
+Table 4 presents the results of the covariance estimation between the three predictors: attitudes, subjective norms, and perceived behavioral control. The covariance between attitudes and subjective norms was statistically significant ( β= −0.38, SE=0.01, p <0.001). This negative covariance suggests that higher subjective norms are associated with lower attitudes. The covariance between attitudes and perceived behavioral control was also statistically significant ( β=0.09, SE=0.01, p <0.01), indicating that higher attitudes are associated with higher perceived behavioral control. Lastly, the covariance between subjective norms and perceived behavioral control was statis- tically significant ( β= −0.16, SE=0.01, p <0.001). This nega- tive association suggests that higher subjective norms are associated with lower perceived behavioral control.
+7.6 | Direct Effects
+Table 5 and Figure 3 present the results of direct effects. The model shows that subjective norms significantly predicted behavioral intentions ( β= −0.15, SE=0.05, p <0.001). This indicates that for each one ‐standardized unit increase in sub- jective norms, there was a significant decrease of 0.15 stan- dardized units in actual behavior toward including SWDs in regular schools.
+Perceived behavioral control significantly predicted behavioral intentions to support inclusion ( β=0.21, SE=0.04, p <0.001). For each one ‐standardized unit increase in perceived behavioral
+TABLE 3 | Results of fit indices.
+χ²
+χ² df p‐value CFI TLI RMSEA SRMR
+8.10 2 0.02 0.99 0.94 0.05 0.03
+
+ of 2338
+TABLE 2 | Correlation coefficients.
+ 
+ Variables                                       1 2 3 4 5
+ 1. Attitudes                                    —
+ 2. Subjective norms                             −0.38** —
+ 3. Perceived behavioral control                 0.09 ** −0.16** —
+ 4. Behavioral intentions                        0.13 ** −0.19** 0.25** —
+ 5. Behavior                                     0.07* −0.15** 0.16** 0.27** —
+ *p <0.05; **p <0.01.
+TABLE 4 | Covariance estimates.
+ 
+ Covariance                                                                          B                                SE                       β
+ (d2) Attitudes (AT) ↔Subjective norms (SN)                                          −0.06                            0.01                     −0.38***
+ (d1) Attitudes (AT) ↔Perceived behavioral control (PBC)                             0.02                             0.01                     0.09 **
+ (d) Subjective norms (SN) ↔Perceived behavioral control (PBC)                       −0.04                            0.01                     −0.16***
+ Abbreviations: B, unstandardized beta; β, standardized beta; SE, standard error.
+  **p <0.01; ***p
+  <0.001.
+ TABLE 5 | Results of direct effects.
+ Direct effects                                                                      B                                SE                       β
+ (a2) Attitudes (AT) →Intentions (BHI)                                               0.11                             0.07                     0.06
+ (a1) Subjective norms (SN) →Intentions (BHI)                                        −0.22                            0.05                     −0.15***
+ (a) Perceived behavioral control (PBC) →Intentions (BHI)                            0.24                             0.04                     0.21 ***
+ (b) Intentions (BHI) →Behavior (BH)                                                 0.50                             0.06                     0.33***
+ (c) Perceived behavioral control (PBC) →Behavior (BH)                               0.25                             0.07                     0.15***
+ Abbreviations: B, unstandardized beta; β, standardized beta; SE, standard error.
+  ***p
+  <0.001.
+ FIGURE 3 | Results of direct effects. **p <0.01; ***p <0.001.
+ control, there was a significant increase of 0.21 standardized                      include zero, suggesting that the mediation effect was statisti-
+ units in behavior toward inclusion. The results further show                        cally significant. Table 6 indicates that subjective norms sig-
+ that behavioral intentions significantly predicted actual behav-                    nificantly predicted actual behavior through behavioral
+ ior toward inclusion ( β=0.33, SE=0.06, p <0.001). For each                         intentions ( β= −0.05, SE=0.03, p <0.001). For each one
+ one‐standardized unit increase in behavioral intentions, there                      standardized unit increase in subjective norms, there was a
+ was a significant increase of 0.33 standardized units in actual                     significant decrease of 0.05 standardized units in actual
+ behavior. Perceived behavioral control also significantly pre-                      behavior toward inclusion.
+ dicted actual behavior ( β=0.15, SE=0.07, p <0.001). For each
+ one‐standardized unit increase in perceived behavioral control,                     Perceived behavioral control also significantly predicted actual
+ there was a significant increase of 0.15 standardized units in                      behavior toward inclusion through behavioral intentions
+ actual behavior to include SWDs.                                                    (β=0.07, SE=0.02, p <0.001). For each one ‐standardized unit
+                                                                                     increase in perceived behavioral control, there was a significant
+                                                                                     increase of 0.07 standardized units in actual behavior. The
+ 7.7 | Indirect and Total Effects                                                    findings indicated that behavioral intentions partially mediated the
+                                                                                      relationships between perceived behavioral control
+                                                                                      and
+ To examine the statistical significance of the indirect effect, a bootstrap CI      actual behavior, as well as the relationships between subjective norms and actual
+  method was employed, resampling the data                                            behavior.
+  5000
+ times and estimating the indirect effect for each resample to generate a            The estimation of the total effects combined both the direct and indirect effects
+  distribution of the indirect effect. Bootstrapping results indicated that the 95%   of all predictors to predict actual
+  CI for the indirect effect did                                                      behavior
+  not
+TABLE 6 | Results of indirect and total effects.
+ 
+ Indirect and total effects B SE β
+ (a2b) Attitudes (AT) →Intentions (BHI) →Behavior (BH) 0.05 0.03 0.02
+ (a1b) Subjective norms (SN) →Intentions (BHI) →Behavior (BH) −0.11 0.03 −0.05***
+ (ab) Perceived behavioral control (PBC) →Intentions (BHI) →Behavior (BH) 0.12 0.02 0.07***
+ Total effects 0.32 0.09 0.18***
+ Abbreviations: B, unstandardized beta; β, standardized beta; SE, standard error.
+  ***p
+  <0.001.
+ toward inclusion. The total effect model was statistically sig-                  Perceived behavioral control, particularly confidence gained from
+ nificant, indicating that the combination of all predictors sig-                 professional training, also had significant direct and indirect effects
+ nificantly predicted actual behavior ( β=0.18, SE=0.09,                          on actual behavior through intentions (Yan and Sin 2014). Simi-
+ p <0.001). For each one ‐standardized unit increase in the                       larly, a recent study by Yang et al. (2024) supported that subjective
+ combination of all predictors, there was a significant increase of               norms and perceived behavioral control significantly impacted both
+ 0.18 standardized units in actual behavior toward inclusion.                     behavioral intentions and actual behavior. These aspects also sig-
+                                                                                  nificantly influenced the social and academic competencies of stu-
+                                                                                  dents with special educational needs in Hong Kong.
+ 8 | Discussion                                                                   Urton et al. (2023), Yan and Sin (2014), and Yang et al. (2024)
+ 8.1 | Effects on Teachers' Behavior Toward Inclusion                             concurred that among all predictors, perceived behavioral control, particularly
+                                                                                   in terms of self ‐efficacy for inclusive prac- tices, was the strongest
+                                                                                   predictor influencing in ‐service
+                                                                                   teach-
+ Using the Theory of Planned Behavior as a theoretical frame- work, this study    ers' intentions and actual behavior toward the inclusion of SWDs in primary and
+  found that for direct effects, subjective norms and perceived behavioral         secondary school classrooms. These findings underscore the need to move beyond
+  control significantly                                                            cultivating
+  predicted                                                                        posi-
+ behavioral intentions to support the inclusion of SWDs. Fur-                     tive attitudes and theoretical understanding of inclusive edu-
+ thermore, behavioral intentions and perceived behavioral con-                    cation. While teachers may express positive attitudes toward
+ trol, in turn, significantly predicted actual behavior. In terms of              inclusion, they often indicate significant concerns regarding
+ indirect effects, subjective norms and perceived behavioral                      inadequate training and the need for more effective support to
+ control significantly predicted actual behavior through behav- ioral intentions. teach SWDs (Ravet and Mtika 2021). Addressing these concerns extends beyond mere
+  These findings indicate that teachers with higher levels of self ‐efficacy for   school attendance. It calls for substantial changes in teaching practices
+  inclusive practices, more                                                        (Disability Action Council
+  posi-                                                                            2003).
+ tive behavioral intentions to support inclusion, and lower levels                Practical guidance is essential for teachers to effectively inte-
+ of concerns about inclusion demonstrated significantly more                      grate inclusive education principles into their teaching, tailored
+ positive behaviors in including SWDs in their classrooms                         to their unique classroom contexts (Woodcock et al. 2022).
+ compared to their counterparts.                                                  The findings of previous studies align with those of the current
+ Similarly, Urton et al. (2023) employed the Theory of Planned                    study, emphasizing that teachers' self ‐efficacy emerges as the most
+ Behavior to assess how attitudes, subjective norms, and per-                     influential predictor of both their behavioral intentions and
+ ceived behavioral control influenced primary school teachers'                    behavior toward inclusion. These findings underscore the pressing
+ intentions to implement inclusive practices in Germany. The                      need to enhance teachers' sense of self ‐efficacy and address their
+ study found that subjective norms regarding normative beliefs                    concerns to effectively implement inclusive practices. Such
+ and motivation to comply significantly influenced teachers' intentions. Among    improvements can be achieved by enhancing policy support, teacher preparation
+  these, normative beliefs at the administra- tive level had the strongest impact  programs for pre ‐service teachers, and ongoing training programs for in
+  on intentions.                                                                   ‐service teachers. These programs
+  Moreover,                                                                        should
+ perceived behavioral control regarding cooperation, resource                     focus on equipping teachers with practical skills and knowledge
+ availability, and knowledge positively influenced teachers'                      regarding inclusive practices (Ekins et al. 2016; Emmers et al. 2020
+ intentions. Notably, control beliefs related to collaboration and                Pijl 2010; Pov et al. 2024; Urton et al. 2023; Yan and Sin 2014).
+ expertise in special education had the greatest effect on teach- ers' intentions However, these areas have been identified as significant challenges to the
+  to implement inclusive                                                           effective implementation of inclusive practices in Cambodia (Kuroda et al. 2017;
+  education.                                                                       Ravet and Mtika 2021). To improve
+                                                                                   teachers'
+ Yan and Sin (2014) utilized Ajzen's (1991) theoretical framework to              inclusive practices, this study suggests some implications for im-
+ identify key predictors of teachers' behavior in implementing                    proving policy and practices.
+ inclusive practices in Hong Kong and found that teachers perceived
+ significant social pressure to adopt inclusive practices, whereas they indicated 8.2 | Implications for Policy and Practice
+  positive perceived behavioral control, strong
+  intentions,
+ and active engagement in inclusion. Notably, concerns about social
+ pressure directly influenced behavioral intentions and indirectly                In Cambodia, the policies and action plans for inclusive edu-
+ negatively impacted actual behavior through these intentions.                    cation lack robust implementation, stimulate specialized
+
+2245 of 2338
+curricula, and enforce conditional inclusion for students with SEND (UNICEF 2020). To alleviate teachers' concerns and foster their positive attitudes, self ‐efficacy, and behavior toward the inclusion of SWDs, it is imperative to prioritize policy re- forms that eliminate specialized curricula and conditional inclusion, while integrating local understandings of disability (Kalyanpur 2016; Pov and Kawai 2024). The reforms should facilitate systematic policy dissemination at the school level, accompanied by on ‐site support. This approach will ensure that education practitioners, especially teachers, gain a compre- hensive understanding of inclusive education (King 2018; Kuroda et al. 2017) and adjust their values, attitudes, and practices to better support students with SEND (Polat 2011).
+This process may involve re ‐evaluating the existing cascade training model (King 2018) and incorporating on ‐site support for teachers, school principals, and school administrators to offer practical guidance on translating policies into practices (Kuroda et al. 2017). For instance, on ‐site support involves guiding teachers, school principals, and school administrators
+to revise school policies, including vision and mission state- ments, and develop action plans for school improvement that align with the Policy on Inclusive Education (see MoEYS 2018) and Action Plan on Inclusive Education (see MoEYS 2019a). These initiatives can significantly influence teachers' attitudes, self‐efficacy, and concerns, and assist them in collaboratively developing accommodation and modification strategies to sup- port SWDs alongside their peers without disabilities.
+Research indicates that most in ‐service teachers in Cambodia have not received adequate inclusive education training. Even those who have undergone training often find it insufficient and ineffective to prepare them for inclusive classroom settings (Kuroda et al. 2017; Pov and Kawai 2024; Ravet and Mtika 2021). Similarly, pre ‐service teachers face numerous challenges in preparing for inclusive classrooms, stemming from various deficiencies in teacher education programs. Despite some exposure to inclusive education courses in both old and newly reformed teacher education programs, pre ‐ service teachers often lack the necessary practical knowledge, skills, and experience to implement inclusive practices effec- tively (Pov et al. 2024). These deficiencies have significant impacts on teachers' attitudes, concerns, and self ‐efficacy in implementing inclusive practices, not only in Cambodia (e.g., Kuroda et al. 2017; Pov et al. 2024; Ravet and Mtika 2021) but also in other countries (e.g., Alnahdi 2019; Costello and Boyle 2013; Forlin et al. 2011; Sharma and Sokal 2015).
+To address teachers' concerns about inclusion and enhance their self ‐efficacy and behavior toward inclusive practices, several implications for both pre ‐service and in ‐service training programs need to be considered. Despite positive attitudes toward inclusion, Cambodian in ‐service teachers express significant concerns about their ability to effectively implement inclusive practices, particularly due to a lack of resources in rural schools (Ravet and Mtika 2021). Training efforts should specifically target teachers in inclusive edu- cation settings, especially those in rural areas with limited support and resources. Revisiting the current cascade train- ing model and integrating on ‐site support and hands ‐on ex- perience will ensure that teachers develop practical skills
+alongside theoretical knowledge (King 2018; Kuroda et al. 2017).
+Training programs for in ‐service teachers should focus on developing the skills necessary for implementing curriculum modifications. Integrating modified curricula into general education classrooms has been shown to significantly improve students' academic outcomes, reduce disruptive behaviors, and, importantly, enhance teachers' sense of self ‐efficacy in mana- ging student behavior and classroom activities (Lee et al. 2010). Moreover, fostering a sense of shared responsibility among teachers, promoting collaborative support for inclusive prac- tices, involving school leadership teams in the inclusive edu- cation process, and providing access to resources are all crucial steps in creating and fostering an inclusive culture and advancing inclusive practices at the school level (Emmers
+et al. 2020; Pijl 2010; Valdés and Gómez ‐Hurtado 2023).
+For pr‐eservice teachers, the current training programs at the primary and lower secondary levels allocate only 6 h to inclu- sive education, which is far less than the 28h and 25min required to complete the newly developed inclusive education training guidebook. This guidebook consists of 19 modules (see MoEYS 2017). This misalignment limits pre ‐service teachers' access to comprehensive inclusive education training. Further- more, it is essential to integrate inclusive education courses as mandatory components of pre ‐service teacher training pro- grams, rather than treating them as “optional additions ” to the curriculum. By ensuring full access to inclusive education courses, pre ‐service teachers will gain the confidence and acquire the skills needed to include SWDs in their future classrooms (Ekins et al. 2016; Pov et al. 2024). Additionally, given the limited research on pre ‐service and novice teachers' inclusive practices, there is a need for more comprehensive studies to explore the effectiveness and challenges of inclusive education courses and field experiences for both pre ‐service and in‐service teachers (Kroesch and Peeples 2021).
+9 | Conclusion
+The Theory of Planned Behavior emerges as a robust frame- work for understanding in ‐service teachers' behavior toward inclusion and the factors influencing these behaviors in Cam- bodia. The findings align with previous research, indicating that Cambodian in ‐service teachers' concerns about inclusion and self‐efficacy for inclusive significantly influenced their actual behavior toward the inclusion of SWDs in regular classrooms. This study underscores the pressing need for policy reforms, advocating for systematic policy dissemination at the school level with on ‐site support for teachers. It emphasizes the importance of integrating compulsory inclusive education training into pre ‐service programs, ensuring the alignment with the newly developed inclusive education guide. In addition, the study calls for extending training efforts for in ‐service teachers and revising the existing cascade training model to integrate on ‐ site support and hands ‐on experience, enabling teachers to develop practical skills alongside theoretical knowledge. Training programs should prioritize equipping teachers with
+the skills needed to implement curriculum modifications effectively. Moreover, fostering a sense of shared responsibility
+
+2247 of 2338
+among teachers, promoting collaborative support for inclusive practices, involving school leadership, and ensuring access to necessary resources are all critical for advancing inclusive education. More comprehensive studies are also needed to ex- plore the effectiveness and challenges of inclusive education courses and field experiences. The implications discussed herein are crucial and warrant attention in the context of en- hancing policies and training initiatives for both pre ‐service and in‐service teachers. By addressing these needs, the recommen- dations aim to alleviate teachers' concerns about inclusion, strengthen their self ‐efficacy, and improve their behaviors in implementing inclusive practices, ultimately contributing to strengthening the inclusive education system in Cambodia.
+10 | Limitations and Future Studies
+There are some limitations of this study. It revolves around thefocus on a specific educational level and school types. The research exclusively involved regular teachers in primary edu- cation. Future studies should extend their investigation to other educational levels and diverse school types, including integrated education schools and those associated with special education schools in Cambodia. Exploring variations in attitudes, con- cerns, self‐efficacy, and behavior across these contexts can offer unique insights for educational stakeholders, guiding the pro- vision of tailored support to help teachers effectively implement inclusive practices based on their school and resource contexts.
+Acknowledgments
+This research received no specific grant from funding agencies in the public, commercial, or not ‐for‐profit sectors.
+Ethics Statement
+This study was approved by the Research Ethics Review Board of Hiroshima University with reference number “HR‐ES‐000805” on 24February 2023.
+Conflicts of Interest
+The authors declare no conflicts of interest.
+Data Availability Statement
+The data that support the findings of this study are available on request
+from the corresponding author. The data are not publicly available dueto privacy or ethical restrictions.
+References
+Agbenyega, J. 2007. “Examining Teachers' Concerns and Attitudes toInclusive Education in Ghana. ” International Journal of Whole Schooling 3, no. 1: 41–56.
+Agbenyega, J. S., and S. Klibthong. 2014. “Assessing Thai Early Child-hood Teachers' Knowledge of Inclusive Education. ” International Journal of Inclusive Education 18, no. 12: 1247–1261. https://doi.org/ 10.1080/13603116.2014.886306.
+Ajzen, I. 1991. “The Theory of Planned Behavior. ” Organizational Behavior and Human Decision Processes 50, no. 2: 179–211.
+Alnahdi, G. 2019. “Are We Ready for Inclusion? Teachers' Perceived Self‐Efficacy for Inclusive Education in Saudi Arabia. ” International
+2248 of 2338
+Journal of Disability, Development and Education 67, no. 2: 182–193. https://doi.org/10.1080/1034912X.2019.1634795.
+Bailey, J. 2004. “The Validation of a Scale to Measure School Principals' Attitudes Toward the Inclusion of Students With Disabilities in Regular Schools.” Australian Psychologist 39, no. 1: 76–87. https://doi.org/10. 1080/00050060410001660371.
+Cambodia National Assembly. 2007. The Law on Education. Phnom Penh, Cambodia.
+Cook, B. G., and D. L. Cameron. 2010. “Inclusive Teachers' Concern and Rejection Toward Their Students: Investigating the Validity of Ratings and Comparing Student Groups. ” Remedial and Special Education 31, no. 2: 67–76. https://doi.org/10.1177/0741932508324402 .
+Costello, S., and C. Boyle. 2013. “Pre‐Service Secondary Teachers' At- titudes Towards Inclusive Education. ” Australian Journal of Teacher Education 38, no. 4: 129–143.
+Disability Action Council. 2003. Inclusive Education Training in Cam- bodia. Phnom Penh, Cambodia.
+Ekins, A., H. Savolainen, and P. Engelbrecht. 2016. “An Analysis of English Teachers' Self ‐Efficacy in Relation to SEN and Disability and Its Implications in a Changing SEN Policy Context. ” European Journal of Special Needs Education 31, no. 2: 236–249. https://doi.org/10.1080/ 08856257.2016.1141510.
+Emmers, E., D. Baeyens, and K. Petry. 2020. “Attitudes and Self ‐Efficacy of Teachers Towards Inclusion in Higher Education. ” European Journal of Special Needs Education 35, no. 2: 139–153. https://doi.org/10.1080/ 08856257.2019.1628337.
+Fan, Y., J. Chen, G. Shirkey, et al. 2016. “Applications of Structural Equation Modeling (SEM) in Ecological Studies: An Updated Review. ” Ecological Processes5: 19. https://doi.org/10.1186/s13717-016-0063-3.
+Forlin, C., C. Earle, T. Loreman, and U. Sharma. 2011. “The Sentiments, Attitudes, and Concerns About Inclusive Education Revised (Sacie ‐R) Scale for Measuring Pre ‐Service Teachers' Perceptions About Inclu- sion.” Exceptionality Education International 21, no. 3: 50–65. https:// doi.org/10.5206/eei.v21i3.7682.
+Forlin, C., and M. ‐G. J. Lian. 2008. Reform, Inclusion and Teacher Education: Towards a New Era of Special Education in the Asia ‐Pacific Region. Routledge.
+Fraenkel, J. R., N. E. Wallen, and H. H. Hyun. 2011. How to Design and Evaluate Research in Education . McGraw‐Hill.
+Hayes, A. F. 2022. Introduction to Mediation, Moderation, and Condi- tional Process Analysis: A Regression‐Based Approach, 3rd ed. Guilford Publications.
+Hu, L., and P. M. Bentler. 1999. “Cut‐Off Criteria for Fit Indexes in Covariance Structure Analysis: Conventional Criteria Versus New Al- ternatives. ” Structural Equation Modeling: A Multidisciplinary Journal 6, no. 1: 1–55. https://doi.org/10.1080/10705519909540118 .
+Kalyanpur, M. 2016. “Inclusive Education Policies and Practices in the Context of International Development. Lessons From Cambodia. ” ZEP: Zeitschrift f r Internationale Bildungsforschung und Entwicklungsp dagogik 39, no. 3: 16–21. https://doi.org/10.25656/01:15452 .
+King, E. F. 2018. “Developing Teacher Capacity in Cambodia: An Ex- panded Model. ” Asian Education and Development Studies 7: 2–14. https://doi.org/10.1108/AEDS-06-2017-0053.
+Kline, R. B. 1998. Structural Equation Modeling. Guilford Publications.
+Kline, R. B. 2023. Principles and Practice of Structural Equation Modelling. Guilford Publications.
+Kroesch, A. M., and K. N. Peeples. 2021. “High School General Edu- cation Teachers' Perceptions of Students With Significant Disabilities in Inclusive Settings. ” Research, Advocacy, and Practice for Complex and Chronic Conditions 40, no. 1: 26–41. https://doi.org/10.14434/rapcc. v40i1.31756.
+Psychology in the Schools, 2025
+
+
+Kuroda, K., D. Kartika, and Y. Kitamura. 2017. Implications for Teacher Training and Support for Inclusive Education in Cambodia: An Em- pirical Case Study in a Developing Country. JICA Research Institute.
+Lee, S.‐H., M. L. Wehmeyer, J. H. Soukup, and S. B. Palmer. 2010.“Impact of Curriculum Modifications on Access to the General Edu- cation Curriculum for Students With Disabilities. ” Exceptional Children 76, no. 2: 213–233. https://doi.org/10.1177/001440291007600205 .
+Mîndrilă, D. 2010. “Maximum Likelihood (Ml) and DiagonallyWeighted Least Squares (DWLS) Estimation Procedures: A Comparison
+of Estimation Bias With Ordinal and Multivariate Non ‐Normal Data. ” International Journal for Digital Society 1, no. 1: 60–66. https://doi.org/ 10.20533/ijds.2040.2570.2010.0010.
+Ministry of Social Affairs, Veterans, and Youth Rehabilitation. 2011. Determination of Criteria for Types and Levels of Disabilities. PhnomPenh, Cambodia.
+MoEYS. 2008.Policy on Education for Children With Disabilities. Phnom Penh, Cambodia.
+MoEYS. 2017.Teacher Training Guide in Inclusive Education for TeacherTrainers. Phnom Penh, Cambodia.
+MoEYS. 2018. Policy on Inclusive Education. Phnom Penh, Cambodia.
+MoEYS. 2019a. Action Plan on Inclusive Education 2019 –2023. PhnomPenh, Cambodia.
+MoEYS. 2019b. Education Strategic Plan 2019 –2023. Phnom Penh,Cambodia.
+MoEYS. 2023. Statistics on Students With Disabilities at Pre ‐primary,Primary, Lower Secondary, and Upper Secondary Schools in Cambodia in Academic Year 2021 ‐2022.
+MoEYS. 2024. Education Strategic Plan 2024 –2028. Phnom Penh, Cambodia.
+Nishio, A. 2019. “History and Current Situation of Education for ChildrenWith Disabilities in Cambodia: A Gray Literature Review. ” Creative Education 10: 1753–1763. https://doi.org/10.4236/ce.2019.108125 .
+Pijl, S. J. 2010. “Preparing Teachers for Inclusive Education: Some Reflections From the Netherlands. ” Journal of Research in SpecialEducational Needs 10: 197–201. https://doi.org/10.1111/j.1471-3802. 2010.01165.x.
+Polat, F. 2011. “Inclusion in Education: A Step Towards Social Justice. ” International Journal of Educational Development 31, no. 1: 50–58.https://doi.org/10.1016/j.ijedudev.2010.06.009.
+Pov, S., and N. Kawai. 2024. “Are Teachers Adequately Prepared for Inclusive Classrooms in Cambodia? Knowledge and Experience forInclusive Practices. ” International Journal of Instruction 17, no. 3: 491–508. https://doi.org/10.29333/iji.2024.17327a.
+Pov, S., N. Kawai, and S. Nov. 2024. “Preparing Pre ‐Service Teachers to Work in Cambodian Inclusive Classrooms: Knowledge, Experience, andAttitudes Toward Inclusion. ” Teaching and Teacher Education 137: 104402. https://doi.org/10.1016/j.tate.2023.104402.
+Pov, S. 2021. “Education of Children With Disabilities in Cambodia: Trends, collaborations, and Challenges. ” In Instructional Collaboration In International Inclusive Education Contexts, edited by S. R. Semon, D. Lane, and P. Jones, 139 –150. Emerald Publishing Limited. https://doi. org/10.1108/S1479-363620210000017014.
+Privitera, G. J. 2016. Research Methods for the Behavioral Sciences, 2nd ed. Sage Publications.
+Ravet, J., and P. Mtika. 2021. “Educational Inclusion in Resource ‐ Constrained Contexts: A Study of Rural Primary Schools in Cambodia. ” International Journal of Inclusive Education 28: 16–37. https://doi.org/ 10.1080/13603116.2021.1916104.
+Round, P. N., P. K. Subban, and U. Sharma. 2015. “‘I Don't Have Time to be This Busy.’Exploring the Concerns of Secondary School Teachers
+Towards Inclusive Education. ” International Journal of Inclusive Education 20, no. 2: 185–198. https://doi.org/10.1080/13603116.2015. 1079271.
+Scanlon, G., S. Radeva, V. Pitsia, C. Maguire, and S. Nikolaeva. 2022. “Attitudes of Teachers in Bulgarian Kindergartens Towards Inclusive Education. ” Teaching and Teacher Education 112: 103650. https://doi. org/10.1016/j.tate.2022.103650.
+Shah, R., A. Das, I. Desai, and A. Tiwari. 2016. “Teachers' Concerns About Inclusive Education in Ahmedabad, India. ” Journal of Research in Special Educational Needs 16, no. 1: 34–45. https://doi.org/10.1111/ 1471-3802.12054.
+Sharma, U., and I. Desai. 2002. “Measuring Concerns About Integrated Education in India. ” Asia and Pacific Journal on Disability 5, no. 1: 2–14.
+Sharma, U., T. Loreman, and C. Forlin. 2012. “Measuring Teacher Efficacy to Implement Inclusive Practices. ” Journal of Research in Special Educational Needs 12, no. 1: 12–21. https://doi.org/10.1111/j. 1471-3802.2011.01200.x.
+Sharma, U., and L. Sokal. 2015. “The Impact of a Teacher Education Course on Pre ‐Service Teachers' Beliefs About Inclusion: An Interna- tional Comparison. ” Journal of Research in Special Educational Needs 15, no. 4: 276–284. https://doi.org/10.1111/1471-3802.12043 .
+UNESCO Institute for Statistics. 2018. Education and Disability: Anal- ysis of Data From 49 Countries.
+UNICEF. 2020. Education for Every Ability: A Review and Roadmap of Disability‐Inclusive Education in East Asia and Pacific.
+Urton, K., J. Wilbert, J. Krull, and T. Hennemann. 2023. “Factors Ex- plaining Teachers' Intention to Implement Inclusive Practices in the Classroom: Indications Based on the Theory of Planned Behaviour. ” Teaching and Teacher Education 132: 104225. https://doi.org/10.1016/j. tate.2023.104225.
+Valdés, R., and I. Gómez ‐Hurtado. 2023. “Barriers and Facilitators for Leading the Development of Inclusive School Cultures in Chile. ” International Journal of Inclusive Education : 1–17. https://doi.org/10. 1080/13603116.2023.2241861.
+Woodcock, S., U. Sharma, P. Subban, and E. Hitches. 2022. “Teacher Self‐Efficacy and Inclusive Education Practices: Rethinking Teachers' Engagement With Inclusive Practices. ” Teaching and Teacher Education 117: 103802. https://doi.org/10.1016/j.tate.2022.103802.
+Yadav, M., A. Das, S. Sharma, and A. Tiwari. 2015. “Understanding Teachers' Concerns About Inclusive Education. ” Asia Pacific Education Review16: 653–662. https://doi.org/10.1007/s12564-015-9405-6 .
+Yan, Z., and K. Sin. 2014. “Inclusive Education: Teachers' Intentions and Behaviour Analysed From the Viewpoint of the Theory of Planned Behaviour.” International Journal of Inclusive Education 18, no. 1: 72–85. https://doi.org/10.1080/13603116.2012.757811.
+Yang, L., F. Pang, and K. F. Sin. 2024. “Examining the Complex Con- nections Between Teacher Attitudes, Intentions, Behaviors, and Com- petencies of SEN Students in Inclusive Education. ” Teaching and Teacher Education 144: 104595. https://doi.org/10.1016/j.tate.2024. 104595.
+ of 2338

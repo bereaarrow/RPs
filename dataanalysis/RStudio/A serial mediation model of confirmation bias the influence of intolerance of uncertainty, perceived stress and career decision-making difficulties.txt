@@ -1,0 +1,414 @@
+﻿A serial mediation model of Kybernetes confirmation bias: the influence
+of intolerance of uncertainty,
+perceived stress and career decision-making difficulties Received 1 August 2025 Revised 25 January 2026
+Josephine Priya L and Lavanya Vilvanathan Accepted 11 March 2026
+Department of Management Studies,
+National Institute of Technology (NIT) Tiruchirappalli, Tiruchirappalli, India
+Abstract
+Purpose–Thepurposeofthisstudyistofindthesusceptibilityofconfirmationbiasanditsrelationshipsamong intolerance of uncertainty (IU), perceived stress, and emotional-personality-related career decision-making difficulties (EPCD), through a serial mediation analysis.
+Design/methodology/approach – The study employed a structural equation modelling (SEM) approach using R Studio (version 4.4.3). The study employed a cross-sectional design, involving 378 final-year undergraduate students from rural regions of three southern Indian states, who were selected through purposive sampling. Findings– The findingsrevealed thatstudentsexhibit a tendency towardsconfirmation bias, and intolerance of uncertainty (IU) positively influences emotional and personality-related career decision-making difficulties (EPCD), as well as confirmation bias through perceived stress. Additionally, the results support the proposed serial mediation model, indicating that IU increases susceptibility to confirmation bias via its impact on perceived stress and, subsequently, EPCD.
+Researchlimitations/implications–Thisstudymakestheoreticalcontributionstothefieldsofcareerdecision- makingandcognitivepsychology,aligningwithkeySustainableDevelopmentGoals(SDGs),particularlySDG 4 (quality education) and SDG 8 (decent work and economic growth). The findings offeractionable insights for researchers, career counsellors, and policymakers to design targeted interventions that reduce career decision- making difficulties and mitigate the tendency toward confirmation bias, thereby promoting more informed and quality decision-making.
+Originality/value – This study extends existing models by introducing perceived stress and EPCD as serial mediators between intolerance of uncertainty and confirmation bias. To the best of the authors’ knowledge, this is the first study to explore this specific mediation pathway in the context of career decision-making among students from rural communities, providing valuable insights to the fields of cognitive psychology and career development.
+Keywords Intolerance of uncertainty, Perceived stress, Career decision-making difficulties, Confirmation bias Paper type Research article
+1. Introduction
+Students and early-career professionals often face challenges in career choice due to fast- changing and unpredictable work environments, which pressure them to make the right decision in uncertain conditions (Hirschi, 2012). Many factors influence how individuals respond to uncertain situations, and one such key psychological factor is the intolerance of uncertainty (IU). This cognitive disposition (IU) is associated with information-processing biases that contribute to the development of excessive worry and anxiety (Dugas et al., 2005; 
+Carleton et al., 2012). It affects how individuals perceive, interpret, and respond to cognitive, emotional, and behavioural uncertainty. A previous study explored the link between self- 
+reported IU and decisions in uncertainty-based behavioural tasks (Carleton et al., 2016). However, behavioural studies found that decision-makers are often susceptible to cognitive biases during uncertain situations, which may compromise the accuracy and quality of their
+involved with biased information processing. It is defined as “the tendency to prioritise ©DOEIm1e0r.a1ld1p0eP-8-IuI/SSKbSlS-iN0sNh8::i-K0n123gy706b52L8e85i-r--m4n719ei88t2t86eeXd36s choices.Therearemanybehaviouralbiases,oneofwhichisconfirmationbias,acognitivebias
+K confirming over disconfirming information” (Rassin, 2008; Stone and Wood, 2018). At the time of decision-making, individuals may selectively process evidence, particularly when
+motivated to maintain their existing beliefs (Nickerson, 1998; Calikli and Bener, 2015). Other biases, such as the optimism bias, self-serving bias, the primacy effect, anchoring, and attribution error, also contribute to the development of confirmation bias (Gatlin et al., 2018). Previous studies have found this tendency among various professionals, including software engineers (Calikli and Bener, 2015), forensic interviewers (Melinder et al., 2020). A study explored the susceptibility to confirmation bias in the health care context (Piksa et al., 2024). However,thisstudyaimedtoexplorestudents’susceptibilitytoconfirmationbias,astheymay exhibit this behaviour by actively seeking out information that supports their preferred career choice,suchassuccessstoriesandsupportiveopinionsfromparentsandpeers,whileignoring contradictory evidence, including job market saturation, constructive feedback, and misalignment with their skills. As a result, they may overlook critical factors needed for informeddecision-making,potentiallyleadingtocareerdissatisfactionormisfit.Overthepast
+two decades, numerous studies have explored behavioural and cognitive biases in decision- making across various domains.
+Research studies have found that postgraduate students pursuing professional courses are susceptibletobiasblindspotsandjumping-to-conclusionsbiasesduringthecareerexploration process. These studies highlight the relationship between cognitive biases and career exploration, though research on decision-making in this area remains in its early stages (Priya et al., 2025; Priya and Vilvanathan, 2025). Similarly, further studies examined the impact of behavioural biases on the career choices of management students (Thapa et al., 2025) and the susceptibility of confirmation bias among medical students during the diagnostic process (Kojima et al., 2025). In literature, confirmation bias and mood responses have been thoroughly examined in contexts such as politics and religion; has not been sufficiently explored, highlighting the need for further research in this area (Dickinson, 2024). There is a lack of research on IU within this context, accompanied by a noticeable shortage of targeted career interventions addressing this issue (Lam and Santos, 2018), Gati et al. (2012) emphasised the need to investigate the relationship between EPCD and their behavioural consequences, highlighting how these factors influence the intensity and scope of counselling interventions required. Therefore, this study aims to explore the association between IU, perceived stress, EPCD, and confirmation bias using a serial mediation model with the SEM approach among final-year undergraduate students from the three southern states of India. Please refer to Figure 1 for a conceptual framework.
+In the study, most participants come from economically disadvantaged backgrounds and have parents who lack formal education. Lindstrom et al. (2022) explored how students from low-incomefamiliesandtheireducatorsperceivecareerreadiness,highlightingthedifficulties students face during their transition, which is often due to their limited exposure to career information and options. This demographic is often exposed to limited access to career guidance and a lack of exposure to diverse occupational opportunities, all of which can
+
+Figure 1. Conceptual framework. Source(s): The authors
+increase low self-efficacy, anxiety, a heightened fear of failure, and uncertainty during the Kybernetes decision-making process (Joshi et al., 2016). These factors can affect rational judgement,
+wherein students selectively seek information that confirms pre-existing beliefs or
+assumptions about their career path, while ignoring conflicting evidence, such as job
+market realities or personal skill mismatches. Studying this population enables a deeper
+understanding of how structural inequalities, such as poverty, rural upbringing, and
+educational disadvantage, influence cognitive and emotional processes in career decision-
+making. 
+This study makes a significant contribution to career development and cognitive psychology theories. It offers a nuanced understanding of the psychological processes, such
+as stress, uncertainty, and challenges, that increase an individual’s susceptibility to
+confirmation bias, thereby impairing the quality of decision-making. Our understanding of
+the psychological processes underlying this complex process is enhanced by the study’s
+examination of how people process information, manage emotional and personality-related
+challenges, and avoid cognitive distortions when selecting a career. Additionally, by stressing
+the necessity of educational systems integrating decision-making training and psychological
+support in career development programs, it supports SDG 4: Quality Education by
+emphasising the need for early career interventions, inclusive career guidance, and mental
+health support (Adipat and Chotikapanich, 2022). By encouraging methods that help people
+make logical and critical career decisions, this study also advances SDG 8: Decent Work and
+Economic Growth, which improves employability and long-term workforce participation.
+2. Literature review
+2.1 Theoretical background TheCognitive-AffectiveConativemodel(KimandChen,2021)servesasthetheoreticalbasis for this investigation. It describes how cognitive and emotional factors are activated sequentially, involving the psychological process of decision-making that influences an individual’s behaviour. When choosing a specialisation, selecting relevant courses, and exploring alternative career paths, students often encounter uncertain situations. Their intolerance for uncertainty frequently becomes overwhelming, leading to elevated stress and psychological discomfort (Buhr and Dugas, 2002; Carleton et al., 2007, 2016). It also intensifies anxiety, low self-efficacy, and career indecision (Saka and Gati, 2007). According to research, people are more likely to engage in motivated reasoning and biased information processing as coping mechanisms when they are faced with stress, anxiety, and uncertainty (Proulx et al., 2012).
+2.2 Hypothesis development
+2.2.1 Intolerance of uncertainty (IU) and Confirmation bias. The rapid market changes have increased career instability, which is reflected in the growing diversity of career paths, specialised professions, and employment opportunities (Schulz et al., 2015; Gati and Levin, 2014). Intolerance of uncertainty (IU) refers to a trait of an individual (Rosen et al., 2014) and isacognitiveprocessthatencodesandinterpretsinformationandrespondstotheworldaround them, characterised by a future-oriented element marked by unpredictability (Grenier et al., 2005). Prior research studies associate IU with impulsive, affect-driven decisions that favour immediate, suboptimal options, indicating impaired judgement under uncertainty, which may exacerbate emotional discomfort and cognitive strain (Buhr and Dugas, 2002; Dugas et al., 2005; Luhmann et al., 2011). The studies show that IU significantly contributes to increased interpretation bias (Tyson et al., 2025), particularly in a social context (Lauriola et al., 2024). This study particularly focuses on confirmation bias, which is one of the behavioural biases that significantly contributes to the development of overconfidence, especially when people face uncertainty regarding a conclusion. It is the propensity to give more weight to data that
+K confirms one’s preexisting opinions while ignoring data to the contrary (Rassin, 2008). For
+instance, a previous study found that medical students are susceptible to confirmation bias during the rapid diagnostic process under time constraints (Kojima et al., 2025). Individuals are especially vulnerable to this bias under such conditions, leading them to be strongly inflexibleintheirinitialbeliefsevenwhenpresentedwithnew,conflictinginformation,which can result in an overstated sense of confidence in their judgements and decisions (Rabin and Schrag, 1999). With this argument, we propose:
+ H1. IU is positively associated with confirmation bias.
+2.2.2 Intolerance of uncertainty (IU) and perceived stress. According to Carleton et al.
+(2007, 2012), IU represents discomfort with ambiguity, where uncertain situations are perceived as truly dangerous rather than just unclear. It frequently results in anxiety and an inabilitytoact,whichcanbedistressingandstressful.Asaresult,itconsiderablycontributesto increased worry and trait anxiety (Khawaja and Yu, 2010). Those who struggle with high IU often feel anxious and uneasy (Berenbaum et al., 2008; Chen and Zeng, 2021), and it makes everyday situations feel overwhelmingly stressful (Francis et al., 2016). A study shows the relationship between worry, IU and post-traumatic stress syndrome (Bardeen et al., 2013). Researchconsistently supportsa strongassociation betweenIU and perceivedstress(Bardeen et al., 2017), indicating that IU increases stress among people involved in a teacher training program (Demirtasand Yildiz,2019). Perceived stressreferstoanindividual’sevaluationof a situation as stressful (Coffman and Gilligan, 2002). Stress responses arise only when a situation is seen as demanding and whenthe individual feels theylack thenecessary resources to handle it (Cohen and Hoberman, 1983). Students frequently experience uncertainty when choosing a career path, which can lead to a great deal of stress and anxiety. These stress levels are furtherincreased for somestudents by aperceived lack of readiness fortheir futurecareers (Boo and Kim, 2020). Studies also indicate that stress has a negative impact on students’ life satisfaction (Coffman and Gilligan, 2002). Thus, we assume hypothesis 2.
+H2. IU is positively related to perceived stress.
+2.2.3 IntoleranceofuncertaintyandEPCD.Many factorscontributetothe complexity and
+increase the challenges that an individual experiences in the career decision-making process, such as uncertainty about oneself and the work environment, various career options and social barriers that often limit individuals’ career options (Gati and Levin, 2014; Krieshok et al., 2009). Literature studies explained two types of difficulties in career decision-making: career indecision and career indecisiveness. Career indecision (career decision-making difficulties) involves cognitive factors such as lack of readiness, lack of information, and inconsistent information, whereas career indecisiveness (emotional personality related career decision- making difficulties- EPCD) involves affective factors such as emotional dysregulation, low confidence and decision-related anxiety (Udayar et al., 2020). This study specifically used
+EPCDbecauseitsaffectivefactorsalignwellwiththetheoreticalframeworkoftheCognitive- Affective Conative model. According to a study, IU predicts decision-making difficulties and decisionalsafetybehaviour(Appeletal.,2024),anditispositivelyassociatedwithdifficulties inmakingcareerdecisions,includinganxiety-inducedinconsistenciesininformation,alackof readiness, andinadequate information(Arbona et al.,2021).Anotherstudy explored theIU of students due to the post-COVID pandemic and its impact on the entrepreneurial mindset and career adaptability of higher education students (Lee and Jung, 2021). From this discussion, we propose the following assumptions:
+H3. IU is positively related to EPCD.
+2.2.4 Perceived stress and EPCD. People encounter career decision-making difficulties at
+various stages, such as before, during, or after making a career choice, as theyare aware of the importance of their decision and worry about making an unsuitable one (Anghel and Gati,
+2021). It is a major concern among college students during their university studies (Lipshits- Brazileretal.,2016).Researchstudieshaveshownthatcareerdecision-makingdifficultiesare Kybernetes associated with depression, anxiety, stress, and worry (Anghel and Gati, 2021). A study
+investigated how emotional intelligence and self-efficacy contribute to predicting difficulties
+in career decision-making (Santos et al., 2018). Also, personality trait also reduces one’s abilitytomakecareerdecisions(Gatietal.,2012).Itishighlightedthattheincreasedstresscan
+significantly disrupt an individual’s adaptive emotional regulation and cognitive processing
+(Machulska and Klucken, 2025). Rottinghaus et al. (2009) emphasised the need to investigate thepotentialinfluenceofpersonal-emotionalfactorsonaspectsofcareerdecision-makingand found that students who had made a career decision were significantly less depressed. Thus, we propose the following hypothesis:
+H4. Perceived stress has a positive effect on EPCD.
+2.2.5 Perceived stress and confirmation bias. Perceived stress is an individual’s subjective
+experience of stress and the ability to manage it (Qrmli, 2025), and it is associated with biased information processing. This tendency will interpret environmental stimuli and ambiguous information in a negative manner (Machulska and Klucken, 2025). Stressful life events are significantly associated with negative cognitive biases such as attentional, memory biases, dysfunctional attitudes and ruminative brooding (Łosiak et al., 2019; Ford and Shook, 2019). It frequently results in feelings of overwhelm and interferes with regular decision-making processes,causingpeopletoprioritisequick,emotion-drivendecisions(PorcelliandDelgado, 2017). Factors such as time pressure and information overload influence the stress environment of an individual. Phillips-Wren et al. (2019) highlighted that individuals rely on cognitive shortcuts and exhibit heightened cognitive biases under stressful conditions. These conditions increase selective attention to and recall of belief-consistent information, which makes individuals susceptible to cognitive biases. With this, we propose:
+H5. Perceived stress is positively related to confirmation bias
+2.2.6 EPCD and confirmation bias. From the previous research, Saka et al. (2008)
+formulated the framework of EPCD, which is classified into three primary clusters of factors: pessimistic views, anxiety, and self-identity. These factors anticipate negative outcomes, emotional disturbances, and maladaptive cognitive perceptions that prevent students from making conclusive decisions (Gati et al., 2010; Tian and Hou, 2023). Emotions and self- confidence play an important role in shaping an individual’s career decisions, which support both personal fulfilment and professional growth (Santos et al., 2018). In a study, Di Fabio etal.(2012)exploredhowpersonalitytraitsandemotionalintelligenceinfluencedifficultiesin career decision-making. According to Gati and Amir (2010), college students often face more difficulties in career decision-making that stem from emotional and personality-related sources. When individuals experience emotional discomfort and uncertainty, they tend to reducepsychologicalstrainbyselectivelyattendingtoinformationthatconfirmstheirexisting beliefs while avoiding disconfirming evidence. This motivated reasoning is known as confirmation bias, which is enhanced particularly when a person thinks deeply about issues, such as religion, politics, and career (Dickinson, 2024). Thus, we propose:
+H6. EPCD is positively associated with confirmation bias
+2.2.7Mediationandserialmediationanalysis.Careerdecision-makingisafuture-oriented process, and individuals often experience uncertainty (Trevor-Roberts, 2006). Individuals with high IU are more likely to perceive career exploration as stressful and experience greater anxiety, which in turn leads to more pronounced difficulties in making career decisions compared to those with lower levels of IU (Arbona et al., 2021). Previous research has highlighted the relationship between IU, interpretation flexibility, anxiety, and stress (Tyson et al., 2025). A research study demonstrates that IU first enhances emotional distress, which subsequentlyincreasesmaladaptivecognitiveprocessingofambiguousinformation.Also,the study further insists on incorporating serial models to explore the relationship between IU,
+K fear,anxietyandnegativeevaluationofambiguoussocialinformation(SpiroiuandMaranzan,
+2025). Dickinson (2022) argues that confirmation bias is not merely a cognitive shortcut but also functions as an affect-regulation strategy. The author also explains that negative emotional responses arising from cognitive discomfort and dissonance trigger motivated reasoning, leading individuals to avoid belief-opposing information, particularly in the political domain. Based on these arguments, we propose the following mediation and serial mediation hypotheses:
+ H7. Perceived stress mediates the relationship between IU and EPCD
+H8. EPCD mediates the relationship between IU and confirmation
+H9. Perceived stress, EPCD serially mediate the relationship between IU and
+confirmation bias.
+3. Methods
+3.1 Participants
+The participants of thisstudy comprise 55.5% females and 44.5%males. In terms of age, 89% of the respondents fall within the 20–22 age group, 9% are between 23–26 years, and 2% are above 26 years. The participants are final year students enrolled in undergraduate programs across various disciplines: 12% in arts, 30% in science, 37% in commerce, and 21% in management. In socio-economic research, annual family incomes are broadly defined and interpreted in relation to the locally established socio-economic status scales (Masthi and Kulkarni, 2013). In this study, the participants belong to lower–to middle–income households located in rural areas of two Indian states. Rural communities are referred to as students enrolled in institutions located outside metropolitan and major urban regions. This population predominantly belongs to agriculture and related occupations (Tilak and Choudhury, 2021). Regarding annual family income, 89% of the respondents come from families earning below ₹8 lakh (approximately US$9,400), while 11% come from families earning above ₹8 lakh. Additionally, 77% of the participants reported not having attended any career guidance program, whereas 23% indicated they had attended at least one program during their course.
+3.2 Procedure
+In this study, we collected data using a mixed approach that combines both paper-and-pencil surveys and online questionnaires employing purposive sampling techniques. Students who belong to undergraduate courses in non-urban, rural areas were recruited for the study. Weapproachedacademicinstitutionslocatedinruralregionsandgotpermissiontocollectdata fromstudents.Thepapersurveyswereadministeredinaclassroomsetting,whereparticipants were first briefed on the purpose of the study. They were assured that their responses would remain confidential and were encouraged to ask questions or clarify any doubts before filling out the questionnaire. This process helped create a comfortable environment and encouraged betterparticipation.Studentswhowerenotphysicallyaccessiblewerereachedusinganonline survey through LinkedIn and emails. This increases the diversity of the sample and improves participation. Both modes used identical questionnaires to ensure measurement equivalence.
+3.3 Ethical considerations
+Before initiating the research, formal approval was obtained from the local institutional authorities. The approval process involved a thorough review of the research proposal to ensure compliance with ethical principles, including respect for participants, informed consent, confidentiality, and transparency. Participation was entirely voluntary, and students were selected accordingly.
+3.4 Measure Kybernetes Intoleranceofuncertainty(IU):TheIntoleranceofUncertaintyQuestionnaire(Carletonetal.,
+2007) was used to assess IU. It comprises two sub-dimensions: prospective anxiety and
+inhibitory anxiety. This study specifically focuses on prospective anxiety (7 items), which
+evaluates an individual’s tolerance for potential future uncertainty. Perceived stress: In the
+career decision-making context, it was measured using the 10-item scale of perceived stress, developedbyCohenetal.(1994).Thisscaleassessesthedegreetowhichpeopleperceivetheir
+lives as unpredictable and overloaded. The scale items were adapted to reflect stress specifically related to the career decision-making process. Emotional personality-related career decision-making difficulties (EPCD): The shortened, 11-item version of the EPCD
+Questionnaire (Gati and Levin, 2014) was used to measure the sources of students’ general
+indecisiveness incareerdecision-making.ThetaxonomyofEPCDincludes threedimensions:
+Pessimistic view, Anxiety, and self and identity (Gati et al., 2012). Confirmation bias:
+Students’ susceptibility to confirmation bias in the career decision-making process was
+measured using a 10-item scale adapted from Rassin (2008). The items assessed the tendency
+to seek, interpret, and recall information that confirms one’s existing beliefs or preferences
+regarding career choices, while discounting or avoiding disconfirming evidence. Sample item includedforthereference:“Ionlyneedalittleinformationtoreachagooddecision(relatedto career/job).”Allconstructitemsinthestudyweremeasuredusinga7-pointLikert-typescale,
+ranging from 1 5 Strongly Disagree to 7 5 Strongly Agree. Higher scores on each scale
+indicated astronger presence of therespective construct. We did a pilotstudy with a sampleof 134participantstoexaminethepsychometricadequacyandreliabilityofthestudyinstruments
+rather than to test feasibility. Hertzog (2008) notes that larger pilot samples are appropriate to
+obtain reliable and precise estimates of measurement properties.
+3.5 Data analysis
+RStudio(version4.4.3)wasusedtoanalyzethedatathrough aStructuralEquationModelling (SEM) approach, including the measurement model, structural model, and Confirmatory Factor Analysis (CFA).
+3.6 Common method bias
+For data collection, this study employed a self-report method, necessitating an assessment of the potential threatto validity posed bycommon method bias, also known as commonmethod variance. The authors followed the procedures and statistical methods proposed by Podsakoff et al. (2012) to eliminate this problem. Harman’s one-factor test was used to assess the common method bias. The results show that a single factor accounted for 37.9% of the total variance,whichisbelowtherecommendedthresholdof50%,suggestingthatcommonmethod bias is not a threat to this study. Additionally, we included the common latent factor (CLF) in theconfirmatoryfactoranalysismodel,withallobservedindicatorsloadingontheirrespective theoreticalconstructs andthelatent methodfactor.TheintroductionoftheCLFindicated only slight changesin modelfitcompared to the baseline measurement model (CFI5 0.954 versus 0.941;RMSEA5 0.043versus0.047).Particularly,themainfactorloadingsremainedlargely consistent after the inclusion of the CLF. Overall, these results suggest that common method variance is not significantly biasing the study’s findings.
+4. Results
+4.1 Measurement model
+After screening data, a confirmatory factor analysis with ML estimation using a covariance- based structural equation model was carried out to test the factorial validity of IU, PS, EPCD, and CB, respectively. The Lavaan 0.6–19 ended after 41 iterations. All standardised factor loadings were statistically significant and exceeded the minimum acceptable value (above
+K 0.7), which is reported in the appendix with the items of all constructs. Table 1 presents the validity assessment using Cronbach’s alpha (α), composite reliability (CR), and average
+variance extracted (AVE). All constructs demonstrated strong reliability, with Cronbach’s alpha and CR values falling within the acceptable range of 0.70–0.90, confirming internal consistency. Additionally, AVE values for each variable exceeded the minimum threshold of 0.50, indicating adequate convergent validity (Hair et al., 2014). Discriminant validity was obtained using the Fornell-Larcker criterion (Refer to Table 2), which is confirmed when the
+square root of each construct’s √AVE exceeds its highest correlation with other constructs (Fornell and Larcker, 1981).
+4.2 Structural model evaluation
+The hypothesised model demonstrated an acceptable fit to the data: χ2 (659) 5 1201.18, p < 0.001, N 5 378. The fit indices supported the adequacy of the model, with a Comparative Fit Index (CFI) of 0.94, Tucker-Lewis Index (TLI) of 0.93, and Root Mean Square Error of Approximation (RMSEA) 5 0.047. All indices met commonly recommended thresholds, indicating a good model fit (Hu and Bentler, 1999).
+The hypothesised model results indicated that IU had a significant positive relationship with CB (β 5 0.281, SE 5 0.048, p < 0.001), thus supporting H1. Additionally, IU was positively related to PS (β 5 0.460, SE 5 0.055, p < 0.001), supporting H2. The direct relationship between IU and EPCD was also significant (β 5 0.186, SE 5 0.058, p 5 0.001), confirming H3. Furthermore, PS demonstrated a significant positive effect on EPCD (β 5 0.535, SE 5 0.058, p < 0.001) and was positively related to CB (β 5 0.475, SE 5 0.069, p < 0.001), thereby confirming H4 and H5, respectively. Lastly, EPCD showed a significant positive relationship with CB (β 5 0.146, SE 5 0.061, p 5 0.025), thus confirming H6. (refer to Table 3)
+A serial mediation analysis was conducted to examine the indirect effects of IU on CB through PS and EPCD. For the verification, bootstrap was used, with 5,000 samples and 95% bias-correctedconfidenceintervals.TheindirecteffectofIUonCBthroughPSwassignificant
+Table 1. Reliability and convergent validity
+ 
+                                   Construct α CR                                                                                                    AVE
+                                   Intolerance of uncertainty (IU) 0.94 0.940 Perceived stress (PS) 0.93 0.927 Career decision-making difficulties   0.692
+                                    (EPCD) 0.93 0.933 Confirmation bias (CB) 0.91                                                                     0.558
+                                    0.909                                                                                                             0.560
+                                                                                                                                                      0.501
+                                   Note(s): α – Cronbach’s alpha; CR – Composite reliability; AVE –Average Variance Extracted
+                                   Source(s): The authors
+                                   Table 2. Fornell–larcker discriminant validity and latent correlation matrix
+                                   Constructs 1 2 3                                                                                                  4
+                                   Intolerance of uncertainty (IU) 00.831
+                                   Perceived stress (PS) 0.460 0.748
+                                   Career decision-making difficulties (EPCD) 0.433 0.621 0.751
+                                   Confirmation bias (CB) 0.563 0.695 0.563 0.715
+                                   Note(s):Diagonalelements(initalic)representthesquarerootoftheAverageVarianceExtracted(√AVE).Off-
+                                   diagonal elements are inter-construct correlations
+                                   Source(s): The authors
+
+Table 3. Hypotheses results Kybernetes Relationship β SE p-value Decision
+IU → CB 0.281 0.048 0.000 Supported IU → PS 0.460 0.055 0.000 Supported IU → EPCD 0.186 0.058 0.001 Supported PS →EPCD 0.535 0.058 0.000 Supported PS →CB 0.475 0.069 0.000 Supported EPCD →CB 0.146 0.061 0.025 Supported 
+Note(s): IU – Intolerance of uncertainty; PS – Perceived stress; EPCD – Emotional and personality-related career decision-making difficulties; CB – Confirmation bias
+Source(s): The authors
+(β5 0.246,SE5 0.041,p<0.001);theconfidenceinterval[0.177–0.328]didnotincludezero. Thus, H7 was confirmed. Additionally, EPCD partially mediated the relationship between IU and CB (β 5 0.175, SE 5 0.033, p < 0.001). The confidence interval [0.110–0.238] did not includezero,whichsupportsH8.Importantly,theserialindirecteffectfromIU→PS→EPCD
+→ CB was statistically significant (β 5 0.108, SE 5 0.023, p < 0.001), suggesting that IU influences CB through a sequential path involving increased stress and decision-making difficulties. The confidence interval [0.064–0.155] did not include zero; therefore, H9 is confirmed. (Refer to Table 4)
+To assess explained variance, the authors examined the R2 values. Following Falk’s (1992) guideline,aminimumthresholdof0.10isdeemedacceptableinsocialscienceresearch.Inthis
+study, theR2 values forPS 5 0.23, EPCD 5 0.4, and CB5 0.44, indicating asubstantial level ofexplained variance (Hairet al.,2014). TheSRMRvalue fortheestimated modelwas0.038, indicating an excellent model fit, as it is well below the recommended threshold of 0.08.
+5. Discussion Thissectiondiscussesthetheoretical,practical,andsocialimplicationsofthestudy.Thestudy makes a significant contribution to the literature on behavioural biases and career decision-
+making, as well as to the academic knowledge across domains where decision-making under uncertainty is critical. It also highlights the practical relevance of the findings for academicians, career counsellors, professionals and policymakers, and their potential to foster meaningful change at the societal level.
+5.1 Theoretical implications
+This study contributed to the cognitive–affective–conative model by showing that IU initiates a sequential process in which cognitive dispositions influence affective reactions, ultimately shaping behavioural biases. The research findings extend career development literature by
+Table 4. Mediation analysis
+95% 95%
+CI CI
+Path model β SE p-value lower Upper Decision
+IU → PS →CB 0.246 0.041 0.000 0.177 0.328 Partial Mediation IU → EPCD →CB 0.175 0.033 0.000 0.110 0.238 Partial Mediation IU → PS →EPCD →CB 0.108 0.023 0.000 0.064 0.155 Serial Mediation
+Source(s): The authors
+K examining that uncertainty tolerance plays a key role in conditioning the dynamic interplay of
+cognitive dispositions, affective responses, and behavioural tendencies in career-related decision-making. This research empirically studied the connection between intolerance of uncertainty and confirmation bias in career-related decision-making processes, which reveals the direct and indirect effects of perceived stress, emotional and personality-related career decision-making difficulties (EPCD), that lead to susceptibility to confirmation bias.
+IU has a direct positive effect on confirmation bias, with indirect effects through perceived stressandEPCD,indicatingpartialmediationintwodifferentpaths.Furthermore,theresearch findings explored the significant serial mediation effect in the pathway IU →PS →EPCD → CB (β 5 0.108, SE 5 0.023, p < 0.001), which suggests that IU increases the stress among students, which in turn enhances career decision-making difficulties, leading to stronger confirmation bias. The cognitive-affective-conative model emphasises that decision-making is not purely rational but is influenced by cognitive and emotional processes, which leads to biased behaviours when people face ambiguous career decisions. This serial mediation highlights how cognitive and emotional factors interact and contribute to behavioural consequences in uncertain decision environments.
+Exploring career information online is hardly under observation in this digitalised environment (Amir et al., 2008). This can be the cause of students’ susceptibility to biased informationprocessingincareerdecisionsandexploration.Specifically,thisstudyfocusedon theroleofprospectiveanxietyamongstudents(Wangetal.,2022)anditsimpactonenhancing stress and career decision-making difficulties that lead to confirmation bias. The findings of theresearchalignwithRassin(2008),whoclarifiesthatpeoplearesusceptibletoconfirmation bias under uncertainty. Lack of network, post-COVID impact on the economy, and past recessions may be the reasons for the tendency of intolerance to uncertainty and increased stress among students from rural or underdeveloped regions. In such conditions, they tend to rigidlystick totheir initialbeliefs,even when confrontedwith contradictoryevidence, leading toaninflatedsenseofconfidenceintheirdecisions.Theseelementsincreasethedifficultiesof career choice and lead to biased information processing (Trevor-Roberts, 2006). Also, people are becoming overconfident in their beliefs by misinterpreting information that contradicts them (Rabin and Schrag, 1999). Kwok (2018) suggested that incorporating and normalising uncertainty within the career development process reflects a constructivist approach. This perspective encourages students to view uncertainty positively and develop strategies to manage it effectively.
+Rottinghausetal.(2009)emphasisedthatstudentswhohadmadecareerdecisionsreported significantlylowerlevelsofdepression.Thissuggeststhatcareerclaritymayplayaprotective
+role in enhancing emotional well-being. Furthermore, stress experienced during decision- making has been shown to shift cognitive processing from analytical reasoning to intuitive thinking,increasing relianceonhabitualresponses overdeliberate, goal-directedactions.This cognitiveshiftheightenstheriskofbiasedjudgements(Yu,2016).Althoughpreviousresearch has examined cognitive-emotional factors and behavioural biases separately in the context of career decision-making, the present study bridged the gap by investigating how these factors interacttoinfluencesusceptibilitytoconfirmationbias.Indoingso,thestudyalignswithSDG 4 - Quality Education by emphasising the need for educational interventions that enhance critical thinking and emotional resilience in career planning. Additionally, by addressing the psychological barriers and cognitive shortcuts to effective career decision-making, this
+research contributes to SDG 8- Decent Work and Economic Growth by supporting informed andmentallyhealthytransitionsintotheworkforce,ultimatelyfosteringamoreproductiveand empowered labour force.
+5.2 Practical implications
+The study has provided meaningful practical implications, particularly for university career guidance centres, counselling cells, and mentors, who play a pivotal role in addressing the
+cognitive and emotional factors underlying students’ career indecision (Santos et al., 2018). Kybernetes Gatlin et al. (2018) emphasised that the universities, educators, and policymakers of the institutesshouldprioritisestudent-centredcareerdevelopmentprogramsforstudentswholack
+exposure, career information, and training options by designing career interventions (Donald
+et al., 2024) and creating support mechanisms that can help students to handle their stress and
+make more informed decisions with a rational analysis of career information for quality
+decision-making. At the same time, cognitive-behavioural programs are effective in
+addressing issues related to anxiety and fear; however, challenges linked to self-concept and identity require the personalised support and guidance of career counsellors (Gati et al., 2012).
+The study recommends coping strategies, guided decision-making exercises, and career
+choice interventions thathelp students buildtoleranceto uncertainty (Arbona et al.,2021) and
+manage stress through productive approaches, seeking support, and non-productive methods
+(Lipshits-Braziler et al., 2016), applying emotional intelligence and self-efficacy (Lam and
+Santos, 2018; Ran et al., 2022) to reduce low motivation and general indecisiveness (Xu and
+Tracey, 2015), hereby enhancing their information processing for better career decisions.
+Productive strategies such as emotional help seeking, problem-solving, flexibility, and self-
+regulationaremoreeffectiveincopingwithcareerdecision-makingdifficulties(BooandKim, 2020). It is considered that emotional intelligence is crucial to the decision-making process (Santosetal.,2018),andateachableskillthatcanenhancesocialsupportandcareerreadiness, emphasising its potential for integration into educational and developmental programs (Di Fabio and Kenny, 2012).
+5.3 Social implications
+A previous study highlighted that students from low-income, underserved communities who areallstudyinginruralschoolslackaccesstocareer-relatedinformation,trainingoptions,and adequate hands-on learning (Lindstrom et al., 2022). It explains that the family’s social class has a significant influence on young people’s career development. In this study, the authors highlight how psychological challenges faced by students from rural or countryside regions can increase their susceptibility to confirmation bias. For example, such students often rely on culturallyreinforcedcareerbeliefs,suchasviewinggovernmentjobsastheonlysecureoption orlimitingcareerchoicesbasedontraditionalgenderroles,ratherthanobjectivelyexploringa broaderrangeofopportunities.Theseinsightsunderscoretheurgentneedtoimproveaccessto structuredcareercounsellingandmentalhealthsupportwithinruraleducationalinstitutionsin developing countries. Promoting a stronger sense of self-concept and self-awareness among students can help reduce their vulnerability to cognitive biases and enhance their ability to make informed career choices. The study’s findings offer valuable direction for educators, policymakers, and community stakeholders seeking to foster more resilient, reflective, and empowered decision-makers in under-resourced settings.
+6. Limitations and future research
+Although the study contributes theoretical and practical implications, it has its limitations as well, which can guide future research. The study explored the susceptibility of confirmation bias among students during their career decision-making process, particularly when they face challenges in making decisions. It provided suggestions to implement career interventions, bias mitigation strategies, and mindfulness training programs, but it did not provide practical methodstosuggest.Theparticipants forthestudy werechosenfromruralpartsofthree Indian
+states,whichisnotarepresentationoftheentirepopulation.Also,thisisacross-sectional,self- reported questionnaire that was used for data collection, which limits the ability to infer causality. More experimental and longitudinal studies are needed to develop mitigation or intervention strategies to improve the students’ decision-making quality in career-related
+K concerns, which could reveal whether confirmation bias diminishes with increased exposure
+to decision-making scenarios.
+For instance, structured reflection tasks, premortem analysis, or training in metacognitive strategies may help reduce biased reasoning. Testing such interventions in real-world educational and counselling settings can offer practical implications for improving student decision quality. Future studies should investigate how these cognitive and emotional factors vary across different socio-cultural and geographic settings. For example, rural versus urban backgrounds and collectivist versus individualist cultures may help to better understand how cultural context amplifies or mitigates decision difficulties and confirmation bias. Along with that,otherbehaviouralandcognitivebiasescanbeexplored,andhowthesebiasesinteractwith careerdecision-makingdifficulties.UpcomingstudiescanexplorehowotherSDGgoals,such aspovertyandinequalities,interactwiththeseelements.Withstudentsincreasinglyrelyingon digital platforms and algorithm-driven content, future research should explore how such environmentsreinforcebiasedcareerbeliefs.Finally,morepotentialvariablescanbeincluded, suchaspeersupportandsocialsupport,whichcanbetreatedasamoderatingvariableinfuture studies. The findings are especially valuable for career counsellors, educators, and policymakers, as they point to specific psychological barriers that hinder optimal decision- making. By addressing these barriers, interventions can bedeveloped to foster more reflective and rational decision-making processes, thus improving career outcomes and individual well-being.
+Appendix
+Table A1. Questionnaire items and factor loadings
+ 
+                                              Factor
+                                              loading
+                                              Questionnaire items
+                                   IU 1 IU 2  Intolerance of uncertainty
+                                    IU 3 IU 4 Unforeseen career-related events upset me greatly 0.827 It frustrates me when I don’t have all the information I
+                                    IU 5 IU    need to make career decisions 0.838 To avoid surprises, one should always plan one’s career in advance 0.742
+                                    6          Even a small, unexpected change can disrupt my entire career planning 0.812 I always want to know what lies
+                                   IU 7        ahead in my career path 0.881 I can’t stand being taken by surprise in career-related matters 0.870 I feel I
+                                   PS 1 PS 2   should be able to organise every step of my career in
+                                    PS 3 PS 4  advance
+                                    PS 5 PS   0.843
+                                    6         Perceived stress
+                                   PS 7 PS 8  In the last month, how often have you
+                                    PS 9 PS   Been upset because something unexpected happened in your career decision process?
+                                    10        0.759
+                                   EPCD 1     0.754
+                                              0.793
+                                              0.737
+                                              0.778
+                                              0.708
+                                              Felt that you were unable to control the important aspects of your career decisions?
+                                              Felt nervous and stressed about making career-related decisions?
+                                              Felt confident about your ability to handle problems related to your career decisions?
+                                              Felt that things were going your way regarding your career planning?
+                                              Found that you could not cope with all the tasks and decisions involved in choosing a
+                                              career path?
+                                              Been able to control irritations or frustrations related to career decision making?
+                                              0.747
+                                              0.734
+                                              0.706
+                                              0.751
+                                              Felt that you were on top of things when it came to your career choices?
+                                              Been angered by external factors affecting your ability to make career decisions?
+                                              Felt that difficulties related to career planning were piling up so high that you could not overcome them?
+                                              Emotional and personality-related career decision-making difficulties (EPCD)
+                                              I can’t consider all the relevant considerations when choosing a career
+                                              0.755
+                                              (continued
+Table A1. Continued Kybernetes
+Factor
+Questionnaire items loadings
+EPCD 2 Few careers are really interesting 0.811 EPCD 3 Choosing the right career mainly depends on luck 0.706 EPCD 4 I am worried about dealing with the complex career decision-making process 0.781 EPCD 5 TheworldchangessofastthatI’mafraidtomakesuchamajordecision,likechoosinga 0.764 
+career at this point
+EPCD 6 I am afraid to commit to a career that might not be perfect for me 0.778 EPCD 7 I am already considering a certain career, but I fear it might not suit my skills 0.757 EPCD 8 I often regret things I have done or feel stressed about them 0.746 EPCD 9 I often feel inferior to others 0.695 EPCD10 I still don’t know what my values are and what I believe in 0.732 EPCD11 I need approval for my choices from important people in my life 0.703
+Confirmation bias
+CB 1 I only need a little information to reach a good decision (related to career/job) 0.706 CB 2 My first impression usually seems to be correct 0.716 CB 3 I usually understand things quickly and understand all the important details 0.740 CB 4 Some things are just the way they are, no matter what others say 0.706 CB 5 Sometimes, I know things before there is actual proof of them 0.706 CB 6 I usually trust my intuition 0.690 CB 7 The first idea I believe is usually the right one 0.708 CB 8 Generally, half a word is enough for me 0.680 CB 9 Ifmyreasoningandphysicalevidenceareincontradiction,Itendtogivemoreweightto 0.696
+my reasoning than to the evidence
+CB 10 Once I have a specific idea, I can hardly be brought to change my mind 0.730 Source(s): The authors
+References
+Adipat, S. and Chotikapanich, R. (2022), “Sustainable development goal 4: an education goal to
+achieve equitable quality education”, Academic Journal of Interdisciplinary Studies, Vol. 11 No. 6, pp. 174-183, doi: 10.36941/ajis-2022-0159.
+Amir, T., Gati, I. and Kleiman, T. (2008), “Understanding and interpreting career decision-making
+difficulties”, Journal of Career Assessment, Vol. 16 No. 3, pp. 281-309, doi: 10.1177/ 1069072708317367.
+Anghel, E. and Gati, I. (2021), “The associations between career decision-making difficulties and
+negative emotional states”, Journal of Career Development, Vol. 48 No. 4, pp. 537-551, doi: 10.1177/0894845319884119.
+Appel, H., Krasko, J., Luhmann, M. and Gerlach, A.L. (2024), “Intolerance of uncertainty predicts
+indecisiveness and safety behavior in real-life decision making: results from an experience sampling study”, Journal of Research in Personality, Vol. 110, 104490, doi: 10.1016/ j.jrp.2024.104490.
+Arbona, C., Fan, W., Phang, A., Olvera, N. and Dios, M. (2021), “Intolerance of uncertainty, anxiety,
+and career indecision: a mediation model”, Journal of Career Assessment, Vol. 29 No. 4,
+pp. 699-716, doi: 10.1177/10690727211002564.
+Bardeen, J.R., Fergus, T.A. and Wu, K.D. (2013), “The interactive effect of worry and intolerance of
+uncertainty on posttraumatic stress symptoms”, Cognitive Therapy and Research, Vol. 37 No. 4, pp. 742-751, doi: 10.1007/s10608-012-9512-1.
+Bardeen, J.R., Fergus, T.A. and Orcutt, H.K. (2017), “Examining the specific dimensions of distress
+tolerance that prospectively predict perceived stress”, Cognitive Behaviour Therapy, Vol. 46 No. 3, pp. 211-223, doi: 10.1080/16506073.2016.1233454.
+K Berenbaum, H., Bredemeier, K. and Thompson, R.J. (2008), “Intolerance of uncertainty: exploring its
+dimensionality and associations with need for cognitive closure, psychopathology, and personality”, Journal of Anxiety Disorders, Vol. 22 No. 1, pp. 117-125, doi: 10.1016/ j.janxdis.2007.01.004.
+Boo, S. and Kim, S.H. (2020), “Career indecision and coping strategies among undergraduate
+students”, Journal of Hospitality and Tourism Education, Vol. 32 No. 2, pp. 63-76, doi: 10.1080/ 10963758.2020.1730860.
+Buhr, K. and Dugas, M.J. (2002), “The intolerance of uncertainty scale: psychometric properties of the English version”, Behaviour Research and Therapy, Vol. 40 No. 8, pp. 931-945, doi: 10.1016/
+S0005-7967(01)00092-4.
+Calikli, G. and Bener, A. (2015), “Empirical analysis of factors affecting confirmation bias levels of
+software engineers”, Software Quality Journal, Vol. 23 No. 4, pp. 695-722, doi: 10.1007/s11219-
+014-9250-6.
+Carleton, R.N., Norton, M.A.P.J. and Asmundson, G.J.G. (2007), “Fearing the unknown: a short
+version of the intolerance of uncertainty scale”, Journal of Anxiety Disorders, Vol. 21 No. 1, pp. 105-117, doi: 10.1016/j.janxdis.2006.03.014.
+Carleton, R.N., Mulvogue, M.K., Thibodeau, M.A., McCabe, R.E., Antony, M.M. and Asmundson,
+G.J. (2012), “Increasingly certain about uncertainty: intolerance of uncertainty across anxiety and depression”, Journal of Anxiety Disorders, Vol. 26 No. 3, pp. 468-479, doi: 10.1016/ j.janxdis.2012.01.011.
+Carleton, R.N., Duranceau, S., Shulman, E.P., Zerff, M., Gonzales, J. and Mishra, S. (2016), “Self-
+reported intolerance of uncertainty and behavioural decisions”, Journal of Behavior Therapy and Experimental Psychiatry, Vol. 51, pp. 58-65, doi: 10.1016/j.jbtep.2015.12.004.
+Chen, L. and Zeng, S. (2021), “The relationship between intolerance of uncertainty and employment
+anxiety of graduates during COVID-19: the moderating role of career planning”, Frontiers in Psychology, Vol. 12, 694785, doi: 10.3389/fpsyg.2021.694785.
+Coffman, D.L. and Gilligan, T.D. (2002), “Social support, stress, and self-efficacy: effects on students’
+satisfaction”, Journal of College Student Retention: Research, Theory and Practice, Vol. 4 No. 1, pp. 53-66, doi: 10.2190/BV7X-F87X-2MXL-2B3L.
+Cohen, S., Kamarck, T. and Mermelstein, R. (1994), “Perceived stress scale”, Measuring stress: A
+guide for health and social scientists, Vol. 10 No. 2, pp. 1-2.
+Cohe~n, S. and Hoberman, H.M. (1983), “Positive events and social supports as buffers of life change
+stress”, Journal of Applied Social Psychology, Vol. 13 No. 2, pp. 99-125, doi: 10.1111/j.1559-
+1816.1983.tb02325.x.
+Demirtas, A.S. and Yildiz, B. (2019), “Hopelessness and perceived stress: the mediating role of
+cognitive flexibility and intolerance of uncertainty”, D€us¸€unen Adam: The Journal of Psychiatry and Neurological Sciences, Vol. 32 No. 3, pp. 259-267, doi: 10.14744/DAJPNS.2019.00035.
+Di Fabio, A. and Kenny, M.E. (2012), “Emotional intelligence and perceived social support among
+Italian high school students”, Journal of Career Development, Vol. 39 No. 5, pp. 461-475, doi: 10.1177/0894845311421005.
+Di Fabio, A., Palazzeschi, L. and Bar-On, R. (2012), “The role of personality traits, core self-
+evaluation, and emotional intelligence in career decision-making difficulties”, Journal of Employment Counseling, Vol. 49 No. 3, pp. 118-129, doi: 10.1002/j.2161-1920.2012.00012.x.
+Dickinson, D.L. (2022), “Political ideology, mood response, and the confirmation bias”, No. 15428,
+IZA Discussion Papers.
+Dickinson, D.L. (2024), “Deliberation, mood response, and the confirmation bias in the religious belief
+domain”, Journal of Behavioral and Experimental Economics, Vol. 109, 102161, doi: 10.1016/ j.socec.2024.102161.
+Donald, W.E., Van der Heijden, B.I. and Manville, G. (2024), “(Re) Framing sustainable careers:
+toward a conceptual model and future research agenda”, Career Development International, Vol. 29 No. 5, pp. 513-526, doi: 10.1108/cdi-02-2024-0073.
+Dugas, M.J., Hedayati, M., Karavidas, A., Buhr, K., Francis, K. and Phillips, N.A. (2005), “Intolerance Kybernetes
+of uncertainty and information processing: evidence of biased recall and interpretations”,
+Cognitive Therapy and Research, Vol. 29 No. 1, pp. 57-70, doi: 10.1007/s10608-005-1648-9.
+Falk, R.F. (1992), A Primer for Soft Modeling, University of Akron Press, Ohio.
+Ford, C.G. and Shook, N.J. (2019), “Negative cognitive bias and perceived stress: independent
+mediators of the relation between mindfulness and emotional distress”, Mindfulness, Vol. 10 No. 1, pp. 100-110, doi: 10.1007/s12671-018-0955-7.
+Fornell, C. and Larcker, D.F. (1981), “Evaluating structural equation models with unobservable 
+variables and measurement error”, Journal of Marketing Research, Vol. 18 No. 1, pp. 39-50, doi: 10.1177/002224378101800104.
+Francis, K., Dugas, M.J. and Ricard, N.C. (2016), “An exploration of intolerance of uncertainty and
+memory bias”, Journal of Behavior Therapy and Experimental Psychiatry, Vol. 52, pp. 68-74, doi: 10.1016/j.jbtep.2016.03.011.
+Gati, I. and Amir, T. (2010), “Applying a systemic procedure to locate career decision-making
+difficulties”, The Career Development Quarterly, Vol. 58 No. 4, pp. 301-320, doi: 10.1002/ j.2161-0045.2010.tb00180.x.
+Gati, I. and Levin, N. (2014), “Counseling for career decision-making difficulties: measures and
+methods”, The Career Development Quarterly, Vol. 62 No. 2, pp. 98-113, doi: 10.1002/j.2161-
+0045.2014.00073.x.
+Gati, I., Amir, T. and Landman, S. (2010), “Career counsellors’ perceptions of the severity of career
+decision-making difficulties”, British Journal of Guidance and Counselling, Vol. 38 No. 4, pp. 393-408, doi: 10.1080/03069885.2010.503700.
+Gati, I., Asulin-Peretz, L. and Fisher, A. (2012), “Emotional and personality-related career decision-
+making difficulties: a 3-year follow-up”, The Counseling Psychologist, Vol. 40 No. 1, pp. 6-27, doi: 10.1177/0011000011398726.
+Gatlin, K.P., Hallock, D. and Cooley, L.G. (2018), “Confirmation bias among business students: the
+impact on decision-making”, Review of Contemporary Business Research, Vol. 6 No. 1, American Research Institute for Policy Development, doi: 10.15640/rcbr.v6n2a2.
+Grenier, S., Barrette, A.M. and Ladouceur, R. (2005), “Intolerance of uncertainty and intolerance of
+ambiguity: similarities and differences”, Personality and Individual Differences, Vol. 39 No. 3, pp. 593-600, doi: 10.1016/j.paid.2005.02.014.
+Hair, J.F., Sarstedt, M., Hopkins, L. and Kuppelwieser, V.G. (2014), “Partial least squares structural
+equation modeling (PLS-SEM): an emerging tool in business research”, European Business Review, Vol. 26 No. 2, pp. 106-121, doi: 10.1108/EBR-10-2013-0128.
+Hertzog, M.A. (2008), “Considerations in determining sample size for pilot studies”, Research in
+Nursing and Health, Vol. 31 No. 2, pp. 180-191, doi: 10.1002/nur.20247.
+Hirschi, A. (2012), “The career resources model: an integrative framework for career counsellors”,
+British Journal of Guidance and Counselling, Vol. 40 No. 4, pp. 369-383, doi: 10.1080/ 03069885.2012.700506.
+Hu, L.T. and Bentler, P.M. (1999), “Cutoff criteria for fit indexes in covariance structure analysis:
+conventional criteria versus new alternatives”, Structural Equation Modeling, Vol. 6 No. 1, pp. 1-55, doi: 10.1080/10705519909540118.
+Joshi, J., Bakshi, A.J. and Niketan, N. (2016), “Career-related challenges of rural underprivileged youth in Western India”, Indian Journal of Career and Livelihood Planning, Vol. 5 No. 1, pp. 36-51.
+Khawaja, N.G. and Yu, L.N.H. (2010), “A comparison of the 27-item and 12-item intolerance of
+uncertainty scales”, Clinical Psychologist, Vol. 14 No. 3, pp. 97-106, doi: 10.1080/ 13284207.2010.502542.
+Kim, B. and Chen, Y. (2021), “The effects of spirituality on visitor behavior: a cognitive-affective-
+conative model”, International Journal of Tourism Research, Vol. 23 No. 6, pp. 1151-1162, doi: 10.1002/jtr.2474.
+K Kojima, J., Uehara, T., Ohira, Y., Tsukamoto, T., Shikino, K., Yokokawa, D., Li, Y., Yanagita, Y., Sato,
+R. and Ikusaka, M. (2025), “Potential for reducing confirmation bias using the OMP model ‘6- microskills’ with verbalizing discordance: a cross-sectional study”, BMC Medical Education, Vol. 25 No. 1, p. 310, doi: 10.1186/s12909-025-06869-6.
+Krieshok, T.S., Black, M.D. and McKay, R.A. (2009), “Career decision making: the limits of rationality
+and the abundance of non-conscious processes”, Journal of Vocational Behavior, Vol. 75 No. 3, pp. 275-290, doi: 10.1016/j.jvb.2009.04.006.
+Kwok, C.Y.N. (2018), “Managing uncertainty in the career development of emerging adults: implications for undergraduate students”, Australian Journal of Career Development, Vol. 27
+No. 3, pp. 137-149, doi: 10.1177/1038416217744216.
+Lam, M. and Santos, A. (2018), “The impact of a college career intervention program on career
+decision self-efficacy, career indecision, and decision-making difficulties”, Journal of Career Assessment, Vol. 26 No. 3, pp. 425-444, doi: 10.1177/1069072717714539.
+Lauriola, M., Malerba, A., Marini, M., Parisse, C., Prislei, L., Bottesi, G. and Livi, S. (2024), “Stability
+and change in intolerance of uncertainty and its association with interpretation bias in social situations: a longitudinal study of Italian adolescents”, Adolescents, Vol. 4 No. 4, pp. 564-586, doi: 10.3390/adolescents4040040.
+Lee, A. and Jung, E. (2021), “The mediating role of entrepreneurial mindset between intolerance of
+uncertainty and career adaptability”, Sustainability, Vol. 13 No. 13, 7099, doi: 10.3390/ su13137099.
+Lindstrom, L., Lind, J., Beno, C., Gee, K.A. and Hirano, K. (2022), “Career and college readiness for underserved youth: educator and youth perspectives”, Youth and Society, Vol. 54 No. 2,
+pp. 221-239, doi: 10.1177/0044118X20977004.
+Lipshits-Braziler, Y., Gati, I. and Tatar, M. (2016), “Strategies for coping with career indecision”,
+Journal of Career Assessment, Vol. 24 No. 1, pp. 42-66, doi: 10.1177/1069072714566795.
+Łosiak, W., Blaut, A., Kłosowska, J. and Łosiak-Pilch, J. (2019), “Stressful life events, cognitive
+biases, and symptoms of depression in young adults”, Frontiers in Psychology, Vol. 10, 2165, doi: 10.3389/fpsyg.2019.02165.
+Luhmann, C.C., Ishida, K. and Hajcak, G. (2011), “Intolerance of uncertainty and decisions about
+delayed, probabilistic rewards”, Behavior Therapy, Vol. 42 No. 3, pp. 378-386, doi: 10.1016/ j.beth.2010.09.002.
+Machulska, A. and Klucken, T. (2025), “The interplay between perceived stress, psychological
+flexibility, and interpretation biases in undergraduate mental health”, Scientific Reports, Vol. 15 No. 1, 38992, doi: 10.1038/s41598-025-26492-1.
+Masthi, N.R. and Kulkarni, P. (2013), “An exploratory study on socio economic status scales in a rural
+and urban setting”, Journal of Family Medicine and Primary Care, Vol. 2 No. 1, pp. 69-73.
+Melinder, A., Brennen, T., Husby, M.F. and Vassend, O. (2020), “Personality, confirmation bias, and
+forensic interviewing performance”, Applied Cognitive Psychology, Vol. 34 No. 5, pp. 961-971, doi: 10.1002/acp.3674.
+Nickerson, R.S. (1998), “Confirmation bias: a ubiquitous phenomenon in many guises”, Review of
+General Psychology, Vol. 2, pp. 175-220, doi: 10.1037/1089-2680.2.2.175.
+Phillips-Wren, G., Jefferson, T. and McKniff, S. (2019), “Cognitive bias and decision aid use under
+stressful conditions”, Journal of Decision Systems, Vol. 28 No. 2, pp. 162-184, doi: 10.1080/ 12460125.2019.1643695.
+Piksa, M., Noworyta, K., Gundersen, A., Kunst, J., Morzy, M., Piasecki, J. and Rygula, R. (2024), “The
+impact of confirmation bias awareness on mitigating susceptibility to misinformation”, Frontiers in Public Health, Vol. 12, 1414864, doi: 10.3389/fpubh.2024.1414864.
+Podsakoff, P.M., MacKenzie, S.B. and Podsakoff, N.P. (2012), “Sources of method bias in social
+science research and recommendations on how to control it”, Annual Review of Psychology, Vol. 63 No. 1, pp. 539-569, doi: 10.1146/annurev-psych-120710-100452.
+Porcelli, A.J. and Delgado, M.R. (2017), “Stress and decision making: effects on valuation, learning, Kybernetes
+and risk-taking”, Current Opinion in Behavioral Sciences, Vol. 14, pp. 33-39, doi: 10.1016/
+j.cobeha.2016.11.015.
+Priya, L.J., Kumar, P.A. and Vilvanathan, L. (2025), “I am less biased than others’: the mediating effect
+of career exploration on decision style and bias blind spot”, Higher Education, Skills and Work-
+based Learning, Vol. 15 No. 4, pp. 805-821, doi: 10.1108/HESWBL-08-2024-0235.
+Priya, L.J. and Vilvanathan, L. (2025), “Fast thinking, faster bias: intuitive decision style drives
+jumping to conclusions in career exploration”, British Journal of Guidance and Counselling, pp. 1-13, doi: 10.1080/03069885.2025.2590061. 
+Proulx, T., Inzlicht, M. and Harmon-Jones, E. (2012), “Understanding all inconsistency compensation
+as a palliative response to violated expectations”, Trends in Cognitive Sciences, Vol. 16 No. 5, pp. 285-291, May, doi: 10.1016/j.tics.2012.04.002.
+Qrmli, A.A. (2025), “Modeling the structural relationships of irritable bowel syndrome symptom
+severity based on hostile attribution, perceived stress, and cognitive bias with the mediating role of negative meta-emotion”, Journal of Psychiatric Practice®, Vol. 31 No. 5, pp. 245-250, doi: 10.1097/PRA.0000000000000877.
+Rabin, M. and Schrag, J.L. (1999), “First impressions matter: a model of confirmatory bias”, Quarterly
+Journal of Economics, Vol. 114 No. 1, pp. 37-82, doi: 10.1162/003355399555945.
+Ran, Z.O.U., Zeb, S., Nisar, F., Yasmin, F., Poulova, P. and Haider, S.A. (2022), “The impact of
+emotional intelligence on career decision-making difficulties and generalized self-efficacy among university students in China”, Psychology Research and Behavior Management, Vol. 15, pp. 865-874, doi: 10.2147/PRBM.S358742.
+Rassin, E. (2008), “Individual differences in the susceptibility to confirmation bias”, Netherlands
+journal of Psychology, Vol. 64 No. 2, pp. 87-93, doi: 10.1007/bf03076410.
+Rosen, N.O., Ivanova, E. and Kn€auper, B. (2014), “Differentiating intolerance of uncertainty from
+three related but distinct constructs”, Anxiety, Stress and Coping, Vol. 27 No. 1, pp. 55-73, doi: 10.1080/10615806.2013.815743.
+Rottinghaus, P.J., Jenkins, N. and Jantzer, A.M. (2009), “Relation of depression and affectivity to
+career decision status and self-efficacy in college students”, Journal of Career Assessment, Vol. 17 No. 3, pp. 271-285, doi: 10.1177/1069072708330463.
+Saka, N. and Gati, I. (2007), “Emotional and personality-related aspects of persistent career decision-
+making difficulties”, Journal of Vocational Behavior, Vol. 71 No. 3, pp. 340-358, doi: 10.1016/ j.jvb.2007.08.003.
+Saka, N., Gati, I. and Kelly, K.R. (2008), “Emotional and personality-related aspects of career-
+decision-making difficulties”, Journal of Career Assessment, Vol. 16 No. 4, pp. 403-424, doi: 10.1177/1069072708318900.
+Santos, A., Wang, W. and Lewis, J. (2018), “Emotional intelligence and career decision-making
+difficulties: the mediating role of career decision self-efficacy”, Journal of Vocational Behavior, Vol. 107, pp. 295-309, doi: 10.1016/j.jvb.2018.05.008.
+Schulz, W., Maas, I. and van Leeuwen, M.H. (2015), “Occupational career attainment during
+modernization. A study of Dutch men in 841 municipalities between 1865 and 1928”, Acta Sociologica, Vol. 58 No. 1, pp. 5-24, doi: 10.1177/0001699314565795.
+Spiroiu, F.I. and Maranzan, K.A. (2025), “Cognitive-emotional impact of negative interpretations of
+ambiguous social information and fear of negative evaluation on the association between intolerance of uncertainty and social anxiety subtypes: a cross-sectional mediation analysis”, Scandinavian Journal of Psychology, Vol. 66 No. 6, pp. 882-896, doi: 10.1111/sjop.13115.
+Stone, D.F. and Wood, D.H. (2018), “Cognitive dissonance, motivated reasoning, and confirmation
+bias: applications in industrial organization”, in Handbook of Behavioral Industrial Organization, Edward Elgar Publishing, pp. 114-137.
+Thapa, B.S., Karmacharya, B. and Gajurel, D. (2025), “How behavioral biases shape career choices of
+students: a two-stage PLS-ANN approach”, Businesses, Vol. 5 No. 3, p. 35, doi: 10.3390/ businesses5030035.
+K Tian, L. and Hou, Z. (2023), “Gender discrimination and career decision-making difficulties among
+female Chinese college students: the buffering role of coping styles”, The Career Development Quarterly, Vol. 71 No. 1, pp. 56-67, doi: 10.1002/cdq.12314.
+Tilak, J.B. and Choudhury, P.K. (2021)), “Inequality in access to higher education in India between the
+poor and the rich: empirical evidence from NSSO data”, 36th IARIW Virtual General Conference, pp. 23-27.
+Trevor-Roberts, E. (2006), “Are you sure? The role of uncertainty in career”, Journal of Employment
+Counseling, Vol. 43 No. 3, pp. 98-116, American Counseling Association, doi: 10.1002/j.2161-
+1920.2006.tb00010.x.
+Tyson, G., Ferreira, V., Shoja-Assadi, P. and Hirsch, C.R. (2025), “Testing associations between
+negative interpretation inflexibility, anxiety symptoms and intolerance of uncertainty”, Behaviour Research and Therapy, Vol. 193, 104851, doi: 10.1016/j.brat.2025.104851.
+Udayar, S., Levin, N., Lipshits-Braziler, Y., Rochat, S., Di Fabio, A., Gati, I., Sovet, L. and Rossier, J.
+(2020), “Difficulties in career decision making and self-evaluations: a meta-analysis”, Journal of Career Assessment, Vol. 28 No. 4, pp. 608-635, doi: 10.1177/1069072720910089.
+Wang, R., Lin, X. and Wang, L. (2022), “The paradoxical effects of social class on career adaptability:
+the role of intolerance of uncertainty”, Frontiers in Psychology, Vol. 13, 1064603, doi: 10.3389/ fpsyg.2022.1064603.
+Xu, H. and Tracey, T.J. (2015), “Ambiguity tolerance with career indecision: an examination of the
+mediation effect of career decision-making self-efficacy”, Journal of Career Assessment, Vol. 23 No. 4, pp. 519-532, doi: 10.1177/1069072714553073.
+Yu, R. (2016), “Stress potentiates decision biases: a stress induced deliberation-to-intuition (SIDI) model”, Neurobiology of Stress, Vol. 3, pp. 83-95, 1 June, doi: 10.1016/j.ynstr.2015.12.006.
+Corresponding author
+Josephine Priya L can be contacted at: josephinebenney@gmail.com
+For instructions on how to order reprints of this article, please visit our website: www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+Downloaded from http://www.emerald.com/k/article-pdf/doi/10.1108/K-08-2025-1866/11496363/k-08-2025-1866en.pdf by Universiti Malaya user on 26 July 2026

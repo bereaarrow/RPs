@@ -1,0 +1,428 @@
+﻿Journal of Child and Family Studies (2026) 35:641–653
+https://doi.org/10.1007/s10826-025-03250-5
+ORIGINAL PAPER
+Early Childhood Maltreatment and Adolescent Aggressive Behaviors: A Causal Mediation Analysis of Callous-Unemotional Traits
+Callous Traits Mediate Child Abuse and Aggression
+DongxueZhu1,2· ChuchuLi1· FanWang1· YonghanLi1· MengyuanYuan1· YuanLi1· LeileiCao1· ShaojieWang1· GengfuWang1,3,4· PuyuSu1,3,4 · YuqiKang5
+Received: 28 April 2024 / Accepted: 19 December 2025 / Published online: 6 January 2026
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2025
+Abstract
+Child maltreatment (CM) and callous-unemotional (CU) traits have been linked to aggressive behaviors in adolescence; however, the underlying pathways and causal nature of these links require further investigation. The present study exam- ined how CM influenced aggressive behaviors, accounting for subtype distinctions and gender-specific patterns. This study is based on longitudinal data from 1,592 students from the Chinese Early Adolescent Cohort in Anhui Province. Information on early CM prior to seventh grade was obtained at baseline; CU traits and aggressive behaviors were col- lected during follow-up. Participants were required to complete self-report questionnaires. Causal mediation analysis was conducted in RStudio 3.4.0, with adjustment for baseline confounders to clarify pathways between CM and aggression. Linear regression results showed that emotional abuse (b = 0.94, 95% CI: 0.53–1.35, P < 0.05), physical abuse (b = 1.14, 95% CI: 0.48–1.81, P < 0.05), and emotional neglect (b = 1.17, 95% CI: 0.64–1.70, P < 0.05) were significantly associated with adolescents’ aggressive behaviors. Mediation analyses indicated that CU traits accounted for 15% of the overall CM effect, with stronger mediation observed in boys (21%) across subtypes, but not in girls. These results support the importance of focusing on enhancing healthy personality development and reducing emotional detachment, and foster- ing emotional connection when working psychotherapeutically with adolescents who have experienced CM. In addition, reducing CM incidence and promoting healthier personality trajectories represent essential strategies for mitigating aggres- sive behaviors in adolescence.
+Highlights
+● Multiple types of child maltreatment may occur simultaneously.
+● Child maltreatment subtype and gender impact adolescent aggressive behaviors.
+● Emotional abuse and emotional neglect are related to aggressive behaviors in girls.
+● The mediating effect of callous-unemotional traits was observed only in boys.
+Keywords  Early adolescents · Child maltreatment · Callous-unemotional traits · Aggressive behaviors · Mediating effects
+Dongxue Zhu and Chuchu Li contributed equally to this work.
+Extended author information available on the last page of the article
+1 3
+
+Introduction
+Prevalence of Aggressive Behaviors
+Adolescent aggression represents a major concern in both psychiatric research and public health (Park et al., 2017). Data from 79 countries indicate that nearly one-third of ado- lescents encounter some form of violent aggression or bully- ing, reflecting a widespread problem with substantial social implications (Elgar et al., 2015). In one sample of U.S. ado- lescents, 17.7% reported engaging in fights at school in the past year (Zhang et al., 2016), while rates in lower-income countries were reported to be several times higher (Elgar et al., 2015). Adolescents displaying aggressive behaviors are more likely to exhibit significant internalizing and behav- ioral problems such as withdrawal, anxiety, substance use, and dropping out of school (Crick et al., 2006; Small et al., 2017; Sanders et al., 2020). Furthermore, individuals who are targets of aggression may suffer physical and psycho- logical trauma, including sleep disturbances and suicidal ideation and attempts (Barzilay et al., 2017; Van Geel et al., 2016). Thus, it is critical to study the factors influencing the occurrence of aggressive behaviors.
+Relationship between Child Maltreatment and Aggressive Behaviors
+Child maltreatment (CM) is a global public health issue that includes  emotional  abuse,  physical  abuse,  sexual  abuse, emotional neglect, and physical neglect (Su et al., 2018). Its  prevalence  ranges  from  12.7%  to  36.3%  worldwide (Stoltenborgh et al., 2015), with recent evidence indicat- ing a rate of 47% among Chinese adolescents (Wang et al., 2020a, b). Adverse childhood experiences of maltreatment impair emotion regulation (Gruhn & Compas, 2020) and alter neural structure and function, thereby elevating vul- nerability to aggressive behavior (Dileo et al., 2017). Prior research has shown that each type of CM is associated with a variety of adolescent health risks, but the associations between different types of CM and adolescent aggression have not been consistent (Hussey et al., 2006). Research has shown that physical abuse has a more significant impact on aggression compared to emotional abuse and neglect (Van  Wert  et  al.,  2017).  Children  subjected  to  corporal punishment or physical abuse demonstrate increased risks of  externalizing  difficulties,  including  antisocial  conduct and aggression (Grogan-Kaylor et al., 2008; Klika et al., 2013). Conversely, other studies emphasized the close rela- tions between emotional and sexual abuse, and neglect and externalizing behaviors (Smith et al., 2005; Verrecchia et al., 2010; Xiao et al., 2023). The multidimensional nature of CM—characterized by variations in form, intensity, and 
+subjective  perception—may  account  for  discrepancies  in observed  associations,  with  some  individuals  exhibiting heightened aggression while others do not (English et al., 2005; Van Wert et al., 2017). Exposure to multiple and co- occurring forms of maltreatment, whether simultaneously or sequentially, has been linked to an elevated likelihood of aggressive behavior (Moylan et al., 2010). Despite growing evidence on the connection between CM and aggression, longitudinal investigations remain limited, particularly in relation to early pubertal adolescents, highlighting the need for further research in this population (Li et al., 2022).
+Furthermore,  inconsistent  evidence  has  been  reported regarding the co-occurrence of different CM subtypes and their interactive effects on aggressive outcomes. Empirical data suggest that repeated physical and emotional abuse is linked to elevated behavioral difficulties, while polyvictim- ization—defined as exposure to two or more forms of abuse or additional victimization—correlates with both internal- izing symptoms (e.g., depression, anxiety) and externalizing manifestations (e.g., anger, aggression), with particularly strong effects when sexual abuse is involved (Debowska et al., 2017; Haahr-Pedersen et al., 2020). In contrast, evidence from another investigation indicated that childhood experi- ences of physical abuse and neglect, as well as exposure to domestic violence, were robustly related to maladaptive behavioral patterns in adulthood, whereas verbal and sexual abuse did not demonstrate comparable associations (How- ell et al., 2017). A longitudinal meta-analysis further dem- onstrated that childhood abuse, especially physical abuse, nearly  doubled  the  likelihood  of  later  violent  conduct; emotional neglect was also associated with increased risk, emphasizing that distinct abuse subtypes exert differential effects on the development of violent behaviors and difficul- ties in psychosocial adjustment (Fitton et al., 2020). Collec- tively, these observations point to the necessity of continued research to clarify the complex dynamics between CM and aggression.
+Mediating Role of Callous-Unemotional Traits in the Relationship between CM and Aggressive Behaviors
+Empirical evidence indicates that exposure to CM is associ- ated with elevated levels of callous-unemotional (CU) traits (Dackis  et  al.,  2015).  Characterized  by  diminished  pro- social emotions such as guilt and remorse, impaired empa- thy, and callous disregard for others, CU traits have been identified as a central determinant of aggressive conduct (Frick et al., 2014; Kimonis et al., 2013). Developmental neurobiological models suggest that CM disrupts both the structure and functioning of prefrontal and emotion-regulat- ing regions of the brain, areas integral to emotion regulation, moral evaluation, and empathic responsiveness (Dileo et al., 
+
+Journal of Child and Family Studies (2026) 35:641–653
+643
+2017). Adolescents with histories of CM frequently exhibit emotional maladaptation; in an effort to avoid re-victim- ization, they may adopt self-protective strategies manifest- ing as CU traits, marked by limited empathic concern and rationalization of aggressive behavior (Del Giudice et al., 2011). Consequently, CM undermines the capacity to regu- late morality, empathy, and emotions (Dileo et al., 2017). Individuals with significant CU traits demonstrate impaired emotional  inhibition,  restricted  sensitivity  to  the  distress of others, and atypical responses to punishment and threat, thereby heightening the likelihood of persistent and severe aggression (Frick & White, 2008; Todorov et al., 2023). On this basis, CU traits were examined as a mediating mecha- nism to clarify the influence of CM on aggressive behaviors during adolescence.
+Gender Differences
+Research on gender differences in the association between CM and aggressive behavior remains a critical area requir- ing systematic examination. Although some investigations have suggested negligible differences or reported compa- rable effects of abusive experiences for boys and girls (Carl- son et al., 2015; Cho, 2019; Van der Put et al., 2015), the majority of studies indicate distinct trajectories (Cui & Liu, 2020; Xing et al., 2011). Evidence consistently shows that abused boys display higher levels of aggressive behavior compared with abused girls, largely shaped by divergent social roles assigned to each gender (Bettencourt & Miller, 1996; Le et al., 2023). In contrast, girls exposed to CM often internalize  distress,  with  externalizing  responses  emerg- ing as maladaptive coping strategies (He & Xiang, 2021), which heightens their vulnerability to aggressive conduct (Postlethwait et al., 2010). Both socialization processes and biological mechanisms are considered contributing factors to these divergences (Hipwell et al., 2007). Consequently, clarification is required on whether CU traits mediate the link between CM and aggression differently across genders, particularly  within  adolescent  populations.  Such  inquiry holds significance for designing targeted interventions and preventive strategies that address geder-specific develop- mental pathways.
+Current Study
+In prior research, CU traits have been identified as media- tors  linking  childhood  abuse  to  externalising  behaviors during adolescence. Nevertheless, several methodological and conceptual gaps remain. A study (Chang et al., 2021) reported that CU traits mediated the impact of sexual abuse and emotional neglect on violent crime in a judicial sample; yet the elevated baseline of CU traits in this high-risk cohort 
+may have inflated the observed effect sizes. Xie et al. (2020) examined male juvenile offenders in China and corrobo- rated the mediating role of CU traits, but the analysis was limited to this specific population without addressing poten- tial  gender  differences  in  community-based  adolescents. distinguished  proactive  from  reactive  aggression,  though the study did not systematically evaluate the distinct influ- ences of abuse subtypes nor incorporate gender-specific pat- terns into the analysis.
+The present study was conducted in Anhui Province using a cohort of ordinary junior high school students, thereby ensuring that the results more closely represent the general adolescent population and provide references for preventive strategies during the developmental period of heightened vulnerability. A longitudinal design was adopted to estab- lish temporal ordering, with baseline (T1) assessing CM and follow-up (T2) measuring CU traits and aggressive behav- iors. Causal mediation analysis, performed in RStudio 3.4.0 while adjusting for baseline aggression and other confound- ers,  was  applied  to  construct  a  temporal  evidence  chain linking CM, CU traits, and aggressive behaviors in adoles- cents. In addition, subtypes of abuse and gender differences were examined to clarify the mediating role of CU traits in covert maltreatment (such as emotional neglect) and subse- quent aggressive behaviors, as well as gender differences in these mediating pathways, thereby offering refined guid- ance for targeted interventions. The study objectives were as follows: (1) to investigate associations between distinct CM subtypes, their co-occurrence patterns, and adolescent aggressive behaviors; (2) to evaluate the mediating function of CU traits in the CM–aggression relationship; and (3) to analyze gender-specific variations in the mediating effects of CU traits across CM subtypes and aggressive outcomes.
+Methods
+Participants and Procedures
+The Chinese Early Adolescent Cohort (CEAC) recruited all 7th-grade students in Huaibei City, Anhui Province, China, through randomized cluster sampling in September 2019. A total of 1,592 adolescents (60.5% boys) were enrolled. Data on CM, CU traits, and aggressive behaviors were collected at three time points: September 2019 (T1), September 2020 (T2), and September 2021 (T3). The response rate for the initial wave exceeded 98%, and subsequent waves main- tained response rates above 96%. Identical self-report ques- tionnaires were administered across all three waves. CM data from T1 served as baseline information, CU traits were assessed at T2, and aggressive behaviors were measured 
+
+3 3
+at T3, enabling analysis of the mediating role of CU traits between CM and aggression.
+The  Biomedical  Ethics  Committee  of Anhui  Medical University approved the  study  protocol (No.  20180083). Written informed consent was obtained from school admin- istrators, participants, and their caretakers. Trained inves- tigators coordinated with classroom teachers and ensured standardized data collection. Each participant independently completed  the  anonymous  questionnaire  within  30  min, and completed questionnaires were collected on-site by the investigators.
+Measures
+Childhood Maltreatment
+Childhood maltreatment was evaluated using the Chinese version of the Childhood Trauma Questionnaire-Short Form (CTQ-SF), which has demonstrated strong reliability and validity in Chinese populations (Bernstein, 1998; He et al., 2019).  Evidence  from  a  large-scale  investigation  among Chinese  adolescents  (n = 4,852)  confirmed  the  five-factor structure of the instrument and reported robust model fit indices (CFI = 0.971, TLI = 0.966, RMSEA = 0.036) together with satisfactory internal consistency (He et al., 2019). The CTQ-SF is a retrospective self-report tool designed to cap- ture experiences of CM across distinct forms of abuse and neglect. For the present study, participants were instructed that the items refer to experiences involving their parents, other adult family members, or any individuals within their family environment during childhood and adolescence. It comprises five dimensions, each represented by five items rated on a 5-point scale, yielding scores ranging from 5 to 25 per dimension and 25 to 125 overall (Bernstein, 1998; Bernstein et al., 2003). Higher scores reflect greater trauma exposure. In the present analysis, the scale demonstrated adequate internal consistency (Cronbach’s α = 0.86).
+Aggressive Behaviors
+Adolescent aggression was evaluated with the Buss–Perry Aggression Questionnaire, a 29-item self-report tool that captures  the  relatively  stable  and  enduring  dispositions toward  aggressive  conduct  (Buss  &  Perry,  1992).  The instrument includes four domains: physical aggression (9 items, e.g., “If someone really gets on my nerves, I might hit them”), verbal aggression (5 items, e.g., “I have threatened someone I know”), anger (7 items, e.g., “I get angry quickly but calm down just as quickly”), and hostility (8 items, e.g., “When someone is particularly nice to me, I wonder if they have an ulterior motive”). Each item is rated on a five-point 
+Likert scale from 1 (completely disagree) to 5 (completely agree), and higher cumulative scores denote greater aggres- sion. The scale showed satisfactory internal consistency in the present sample (Cronbach’s α = 0.88), consistent with prior research reporting an α of 0.82 (Dong et al., 2022). Confirmatory  factor  analysis  further  supported  its  struc- tural validity (χ²/df = 5.45, CFI = 0.96, IFI = 0.95, NFI = 0.91, RMSEA = 0.06 (Dong et al., 2022).
+Callous-unemotional Traits
+Assessment of CU traits was conducted using the Inventory of Callous-Unemotional Traits (ICU), a 24-item instrument rated on a 4-point scale (1 = not at all to 4 = fully), with higher scores  reflecting  elevated  CU  characteristics.  Validation studies in Chinese cohorts (Wang et al., 2020) reported sat- isfactory model fit (CFI = 0.91, TLI = 0.89, RMSEA = 0.04) (Allen  et  al.).  Additional  research  confirmed  acceptable internal consistency, with a Cronbach’s α of 0.84 (Caldwell et al., 2019). In the present analysis, Cronbach’s α reached 0.82, indicating reliable measurement.
+Confounders
+Baseline covariates were collected at recruitment, drawing on prior literature (Cao et al., 2023; Navarro et al., 2022). Variables  included  gender,  chronological  age,  only-child status,  family  structure,  self-assessed  family  socioeco- nomic  status,  parental  educational  background,  and  aca- demic performance. Age in years was calculated from the difference  between  birth  date  and  the  first  survey  wave. Family structure was categorized as nuclear, single-parent, large, or other, while socioeconomic status was classified as poor, general, or good. Parental education was grouped into elementary school or below, junior high school, and high school or higher. Academic performance was recorded as worse or below average, moderate, better, or very good, and  baseline  measures  of  both  demographic  factors  and aggression (T1) were incorporated into the analytic models (Soares et al., 2022).
+Statistical Analyses
+Statistical analyses were conducted using SPSS 24.0 and RStudio  4.3.0.  Descriptive  statistics  summarized  partici- pants’ demographic characteristics as percentages. Associa- tions among study variables were examined through Pearson correlation analysis. To evaluate the links between CM and aggressive behaviors, linear regression models were applied to estimate regression coefficients and corresponding 95% confidence intervals (CIs) for each CM subtype. Separate analyses  were  performed  by  gender  to  clarify  potential 
+
+Journal of Child and Family Studies (2026) 35:641–653
+645
+sex-specific patterns of association. All statistical tests were two-tailed, with significance defined at α = 0.05.
+Finally, causal mediation analysis was subsequently car- ried out in RStudio 4.3.0. The analytical framework, illus- trated  in  Fig.  1,  specifies  directional  pathways  between variables, allowing decomposition of the total effect into natural direct and indirect components. The mediated pro- portion was derived by dividing the indirect effect by the total effect, representing the share of variance accounted for through the mediator pathway. Estimation of these effects assumed the absence of unmeasured confounding between exposure  and  mediator,  between  mediator  and  outcome, and between exposure and mediator-affected confounders, with demographic, socio-economic, educational variables and baseline data on aggression incorporated as potential covariates (Aitken et al., 2022; Singh et al., 2021).
+Results
+Descriptive Statistics and Correlation Analysis
+Table 1 presents the demographic profile of the sample. Among the 1,592 adolescents, 60.5% were male, with a mean age of 12.5 years (SD = 0.5). The average scores for CM at T1, CU traits at T2, and aggressive behaviors at T3 were 27.58 (SD = 4.78), 20.55 (SD = 7.42), and 59.33 (SD = 17.48), respectively. Correlation analyses in Table 2 revealed positive associations between most categories of CM and both CU traits and aggressive behaviors, with the exception  of  sexual  abuse,  which  showed  no  significant relationship with aggressive behaviors (r = 0.01, P > 0.05).
+Linear Regression Analyses
+Table 3 presents the linear regression outcomes. Emotional abuse  (b = 0.94,  95%  CI:  0.53–1.35,  P < 0.05),  physical abuse (b = 1.14, 95% CI: 0.48–1.81, P < 0.05), and emo- tional neglect (b = 1.17, 95% CI: 0.64–1.70, P < 0.05) dem- onstrated  significant  linear  associations  with  aggressive behaviors. Among boys, emotional abuse (b = 0.94, 95% CI:  0.39–1.48,  P < 0.01),  physical  abuse  (b = 1.02,  95% CI: 0.24–1.81, P < 0.05), and emotional neglect (b = 1.65, 95% CI: 0.91–2.39, P < 0.05) were each linked to aggres- sive  behaviors,  whereas  in  girls,  only  emotional  abuse (b = 1.00, 95% CI: 0.37–1.64, P = 0.01) and physical abuse (b = 1.46, 95% CI: 0.22–2.71, P = 0.05) exhibited compa- rable associations.
+Table S1 reports regression estimates for co-occurring CM subtypes. A single subtype showed no significant rela- tionship (b = -0.24, 95% CI: -2.73–2.24, P = 0.85), while exposure to two or more subtypes was strongly associated with aggressive behaviors (b = 6.81, 95% CI: 3.52–10.10, P < 0.05). The magnitude of aggression increased in parallel with the number of maltreatment subtypes experienced.
+Testing the Mediation Models
+Table 4 presents the total causal effect (TCE), natural direct effect (NDE), and natural indirect effect (NIE) of CM on aggressive  behaviors  in  boys,  together  with  the  propor- tion of variance accounted for by the mediating role of CU traits. Among boys, CU traits explained 21.0% of the effect, whereas no mediation was identified in girls.
+
+3 3
+Journal of Child and Family Studies (2026) 35:641–653
+645
+
+Fig. 1  Diagram of the mediation of callous-unemotional traits mediat- The dotted lines refer to the effects of confounders on exposure, medi- ing the association between child maltreatment and aggressive behav- ator, and outcome. We control for gender, age, only child, family struc- iors. Path a is the effect of the child maltreatment on the mediator. Path  ture, family economic status, parental educational background, own b is the effect of the mediator on the outcome. Path c is the direct effect.  academic performance and aggressive behaviors in the baseline data
+
+3 3
+Table 1  Demographic  characteristics  and  differences  in  aggressive behaviors (N = 1592) 
+Variable n (%)
+Gender
+Boy 963 (60.5)
+Girl 629 (39.5)
+Age years (M ± SD) 12.5 ± 0.5 Only-child status
+Yes 254 (16.0)
+No 1338 (84.0) Family structure
+Nuclear family 733 (46.0) Single-parent family 249 (15.6) Large family 589 (37.0) Other family 21 (1.3) Family economic status
+Poor 181 (11.4) General 1183 (74.3) Good 228 (14.3) Mother’s educational background
+Elementary school or below 414 (26.0) Junior high school 796 (50.0) High school or above 382 (24.0) Father’s educational background
+Elementary school or below 246 (15.5) Junior high school 844 (53.0) High school or above 502 (31.5) Academic Performance
+Worse or below 85 (5.3) Moderate 771 (48.4) Better 607 (38.1) Very good 129 (8.1) Child maltreatment at T1(M ± SD) 27.58 ± 4.78 Emotional abuse at T1 (M ± SD) 6.14 ± 2.02 Physical abuse at T1 (M ± SD) 5.36 ± 1.21 Sexual abuse at T1 (M ± SD) 5.11 ± 0.59 Emotional neglect at T1 (M ± SD) 5.49 ± 1.53 Physical neglect at T1 (M ± SD) 5.47 ± 1.18 Callous-unemotional traits at T2 (M ± SD) 20.55 ± 7.42 Aggressive behaviors at T1 (M ± SD) 70.40 ± 19.54 Aggressive behaviors at T3 (M ± SD) 59.33 ± 17.48
+Table 3  Linear regression of aggressive behaviors by type of abuse and gender 
+Variables Aggressive behaviors
+β (95% CI) b (95% CI) p-valuea
+Total sample 
+adjusted for 
+gender
+Emotional abuse 0.11 (0.53, 1.35) 0.94 (0.53, 1.35) < 0.001 Physical abuse 0.08 (0.48, 1.81) 1.14 (0.48, 1.81) < 0.01 Sexual abuse -0.04 (-2.41, 0.26) -1.08 (-2.41, 0.26) 0.13 Emotional  1.17 (0.64, 1.70) 1.17 (0.64, 1.70) < 0.001 neglect
+Physical neglect 0.04 (-0.15, 1.22) 0.54 (-0.15, 1.22) 0.13
+Boys
+Emotional abuse 0.10 (0.39, 1.48) 0.94 (0.39, 1.48) < 0.01 Physical abuse 0.08 (0.24, 1.81) 1.02 (0.24, 1.81) < 0.05 Sexual abuse -0.04 (-2.83, 0.44) -1.20 (-2.83, 0.44) 0.19 Emotional  0.13 (0.91, 2.39) 1.65 (0.91, 2.39) < 0.001 neglect
+Physical neglect 0.04 (-0.31, 1.48) 0.59 (-0.31, 1.48) 0.20 Girls
+Emotional abuse 0.12 (0.37, 1.64) 1.00 (0.37, 1.64) 0.01 Physical abuse 0.09 (0.22, 2.71) 1.46 (0.22, 2.71) 0.05 Sexual abuse -0.02 (-3.05, 1.68) -0.69 (-3.05, 1.68) 0.57 Emotional  0.07 (-0.07, 1.46) 0.70 (-0.07, 1.46) 0.12 neglect
+Physical neglect 0.03 (-0.64, 1.56) 0.46 (-0.64, 1.56) 0.51 Each subtype of childhood maltreatment was the only independent variable entered into the models. β standardized beta; b unstandard-
+ized beta; CI confdence interval. aFDR-corrected p-values. Adjusted for age, only child, family structure, family socioeconomic status, mother’s  and  father’s  educational  background,  academic  perfor- mance and aggressive behaviors as baseline confounders
+Table 5 details the TCE, NDE, NIE, and mediator propor- tion for each subtype of CM by gender. Mediation through CU traits emerged exclusively in boys exposed to emo- tional abuse and emotional neglect, accounting for 21.0% and 17.0% of the association with aggressive behaviors, respectively.
+
+n, number; %, percent; M ± SD, means and standard deviation; T1, baseline Data; T2, data measured in the second time period; T3, data measured in the third time period
+Table 2  Pearson’s correlation of the main study variables in the analytic sample 
+Variable 1 2 3 4 5 6 7
+1. Emotional abuse 1
+2. Physical abuse 0.48** 1
+3. Sexual abuse 0.20** 0.25** 1
+4. Emotional neglect 0.56** 0.36** 0.17** 1
+5. Physical neglect 0.41** 0.28** 0.28** 0.48** 1
+6. Callous-unemotional traits 0.21** 0.12** 0.07** 0.17** 0.14** 1
+7. Aggressive behaviors 0.24** 0.15** 0.01 0.20** 0.14** 0.20** 1 **p < 0.01, two-tailed
+
+Journal of Child and Family Studies (2026) 35:641–653
+647
+Table 4  The mediating role of the Callous-Unemotional traits in child maltreatment and aggressive behaviors
+Mediation Analysis Effects Estimate 95%CI confi- p- value
+dence interval
+Lower  Upper 
+bound bound 
+Total sample adjusted for  
+gender
+NIE 0.06 0.03 0.11 < 0.001 NDE 0.34 0.12 0.54 < 0.001 TCE 0.40 0.17 0.60 < 0.001 Proportion mediated 0.15 0.06 0.35 < 0.001 Boys
+NIE 0.09 0.04 0.15 < 0.001 NDE 0.33 0.05 0.64 < 0.05 TCE 0.42 0.12 0.72 < 0.01 Proportion mediated 0.21 0.09 0.68 < 0.01 Girls
+NIE 0.02 -0.03 0.08 0.42
+NDE 0.37 0.09 0.65 < 0.05 TCE 0.39 0.11 0.66 < 0.05 Proportion mediated 0.05 -0.11 0.30 0.42
+NIE, natural indirect effect; NDE, natural direct effect; TCE, total causal effect. Proportion mediated = NIE/TCE. Adjusted for age, only child, family structure, family socioeconomic status, mother’s and father’s educational background, academic performance and aggres- sive behaviors as baseline confounders. All the estimates are unstan- dardized
+Discussion
+This study aims to examine how different dimensions of CM (types, cumulative exposure, and gender) influence adoles- cent aggressive behaviors, and to investigate the mediating role of CU traits in this association, with a particular focus on gender differences in the mediating pathways. This lon- gitudinal investigation demonstrated that the impact of CM on aggressive behaviors differed according to type, cumula- tive exposure, and gender. CU traits functioned as media- tors  of  the  CM–aggression  pathway  exclusively  among boys, highlighting gender-specific mechanisms underlying this association. The results provide a basis for advancing research on causal mediation linking CM, CU traits, and aggressive behaviors.
+Childhood Maltreatment and Aggressive Behaviors
+A  significant  association  between  CM  and  aggressive behaviors emerged in this study. Consistent with the Cycle of Violence Theory, individuals exposed to CM are predis- posed to aggressive behavior later in life (Xiao et al., 2023). Emotional  numbing  and  difficulties  in  processing  fear- related emotions may contribute to the use of aggression as a form of release (Kim-Spoon et al., 2013). Furthermore, experiences of CM often engender feelings of rejection and 
+devaluation, reducing self-esteem and increasing the likeli- hood of aggression (Glaser, 2002).
+Research  has  demonstrated  that  all  categories  of  CM predict heightened risk of violent aggression during ado- lescence and adulthood (Xiao et al., 2020). In contrast, the present study identified significant associations only with emotional  abuse,  physical  abuse,  and  emotional  neglect. Such divergence may reflect variations in sample size and population characteristics. Even so, the results align with broader  conclusions  from  prior  work,  while  refining  the understanding of specific CM subtypes that contribute to aggression, thereby offering clearer directions for interven- tion among adolescents. Emotional abuse, physical abuse, and  emotional  neglect  showed  robust  correlations  with aggressive behaviors, a pattern plausibly linked to limited emotional interaction in early life. Insufficient emotional support within the family environment may lead to insecure attachment and heightened amygdala reactivity, impairing emotional regulation and exacerbating aggressive tenden- cies (Wang et al., 2020a, b; Wolf & Elklit, 2020; Xiang et al., 2020).
+Moreover, aggression severity rose with the accumula- tion of maltreatment types. This observation is consistent with prior evidence of high co-occurrence across CM forms, with up to 69% of adolescents exposed to multiple maltreat- ment experiences (Finkelhor et al., 2007). Adolescents sub- jected  to  polyvictimization  display  greater  psychological trauma and emotional distress, accompanied by an elevated likelihood of engaging in aggressive behaviors (Mitchell et al., 2020).
+Mediating Role of Callous-Unemotional Traits
+Analysis  indicated  that  CU  traits  served  as  a  mediator between CM and aggressive behavior, explaining approxi- mately 15% of the overall association. CM contributes to the development of CU traits, which subsequently heighten the likelihood of aggressive responses, consistent with the patterns  observed  in  cross-sectional  research  (Li  et  al., 2022). Unlike cross-sectional evidence, however, the pres- ent  investigation  offers  more  reliable  support  for  causal inference.  Neuroimaging  studies  have  further  identified functional  impairments  in  emotion-related  brain  regions, including the amygdala and medial ventral prefrontal cor-
+tex, among individuals exhibiting CU traits (Finger et al., 2008). Such individuals frequently display diminished sen- sitivity to the consequences of their actions for others and often interpret aggression as an acceptable strategy for con- flict resolution (Kimonis et al., 2004). Heightened anger in response to stressors may foster maladaptive coping tenden- cies, which are expressed through aggressive conduct (Carl- son et al., 2015; Del Giudice et al., 2011).
+
+3 3
+
+648 Journal of Child and Family Studies (2026) 35:641–653
+Table 5  The mediating role of the Callous-Unemotional traits in types of child maltreatment and aggressive behaviors in gender
+Mediation Analysis Effects Girls Boys 
+Estimate 95% CI p- value Estimate 95% CI p- value
+Emotional abuse
+NIE 0.04 (-0.08, 0.16) 0.44 0.20 (0.06, 0.35) < 0.01 NDE 0.96 (0.34, 1.63) < 0.01 0.74 (0.13, 1.35) < 0.05 TCE 1.00 (0.38, 1.68) < 0.001 0.94 (0.26, 1.61) 0.01 Proportion mediated 0.04 (-0.08, 0.22) 0.44 0.21 (0.08, 0.56) < 0.05 Physical abuse
+NIE 0.004 (-0.09, 0.17) 0.93 0.22 (0.04, 0.42) 0.01 NDE 1.46 (0.22, 2.54) 0.03 0.80 (-0.34, 1.90) 0.15 TCE 1.46 (0.22, 2.58) 0.02 0.02 (-0.18, 2.19) 0.09 Proportion mediated 0.003 (-0.07, 0.22) 0.94 0.21 (-0.52, 1.16) 0.09 Sexual abuse
+NIE 0.17 (-0.08, 0.53) 0.20 0.01 (-0.30, 0.28) 0.98 NDE -0.85 (-2.96, 5.06) 0.61 -1.21 (-3.03, 0.48) 0.16 TCE -0.69 (-2.70, 5.19) 0.67 -1.20 (-2.98, 0.35) 0.16 Proportion mediated -0.24 (-1.69, 1.16) 0.71 -0.01 (-0.90, 0.58) 0.95 Emotional neglect
+NIE 0.04 (-0.05, 0.18) 0.34 0.28 (0.13, 0.48) < 0.001 NDE 0.66 (-0.09, 1.45) 0.09 1.37 (0.38, 2.28) < 0.01 TCE 0.70 (-0.05, 1.47) 0.06 1.65 (0.69, 2.61) < 0.001 Proportion mediated 0.06 (-0.14, 0.81) 0.37 0.17 (0.07, 0.44) < 0.001 Physical neglect
+NIE 0.05 (-0.03, 0.18) 0.28 0.20 (0.03, 0.39) 0.01 NDE 0.41 (-0.88, 1.92) 0.53 0.39 (-0.55, 1.36) 0.38 TCE 0.46 (-0.81, 1.95) 0.48 0.59 (-0.31, 1.56) 0.20 Proportion mediated 0.11 (-1.17, 1.43) 0.64 0.35 (-2.25, 3.41) 0.21
+CI confdence interval; NIE, natural indirect effect; NDE, natural direct effect; TCE, total causal effect. Adjusted for age, only child, family structure, family socioeconomic status, mother’s and father’s educational background, academic performance and aggressive behaviors as baseline confounders. All the estimates are unstandardized; Proportion mediated = NIE/TCE
+
+
+Gender Differences
+Drawing on a representative cohort, the present investigation provides robust evidence regarding sex-related variations in the association between CM and adolescent aggressive behavior. The analysis focused on emotional abuse, yet no statistically significant gender disparity emerged. This pat- tern suggests that when adverse experiences disrupt funda- mental emotional attachments, the influence of gender roles on behavioral responses may be attenuated, and the detri- mental consequences manifest broadly in both sexes (Gallo 
+et al., 2018; Zell et al., 2015). Although the regression coef- ficient (b-value) for girls exceeded that for boys, aligning with the conclusions of Cui and Liu in 2020, interpretation requires  caution.  From  a  cultural  standpoint,  normative expectations in China often stress female attributes such as compliance and restraint, which may function as implicit behavioral boundaries (Chen & Rao, 2011). Exposure to physical  abuse,  however—a  direct  and  invasive  form  of maltreatment—can fracture these constraints, leading some girls to exhibit overt aggression in response to perceived threat or loss of control (Fanslow et al., 2022). Consequently, 
+gender-related  variations  in  aggressive  behavior  appear less a reflection of inherent differences than of interactions between socially constructed gender norms and individual coping strategies in the context of trauma. Broader, meth- odologically rigorous investigations with larger samples are needed to clarify how cultural and gender factors shape the impact of emotional abuse on adolescent aggression.
+Furthermore, in contrast to earlier investigations (Chang et al., 2021; Xie et al., 2020), the present study demonstrates that CU traits serve as a mediating factor in the pathways linking CM subtypes to aggressive behavior, with notable variation across genders. Among boys, CU traits substan- tially mediated the association between emotional neglect or  emotional  abuse  and  aggressive  conduct,  whereas  no comparable  mediation  was  evident  among  girls.  Girls with elevated CU traits appear more inclined toward indi- rect behavioral patterns rather than overt aggression, often engaging in relational aggression such as social exclusion or rumor dissemination (Centifanti et al., 2015), or presenting with conduct disorder symptoms (Goulter et al., 2017). The pattern suggests that the manifestation of CU traits is shaped by gender-specific behavioral tendencies. Mechanistically, 
+
+Journal of Child and Family Studies (2026) 35:641–653
+649
+exposure to emotional neglect or abuse during childhood may  hinder  boys’  capacity  for  effective  emotion  regula- tion, fostering emotional suppression and narrative deficits (Chung & Chen, 2017). Such suppression predisposes them to diminished guilt and empathy, intensifying CU traits and increasing susceptibility to aggressive behavior (Docherty et al., 2018). Moreover, cultural norms often position boys as future economic providers and caretakers for aging par- ents, which prompts family members to adopt stricter disci- plinary approaches and contributes to emotional regulation difficulties,  thereby  raising  the  likelihood  of  aggression (Wang, 2017). Nevertheless, harsh disciplinary practices, including physical punishment or scolding, do not directly induce  role  expectations;  rather,  they  represent  cultur- ally  embedded  parental  interpretations.  In  some  Chinese families, boys are expected to embody higher standards of character and competence, which sustains a belief in the necessity of strict discipline (Cao et al., 2025; Chao, 1994; Jin et al., 2024). Family socioeconomic conditions, level of education among family members, and urban–rural dispari- ties further shape these disciplinary approaches (Jin et al., 2024).
+The results offer an alternative theoretical lens for inter- preting the intricate mechanisms linking CM to aggressive behavior, moving beyond the generalized perspectives that have dominated prior research. More notably, the evidence supports the design of targeted interventions for boys, indi- cating that early identification and intervention addressing CU traits may disrupt the progression of aggressive ten- dencies.  This  outcome  carries  important  theoretical  and practical value for advancing gender-sensitive intervention strategies.
+Implications
+Prevention of adolescent aggressive behavior should begin with reducing the incidence of maltreatment. Pediatricians and  other  professionals  can  provide  guidance  to  family members,  promote  healthy  communication,  and  identify high-risk families (Lane, 2014). This study found that for boys, callous-unemotional traits (CU traits) serve as a medi- ating factor linking emotional abuse or neglect to aggres- sive  behavior.  This  suggests  that  interventions  targeting boys with such experiences should focus on improving their emotional recognition and empathy abilities. Consequently, alternative disciplinary strategies are essential. Strengthen- ing resilience and responsibility in boys can be achieved through positive reinforcement (Kohn, 1993), observational learning (Bandura, 1977), and open communication within the  family  (Baumrind,  1991).  Evidence  further  suggests that targeted interventions—such as tutoring and rewarding emotional skills—reduce maladaptive emotional responses 
+associated  with  CU  traits  and  enhance  empathy-related capacities (Fleming et al., 2022). Moreover, interventions emphasizing emotion recognition and “mindfulness model- ing” have demonstrated effectiveness in improving empathy and mitigating behavioral difficulties in adolescents with elevated CU traits (Dadds et al., 2012; Salekin et al., 2012).
+Limitations and Future Research
+Several limitations warrant consideration. First, unmeasured confounding  factors  may  have  influenced  the  observed associations. Second, the study population is restricted to a single middle school, which limits representativeness and raises  uncertainty  regarding  applicability  to  populations differing  in  ethnicity,  age,  or  socio-demographic  charac- teristics; broader sampling across regions is therefore rec- ommended. Third, adolescent psychological development unfolds over extended periods, whereas the limited survey window in this study precludes examination of long-term trajectories. Nonetheless, the data offer meaningful insights into early adolescent patterns, while extended longitudinal investigations are needed to clarify developmental dynam- ics. Fourth, assessments of sexual abuse may suffer from concealment bias owing to its sensitivity; future research could employ double-blind anonymous reporting systems to ensure full separation of respondent identity from data. Fifth, peer influences—including peer relationships, selec- tion, and group norms—were not evaluated, despite their potential  to  confound  associations  by  shaping  CU  traits and aggressive behaviors or to moderate the impact of fam- ily factors on overt conduct, particularly in girls (Li et al., 2022). Greater attention to peer environments is required, with  emphasis  on  group-level  processes  among  female adolescents. Sixth, data on aggressive behaviors and other variables  were  collected  exclusively  through  self-report questionnaires, a method constrained by subjective percep- tion and limited ecological validity. Incorporation of multi- informant assessments, such as parental or teacher reports, would yield a more comprehensive evaluation of behavioral expression. Finally, the mediating role of CU traits repre- sents only one dimension of the relationship between CM and aggression; additional personality characteristics merit investigation to deepen understanding of these mechanisms.
+Conclusions
+In conclusion, identifying risk factors that shape aggres- sive behavior is essential for preventing adolescent aggres- sion. Using a mediation analysis framework, the present study demonstrates that CU traits function as a mediator in the association between CM and aggression, with effects 
+
+3 3
+confined to boys exposed to emotional abuse and neglect. These results offer relevant insights for policy development and clinical practice.
+Supplementary  Information  The  online  version  contains supplementary material available at https://doi.org/10.1007/s10826-0 25-03250-5.
+Acknowledgements  We would like to express our thanks to all the researchers and participants who participated in this study for their support in data collection.
+Author Contributions  Dongxue  Zhu:  Conceptualization,  Methodol-ogy, Formal analysis, Data curation, Writing – original draft, Visual- ization. Chuchu Li: Data curation, Writing – review & editing. Fan Wang:  Methodology,  Data  curation, Writing  –  review.Yonghan  Li: Methodology, Writing – review & editing, Data curation. Mengyuan Yuan: Investigation, Methodology, Data curation. Yuan Li: Investi- gation, Methodology, Data curation. Leilei Cao: Investigation, Data curation. Shaojie Wang: Investigation, Data curation. Gengfu Wang: Investigation, Resources, Supervision, Funding acquisition. Puyu Su: Conceptualization, Investigation, Resources, Supervision, Project ad- ministration, Funding acquisition. Yuqi Kang: Conceptualization, Re- sources, Supervision, Writing – original draft, Visualization.
+Funding  This  work  was  supported  by  the  National  Natural  Sci- ence Foundation of China (grant numbers 82173539, 82204071, and 81874268).
+Data Availability  These data are not publicly available due to privacy or ethical constraints, but can be obtained from the corresponding author upon reasonable request.
+Declarations
+Ethics Approval  The study protocol was approved by the Biomedicine Ethics Committee of Anhui Medical University (ethical approval no. 20180083).
+Informed Consent  Written informed consent was obtained from all participants and their parents prior to participation.
+Conflict of interest  The authors declare no competing interests.
+References
+Aitken, Z., Bishop, G. M., Disney, G., Emerson, E., & Kavanagh, A. 
+M. (2022). Disability-related inequalities in health and well-being are mediated by barriers to participation faced by people with dis-ability. A causal mediation analysis. Social Science & Medicine, 315, 115500. https://doi.org/10.1016/j.socscimed.2022.115500
+Bandura, A., & Walters, R. H. (1977). Social learning theory (Vol. 1). 
+Prentice hall Englewood Cliffs, NJ.
+Barzilay, S., Brunstein Klomek, A., Apter, A., Carli, V., Wasserman, 
+C., Hadlaczky, G., Hoven, C. W., Sarchiapone, M., Balazs, J., Kereszteny, A., Brunner, R., Kaess, M., Bobes, J., Saiz, P., Cos-man, D., Haring, C., Banzer, R., Corcoran, P., Kahn, J. P., Postu- van, V., Podlogar, T., Sisask, M., Varnik, A., & Wasserman, D. (2017). Bullying victimization and suicide ideation and behavior among adolescents in europe: A 10-Country study. The Journal of 
+Adolescent Health, 61(2), 179–186. https://doi.org/10.1016/j.jad 
+o health.2017.02.002
+Baumrind, D. (1991). The influence of parenting style on adolescent 
+competence and substance use.  The Journal of Early Adoles- cence, 11, 56-95. http://dx.doi.org/10.1177/0272431691111004. https://doi.org/10.1177/0272431691111004} 
+Bernstein, D. (1998). Childhood trauma questionnaire: A retrospective 
+self-report manual. The Psychological Corporation.
+Bernstein, D. P., Stein, J. A., Newcomb, M. D., Walker, E., Pogge, 
+D., Ahluvalia, T., Stokes, J., Handelsman, L., Medrano, M., Des- mond, D., & Zule, W. (2003). Development and validation of a brief screening version of the childhood trauma questionnaire. Child Abuse & Neglect, 27(2), 169–190. https://doi.org/10.1016/ s0145-2134(02)00541-0
+Bettencourt, B. A., & Miller, N. (1996). Gender differences in aggres-
+sion as A function of provocation: A meta-analysis. Psychological Bulletin, 119(3), 422–447. https://doi.org/10.1037/0033-2909.11 9.3.422
+Buss, A. H., & Perry, M. (1992). The aggression questionnaire. Jour-
+nal of Personality and Social Psychology, 63(3), 452–459. https: //doi.org/10.1037/0022-3514.63.3.452
+Caldwell, B. M., Anderson, N. E., Harenski, K. A., Sitney, M. H., 
+Caldwell, M. F., Van Rybroek, G. J., & Kiehl, K. A. (2019). The structural brain correlates of callous-unemotional traits in incar- cerated male adolescents. NeuroImage Clinical, 22, 101703. http s://doi.org/10.1016/j.nicl.2019.101703
+Cao, H., Zhou, N., Wang, Y., & Liu, Y. (2025). Parental social com-
+parison shaming hinders Chinese adolescents’ presence of life 
+meaning through thwarting satisfaction of need for Competence, 
+especially for those endorsing reciprocal filial piety. Child Devel-
+opment, 96(5), 1700–1717. https://doi.org/10.1111/cdev.70000
+Cao, L., Wang, S., Li, Y., Li, Y., Yuan, M., Chang, J., Wang, G., & Su, 
+P. (2023). Longitudinal trajectories of sleep quality in correlation with maltreatment in early childhood: A cohort of Chinese early adolescents. Journal of Affective Disorders, 340, 462–470. https: //doi.org/10.1016/j.jad.2023.08.057
+Carlson, M., Oshri, A., & Kwon, J. (2015). Child maltreatment and 
+risk behaviors: The roles of callous/unemotional traits and con- scientiousness. Child Abuse & Neglect, 50, 234–243. https://doi.o rg/10.1016/j.chiabu.2015.07.003
+Centifanti, L. C., Fanti, K. A., Thomson, N. D., Demetriou, V., & 
+Anastassiou-Hadjicharalambous, X. (2015). Types of relational aggression  in  girls  are  differentiated  by  Callous-Unemotional Traits, peers and parental overcontrol. Behavioral Science, 5(4), 518–536. https://doi.org/10.3390/bs5040518
+Chang, S., Hou, Q., Wang, C., Wang, M., Wang, L., & Zhang, W. 
+(2021). Childhood maltreatment and violent delinquency in Chi- nese juvenile offenders: Callous-unemotional traits as a mediator. Child Abuse & Neglect, 117, 105085. https://doi.org/10.1016/j.c hiabu.2021.105085
+Chao, R. K. (1994). Beyond parental control and authoritarian parent-
+ing style: Understanding Chinese parenting through the cultural notion of training. Child Development, 65(4), 1111–1119. https:// doi.org/10.1111/j.1467-8624.1994.tb00806.x
+Chen, E. S., & Rao, N. (2011). Gender socialization in Chinese kinder-
+gartens: Teachers’ contributions. Sex Roles, 64(1–2), 103–116. ht tps://doi.org/10.1007/s11199-010-9873-4
+Cho, M. (2019). A prospective, longitudinal cohort study: The impact 
+of child maltreatment on delinquency among South Korean youth in middle and high school. Child Abuse & Neglect, 88, 235–245. https://doi.org/10.1016/j.chiabu.2018.11.021
+Chung, M. C., & Chen, Z. S. (2017). Child abuse and psychiatric Co-
+morbidity among Chinese adolescents: Emotional processing as mediator and PTSD from past trauma as moderator. Child Psy- chiatry and Human Development, 48(4), 610–618. https://doi.org /10.1007/s10578-016-0687-7
+
+Journal of Child and Family Studies (2026) 35:641–653
+651
+Chung, M. C., & Chen, Z. S. (2020). Gender differences in child 
+Abuse, emotional processing Difficulties, Alexithymia, psycho- logical symptoms and behavioural problems among Chinese ado-lescents. The Psychiatric Quarterly, 91(2), 321–332. https://doi.o rg/10.1007/s11126-019-09700-w
+Crick, N. R., Ostrov, J. M., & Werner, N. E. (2006). A longitudinal 
+study of relational aggression, physical aggression, and children’s social-psychological adjustment. Journal of Abnormal Child Psy- chology, 34(2), 131–142. https://doi.org/10.1007/s10802-005-90 09-4
+Cui,  N.,  &  Liu,  J.  (2020).  Physical Abuse,  emotional Abuse,  and 
+neglect and childhood behavior problems: A Meta-Analysis of studies in Mainland China. Trauma Violence & Abuse, 21(1), 206–224. https://doi.org/10.1177/1524838018757750
+Dackis, M. N., Rogosch, F. A., & Cicchetti, D. (2015). Child maltreat-
+ment,  callous-unemotional  traits,  and  defensive  responding  in high-risk children: An investigation of emotion-modulated startle response. Development and Psychopathology, 27(4), 1527–1545. https://doi.org/10.1017/s0954579415000929
+Dadds, M. R., Cauchi, A. J., Wimalaweera, S., Hawes, D. J., & Bren-
+nan, J. (2012). Outcomes, moderators, and mediators of empathic-emotion recognition training for complex conduct problems in childhood. Psychiatry Research, 199(3), 201–207. https://doi.org /10.1016/j.psychres.2012.04.033
+Debowska, A., Willmott, D., Boduszek, D., & Jones, A. D. (2017). 
+What do we know about child abuse and neglect patterns of co-occurrence? A systematic review of profiling studies and rec- ommendations for future research. Child Abuse & Neglect, 70, 100–111. https://doi.org/10.1016/j.chiabu.2017.06.014
+Del Giudice, M., Ellis, B. J., & Shirtcliff, E. A. (2011). The adaptive 
+calibration model of stress responsivity. Neuroscience and Biobe-havioral Reviews, 35(7), 1562–1592. https://doi.org/10.1016/j.ne ubiorev.2010.11.007
+Dileo, J. F., Brewer, W., Northam, E., Yucel, M., & Anderson, V. (2017). 
+Investigating the neurodevelopmental mediators of aggression in children with a history of child maltreatment:an exploratory field study. Child  neuropsychology, 23(6), 655–677. https://doi.org/1 0.1080/09297049.2016.1186159
+Docherty, M., Kubik, J., Herrera, C. M., & Boxer, P. (2018). Early mal-
+treatment is associated with greater risk of conduct problems and lack of guilt in adolescence. Child Abuse & Neglect, 79, 173–182. https://doi.org/10.1016/j.chiabu.2018.01.032
+Dong, Y., Liu, F., Jiang, Y., & Wei, S. (2022). Neuroticism and aggres-
+sive behavior among Left-Behind children: The mediating roles of interpersonal sensitivity and bullying victimization. Interna- tional Journal of Environmental Research and  public Health, 19(17). https://doi.org/10.3390/ijerph191711072
+Elgar, F. J., McKinnon, B., Walsh, S. D., Freeman, J., Donnelly, D., 
+de Matos, P., Gariepy, M. G., Aleman-Diaz, G., Pickett, A. Y., Molcho, W., & Currie, M., C (2015). Structural determinants of youth bullying and fighting in 79 countries. Journal of Adolescent Health, 57(6), 643–650. https://doi.org/10.1016/j.jadohealth.201 5.08.007
+English, D. J., Upadhyaya, M. P., Litrownik, A. J., Marshall, J. M., 
+Runyan, D. K., Graham, J. C., & Dubowitz, H. (2005). Maltreat- ment’s  wake: The  relationship  of  maltreatment  dimensions  to child outcomes. Child Abuse & Neglect, 29(5), 597–619. https://d 
+o i.org/10.1016/j.chiabu.2004.12.008
+Fanslow, J. L., Hashemi, L., Gulliver, P., & McIntosh, T. (2022). Gen-
+der patterns in the use of physical violence against a violent part- ner: Results of a Cross-Sectional Population-Based study in new Zealand. Journal of Interpersonal Violence, 37, 23–24. https://do i.org/10.1177/08862605211073094. Np22890-np22920.
+Finger, E. C., Marsh, A. A., Mitchell, D. G., Reid, M. E., Sims, C., Budhani, S., Kosson, D. S., Chen, G., Towbin, K. E., Leibenluft, 
+E., Pine, D. S., & Blair, J. R. (2008). Abnormal ventromedial 
+prefrontal cortex function in children with psychopathic traits during reversal learning. Archives of General Psychiatry, 65(5), 586–594. https://doi.org/10.1001/archpsyc.65.5.586
+Finkelhor, D., Ormrod, R. K., & Turner, H. A. (2007). Poly-victimiza-
+tion: A neglected component in child victimization. Child Abuse 
+& Neglect, 31(1), 7–26. https://doi.org/10.1016/j.chiabu.2006.06 
+. 008
+Fitton, L., Yu, R., & Fazel, S. (2020). Childhood maltreatment and 
+violent outcomes: A systematic review and Meta-Analysis of pro- spective studies. Trauma Violence Abuse, 21(4), 754–768. https:/ /doi.org/10.1177/1524838018795269
+Fleming, G. E., Neo, B., Briggs, N. E., Kaouar, S., Frick, P. J., & Kimo-
+nis, E. R. (2022). Parent training adapted to the needs of children with Callous-Unemotional traits: A randomized controlled trial. Behavioral Therapy, 53(6), 1265–1281. https://doi.org/10.1016/ j.beth.2022.07.001
+Frick, P. J., Ray, J. V., Thornton, L. C., & Kahn, R. E. (2014). Can 
+callous-unemotional traits enhance the understanding, diagnosis, and treatment of serious conduct problems in children and adoles- cents? A comprehensive review. Psychological Bulletin, 140(1), 1–57. https://doi.org/10.1037/a0033076
+Frick, P. J., & White, S. F. (2008). Research review: The importance of 
+callous-unemotional traits for developmental models of aggres- sive and antisocial behavior. Journal of Child Psychology and Psychiatry, 49(4), 359–375. https://doi.org/10.1111/j.1469-7610 
+. 2007.01862.x
+Gallo, E. A. G., Munhoz, T. N., de Mola, L., C., & Murray, J. (2018). 
+Gender differences in the effects of childhood maltreatment on adult depression and anxiety: A systematic review and meta-anal- ysis. Child Abuse & Neglect, 79, 107–114. https://doi.org/10.101 6/j.chiabu.2018.01.003
+Glaser, D. (2002). Emotional abuse and neglect (psychological mal-
+treatment): A  conceptual  framework.  Child Abuse  &  Neglect, 26(6–7),  697–714.  https://doi.org/10.1016/s0145-2134(02)0034 2-3
+Goulter, N., Kimonis, E. R., Hawes, S. W., Stepp, S., & Hipwell, A. E. 
+(2017). Identifying stable variants of callous-unemotional traits: 
+A longitudinal study of at-risk girls. Developmental Psychology, 
+53(12), 2364–2376. https://doi.org/10.1037/dev0000394
+Grogan-Kaylor, A., Ruffolo, M. C., Ortega, R. M., & Clarke, J. (2008). 
+Behaviors of youth involved in the child welfare system. Child 
+Abuse & Neglect, 32(1), 35–49. https://doi.org/10.1016/j.chiabu 
+. 2007.09.004
+Gruhn, M. A., & Compas, B. E. (2020). Effects of maltreatment on coping and emotion regulation in childhood and adolescence: A meta-analytic review. Child Abuse & Neglect, 103, 104446. https ://doi.org/10.1016/j.chiabu.2020.104446
+Haahr-Pedersen, I., Ershadi, A. E., Hyland, P., Hansen, M., Perera, 
+C., Sheaf, G., Bramsen, R. H., Spitz, P., & Vallières, F. (2020). Polyvictimization and psychopathology among children and ado- lescents: A systematic review of studies using the juvenile victim- ization questionnaire. Child Abuse & Neglect, 107, 104589. https: //doi.org/10.1016/j.chiabu.2020.104589
+He, J., Zhong, X., Gao, Y., Xiong, G., & Yao, S. (2019). Psychomet-
+ric properties of the Chinese version of the childhood trauma Questionnaire-Short form (CTQ-SF) among undergraduates and depressive patients. Child Abuse & Neglect, 91, 102–108. https:// doi.org/10.1016/j.chiabu.2019.03.009
+He, N., & Xiang, Y. (2021). How child maltreatment impacts inter-
+nalized/externalized aggression among Chinese adolescents from perspectives  of  social  comparison  and  the  general  aggression model. Child Abuse & Neglect, 117, 105024. https://doi.org/10.1 016/j.chiabu.2021.105024
+Hipwell, A. E., Pardini, D. A., Loeber, R., Sembower, M., Keenan, K., 
+& Stouthamer-Loeber, M. (2007). Callous-Unemotional behav- iors in young girls: Shared and unique effects relative to conduct 
+
+3 3
+problems. Journal of Clinical Child & Adolescent Psychology, 
+36(3), 293–304. https://doi.org/10.1080/15374410701444165
+Howell, K. H., Cater, Å., Miller-Graff, K., Schwartz, L. E., L. E., & 
+Graham-Bermann, S. A. (2017). The relationship between types 
+of  childhood  victimisation  and  young  adulthood  criminality. 
+Criminal Behaviour and Mental Health, 27(4), 341–353. https:// 
+doi.org/10.1002/cbm.2002
+Hussey, J. M., Chang, J. J., & Kotch, J. B. (2006). Child maltreatment 
+in the united states: prevalence, risk factors, and adolescent health consequences. Pediatrics, 118(3), 933–942. https://doi.org/10.15 42/peds.2005-2452
+Jin, R., Liu, N., Zhou, H., & Zhao, M. (2024). Impact of provincial 
+income inequality on parenting styles in China during COVID- 19. Behavioral Sciences (Basel Switzerland), 14(7), 587. https://d 
+o i.org/10.3390/bs14070587
+Kimonis, E. R., Cross, B., Howard, A., & Donoghue, K. (2013). Mater-
+nal  care,  maltreatment  and  callous-unemotional  traits  among 
+urban male juvenile offenders. Journal of Youth and Adolescence, 
+42(2), 165–177. https://doi.org/10.1007/s10964-012-9820-5
+Kimonis, E. R., Frick, P. J., & Barry, C. T. (2004). Callous-unemo-
+tional traits and delinquent peer affiliation. Journal of Consulting 
+and Clinical Psychology, 72(6), 956–966.
+Kim-Spoon, J., Cicchetti, D., & Rogosch, F. A. (2013). A longitudinal study of emotion Regulation, emotion Lability-Negativity, and internalizing symptomatology in maltreated and nonmaltreated children. Child Development, 84(2), 512–527. https://doi.org/10 
+. 1111/j.1467-8624.2012.01857.x
+Klika, J. B., Herrenkohl, T. I., & Lee, J. O. (2013). School factors 
+as moderators of the relationship between physical child abuse and pathways of antisocial behavior. Journal of Interpersonal Violence, 28(4), 852–867. https://doi.org/10.1177/08862605124 55865
+Kohn, A., & Kohn, A. (1993). Punished by rewards.
+Lane, W. G. (2014). Prevention of child maltreatment. Pediatric Clin-
+ics of North America, 61(5), 873–888. https://doi.org/10.1016/j.p cl.2014.06.002
+Le, D. T., Huynh, S. V., Vu, T. V., Dang-Thi, N. T., Nguyen-Duong, B. 
+T., Duong, K. A., Mai, T. N., Huynh, T. N., Mai, P. T., & Tran-Chi, V. L. (2023). Personality traits and aggressive behavior in Vietnamese  adolescents.  Psychology  Research  and  Behavior Management, 16, 1987–2003. https://doi.org/10.2147/PRBM.S4 05379
+Li, W., Yang, J., Gao, L., & Wang, X. (2022). Childhood maltreat-
+ment and adolescents’ aggression: A moderated mediation model of Callous-Unemotional traits and friendship quality. Child Mal- treatment, 27(4), 683–692. https://doi.org/10.1177/10775595211 046550
+Mitchell, K. J., Moschella, E. A., Hamby, S., & Banyard, V. (2020). 
+Developmental stage of Onset, Poly-Victimization, and persis- tence of childhood victimization: Impact on adult Well-Being in a rural Community-Based study. Child Maltreatment, 25(1), 20–31. https://doi.org/10.1177/1077559519859080
+Moylan, C. A., Herrenkohl, T. I., Sousa, C., Tajima, E. A., Herrenkohl, 
+R. C., & Russo, M. J. (2010). The effects of child abuse and expo- sure to domestic violence on adolescent internalizing and exter- nalizing behavior problems. Journal of Family Violence, 25(1), 53–63. https://doi.org/10.1007/s10896-009-9269-9
+Navarro, R., Larrañaga, E., Yubero, S., & Víllora, B. (2022). Families, 
+parenting and aggressive preschoolers: A scoping review of stud-
+ies examining family variables related to preschool aggression. 
+International  Journal  of  Environmental  Research  and  Public 
+Health, 19(23), 15556. https://doi.org/10.3390/ijerph192315556Park, S., Chiu, W., & Won, D. (2017). Effects of physical education, 
+extracurricular sports activities, and leisure satisfaction on ado-
+lescent aggressive behavior: A latent growth modeling approach. 
+PLoS One, 12(4), e0174674. https://doi.org/10.1371/journal.pon e.0174674
+Postlethwait, A. W., Barth, R. P., & Guo, S. (2010). Gender variation 
+in delinquent behavior changes of child welfare-involved youth. Children and Youth Services Review, 32(3), 318–324.
+Salekin, R. T., Tippey, J. G., & Allen, A. D. (2012). Treatment of con-
+duct problem youth with interpersonal callous traits using mental 
+models: Measurement of risk and change. Behavioral Sciences & 
+the Law, 30(4), 470–486. https://doi.org/10.1002/bsl.2025
+Sanders, M. T., Bierman, K. L., & Heinrichs, B. S. (2020). Longitu-
+dinal associations linking elementary and middle school contexts 
+with student aggression in early adolescence. Journal of abnor-
+mal  child  psychology, 48(12), 1569–1580. https://doi.org/10.10 
+07/s10802-020-00697-6
+Singh, A., Contreras Suarez, D., You, E., Fleitas Alfonzo, L., & King, 
+T.  (2021).  Role  of  social  support  in  the  relationship  between financial hardship and multimorbidity—a causal mediation anal- ysis. European Journal of Public Health, 31(3), 482–487. https:// doi.org/10.1093/eurpub/ckab015
+Small, E., Kim, Y. K., & Mengo, C. (2017). Aggression behavior 
+and substance use among immigrant children: Mediating effect 
+of antisocial attitudes. Journal of Ethnicity in Substance Abuse, 
+16(1), 3–22. https://doi.org/10.1080/15332640.2015.1077761
+Smith, C. A., Ireland, T. O., & Thornberry, T. P. (2005). Adolescent 
+maltreatment and its impact on young adult antisocial behavior. 
+Child Abuse & Neglect, 29(10), 1099–1119. https://doi.org/10.10 
+16/j.chiabu.2005.02.011
+Soares, A. G., Howe, L. D., Heron, J., Hammerton, G., Rich-Edwards, 
+J., Magnus, M. C., Halligan, S. L., & Fraser, A. (2022). How does childhood maltreatment influence cardiovascular disease? A sequential causal mediation analysis. International Journal of Epidemiology, 51(2), 555–566. https://doi.org/10.1093/ije/dyab0 85
+Stoltenborgh, M., Bakermans-Kranenburg, M. J., Alink, L. R. A., & 
+van IJzendoorn, M. H. (2015). The prevalence of child maltreat- ment across the globe: Review of a series of Meta-Analyses. Child Abuse Review, 24(1), 37–50. https://doi.org/10.1002/car.2 353
+Su, P. Y., Han, A. Z., Wang, G. F., Wang, L. H., Zhang, G. B., Xu, 
+N., & Xu, G. (2018). Is childhood maltreatment associated with murderous ideation and behaviors in adolescents in china? Psy- chiatry Research, 270, 467–473. https://doi.org/10.1016/j.psychr es.2018.10.024
+Todorov, J. J., Devine, R. T., & De Brito, S. A. (2023). Association 
+between childhood maltreatment and callous-unemotional traits in  youth:  A  meta-analysis.  Neuroscience  and  Biobehavioral Reviews, 146, 105049. https://doi.org/10.1016/j.neubiorev.2023. 105049
+Van der Put, C. E., Lanctôt, N., de Ruiter, C., & van Vugt, E. (2015). 
+Child maltreatment among Boy and Girl probationers: Does type of maltreatment make a difference in offending behavior and psy- chosocial problems? Child Abuse & Neglect, 46, 142–151. https: //doi.org/10.1016/j.chiabu.2015.05.012
+Van Geel, M., Goemans, A., & Vedder, P. H. (2016). The relation 
+between peer victimization and sleeping problems: A meta-anal- ysis. Sleep Medicine Reviews, 27, 89–95. https://doi.org/10.1016 /j.smrv.2015.05.004
+Van Wert, M., Mishna, F., Trocmé, N., & Fallon, B. (2017). Which 
+maltreated children are at greatest risk of aggressive and crimi- nal behavior? An examination of maltreatment dimensions and cumulative risk. Child Abuse & Neglect, 69, 49–61. https://doi.or g/10.1016/j.chiabu.2017.04.013
+Verrecchia,  P.  J.,  Fetzer,  M.  D.,  Lemmon,  J.  H.,  & Austin,  T.  L. 
+(2010). An examination of direct and indirect effects of maltreat- ment dimensions and other ecological risks on persistent youth 
+
+Journal of Child and Family Studies (2026) 35:641–653
+653
+offending. Criminal Justice Review, 35, 220–243. https://doi.org/ 10.1177/0734016809360327
+Wang, L., Cheng, H., Qu, Y., Zhang, Y., Cui, Q., & Zou, H. (2020a). 
+The prevalence of child maltreatment among Chinese primary and middle school students: A systematic review and meta-anal- ysis.  Social  Psychiatry  and  Psychiatric  Epidemiology,  55(9), 1105–1119. https://doi.org/10.1007/s00127-020-01916-7
+Wang, M. (2017). Harsh parenting and peer acceptance in Chinese 
+early adolescents: Three child aggression subtypes as mediators and child gender as moderator. Child Abuse & Neglect, 63, 30–40. https://doi.org/10.1016/j.chiabu.2016.11.017
+Wang, M. C., Shou, Y., Liang, J., Lai, H., Gao, Y., Cheng, L., & Zeng, 
+H. (2020). Further validation of the Inventory of Callous-Unemo- tional Traits in Chinese: Cross-informants invariance and longi-tudinal invariance. Assessment, 27,1668–1680. https://doi.org/10 
+. 1177/1073191119845052 
+Wang, S., Xu, H., Zhang, S., Wan, Y., & Tao, F. (2020b). Mediating 
+effects of self-esteem in the relationship between childhood mal-
+treatment and non-suicidal self-injury among adolescents: The 
+roles of sex and only-child status. Social Science & Medicine, 
+249, 112847. https://doi.org/10.1016/j.socscimed.2020.112847 Wolf, N. M., & Elklit, A. (2020). Child maltreatment and disordered 
+eating in adulthood: A mediating role of PTSD and Self-Esteem? 
+Journal of Child & Adolescent Trauma, 13(1), 21–32. https://doi. 
+o rg/10.1007/s40653-018-0224-x
+Xiang, Y., Chen, Z., & Zhao, J. (2020). How childhood maltreatment impacts aggression from perspectives of social comparison and resilience framework theory. Journal of Aggression Maltreatment 
+& Trauma, 29(9), 1113–1124. https://doi.org/10.1080/10926771. 2019.1685046
+Xiao, D., Wang, T., Huang, Y., Wang, W., Zhao, M., Zhang, W. H., 
+Guo, L., & Lu, C. (2020). Gender differences in the associations between types of childhood maltreatment and sleep disturbance among Chinese adolescents. Journal of Affective Disorders, 265, 595–602. https://doi.org/10.1016/j.jad.2019.11.099
+Xiao, Y., Ran, H., Che, Y., Fang, D., Wang, S., Chen, L., Liang, X., Peng, J., Sun, H., Li, Q., Shi, Y., & Lu, J. (2023). Childhood 
+maltreatment and parenting style associated school bullying in Chinese children and adolescents: An analytical epidemiology evidence. Journal of Affective Disorders, 331, 386–392. https:// doi.org/10.1016/j.jad.2023.02.153
+Xie, Q., Bi, T., Du, Y., Kou, H., & Yang, B. (2020). Childhood mal-
+treatment  is  associated  with  aggression  among  male  juvenile delinquents in china: The mediating effects of Callous-Unemo- tional traits and Self-Control. Frontiers in Psychology, 11, 1373. https://doi.org/10.3389/fpsyg.2020.01373
+Xing, X., Wang, M., Zhang, Q., He, X., & Zhang, W. (2011). Gender 
+differences in the reciprocal relationships between parental physi- cal aggression and children’s externalizing problem behavior in China. Journal of Family Psychology, 25(5), 699–708. https://do i.org/10.1037/a0025015
+Zell, E., Krizan, Z., & Teeter, S. R. (2015). Evaluating gender similari-
+ties and differences using metasynthesis. The American Psycholo- gist, 70(1), 10–20. https://doi.org/10.1037/a0038208
+Zhang, W., Cao, C., Wang, M., Ji, L., & Cao, Y. (2016). Monoamine 
+oxidase A (MAOA) and Catechol-O-Methyltransferase (COMT) gene polymorphisms interact with maternal parenting in associa- tion with adolescent reactive aggression but not proactive aggres- sion: Evidence of differential susceptibility. Journal of Youth and Adolescence, 45(4), 812–829. https://doi.org/10.1007/s10964-01 6-0442-1
+Publisher’s Note  Springer Nature remains neutral with regard to juris- dictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+
+3 3
+Journal of Child and Family Studies (2026) 35:641–653
+653
+Authors and Affiliations
+DongxueZhu1,2· ChuchuLi1· FanWang1· YonghanLi1· MengyuanYuan1· YuanLi1· LeileiCao1· ShaojieWang1· GengfuWang1,3,4· PuyuSu1,3,4 · YuqiKang5
+  Puyu Su 3 Key Laboratory of Population Health Across Life Cycle supuyu@ahmu.edu.cn (Anhui Medical University), Ministry of Education of the 
+People’s Republic of China, No 81 Meishan Road,  
+  Yuqi Kang
+Hefei 230032, Anhui, China
+kangyuqi@163.com
+4 NHC Key Laboratory of study on abnormal gametes and 
+1	 School of Public Health, Anhui Medical University, No 81  reproductive tract, No 81 Meishan Road, Hefei 230032, Meishan Road, Hefei 230032, Anhui, China Anhui, China
+2	 Taicang Loujiang New Town Hospital (Ruijin Branch), No.  5 Ningxia Rehabilitation Medical Center, People’s Hospital of 666 Shanghai East Road, Taicang City 215400, Jiangsu,  Ningxia Hui Autonomous Region, No.301 Zhengyuan North China Street, Yinchuan 750002, Ningxia, China
+ 

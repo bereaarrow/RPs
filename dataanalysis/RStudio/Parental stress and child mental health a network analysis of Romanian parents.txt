@@ -1,0 +1,307 @@
+﻿ith parent-child relationship (Chung et al., 2020).
+*  Ionuț Stelian Florean 
+stelianflorean@psychology.ro
+Currently, it is critical to examine parental stress, as families worldwide face a variety of stressors that compro- mise their well-being. Research indicates that COVID-19 pandemic has been associated with an increase in parental stress as a result of the accumulation of stressors (Brown et al., 2020) that, consequently, will lead to an increase in adverse childhood experiences (Calvano et al., 2021). Dur- ing the COVID-19 pandemic, parent stress is significantly 
+1 Department of Clinical Psychology and Psychotherapy, 
+Babeș-Bolyai University, Cluj-Napoca, Romania 2 The International Institute fortheAdvanced Studies 
+ofPsychotherapy andApplied Mental Health, Babeș-Bolyai 
+University, Republicii St., No. 37, 400015Cluj-Napoca, Romania
+Current Psychology (2023) 42:24275–24287 
+https://doi.org/10.1007/s12144-022-03520-1
+
+Parental stress andchild men tal health: anet work analysis ofRomanian par ents
+Costina‑RuxandraPăsărelu1,2  · AncaDobrean1,2  · IonuțStelianFlorean1,2  · ElenaPredescu Iuliu Hațieganu University ofMedicine andPharmacology, 
+ClujNapoca, Romania
+related to child abuse potential and parental distress (anxiety, 
+ 
+Accepted: 17 July 2022 / Published online: 4 August 2022 
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2022
+Abstract
+Parental stress is related to child mental health problems, with numerous evidence indicating that it is an important predictor of parenting and parent-child relationship. New approaches to psychopathology could be particularly informative for clinical research, however, there is limited research that employs network analysis with parents. Network analysis could contribute to a better understanding of the relationship between child mental health problems and parental stress by highlighting the most central nodes and how the two constructs influence each other. The scope of the study was to identify potential new intervention targets to reduce the mental health problems of children and prevent contagion between parent stress and child psychopathology. Furthermore, we also sought to test whether the dynamic between parental stress and child psychopathology differs across the level of parent stress and child total difficulties. In this endeavor, we had three main directions. First, we estimated a network at the level of child mental health problems and identified the most central nodes. Second, we mapped the main paths through which parent stress and child mental health problems communicate with each other. Third, we investigated the network invariance across the level of parent stress (high vs moderate) and child mental health problems (low vs. high total difficulties). Participants (N = 1014) were parents of children with ages between four and 17 years old. The analyses were conducted in RStudio. Results indicated that perceived coping was a central node, bridging the two constructs. The global strength of the network was higher for parents who reported high levels of stress compared to those who reported only moderate levels of stress. In contrast, we found that the global strength of thenetwork was lowerfor children with high levels of total difficultiescompared to those withlow levels of total difficulties. In conclusion, we argue the importance of focusing on the targeting nodes with high bridge centrality, such as perceived coping, for designing prevention and intervention programs. Future research should use temporal dynamics between parental stress and child mental health problems and explore mechanisms between the two constructs.
+Keywords child· mental health· network analysis· parent· stress
+
+4 4
+Introduction
+Perceived stress represents the appraisal of situations as stressful and not having the resources to face the condition (Lazarus and Folkman, 1984). There is extensive research 
+documenting that parents report increased stress compared to adults without children (American Psychiatric Association, 2020). Parental stress is an important predictor of parenting and parent-child relationship. Namely, increased parental stress is associated with negative parenting practices (e.g., corporal punishment) (Liu & Wang, 2015) and negatively associated 
+
+3 3
+depressive symptoms, and sleep problems) (Brown et al., 2020). However, during the COVID-19 pandemic, parental stress increased and has not reverted to pre-pandemic val- ues (Adams et al., 2021), with one in five parents reporting a high level of stress, an aspect that indicates the need for more research conducted to reduce the deleterious effects.
+Parent stress andmental health issues inchildren
+Given the increased levels of stress in parents, it is highly important to investigate how parental stress is related to child mental health. Numerous studies have established a strong link between parent mental health (anxiety, depression), stress and child psychopathology. There is evidence from research conducted with both nonclinical and clinical samples that indicates that child internalizing and externalizing problems are related to parents' stress. Namely, during the COVID-19 pandemic, parental anxiety, depressive symptoms, and stress have been associated with internalizing and externalizing problems in children and adolescents (Barry et al., 2005; Jones et al., 2021; Khoury et al., 2021; Whittle et al., 2020).
+In a study that uses a transactional perspective on par- ent stress and child behavior problems, the results indicate bidirectionality between parental stress and externalizing problems (Stone et al., 2016). In a longitudinal study, mater- nal daily stress was related to psychological problems of children during the pandemic (Köhler-Dauner et al., 2021). Namely, children had higher emotional and hyperactivity problems during the pandemic if their mothers’ level of stress was high. Another study conducted with Italian par- ents indicated that parental stress was a significant predic- tor of externalizing problems during the COVID pandemic (Giannotti etal., 2021). In a sample of Turkish caregivers of primary school children, parental stress was related to psy- chological problems in children after the start of COVID-19 pandemic (attention problems, anhedonia, gets angry easily, sleeping problems) (Büber & Aktaş Terzioğlu, 2021).
+Jones et al. (2021) explored the potential mechanisms by which parental stress is related to child outcomes and indicates that family conflict mediates the relationship between parental stress and child outcomes. Parental stress is related to parental hostility during the COVID-19 pandemic, which was a signifi- cant predictor of changes in externalizing problems between before and during the pandemic (Khoury etal., 2021). Parental stress is associated with parental anxiety or depressive symp- toms, which in turn, make parents unresponsive to children’s needs and can result in negative parenting practices, which are risk factors for child internalizing problems (Bayer etal., 2006).
+Though there is extensive evidence concerning the rela- tionship between stress in parents and psychopathology in children, contrasting results come from the literature 
+especially in what regards several moderators of this asso- ciation (e.g., male groups, clinical samples). For instance, a meta-analysis indicated that parenting stress is more related to child externalizing than internalizing difficulties (Barroso et al., 2018).
+Network approach topsychopathology
+New developments that differ from categorical or dimensional approaches to mental health, such as the network approach to psychopathology (Borsboom & Cramer, 2013) can have important clinical implications in investigating the relationship between parental stress and child psychological problems. As part of a larger paradigm change in the field of psychiatry, network analysis has played a key role. Rather than considering disorders as latent sources of symptoms, a network approach to psychopathology considers disorders as being composed of symptoms that cause and interact directly with one another rather than disorders entities (Borsboom 
+& Cramer, 2013). Network analysis allows us to identify system components (nodes) and unique relationships between variables (edges, associations between nodes) (Borsboom et al., 2021). Moreover, network analysis can be used to identify the central symptoms of a psychological construct, that could be regarded as primary targets in prevention and treatment.
+In recent years, there has been an increase in research using network approaches for a wide variety of conditions and  populations  (McNally,  2021).  This  approach  is particularly useful and does not rely on an a priori model of the cause-and-effect relationship between parental stress and child psychopathology. However, network analysis could contribute to a better understanding of the relationship between child mental health problems and parental stress by highlighting the most central nodes and how the two constructs influence each other. Furthermore, through the identification of nodes, we can inform prevention and intervention programs for children mental health problems.
+Limited research is done using a network approach conducted with parents. Namely, we were able to identify very few studies that used network analysis to elucidate the symptoms of posttraumatic stress disorders after parental bereavement in a sample of Chinese parents (Eli et al., 2021), or to examine parental burnout (Blanchard et al., 2021; Kalkan et al., 2022). Research that uses a network approach to elucidate the interplay between different variables and parental stress is scarce. So far, few studies have been conducted that used a network approach to provide information on the unique connections between parenting stress and loneliness (Skjerdingstad et al., 2021) where feeling worthless was the most central node that connected parenting stress with loneliness. A network 
+
+
+Current Psychology (2023) 42:24275–24287 
+approach was also used to discover the dynamic within maternal and paternal stress (Hukkelberg & Nærde, 2021). Therefore, given the advantages offered by using a network approach to identify unique hallmarks of the relationship between parental stress and child mental health problems, and the scarcity of research on this relationship, our aim was to provide a unique perspective on the relationship between parent stress and child mental health problems.
+Even though evidence-based treatment for child mental health problems exists, parent-related variables (e.g., parent stress) can influence treatment outcomes. Network informed interventions (Roefs et al., 2022) may surpass existing gaps in evidence-based treatment access and will allow us to investigate treatment processes (Hofmann et al., 2020). Transdiagnostic and individually-tailored interventions are efficient (Păsărelu et al., 2017a) and can be informed by network approaches.
+The present study
+The aim of the present study was to examine the dynamic between parent stress and child mental health problems in a cross-sectional study with Romanian parents. Specifically, we aimed: 1) to estimate a network for child mental health problems, 2) to reveal the central nodes in a network of child mental health problems, 3) to identify bridge nodes that con- nect parental stress and child mental health problems, 4) to investigate invariance of the symptom networks across dif- ferent levels of parenting stress (moderate- and high levels of stress) and child mental health problems (with high vs low total difficulties).
+To our knowledge, this is the first study to adopt a net- work perspective for parental stress and child mental health problems. Understanding the most important symptoms that bridge parental stress and child mental health could have important implications for developing prevention and inter- vention programs for Romanian parents with high levels of stress.
+Method
+Participants
+Participants were recruited between April 2021 and Sep- tember 2021 through online advertisements. Parents (N = 1014, Mage = 38.76, SD = 5.81, 93% mothers) of children aged between 4-17 years old (MChild age = 9.99, SD = 3.77) were interested in participating in the study.
+24277
+Procedure
+The study was approved by the Ethics Committee of Babeș-Bolyai University. Eligible participants were recruited online. The ads were posted on social media, disseminated through online invitations sent to parent groups. After parents signed the informed consent, they were invited to complete the two measures regarding child problems and parent stress. No incentives were provided for participation.
+Measures
+Demographic information
+Basic information regarding participants’ and children’s age and gender was collected using a demographic questionnaire.
+Internalizing ande xternalizing problems
+The Strengths and Difficulties Questionnaire (SDQ; Goodman, 1997) is a brief, 25-item screening questionnaire for assessing children’s psychosocial adjustment and potential problems, in terms of (1) emotional symptoms (5 items; e.g., “Often unhappy, downhearted”, “Many fears, easily scared”), (2) behavioral/conduct problems (5 items; e.g., “Often lies or cheats”), (3) hyperactivity problems (5 items; e.g., “Constantly fidgeting or squirming”), (4) peer problems (5 items; e.g.,: “Picked on or bullied by other children”) and (5) prosocial behavior (5 items; e.g., “Helpful if someone is hurt”). For this study the SDQ parent-report was administered. Answers are rated on a three-point Likert-scale (0= Never true, 1= Sometimes or somewhat true and 2= Very true or very often true). Total difficulties score ranges between 0 to 40 with higher scores between indicating higher mental health problems.
+This instrument proved good reliability in the original development studies, namely Cronbach’s Alpha for total difficulties as reported by parents was .82 (Goodman, 2001). Cronbach’s Alpha for the present scale was good, namely .85 for total difficulties scale.
+Parental stress
+The Perceived Stress Scale (PSS; Cohen et al., 1983) was used to measure parental stress. It consists of 10 items, rated on a 5-point Likert scale ranging from 0 (Never) to 4 (Very often) which measure the degree to which parents appre- ciate life events to be unpredictable, uncontrollable, and overwhelming (e.g., “In the last month, how often have you been upset because of something that happened unexpect- edly?”, “In the last month, how often have you been angered because of things that were outside of your control?”). Total 
+
+3 3
+score ranges between 0 to 40 with scores between 0 -13 indi- cating low stress, 14-26 moderate stress, and scores between 27-40 indicating high perceived stress.
+This instrument proved adequate reliability in the origi- nal development study, namely Cronbach’s Alpha was .78 (Cohen, 1988). In the present study, the scale has good inter- nal consistency, Cronbach’s Alpha is .83.
+Statistical analysis
+The analyses were conducted in RStudio (R Studio Team, 2019) and the R script could be found in the supplementary materials. The main R packages used were ‘dplyr’ (Wickham et al., 2021), ‘bootnet’ (Epskamp & Fried, 2020), ‘qgraph’ (Epskamp et al., 2020), ‘NetworkComparisonTest’ (van Borkulo et al., 2019), ‘networktools’ (Jones, 2020), ‘mice’ (van Buuren et al., 2020), ‘EGAnet’ (Golino et al., 2022), and ‘psych’(Revelle, 2021).
+Exploratory analyses
+Firstly, we reverse scored the items of SDQ, except for the Prosocial behaviour scale, and PSS. We computed the per- centage of missing data and we also examined data compli- ance with the normality assumptions. Missing values were handled via a multivariate imputation generated with the R-package ‘mice’ (van Buuren et al., 2020; Zhang, 2016). Multivariate outliers were identified via Mahalanobis dis- tance (set for a χ2 = 66.61, p < .001) and excluded from the subsequent analyses. Univariate and multivariate normality assumptions were examined by computing Skewness and Kurtosis. Acceptable ranges for Skewness are between – 2 and +2 while for Kurtosis are between – 7 and +7 (Hahs- Vaughn, 2016).
+Network estimation
+Firstly, we have examined the topological overlap of the items of SDQ and PSS. Topological overlap appears when two or more nodes are functionally indistinguishable which might be the result of the fact that the concerned nodes regard the same psychological instance (McNally, 2021). Furthermore, a high level of topological overlap could lead to misleading values of the centrality indices or could generate covariance matrixes that are not positive definite (McNally, 2021). Topological overlap was examined and handled as described by Christensen et al. (2020). The items identified as topologically overlapping were combined into a reflective latent score (Christensen et al., 2020). Data containing the latent scores (the combination of the topo- logical overlapping items) and the values of the items (the 
+ones which were not redundant to each other) were further analysed.
+We estimated a regularized partial correlation network based on Gaussian graphical model (Costantini et al., 2015). In this network, the variables are represented by nodes that are undirectedly connected (Epskamp et al., 2018). The thickness of the edges, the lines connecting the nodes, is directly proportional to the strength of the relationship between nodes. Green lines stand for positive relationships while the red ones stand for negative relationships. The edge weight between two nodes is computed by controlling for the confounding effect of all the other variables from the model (Epskamp et al., 2018). To obtain a sparse and interpretable network we applied ‘least absolute shrinkage and selection operator’ (Tibshirani, 1996) to exclude from the model the edge-weights with values close to zero. The degree of regu- larization is controlled by a tuning parameter which in our case was set to 0.5 (Epskamp & Fried, 2018).
+Network stability
+Network stability has two main components: edge weights accuracy and centrality indices stability. Edge weights accu- racy was assessed via examining the 95% confidence interval generated through nonparametric bootstrapping (Epskamp et al., 2018). Wider the 95% confidence interval is, poorer the accuracy of edge weights is.
+The stability of the centrality indices was examined via correlation stability coefficient (CS-coefficient) by using the case-dropping subset bootstrap approach (Epskamp et al., 2018). To interpret the centrality indices, CS-coefficient should be larger than 0.5 (Epskamp et al., 2018) which indi- cates good stability of the centrality indices.
+Centrality indices
+We estimated the centrality indices that are usually com- puted in network analysis, namely strength, closeness, betweenness. Strength is computed by summing the abso- lute values of the edge-weights a node has with all the other nodes from the model, closeness indicates the degree to which a node is connected with all the other nodes from the model, and betweenness reflects the number of instances in which a node is the shortest way between two nodes (Cos- tantini et al., 2015). Expected influence is computed by sum- ming up the weights all edges a node has, irrespective if the edges are negative or positive (Robinaugh et al., 2016).
+We also computed several bridge centrality indices, namely bridge strength, bridge closeness, bridge between- ness, and bridge expected influence (Jones etal., 2019). The bridge centrality indices were computed between the items of PSS (i.e., parent stress) and the ones of SDQ (i.e., chil- dren’s mental problems and prosocial behaviour). Bridge 
+
+
+Current Psychology (2023) 42:24275–24287 
+strength represents the sum of the absolute values of all edge weights a node has outside its community, bridge closeness indicated the degree to which a node is connected with all the other nodes outside its community, bridge betweenness is described as the degree to which a node falls as the short- est path between two nodes belonging to different communi- ties, and bridge's expected influence represents the sum of all positive and negative edge weights a node has with nodes outside its community (Jones et al., 2019). The bootstrap difference test was used to test whether edge-weights and centrality indices were significantly different from each other (Epskamp et al., 2018).
+Networks comparison test
+We examined whether the networks were invariant in terms of structure and strength: structure invariance regards whether a network has similar connection patterns in dif- ferent groups, while strength invariance is examined by comparing whether the sum of the absolute edge weights of all edges from a network is comparable across groups (van Borkulo et al., 2022). Furthermore, we also compared each edge weight as well as each centrality value across groups. These comparisons were realized with Benjamini-Hoch- berg’s correction (Benjamini & Hochberg, 1995).
+Results
+Preliminary results
+The percent of missing data was below 0.26% in all instances and missing values were imputed via a multivariate imputa- tion generated with MICE (multiple imputation by chain equation). We identified 34 multivariate outliers which were excluded from the subsequent analyses. Regarding the uni- variate normality, the item SDQ-22 had values that exceeded the acceptable ranges for Skewness and Kurtosis (i.e., Skew- ness = 4.77, Kurtosis = 20.76). This item was excluded from the analysis. The rest of the items of PSS and SDQ had acceptable values for Skewness and Kurtosis. The multi- variate normality was supported as the result of the fact that the values of Skewness and Kurtosis were in the acceptable range for the standardized residuals of all linear combina- tions between variables (Skewness = 0.81, Kurtosis = 1.14; most of the values were around 0 which is the expected mean value for the standardized residuals).
+The network ofpar ent perceived child mental health problems
+As per the result of the topological overlap analysis, we merged several items from PSS and SDQ. Regarding PSS, we 
+24279
+extracted a latent variable for items 1, 2, 9, 10 (“upset because of something that happened unexpectedly”, “unable to control the important things in your life”, “angered because of things that happened were outside of your control”, “difficulties were piling up so high that you could not overcome them”) and a second latent variable for items 4, 5, 7, and 8 (“felt that things were going your way”, “felt that you were on top of things”, “able to control irritations in your life”, “confident about your ability to handle your personal problems”). Concerning SDQ, we extracted a latent variable from items 4, 9, 17, and 20 (“kind to younger children”, “shares with other children”, “helpful if one is hurt”, “volunteers to help others”; Prosocial behaviours), one for the items 15 and 25 (“easily distracted”, “sees work through to the end”; Inattention), one for 11, 14 and 23 (“has at least one good friend”, “generally liked by other children”, “gets along better with adults than with other children”; Peer problems), one for 2 and 10 (“restless, overactive”, “constantly fidgeting or squirming”; Hyperactivity) and one from 16 and 24 (“nervous in new situations” "many fears”; Emotional problems).
+We estimated the network at the level of the items of SDQ (see Fig. 1). The edge weight stability was excellent (CS-coefficient = .75). The edge weights accuracy could be seen in Fig. S1. The stability of the centrality indices was excellent: strength (CS-coefficient = .75), closeness (CS- coefficient = .75), and betweenness (CS-coefficient = .56).
+The items with the highest strength centrality were SDQ 13 (“Often unhappy”, “downhearted”) and 5 (“Often loses temper”) having a strength significantly higher than 73% and 67% of the nodes. Regarding closeness, items SDQ 13 and 5 emerged as the most central (higher than 87% and 67% of the nodes). Regarding betweenness, item SDQ_13 emerged as the most central (higher centrality than 40%). Finally, items SDQ_13 and SDQ_5 had the highest level of expected influence centrality (higher than 93% and 60% of the nodes) (see Figs. 2 and S2 and Table S1 for details).
+The strongest edge weights were the ones connecting items SDQ_5 and SDQ_13 (stronger than 93% of the edges), items SDQ 3 (“complains of headaches”) with SDQ 8 (“many worries”) (stronger than 84% of the edges), and SDQ_8 with SDQ_13 (stronger than 83% of the edges) (see Fig. S3).
+Bridge analysis betweenpar ent stress andchild mental health problems
+The second network was estimated at the level of SDQ and PSS items combined (see Fig. 3). The stability of the bridge centrality indices was excellent in all instances (CS- coefficient = .75). Furthermore, the edge weight stability was high (CS-coefficient = .75). The edge weight accuracy could be seen in Fig. S4. The items with the highest bridge strength were items PSS_5_8_4_7 and PSS_3 (“felt nervous and stressed”) (see Fig.4 and TableS2). The items with the 
+
+4 4
+24280 Current Psychology (2023) 42:24275–24287
+
+Fig. 1  Estimated Network Model for Children’s Mental Health Problems
+
+Fig. 2  Centrality Indices for Children’s Mental Health Problems (Standardized z Scores)
+
+Current Psychology (2023) 42:24275–24287  24281
+
+Fig. 3  Estimated Network Model for Parent stress and Children’s Mental Health Problems
+
+Fig. 4  Bridge Centrality Indices for Parent Stress and Children’s Mental Health Problems (RawScor es, and 95% CI)
+
+3 3
+highest bridge closeness were SDQ_2_10 and SDQ_15_25. The item with the highest bridge expected influence was PSS_5_8_4_7 and the one with the highest bridge between- ness was SDQ_2_10. The strongest edge weights were the ones connecting items PSS_2_9_10_1 and PSS_3 (“felt nervous and stressed”) (stronger than all the other edges) and items SDQ 15 (“easily distracted”) with SDQ 3 (“com- plains of headaches”) (stronger than 91% of the edges). The strongest edge weight between parent stress and children’s mental health was the one connecting PSS 3 (“felt nervous and stressed”) with SDQ_2_10 (stronger than 59% of the edges) (see Fig. S5).
+Network comparison test
+We examined the network invariance between the moderate and high levels of stress in parents and between children with high and low total difficulties scores.
+We found that the network of parents with moderate and high levels of stress significantly differed in terms of struc- ture (p < .039) and global strength (Total difference = 1.97, p = .025). Specifically, the global strength was higher in par- ents with high stress compared to those with moderate stress. Furthermore, the centrality strength and expected influence of PSS_2_9_10_1 was higher in the network of parents with high stress (p < .001) (see Fig. S6). Similarly, the strength centrality of PSS 6 was higher in the network of parents with high stress (p < .001). Finally, the expected influence of PSS_3 (“felt nervous and stressed”) was significantly higher in the high-stress group compared to the group of parents with a moderate level of stress (p < .001) (see Fig. S6).
+The edge between PSS_2_9_10_1 and PSS_3 was sig- nificantly stronger in the high (i.e., .62) vs. moderate stress (.42) group (p < .001). The edge between PSS_2_9_10_1 and PSS_5_8_4_7 was significantly stronger in the moderate (i.e., .12) vs. high stress (.00) group (p < .001). The edge between PSS_2_9_10_1 and PSS_6 (“could not cope with all the things that you had to do”) was significantly stronger in the high (i.e., .26) vs. moderate stress (.00) group (p < .001). The edge between PSS_5_8_4_7 and PSS_3 was sig- nificantly stronger in the moderate (i.e., - .17) vs. high stress (- .07) group (p < .001). The edge between PSS_6 (“could not cope with all the things had to do”) and PSS_5_8_4_7 and PSS_6 was significantly stronger in the high (i.e., - .24) vs. moderate stress (.02) group (p < .001). We found no significant difference between the centrality of the bridge indices across these groups.
+We found that the network of children with low and high levels of total difficulties significantly differed in terms of structure (p < .026) and global strength (Total difference = 2.78, p < .002). Specifically, the global strength was higher in children with low compared to those with a high level of total difficulties. The strength of the items SDQ_5 (“often 
+loses temper”), SDQ_7 (“obedient”), SDQ_16_24, and SDQ_19 (“picked on or bullied”) was significantly higher in the group of children with low levels of total difficulties (p < .039 or lower). Items SDQ_5 (“often loses temper”), SDQ_17_4_9_20, SDQ_16_24 (“nervous in new situa- tions”, “many fears”), SDQ_19 (“picked on or bullied”), and SDQ_15 had a significantly higher closeness centrality in the group of children with low total difficulties (p < .021 or lower). The betweenness of PSS_6 was significantly higher in the group of children with a high level of difficulties (p < .001). The expected influence of the items PSS_5_8_4_7, PSS_6, SDQ_2_10, SDQ_5, and SDQ_16_24 was significantly higher in the group of children with low total difficulties (p < .001). Similar differences in expected influence were found for the items SDQ_8 (“many worries”) (p < .021), SDQ_17_4_9_20 (p < .041), SDQ_18 (“often lies or cheats”) (p < .041), and SDQ_19 (“picked on or bullied”) (p < .047) (see Fig. S7). The only edge that emerged differently was the one connecting PSS_5_8_4_7 and PSS_6. The edge weight was significantly stronger in the group of children with high total difficulties (i.e., - .207) compared to those with low total difficulties (.085), p < .001. We found no significant difference between the centrality of the bridge indices across children with high vs. low total difficulties.
+Discussion
+The purpose of the present study was twofold. First, we estimated the network at the level of parent-perceived child mental health problems (SDQ items). In doing so, we identified the nodes with the highest levels of centrality and the strongest edges between the nodes. Second, we estimated a network at the level of parental stress and child mental health problems. In doing so, we identified the main bridges between parent stress and child mental health problems. Furthermore, we examined whether this second network was invariant across the level of parent stress (moderate vs. high stress) and across total difficulties level of children (low vs high total difficulties).
+Regarding the first network, the results are of great impor- tance for the interventions that aim to reduce the mental health problems in children. Specifically, we indicated which nodes could be regarded as primary targets of the interven- tions that aim to reduce the mental health problems of chil- dren. In this sense, nodes with high levels of centrality could be regarded as primary targets by these interventions. Fur- thermore, we pinpointed the edges with the highest weights form the model. The stronger the edge weight between two nodes, the greater the interdependency between those nodes. This is of theoretical and practical importance as nodes that are linked by strong edges are expected to be more suscepti- ble to reciprocal influence. Thus, the activation of one node 
+
+Current Psychology (2023) 42:24275–24287 
+24283
+might spread easily to the nodes to which the concerned node has edges with higher weights.
+Regarding network invariance across the level of child total difficulties, we found that the global strength was higher in children with low total difficulties (compared to those with high total difficulties). It should be noted that by zooming in to find specific differences between edge weights and nodes centrality across groups, we found differences only with respect the items of SDQ. That is, no significant differences were found in bridge centrality levels; no sig- nificant differences were found for the edges connecting the items of SDQ with the ones of PSS. These results suggest that the source of non-invariance across the child total dif- ficulties levels might come from the interaction of the items of SDQ. Thus, the dynamic (connection patterns) and con- nectivity (global strength) of the items of PSS does not seem to depend on the level of child total difficulties level.
+By performing network invariance test, we found sig- nificant differences in structure and global strength for the second networks. The global strength of the network was higher for parents who reported high levels of stress com- pared to those who reported only moderate levels of stress. This indicates that in the case of parents who reported high levels of stress, the effect of activation of one node could spread more easily throughout the network.
+Specifically, the activation of one node in the first case (high parent stress) compared to the second case (moderate parent stress) has more chances to stimulate the activation of other nodes from the network. As we found statistically significant results only with respect to the items of PSS, it might be that the source of the network non-invariance is the dynamic between the items of PSS. Thus, the dynamic and connectivity of the items of SDQ might not be influenced by the level of parent's stress. Finally, the dynamic between parent stress and child mental health problems does not seem to be influenced by the level of parent stress. That is, the edges connecting PSS and SDQ were not significantly different across groups, nor were the bridge centrality indices.
+Theoretical andpractical implications
+Our paper has important implications both for research and practice. As it is the first study investigating the network between parent stress and child psychopathology, it can be extended and replicated in order to contribute to our understanding of parental factors related to child mental health. As regarding the contributions for applicative research, future prevention and early intervention could be informed by our findings. Namely, stressed parents could be screened and provided with interventions aiming to improve perceived coping.
+Children mental health problems are complex constructs with many facets which are in a dynamic relationship. In addition to this, children psychopathology is multideter- mined. In this context, network analysis emerges as an ideal tool that could provide valuable insights about the dynamic form within complex psychological constructs as well as mapping complex interaction between constructs. This study has the merit of showing the value of adopting an approach that considers the complexity of children’s mental health problems and their interaction with parents’ stress.
+According to the first network, managing child depres- sive symptoms and temper tantrums could be key targets in prevention and intervention programs as changes in these nodes might diffuse easier and influence other symptoms through the network. Specifically, items SDQ_13 (“unhappy, downhearted”) and SDQ_5 (“often loses temper”) were the most central. Furthermore, these items (i.e., SDQ_5 and SDQ_13) are connected by the strongest edge weight from the model which indicate a high degree of interdependence between them.
+The main theoretical and clinical implications with respect to the second network are twofold. First, by estimat- ing the nodes with the highest bridge centrality, we were able to indicate the main paths through which parent stress and mental health problems of children interact with each other. Nodes with high levels of bridge centrality could be regarded as primary intervention targets to prevent parent stress and the mental health problems of children to recip- rocally activate. Second, by examining network invariance, we were able to indicate whether network connectivity (network global strength) and connection patterns (network structure) differ between the level of parent stress and child total difficulties.
+As per the results for the second network (PSS and SDQ), targeting parent coping (i.e., “felt that things were going your way”, “felt that you were on top of things”, “confi- dent about your ability to handle your personal problems”) might be the best way to prevent parent stress to activate the network of child mental health problems. This results are in accordance with previous research which indicated that coping strategies are important mediators in the rela- tionship between child mental health and parent stress in mothers of children with ADHD (Berenguer et al., 2021). Furthermore, as these results indicate that stress in parents and child mental health problems were mainly connected through parent perceived coping, we empirically supported the definition of parent stress (Deater-Deckard, 1998) which is regarded as emerging when parents perceive themselves unable to meet the demands of their role as parents. Com- plementary, parents’ report on child ADHD (both inattention and hyperactivity/ impulsivity symptoms) had the highest bridge closeness and betweenness (hyperactivity symptoms). This suggests that targeting ADHD symptoms may be the 
+
+3 3
+most effective method to prevent mental health issues in children from increasing parent stress. Network-informed interventions for parents of children with ADHD could be developed and tested, given that research is scarce on the effectiveness of several delivery methods that could improve treatment access (e.g., mobile apps; Păsărelu et al., 2020).
+The fact that the network had a higher connectivity for parent perceived low total difficulties (compared to high total difficulties) could also have theoretical and practical impli- cations. First, it was theorized that the network connectiv- ity should be higher in people with elevated mental health problems (Borsboom & Cramer, 2013). However, our results seem to indicate the opposite. Specifically, the network of children with low total difficulties is easier to activate com- pared to the network of children with high total difficulties. On turn, this holds practical implication. It seems that in the case of children with high total difficulties might be more important for the interventions to target multiple nodes. On contrast, in the case of children with low parent perceived total difficulties it might be effective to target fewer and highly central nodes to improve children mental health.
+On the basis of our findings, we argue that prevention and intervention initiatives should target nodes with high bridge centrality, such as perceived coping . Psychotherapists should identify and target those beliefs to reduce parental stress and child mental health problems. Second, our results could guide the development of individually tailored interventions addressed to parents. So far, there is limited research on individually-tailored interventions for parents of children with mental health problems (Yap etal., 2018). Third, given the high importance of parental perceived coping, this should be investigated as a mechanism of change in interventions that aim to reduce child mental health problems.
+Limitations andfuture research directions
+Several limitations of the present study must be considered before interpreting our results. Given the fact that most of our sample were mothers, we can interpret the results cautiously and state that we can generalize our findings only for mothers. A significant drawback is that we used only self- reported assessments. Another important limitation of the present study is the cross-sectional nature of data, which has two major implications. First, it is unclear whether the group identified pattern is applicable to an individual level, and second, it is unable to reflect interactions between parental stress and child mental health over time (McNally, 2021). In addition, we collected data during COVID-19 pandemic, which  might  be  related  to  other  important  stressors for parents, even though we did not measure variables related to it (e.g., job loss, social isolation, difficulties in homeschooling).
+Future research using time-series data, namely, using ecological momentary assessments where parents complete multiple assessments during a day on parental stress and child mental health, would be of particular importance. Furthermore, investigating other relevant variables, such as parental negative patterns of thinking (e.g., parental worry; Păsărelu et al., 2017b) and parenting, could help us better understand mechanisms that can bridge parental stress and child mental health. Another future direction could be to couple the insights from network analysis with those that could be acquired through a qualitative method. In this sense, the online photovoice (OPV) method appears to be a promising methodological tool. In OPV people are encour- aged to photograph things and places that represent facilita- tors or obstacles in their lives; thereafter, the pictures are analyzed by inviting people to write captions and descrip- tions for each image they provided (Tanhan et al., 2021; Tan- han & Strack, 2020). Therefore, in OPV the parents could take pictures of their facilities and concerns as parents, and these photographs could be further explored by asking par- ents to write descriptions. The tremendous potential of this method has also been revealed in the context of the COVID- 19 pandemic (Doyumgaç et al., 2021; Tanhan et al., 2021).
+Investigating the effect of culture is an important future endeavor given the fact that parenting is shaped by one’s culture. There are differences between individualist and collectivist cultures in interpreting child’s behavior (Dobrean et al., 2021), therefore, we call future research to integrate culture in the network between the two constructs. Language has a particular role in shaping one’s identity as indicated by research on immigrations (Tadayon & Khodi, 2016). Finally, future studies should consider the use of multiple informants to assess parental and child variables. Until now, studies that assessed the interaction of parental and child variables using network analysis used either child (e.g., Florean etal., 2022b) or parent report. However, it has been argued that the perspective on child and parental variables could differ between parents and children (Florean et al., 2022a). In this context, future studies must use child and parent reports in tandem. By doing so, one could not only view the dynamic between parental and child variables from two perspectives but could also derive meaningful information about the differences.
+Conclusions
+The present study investigated the relationship between parental stress and child mental health problems using a net- work approach. Results indicated that perceived coping was a central node, bridging the two constructs while the item 13 (“often unhappy, downhearted”) was the most central from the network of child psychopathology. Future stud- ies should use temporal dynamics between parental stress 
+
+Current Psychology (2023) 42:24275–24287 
+24285
+and child mental health problems and explore mechanisms between the two constructs. This approach is of particular importance for prevention and intervention approaches to mental health problems. Targeting parental perceived cop- ing in parenting programs could prevent/reduce child mental health problems.
+Supplementary Information The online version contains supplementary material available at https://doi.org/10.1007/s12144-022-03520-1.
+Funding This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS - UEFISCDI, project number PN-III-P1-1.1-PD-2019-1191, within PNCDI III awarded to Dr. Costina-Ruxandra Păsărelu.
+Data availability The datasets generated during and/or analysed during the current study are available from the corresponding author on reasonable request.
+Declarations 
+Conflict of interest We have no conflict of interest to disclose.
+References
+Adams, E. L., Smith, D., Caccavale, L. J., & Bean, M. K. (2021). 
+Parents Are Stressed! Patterns of Parent Stress Across COVID- 19. Frontiers in Psychiatry, 12, 626456. https://doi.org/10.3389/ fpsyt.2021.626456
+Barroso, N. E., Mendez, L., Graziano, P. A., & Bagner, D. M. (2018). 
+Parenting Stress through the Lens of Different Clinical Groups: A Systematic Review & Meta-Analysis. Journal of abnor-mal child psychology, 46(3), 449–461. https://doi.org/10.1007/ s10802-017-0313-6
+Barry, T. D., Dunlap, S. T., Cotten, S. J., Lochman, J. E., & Wells, K. 
+C. (2005). The influence of maternal stress and distress on disrup-tive behavior problems in boys. Journal of the American Academy of Child and Adolescent Psychiatry, 44(3), 265–273. https://doi. org/10.1097/00004583-200503000-00011
+Bayer, J. K., Sanson, A. V., & Hemphill, S. A. (2006). Parent influences 
+on early childhood internalizing difficulties. Journal of Applied Developmental Psychology, 27(6), 542–559. https://doi.org/10. 1016/j.appdev.2006.08.002
+Benjamini, Y., & Hochberg, Y. (1995). Controlling the False Discovery 
+Rate: A Practical and Powerful Approach to Multiple Testing. Journal of the Royal Statistical Society. Series B (Methodologi- cal), 57(1), 289–300. JSTOR. https://doi.org/10.1111/j.2517- 6161.1995.tb02031.x
+Berenguer, C., Rosello, B., & Miranda, A. (2021). Mothers’ stress 
+and behavioral and emotional problems in children with ADHD. 
+Mediation of coping strategies. Scandinavian Journal of Psychol-
+ogy, 62(2), 141–149. https://doi.org/10.1111/sjop.12680
+Blanchard, M. A., Roskam, I., Mikolajczak, M., & Heeren, A. (2021). 
+A network approach to parental burnout. Child Abuse & Neglect, 
+111, 104826. https://doi.org/10.1016/j.chiabu.2020.104826
+van Borkulo, C. D., van Bork, R., Boschloo, L., Kossakowski, J. J., 
+Tio, P., Schoevers, R. A., Borsboom, D., & Waldorp, L. J. (2022). Comparing network structures on three aspects: A permutation test. Psychological Methods. Advance online publication. https:// doi.org/10.1037/met0000476
+van Borkulo, C., Epskamp, S., Jones, P., Haslbeck, J., & Millner, A. (2019). 
+NetworkComparisonTest: Statistical Comparison of Two Networks 
+Based on Three Invariance Measures (2.2.1) [Computer software]. 
+https://CRAN.R-project.org/package=NetworkComparisonTest
+Borsboom, D., & Cramer, A. O. J. (2013). Network analysis: An inte-
+grative approach to the structure of psychopathology. Annual 
+Review of Clinical Psychology, 9, 91–121. https://doi.org/10. 
+1146/annurev-clinpsy-050212-185608
+Borsboom, D., Deserno, M. K., Rhemtulla, M., Epskamp, S., Fried, E. I., 
+McNally, R. J., Robinaugh, D. J., Perugini, M., Dalege, J., Costan- tini, G., Isvoranu, A.-M., Wysocki, A. C., van Borkulo, C. D., van Bork, R., & Waldorp, L. J. (2021). Network analysis of multivariate data in psychological science. Nature Reviews Methods Primers, 1(1), 58. https://doi.org/10.1038/s43586-021-00055-w
+Brown, S. M., Doom, J. R., Lechuga-Peña, S., Watamura, S. E., & Kop-
+pels, T. (2020). Stress and parenting during the global COVID-19 pandemic. Child Abuse & Neglect, 110, 104699. https://doi.org/ 10.1016/j.chiabu.2020.104699
+Büber, A., & Aktaş Terzioğlu, M. (2021). Caregiver’s reports of their 
+children’s psychological symptoms after the start of the COVID-19 pandemic and caregiver’s perceived stress in Turkey. Nordic Journal of Psychiatry, 0(0), 1–10. https://doi.org/10.1080/08039488.2021. 1949492
+van Buuren, S., Groothuis-Oudshoorn, K., Vink, G., Schouten, R., Rob-
+itzsch, A., Doove, L., Jolani, S., Moreno-Betancur, M., White, I., Gaffert, P., Meinfelder, F., & Gray, B. (2020). mice: Multi- variate Imputation by Chained Equations (3.8.0) [Computer soft- ware]. https://CRAN.R-project.org/package=mice 
+Calvano, C., Engelke, L., Di Bella, J., Kindermann, J., Renneberg, B., 
+& Winter, S. M. (2021). Families in the COVID-19 pandemic: Parental stress, parent mental health and the occurrence of adverse childhood experiences—results of a representative survey in Ger- many. European Child & Adolescent Psychiatry. https://doi.org/ 
+10.1007/s00787-021-01739-0
+Christensen, A. P., Golino, H., & Silvia, P. J. (2020). A Psychometric 
+Network Perspective on the Validity and Validation of Personal- ity Trait Questionnaires. European Journal of Personality, 34(6), 1095–1108. https://doi.org/10.1002/per.2265
+Chung, G., Lanier, P., & Wong, P. Y. J. (2020). Mediating Effects of 
+Parental Stress on Harsh Parenting and Parent-Child Relationship 
+during Coronavirus (COVID-19) Pandemic in Singapore. Journal 
+of Family Violence. https://doi.org/10.1007/s10896-020-00200-1 Cohen, S. (1988). Perceived stress in a probability sample of the United 
+States. In S. Spacapan & S. Oskamp (Eds.), The Social Psychol-
+ogy of Health (pp. 31–67). Sage Publications, Inc.
+Cohen, S., Kamarck, T., & Mermelstein, R. (1983). A global measure 
+of perceived stress. Journal of Health and Social Behavior, 24(4), 385–396. https://doi.org/10.2307/2136404
+Costantini, G., Epskamp, S., Borsboom, D., Perugini, M., Mõttus, R., 
+Waldorp, L. J., & Cramer, A. O. J. (2015). State of the aRt person- ality research: A tutorial on network analysis of personality data in R. Journal of Research in Personality, 54, 13–29. https://doi. org/10.1016/j.jrp.2014.07.003
+Deater-Deckard, K. (1998). Parenting Stress and Child Adjustment: 
+Some Old Hypotheses and New Questions. Clinical Psychology: Science and Practice, 5(3), 314–332. https://doi.org/10.1111/j. 1468-2850.1998.tb00152.x
+Dobrean, A., Păsărelu, C.-R., Balazsi, R., & Predescu, E. (2021). 
+Measurement Invariance of the ADHD Rating Scale–IV Home and 
+School Versions Across Age, Gender, Clinical Status, and Informant. 
+Assessment, 28(1), 86–99. https://doi.org/10.1177/1073191119858421 Doyumgaç, I., Tanhan, A., & Kiymaz, M. S. (2021). Understanding 
+the Most Important Facilitators and Barriers for Online Educa-
+tion during COVID-19 through Online Photovoice Methodology. 
+International Journal of Higher Education, 10(1), 166–190. 
+https://doi.org/10.5430/ijhe.v10n1p166
+
+4 4
+Eli, B., Liang, Y., Chen, Y., Huang, X., & Liu, Z. (2021). Symptom 
+structure of posttraumatic stress disorder after parental bereave- ment – a network analysis of Chinese parents who have lost their only child. Journal of Affective Disorders, 295, 673–680. https:// doi.org/10.1016/j.jad.2021.08.123
+Epskamp, S., & Fried, E. I. (2018). A tutorial on regularized partial 
+correlation networks. Psychological Methods, 23(4), 617–634. https://doi.org/10.1037/met0000167
+Epskamp, S., & Fried, E. I. (2020). bootnet: Bootstrap Methods for 
+Various Network Estimation Routines (1.3) [Computer software]. https://CRAN.R-project.org/package=bootnet
+Epskamp, S., Borsboom, D., & Fried, E. I. (2018). Estimating psychologi-
+cal networks and their accuracy: A tutorial paper. Behavior Research 
+Methods, 50(1), 195–212. https://doi.org/10.3758/s13428-017-0862-1 Epskamp, S., Costantini, G., Haslbeck, J., Isvoranu, A., Cramer, A. O. 
+J., Waldorp, L. J., Schmittmann, V. D., & Borsboom, D. (2020). 
+qgraph: Graph Plotting Methods, Psychometric Data Visualiza-
+tion and Graphical Model Estimation (1.6.5) [Computer soft-
+ware]. https://CRAN.R-project.org/package=qgraph
+Florean, I. S., Dobrean, A., Balazsi, R., Roșan, A., Păsărelu, C. R., Pre-
+descu, E., & Rad, F. (2022a). Measurement Invariance of Alabama Parenting Questionnaire Across Age, Gender, Clinical Status, and Informant. Assessment, 10731911211068178. https://doi.org/10. 1177/10731911211068178
+Florean, I. S., Dobrean, A., & Roman, G. D. (2022b). Early adoles-
+cents’ perceptions of parenting practices and mental health prob- lems: A network approach. Journal of Family Psychology, 36(3), 438–448. https://doi.org/10.1037/fam0000919
+Giannotti, M., Mazzoni, N., Bentenuto, A., Venuti, P., & de Falco, 
+S. (2021). Family adjustment to COVID-19 lockdown in Italy: Parental stress, coparenting, and child externalizing behavior. Family Process. https://doi.org/10.1111/famp.12686
+Golino, H., Christensen, A., Moulder, R., Garrido, L. E., & Jamison, 
+L. (2022). EGAnet: Exploratory Graph Analysis – a Framework for Estimating the Number of Dimensions in Multivariate Data using Network Psychometrics(0.9.9) [Computer software]. https:// CRAN.R-project.org/package=EGAnet
+Goodman, R. (1997). The Strengths and Difficulties Questionnaire: 
+A research note. Journal of Child Psychology and Psychiatry, and Allied Disciplines, 38(5), 581–586. https://doi.org/10.1111/j. 1469-7610.1997.tb01545.x
+Goodman, R. (2001). Psychometric Properties of the Strengths and 
+Difficulties Questionnaire. Journal of the American Academy of Child & Adolescent Psychiatry, 40(11), 1337–1345. https://doi. org/10.1097/00004583-200111000-00015
+Hahs-Vaughn, D. L. (2016). Applied Multivariate Statistical Concepts. 
+Taylor & Francis.
+Hofmann, S. G., Curtiss, J. E., & Hayes, S. C. (2020). Beyond linear 
+mediation: Toward a dynamic network approach to study treat- ment processes. Clinical Psychology Review, 76, 101824. https:// doi.org/10.1016/j.cpr.2020.101824
+Hukkelberg, S. S., & Nærde, A. (2021). Parental stress among Norwe-
+gian fathers and mothers: Similarities and differences. Journal of Social and Personal Relationships, 02654075211049725. https:// doi.org/10.1177/02654075211049725
+Jones, P. (2020). networktools: Tools for Identifying Important Nodes 
+in Networks (1.2.2) [Computer software]. https://CRAN.R-proje ct.org/package=networktools.
+Jones, P. J., Ma, R., & McNally, R. J. (2019). Bridge Centrality: A 
+Network Approach to Understanding Comorbidity. Multivariate Behavioral Research, 0(0), 1–15. https://doi.org/10.1080/00273 171.2019.1614898
+Jones, J. H., Call, T. A., Wolford, S. N., & McWey, L. M. (2021). 
+Parental Stress and Child Outcomes: The Mediating Role of Fam- ily Conflict. Journal of Child and Family Studies, 30(3), 746–756. https://doi.org/10.1007/s10826-021-01904-8
+Kalkan, R. B., Blanchard, M. A., Mikolajczak, M., Roskam, I., & 
+Heeren, A. (2022). Emotional exhaustion and feeling fed up as the driving forces of parental burnout and its consequences on children: Insights from a network approach. Current Psychol- ogy. https://doi.org/10.1007/s12144-022-03311-8
+Khoury, J. E., Kaur, H., & Gonzalez, A. (2021). Parental Men-
+tal Health and Hostility Are Associated With Longitudinal Increases in Child Internalizing and Externalizing Problems During COVID-19. Frontiers in Psychology, 12, 3132. https:// doi.org/10.3389/fpsyg.2021.706168
+Köhler-Dauner, F., Clemens, V., Lange, S., Ziegenhain, U., & Fegert, 
+J. M. (2021). Mothers’ daily perceived stress influences their children’s mental health during SARS-CoV-2-pandemic—An online survey. Child and Adolescent Psychiatry and Mental Health, 15(1), 31. https://doi.org/10.1186/s13034-021-00385-3 Lazarus, R. S., & Folkman, S. (1984). Stress, appraisal and coping. 
+New York: Springer Pub. Co.
+Liu, L., & Wang, M. (2015). Parenting stress and harsh discipline in 
+China: The moderating roles of marital satisfaction and parent gender. Child Abuse & Neglect, 43, 73–82. https://doi.org/10. 1016/j.chiabu.2015.01.014
+McNally, R. J. (2021). Network analysis of psychopathology: Contro-
+versies and challenges. Annual Review of Clinical Psychology, 17, 
+31–53. https://doi.org/10.1146/annurev-clinpsy-081219-092850 Păsărelu, C. R., Andersson, G., Bergman Nordgren, L., & Dobrean, 
+A. (2017a). Internet-delivered transdiagnostic and tailored cogni- tive behavioral therapy for anxiety and depression: A systematic review and meta-analysis of randomized controlled trials. Cog- nitive Behaviour Therapy, 46(1), 1–28. https://doi.org/10.1080/ 16506073.2016.1231219
+ Păsărelu, C. R., Dobrean, A., Balazsi, R., Podina, I. R., & Mogoașe, C. 
+(2017b). Interpretation biases in the intergenerational transmission of worry: A path analysis. Journal of Evidence-Based Psychotherapies, 17(1), 31–50. https://doi.org/10.24193/jebp.2017.1.3
+Păsărelu, C. R., Andersson, G., & Dobrean, A. (2020). Attention-
+deficit/ hyperactivity disorder mobile apps: A systematic review. International Journal of Medical Informatics, 138, 104133. https://doi.org/10.1016/j.ijmedinf.2020.104133
+R Studio Team. (2019). RStudio: Integrated Development for R. RStu-
+dio. http://www.rstudio.com/.
+Revelle, W. (2021). psych: Procedures for Psychological, Psychomet-
+ric, and Personality Research (2.1.9) [Computer software]. https:// CRAN.R-project.org/package=psych.
+Robinaugh, D. J., Millner, A. J., & McNally, R. J. (2016). Identify-
+ing Highly Influential Nodes in the Complicated Grief Network. Journal of abnormal psychology, 125(6), 747–757. https://doi. org/10.1037/abn0000181
+Roefs, A., Fried, E. I., Kindt, M., Martijn, C., Elzinga, B., Evers, A. 
+W. M., Wiers, R. W., Borsboom, D., & Jansen, A. (2022). A new science of mental disorders: Using personalised, transdiagnostic, dynamical systems to understand, model, diagnose and treat psy- chopathology. Behaviour Research and Therapy, 153, 104096. https://doi.org/10.1016/j.brat.2022.104096
+Skjerdingstad, N., Johnson, M. S., Johnson, S. U., Hoffart, A., & Ebra-
+himi, O. V. (2021). Feelings of worthlessness links depressive symptoms and parental stress: A network analysis during the COVID-19 pandemic. European Psychiatry, 64(1), e50. https:// doi.org/10.1192/j.eurpsy.2021.2223
+Stone, L. L., Mares, S. H. W., Otten, R., Engels, R. C. M. E., & Jans-
+sens, J. M. A. M. (2016). The Co-Development of Parenting Stress and Childhood Internalizing and Externalizing Problems. Jour- nal of Psychopathology and Behavioral Assessment, 38, 76–86. https://doi.org/10.1007/s10862-015-9500-3
+Tadayon, F., & Khodi, A. (2016). Empowerment of Refugees by Lan-
+guage: Can ESL Learners Affect the Target Culture? TESL Can- ada Journal, 129–137. https://doi.org/10.18806/tesl.v33i0.1250
+
+Current Psychology (2023) 42:24275–24287 
+24287
+Tanhan, A., & Strack, R. W. (2020). Online photovoice to explore 
+and advocate for Muslim biopsychosocial spiritual wellbeing and issues: Ecological systems theory and ally development. Current Psychology, 39(6), 2010–2025. https://doi.org/10.1007/ s12144-020-00692-6
+Tanhan, A., Arslan, G., Yavuz, F., Young, J. S., Çiçek, İ., Akkurt, 
+M. N., Ulus, İ. Ç., Görünmek, E., Demir, R., Kürker, F., Çelik, C., Akça, M. Ş., Ünverdi, B., Ertürk, H., & Allen, K. (2021). A constructive understanding of mental health facilitators and bar- riers through Online Photovoice (OPV) during COVID-19. ESAM Ekonomik ve Sosyal Araştırmalar Dergisi, 2(2), 214–249.
+Tibshirani, R. (1996). Regression Shrinkage and Selection Via the 
+Lasso. Journal of the Royal Statistical Society: Series B (Meth- odological), 58(1), 267–288. https://doi.org/10.1111/j.2517-6161. 1996.tb02080.x
+Whittle, S., Bray, K., Lin, S., & Schwartz, O. (2020). Parenting and 
+child and adolescent mental health during the COVID-19 pan- demic. PsyArXiv.
+Wickham, H., François, R., Henry, L., Müller, K., & RStudio. (2021). 
+dplyr: A Grammar of Data Manipulation (1.0.7) [Computer soft- ware]. https://CRAN.R-project.org/package=dplyr
+Yap, M. B. H., Mahtani, S., Rapee, R. M., Nicolas, C., Lawrence, K. 
+A., Mackinnon, A., & Jorm, A. F. (2018). A Tailored Web-Based Intervention to Improve Parenting Risk and Protective Factors for Adolescent Depression and Anxiety Problems: Postinterven- tion Findings From a Randomized Controlled Trial. Journal of Medical Internet Research, 20(1), e9139. https://doi.org/10.2196/ jmir.9139
+Zhang, Z. (2016). Missing data imputation: Focusing on single imputa-
+tion. Annals of Translational Medicine, 4(1), 9. https://doi.org/10. 3978/j.issn.2305-5839.2015.12.38
+Publisher’s  note Springer  Nature  remains  neutral  with  regard  to jurisdictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+3 3
