@@ -1,0 +1,863 @@
+﻿Innovations in Education and Teaching International
+
+ISSN: 1470-3297 (Print) 1470-3300 (Online) Journal homepage: www.tandfonline.com/journals/riie20
+
+Development and validation of a measurement
+tool for learner feedback literacy
+
+Mustafa Tepgeç, Cennet Terzi Müftüoğlu, Fatma Bayrak & Halil Yurdugül
+
+To cite this article: Mustafa Tepgeç, Cennet Terzi Müftüoğlu, Fatma Bayrak & Halil Yurdugül (22
+Nov 2025): Development and validation of a measurement tool for learner feedback literacy,
+Innovations in Education and Teaching International, DOI: 10.1080/14703297.2025.2594116
+
+To link to this article:  https://doi.org/10.1080/14703297.2025.2594116
+
+View supplementary material 
+
+Published online: 22 Nov 2025.
+
+Submit your article to this journal 
+
+Article views: 337
+
+View related articles 
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=riie20
+
+
+
+INNOVATIONS IN EDUCATION AND TEACHING INTERNATIONAL 
+https://doi.org/10.1080/14703297.2025.2594116
+
+Development and validation of a measurement tool for 
+learner feedback literacy
+Mustafa Tepgeç a, Cennet Terzi Müftüoğlu b, Fatma Bayrak c 
+
+and Halil Yurdugül c
+
+aDepartment of Computer Education and Instructional Technology, Hatay Mustafa Kemal University, Hatay, 
+Türkiye; bDepartment of Court Office Services, Tokat Gaziosmanpaşa University, Tokat, Türkiye; cDepartment 
+of Computer Education and Instructional Technology, Hacettepe University, Ankara, Türkiye
+
+ABSTRACT KEYWORDS 
+Learner feedback literacy (FL) is increasingly recognised as Feedback literacy; 
+a multidimensional competency essential for navigating and bene assessment; scale 
+fiting from feedback processes in higher education. Yet existing development; higher 
+instruments often address only fragmented aspects of FL, lacking education
+
+an integrated perspective that captures its cognitive, affective, 
+behavioural, and social nature. This study developed and validated 
+the Learner Feedback Literacy Scale (LFLS), a theoretically 
+grounded and psychometrically sound instrument assessing these 
+domains. The development process involved item generation 
+employing an integrated framework, followed by expert review 
+and validation with 564 undergraduates. CFA supported a five- 
+factor structure – Appreciating Feedback, Eliciting Feedback, 
+Managing Affect, Decision-Making and Taking Action, and 
+Acknowledging Feedback Reciprocity – comprising 18 items. LFLS 
+demonstrated strong construct validity, internal consistency, and 
+measurement invariance across gender groups. A second-order 
+CFA confirmed a higher-order FL construct. Significant correlations 
+with help-seeking behaviour provided evidence for criterion- 
+related validity. LFLS offers a comprehensive tool to inform peda
+gogical interventions and learner support.
+
+Introduction
+Feedback is widely acknowledged as a key driver of student learning (Hattie & Timperley, 
+2007). In practice, however, its impact often falls short of its potential, especially in higher 
+education. A key challenge is that many students do not substantially engage with or act 
+on the feedback they receive (Carless & Boud, 2018). Researchers have noted generally 
+limited student uptake of feedback in university settings (e.g. assignments returned with 
+comments usually receive minimal follow-up from students). One important factor under
+lying this gap is feedback literacy (FL), defined as ‘the understandings, capacities and 
+dispositions needed to make sense of information and use it to enhance work or learning 
+strategies’ (Carless & Boud, 2018, p. 1315). Because effective feedback depends not only 
+
+CONTACT Mustafa Tepgeç mustafatepgec@gmail.com Department of Computer Education and Instructional 
+Technology, Hatay Mustafa Kemal University, Hatay 31001, Türkiye
+
+Supplemental data for this article can be accessed online at https://doi.org/10.1080/14703297.2025.2594116
+© 2025 Informa UK Limited, trading as Taylor & Francis Group 
+
+
+
+2 M. TEPGEÇ ET AL.
+
+on information quality but also on learners’ capacity to interpret and act on it, FL is 
+conceptually aligned with formative assessment (FA) principles. FA frameworks view 
+feedback as formative only when learners compare their current performance against 
+explicit criteria and take purposeful action to close gaps (Black & Wiliam, 1998; Sadler, 
+1989). Accordingly, FL represents the learner-side capability that operationalises this 
+process by eliciting, making sense of, and using feedback (Carless & Boud, 2018). 
+Developing such literacy enables students to engage with feedback in ways that fulfil 
+the formative purpose of assessment and ultimately enhance learning outcomes.
+
+Over the past decade, several frameworks have clarified the multifaceted nature of FL. 
+These models emphasise that effective engagement with feedback involves more than 
+passive reception; it is a dynamic, learner-driven process that spans cognitive, emotional, 
+behavioural, and social domains. For example, Sutton (2012) introduced a framework of 
+‘knowing, being, and acting’, highlighting that becoming feedback literate requires not 
+only intellectual understanding but also affective readiness and behavioural enactment. 
+Similarly, Carless and Boud’s (2018) four-dimensional model includes appreciation of 
+feedback, judgement-making, affect regulation, and taking action. Molloy et al. (2020) 
+extended these frameworks by analysing student perspectives and identifying seven core 
+components of FL – ranging from understanding feedback purposes and seeking infor
+mation to processing feedback, regulating emotion, and engaging in judgement-making 
+and information use. They further highlight learners’ role in co-constructing feedback 
+opportunities within educational settings. Together, these frameworks present FL as 
+a holistic capability that integrates belief systems, strategic behaviours, and social 
+interaction.
+
+Despite this strong foundation, a disconnect remains between conceptual models and 
+their empirical operationalisation. While Sutton (2012), Carless and Boud (2018), and 
+Molloy et al. (2020) emphasise the interplay between belief-oriented and behaviour- 
+oriented dimensions, most existing measurement tools have thus far captured only 
+selected aspects of the construct. Belief-oriented instruments typically assess learners’ 
+dispositions – such as self-efficacy, emotional readiness, or perceived value of feedback – 
+with items like ‘I am good at seeking feedback from different sources (e.g. teachers, peers 
+or school mentors) to improve my learning’ (Zhan, 2022, p. 1100) or ‘I believe that I have 
+the ability to deal with written feedback effectively’ (Song, 2022, p. 1450). Conversely, 
+behaviour-focused tools emphasise tangible actions – for example, ‘I reconsider and 
+refine my learning strategies based on feedback’ (Woitt et al., 2025, p. 260) or ‘I carefully 
+consider comments about my work before deciding if I will use them or not’ (Dawson 
+et al., 2024, p. 361) – but often do not address the attitudes or motivations behind those 
+behaviours. Moreover, few instruments (Dawson et al., 2024; Yu et al., 2022) consider the 
+social-relational aspects of feedback engagement, such as giving feedback to peers or 
+participating in feedback dialogues, despite their centrality in socio-constructivist models. 
+These varied emphases – shaped by different theoretical orientations, item formats, and 
+validation aims – are perhaps unsurprising given that the measurement of FL remains in 
+a formative stage of theoretical and methodological development.
+
+This measurement landscape has important implications. Learners may hold posi
+tive beliefs about feedback but lack the behavioural strategies to act on them – or 
+may engage in feedback-related behaviours without genuine cognitive or emotional 
+engagement. This misalignment limits the effectiveness of current instruments for 
+
+
+
+INNOVATIONS IN EDUCATION AND TEACHING INTERNATIONAL 3
+
+diagnosing FL and designing responsive pedagogical interventions. In response, 
+scholars have called for measurement models that reflect the full conceptual complex
+ity of FL (Noor et al., 2024). Rather than merging constructs within individual items, 
+a more scalable and theoretically aligned approach is to represent cognitive-affective, 
+behavioural, and social-interactional dimensions as distinct but interrelated subcom
+ponents, allowing for meaningful analysis of their interplay within a coherent 
+framework.
+
+Moreover, socio-constructivist perspectives have deepened our understanding of FL 
+by emphasising its dialogic and interactive nature. From this standpoint, feedback is 
+not a one-way transmission from instructor to learner but a co-constructed process 
+involving negotiation, shared interpretation, and mutual responsibility (Carless & Boud, 
+2018). Within this paradigm, feedback-literate learners are not only consumers of 
+feedback but also active contributors to feedback exchanges – capable of eliciting, 
+interpreting, and providing feedback in collaborative settings. Although the reciprocal 
+dimension has gained increased conceptual attention, it remains underrepresented in 
+most existing assessment tools, further underscoring the need for more comprehen
+sive models.
+
+In response to these theoretical and methodological gaps, the present study 
+introduces and validates the Learner Feedback Literacy Scale, a new instrument 
+grounded in an integrated, socio-constructivist framework. This scale conceptualises 
+FL as a multidimensional construct encompassing internal dispositions, feedback- 
+related behaviours, and reciprocal interactions. Drawing on recent theoretical and 
+empirical work (e.g. (Carless & Boud, 2018; Dawson et al., 2024; Molloy et al., 2020; 
+Zhan, 2022), we identified a set of key dimensions that collectively capture these 
+elements. In brief, our framework posits that a feedback-literate learner: appreciates 
+the value of feedback, is proactive in seeking and eliciting feedback for improvement, 
+effectively processes feedback information and takes action to implement, can manage 
+the affective challenges associated with receiving critique, and understands feedback 
+as part of a reciprocal, social process. These hypothesised dimensions (detailed in the 
+Method section) integrate the attitudinal and behavioural aspects of FL while also 
+emphasising the learner’s participation in feedback dialogues. We expected that these 
+dimensions would be interrelated and together define an overall higher-order FL 
+competency.
+
+To develop the scale, we followed a rigorous process of item generation, expert review, 
+pilot testing, and statistical validation. We also examined how the new scale relates to an 
+external construct – namely, students’ academic help-seeking behaviours – to gather 
+evidence of criterion validity. Academic help-seeking was chosen because it is concep
+tually linked to FL: seeking help is a form of proactively obtaining feedback or guidance, 
+and effective help-seeking (especially instrumental help-seeking aimed at learning) aligns 
+with key aspects of FL (Fletcher, 2018; Tempelaar et al., 2018). Thus, we anticipated that 
+students who score high on FL would also exhibit more productive help-seeking tenden
+cies. In the sections below, we describe the methodology of our scale development and 
+validation in detail. By providing a clear account of the design and implementation 
+procedures, we aim to demonstrate that the resulting instrument is theoretically 
+grounded, psychometrically sound, and useful for advancing research and practice in 
+student FL.
+
+
+
+4 M. TEPGEÇ ET AL.
+
+Table 1. Overview of the design and implementation processes.
+Construct Conceptualisation Item Generation and Selection
+Constructs were defined based on Learner centered fra An initial form consisting of 27 items was generated.
+
+mework (Molloy et al., 2020) and literature review. Five subject matter experts reviewed the initial form to 
+For criterion validity, it was decided to examine the assess both content and face validity.
+relationship between help seeking and feedback lit Six students were interviewed to assess item clarity and 
+eracy would be examined. suitability for the target audience.
+
+The revised form was presented to 14 experts, and 
+content validity ratios were calculated. 25 items were 
+selected based on the content validity ratio.
+
+Implementation and data pre-processing
+564 undergraduate students responded the feedback literacy and help seeking questionaires via online.
+
+Mahalanobis distance was calculated for outlier detection, leading to exclusion of 90 observations with values below 
+0.01.
+
+Factorial Validity and Reliability Construct Validity
+The psychometric properties of the scale were examined The construct validity was examined through convergent 
+via confirmatory factor analysis (CFA, n = 474). and discriminant validity.
+
+Regarding reliability, internal consistency was assessed Measurement invariance was tested across several 
+using both Cronbach’s α and composite reliability. learner groups using multi-group CFA.
+Second-order CFA was used to investigate the rela The help seeking was used to investigate construct 
+tionship between feedback literacy and validity.
+subcomponents.
+
+Method
+The development of the scale followed a structured multi-phase process involving Design 
+and Implementation stages. Each stage comprised specific procedures to ensure the 
+scale’s content validity, construct validity, and reliability. In the design phase, we estab
+lished a conceptual foundation and created the initial item pool, whereas the implemen
+tation phase involved administering the scale to a sample of students and performing 
+statistical analyses for validation (see Table 1).
+
+Design phase
+
+Conceptual framework
+To establish a strong foundation for the scale, we conducted literature review 
+focused on multidimensional perspectives of FL. Our conceptualisation was primar
+ily informed by Carless and Boud’s (2018) model, which emphasised the learner’s 
+active role in appreciating feedback, making evaluative judgements, managing 
+affect, and taking action. We further drew on Molloy et al’.s (2020) framework, 
+which introduced additional dimensions such as recognising feedback as a dialogic 
+process. In addition to these models, we reviewed FL measurement tools devel
+oped, which informed both item wording and construct operationalisation. 
+Synthesising these sources, we identified six interrelated dimensions that capture 
+key learner capabilities in engaging meaningfully with feedback. These dimensions 
+are summarised in Table 2 along with how they have been represented in prior 
+studies, including recent FL scales.
+
+
+
+INNOVATIONS IN EDUCATION AND TEACHING INTERNATIONAL 5
+
+Table 2. Synthesis of researchers’ perspectives on learner feedback literacy dimensions.
+Dimension Definition Studies mentioned
+Appreciating Receiving input, critique, or suggestions from Carless and Boud (2018)(T); Dong et al. (2023)(S); 
+
+feedback others with an open mind and recognising Ketonen et al. (2020) (Q); Man et al. (2024)(Q); 
+their potential to foster personal growth, Molloy et al. (2020)(Q); Song (2022)(S)*; Woitt 
+improvement, and learning. et al. (2025)(S)*; Yıldız et al. (2022) (S); Yu et al. 
+
+(2022)(S); Zhan (2022)(S); Zhan (2023)(Q)
+Eliciting Proactively seeking input by asking purposeful Dawson et al. (2024)(S)*; Man et al. (2024)(Q)*; 
+
+feedback questions and employing strategies to gain Molloy et al. (2020)(Q); Zhan (2022)(S); Zhan 
+constructive insights. (2023)(Q)
+
+Managing affect Regulating emotional responses to feedback Carless and Boud (2018)(T); Dawson et al. (2024) 
+while maintaining a constructive mindset, (S); Ketonen et al. (2020) (Q); Man et al. (2024) 
+even when faced with criticism. (Q); Molloy et al. (2020)(Q); Woitt et al. (2025) 
+
+(S)*; Yıldız et al. (2022) (S)*; Yu et al. (2022) (S) 
+*; Zhan (2023)(Q)*
+
+Processing Thoughtfully interpreting feedback by Dawson et al. (2024)(S)*; Molloy et al. (2020) (Q); 
+feedback identifying key messages, evaluating Song (2022)(S)*; Woitt et al. (2025)(S)*; Yıldız 
+
+implications, and aligning them with et al. (2022)(S)*; Yu et al. (2022) (S)*; Zhan 
+academic goals. (2022)(S); Zhan (2023)(Q)
+
+Enacting Translating feedback into purposeful actions by Dawson et al. (2024)(S)*; Molloy et al. (2020) (Q); 
+feedback making concrete changes, improvements, or Song (2022)(S)*; Woitt et al. (2025)(S); Yıldız 
+
+adjustments in response to the information et al. (2022)(S)*; Yu et al. (2022)(S)*; Zhan 
+received. (2022)(S); Zhan (2023)(Q)
+
+Acknowledging Engaging in feedback as a mutual process by Dawson et al. (2024)(S)* Man et al. (2024)(Q)* 
+feedback contributing to others’ learning and Molloy et al. (2020) (Q)
+reciprocity recognising the value of both giving and 
+
+receiving feedback in collaborative settings.
+Note: (T): Theorised, (Q): Qualitatively coded, (S): Measured via scale (*): In the study, the relevant dimension was used 
+
+with different naming or a broader perspective.
+
+Appreciating feedback. Recognising the value of feedback and being open to receiving 
+it. This dimension reflects a learner’s disposition to view feedback as a useful tool for 
+growth rather than as mere evaluation. Feedback-literate students understand that feed
+back can come in various forms (comments from instructors, peer critique, automated 
+hints, etc.) and actively welcome feedback opportunities. They acknowledge feedback’s 
+role in improving their learning and thus approach feedback with a positive, appreciative 
+mindset (Carless & Boud, 2018).
+
+Eliciting feedback. Taking initiative to seek feedback information to address one’s 
+learning needs. Rather than passively waiting for feedback, feedback-literate learners 
+proactively seek input on their work. This can include asking teachers or peers for specific 
+feedback, using exemplars or rubrics to self-generate feedback, or leveraging digital tools 
+for immediate performance feedback. This dimension aligns with the concept of learner 
+agency; by formulating questions and seeking clarity, students take ownership of the 
+feedback process (Winstone et al., 2017).
+
+Managing affect. Regulating one’s emotional responses to feedback to remain receptive 
+and constructive. Receiving critical feedback or lower-than-expected evaluations can 
+trigger negative emotions (such as anxiety, defensiveness, or disappointment) that 
+impede learning (Carless & Boud, 2018). A feedback-literate student can manage these 
+affective reactions – for example, by viewing criticism as a learning opportunity rather 
+than a personal attack. Molloy et al. (2020) noted that effective feedback recipients 
+
+
+
+6 M. TEPGEÇ ET AL.
+
+acknowledge their emotional responses and work through them, rather than ignoring or 
+being overwhelmed by them.
+
+Processing feedback. Instead of merely accepting feedback passively, learners assess its 
+credibility by considering the expertise, reliability, and trustworthiness of the sources. This 
+process includes establishing criteria for ‘good work’ standards and participating in 
+discussions about effective practices. Additionally, Zhan (2022) highlights the significance 
+of students comprehending and evaluating the quality of feedback, extracting actionable 
+information, and appreciating diverse perspectives. By developing their sense-making 
+abilities and evaluative judgement, learners can make informed decisions regarding the 
+quality of their work.
+
+Enacting feedback. Taking concrete action based on feedback to improve future 
+performance. This can include rewriting a paper after receiving comments, practicing 
+a skill differently based on performance feedback, or incorporating suggestions into 
+subsequent assignments. Feedback-literate students don’t just file away feedback; they 
+actively implement changes and then monitor the results of those changes on their 
+learning. By demonstrating that feedback is acted upon, learners reinforce the value of 
+feedback and are likely to engage more in the future. This dimension corresponds to 
+what Carless and Boud (2018) term ‘taking action’ and what Molloy et al. (2020) 
+observed as students using feedback information from various sources in 
+a deliberate manner.
+
+Acknowledging feedback reciprocity. Acknowledging that feedback is a reciprocal, 
+social process and engaging in it as such. This dimension captures the learner’s under
+standing that effective feedback involves interaction – not only does the student receive 
+feedback, but they also can contribute to the feedback process (for example, by giving 
+feedback to peers or by dialoguing with instructors about feedback). While many earlier 
+FL models did not explicitly include this aspect, our framework incorporates it to ensure 
+a more holistic coverage. We drew inspiration from Molloy et al’.s (2020) model and 
+Dawson et al’.s (2024) FLBS, both of which stress the importance of learners participating 
+in feedback dialogues and peer feedback. In practice, this dimension might be evidenced 
+by students engaging in peer review exercises or actively discussing feedback with their 
+instructor – treating feedback as an ongoing conversation rather than a one-off comment.
+
+Together, these six dimensions formed the theoretical basis. Notably, each hypothe
+sised dimension in our framework can be mapped to similar constructs in at least one 
+previously published model or scale of FL. This convergence with prior literature gave us 
+confidence that our chosen framework was well-founded.
+
+Item generation and content validation
+We developed 27 items to ensure that the scale captured all key aspects of FL while 
+remaining concise and practical for student use. The six dimensions in our framework are 
+theoretically grounded and have been reflected in prior conceptual and empirical studies. 
+Some dimensions also overlap with constructs already operationalised in existing instru
+ments, allowing us to build on established conceptual boundaries without unnecessary 
+repetition. Approximately 4–5 items were written for each dimension.
+
+
+
+INNOVATIONS IN EDUCATION AND TEACHING INTERNATIONAL 7
+
+Content validation was carried out in multiple stages, primarily aimed at improving 
+item quality. In the first stage, five experts rated each item’s relevance on a three-point 
+scale (‘essential’, ‘useful but not essential’, ‘not necessary’) and provided qualitative feed
+back on wording and alignment. Revisions were made based on their input to improve 
+clarity and representativeness.
+
+In the second stage, interviews were conducted with six undergraduates. Participants 
+paraphrased each item and identified any confusing or unfamiliar expressions. Minor 
+modifications were made based on their input, such as simplifying wording and replacing 
+less familiar terms. A language specialist also reviewed items for grammatical accuracy 
+and cultural appropriateness.
+
+These two stages focused on refining and improving item clarity and conceptual 
+alignment. After these qualitative refinements, we proceeded to a more formal content 
+validity analysis with a larger panel of experts. Experts rated the necessity of each item 
+using the same three-point scale. As a result of this process, 2 items that fell below the 
+acceptable CVR were removed from the pool (for 14 evaluators, the threshold CVR ≈0.51). 
+The remaining 25 items were thus judged to have strong content validity evidence, 
+covering the essential aspects of the FL construct.
+
+Incorporating help-seeking construct
+As part of the construct validation process, academic help-seeking was identified as 
+theoretically relevant external measure for evaluating the criterion-related validity of the 
+scale. Help-seeking is widely acknowledged as a self-regulated learning strategy that aligns 
+conceptually with FL, as both involve proactive engagement with learning challenges and 
+the use of external input for improvement (Fletcher, 2018; Tempelaar et al., 2018). In 
+particular, instrumental help-seeking – where learners request guidance to enhance under
+standing and solve problems independently – closely mirrors the principles of FL, which 
+emphasises active involvement, agency, and the productive use of feedback (Makara & 
+Kuusinen, 2023; Nelson Le Gall, 1981). Conversely, executive help-seeking, characterised by 
+efforts to obtain direct answers with minimal cognitive effort, represents a more superficial 
+approach to learning that is theoretically misaligned with FL (Makara & Kuusinen, 2023).
+
+Accordingly, we selected instrumental and executive help-seeking as external constructs 
+to test the criterion-related validity. We hypothesised that FL would correlate positively with 
+instrumental help-seeking, as both reflect a learner’s willingness to engage with feedback- 
+like information for self-improvement, and negatively with executive help-seeking, which 
+reflects avoidance of cognitive effort and limited feedback use. These hypothesised patterns 
+are supported by previous findings linking adaptive learning strategies to deeper engage
+ment and long-term learning outcomes (Karabenick & Newman, 2006). By examining these 
+relationships, we aimed to determine whether the FL scale meaningfully distinguishes 
+between students who seek help to learn and those who seek help to complete tasks 
+with minimal effort, thereby providing empirical support for its criterion-related validity.
+
+Implementation phase
+
+Study group and data pre-processing
+The scale was administered online and distributed through 12 departments across 8 
+universities, yielding 564 voluntary student responses from Türkiye. Data were screened 
+
+
+
+8 M. TEPGEÇ ET AL.
+
+for outliers using Mahalanobis distance, and 90 cases with values below 0.01 were 
+excluded. The final dataset consisted of 474 participants.
+
+The demographic characteristics of the participants were as follows: 67.5% female 
+and 31.4% male. In terms of faculty distribution, 81% were from Education, 7.6% from 
+Science and Literature, 4.7% from Engineering, 2.1% from Economics and 
+Administrative Sciences, 1.9% from Health Sciences, 1.3% from Pharmacy, and 1.4% 
+from other disciplines. Regarding academic standing, 3.4% were in the 
+preparatory year, 21.5% in the first year, 27% in the second year, 35.7% in the 
+third year, and 12.4% in the fourth year.
+
+Criterion validity instrument
+To evaluate criterion-related validity, two subscales – executive and instrumental help- 
+seeking – from Şahin et al. (2025) were utilised. Cronbach’s α values were .939 for 
+executive help-seeking and .930 for instrumental help-seeking.
+
+Data analysis
+
+Psychometric evaluation included confirmatory factor analysis (CFA) and supporting 
+analyses. The Kaiser-Meyer-Olkin value was 0.97, indicating excellent sampling adequacy.
+
+Reliability was assessed using Cronbach’s α and composite reliability. Validity evidence 
+was obtained through convergent and discriminant validity analyses. A second-order CFA 
+was conducted to examine the relationship between the overall construct and its 
+dimensions.
+
+To test measurement invariance across different learner groups, multi-group CFA was 
+performed within a structural equation modelling framework. Measurement invariance 
+ensures that a construct is interpreted similarly across groups and was assessed through 
+four hierarchical stages: configural, metric, scalar, and strict invariance. Each level imposes 
+additional constraints, from the equivalence of factor structure to the equality of residual 
+variances.
+
+These analyses aimed to determine whether the FL scale consistently measured the 
+construct across groups without bias.
+
+Finally, the scale’s association with theoretically related constructs – instrumental and 
+executive help-seeking – was tested to provide further support for construct validity. The 
+final scale form administered to students included 37 items: 25 measuring learner FL and 
+12 measuring help-seeking tendencies.
+
+Findings
+CFA supported the five-factor structure of the feedback literacy scale. An initial six-factor 
+model (25 items) was refined after detecting a very high correlation (r = .95) between the 
+Processing and Enacting dimensions; these were merged. During this refinement process, 
+seven items were systematically eliminated based on modification indices indicating 
+cross-loadings or redundancy across dimensions, with close monitoring of changes in 
+psychometric properties and factor covariances. The final model (18 items, five dimen
+sions) showed acceptable fit (see Table 3) and strong standardised item loadings (range 
+.70–.91, all p < .001; Figure 1). Inter-factor correlations ranged .56–.83, indicating that 
+
+
+
+INNOVATIONS IN EDUCATION AND TEACHING INTERNATIONAL 9
+
+Table 3. Model fit indices for the learner feedback literacy scale.
+Model χ2/df RMSEA GFI CFI NFI SRMR
+Six-factor model 4.17 0.08 0.83 0.92 0.90 0.04
+Five-factor model 3.03 0.06 0.92 0.97 0.95 0.04
+
+Note: Acceptable fit values are: χ2/df < 3.0, RMSEA < 0.08, GFI > 0.90, CFI > 0.90, NFI > 0.90, SRMR ≤0.08.
+
+dimensions are related yet distinct. The final 18-item version of the scale, originally 
+developed in Turkish, was translated into English for international use (see Appendix A).
+
+A conceptual decision was made to name the new merged factor Decision-Making and 
+Taking Action, reflecting the process of actively engaging with feedback to close the 
+feedback loop. This label was chosen to capture the combined essence of the original 
+Processing and Enacting dimensions: students interpret feedback information, decide 
+which feedback to use, and implement appropriate changes or strategies accordingly. 
+In other words, the Decision-Making and Taking Action dimension represents learners’ 
+skill in extracting meaning from feedback and using it to inform their subsequent actions, 
+including the judgement of whether and how to incorporate feedback.
+
+The scale demonstrated high internal consistency. Cronbach’s alpha for the overall FL 
+score was .956, and alpha coefficients for each of the five subscales ranged from .86 to .94. 
+Composite reliability values for all factors were well above the recommended .70 thresh
+old, indicating that each set of items reliably measures its intended construct, as shown in 
+Table 4. Convergent validity was further confirmed by AVE values exceeding .50 for all 
+constructs. Discriminant validity was supported by the finding that each factor’s square 
+root of AVE exceeded its correlations with the other factors (Table 5). For example, the 
+
+Appreciating feedback (AF), eliciting feedback (EF), decision-making and taking action (DT), managing 
+affect (MA), acknowledging feedback reciprocity(AFR), processing feedback (PF), enacting feedback 
+(ENF). 
+
+Figure 1. The five-factor CFA model.
+
+
+
+10 M. TEPGEÇ ET AL.
+
+Table 4. Reliability and ave statistics for the learner feedback literacy scale.
+Factors Number of items Cronbach’s Alpha Composite Reliability AVE
+AF 4 0.94 0.94 0.79
+EF 3 0.86 0.86 0.67
+DT 5 0.93 0.93 0.73
+MA 3 0.87 0.87 0.69
+AFR 3 0.86 0.86 0.67
+
+Table 5. Descriptive statistics, inter-factor correlations, and square roots of ave.
+Factors Symbol Number of items Mean SD 1 2 3 4 5
+AF 1 4 24.40 3.90 0.89
+EF 2 3 16.44 3.39 0.67 0.82
+DT 3 5 29.69 4.77 0.83 0.79 0.85
+MA 4 3 17.43 3.02 0.68 0.65 0.83 0.83
+AFR 5 3 16.61 3.37 0.56 0.75 0.75 0.74 0.82
+
+square root of AVE for the Appreciating Feedback factor was .89, which is greater than its 
+correlation with any other subscale – indicating that each dimension captured unique 
+variance not accounted for by other dimensions.
+
+A second-order CFA was conducted to test the overall structure of the learner FL 
+construct. The model yielded a good fit (RMSEA = .072; GFI = .91; CFI = .96; NFI = .94), 
+supporting the presence of a higher-order FL factor influencing all five dimensions. 
+Among the dimensions, Decision-Making and Taking Action had the highest standardised 
+loading (b = .98), followed by Managing Affect (.85), Appreciating Feedback (.83), Eliciting 
+Feedback (.82), and Acknowledging Feedback Reciprocity (.78).
+
+To evaluate measurement invariance across gender, multi-group CFA was performed 
+in four hierarchical stages: configural, metric, scalar, and strict. The results indicated strong 
+support for configural, metric, and scalar invariance based on fit indices (e.g. RMSEA = .07; 
+CFI = .96; GFI = .98; SRMR = .04), suggesting that the scale measures the same constructs 
+across male and female students (Table 6). Although strict invariance was not supported 
+by the chi-square difference test, the fit indices remained within acceptable ranges at 
+each stage, supporting partial invariance and justifying group comparisons.
+
+To assess criterion-related validity, we examined the relationship between learner FL 
+and help-seeking behaviours. Correlation analysis showed significant positive relation
+ships between learner FL and instrumental help-seeking, and weaker, mostly low correla
+tions with executive help-seeking (Table 7). Importantly, Appreciating Feedback showed 
+no significant correlation with executive help-seeking, while Decision-Making and Taking 
+Action had the strongest correlation with instrumental help-seeking (r = .66, p < .001). 
+These findings suggest that feedback-literate learners are more likely to engage in 
+productive, self-regulated help-seeking behaviours.
+
+Table 6. Measurement invariance across gender groups.
+df χ2 χ2/df p(>χ2) RMSEA GFI CFI NFI SRMR
+
+Configural 250 552.34 2.21 – 0.07 0.98 0.96 0.93 0.04
+Metric 263 567.34 2.16 .31 0.07 0.98 0.96 0.93 0.04
+Scalar 276 578.71 2.10 .58 0.07 0.98 0.96 0.93 0.04
+Strict 294 616.08 2.10 .00 0.07 0.98 0.96 0.93 0.04
+
+Note: Acceptable model fit thresholds are as follows: χ2/df < 3.0, RMSEA < 0.08, GFI > 0.90, CFI > 0.90, NFI > 0.90, SRMR ≤0.08.
+
+
+
+INNOVATIONS IN EDUCATION AND TEACHING INTERNATIONAL 11
+
+Table 7. Correlations between learner feedback literacy and help-seeking dimensions.
+Instrumental Help Seeking Executive Help Seeking
+
+AF 0.54** 0.08
+MA 0.57** 0.15**
+AFR 0.56** 0.31**
+EF 0.56** 0.20**
+DT 0.66** 0.13**
+Learner feedback literacy 0.68** 0.20**
+
+Note: **p < 0.001.
+
+Discussion
+The present study confirms that learner feedback literacy (FL) can be conceptualised as an 
+integrated and multifaceted competency encompassing cognitive, affective, behavioural, 
+and social dimensions. Its five-factor structure – Appreciating Feedback, Eliciting 
+Feedback, Managing Affect, Decision-Making and Taking Action, and Acknowledging 
+Feedback Reciprocity – was supported through rigorous psychometric analyses. Each 
+dimension was operationalised through behaviourally and attitudinally grounded items 
+that collectively capture the ways in which learners navigate feedback processes. This 
+comprehensive structure reflects an understanding of FL not merely as a set of beliefs or 
+attitudes, but as a repertoire of interrelated dispositions and practices enacted across 
+individual and social learning contexts.
+
+The cognitive dimension of FL is captured through the Appreciating Feedback factor, 
+which reflects learners’ recognition of feedback as a tool for self-improvement. Items such 
+as ‘Feedback makes me realise my strengths and weaknesses’ operationalise metacogni
+tive awareness and an orientation towards continuous development – key features of 
+a growth mindset. The affective dimension is represented through the Managing Affect 
+factor, which includes learners’ capacity to regulate emotional responses to evaluative 
+input. Maintaining openness to critique and emotional composure when faced with 
+negative feedback are essential preconditions for constructive engagement (Carless & 
+Boud, 2018). The behavioural dimension is reflected in both the Eliciting Feedback and 
+the Decision-Making and Taking Action factors. These assess the learner’s proactive stance 
+in feedback processes – seeking input, interpreting its relevance, and applying it to 
+improve work. This active orientation aligns with conceptions of agentic feedback 
+engagement, wherein learners do not passively receive feedback but rather mobilise it 
+to support self-regulated learning (Winstone et al., 2017). Finally, the social dimension is 
+addressed through Acknowledging Feedback Reciprocity, which recognises learners as 
+both recipients and providers of feedback. By incorporating peer-oriented items such as ‘I 
+provide input to help my peers refine their work’, the scale operationalises feedback as 
+a dialogic and socially situated process (Molloy et al., 2020).
+
+A key structural refinement of the instrument was the empirical and conceptual 
+merging of Processing Feedback and Enacting Feedback into a unified Decision-Making 
+and Taking Action factor. This integration is supported by factor loadings and cross- 
+loading patterns observed during confirmatory factor analyses, as well as superior 
+model fit indices. Conceptually, the coalescence of interpretation and action reflects the 
+inseparability of comprehension and implementation in authentic learning contexts. 
+Learners rarely process feedback in a vacuum; rather, interpretation and uptake are 
+
+
+
+12 M. TEPGEÇ ET AL.
+
+often part of a cyclical, iterative process whereby understanding guides adaptation. Prior 
+studies have drawn process-oriented versus action-oriented distinctions (e.g. Carless & 
+Boud, 2018; Dawson et al., 2024; Molloy et al., 2020; Zhan, 2022), yet our results suggest 
+that these stages are not only sequentially related but frequently co-occurring in practice.
+
+This study also contributes to the literature by addressing gaps in existing instruments, 
+many of which privilege one dimension of FL – typically cognitive or behavioural – at the 
+expense of others. While Carless and Boud’s (2018) foundational model has informed 
+several existing measures, these scales often rely on self-perceptions (e.g. ‘I am good at 
+implementing feedback’) that may not reflect actual practices. For instance, Zhan’s (2022) 
+instrument includes items that assess learners’ beliefs about their feedback capacities, but 
+such items risk conflating intended behaviour with enacted engagement. Dawson et al’.s 
+(2024) behaviour-oriented scale represents a major advancement by focusing on observa
+ble actions and feedback reciprocity; however, it omits the cognitive dimension of appre
+ciation, such as recognising feedback as integral to learning. In contrast, our scale bridges 
+these divides by incorporating cognitive appreciation, emotional regulation, proactive 
+engagement, and social contribution within a single, coherent framework. This holistic 
+structure offers a more ecologically valid tool for investigating how learners authentically 
+engage with feedback across cognitive, affective, behavioural, and interpersonal domains.
+
+Evidence of criterion-related validity further supports the instrument. Higher FL scores 
+were significantly correlated with increased instrumental help-seeking, a form of self- 
+regulated learning where students ask for hints or clarification to improve performance 
+(Fletcher, 2018). This aligns with prior research indicating that feedback-literate learners 
+actively mobilise external input to monitor and regulate their learning (Tempelaar et al., 
+2018; Tepgec et al., 2025), reinforcing the theoretical link between FL and self-regulated 
+learning strategies.
+
+Developing students’ FL is pedagogically critical for making formative assessment (FA) 
+truly effective. Researchers note that even the most carefully designed feedback has little 
+formative value unless learners interpret and act upon it (Hattie & Timperley, 2007). In FA 
+frameworks, teachers and learners share responsibility across five key strategies – clarify
+ing learning intentions, eliciting evidence, providing feedback that moves learning for
+ward, activating students as owners of their learning, and as instructional resources for 
+one another (Wiliam, 2017). FL directly supports these strategies: Appreciating Feedback 
+aligns with recognising goals and standards; Eliciting Feedback mirrors gathering evi
+dence; Managing Affect sustains openness to critique; Decision-Making and Taking Action 
+embodies using feedback to move learning forward; and Acknowledging Feedback 
+Reciprocity enables peer activation. Thus, FL provides the psychological and behavioural 
+infrastructure that allows FA to operate as intended. By cultivating FL, educators trans
+form feedback from one-way information into an interactive process that enhances 
+evaluative judgement, self-regulation, and sustained performance improvement.
+
+Limitations and future research
+Despite its contributions, some limitations warrant consideration. The sample, though 
+diverse and drawn from eight institutions, was concentrated within education majors, 
+potentially limiting generalisability. Future studies should examine the applicability of 
+the scale across disciplinary and cultural contexts. Moreover, reliance on self-report 
+
+
+
+INNOVATIONS IN EDUCATION AND TEACHING INTERNATIONAL 13
+
+measures introduces potential biases, including social desirability and limited intro
+spective access. Triangulating self-reports with behavioural observations, dialogic ana
+lysis of feedback exchanges, or longitudinal performance data could enhance the 
+instrument’s predictive and diagnostic utility. Future research could also investigate 
+how strengthening learners’ FL impacts the enactment of formative assessment in 
+classrooms or online settings. Experimental or design-based studies may reveal how 
+FL-oriented pedagogies foster active learner engagement with feedback cycles. Lastly, 
+while the current five-factor structure is both theoretically and statistically sound, 
+future adaptations might explore the inclusion of context-specific variables such as 
+learners’ preferences for feedback timing or modality, which could further enrich our 
+understanding of feedback engagement in complex learning environments.
+
+Conclusion
+This study developed and validated a five-dimensional Learner Feedback Literacy Scale for 
+higher education. The scale’s factor structure and psychometric properties are robust: all item 
+loadings exceeded .70 and reliability coefficients were high (overall α = .956). Its dimensions 
+(Appreciating Feedback, Eliciting Feedback, Managing Affect, Decision-Making and Taking 
+Action, and Feedback Reciprocity) capture both well-established and novel aspects of how 
+students engage with feedback. The expected positive associations with adaptive help- 
+seeking behaviours confirmed its criterion validity, linking theoretical constructs to measur
+able outcomes.
+
+By integrating cognitive, emotional, behavioural, and social-interactional elements of 
+feedback, the instrument provides a comprehensive diagnostic of students’ feedback 
+literacy. We anticipate that this tool will be valuable to educators and researchers for 
+diagnosing and improving students’ engagement with feedback. In sum, the scale 
+advances theoretical understanding of FL and offers a practical means to support learners’ 
+effective use of feedback.
+
+Acknowledgments
+We would like to thank the experts who contributed to the expert review of our initial scale.
+
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+
+Notes on contributors
+Mustafa Tepgeç is a lecturer in the Department of Computer Education and Instructional 
+Technology at Hatay Mustafa Kemal University. He completed his PhD in Computer Education 
+and Instructional Technology. His research focuses on learning analytics, feedback literacy, and AI- 
+enhanced learning environments.
+
+Cennet Terzi Müftüoğlu is an academic at Tokat Gaziosmanpaşa University, holding a PhD in 
+Computer Education and Instructional Technology and pursuing a second PhD in Management 
+and Organization. Her work explores help-seeking, assessment design, learning analytics, AI literacy, 
+
+
+
+14 M. TEPGEÇ ET AL.
+
+HR analytics, talent management, and digital transformation in data-driven learning and organisa
+tional environments.
+
+Fatma Bayrak is an associate professor in the Department of Computer Education and Instructional 
+Technology at Hacettepe University. She received her Ph.D. in the same field. Her research interests 
+include e-learning, assessment in online learning, technology-enhanced assessment, feedback, and 
+reflective thinking. In addition to her teaching responsibilities, she has contributed to several 
+national and international research projects.
+
+Halil Yurdugül is a Professor at the Department of Computer Education and Instructional 
+Technology, Hacettepe University. He holds bachelor’s and master’s degrees in Statistics and 
+completed his PhD in Educational Measurement and Evaluation at Hacettepe University. His 
+research focuses on e-assessment, learning analytics, educational data mining, e-learning and AI 
+in education.
+
+ORCID
+Mustafa Tepgeç http://orcid.org/0000-0002-0169-6586
+Cennet Terzi Müftüoğlu http://orcid.org/0000-0002-0875-4806
+Fatma Bayrak http://orcid.org/0000-0001-8500-1456
+Halil Yurdugül http://orcid.org/0000-0001-7856-4664
+
+Ethics approval and consent to participate
+This research was approved by the Hacettepe University Social Sciences Ethics Committee, which 
+granted ethical clearance for this research. All participants provided informed consent to take part 
+in the project and to allow their data to be collected and analysed.
+
+References
+Black, P., & Wiliam, D. (1998). Assessment and classroom learning. Assessment in Education Principles, 
+
+Policy & Practice, 5(1), 7–74. https://doi.org/10.1080/0969595980050102  
+Carless, D., & Boud, D. (2018). The development of student feedback literacy: Enabling uptake of 
+
+feedback. Assessment and Evaluation in Higher Education, 43(8), 1315–1325. https://doi.org/10. 
+1080/02602938.2018.1463354  
+
+Dawson, P., Yan, Z., Lipnevich, A., Tai, J., Boud, D., & Mahoney, P. (2024). Measuring what learners do 
+in feedback: The feedback literacy behaviour scale. Assessment and Evaluation in Higher 
+Education, 49(3), 348–362. https://doi.org/10.1080/02602938.2023.2240983  
+
+Dong, Z., Gao, Y., & Schunn, C. D. (2023). Assessing students’ peer feedback literacy in writing: Scale 
+development and validation. Assessment and Evaluation in Higher Education, 48(8), 1103–1118.  
+https://doi.org/10.1080/02602938.2023.2175781  
+
+Fletcher, A. K. (2018). Help seeking: Agentic learners initiating feedback. Educational Review, 70(4), 
+389–408. https://doi.org/10.1080/00131911.2017.1340871  
+
+Hattie, J., & Timperley, H. (2007). The power of feedback. Review of Educational Research, 77(1), 
+81–112. https://doi.org/10.3102/003465430298487  
+
+Karabenick, S. A., & Newman, R. S. (2006). Help seeking in academic settings: Goals, groups, and 
+contexts. Erlbaum.
+
+Ketonen, L., Nieminen, P., & Hähkiöniemi, M. (2020). The development of secondary students’ 
+feedback literacy: Peer assessment as an intervention. Journal of Educational Research, 113(6), 
+407–417. https://doi.org/10.1080/00220671.2020.1835794  
+
+Makara, K. A., & Kuusinen, C. M. (2023). Academic help seeking as a process of seeking formative 
+feedback on learning. In T. Urdan & E. N. Gonida (Eds.), Remembering the life, work, and influence of 
+Stuart A. Karabenick (Vol. 22, pp. 69–90). Emerald Publishing Limited.
+
+
+
+INNOVATIONS IN EDUCATION AND TEACHING INTERNATIONAL 15
+
+Man, D., Kong, B., & Chau, M. H. (2024). Developing student feedback literacy through peer review 
+training. RELC Journal, 55(2), 408–421. https://doi.org/10.1177/00336882221078380  
+
+Molloy, E., Boud, D., & Henderson, M. (2020). Developing a learning-centred framework for feedback 
+literacy. Assessment and Evaluation in Higher Education, 45(4), 527–540. https://doi.org/10.1080/ 
+02602938.2019.1667955  
+
+Nelson Le Gall, S. (1981). Help-seeking: An understudied problem-solving skill in children. 
+Developmental Review, 1(3), 224–246. https://doi.org/10.1016/0273-2297(81)90019-8  
+
+Noor, M. N. M., Fatima, S., Cockburn, J. G., Romli, M. H., Pallath, V., Hong, W. H., Vadivelu, J., & 
+Foong, C. C. (2024). Systematic review of feedback literacy instruments for health professions 
+students. Heliyon, 10(10), e31070. https://doi.org/10.1016/j.heliyon.2024.e31070  
+
+Sadler, D. R. (1989). Formative assessment and the design of instructional systems. Instructional 
+Science, 18(2), 119–144. https://doi.org/10.1007/BF00117714  
+
+Şahin, M., Müftüoğlu, C. T., & Yurdugül, H. (2025). The help-seeking scale for online learning 
+environment (HSOLE): Validity and reliability. Technology, Knowledge, and Learning, 30(1), 
+353–369. https://doi.org/10.1007/s10758-024-09801-x  
+
+Song, B. K. (2022). Bifactor modelling of the psychological constructs of learner feedback literacy: 
+Conceptions of feedback, feedback trust and self-efficacy. Assessment and Evaluation in Higher 
+Education, 47(8), 1444–1457. https://doi.org/10.1080/02602938.2022.2042187  
+
+Sutton, P. (2012). Conceptualizing feedback literacy: Knowing, being, and acting. Innovations in 
+Education and Teaching International, 49(1), 31–40. https://doi.org/10.1080/14703297.2012. 
+647781  
+
+Tempelaar, D., Rienties, B., Mittelmeier, J., & Nguyen, Q. (2018). Student profiling in a dispositional 
+learning analytics application using formative assessment. Computers in Human Behavior, 78, 
+408–420. https://doi.org/10.1016/j.chb.2017.08.010  
+
+Tepgec, M., Heil, J., & Ifenthaler, D. (2025). Feedback literacy matters: Unlocking the potential of 
+learning analytics-based feedback. Assessment and Evaluation in Higher Education, 50(1), 50–66.  
+https://doi.org/10.1080/02602938.2024.2367587  
+
+Wiliam, D. (2017). Embedded formative assessment: (Strategies for classroom assessment that drives 
+student engagement and learning) (2nd ed.). Solution Tree Press.
+
+Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J. (2017). Supporting learners’ agentic engage
+ment with feedback: A systematic review and a taxonomy of recipience processes. Educational 
+Psychologist, 52(1), 17–37. https://doi.org/10.1080/00461520.2016.1207538  
+
+Woitt, S., Weidlich, J., Jivet, I., Orhan Göksün, D., Drachsler, H., & Kalz, M. (2025). Students’ feedback 
+literacy in higher education: An initial scale validation study. Teaching in Higher Education, 30(1), 
+257–276. https://doi.org/10.1080/13562517.2023.2263838  
+
+Yıldız, H., Bozpolat, E., & Hazar, E. (2022). Feedback literacy scale: A study of validation and reliability. 
+International Journal of Eurasian Education and Culture, 7(19), 2214–2249. https://doi.org/10. 
+35826/ijoecc.624  
+
+Yu, S., DiZhang, E., & Liu, C. (2022). Assessing L2 student writing feedback literacy: A scale develop
+ment and validation study. Assessing Writing, 53, 100643. https://doi.org/10.1016/j.asw.2022. 
+100643  
+
+Zhan, Y. (2022). Developing and validating a student feedback literacy scale. Assessment and 
+Evaluation in Higher Education, 47(7), 1087–1100. https://doi.org/10.1080/02602938.2021. 
+2001430  
+
+Zhan, Y. (2023). What do college students think of feedback literacy? An ecological interpretation of 
+Hong Kong students’ perspectives. Assessment and Evaluation in Higher Education, 48(5), 686–700.  
+https://doi.org/10.1080/02602938.2022.2121380
