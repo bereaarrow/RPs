@@ -1,0 +1,108 @@
+﻿Data dictionary
+Cs represents variables in SCoIQA. 
+SA represents variables in SAI-IQA. 
+AI represents variables in SCoAI. 
+FC represents variables in OPAM.
+
+   Variable                                                Meaning
+ SCoIQA: Students’ Conceptions of Integrated Quality Assessment
+ Cs1          IQA is used to select the best people for job and education opportunities.
+ Cs2          Taking short-cuts is a smart way to prepare for IQA.
+ Cs3          IQA is a competition to select the best.
+ Cs4          Teachers use my IQA results to see what they need to teach me next.
+ Cs5          Resources are limited so IQA has to be highly selective.
+ Cs6          IQA has a huge impact on my place in society.
+ Cs7          IQA makes our class cooperate more with each other.
+ Cs8          I use IQA to take responsibility for my next learning steps.
+ Cs9          Success in society depends on doing well on IQA.
+ Cs10         Even when I have studied, I feel I cannot control my IQA results.
+ Cs11         Good IQA grades lead to a better career path.
+ Cs12         When we do IQA, there is a good atmosphere in our class.
+ Cs13         IQA is how society meets its needs.
+ Cs14         The rewards for doing well on IQA are significant.
+ Cs15         IQA helps teachers track my progress.
+ Cs16         Society keeps an eye on learners through IQA.
+ Cs17         Our class becomes more supportive when we are assessed.
+ Cs18         A brighter future and more money come to those who get high IQA marks.
+ Cs19         With higher IQA grades, I can gain a better position in society.
+ Cs20         IQA is a game which needs to be played strategically.
+ Cs21         IQA encourages my class to work together and help each other.
+ Cs22         Any technique for getting higher grades is fair when preparing for IQA.
+ Cs23         I have to accept being assessed even if it seems to be bad for me.
+ Cs24         IQA is used to determine people’s place and role in society.
+ Cs25         Higher social status comes from good academic performance.
+ Cs26         IQA is checking off my progress against achievement objectives or standards
+ Cs27         IQA improves my ability to control myself.
+ Cs28         IQA makes me doubt my ability.
+ Cs29         IQA has far too much effect in society.
+ Cs30         IQA determines my fate and future.
+ Cs31         IQA determines if students meet qualification standards.
+ Cs32         IQA motivates me and my classmates to help each other.
+
+ SAI-IQA: Self-Assessment Intentions in the Integrated Quality Assessment
+ SA1          IQA self-assessment helped me to judge my performance better.
+ SA2          I assessed my strengths and weaknesses accurately in IQA self-assessment.
+ SA3          I assess myself for the tutor to grade me.
+ SA4          IQA self-assessment helped me to improve my learning in areas in which I am not so good.
+ SA5          My tutor looks at my IQA self-assessment when he/she grades.
+ SA6          I do IQA self-assessment without thinking how the statements are truly related to my performance.
+ SA7          IQA self-assessment is mainly useful in managing the tutor’s impression of my performance.
+ SA8          Doing IQA self-assessment is a waste of time
+ SA9          I become more aware of my learning through IQA self-assessment.
+
+ SCoAI: Students’ Conceptions of Academic Integrity
+ AI1          Our university administrators always publicize academic integrity policies to students in various
+               ways.
+ AI2          Cheating includes turning in a paper copying from another student
+ AI3          The academic integrity policies in our university are effective.
+ AI4          Cheating includes working on an assignment with others when the instructor asked for individual
+               work.
+ AI5          Cheating includes asking other people sign for the seminar/meeting to avoid a penalty for absence
+               in
+               IQA.
+ AI6          Our university administrators always caution students about behaviors that are considered
+               academic
+               cheating.
+ AI7          Cheating includes copying from another student during a test or examination.
+ AI8          Cheating includes bribing or currying favor of classmates to get high marks in peer assessment in
+               IQA.
+ AI9          The investigation procedure for academic cheating in our university is fair and reasonable.
+ AI10         Cheating includes fabricating or falsifying records of IQA scores by utilizing one’s position in
+               class/grade or
+               university.
+ AI11         Cheating includes using an electronic/digital device as an unauthorized aid during a test or
+               examination
+ AI12         Our university has a set of academic integrity policies which is complete and systematic.
+ AI13         Cheating includes fabricating or falsifying certificate to get bonus points in IQA.
+ AI14         Cheating includes paying for an answer from a business or individual
+ AI15         Exam proctoring or invigilation in our university is strict.
+ AI16         Cheating includes receiving unpermitted help on an assignment.
+ AI17         Cheating includes exaggeration of contributions in activities to get bonus points in IQA.
+ AI18         Verification of students’ scores in IQA in our university is strict.
+ AI19         Cheating includes fabricating or falsifying research/lab data when doing course-work
+ AI20         Cheating includes ingratiating oneself with the counselor to get bonus points in IQA.
+ AI21         Cheating includes fabricating or falsifying a bibliography of a paper you submitted
+ AI22         Cheating includes using unpermitted electronic crib notes during an examination.
+ AI23         Cheating includes paraphrasing or copying a few sentences of material, almost word by word, from
+               any source without noting where it is
+               from.
+ AI24         Cheating includes using unpermitted handwritten crib notes during a test or examination
+ AI25         Cheating includes copying another student’s assignment.
+
+ OPAM: Observation of Peer Academic Misconduct
+ FC1          Written examination where all supporting material is not allowed
+ FC2          Written examination where all supporting material is allowed
+ FC3          Individual oral tests, without supporting material (notes, books)
+ FC4          Oral tests, in the form of a group discussion where the instructor observes and assesses the
+               contribution of each
+               participant
+ FC5          Individual assignments and projects
+ FC6          Group assignments or projects
+ FC7          Take home test
+ FC8          Take home essays or reports
+ FC9          A portfolio of work requires complement in the process over a term or academic year
+ FC10         Lab or tutorial assignments
+ FC11         Self-assessed tasks
+ FC12         Tasks assessed by classmates
+ FC13         IQA
+
