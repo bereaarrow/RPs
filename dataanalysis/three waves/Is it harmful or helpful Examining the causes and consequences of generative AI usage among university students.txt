@@ -1,0 +1,418 @@
+﻿Abbasetal. Int J Educ Technol High Educ                         https://doi.org/10.1186/s41239-024-00444-7
+RESEARCH ARTICLE
+International Journal of Educational
+Technology in Higher Education
+Open Access
+
+Is it harmful orhelpful? Examining thecauses andconsequences ofgenerative AI usage amonguniversity students
+Muhammad Abbas1*, Farooq Ahmed Jam2,3 and Tariq Iqbal Khan4 *Correspondence:    
+pirthegreat@gmail.com Abstract 
+
+1 FAST School of Management, National University of Computer and Emerging Sciences, Islamabad, Pakistan
+2 Global Illuminators, Kuala Lumpur, Malaysia
+3 Department of Science & Technology Studies, Faculty 
+of Science, University of Malaya, Kuala Lumpur, Malaysia
+4 Institute of Management Sciences, The University 
+of Haripur, Haripur, Pakistan
+While the discussion on generative artificial intelligence, such as ChatGPT, is making waves in academia and the popular press, there is a need for more insight into the use of ChatGPT among students and the potential harmful or beneficial consequences associated with its usage. Using samples from two studies, the current research examined the causes and consequences of ChatGPT usage among university students. Study 1 developed and validated an eight-item scale to measure ChatGPT usage 
+by conducting a survey among university students (N = 165). Study 2 used a three- wave time-lagged design to collect data from university students (N = 494) to further validate the scale and test the study’s hypotheses. Study 2 also examined the effects 
+of academic workload, academic time pressure, sensitivity to rewards, and sensitivity to quality on ChatGPT usage. Study 2 further examined the  effects of ChatGPT usage on students’ levels of procrastination, memory loss, and academic performance. Study 1 provided evidence for the validity and reliability of the ChatGPT usage scale. Further- more, study 2 revealed that when students faced higher academic workload and time pressure, they were more likely to use ChatGPT. In contrast, students who were sensitive to rewards were less likely to use ChatGPT. Not surprisingly, use of ChatGPT was likely to develop tendencies for procrastination and memory loss and dampen 
+the students’ academic performance. Finally, academic workload, time pressure, 
+and sensitivity to rewards had indirect effects on students’ outcomes through ChatGPT usage.
+
+Keywords: Workload, Time pressure, Sensitivity to quality, Sensitivity to rewards, ChatGPT usage, Procrastination, Memory loss, Academic performance
+Introduction
+"The ChatGPT software is raising important questions for educators and researchers all around the world, with regards to fraud in general, and particularly plagiarism," a spokesperson for Sciences Po told Reuters (Reuters, 2023).
+“I don’t think it [ChatGPT] has anything to do with education, except undermining it. ChatGPT is basically high-tech plagiarism…and a way of avoiding learning.” said Noam Chomsky, a public intellectual known for his work in modern linguistics, in an interview (EduKitchen & January21, 2023).
+© The Author(s) 2024. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the mate- rial. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http:// creativecommons.org/licenses/by/4.0/.
+
+A  bbas etal . Int J Educ Technol High Educ                         Page 15 of 22
+In recent years, the use of generative artificial intelligence (AI) has significantly influ - enced various aspects of higher education. Among these AI technologies, ChatGPT (OpenAI, 2022) has gained widespread popularity in academic settings for a variety of uses such as generation of codes or text, assistance in research, and the completion of assignments, essays and academic projects (Bahroun et al., 2023; Stojanov, 2023; Str - zelecki, 2023). ChatGPT enables students to generate coherent and contextually appro - priate responses to their queries, providing them with an effective resource for their academic work. However, the extensive use of ChatGPT brings a number of challenges for higher education (Bahroun etal., 2023; Chan, 2023; Chaudhry etal., 2023; Dalalah & Dalalah, 2023).
+Scholars have speculated that the use of ChatGPT may bring many harmful conse - quences for students (Chan, 2023; Dalalah & Dalalah, 2023; Dwivedi et al., 2023; Lee, 2023). It has the potential to harmfully affect students’ learning and success (Korn & Kelly, 2023; Novak, 2023) and erode their academic integrity (Chaudhry et al., 2023). Such lack of academic integrity can damage the credibility  of higher education institu - tions (Macfarlane et al., 2014) and harm the achievement motivation of students (Krou etal., 2021). However, despite the increasing usage of ChatGPT in higher education, very rare empirical research has focused on the factors that drive its usage among university students (Strzelecki, 2023). In fact, majority of the prior studies consist of theoretical discussions, commentaries, interviews, reviews, or editorials on the use of ChatGPT in academia (e.g., Cooper, 2023; Cotton et al., 2023; Dwivedi et al., 2023; King, 2023; Peters et al., 2023). For example, we have a very limited understanding of the key driv - ers behind the use of ChatGPT by university students and how    ChatGPT usageaffects their personal and academic outcomes. Similarly, despite many speculations, very lim - ited research has empirically examined the  beneficial or harmful effects of generative AI usage on students’ academic and personal outcomes (e.g., Yilmaz & Yilmaz, 2023a, 2023b). Even these studies provide contradictory evidence on whether ChatGPT is help - ful or harmful for students.
+Therefore, an understanding of the dynamics and the role of generative AI, such as ChatGPT, in higher education is still in its nascent stages (Carless etal., 2023; Strzelecki, 2023; Yilmaz & Yilmaz, 2023a). Such an understanding of the motives behind Chat - GPT usage and its potentially harmful or beneficial consequences is critical for educa - tors, policymakers, and students, as it can help the development of effective strategies to integrate generative AI technologies into the learning process and control their misuse in higher education (Meyer et al., 2023). For the same reasons, scholars have called for future research to delve deeper into the positives and negatives of ChatGPT in higher education (Bahroun etal., 2023; Chaudhry etal., 2023; Dalalah & Dalalah, 2023).
+Taken together, the current study has several objectives that aim to bridge these gaps and significantly contribute to the body of knowledge and practice in  higher education. First, responding to the call of prior research on the development of ChatGPT usage scale (Paul et al., 2023), we develop and validate a scale for ChatGPT usage in study 1. Next, we conduct another study (i.e., study 2) to investigate several theoretically rel - evant factors—such as academic workload, time pressure, sensitivity to rewards, and sensitivity to quality—which may potentially affect the use of ChatGPT by university students. In addition, concerns have been raised regarding the impact of ChatGPT on students’ academic performance and creativity. For example, scholars consider the use of ChatGPT as “deeply harmful to a social understanding of knowledge and learning” (Peters et al., 2023, p. 142) and having the potential to “kill creativity and critical think - ing” (Dwivedi etal., 2023, p. 25). However, empirical evidence regarding the harmful or beneficial consequences of ChatGPT usage remains largely unavailable. Therefore, we investigate the effects of ChatGPT usage on students’ procrastination, memory reten - tion/loss, and academic performance (i.e., CGPA). Together, this research aims to pro - vide valuable insights for educators, policymakers, and students in understanding the factors that encourage the use of ChatGPT by students and the beneficial or deleterious effects of such usage in higher education.
+Literature andhypotheses
+Academic workload and use of ChatGPT
+Academic workload refers to the number of academic tasks, responsibilities, and activ - ities that students are required to complete during a specific period, usually a semes - ter. The workload encompasses the volume and complexity of assignments or projects (Bowyer, 2012). Students are put under high stress when they have an excessive amount of academic work to complete (Yang etal., 2021).
+Studies  indicate  that  overburdened  students  are  more  likely  to  rely  on unethical means to complete their academic tasks instead of relying on their own abilities and learning. For example, Devlin and Gray (2007) found that students engage in unethi - cal academic practices such as cheating and plagiarism when they are exposed to heavy workload. Similarly, Koudela-Hamila etal. (2022) found a significantly positive relation - ship between academic workload and academic stress among university students. In another study, Hasebrook etal. (2023) found that individuals were more likely to accept and adopt technology when their workload was high. Consistently, when students are faced with high workload, they look for ways to cope with this demanding situation. As a result, they use easy means or shortcuts (e.g., ChatGPT) to cope with such stressful situ - ations (i.e., heavy workload). Consequently, we suggest:
+Hypothesis 1  Workload will be positively related to the use of ChatGPT.
+Time pressure and use of ChatGPT
+Time pressure is described as the perception that an impending deadline is becom - ing closer and closer (Carnevale & Lawler, 1986). Under time pressure, individuals use simple heuristics in order to complete tasks (Rieskamp & Hoffrage, 2008). Under high time pressure, students may consider the available time as insufficient to accomplish the assignments, and thereforethey may rely on ChatGPT to complete these tasks. Pre - liminary research indicates that time pressure to complete academic tasks encourages plagiarism among students (Koh et al., 2011). Devlin and Gray (2007) also found that students engage in cheating and plagiarism under time pressure to complete their aca - demic tasks. Similarly, those students who are exposed to time pressure adopt a surface learning approach (Guo, 2011), which indicates that the students may use shortcuts such 
+as ChatGPT to complete their tasks within deadlines. Therefore, we argue that under 
+high levels of time pressure, students are more likely to use ChatGPT for their academic activities. Consequently, we suggest:
+Hypothesis 2  Time pressure will be positively related to the use of ChatGPT.
+Sensitivity to rewards and use of ChatGPT
+Sensitivity to rewards is the degree to whicha student is worried or concerned about his 
+or her academic rewards such as grades. As far as the relationship between sensitivity to rewards and ChatGPT usageis concerned, prior research does not help to make a clear prediction. For example, on the one hand, it is possible that students with higher sensi - tivity to rewards may be more inclined to use ChatGPT, as they perceive it as a means to obtain better academic results. They may see ChatGPT as a resource to enhance their academic performance and get good grades. Evidence indicates that individuals, who are highly sensitive to rewards or impulsive, have a tendency to engage in risky behaviors such as texting on their cell phones while driving (Hayashi et al., 2015; Pearson et al., 2013). This indicates that students, who are reward sensitive, may engage in risky behav - iors such as the misuse of ChatGPT for academic activitiesor plagiarism.
+On the other hand, it is also possible that students who arehighly worried about their rewards may not use ChatGPT for the fear of losing their grades. Since the use of Chat - GPT for academic activities is usually considered as an unethical mean (Dalalah et al., 2023; Dwivedi et al., 2023), highly reward sensitive individuals may be more cautious about using technologies that their teachers perceive as ethically questionable or could jeopardize their academic integrity and grades. Consequently, we suggest competing hypotheses:
+Hypothesis 3a  Sensitivity to rewards will be positively related to the use of ChatGPT. Hypothesis 3b  Sensitivity to rewards will be negatively related to the use of ChatGPT.
+Sensitivity to quality and use of ChatGPT
+Sensitivity to quality or quality consciousness refers to the extent to which students are perceptive when evaluating the standard and excellence of their educational activities. This sensitivity involves the students’ consciousness of the quality of learning they are having (Olugbara et al., 2020) or the quality of contents (e.g., assignments or projects) they are working on. We suggest that students, who are sensitive to the quality of the contents, are more likely to use different tools to enhance the quality of their academic work.
+ChatGPT can be used by quality-conscious students for numerous reasons. Students, who are sensitive to quality, may want to ensure excellence, accuracy, and reliability in their work—and they may recognize the potential benefits of using ChatGPT to meet their expectations for high-quality academic work (Haensch etal., 2023; Yan, 2023). Sim - ilarly, students high in sensitivity to quality often pay great attention to grammar, style, and language precision. ChatGPT can assists in refining their written work by providing suggestions for sentence structure, word choice, and grammar (Abbas, 2023; Dwivedi et al., 2023). Therefore, students with a strong sensitivity to quality are more likely to 
+use ChatGPT in order to enhance the quality of their academic work (e.g., assignments, projects, essays, or presentations), as compared to those who are not sensitive to quality. Consequently, we suggest:
+Hypothesis 4  Sensitivity to quality will be positively related to the use of ChatGPT.
+Use of ChatGPT and procrastination
+Procrastination  occurs  when  people  “voluntarily  delay  an  intended  course  of  action despite expecting to be worse off for the delay” (Steel, 2007, p. 66). Some individuals are predisposed to put off doing things until later (i.e., chronic procrastinators), whereas others only do so in certain circumstances (Rozental etal., 2022). Academic procrastina - tion, which refers to the practice of routinely putting off academic responsibilities to the point that the delays become damaging to performance, is an important issue both for students and educational institutions (Svartdal & Løkke, 2022).
+Studies suggest that procrastination occurs very frequently in students (Bäulke & Dre - sel, 2023) and it may be influenced by a variety of environmental and personal factors (Liu et al., 2023; Steel, 2007). We argue that the use of generative AI may influence the tendencies for procrastination among students. Using short-cuts, which may help stu - dents to complete the academic tasks without putting much efforts, will eventually make the students habitual. As a result, these short cuts—such as the use of ChatGPT—may cause procrastination among students. For example, a student who is addicted to Chat - GPT usage maybelieve that he or she can complete an academic assignment or a project within less time and without putting much efforts. Such feelings of having control over the tasks are likely to encourage the students to delay those tasks till the last moment, thereby resulting in procrastination. More recent evidence alsoindicates that ChatGPT usage may cause laziness among students (Yilmaz & Yilmaz, 2023a). Consequently, we suggest:
+Hypothesis 5  Use of ChatGPT will be positively related to procrastination.
+Use of ChatGPT and memory loss
+Memory loss refers to a condition or a state in which an individual experiences difficulty in recalling information or events from the past (Mateos et al., 2016). Scholars indicate that cognitive, emotional, or physical conditions affect memory functioning among indi - viduals (Fortier-Brochu etal., 2012; Schweizer etal., 2018). We argue that excessiveuse of ChatGPT may result in memory loss among students. Continuous use of ChatGPT for academic tasks may develop laziness among the students and weaken their cognitive skills (Yilmaz & Yilmaz, 2023a) leading to a memory loss.
+Over time, overreliance on generative AI tools for academic tasks, instead of critical thinking and mental exertion, may damage memory retention, cognitive functioning, and critical thinking abilities (Bahrini et al., 2023; Dwivedi et al., 2023). Active learn - ing, which involves active cognitive engagement with the content, is crucial for memory consolidation and retention (Cowan etal., 2021). Since ChatGPT can  quickly respond to any questions asked by auser (Chan etal., 2023), students who excessivelyuse ChatGPT may reduce their cognitive efforts to complete their academic tasks, resulting in poor memory.
+Related evidence demonstrates that daily mental training helps to improve cognitive functions among individuals (Uchida & Kawashima, 2008). Similarly,fast simple numer - ical  calculation  training  (FSNC)  was  associated  with  improvements  in  performance on simple processing speed, improved executive functioning, and better performance in complex  arithmetic  tasks  (Takeuchi  et al.,  2016).  Moreover,  Nouchi  et al.  (2013) found that brain training games helped to boost working memory and processing speed in young adults. Therefore, the extensive use of ChatGPT may yield an absence of such cognitive trainings, thereby leading to memory loss among students. Consequently, we suggest:
+Hypothesis 6  Use of ChatGPT will be positively related to memory loss.
+Use of ChatGPT and academic performance
+Academic performance refers to the level of accomplishment that a student demon - strates in his or her educational pursuits. The objective measure of a student’s academic performance is indicated by cumulative grade point average (CGPA), which is a grading system used in educational institutions to measure a student’s overall academic perfor - mance in a specific period, usually a semester.
+If  students  effectively  leverage  the  insights  gained  from  ChatGPT  to  improve theirunderstanding of a subject, it may positively influence their academic performance. However, if they rely solely on ChatGPT without putting in the necessary efforts, critical thinking, and independent study, it may harm their academic performance. Over-reli - ance on external sources, including generative AI tools, without personal engagement and active learning, can hinder the development of essential skills and the depth of knowledge required for academic success (Chan et al., 2023). Therefore, students who habitually use ChatGPT may end up demonstrating poor academic performance. Conse - quently, we suggest:
+Hypothesis 7  Use of ChatGPT will be negatively related to academic performance.
+The mediating role of ChatGPT usage
+We further suggest that ChatGPT usage will mediate the relationships of workload, time pressure, sensitivity to quality, and sensitivity to rewards with students’ outcomes. Specifically, students who experience heavy workload and time pressure to complete their academic tasks are likely to engage in ChatGPT usage to cope with these stress - ful situations. In turn, reliance on ChatGPT may lead to delays in the accomplishment of the tasks (i.e., procrastination) because the students may believe that they can com - plete the tasks at any time without putting much efforts. Similarly, the excessively reli - ance on ChatGPT, as a substitute for their critical thinking and problem-solving skills, may hinder their ability to develop a deeper understanding of the subject matter, which can harmfully impact their academic performance (Abbas, 2023). Further, the high use of ChatGPT for academic tasks could potentially lead to reduced mental engagement, thereby exacerbating the risk of memory impairment (Bahrini etal., 2023; Dwivedi etal., 2023).
+Moreover, ChatGPT usage will mediate the relationships of rewards sensitivity and quality sensitivity with procrastination, memory loss, and academic performance. The fear of losing marks (i.e., reward sensitivity) and the consciousness towards quality of academic work (i.e., sensitivity to quality), may influence the use of ChatGPT. In turn, the excessive (or less) use of ChatGPT may affect students’ procrastination, memory loss, and academic performance. Together, we suggest:
+Hypothesis 8  Use of ChatGPT will mediate the relationships of workload with procras - tination, memory loss, and academic performance.
+Hypothesis 9  Use of ChatGPT will mediate the relationships of time pressure with pro - crastination, memory loss, and academic performance.
+Hypothesis 10  Use of ChatGPT will mediate the relationships of sensitivity to rewards with procrastination, memory loss, and academic performance.
+Hypothesis 11  Use of ChatGPT will mediate the relationships of sensitivity to quality with procrastination, memory loss, and academic performance.
+Methods (Study 1)
+ChatGPT usage scale development procedures
+Item generation: We used scale development procedures proposed in prior research (Hinkin,  1998). We first defined ChatGPT usage as the extent to which students use ChatGPT for various academic purposes including completion of assignments, projects, or preparation of exams. Based on this definition, initially 12 items were developed for further scrutiny.
+Initial item reduction: Following the guidelines of Hinkin (1998), we performed an item-sorting process during the early stages of scale development. In order to establish content validity of the ChatGPT usage scale, we conducted interviews from five experts of the relevant field. The experts were asked to evaluate each item  intended to measure ChatGPT usage. The experts agreed that 10 of the 12 items measured certain aspects of the academic use of ChatGPT by the students. Based on the content validity, these 10 items were finalized for further analyses.
+Sample and data collection
+The 10-item scale for the use of ChatGPT was distributed among 165 students from numerous university across Pakistan. The responses were taken on a 6-point Likert type scale with anchors ranging from 1 = never to 6 = always. A cover letter clearly communicated that the participation was voluntary, and the student could decline participation at any point during data collection. The respondents were also ensured complete confidentiality of their responses. The sample consisted of 53.3% males. The average age was 23.25 year (S.D = 4.22). Around 85% universities were from public sector and the remaining belonged to private sector. Similarly, around 59% students were enrolled in business studies, 6% were enrolled in computer sciences, 9% were enrolled in general education, 5% were enrolled in psychology, 4% were enrolled in English language, 4% were enrolled in public administration, 9% were enrolled in sociology,  and  4%  were  enrolled  in  mathematics.  Furthermore,  around  74%  were enrolled in bachelor’s programs, 22% were enrolled in master’s programs, and 4% were enrolled in doctoral programs.
+Exploratory factor analysis
+Next,  we  conducted  an  exploratory  factor  analysis  (EFA)  to  determine  the  fac - tor structure of the proposed scale (Field, 2018; Hinkin, 1998). Principal component analysis (Nunnally & Bernstein, 1994) was used for extraction and the varimax rota - tion with Kaiser normalization was used as a rotation method. To ascertain the num - ber of variables, the parameters of eigenvalue > 1 and the total percentage of variance explained > 50% were used. The results revealed that the Bartlett’s test of sphericity was significant  (p < 0.001)  and  the  Kaiser–Meyer–Olkin  (KMO)  sampling  adequacy  was 0.878 (p < 0.001), which was greater than the threshold value of 0.50, thereby considered acceptable for sample adequacy (Field, 2018). Further, factor loadings and communali - ties above 0.5 are usually considered acceptable (Field, 2018). As shown in Table1, the results revealed that item 4 and item 9 had low factor loadings and communalities.
+We then dropped these two items and conducted another EFA on the remaining eight items. As presented in Table 2, all 8 items exceeded the threshold criteria. Also, a one-factor structure accounted for 62.65% of the cumulative variance with all item loadings above 0.50. Therefore, the final scale to measure use of ChatGPT consisted of eight items. The Cronbach’s alpha (CA) for the 8-item scale was α = 0.914 and the composite reliability (CR) was 0.928. These scores of CA and CR exceeded the thresh - old value of 0.7, thereby indicating construct reliability (Nunnally & Bernstein, 1994). Finally, as shown in Table 2, the average variance extracted (AVE) score was 0.618, which was above the threshold value of 0.5, thus indicating convergent validity (Hair et al., 2019). Together, these results established good reliability and validity of the 8-item scale to measure ChatGPT usage.
+Table 1  Use of ChatGPT scale: factor loadings, communalities, and total variance extracted (Study 1)
+ 
+                      Items                                                          Factor loading          Communalities            Total variance
+                                                                                                                                       extracted
+                      I use ChatGPT for my course assignments                        0.82                    0.67                     54.721
+                      I use ChatGPT for my course projects                           0.78                    0.60
+                      I use ChatGPT for my academic activities                       0.82                    0.67
+                      I can’t think of studies without ChatGPT                       0.58                    0.34
+                      I rely on ChatGPT for my studies                               0.79                    0.63
+                      I use ChatGPT to learn course-related concepts                 0.76                    0.57
+                      I am addicted to ChatGPT when it comes to studies              0.79                    0.63
+                      I use ChatGPT to prepare for my tests or quizzes               0.76                    0.58
+                      Use of ChatGPT is common nowadays                              0.44                    0.19
+                      ChatGPT is part of my campus life                              0.77                    0.59
+Table 2  Revised use of ChatGPT scale: factor loadings, communalities, and total variance extracted (Study 1)
+ 
+                      Items Factor loading Communalities                                                         Total variance CA        CR      AVE
+                                                                                                                  extracted
+                      I use ChatGPT for my course assign- 0.837 ments                0.701                      62.650         0.914     0.928   0.61
+                      I use ChatGPT for my academic activi- 0.824 ties               0.680
+                      I use ChatGPT for my course projects 0.798                     0.637
+                      I am addicted to ChatGPT when it  0.792 comes to studies       0.627
+                      I rely on ChatGPT for my studies 0.780                         0.608
+                      I use ChatGPT to prepare for my tests  0.775 or quizzes        0.601
+                      I use ChatGPT to learn course-related  0.769 concepts          0.592
+                      ChatGPT is part of my campus life 0.752                        0.566
+                      CA Cronbach’s Alpha, CR composite reliability, AVE average variance extracted
+
+Fig. 1  Theoretical framework of the study
+Methods (Study 2)
+Sample and data collection procedures
+The objective of study 2 was to further validate the 8-item ChatGPT scale developed in study 1. In addition, we tested the study’s hypotheses in study 2. Figure 1 presents the theoretical framework of study 2. The study used a time-lagged design, whereby the data were collected using online forms in three phases with a gap of 1–2 weeks after each phase. The data were collected from individuals who were currently enrolled in a university.
+We used procedural and methodological remedies recommended by scholars (see, Podsakoff etal., 2012) to address issues related to common method bias. First, we clearly communicated  to  our  participants  that  their  involvement  was  voluntary,  and  they retained the right to decline participation at any point during data collection. In addition, we ensured complete confidentiality of their responses, emphasizing that there were no right or wrong responses to the questions. Finally, we used a three-wave time-lagged design to keep a temporal separation between predictors and outcomes (Podsakoff etal., 2012). In each phase, the students were asked to assigned a code initially generated by them so that the survey forms for each respondent could be matched. Moreover, ethi - cal clearance and approvals from the ethics committees of the authors’ institutions were 
+also obtained. Since English is the official language in all educational institutions, the survey forms were distributed in English. Past research has also used English language for survey research (e.g., Abbas & Bashir, 2020; Fatima etal., 2023; Malik etal., 2023).
+In the first phase, around 900 participants were contacted to fill the survey on work - load, time pressure, sensitivity to quality, sensitivity to rewards, and demographics. At the end of the first phase, a total of 840 surveys were received. In the second phase, after 1–2 weeks, the same respondents were contacted to fill the survey on the use of ChatGPT. Around 675 responses were received at the end of the second phase. Finally, another two weeks later, these 675 respondents were contacted again to collect data on memory loss, procrastination, and academic performance. At the end of the third phase, around 540 survey forms were returned. After removing surveys which contained miss - ing data, the final sample size consisted of 494 complete responses which were then used for further analyses.
+Of these 494 respondents, 50.8% were males and the average age of the respondents was 22.16 (S.D. = 3.47) years. Similarly, 88% of the respondents belonged to public sec - tor and 12% belonged to private sector universities. Around 65% students were enrolled in business studies, 3% were enrolled in computer sciences, 12% were enrolled in gen - eral education, 1% were studying English language, 9% were studying public administra - tion, and 10% were studying sociology. Finally, around 74% were enrolled in bachelor’s programs, 24% were enrolled in master’s programs, and 2% were enrolled in doctoral programs.
+Measures
+All variables, except for the use of ChatGPT, were measured on a 5-point Likert type scale with anchors ranging from 1 = strongly disagree to 5 = strongly agree. Use of Chat- GPT was measured on a 6-point Likert type scale with anchors ranging from 1 = never to 6 = always. The complete items for all measures are presented in Table3.
+Academic workload: A 4-item scale by Peterson et al. (1995) was adapted to measure academic workload. A sample item included, ‘I feel overburdened due to my studies.’
+Academic time pressure: A 4-item scale by Dapkus (1985) was adapted to measure time pressure. A sample item was, ‘I don’t have enough time to prepare for my class projects.’
+Sensitivity to rewards: We measured sensitivity to rewards with a 2-item scale. The items included, ‘I am worried about my CGPA’ and ‘I am concerned about my semester grades.’
+Sensitivity to quality: Sensitivity to quality was measured with a 2-item scale. The items were, ‘I am sensitive about the quality of my course assignments’ and ‘I am con - cerned about the quality of my course projects.’
+Use of ChatGPT: We used the 8-item scale developed in study 1 to measure the use of ChatGPT. A sample item was, ‘I use ChatGPT for my academic activities.’
+Procrastination: A 4-item scale developed by Choi and Moran (2009) was used to measure procrastination. A sample item included, ‘I’m often running late when getting things done.’
+Memory loss: We used a 3-item scale to measure memory loss. A sample item was, ‘Nowadays, I can’t retain too much in my mind.’
+Table 3  Factor loading, reliability, and validity (Study 2)
+ 
+                      Items                                                                                       Loadings      CA      CR      AVE
+                      Workload (Peterson et al., 1995)                                                                          0.845   0.895   0.68
+                      My academic workload is too heavy                                                           0.861
+                      I feel overloaded by the work my studies require                                            0.838
+                      I feel overburdened due to my studies                                                       0.810
+                      The teacher(s) give too much work to do                                                     0.788
+                      Time pressure (Dapkus, 1985)                                                                              0.740   0.833   0.56
+                      I don’t have enough time to prepare for my class projects                                   0.829
+                      I don’t have enough time to complete study-related tasks with appropriate care              0.810
+                      I find it difficult to submit my assignments and projects within the deadlines              0.804
+                      I am often in hurry when it comes to meeting academic deadlines                             0.511
+                      Sensitivity to rewards                                                                                    0.881   0.944   0.89
+                      I am worried about my CGPA                                                                  0.947
+                      I am concerned about my semester grades                                                     0.944
+                      Sensitivity to quality                                                                                    0.717   0.871   0.77
+                      I am concerned about the quality of my course projects                                      0.930
+                      I am sensitive about the quality of my course assignments                                   0.825
+                      Use of ChatGPT                                                                                            0.903   0.922   0.59
+                      I use ChatGPT for my academic activities                                                    0.812
+                      I use ChatGPT to prepare for my tests or quizzes                                            0.795
+                      I use ChatGPT for my course projects                                                        0.788
+                      I use ChatGPT to learn course-related concepts                                              0.778
+                      I rely on ChatGPT for my studies                                                            0.771
+                      I use ChatGPT for my course assignments                                                     0.762
+                      I am addicted to ChatGPT when it comes to studies                                           0.735
+                      ChatGPT is part of my campus life                                                           0.732
+                      Procrastination (Choi & Moran, 2009)                                                                      0.756   0.845   0.57
+                      I often fail to accomplish goals that I set for myself                                      0.795
+                      I’m often running late when getting things done                                             0.792
+                      I often start things at the last minute and find it difficult to complete them on time      0.739
+                      I have difficulty finishing activities once I start them                                    0.710
+                      Memory loss                                                                                               0.757   0.860   0.67
+                      Nowadays, I often forget things to do                                                       0.862
+                      Nowadays, I can’t retain too much in my mind                                                0.829
+                      Nowadays, I feel that I am losing my memory                                                 0.765
+The CA, CR, and AVE for academic performance was not calculated because it was measured using a single item/score (i.e., CGPA)
+CA Cronbach’s Alpha, CR composite reliability, AVE average variance extracted
+Academic performance: We used an objective measure of academic performance to avoid self-report or social desirability bias. Each student reported his or her latest CGPA. The CGPA score ranges between 1 = lowest to 4 = highest. Since CGPA for each respondent was obtained as a single score, there was no need to calculate its reliability or validity.
+Analyses andresults (Study 2)
+We used partial least squares (PLS) method to validate the measurements and test the hypotheses, as PLS is a second-generation structural equation modeling (SEM) tech - nique that estimates relationships among latent variables by taking measurement errors into account and it is considered as a superior technique (Hair et al., 2017). The pro - gram utilizes bootstrapping approaches which entails the process of resampling from the dataset to provide standard errors and confidence intervals, yielding a more precise assessment of the model’s stability (Hair etal., 2017, 2019). Further, partial least squares (PLS) are often favored insituations with limited sample numbers and non-normal dis -
+tributions (Hair etal., 2019).
+Measurement model
+The measurement model is presented in Fig.2. In the measurement model, first, we ran all the constructs together and examined the commonly used indicators of standardized factor loading, CA, CR, and AVE. The measurement model exhibited adequate levels of validity and reliability. As shown in Table 3, the standardized factor loadings for each item of each measure were above the threshold level of 0.70 (Hair etal., 2019). Similarly, CA and CR scores for each measure were above 0.70 and the AVE also surpassed 0.5. All scores exceeded the cut-off criteria, thereby establishing reliability and convergent valid - ity of each construct (Hair etal., 2019).
+Furthermore, discriminant validity ensures that each latent construct is distinct from other constructs. As per Fornell and Larcker’s (1981) criteria, discriminant validity is established if the squared root of the AVE for each construct is larger than the correla - tion of that construct with other constructs. As shown in Table4, the squared root of the AVE for each construct (the value along the diagonal presented in bold) exceeded 
+
+Fig. 2  Measurement indicators outer-loadings and AVE (Study 2)
+   
+the correlation of that construct with other constructs, thereby establishing discriminant validity of all constructs. Similarly, Henseler etal. (2015) consider Heterotrait-Monotrait (HTMT) ratio as a better tool to establish discriminate validity, as a large number of researchers have also used it (e.g., Hosta & Zabkar, 2021). HTMT values below 0.85 are considered good to establish discriminant validity (Henseler et al., 2015). As shown in Table4, all of the HTMT values were below the threshold, thereby establishing discrimi - nant validity among the study’s constructs.
+Furthermore, in order to test multicollinearity, we calculated variance inflation factor (VIF), which should be less than5 to rule out the possibility of multicollinearity among the constructs (Hair et al., 2019). In all analyses, VIF scores were less than 5, indicating that multicollinearity was not a problem.
+Structural model
+We then tested the study’s hypotheses for direct and indirect effect using bootstrapping procedures with 5,000 samples in SmartPLS (Hair et al., 2017). The structural model is presented in Fig.3.
+As presented in Table5, the findings revealed that workload was positively related to the use of ChatGPT (β = 0.133, t = 2.622, p < 0.01). Those students who experienced high levels of academic workload were more likely to engage in ChatGPT usage. This result supported hypothesis 1. Similarly, time pressure also had a significantly positive rela - tionship with the use of ChatGPT (β = 0.163,  t = 3.226,  p < 0.001), thereby supporting hypothesis 2. In other words, students who experienced high time pressure to accom - plish their academic tasks also reported higher use of ChatGPT. Further, the effect of sensitivity to rewards on the use of ChatGPT was negative and marginally significant (β = − 0.102, t = 1.710, p < 0.10), thereby suggesting that students who are more sensitive 
+
+Fig. 3  Structural model (Study 2)
+Table 5  Direct effects (Study 2)
+Hypothesis Path Coefficient T Statistics P-value Status
+
+A  bbas etal . Int J Educ Technol High Educ                         Page 21 of 22
+H1 Workload -> Use of ChatGPT
+H2 Time Pressure -> Use of ChatGPT
+H3a, H3b Sensitivity to Rewards -> Use of ChatGPT H4 Sensitivity to Quality -> Use of ChatGPT H5 Use of ChatGPT -> Procrastination
+H6 Use of ChatGPT -> Memory Loss
+H7 Use of ChatGPT -> Academic Performance
+0.133 2.622 0.009 Supported
+0.163 3.226 0.001 Supported
+− 0.102 1.710 0.087 H3b supported
+0.033 0.590 0.555 Not supported
+0.309 6.984 0.000 Supported
+0.274 6.452 0.000 Supported
+− 0.104 2.390 0.017 Supported
+
+A  bbas etal . Int J Educ Technol High Educ                         Page 21 of 22
+to rewards are less likely to use ChatGPT. These results supported hypothesis 3b instead of hypothesis 3a. Finally, we found that sensitivity to quality was not significantly related to the use of ChatGPT (β = 0.033, t = 0.590, n.s). Thus, hypothesis 4 was not supported.
+Consistent with hypothesis 5, the findings further revealed that the use of ChatGPT was positively related to procrastination (β = 0.309, t = 6.984, p < 0.001). Those stu- dents who frequently used ChatGPT were more likely to engage in procrastination than those who rarely used ChatGPT. Use of ChatGPT was also found to be positively related to memory loss (β = 0.274, t = 6.452, p < 0.001), thus hypothesis 6 was also supported. Students who frequently used ChatGPT also reported memory impair - ment. Furthermore, use of ChatGPT was found to have a negative effect on academic performance (i.e., CGPA) of the students (β = − 0.104, t = 2.390, p < 0.05). Students who frequently used ChatGPT for their academic tasks had poor CGPAs. These find - ings rendered support for hypothesis 7.
+Table 6 presents the results for all indirect effects. As shown in Table 6, workload had  a  positive  indirect  effect  on  procrastination  (indirect  effect = 0.041, t = 2.384, 
+p < 0.05)  and  memory  loss  (indirect  effect = 0.036, t = 2.333, p < 0.05)  through  the use of ChatGPT. Students who experienced higher workload were more likely to use ChatGPT which in turn developed the habits of procrastination among them and caused memory loss. Similarly, workload had a negative indirect effect on academic performance (indirect effect = − 0.014, t = 1.657, p < 0.10) through the use of Chat - GPT. In other words, students who experienced higher workload were more likely to use ChatGPT. As a result, the extensive use of ChatGPT dampened their academic performance. These results supported hypothesis 8.
+In addition, time pressure had a positive indirect effect on both procrastination (indi - rect effect = 0.050, t = 2.607, p < 0.01) and memory loss (indirect effect = 0.045, t = 2.574, 
+p < 0.01), through an increased utilization of ChatGPT. Students facing higher time con - straints were more inclined to use ChatGPT, ultimately fostering procrastination habits and experiencing memory issues. Similarly, time pressure had a negative indirect effect on academic performance (indirect effect =  − 0.017,  t = 1.680,  p < 0.10), mediated by the increased use of ChatGPT. Thus, students experiencing greater time pressure were more likely to rely heavily on ChatGPT, consequently leading to a dampening of their academic performance. Together, these results supported hypothesis 9.
+Furthermore, sensitivity to rewards had a negative indirect relationship with pro - crastination  (indirect  effect = − 0.032,  1.676,  p < 0.10)  and  memory  loss  (indirect 
+Table 6  Indirect effects via use of ChatGPT (Study 2)
+ 
+                      Hypothesis     Path                                                 Coefficient     T Statistics   P-value    Status
+                      H8             Workload -> Use of ChatGPT -> Procrastina- tion      0.041         2.384          0.017     Supported
+                      H8             Workload -> Use of ChatGPT -> Memory Loss            0.036         2.333          0.020     Supported
+                      H8             Workload -> Use of ChatGPT -> Academic Performance   − 0.014       1.657          0.098     Supported
+                      H9             Time Pressure -> Use of ChatGPT -> Procras- tination 0.050         2.607          0.009     Supported
+                      H9             Time Pressure -> Use of ChatGPT -> Memory Loss       0.045         2.574          0.010     Supported
+                      H9             Time Pressure -> Use of ChatGPT -> Aca- demic        − 0.017       1.680          0.093     Supported
+                                      Performance
+                      H10            Sensitivity to Rewards -> Use of ChatGPT ->          − 0.032       1.676          0.094     Supported
+                                      Procrastination
+                      H10            Sensitivity to Rewards -> Use of ChatGPT -> Memory   − 0.028       1.668          0.095     Supported
+                                      Loss
+                      H10            Sensitivity to Rewards -> Use of ChatGPT -> Academic 0.011         1.380          0.168     Not supported
+                                      Performance
+                      H11            Sensitivity to Quality -> Use of ChatGPT ->          0.010         0.582          0.561     Not supported
+                                      Procrastination
+                      H11            Sensitivity to Quality -> Use of ChatGPT -> Memory   0.009         0.582          0.561     Not supported
+                                      Loss
+                      H11            Sensitivity to Quality -> Use of ChatGPT -> Academic − 0.003       0.535          0.593     Not supported
+                                      Performance
+effect = − 0.028, t = 1.668, p < 0.10) through the use of ChatGPT. Students who were sensitive to rewards were less likely to use ChatGPT and thus experience lower levels of procrastination and memory loss. However, the findings revealed that the indirect effect of sensitivity to rewards on academic performance was insignificant (indirect effect = 0.011, t = 1.380, p = 0.168). These findings supported hypothesis 10 for pro - crastination and memory loss only. Finally, the indirect effects of sensitivity to qual - ity on procrastination (indirect effect = 0.010, t = 0.582, n.s), memory loss (indirect effect = 0.009, t = 0.582, n.s), and academic performance (indirect effect = − 0.003, 
+t = 0.535, n.s) through the use of ChatGPT were all insignificant. Therefore, hypoth - esis 11 was not supported.
+Overall discussion
+Major findings
+The recent emergence of generative AI has brought about significant implications for various societal institutions, including higher education institutions. As a result, there has been a notable upswing in discussions among scholars and academicians regarding the transformative potential of generative AI, particularly ChatGPT, in higher education and the risks associated with it (Dalalah & Dalalah, 2023; Meyer etal., 2023; Peters etal., 2023; Yilmaz & Yilmaz, 2023a). Specifically, the dynamics of ChatGPT are still unknown in the context that no study, to date, has yet provided any empirical evidence on why students’ use ChatGPT. The literature is also silent on the potential consequences, harm - ful or beneficial, of ChatGPT usage (Dalalah & Dalalah, 2023; Paul etal., 2023) despite a ban in many institutions across the globe. Responding to these gaps in the literature, the current study proposed workload, time pressure, sensitivity to rewards, and sensitivity 
+to quality as the potential determinants of the use of ChatGPT. In addition, the study examined the effects of ChatGPT usage on students’ procrastination, memory loss, and academic performance.
+The findings suggested that those students who experienced high levels of academic workload and time pressure to accomplish their tasks reported higher use of ChatGPT. Regarding the competing hypotheses on the effects of sensitivity to rewards on ChatGPT usage, the findings suggested that the students who were more sensitive to rewards were less likely to use ChatGPT. This indicates that rewards sensitive students might avoid the use ChatGPT for the fear of getting a poor grade if caught. Surprisingly, we found that sensitivity to quality was not significantly related to the use of ChatGPT. It appears that quality consciousness might not determine the use of ChatGPT because some quality conscious students might consider the tasks completed by personal effort as having high quality. In contrast, other quality conscious students might consider ChatGPT written work as having a better quality.
+Furthermore, our findings suggested that excessive use of ChatGPT can have harmful effects on students’ personal and academic outcomes. Specifically, those students who frequently used ChatGPT were more likely to engage in procrastination than those who rarely used ChatGPT. Similarly, students who frequently used ChatGPT also reported memory loss. In the same vein, students who frequently used ChatGPT for their aca - demic tasks had a poor CGPA. The mediating effects indicated that academic workload and  time  pressure  were  likely  to  promote  procrastination  and  memory  impairment among students through the use of ChatGPT. Also, these stressors dampened students’ academic performance through the excessive use of ChatGPT. Consistently, the findings suggested that higher reward sensitivity discouraged the students to use ChatGPT for their academic tasks. The less use of ChatGPT, in turn, helped the students experience lower levels of procrastination and memory loss.
+Theoretical implications
+The current study responds to the calls for the development of a novel scale to measure the use of ChatGPT and an empirical investigation into the harmful or beneficial effects of ChatGPT in higher education for a better understand of the dynamics of generative AI tools. Study 1 uses a sample of university students to develop and validate the use of ChatGPT scale. We believe that the availability of the new scale to measure the use of ChatGPT may help further advancement in this field. Moreover, study 2 validates the scale using another sample of university students from a variety of disciplines. Study 2 also examines the potential antecedents and consequences of ChatGPT usage. This is the first attempt to empirically examine why students might engage in ChatGPT usage. We provide evidence on the role of academic workload, time pressure, sensitivity to rewards, and sensitivity to quality in encouraging the students to use ChatGPT for aca - demic activities.
+The study also contributes to the prior literature by examining the potential delete - rious consequences of ChatGPT usage. Specifically, the study provides evidence that the excessive use of ChatGPT can develop procrastination, cause memory loss, and dampen academic performance of the students. The study is a starting point that paws path for future research on the beneficial or deleterious effects of generative AI usage in academia.
+Practical implications
+The  study  provides  important  implications  for  higher  education  institutions,  policy makers, instructors, and students. Our findings suggest that both heavy workload and time pressure are influential factors driving students to use ChatGPT for their academic tasks.  Therefore,  higher  education  institutions  should  emphasize  the  importance  of efficient time management and workload distribution while assigning academic tasks and deadlines. While ChatGPT may aid in managing heavy academic workloads under time constraints, students must be kept aware of the negative consequences of exces - sive ChatGPT usage. They may be encouraged to use it as a complementary resource for learning instead of a tool for completing academic tasks without investing cognitive efforts. In the same vein, encouraging students to keep a balance between technological assistance and personal effort can foster a holistic approach to learning.
+Similarly, policy makers and educators should design curricula and teaching strategies that engage students’ natural curiosity and passion for learning. While ChatGPT’s ease of use might be alluring, fostering an environment where students derive satisfaction from mastering challenging concepts independently can mitigate overreliance on gen - erative AI tools. Also, recognizing and rewarding students for their genuine intellectual achievements can create a sense of accomplishment that may supersede the allure of quick AI-based solutions. As also noted by Chaudhry etal. (2023), in order to discourage misuse of ChatGPT by the students, the instructors may revisit their performance evalu - ation methods and design novel assessment criteria that may require the students to use their own creative skills and critical thinking abilities to complete assignments and pro - jects instead of using generative AI tools.
+Moreover, given the preliminary evidence that extensive use of ChatGPT has a nega - tive effect on a students’ academic performance and memory, educators should encour - age students to actively engage in critical thinking and problem-solving by assigning activities, assignments, or projects that cannot be completed by ChatGPT. This can mitigate the adverse effects of ChatGPT on their learning journey and mental capabili - ties. Furthermore, educators can create awareness among students about the potential pitfalls of excessive ChatGPT usage. Finally, educators and policy makers can develop interventions  that  target  both  the  underlying  causes  (e.g.,  workload,  time  pressure, sensitivity to rewards) and the consequences (e.g., procrastination, memory loss, and academic performance). These interventions could involve personalized guidance, skill- building workshops, and awareness campaigns to empower students to leverage genera - tive AI tools effectively while preserving their personal learning.
+Limitations and future research directions
+Like other study, this study also has some limitations. First, although we used a time- lagged design, as compared to cross-sectional designs used by prior research (e.g., Strzelecki, 2023), we could not completely rule out the possibility of reciprocal rela - tionships. For example, it is also possible that ChatGPT usage may also help lessen the subsequent perceptions of workload. Future research may examine these causal mechanisms using a longitudinal design. Second, in order to provide a deeper under - standing of generative AI usage, future studies may examine how personality factors, such as trust propensity and the Big Five personality traits, relate to ChatGPT usage. Also, an understanding of how these traits shape perceptions of ChatGPT’s reliability, trustworthiness, and effectiveness may shed light on the dynamics of user-machine interactions in the context of generative AI.
+Moreover, our finding regarding the insignificant effect of quality consciousness on ChatGPT usage warrants further investigation. While some quality conscious stu - dents might consider personal effort as a condition to produce quality work, other quality conscious individuals might believe that ChatGPT can help achieve quality in  academic  tasks.  Perhaps,  some  contextual  moderators  (e.g.,  propensity  to  trust generative AI) may play their role in determining the effects of quality conscious - ness on ChatGPT usage. In the same vein, fear of punishment may also discourage the use of ChatGPT for plagiarism. As noted by an anonymous reviewer, future stud - ies may probe the benefits associated with the use of generative AI and also compare the dynamics of ChatGPT usage across numerous fields of knowledge (e.g., computer sciences, social sciences) or across gender to examine any differential effects. Finally, future research may probe the effects of ChatGPT usage on students’ learning and health outcomes. By investigating how ChatGPT usage impacts cognitive skills, men - tal health, and learning experiences among students, researchers can contribute to the growing discourse on the role of generative AI in higher education.
+Acknowledgements
+Not applicable.
+Author contributions
+MA contributed to the conceptualization of the idea, theoretical framework, methodology, analyses, and the writeup. FAJ and TIK contributed to the data collection, methodology, analyses, and the write-up. All authors read and approved the final manuscript.
+Funding
+There was no funding received from any institution for this study.
+Availability of data and materials
+The data associated with this research is available upon a reasonable request.
+Declarations
+Ethics approval and consent to participate
+The research was explicitly approved by the ethical review committee of the authors’ university. All procedures per- formed in studies involving human participants were in accordance with the ethical standards of the institution.
+Informed consent
+Participants were informed about the study’s procedures, risks, benefits, and other aspects before their participation. Only those who gave their consent were allowed to participate in the research.
+Competing interests
+The authors declare that they do not have any competing interests.
+Received: 14 September 2023   Accepted: 22 January 2024
+
+References
+Abbas, M. (2023). Uses and misuses of ChatGPT by academic community: an overview and guidelines. SSRN. https:// 
+doi. org/ 10. 2139/ ssrn. 44025 10
+Abbas, M., & Bashir, F. (2020). Having a green identity: does pro-environmental self-identity mediate the effects of moral 
+identity on ethical consumption and pro-environmental behavior? Studia Psychologica, 41(3), 612–643. https:// doi. 
+org/ 10. 1080/ 02109 395. 2020. 17962 71
+Bahrini, A., Khamoshifar, M., Abbasimehr, H., Riggs, R. J., Esmaeili, M., Majdabadkohne, R. M., & Pasehvar, M. (2023). Chat- GPT: Applications, opportunities, and threats. In 2023 Systems and Information Engineering Design Symposium (SIEDS) 
+(pp. 274–279).
+Bahroun, Z., Anane, C., Ahmed, V., & Zacca, A. (2023). Transforming Education: A comprehensive review of generative 
+artificial intelligence in educational settings through bibliometric and content analysis. Sustainability, 15(17), 12983. 
+https:// doi. org/ 10. 3390/ su151 712983
+Bäulke, L., & Dresel, M. (2023). Higher-education course characteristics relate to academic procrastination: A multivariate 
+two-level analysis. Educational Psychology, 43(4), 263–283. https:// doi. org/ 10. 1080/ 01443 410. 2023. 22198 73
+Bowyer, K. (2012). A model of student workload. Journal of Higher Education Policy and Management, 34(3), 239–258. 
+https:// doi. org/ 10. 1080/ 13600 80X. 2012. 678729
+Carless, D., Jung, J., & Li, Y. (2023). Feedback as socialization in doctoral education: Towards the enactment of authentic 
+feedback. Studies in Higher Education. https:// doi. org/ 10. 1080/ 03075 079. 2023. 22428 88
+Carnevale, P. J. D., & Lawler, E. J. (1986). Time pressure and the development of integrative agreements in bilateral nego-
+tiations. Journal of Conflict Resolution, 30(4), 636–659. https:// doi. org/ 10. 1177/ 00220 02786 03000 4003
+Chan, C. K. Y. (2023). A comprehensive AI policy education framework for university teaching and learning. International 
+Journal of Educational Technology in Higher Education, 20(1), 1–25. https:// doi. org/ 10. 1186/ s41239- 023- 00408-3
+Chan, M. M. K., Wong, I. S. F., Yau, S. Y., & Lam, V. S. F. (2023). Critical reflection on using ChatGPT in student learning: Ben-
+efits or potential risks? Nurse Educator. https:// doi. org/ 10. 1097/ NNE. 00000 00000 001476
+Chaudhry, I. S., Sarwary, S. A. M., El Refae, G. A., & Chabchoub, H. (2023). Time to revisit existing student’s performance 
+evaluation approach in higher education sector in a new era of ChatGPT—a case study. Cogent Education, 10(1), 
+2210461. https:// doi. org/ 10. 1080/ 23311 86X. 2023. 22104 61
+Choi, J. N., & Moran, S. V. (2009). Why not procrastinate? Development and validation of a new active procrastination 
+scale. The Journal of Social Psychology, 149(2), 195–212. https:// doi. org/ 10. 3200/ SOCP. 149.2. 195- 212
+Cooper, G. (2023). Examining science education in ChatGPT: An exploratory study of generative artificial intelligence. 
+Journal of Science Education and Technology. https:// doi. org/ 10. 1007/ s10956- 023- 10039-y
+Cotton, D. R. E., Cotton, P. A., & Shipway, J. R. (2023). Chatting and cheating: Ensuring academic integrity in the era of 
+ChatGPT. Innovations in Education and Teaching International. https:// doi. org/ 10. 1080/ 14703 297. 2023. 21901 48
+Cowan, E. T., Schapiro, A. C., Dunsmoor, J. E., & Murty, V. P. (2021). Memory consolidation as an adaptive process. Psycho-
+nomic Bulletin & Review, 28(6), 1796–1810. https:// doi. org/ 10. 3758/ s13423- 021- 01978-x
+Dalalah, D., & Dalalah, O. M. A. (2023). The false positives and false negatives of generative AI detection tools in education 
+and academic research: The case of ChatGPT. The International Journal of Management Education, 21(2), 100822. 
+https:// doi. org/ 10. 1016/j. ijme. 2023. 100822
+Dapkus, M. A. (1985). A thematic analysis of the experience of time. Journal of Personality and Social Psychology, 49(2), 
+408–419. https:// doi. org/ 10. 1037/ 0022- 3514. 49.2. 408
+Devlin, M., & Gray, K. (2007). In their own words: A qualitative study of the reasons Australian university students plagia-
+rize. Higher Education Research & Development, 26(2), 181–198. https:// doi. org/ 10. 1080/ 07294 36070 13108 05
+Dwivedi, Y. K., Kshetri, N., Hughes, L., Slade, E. L., Jeyaraj, A., Kar, A. K., Baabdullah, A. M., Koohang, A., Raghavan, V., Ahuja, 
+M., Albanna, H., & Wright, R. (2023). “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy. International Journal of Information Management, 71, 102642. https:// doi. org/ 10. 1016/j. ijinf omgt. 2023. 102642
+EduKitchen. (2023). Chomsky on ChatGPT, Education, Russia, and the unvaccinated [Video]. YouTube. https:// www. youtu be. 
+com/ watch?v= Igxzc OugvE I&t= 1182s
+Fatima, S., Abbas, M., & Hassan, M. M. (2023). Servant leadership, ideology-based culture and job outcomes: A multi-level 
+investigation among hospitality workers. International Journal of Hospitality Management, 109, 103408. https:// doi. 
+org/ 10. 1016/j. ijhm. 2022. 103408
+Field, A. (2018). Discovering statistics using IBM SPSS Statistics (5th ed.). SAGE.
+Fornell, C., & Larcker, D. F. (1981). Structural equation models with unobservable variables and measurement error: Alge-
+bra and statistics. Journal of Marketing Research, 18(3), 382–388. https:// doi. org/ 10. 1177/ 00222 43781 01800 313
+Fortier-Brochu, É., Beaulieu-Bonneau, S., Ivers, H., & Morin, C. M. (2012). Insomnia and daytime cognitive performance: A 
+meta-analysis. Sleep Medicine Reviews, 16(1), 83–94. https:// doi. org/ 10. 1016/j. smrv. 2011. 03. 008
+Guo, X. (2011). Understanding student plagiarism: An empirical study in accounting education. Accounting Education, 
+20(1), 17–37. https:// doi. org/ 10. 1080/ 09639 284. 2010. 534577
+Haensch, A., Ball, S., Herklotz, M., & Kreuter, F. (2023). Seeing ChatGPT through students’ eyes: An analysis of TikTok data. 
+ArXiv Preprint ArXiv: 2303.05349. https:// doi. org/ 10. 48550/ arXiv. 2303. 05349
+Hair, J. F., Hult, G. T. M., Ringle, C. M., & Sarstedt, M. (2017). A Primer on Partial Least Squares Structural Equation Modeling 
+(PLS-SEM). Publications, SAGE.
+Hair, J. F., Risher, J. J., Sarstedt, M., & Ringle, C. M. (2019). When to use and how to report the results of PLS-SEM. European 
+Business Review, 31(1), 2–24. https:// doi. org/ 10. 1108/ EBR- 11- 2018- 0203
+Hasebrook, J. P., Michalak, L., Kohnen, D., Metelmann, B., Metelmann, C., Brinkrolf, P., et al. (2023). Digital transition in rural 
+emergency medicine: Impact of job satisfaction and workload on communication and technology acceptance. 
+PLoS ONE, 18(1), e0280956. https:// doi. org/ 10. 1371/ journ al. pone. 02809 56
+Hayashi, Y., Russo, C. T., & Wirth, O. (2015). Texting while driving as impulsive choice: A behavioral economic analysis. 
+Accident Analysis & Prevention, 83, 182–189. https:// doi. org/ 10. 1016/j. aap. 2015. 07. 025
+Henseler, J., Ringle, C. M., & Sarstedt, M. (2015). A new criterion for assessing discriminant validity in variance-based 
+structural equation modeling. Journal of the Academy of Marketing Science, 43(1), 115–135. https:// doi. org/ 10. 1007/ 
+s11747- 014- 0403-8
+Hinkin, T. R. (1998). A brief tutorial on the development of measures for use in survey questionnaires. Organizational 
+Research Methods, 1(1), 104–121. https:// doi. org/ 10. 1177/ 10944 28198 00100 106
+Hosta, M., & Zabkar, V. (2021). Antecedents of environmentally and socially responsible sustainable consumer behavior. 
+Journal of Business Ethics, 171(2), 273–293. https:// doi. org/ 10. 1007/ s10551- 019- 04416-0
+King, M. R. (2023). A conversation on artificial intelligence, chatbots, and plagiarism in higher education. Cellular and 
+Molecular Bioengineering, 16(1), 1–2. https:// doi. org/ 10. 1007/ s12195- 022- 00754-8
+Koh, H. P., Scully, G., & Woodliff, D. R. (2011). The impact of cumulative pressure on accounting students’ propensity to 
+commit plagiarism: An experimental approach. Accounting & Finance, 51(4), 985–1005. https:// doi. org/ 10. 1111/j. 
+1467- 629X. 2010. 00381.x
+Korn, J., & Kelly, S. (January). New York City public schools ban access to AI tool that could help students cheat. Retrieved from 
+https:// editi on. cnn. com/ 2023/ 01/ 05/ tech/ chatg pt- nyc- school- ban/ index. html
+Koudela-Hamila, S., Santangelo, P. S., Ebner-Priemer, U. W., & Schlotz, W. (2022). Under which circumstances does 
+academic workload lead to stress? Journal of Psychophysiology, 36(3), 188–197. https:// doi. org/ 10. 1027/ 0269- 8803/ 
+a0002 93
+Krou, M. R., Fong, C. J., & Hoff, M. A. (2021). Achievement motivation and academic dishonesty: A meta-analytic investiga-
+tion. Educational Psychology Review, 33, 427–458. https:// doi. org/ 10. 1007/ s10648- 020- 09557-7
+Lee, H. (2023). The rise of ChatGPT: Exploring its potential in medical education. Anatomical Sciences Education. https:// 
+doi. org/ 10. 1002/ ase. 2270
+Liu, L., Zhang, T., & Xie, X. (2023). Negative life events and procrastination among adolescents: The roles of negative emo-
+tions and rumination, as well as the potential gender differences. Behavioral Sciences, 13(2), 176. https:// doi. org/ 10. 
+3390/ bs130 20176
+Macfarlane, B., Zhang, J., & Pun, A. (2014). Academic integrity: A review of the literature. Studies in Higher Education, 39(2), 
+339–358. https:// doi. org/ 10. 1080/ 03075 079. 2012. 709495
+Malik, M., Abbas, M., & Imam, H. (2023). Knowledge-oriented leadership and workers’ performance: Do individual knowl-
+edge management engagement and empowerment matter? International Journal of Manpower. https:// doi. org/ 10. 
+1108/ IJM- 07- 2022- 0302
+Mateos, P. M., Valentin, A., González-Tablas, M. D. M., Espadas, V., Vera, J. L., & Jorge, I. G. (2016). Effects of a memory training 
+program in older people with severe memory loss. Educational Gerontology, 42(11), 740–748.
+Meyer, J. G., Urbanowicz, R. J., Martin, P. C., O’Connor, K., Li, R., Peng, P. C., Bright, T. J., Tatonetti, N., Won, K. J., Gonzalez-Her-
+nandez, G., & Moore, J. H. (2023). ChatGPT and large language models in academia: Opportunities and challenges. 
+BioData Mining, 16(1), 20. https:// doi. org/ 10. 1186/ s13040- 023- 00339-9
+Nouchi, R., Taki, Y., Takeuchi, H., Hashizume, H., Nozawa, T., Kambara, T., Sekiguchi, A., Miyauchi, C. M., Kotozaki, Y., Nouchi, 
+H., & Kawashima, R. (2013). Brain training game boosts executive functions, working memory and processing speed 
+in the young adults: A randomized controlled trial. PLoS ONE, 8(2), e55518. https:// doi. org/ 10. 1371/ journ al. pone. 
+00555 18
+Novak, D. (2023). Why US schools are blocking ChatGPT? 17 January 2023. Retrieved from https:// learn ingen glish. voane ws. 
+com/a/ why- us- schoo ls- are- block ing- chatg pt/ 69143 20. html
+Nunnally, J. C., & Bernstein, I. H. (1994). Psychometric Theory (3rd ed.). McGraw-Hill.
+Olugbara, C. T., Imenda, S. N., Olugbara, O. O., & Khuzwayo, H. B. (2020). Moderating effect of innovation consciousness 
+and quality consciousness on intention-behaviour relationship in E-learning integration. Education and Information Technologies, 25, 329–350. https:// doi. org/ 10. 1007/ s10639- 019- 09960-w
+Paul, J., Ueno, A., & Dennis, C. (2023). ChatGPT and consumers: Benefits, pitfalls and future research agenda. International 
+Journal of Consumer Studies, 47(4), 1213–1225. https:// doi. org/ 10. 1111/ ijcs. 12928
+Pearson, M. R., Murphy, E. M., & Doane, A. N. (2013). Impulsivity-like traits and risky driving behaviors among college 
+students. Accident Analysis & Prevention, 53, 142–148. https:// doi. org/ 10. 1016/j. aap. 2013. 01. 009
+Peters, M. A., Jackson, L., Papastephanou, M., Jandrić, P., Lazaroiu, G., Evers, C. W., Cope, B., Kalantzis, M., Araya, D., Tesar, M., 
+Mika, C., & Fuller, S. (2023). AI and the future of humanity: ChatGPT-4, philosophy and education–Critical responses. Educational Philosophy and Theory. https:// doi. org/ 10. 1080/ 00131 857. 2023. 22134 37
+Peterson, M. F., Smith, P. B., Akande, A., Ayestaran, S., Bochner, S., Callan, V., Cho, N. G., Jesuino, J. C., D’Amorim, M., Francois, P.-H., Hofmann, K., Koopman, P. L., Leung, K., Lim, T. K., Mortazavi, J., Radford, M., Ropo, A., Savage, G., Setiad, B., Sinha, T. N., Sorenson, R., & Viedge, C. (1995). Role conflict, ambiguity, and overload: A 21-nation study. Academy of Manage- ment Journal, 38(2), 429–452. https:// doi. org/ 10. 5465/ 256687
+Podsakoff, P. M., MacKenzie, S. B., & Podsakoff, N. P. (2012). Sources of method bias in social science research and 
+recommendations on how to control it. Annual Review of Psychology, 63, 539–569. https:// doi. org/ 10. 1146/ annur 
+ev- psych- 120710- 100452
+Reuters. (2023). Top French university bans use of ChatGPT to prevent plagiarism. Retrieved from https:// www. reute rs. com/ 
+techn ology/ top- french- unive rsity- bans- use- chatg pt- preve nt- plagi arism- 2023- 01- 27/
+Rieskamp, J., & Hoffrage, U. (2008). Inferences under time pressure: How opportunity costs affect strategy selection. Acta 
+Psychologica, 127(2), 258–276. https:// doi. org/ 10. 1016/j. actpsy. 2007. 05. 004
+Rozental, A., Forsström, D., Hussoon, A., & Klingsieck, K. B. (2022). Procrastination among university students: Differentiat-
+ing severe cases in need of support from less severe cases. Frontiers in Psychology. https:// doi. org/ 10. 3389/ fpsyg. 
+2022. 783570
+Schweizer, S., Kievit, R. A., Emery, T., & Henson, R. N. (2018). Symptoms of depression in a large healthy population cohort 
+are related to subjective memory complaints and memory performance in negative contexts. Psychological Medi-
+cine, 48(1), 104–114. https:// doi. org/ 10. 1017/ S0033 29171 70015 19
+Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory 
+failure. Psychological Bulletin, 133(1), 65–94. https:// doi. org/ 10. 1037/ 0033- 2909. 133.1. 65
+Stojanov, A. (2023). Learning with ChatGPT 3.5 as a more knowledgeable other: An autoethnographic study. International 
+Journal of Educational Technology in Higher Education, 20(1), 35. https:// doi. org/ 10. 1186/ s41239- 023- 00404-7
+Strzelecki, A. (2023). To use or not to use ChatGPT in higher education? A study of students’ acceptance and use of tech-
+nology. Interactive Learning Environments. https:// doi. org/ 10. 1080/ 10494 820. 2023. 22098 81
+Svartdal, F., & Løkke, J. A. (2022). The ABC of academic procrastination: Functional analysis of a detrimental habit. Frontiers 
+in Psychology, 13, 1019261. https:// doi. org/ 10. 3389/ fpsyg. 2022. 10192 61
+Takeuchi, H., Nagase, T., Taki, Y., Sassa, Y., Hashizume, H., Nouchi, R., & Kawashima, R. (2016). Effects of fast simple numerical 
+calculation training on neural systems. Neural Plasticity, 2016, 940634. https:// doi. org/ 10. 1155/ 2016/ 59406 34
+Uchida, S., & Kawashima, R. (2008). Reading and solving arithmetic problems improves cognitive functions of normal 
+aged people: A randomized controlled study. Age, 30, 21–29. https:// doi. org/ 10. 1007/ s11357- 007- 9044-x
+Yan, D. (2023). Impact of ChatGPT on learners in a L2 writing practicum: An exploratory investigation. Education and 
+Information Technologies. https:// doi. org/ 10. 1007/ s10639- 023- 11742-4
+Yang, C., Chen, A., & Chen, Y. (2021). College students’ stress and health in the COVID-19 pandemic: The role of academic 
+workload, separation from school, and fears of contagion. PLoS ONE, 16(2), e0246676. https:// doi. org/ 10. 1371/ journ 
+al. pone. 02466 76
+Yilmaz, R., & Yilmaz, F. G. K. (2023a). Augmented intelligence in programming learning: Examining student views on the 
+use of ChatGPT for programming learning. Computers in Human Behavior: Artificial Humans, 1(2), 100005. https:// doi. 
+org/ 10. 1016/j. chbah. 2023. 100005
+Yilmaz, R., & Yilmaz, F. G. K. (2023b). The effect of generative artificial intelligence (AI)-based tool use on students’ compu-
+tational thinking skills, programming self-efficacy and motivation. Computers and Education: Artificial Intelligence, 4, 100147. https:// doi. org/ 10. 1016/j. caeai. 2023. 100147
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
