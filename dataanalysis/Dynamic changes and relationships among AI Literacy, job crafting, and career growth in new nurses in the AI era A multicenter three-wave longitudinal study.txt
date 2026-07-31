@@ -1,0 +1,591 @@
+﻿Nurse Education Today 167 (2026) 107237 
+Contents lists available at ScienceDirect 
+Nurse  Education Today 
+journal homepage: www.elsevier.com/locate/nedt 
+Research article 
+Dynamic  changes and  relationships among  AI Literacy, job crafting, and  career growth in new  nurses  in the  AI era:  A multicenter three-wave longitudinal study
+Dongrun Liu a,b,1, Wanqiu Lib,1, Guangli Lu c, Zhengyi Ma b, Juntong Jing b, Hangna Qiu b,  Kaige Lia, Xia Xu a,*, Chaoran Chen a,b,**
+a Nursing Department of Huaihe Hospital, Henan University, Kaifeng, China
+b Institute of Nursing and Health, School of Nursing and Health, Henan University, Kaifeng, Henan, China c Institute of Business Administration, School of Business, Henan University, Kaifeng, Henan, China
+
+A R T I C L E I N F O
+Keywords:
+AI literacy
+Job crafting
+Career growth
+New nurse
+A B S T R A C T
+Background: Artificial intelligence (AI) technologies are being rapidly integrated into the nursing field. As a new and  emerging  force  within  the  nursing  workforce,  new  nurses  face  both  opportunities and  challenges  in  their career growth in the AI era. AI literacy has become increasingly important and may play a critical role in shaping 
+the career growth of new  nurses. However,  research examining  the dynamic changes,  influencing factors, and underlying mechanisms of career growth among new nurses in the context of AI remains limited.
+Objective: To explore the dynamic trajectories of AI literacy, job crafting, and career growth among new nurses, and to examine the longitudinal mediating role of job crafting in the relationship between AI literacy and career growth.
+Design: A multicenter, three-wave longitudinal study.
+Methods: The AI Literacy  Scale, Job  Crafting  Scale, and  Career  Growth  Scale  were  administered in April  2025 (T1),  July  2025  (T2),  and  October  2025  (T3)  to  339  new  nurses  from  five  tertiary  general  hospitals  across different regions of China. SPSS 26.0 and AMOS 26.0 were used to construct longitudinal mediation models and 
+conduct data analyses.
+Results: Across  T1,  T2,  and  T3,  the  mean  scores  of AI literacy  and  career  growth  showed  a  pattern  of initial decline  followed by an increase over time, whereas the mean score of job crafting demonstrated a continuous upward  trend. At all time points, AI literacy, job crafting, and career growth were significantly and positively correlated.  AI literacy  positively  predicted  career  growth  in  new  nurses,  and  job  crafting  played  a significant longitudinal mediating role in this relationship.
+Conclusions: AI literacy among new nurses can predict their future career growth through the mediating role of job crafting. Hospitals and nursing educators should attach importance to AI-related training and guidance for new  nurses  and  strive to  create  organizational environments characterized by appropriate autonomy  and sup- port. Encouraging reasonable job crafting is crucial for fostering career growth among new nurses in the AI era and for promoting the sustainable development of the nursing profession.
+
+1. Introduction (Zhang  et  al.,  2025). As new  members  of the  nursing  workforce,  new nurses not only help alleviate nurse shortages but also inject fresh mo- Nurses are an indispensable core force in the healthcare system, and  mentum into the sustainable development of the nursing profession (Su their  professional  competence  and  occupational  attitudes  directly  in- et al., 2023). New nurses are defined as nurses who have graduated from fluence the quality of healthcare services and patient recovery outcomes  school and have worked in hospitals for less than two years. They are at 
+* Correspondence to: X. Xu, Nursing Department of Huaihe Hospital, Henan University, Kaifeng, Henan, 475004, China.
+** Correspondence to: C. Chen, Institute of Nursing and Health, College of Nursing and Health, Henan University, Jinming Avenue, Kaifeng, Henan, 475004, China.
+E-mail addresses: 2009xuxia@163.com (X. Xu), kfccr@126.com (C. Chen). 
+1 Dongrun Liu and Wanqiu Li contributed equally to this work.
+https://doi.org/10.1016/j.nedt.2026.107237
+Received 9 February 2026; Received in revised form 18 June 2026; Accepted 19 June 2026  
+Available online 21 June 2026 
+0260-6917/© 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies. 
+
+D. Liu et al.                                                                                                                                                                                                                                      Nurse Education Today 167 (2026) 107237 
+the  initial  stage  of career  development, undergoing  a rapid  transition from  the  student  role  to  the  professional  role.  Due  to  limited  clinical experience, high role adaptation pressure, and an as-yet-unsettled pro- fessional  identity,  new  nurses  are  more  likely  to  experience  career confusion and developmental uncertainty when confronted with high- intensity work environments, complex interpersonal relationships, and rapidly  evolving  medical  technologies  (Meng  et  al.,  2024; Wu  et  al., 2025c; Zheng  et  al.,  2023).  According  to  a  report  by  NSI (Solutions, 2024),  approximately  23.8%  of  new  nurses  left  their  jobs  within  the first year of employment in 2023, and career growth has been identified 
+as  one  of the  primary  factors  influencing  turnover  intention  (Martini et  al.,  2025). Therefore,  the  career  growth  of new  nurses  not  only  af- fects their individual competence but also directly impacts the stability 
+of the nursing workforce and the quality of healthcare services, making it a critical issue that urgently requires attention in nursing management and nursing education.
+2. Background
+Career  growth  refers  to  the  continuous  improvement  individuals achieve  in professional  competence, career  goals,  psychological matu - rity, and developmental potential through learning and practice over the 
+course  of  their  career  development  (Weng  et  al.,  2010).  For  nurses, career growth is reflected not only in the accumulation of clinical skills 
+and  professional  knowledge  but  also  in  enhanced  occupational value and confidence in future development (Liu et al., 2015). This is partic -
+ularly important for new nurses at the early stage of their careers, as it is key to fully leveraging their strengths and enhancing their professional competitiveness  (Ni  et  al.,  2025).  Positive  career  growth  helps  new nurses adapt more quickly to the clinical environment, reduces turnover rates, and promotes long-term career well-being, ultimately improving the  quality  of patient  care  (Kato  et  al.,  2025). With  the  advent  of the artificial intelligence (AI) era, nursing work models, service processes, 
+and  professional  competency  structures  are  undergoing  profound changes.  Consequently, the  career  growth  of new  nurses  is inevitably influenced  by  AI technologies. Failure  to  adapt  smoothly  to  this  new environment may expose them to various challenges and uncertainties (El-Bassal  et  al.,  2025; Michalowski  et  al.,  2026).  However,  existing studies have primarily examined nurses' career growth from traditional perspectives such as individual, organizational, and social factors, while paying  insufficient  attention  to  the  influence  of  technological  trans - formations  such  as  AI.  Therefore,  it  is  necessary  to  re-examine  the mechanisms  influencing  the  career  growth  of  new  nurses  within  the context of technological change. Doing so will help reveal new charac - teristics of nursing  talent development and provide a theoretical basis 
+for optimizing training and management models for new nurses, thereby promoting the sustainable development of the nursing profession.
+As AI technologies rapidly  penetrate the  nursing  field,  AI literacy may gradually become a key factor influencing the career growth of new nurses  (Hoelscher  and  Pugh,  2025).  AI literacy  is  defined  as  an  in- dividual's  comprehensive  ability  to  effectively  understand,  evaluate, apply, and manage AI technologies in intelligent contexts (Wang et al., 2023).  According  to  the  Technology  Acceptance  Model,  individuals' perceptions  of the  “usefulness”  and  “ease  of use”  of AI influence  their attitudes toward the technology (Venkatesh and Davis, 2000). Building on  this  model,  Ho and  Le further  incorporated AI literacy,  suggesting that  it  serves  as  a  key  antecedent  influencing  individuals'  perceived usefulness of AI and their attitudes toward its use (Ho and Le, 2026). In nursing practice, only when nurses possess a certain level of AI literacy and  subjectively  recognize  the  value  of  AI  are  they  more  likely  to actively engage with it and apply it to improve the quality of care and patient safety (Cho and Seo, 2024; Chu et al., 2026). For nurses, AI lit-
+eracy differs from mere technical competence or digital literacy. Tech- nical  competence primarily  refers  to  proficiency  in  operating  specific tools or systems, with its core focus on whether one can use technology effectively.  Digital  literacy,  in  contrast,  emphasizes  general  abilities 
+such as accessing, evaluating, and using information, with the core focus on whether one can effectively process and utilize information. Building upon both, AI literacy further extends these capabilities. It not only in- volves a critical understanding of the fundamental principles, technical functions,  and  ethical  risks  of  artificial  intelligence,  but  also  encom - passes the practical ability to judge, interpret, and calibrate AI outputs in specific  clinical  contexts,  as  well  as  to  responsibly  and  appropriately integrate AI tools into nursing workflows (Chung et al., 2025; Hoelscher and Pugh, 2025). According to the Nursing AI Literacy and Governance Framework (NAIL-G), AI literacy expands the boundaries of both tech-
+nical skills and digital literacy. Nurses are positioned not merely as users of technology, but as interpreters of AI-generated outputs and bearers of responsibility.  When  necessary,  they  are  expected  to  correct  or  even reject AI recommendations, thereby ensuring patient safety and equity (Ibrahim et al., 2026). Therefore, AI literacy, as a comprehensive com- petency, is fundamentally distinct from general technical skills. It aligns more  closely  with  the  core  mechanism  of  career  growth  among  new nurses  and  determines their  capacity  for  continuous learning,  profes- sional judgment, and safe and appropriate use of AI in clinical decision- making.  As such,  it  has  strong  practical  implications  and  significantly influences  job  crafting  and  overall  career  growth  (Liu  et  al.,  2025b, 2025c; Simms, 2025). As a new force within nursing teams, new nurses 
+may have certain advantages in accepting and learning new technolo - gies,  potentially exhibiting  more  open  attitudes  toward  AI. This  posi- tions  them  with  substantial  potential  for  developing  AI literacy  and integrating it deeply into nursing practice (El-Sayed et al., 2025; Subasi 
+et al., 2025).
+Based on the Job Demands–Resources (JD-R) model, AI literacy can 
+be regarded as a novel form of job resource (Arboh et al., 2025). Unlike traditional job  resources,  AI literacy  is not  only  reflected  in  technical usage but is also influenced by the complexity of the technology and the awareness of ethical risks (El Arab et al., 2025). Nurses' AI literacy may evolve  dynamically through  interactions with  AI, shaped  by  accumu - lated clinical experience, feedback from technology use, and real-world ethical considerations (El Arab et al., 2025; Kelly et al., 2023). Although existing studies have rarely directly examined the relationship between 
+AI literacy  and  career  growth,  some  recent  research  has  explored  the value of AI in nursing from an applied perspective. For example, studies 
+have shown that AI-based decision support systems can identify adverse events at an earlier stage and streamline nursing workflows (Awad et al., 2025).  AI-driven  triage  models  can  optimize  resource  allocation, thereby improving triage efficiency and patient outcomes (El Arab and 
+Al  Moosa,  2025).  In  addition,  nurse-led  AI-assisted  perioperative health  education  can  enhance  patients'  coping  strategies  and  psycho - logical well-being (Shen et al., 2025). In the field of nursing education, generative  AI  is  being  explored  for  applications  such  as  generating teaching  cases  and  simulating patient  interactions. AI-assisted  nursing procedure  training  allows  nursing  students  to  refine  their  clinical reasoning  through  iterative  trial  and  error,  while  also  improving empathy,  learning  satisfaction,  self-directed  learning  ability,  and  clin- ical competence (Arkan et al., 2025; Jeon and Jeong, 2026). Moreover, 
+the experiences of nursing educators and students with AI have become key  indicators  for  evaluating  its  integration  into  education.  As  a collaborator in instructional design, AI can to some extent relieve edu-
+cators from repetitive tasks, enabling them to focus more on higher-level teaching  activities  (Ali and  Shaban,  2026a,  2026b).  Nursing  students generally hold more open attitudes toward AI; however, while some are 
+able to critically evaluate AI-generated content, others tend to over-rely on  it,  highlighting the  need  for  systematic  development of AI literacy (Ali  and  Shaban,  2026a,  2026b).  Therefore,  AI  literacy  should  be considered a crucial component of nursing education. When new nurses possess  a higher  level  of AI literacy,  their  understanding, acceptance, and  application  of  AI  technologies  are  correspondingly  enhanced (Sürme  et  al.,  2026).  This  not  only  enables  them  to  more  efficiently acquire  and  integrate  clinical  information  and  optimize  nursing decision-making processes,  but  also  fosters  creative  thinking  and  self- 
+directed  learning,  thereby  strengthening  career  adaptability  and  sup- porting  growth  in  complex  and  dynamic  clinical  environments  (Jing et al., 2026a, 2026b; Li et al., 2026; Sengul et al., 2025). Therefore, it 
+can  be inferred that  AI literacy  helps  new  nurses better  cope with job demands,  promotes  the  development of professional  competence, and facilitates  the  realization  of their  growth  potential.  Based  on  this,  the following hypotheses are proposed: 
+Hypothesis  1. New  nurses'  AI literacy  is  positively  associated  with career growth.
+Hypothesis 2. New nurses' AI literacy positively predicts their career growth.
+As AI technologies continue  to  reshape  nursing  work  content  and processes, new nurses face the dual challenges of changing role demands and  transformations  in  work  methods.  Job  crafting  is  considered  an important pathway  through  which  new  nurses  achieve  career  adapta - tion  and  development, and  it  may  play  a key  role  in  the  relationship between  AI literacy  and  career  growth  (Saleh  et  al.,  2024; Wu et  al., 2024).  Unlike  passively  accepting  job  assignments,  job  crafting  em- phasizes  individuals'  proactive  adjustment  of  task  content,  work  re- lationships, and cognitive perceptions of work in daily practice, enabling work to better align with their abilities and developmental needs. It is a dynamic  process  that  requires  self-awareness, active  exploration, and continuous regulation  on  the  part  of new  nurses  (Felder  et  al.,  2024; Tawfik  et  al.,  2025).  Based  on  Conservation  of  Resources  theory,  in- dividuals tend to acquire and utilize resources that help them cope with environmental  changes,  and  job  crafting  represents  an  important behavioral  manifestation  of  proactively  integrating  and  transforming resources in the era of AI (Liu et al., 2025a). Through job crafting, new nurses can learn to use AI tools, optimize nursing workflows, redefine their  role  positioning, and  enhance  their  sense  of control  over  work, thereby  alleviating  work-related stress  and  enhancing  career  meaning and well-being (Park and Ha, 2025; Wu et al., 2025b). Previous studies have  shown  that  the  use  of AI technologies can  promote  job  crafting among  newly  hired  employees  (Mayer  et  al.,  2025).  Higher  levels  of technological  understanding  and  application  ability  help  employees identify opportunities for job improvement and engage in more proac - tive job crafting behaviors (Yan et al., 2025). At the same time, research 
+has confirmed that job crafting is closely related to career growth, as it facilitates  skill  development,  strengthens  professional  identity  and confidence in career development, and satisfies individuals' growth and development  needs  (Miao  et  al.,  2023).  Therefore,  the  following  hy- potheses are proposed: 
+Hypothesis 3. New nurses' AI literacy is positively associated with job crafting.
+Hypothesis 4. New  nurses'  job  crafting  is positively  associated  with career growth.
+Hypothesis 5. Job crafting mediates the relationship between AI lit- eracy and career growth among new nurses.
+In summary, AI has a profound impact on nursing practice. As a key group  in  digital  transformation,  new  nurses  exhibit  complex  and  dy- namic developmental processes in terms of AI literacy, job crafting, and career growth. Existing research lacks a systematic examination of their causal  relationships  and  underlying  mechanisms.  Accordingly,  this study  focuses  on  new  nurses  and  adopts  a  three-wave  longitudinal research  design  to  explore  the  trajectories and  dynamic  relationships among  AI literacy,  job  crafting,  and  career  growth.  The  findings  are expected  to  provide  a theoretical basis for  training, management, and career  growth  strategies  for  new  nurses  in  the  era  of AI, thereby  pro- moting the sustainable development of contemporary nursing practice.
+3. Methods
+3.1. Study design
+This study is a multicenter longitudinal study employing a longitu -
+dinal tracking design. Data were collected using a self-reported method at  three  time  points  (T1,  T2,  and  T3),  with  consistent  survey  content across all waves. A three-wave longitudinal mediation model was con- structed. Based on the autoregressive paths of each variable across the 
+three  measurements,  the  study  examined  the  predictive  effects  of  AI literacy  at  earlier  time  points  on  subsequent  job  crafting  and  career growth, as well as the predictive effect of earlier job crafting on subse-
+quent career growth. The aim was to explore the dynamic changes and relationships among AI literacy, job crafting, and career growth in new nurses. Sample size estimation was conducted using G*Power 3.1 with 
+the following parameters: effect size f2 = 0.10, α = 0.05, and power (1  
+β) = 0.99. These parameter settings meet the standard for effect size and satisfy the requirements of longitudinal research in the field of nursing education  (Faul et  al., 2007; Liu et  al., 2026). The  required  minimum sample  size  was  calculated  to  be  258.  Considering  an  anticipated lon- gitudinal attrition rate of 20%, the final required sample size was at least 323 participants. This study followed the STROBE guidelines to ensure transparency and rigor in study design and reporting.
+3.2. Participants
+This study employed a multicenter sampling approach, selecting new nurses from five tertiary general hospitals located in eastern, western, southern, northern, and central China, each representing different levels of economic  development and  healthcare resource  distribution. These hospitals  undertake multiple  functions,  including  clinical  care,  educa - tion,  and  research.  They  possess  advantages  in  technological  infra- structure  and  informatization,  with  a  relatively  high  level  of  AI integration, thereby providing nurses with practical environments and opportunities to  engage  with  and  apply  AI-related  innovative  medical technologies. Within  the  selected  hospitals,  new  nurses  from  different departments  were  randomly  sampled  to  participate  in  the  study  to ensure the representativeness and diversity of the sample.
+The inclusion criteria were as follows: (1) nurses who had obtained professional  qualification  certificates  and  completed  clinical  registra - tion;  (2)  nurses  who  provided  informed  consent  and  voluntarily participated in  the  study;  and  (3)  nurses  with  less  than  18  months  of work  experience  at  baseline,  ensuring  that  they  would  still  meet  the definition of a new nurse (work experience <2 years) upon completion 
+of the three-wave follow-up. The exclusion criterion was: (1) nurses who 
+had prior work experience before their current position.
+3.3. Data collection
+Data  for  this  study  were  collected  using  a three-wave  longitudinal tracking  design.  A self-reported method  was  employed  to  survey  new nurses' AI literacy, job crafting, and career growth at three time points: 
+April 2025 (T1), July 2025 (T2), and October 2025 (T3). The research team  implemented  strategies  such  as  securing  departmental  support, providing  guidance,  and  offering  appropriate incentives  to  effectively control attrition rates. To reduce common method bias associated with self-reported data, no identifying information was collected across the 
+three waves. Participants were provided with private spaces to complete the  questionnaires, sufficient  time  for  completion, and  assurance  that the data would be used solely for research purposes, thereby ensuring anonymity, confidentiality, and  data  validity.  Sample  attrition  in  this study  was  primarily  due  to  leave,  vacation,  resignation, or  invalid  re- sponses. Invalid questionnaires were excluded based on criteria such as substantial  missing  data,  patterned  responses,  abnormal  completion time, or illogical answers. 
+T1 phase: In April 2025 (T1), a baseline offline survey was conducted using  the  hospital  human  resources  system.  Each  participant  was assigned a unique anonymous identification number (ID), which was retained in T2 and T3 to ensure rigor and traceability. A total of 400 questionnaires  were  distributed;  after  excluding  19  invalid  re- sponses, 381 valid questionnaires were obtained, yielding an effec-
+tive response rate of 95.25%.
+T2 phase: Three months after T1 (July 2025, T2), a second round of surveys  was  conducted among  the  new  nurses  who  had  completed the valid T1 survey. A total of 381 questionnaires were distributed; 
+24  participants  were  lost  to  follow-up,  resulting  in  357  valid  re- sponses and an effective response rate of 93.70%.
+T3 phase: Three months after T2 (October 2025, T3), a third round of follow-up  surveys  was  conducted  among  participants  who  had completed  the  valid  T2 survey.  A total  of 357  questionnaires were distributed; 18 participants were lost to follow-up, resulting in 339 
+valid responses and an effective response rate of 94.96%.
+Through this three-wave tracking design, a total of 339 new nurses completed  all  rounds  of  the  survey,  yielding  an  overall  effective response rate of 84.75%.
+3.4. Instruments
+3.4.1. Demographic characteristics questionnaire
+Based on the objectives of this study, a demographic characteristics questionnaire  for  new  nurses  was  developed  by  the  researchers.  The questionnaire collected information on gender, educational level, only- 
+child  status,  marital  status,  employment  and  personnel  relationship, reasons for choosing nursing as a career, and average monthly income.
+3.4.2. AI literacy scale
+AI literacy  was  assessed  using  the  AI Literacy  Scale  developed  by Wang et al. (2023). The scale comprises 12 items across four dimensions: awareness, use, evaluation, and ethics. Responses are rated on a 7-point 
+Likert scale ranging from 1 (“strongly disagree”) to 7 (“strongly agree”), 
+with  higher  scores  indicating  higher  levels  of  AI  literacy.  Previous research  by Liu et  al.  (2025b,  2025c) has  demonstrated good  applica - bility of this scale in the Chinese nursing context. In the present study, 
+the Cronbach's α coefficients of the scale were 0.943 at T1, 0.936 at T2, and 0.875 at T3.
+3.4.3. Job crafting scale
+Job crafting was measured using the Job Crafting Scale developed by      Tims et al. (2012) and translated into Chinese by Liao (2013). The scale includes 21 items across four dimensions: increasing structural job re-
+sources, increasing social job resources, increasing challenging job de-      mands, and decreasing hindering job demands. Items are rated on a 5- 
+point  Likert  scale  ranging  from  1  (“completely  disagree”)  to  5 (“completely agree”), with higher scores indicating higher levels of job crafting. The applicability of this scale among Chinese nurses has been validated  by  Wen  and  Wang  (2025).  In  this  study,  the  Cronbach's  α coefficients were 0.940 at T1, 0.943 at T2, and 0.922 at T3.
+3.4.4. Career growth scale
+Career  growth  was  assessed  using  the  Nurse  Career  Growth  Scale developed by Ni et al. (2023). The scale consists of 17 items across three dimensions:  professional  ability  and  attribute  improvement,  career promotion  and  prestige  increase,  and  career  goal  progress.  Responses are  rated  on  a  5-point  Likert  scale  ranging  from  1  (“completely disagree”) to 5 (“completely agree”), with higher scores indicating faster career growth. The scale has demonstrated good reliability and validity 
+among Chinese nurses (Ni et al., 2025). In the current study, the Cron- bach's α coefficients were 0.919 at T1, 0.928 at T2, and 0.919 at T3.
+3.5. Statistical analysis
+Data  analysis  in  this  study  was  conducted  using  SPSS and  AMOS. First, Harman's single-factor test was applied to assess common method bias.  Second,  descriptive  statistics  were  performed  to  summarize  the demographic  characteristics  of  participants  who  completed  all  three waves, and their baseline data were compared with those who did not complete all waves. Next, confirmatory factor analysis (CFA) was con- ducted for each scale at different time points, followed by tests of lon- gitudinal  measurement  invariance  across  time.  In  addition,  the correlations and dynamic changes of the study variables across T1, T2, and T3 were analyzed. On this basis, a three-wave longitudinal media -
+tion model was constructed and analyzed using AMOS 26.0, and com- parisons  were  made  with  alternative  models.  Finally,  the  mediating effects and their 95% confidence intervals (CI) were examined using the Bootstrapping  method  with  5000  resamples,  along  with  a  sensitivity analysis.  A  p-value  of  less  than  0.05  was  considered  statistically significant.
+3.6. Ethical considerations
+This study did not involve unethical behavior or human clinical ex- periments and did not cause physical or psychological harm to partici - pants.  Ethical  issues  were  given  high  priority.  Prior  to  questionnaire distribution, approval was obtained from the hospitals and nursing de- partments involved. Participants were fully informed of the study pur- pose and significance, and written informed consent was obtained from all participants, who participated voluntarily. The survey was conducted anonymously, and participants were assured that their responses would be used solely for research purposes and that they could withdraw at any time. These measures ensured the protection of participants' privacy and data  confidentiality.  This  study  was  reviewed  and  approved  by Biomedical  Research  Ethics  Committee  of Henan  University  (approval number: HUSOM2025-1017; approval date: January 21, 2025).
+4. Results
+4.1. Common method bias tests
+Harman's  single-factor  test  was  conducted  to  examine  potential common method bias. The results showed that the first factor accounted for 33.775%, 33.077%, and 29.314% of the total variance at T1, T2, and 
+T3,  respectively,  all  of  which  were  below  the  40%  threshold.  These findings indicate that common method bias was not a serious concern in this study.
+4.2. Participants' demographic characteristics
+Among  the  339  new  nurses  who  completed  all  three  waves  of the survey, 23.89% were male and 76.11% were female. A total of 77.29% held  a  bachelor's  degree,  and  57.23%  were  not  only  children.  Most participants were unmarried (94.10%). In terms of employment status, 59.59%  were  contract-based  staff.  More  than  half  of  the  new  nurses chose nursing voluntarily (65.19%). In addition, the majority reported a monthly income of less than 8000 RMB (88.49%).
+In addition, baseline demographic characteristics, as well as scores of 
+AI literacy,  job  crafting,  and  career  growth,  were  compared  between participants who completed all three waves  and those who completed only the baseline survey but missed at least one subsequent wave. The results  showed  no  significant  systematic  differences  between  the  two groups (all p > 0.05), indicating good sample stability and supporting the  suitability  for  subsequent  longitudinal  analyses.  Details  are  pre- sented in Table 1.
+Table 1 
+Comparison  of  participants'  baseline  demographic  characteristics  and  scale scores.
+Demographics Completed all three  Missed at least  t/χ2 p
+waves (n = 339) one wave (n =
+42)
+Gender 0.443 0.506
+Male 81 (23.89%) 12 (28.57%)
+Female 258 (76.11%) 30 (71.43%)
+Educational level 0.290 0.590
+Bachelor degree 262 (77.29%) 34 (80.95%)
+Postgraduate 
+77 (22.71%) 8 (19.05%) 0.335
+degree
+Only child 0.563
+Yes 145 (42.77%) 16 (38.10%)
+No 194 (57.23%) 26 (61.90%)
+Marital status 0.102 0.750
+Single 319 (94.10%) 39 (92.86%)
+Married 20 (5.90%) 3 (7.14%)
+Labor and personnel 
+0.215 0.898
+relations
+Formal 
+58 (17.11%) 6 (14.29%)
+establishment
+Personnel agency 79 (23.30%) 10 (23.81%)
+Contract system 202 (59.59%) 26 (61.90%)
+Reasons for 
+0.014 0.908
+choosing nursing
+Voluntary 221(65.19%) 27(64.29%)
+Involuntary 118(34.81%) 15(35.71%)
+Monthly income 
+0.300 0.960
+(RMB)
+<6000 165 (48.67%) 20 (47.62%)
+6000–8000 135 (39.82%) 16 (38.10%)
+8001–10,000 27 (7.97%) 4 (9.52%)
+>10,000 12 (3.54%) 2 (4.76%)
+AI literacy 60.98 ± 12.14 59.90 ± 10.83 0.547 0.585 Job crafting 75.39 ± 15.40 74.17 ± 11.77 0.613 0.542 Career growth 68.27 ± 10.87 67.52 ± 10.83 0.421 0.674
+4.3. Stability of the longitudinal measurement structure
+To examine the stability of the measurement structure of all scales across time, this study first conducted preliminary confirmatory factor analyses (CFA) for all scales at three time points (T1, T2, and T3), fol- lowed by tests of longitudinal measurement invariance. The CFA results 
+for each time point are presented in Table 2. The model fit indices for the 
+AI literacy  scale  and  the  career  growth  scale  were  within  acceptable ranges at all time points (Kenny et al., 2015). The model fit indices of the 
+job crafting scale at Time 1 were suboptimal. Item-level diagnostic re- sults indicated that no single item was primarily responsible for the poor model fit (see Supplementary material 1). This may be related to new nurses'  insufficient  understanding  of  job  crafting  at  an  early  stage. However, the GFI and AGFI indices still reached relatively high levels. Moreover, the model fit improved at both Time 2 and Time 3. Therefore, 
+the scale demonstrated an acceptable measurement structure across all time points (Shi et al., 2019).
+In addition, given the relatively low degrees of freedom of the models 
+at single time points and the tendency for RMSEA to be inflated in low- 
+Table 2 
+Confirmatory factor analysis of the scales at each time point.
+Scale χ2/df GFI AGFI RMSEA
+T1AIL 4.141 0.994 0.982 0.096 T2AIL 1.051 0.998 0.995 0.012 T3AIL 0.987 0.998 0.993 0.000 T1JC 10.704 0.982 0.945 0.169 T2JC 4.298 0.994 0.981 0.099 T3JC 3.053 0.995 0.984 0.078 T1CG 0.224 0.999 0.999 0.000 T2CG 1.533 0.997 0.991 0.040 T3CG 2.329 0.995 0.986 0.063
+degree-of-freedom  models,  this  study  further  conducted  longitudinal measurement  invariance  tests.  Three  nested  models—configural invariance,  metric  invariance,  and  scalar  invariance—were  sequen - tially  compared  as  the  primary  basis  for  assessing  the  stability  of the measurement  structure  over  time.  The  results  are  shown  in  Table  3. According to the commonly used criterion of an absolute value of ΔCFI ≤0.010,  job  crafting  and  career  growth  achieved  scalar  invariance across time (Cheung and Rensvold, 2002). For AI literacy, although full scalar invariance was not fully supported, after releasing a small number 
+of intercept constraints, the model fit reached an acceptable level, and the  absolute  value  of ΔCFI did  not  exceed  0.010.  This  indicates  that partial scalar invariance was achieved (Chen, 2007), thereby supporting subsequent  cross-time  comparisons  and  longitudinal  analyses  of  the variables.
+AIL, Artificial  intelligence  literacy;  JC,  Job  crafting;  CG,  Career growth.
+4.4. Correlation analysis and dynamic changes of the study variables
+The results of Pearson's correlation analysis and the dynamic changes 
+of the  study  variables  are  presented  in  Tables  4  and  5. At each  time point, AI literacy (AIL), job crafting (JC), and career growth (CG) were 
+all significantly and positively correlated with one another (p < 0.01), supporting  Hypotheses  1,  3,  and  4.  This  indicates  that  both  the  con- current and lagged correlations among the variables were satisfactory, meeting  the  requirements  for  further  construction  of  a  longitudinal mediation model.
+In addition, at T1, T2, and T3, the mean scores of AIL were 60.98 ± 12.14, 59.58 ± 11.46, and 62.24 ± 9.53, respectively; the mean scores of JC were 75.39 ± 15.40, 77.23 ± 16.23, and 80.31 ± 13.80, respec - tively; and the mean scores of CG were 68.27 ± 10.87, 65.03 ± 11.11, and 66.69 ± 11.75, respectively. Repeated measures ANOVA was con- ducted to examine the dynamic changes of these variables. The results showed that the mean scores of AIL and CG decreased at T2 and then increased  at  T3,  demonstrating  a  downward-then-upward  trend  over time. In contrast, the mean scores of JC showed a continuous increase, indicating an upward trend.
+4.5. Mediation effect analysis
+In this study, AI literacy measured at T1, T2, and T3 was treated as the  independent variable,  job  crafting  as  the  mediating  variable,  and career  growth  as  the  dependent  variable  to  construct  a  three-wave longitudinal  mediation  model.  Based  on  the  inclusion  of  autore - gressive  paths  of  each  variable  across  the  three  measurements,  the model  examined  the  predictive  effects  of  AI literacy  at  earlier  time points  on  subsequent  job  crafting  and  career  growth,  as  well  as  the predictive effect of earlier job crafting on subsequent career growth (see 
+Fig. 1).
+This study further constructed two alternative models for compari -
+son  with  the  original  model.  In  the  reverse  mediation model,  the  di- rection of the mediating pathway was reversed and specified as career growth  → job  crafting  → AI  literacy.  The  direct  effect  only  model retained only the autoregressive paths and direct effect paths. As shown in  Table  6, the  original  model  demonstrated  an  acceptable  model  fit based on multiple fit indices and performed better than both the reverse mediation  model  and  the  direct  effect  only  model  (Hu  and  Bentler, 1999). In line with the assumptions derived from the JD-R model and Conservation  of  Resources  theory  regarding  the  relationships  among variables, AI literacy as a novel job resource can empower new nurses to proactively  reshape  their  task  boundaries  and  work  relationships, thereby facilitating subsequent career growth. Overall, the pathway of “AI literacy → job crafting → career growth” was supported, strength - ening the causal inference of the proposed model.
+The  results  of  the  path  analysis  indicated  that  the  autoregressive paths  of  all  variables  across  the  three  time  points  were  statistically 
+
+5 
+D. Liu et al.                                                                                                                                                                                                                                      Nurse Education Today 167 (2026) 107237 
+Table 3 
+Longitudinal measurement invariance testing across time.
+Variable Model χ2/df CFI NFI TLI RMSEA Model comparison ΔCFI
+
+6 
+D. Liu et al.                                                                                                                                                                                                                                      Nurse Education Today 167 (2026) 107237 
+AIL M1 Configural invariance AIL M2 Metric invariance AIL M3 Scalar invariance
+JC M1 Configural invariance JC M2 Metric invariance
+JC M3 Scalar invariance
+CG M1 Configural invariance CG M2 Metric invariance CG M3 Scalar invariance
+2.031 0.989
+2.452 0.982
+3.373 0.967
+3.097 0.980
+2.852 0.979
+3.252 0.971
+2.416 0.985
+2.417 0.976
+3.417 0.966
+0.978 0.981 0.055
+0.970 0.973 0.066 M2–M1   0.007
+0.953 0.957 0.084 M3–M2   0.015
+0.970 0.966 0.079
+0.969 0.970 0.074 M2–M1   0.001
+0.959 0.963 0.082 M3–M2   0.008
+0.974 0.974 0.065
+0.964 0.965 0.076 M2–M1   0.009
+0.953 0.956 0.085 M3–M2   0.010
+
+ 
+D. Liu et al.                                                                                                                                                                                                                                      Nurse Education Today 167 (2026) 107237 
+AIL, Artificial intelligence literacy; JC, Job crafting; CG, Career growth.
+Table 4 
+Correlation analysis of the study variables (N = 339).
+Variables T1AIL T1JC T1CG T2AIL T2JC T2CG T3AIL T3JC T3CG
+
+ 
+D. Liu et al.                                                                                                                                                                                                                                      Nurse Education Today 167 (2026) 107237 
+T1AIL –
+T1JC 0.587** T1CG 0.577** T2AIL 0.664** T2JC 0.593** T2CG 0.706** T3AIL 0.455** T3JC 0.533** T3CG 0.768**
+–
+0.415** –
+0.483** 0.482** –
+0.622** 0.296** 0.367** –
+0.677** 0.662** 0.585** 0.499** –
+0.332** 0.325** 0.316** 0.296** 0.372** –
+0.578** 0.343** 0.428** 0.589** 0.537** 0.359** –
+0.628** 0.631** 0.663** 0.677** 0.811** 0.449** 0.639** –
+
+ 
+D. Liu et al.                                                                                                                                                                                                                                      Nurse Education Today 167 (2026) 107237 
+AIL, Artificial intelligence literacy; JC, Job crafting; CG, Career growth.
+** p < 0.01 (two-tailed).
+Table 5 
+Dynamic changes of the study variables (N = 339).
+Variables M SD M 95% CI SD 95% CI Cronbach's α F(2,676) p ηp2 Bonferroni
+T1AIL 60.98 12.14 [59.68, 62.28] [11.29, 13.13] 0.943 9.463 <0.001 0.027 T1 > T2, T3 > T2, 
+T2AIL 59.58 11.46 [58.35, 60.80] [10.66, 12.39] 0.936 T3 vs T1 ns
+T3AIL 62.24 9.53 [61.22, 63.25] [8.86, 10.31] 0.875
+T1JC 75.39 15.40 [73.75, 77.04] [14.32, 16.66] 0.940 22.357 <0.001 0.062 T2 > T1, T3 > T2, T3 > T1 T2JC 77.23 16.23 [75.50, 78.96] [15.09, 17.55] 0.943
+T3JC 80.31 13.80 [78.84, 81.78] [12.83, 14.93] 0.922
+T1CG 68.27 10.87 [67.11, 69.43] [10.11, 11.76] 0.919 23.564 <0.001 0.065 T1 > T2, T1 > T3, T3 > T2 T2CG 65.03 11.11 [63.85, 66.22] [10.33, 12.02] 0.928
+T3CG 66.69 11.75 [65.44, 67.95] [10.93, 12.71] 0.919
+AIL, Artificial intelligence literacy; JC, Job crafting; CG, Career growth; M, Mean; SD, Standard deviation.
+
+ 
+D. Liu et al.                                                                                                                                                                                                                                      Nurse Education Today 167 (2026) 107237 
+significant  (p  < 0.001),  demonstrating  good  temporal  stability. Regarding cross-lagged effects, in the T1 → T2 interval, T1 AI literacy significantly  and  positively  predicted  subsequent  T2 job  crafting  (β = 0.466, p < 0.001) and T2 career growth (β = 0.272, p < 0.001), while T1 
+job crafting significantly and positively predicted subsequent T2 career growth (β = 0.262, p < 0.001). In the T2 → T3 interval, T2 AI literacy significantly  and  positively  predicted  subsequent  T3 job  crafting  (β = 0.332, p < 0.001) and T3 career growth (β = 0.235, p < 0.001), and T2 
+job crafting significantly and positively predicted subsequent T3 career growth (β = 0.225, p < 0.001). In addition, in the T1 → T3 interval, T1 
+AI literacy also directly and significantly predicted subsequent T3 career growth (β = 0.154, p < 0.001).
+Furthermore, the  Bootstrapping method  with  5000  resamples  was applied to further examine the cross-temporal effect of T1 AI literacy on 
+T3 career growth through T2 job crafting, thereby ensuring the temporal sequencing  required  for  longitudinal mediation  analysis.  As shown  in Table 7, the total effect of T1 AIL on T3 CG was 0.259 (p < 0.001, 95% CI: 0.169, 0.351). The direct effect of the path “T1 AIL → T3 CG” was 0.154 (p < 0.001, 95% CI: 0.067, 0.244), accounting for 59.46% of the total effect. The indirect effect through job crafting (“T1 AIL → T2 JC → T3 CG”) was 0.105 (p < 0.001, 95% CI: 0.072, 0.143), accounting for 40.54% of the total effect. These findings support Hypotheses 4 and 5.
+4.6. Sensitivity analysis
+To  further  examine  the  robustness  of  the  longitudinal  mediation model, this study included educational level as a covariate in the model for  sensitivity  analysis  (see  Supplementary  material  2).  The  results showed that, after controlling for educational level, the direction of the main pathways remained consistent with the original model. Following bootstrapping tests,  both  the  direct  effect  (Effect  = 0.139,  P < 0.001, 95% CI: 0.047, 0.232) and the indirect effect (Effect = 0.114, P < 0.001, 
+95% CI: 0.080, 0.153) remained statistically significant, confirming the robustness of the findings.
+5. Discussion
+5.1. Dynamic changes in study variables
+Based on the three-wave follow-up measurements, the mean level of 
+AI literacy among new nurses exhibited a pattern of initial decline fol- lowed  by an  increase  over  time.  This  finding  suggests  that  AI literacy among  new  nurses  does  not  develop  in  a  linear  manner,  but  instead undergoes  a dynamic  process  during  the  early  stages  of their  careers. This pattern can be further understood through the Technology Accep-
+tance Model, which posits that individuals' cognition and behavior in the 
+
+ 
+D. Liu et al.                                                                                                                                                                                                                                      Nurse Education Today 167 (2026) 107237 
+
+Fig. 1. Longitudinal mediation model. 
+AIL, Artificial intelligence literacy; JC, Job crafting; CG, Career growth. 
+*** p < 0.001.
+
+7 
+D. Liu et al.                                                                                                                                                                                                                                      Nurse Education Today 167 (2026) 107237 
+Table 6 
+Fit indices for the original and alternative models.
+Model χ2/df SRMR GFI IFI TLI CFI RMSEA Original 
+3.033 0.032 0.985 0.992 0.963 0.992 0.078
+model
+Reverse 
+mediation  5.606 0.030 0.972 0.982 0.916 0.981 0.117 model
+Direct effects 
+6.158 0.079 0.956 0.969 0.905 0.968 0.124
+only model
+Table 7 
+Total, indirect and direct effects (N = 339).
+Effects Effect SE 95% CI p %
+Total effect 0.259 0.047 [0.169, 0.351] <0.001 100% Direct effect 0.154 0.045 [0.067, 0.244] <0.001 59.46% Indirect effect 0.105 0.018 [0.072, 0.143] <0.001 40.54%
+AIL, Artificial intelligence literacy; JC, Job crafting; CG, Career growth.
+early stages of adopting new technologies are often influenced by their perceived “usefulness” and “ease of use.” As practical experience accu- mulates,  these  perceptions may  change  (Venkatesh  and  Davis,  2000). Currently, new nurses are typically exposed to AI-related knowledge and education during their nursing training, providing them with a certain theoretical  foundation  and  relatively  positive  expectations  toward  AI technologies. However, in real clinical practice, the combined effects of 
+early career stress and excessive transitional shock may lead to a tem- porary  decline  in  new  nurses'  AI literacy.  During  the  transition  from novice nurses to clinical practitioners, they often experience transitional shock.  Due  to  an  initially  unstable  state  of  professional  adaptation, although they may possess a certain level of theoretical knowledge of AI, 
+they often struggle to translate it into practical clinical competence (Liu et al., 2024a). In addition, the complexity of clinical environments and technical workflows, together with high workload and professional re- sponsibility pressure, further challenge their effective application of AI technologies (Aydogan et al., 2026; El Arab et al., 2025). However, with 
+the accumulation of clinical experience, new nurses' understanding of AI technology  may  gradually  shift  from  abstract  cognition  to  concrete experiential knowledge, while their ethical awareness, critical thinking, 
+and  ability  to  interpret  and  apply  technology  are  also  enhanced  (Jing et  al.,  2026a).  This  process  reflects  a  reconstruction  stage  in  which new nurses continuously adapt to, refine, and develop their AI literacy in 
+the early phase of their career. It is consistent with the adaptation curve observed  when  nurses  engage  with  AI technologies  (Dukerich,  2001; Jing et al., 2026a). It also indicates that improvements in new nurses' AI literacy depend not only on theoretical education but also require tar-
+geted  training  and  guidance  within  clinical  practice  to  accelerate  the translation of knowledge into clinical competence.
+The results also showed a continuous upward trend in the mean level 
+of job crafting  among new  nurses, reflecting  a gradual  process of pro- actively adjusting work approaches. Previous studies have demonstrated that nurses' job crafting is influenced by work experience, which further supports our findings (Wu et al., 2025a). At the early stage of employ - ment,  new  nurses  often  lack  clarity  regarding  job  responsibilities and work boundaries. In highly standardized nursing contexts, they tend to rely more on established procedures and instructions from supervisors, leaving  limited  room  for  proactively  adjusting  tasks  and  relationships (Felder  et  al.,  2024; Liu et  al.,  2025d).  However,  as  familiarity  with institutional systems and workflows increases and professional compe -
+tence  improves,  new  nurses  gradually  gain  a  greater  sense  of control over  their  work  context.  Their  motivation  to  buffer  work  stress  and enhance  work  meaning  through  task  crafting,  relational  crafting,  and cognitive crafting continues to grow. Within existing frameworks, they become increasingly capable of improving person–job fit by fine-tuning 
+task execution, actively seeking support, and reconstructing the mean - ing of work, thereby promoting job crafting behaviors (Long et al., 2024; 
+Wu et  al.,  2025a).  Accordingly,  we  suggest  that  organizations should actively  guide  job  crafting  among  new  nurses  by  providing  moderate autonomy  and  a  supportive  environment  early  in  their  careers, encouraging them  to  achieve  both  personal  development and  organi - zational goals through proactive job crafting.
+In addition, the mean level of career growth among new nurses also followed a pattern of initial decline followed by an increase, indicating fluctuations in career adaptation during the career growth process. This finding aligns with the “adaptation curve” proposed in role adaptation 
+
+ 
+D. Liu et al.                                                                                                                                                                                                                                      Nurse Education Today 167 (2026) 107237 
+theory  (Dukerich,  2001).  New  nurses  may  initially  hold  high  profes- sional expectations and a strong sense of career development aspiration toward  the  nursing  profession,  with  considerable  confidence  in  their future  development  prospects  (Han  et  al.,  2024).  However,  upon entering  a  high-intensity  and  fast-paced  clinical  environment,  early career  challenges  such  as  heavy  workload  and  complex  interpersonal relationships become  apparent. New  nurses  therefore  begin  to  experi - ence  transitional  shock,  which  may  weaken  their  confidence  in  and evaluation of career growth (Liu et al., 2025d; Zheng et al., 2025). With 
+the accumulation of working time and clinical experience, new nurses gradually  complete  the  adaptation  from  a  “transition  phase”  to  a “development  phase”  of  their  professional  role.  At  the  same  time, organizational  support  increasingly  takes  effect,  helping  them  recon - struct a more positive perception of their own development (Liu et al., 2024a, 2024b; Qiu et al., 2025). This result further underscores that new nurses' career growth may involve a process moving from an idealistic 
+phase  to  a  reality-shock  phase  and  then  to  an  improvement  phase. Hospitals  should  therefore  provide  systematic  training  programs, continuous feedback, and sustained support to facilitate the long-term 
+career growth of new nurses.
+5.2. Direct effects of AI literacy on career growth in new nurses
+To the best of our knowledge, this study is the first to use a longi- tudinal design to confirm that AI literacy directly and positively predicts subsequent  career  growth  in  new  nurses.  Previous  studies  have  pri- marily focused on the status of nurses' information literacy or attitudes toward  AI and  their  effects  on  work  attitudes  and  competencies.  For example,  one  study  reported  that  information  literacy  and  nursing informatics competencies influenced nurses' attitudes toward evidence- based  practice  (Mudallal  et  al.,  2025). Other  studies  have  shown  that attitudes  toward  AI are  important  predictors  of  nurses'  creative  self- efficacy and clinical reasoning ability (Atalla et al., 2025). In addition, some studies on nursing students indicate that there remains a need to promote  AI-related  education  and  training,  so  as  to  enhance  their  AI literacy  and  alleviate  AI anxiety,  thereby  enabling  them  to  possess  AI self-efficacy in nursing practice (Al-Olaimat et al., 2025; Berdida et al., 
+2026; LaGore et al., 2025). Therefore, AI literacy education should be regarded as a continuous process that extends from formal schooling to onboarding training. Higher AI literacy indicates stronger technological understanding, data awareness, and problem-solving abilities, enabling new nurses to more quickly master the operational logic of intelligent systems and effectively integrate them into clinical practice (Hoelscher and  Pugh,  2025).  When  new  nurses  are  able  to  accept  and  skillfully use  AI tools  to  improve  work  efficiency,  reduce  cognitive  load,  and enhance the quality of nursing decision-making, they are more likely to perceive personal value and growth opportunities in intelligent nursing contexts, viewing technological change as an opportunity rather than a threat to their development (Fang et al., 2025; Liu et al., 2025b, 2025c; S¸ims¸ek et al., 2025). This positive process of career competence adap -
+tation  helps  new  nurses  form  a  clear  understanding of their  develop - mental  pathways,  thereby  providing  a  solid  foundation  for  career growth (Walden et al., 2022). Given that career growth influences both long-term  retention  and  the  quality  of nursing  practice,  nursing  man- agement departments should attach great importance to cultivating AI literacy as a key driver of career growth among new nurses.
+5.3. The longitudinal mediating role of job crafting
+Furthermore,  the  results  demonstrated  that  job  crafting  played  a significant  longitudinal mediating  role  in  the  relationship between  AI literacy and career growth in new nurses. Specifically, AI literacy among 
+new  nurses  is  longitudinally  associated  with  the  development  of  job crafting, which in turn predicts their subsequent career growth. Previous research  has  shown  that  acceptance  of  AI can  dynamically  influence nurses' job crafting, supporting our findings (Jing et al., 2026a, 2026b). 
+As an important prerequisite for AI acceptance, AI literacy is not only a critical  competency  for  new  nurses  entering  clinical  practice  but  also gradually  transforms  into  positive  attitudes  toward  AI use  over  time, thereby promoting job crafting and subsequently influencing long-term 
+career development (Liu et al., 2025b, 2025c; Schiavo et al., 2024). AI literacy serves as a key resource enabling new nurses to enhance work efficiency  and  personal  competence  through  intelligent  tools  (Mayer et  al.,  2025).  Confidence  in  using  AI  technologies  stimulates  their intention  to  proactively  reshape  job  content  and  optimize  workflows, empowering  them  to  improve  efficiency,  reduce  repetitive  tasks, enhance autonomy and creativity, flexibly adjust care plans according to patients'  needs,  and  improve  work  quality.  Through  these  processes, new  nurses  gradually  achieve  self-directed  work  goal  attainment and advance  their  career  growth  (Chen,  2024; Miao  et  al.,  2023). Accord- ingly, job crafting represents a dynamic process that accumulates over 
+time  (Liaquat  et  al.,  2025).  As new  nurses  increasingly  engage  in  job crafting, their potential for career growth is gradually unlocked, and this 
+effect  persists  over  time,  suggesting that  job  crafting  may  constitute  a deeper psychological and behavioral mechanism linking AI literacy and career growth in new nurses.
+5.4. Implications for education and practice
+These  findings  have  important  implications  for  nursing  education and  practice.  First,  nursing  educators  should  fully  recognize  that  AI literacy has gradually become a critical component of new nurses' pro- fessional competence in the current era, and should incorporate AI lit-
+eracy  as  a  core  competency  into  pre-service  education  and  training programs. In terms of training design, it is recommended that nursing educators  develop  a tiered  and  progressive  AI literacy  training  frame - work  to  support  the  transition  from  foundational  understanding  to clinical  application  (Hoelscher  and  Pugh,  2025; Ibrahim  et  al.,  2026). The  first  stage  is a “basic  AI cognition  module,”  which  introduces  the functions  and  applications  of  AI through  expert  lectures  and  online courses,  helping  new  nurses  understand  the  fundamental  principles, advantages, and limitations of AI and establish a solid cognitive foun- dation. The second stage is an “AI operation and interpretation module,” 
+which  focuses  on  skill  development,  enabling  new  nurses  to  use  AI systems  appropriately  and  accurately  interpret  AI-generated  outputs. For  example,  through  training  with  clinical  decision  support  systems, they  learn  how  to  read  AI recommendations, understand their  under - lying  rationale, and  evaluate  their  applicability in  relation  to  patient conditions. The third stage is a “human–machine collaboration module,” 
+which  aims  to  develop  decision-making  abilities  in  complex  clinical contexts.  Simulation-based learning  can  be  used  to  construct  dynamic and complex clinical cases, requiring new nurses to analyze situations where  AI recommendations conflict  with  their  own  clinical  judgment and thereby cultivate critical thinking skills. The fourth stage is an “AI ethics  and  safety  module,”  which  strengthens risk  awareness  and  pro- fessional responsibility. This module addresses issues such as data pri-
+vacy, safety, trust, accountability, and informed patient consent through ethical dilemma discussions. For instance, scenarios involving AI algo- rithmic bias can be used to train new nurses to identify potential risks, 
+raise  questions,  and  revise  nursing  plans  accordingly.  In  implementa - tion,  these  training  modules  should  not  be  delivered  in  isolation  but should be integrated into existing courses such as nursing informatics, evidence-based nursing practice, and clinical internships. By combining 
+AI literacy  with  professional  knowledge,  this  approach  facilitates  the transformation  of  competence  into  clinical  practice  and  ultimately supports  new  nurses'  career  growth  (Ibrahim  et  al.,  2026; Xie et  al., 2026).
+Second,  as hospitals  introduce  information systems  and  intelligent devices,  they  should  provide  new  nurses  with  progressive  learning support  and  practical  opportunities.  It  is  important  to  note  that  the extent to which AI technologies are integrated into clinical workflows 
+may  vary  significantly  depending  on  hospital  infrastructure, 
+departmental  functions,  and  patient  characteristics.  In  some  tertiary general hospitals, nurses have access to a wide range of AI systems and digital  tools,  such  as AI-based  clinical  decision  support  systems,  early warning  and  risk  assessment  systems,  electronic  documentation  and quality control platforms, wearable devices for vital sign monitoring and anomaly  detection,  intelligent  infusion  monitoring  systems,  fall  pre- vention  alert  systems,  and  AI-driven  interactive  learning  platforms, virtual simulation environments, and clinical case training systems for nurse  education.  Together,  these  tools  create  a  practical  context  in which new nurses can apply AI literacy and develop their professional competencies. However, in resource-limited healthcare institutions, the application of AI remains relatively restricted, and nurses' exposure to AI is often  confined  to  routine  information system  operations.  Moreover, even  within  the  same  hospital,  the  level  of  AI application  may  vary across departments. For instance, high-risk and fast-paced units such as emergency departments and intensive care units are more likely to adopt AI-based early warning and support tools earlier, whereas general wards may rely on more basic applications (Amin et al., 2026). Therefore, in promoting AI literacy among new nurses, it is essential to consider the specific  context  in  which  they  work  and  to  develop  tiered  training programs  tailored  to  the  technological  conditions  of  different  de- partments.  In  departments  with  more  advanced  AI applications,  new nurses can be encouraged to learn through hands-on use of AI tools and engage  in  experience-sharing  with  colleagues  from  other  units.  In contrast,  for  departments with  more  limited  AI integration, AI-driven simulation  platforms and blended teaching  approaches can be used to 
+help  new  nurses  understand  the  potential  of  AI in  near-realistic  sce- narios,  thereby  strengthening  their  technological  adaptability  (Chen, 2026). At the  institutional level,  hospitals  should  promote  interopera - bility and data sharing among AI systems to reduce information silos and create a more efficient intelligent working environment, enabling nurses 
+to  effectively  leverage  AI tools  to  improve  care  quality  and  work  effi- ciency (Fang et al., 2025; Harmon et al., 2021).
+At the  same  time,  attention should  be  paid  to  the  challenges  and psychological  pressures  that  new  nurses  may  face  when  applying  AI technologies, including tendencies toward avoidance or resistance. Such negative  attitudes often  stem from  distrust in AI technologies,  anxiety about job replacement, and concerns about potential risks (Baraka et al., 
+2025; Chu et al., 2026). Nursing educators can address these concerns through  experience  sharing,  helping  new  nurses  understand  the  sup- portive  role  and  practical  value  of AI in  patient  care.  Establishing  AI mentoring  or  support  groups  can  also  provide  timely  technical  assis- tance,  enhance  confidence  in  using  technology,  and  encourage  active acceptance and adaptation to AI technologies (Fan et al., 2025).
+Furthermore,  nursing  educators  should  not  limit  their  efforts  to teaching new nurses how to use AI tools at an operational level. Instead, 
+they  should  guide  them  in  developing  a  proactive  awareness  and capability  for  job  crafting  supported  by  technology.  Efforts  should  be made  to  foster  an  organizational climate  that  encourages  job  crafting within  safe  boundaries and  prioritizes  patient  health,  granting  nurses appropriate autonomy while providing opportunities for participation in decision-making and professional development. This approach enables 
+new nurses to confidently explore ways to optimize their work practices while ensuring patient safety (Wen and Wang, 2025). For example, new nurses can be invited to participate in evaluating the effectiveness of AI 
+tools, encouraged to offer suggestions based on their clinical judgment, and actively involved in discussions on optimizing departmental nursing workflows. Additionally, through mentorship and the establishment of phased goals, new nurses can be guided to proactively refine their work approaches,  with  timely  positive  feedback  provided  to  sustain  their motivation for learning and career growth.
+Globally, new nurses are a key determinant of future nursing quality, and their career growth is closely related to the long-term development potential  of the  nursing  profession  (Wise et  al.,  2023). With  the  rapid advancement of AI and its deep  integration into  clinical nursing prac-
+tice,  the  findings  of  this  study  have  broad  international  relevance. 
+Regardless of national or cultural context, insufficient AI literacy may constitute a potential barrier to career growth among new nurses. Given their strong learning ability, adaptability, and high acceptance of new technologies, new nurses are well positioned to translate AI technologies into effective support for clinical practice and to facilitate job crafting (El-Sayed et al., 2025; Subasi et al., 2025). Therefore, greater attention should  be  paid  to  AI  literacy  among  nurses—particularly  new nurses—and to strengthening job crafting capabilities to support higher- quality career growth in the era of AI.
+5.5. Limitations
+This study still has several limitations. First, the intervals and overall duration of data collection were relatively short. Job crafting and career growth typically develop over a longer period as professional experience accumulates. Therefore, this study may not fully capture their long-term developmental trajectories and is better interpreted as reflecting early- stage  indicators  of  career  development  among  new  nurses  following initial  transitional shock.  Future  research  could  extend  the  follow-up period  to  explore  their  long-term  dynamic  evolution  and  effects.  Sec- ond, the core variables relied solely on self-reported data, making them susceptible  to  common  method  bias.  Although  this  study  employed Harman's  single-factor  test  for  diagnosis,  this  method  has  limitations, including low statistical power, and cannot fully rule out the presence of common  method  bias.  Future  studies  may  adopt  approaches  such  as incorporating marker variables or matching multi-source data to better address  this  issue.  Third,  as  the  model  included  autoregressive paths, time-invariant factors were inherently controlled for, and the sample of new nurses exhibited a certain degree of homogeneity. To avoid exces-
+sive model complexity and potential reductions in estimation stability, not  all  demographic variables  were  included  as covariates.  Therefore, the  risk  of omitted  variable  bias  remains.  However,  educational level was included in a sensitivity analysis, which confirmed the robustness of 
+the findings. Future research should incorporate more control variables to  provide  a  more  comprehensive and  detailed  analysis  of individual differences.  Fourth,  the  participants  were  drawn  from  five  tertiary general  hospitals  across  different  regions  of China.  These  institutions typically  have  relatively  advanced  technological  infrastructures  and provide greater exposure to AI technologies. Therefore, the findings may 
+not  fully  represent  settings  with  lower  levels  of AI integration, which limits  the  generalizability of the  results.  Future  studies  could  include healthcare institutions at different levels to compare differences in new nurses' career growth across varying technological environments.
+6. Conclusion
+Using a three-wave longitudinal design, this study comprehensively examined the relationships and dynamic changes among AI literacy, job crafting, and career growth in new nurses and constructed a longitudinal mediation model. The results showed that the mean levels of AI literacy and career growth followed a pattern of initial decline followed by an increase over time, whereas job crafting exhibited a continuous upward trend. AI literacy, job crafting, and career growth were significantly and positively correlated at all time points. AI literacy among new nurses can directly and positively predict their subsequent career growth, with job crafting playing a longitudinal mediating role in this relationship. This study provides new theoretical evidence for developing training strate - gies  for new  nurses in the era  of AI. By enhancing AI literacy and  job crafting, it may be possible to promote career growth among new nurses, which  is of great  significance  for  the  sustainable development of the nursing profession.
+CRediT authorship contribution statement
+Dongrun  Liu: Writing  – original  draft,  Formal  analysis,  Conceptu - alization. Wanqiu Li: Writing – review & editing, Investigation, Formal 
+
+9 
+D. Liu et al.                                                                                                                                                                                                                                      Nurse Education Today 167 (2026) 107237 
+analysis.  Guangli  Lu: Software,  Project  administration, Methodology. Zhengyi  Ma: Investigation,  Formal  analysis,  Data  curation.  Juntong Jing: Validation, Investigation, Data curation. Hangna Qiu: Validation, Investigation,  Data  curation.  Kaige  Li:  Visualization,  Methodology, Investigation. Xia Xu: Supervision, Resources, Methodology. Chaoran Chen:  Writing  –  review  &  editing,  Funding  acquisition, Conceptualization.
+Ethical considerations
+This  study  was  reviewed  and  approved  by  Biomedical  Research Ethics Committee of Henan University (approval number: HUSOM2025- 1017; approval date: January 21, 2025).
+Funding
+This  work  was  supported by  the  Henan  Provincial  Health  Depart -ment  Research  Project  (LHGJ20250527);  Henan  Province  Education Strengthening Special Research Project (2026JYQS073).
+Declaration of competing interest
+The authors have no conflicts of interest to disclose.Acknowledgments
+We want to thank all the participants who supported us in this study. Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi. org/10.1016/j.nedt.2026.107237.
+Data availability
+The data that support the findings of this study are available upon request from the corresponding author.
+References
+Ali, S.I., Shaban, M., 2026b. Constructing digital professionalism in the generative AI era: 
+a qualitative study with nursing students and faculty. Nurse Educ. Today 162, 107055. https://doi.org/10.1016/j.nedt.2026.107055.
+Ali, S.I., Shaban, M., 2026a. AI literacy in nursing education: building workforce 
+readiness for safe and ethical integration into practice. Nurse Educ. Pract. 92, 104771. https://doi.org/10.1016/j.nepr.2026.104771.
+Al-Olaimat, K., Salameh, B., Alqadi, R.A., Alruwaili, A., Hakami, M., Alanazi, H.H., 
+Maharem, T., Reshia, F.A.A., 2025. Readiness and acceptance of nursing students regarding AI-based health care technology on the training of nursing skills in Saudi Arabia: cross-sectional study. JMIR Nurs. 8, e71653. https://doi.org/10.2196/ 71653.
+Amin, S.M., Almagharbeh, W.T., Alrimawi, I., El-Gazar, H.E., Hamash, K.I., Zoromba, M. 
+A., Alharbi, A.A., Al Sarayreh, A.S., El-sayed, M.M., 2026. Exploring the ethical 
+dimensions of AI-driven patient monitoring in critical care nursing: a systematic 
+review. Nurs. Crit. Care 31 (2), e70384. https://doi.org/10.1111/nicc.70384.
+Arboh, F., Zhu, X.X., Atingabili, S., Yeboah, E., Drokow, E.K., 2025. From fear to 
+empowerment: the impact of employees AI awareness on workplace well-being - a 
+new insight from the JD-R model. J. Health Organ. Manag. https://doi.org/10.1108/ 
+JHOM-06-2024-0229.
+Arkan, B., Dalli, O., ¨ Varol, B., 2025. The impact of ChatGPT training in the nursing 
+process on nursing students’ problem-solving skills, attitudes towards artificial intelligence, competency, and satisfaction levels: single-blind randomized controlled study. Nurse Educ. Today 152, 106765. https://doi.org/10.1016/j. nedt.2025.106765.
+Atalla, A.D.G., Mousa, M.A., Hashish, E.A.A., Elseesy, N.A.M., Mohamed, A.I.A., 
+Mohamed, S.M.S., 2025. Embracing artificial intelligence in nursing: exploring the relationship between artificial intelligence-related attitudes, creative self-efficacy, and clinical reasoning competency among nurses. BMC Nurs. 24 (1), 661. https:// doi.org/10.1186/s12912-025-03306-3.
+Awad, N.H.A., Aljohani, W., Yaseen, M.M., Awad, W.H.A., Abou Elala, R.A.S.A., 
+Ashour, H.M.A., 2025. When machines decide: exploring how trust in AI shapes the relationship between clinical decision support systems and nurses’ decision regret: a cross-sectional study. Nurs. Crit. Care 30 (5), e70157. https://doi.org/10.1111/ nicc.70157.
+Aydogan, S., Kok, A.Y., Ergezen, F.D., Bozkurt, S.A., 2026. The effect of role-playing and 
+AI-based learning on nursing students’ knowledge of the nursing process and diagnostic accuracy: a quasi-experimental study. Nurse Educ. Pract. 91, 104680. https://doi.org/10.1016/j.nepr.2025.104680.
+Baraka, A.A.E., Alhijji, M.A.A., Alrajeh, R.A.I., Alotaibi, D.N.B., Bukhamis, S., 
+Alsafraa, N.A.M., Hassan, E.A., 2025. Acceptance and readiness of critical care nurses to use artificial intelligence: a structural equation modeling approach. Int. Nurs. Rev. 72 (2), e70035. https://doi.org/10.1111/inr.70035.
+Berdida, D.J.E., Grande, R.A.N., Serag, R.M., Abd Elmaksoud, D.M.F., 2026. Nursing 
+students’ artificial intelligence (AI) literacy, AI self-efficacy and AI self-competency: a cross-sectional design and structural equation model analysis. Nurse Educ. Pract. 90, 104673. https://doi.org/10.1016/j.nepr.2025.104673.
+Chen, P.J., 2026. AI-enhanced virtual reality simulation for nursing students’ empathy: 
+automated scoring and inter-rater reliability in a randomised controlled study. Nurse Educ. Today. 159, 106968. https://doi.org/10.1016/j.nedt.2025.106968.
+Chen, F.F., 2007. Sensitivity of goodness of fit indexes to lack of measurement 
+invariance. Struct. Equ. Model. Multidiscip. J. 14 (3), 464–504. https://doi.org/ 10.1080/10705510701301834.
+Chen, M., 2024. A Study on the Latent Categories of Job Crafting Among Newly Hired 
+Nurses and Their Relationship With Work Thriving. Shandong University of Traditional Chinese Medicine. https://doi.org/10.27282/d.cnki. gsdzu.2024.000121.
+Cheung, G.W., Rensvold, R.B., 2002. Evaluating goodness-of-fit indexes for testing 
+measurement invariance. Struct. Equ. Model. Multidiscip. J. 9 (2), 233–255. https:// doi.org/10.1207/S15328007SEM0902_5.
+Cho, K.A., Seo, Y.H., 2024. Dual mediating effects of anxiety to use and acceptance 
+attitude of artificial intelligence technology on the relationship between nursing students’ perception of and intention to use them: a descriptive study. BMC Nurs. 23 (1), 212. https://doi.org/10.1186/s12912-024-01887-z.
+Chu, T.Y., Chen, X., Zhang, Q., Zhou, H., Chen, L., Jiang, K., 2026. Attitudes of breast 
+cancer chemotherapy patients and nurses toward acceptance of AI psychological nursing: a qualitative study. J. Multidiscip. Healthc. 19, 1–13. https://doi.org/ 10.2147/JMDH.S572035.
+Chung, J., Jung, H., Park, S.M., Lee, K., 2025. Effects of digital literacy and nursing 
+informatics competency as job resources on nurses’ burnout and work engagement: a cross-sectional study. BMC Nurs. 24 (1), 1486. https://doi.org/10.1186/s12912- 025-04111-8.
+Dukerich, J.M., 2001. Role transitions in organizational life: an identity-based 
+perspective. Acad. Manag. Rev. 26 (4), 670–672. https://www.proquest.com/schola rly-journals/role-transitions-organizational-life-identity/docview/210948135/se-2? accountid=146575.
+El Arab, R.A., Al Moosa, O.A., 2025. The role of AI in emergency department triage: an 
+integrative systematic review. Intensive Crit. Care Nurs. 89, 104058. https://doi. org/10.1016/j.iccn.2025.104058.
+El Arab, R.A., Alshakihs, A.H., Alabdulwahab, S.H., Almubarak, Y.S., Alkhalifah, S.S., 
+Abdrbo, A., Hassanein, S., Sagbakken, M., 2025. Artificial intelligence in nursing: a systematic review of attitudes, literacy, readiness, and adoption intentions among nursing students and practicing nurses. Front. Digit. Health 7, 1666005. https://doi. org/10.3389/fdgth.2025.1666005.
+El-Bassal, N.A.M., El-Sayed, A.A.I., Elgamal, H.G., 2025. Empowering nurses in the AI 
+era: investigating the interplay between professionalism, AI readiness, and self- 
+efficacy. BMC Nurs. 24 (1), 1287. https://doi.org/10.1186/s12912-025-03896-y. El-Sayed, B.K.M., El-Sayed, A.A.I., Alsenany, S.A., Asal, M.G.R., 2025. The role of 
+artificial intelligence literacy and innovation mindset in shaping nursing students’ 
+career and talent self-efficacy. Nurse Educ. Pract. 82, 104208. https://doi.org/ 
+10.1016/j.nepr.2024.104208.
+Fan, J.P., Zhang, L.L., Li, N., Man, S.Y., 2025. How the perceived substitution of AI 
+technology hinders nurses’ innovation behavior: the mediating role of AI anxiety and 
+human-AI cooperation intention and the moderating role of organizational AI 
+readiness. BMC Nurs. 24 (1), 832. https://doi.org/10.1186/s12912-025-03265-9.
+Fang, H., Qu, F., Cheng, L., Hu, W., Jia, J., Li, H., 2025. Development of an artificial 
+intelligence training system for clinical nursing decision-making thinking in acute 
+left heart failure and its application effect among newly recruited nurses. Chin. J. 
+Nurs. Educ. 22 (09), 1049–1056. https://kns.cnki.net/kcms2/article/abstract?v=CB 
+7PaufGGSeVi1kBUQ0tVEnjIym2dVk4lpupIxG8KjDyHZU7byacBWJY2Dhbnndstc 
+9_pYcglWkoQQ551swLnZELTqvYtmAjX0jl8QFXFD7CB77VFpNDgMY70OoPDxfdh 
+xKRMCSxxU8ghkJZLhl8kWv9-keg0R2-YsYOXKdHA-fLiotKi4CFccZVbRchM5dv&u 
+niplatform=NZKPT&language=CHS.
+Faul, F., Erdfelder, E., Lang, A.-G., Buchner, A., 2007. G*Power 3: a flexible statistical 
+power analysis program for the social, behavioral, and biomedical sciences. Behav. Res. Methods 39 (2), 175–191. https://doi.org/10.3758/BF03193146.
+Felder, M., Kuijper, S., Allen, D., Bal, R., Wallenburg, I., Consortium, R. N. B, 2024. Job 
+crafting as retention strategy: an ethnographic account of the challenges faced in crafting new nursing roles in care practice. Int. J. Health Plann. Manage. 39 (3), 722–739. https://doi.org/10.1002/hpm.3780.
+Han, J., Zhang, M., Gao, Y., Li, Q., Ma, J., Tang, Y., You, N., Liu, T., 2024. The real 
+experience of workplace adjustment at different stages of the transition period for new nurses. J. Nurses Train. 39 (20), 2145–2150. https://doi.org/10.16821/j.cnki. hsjx.2024.20.004.
+Harmon, J., Pitt, V., Summons, P., Inder, K.J., 2021. Use of artificial intelligence and 
+virtual reality within clinical simulation for nursing pain education: a scoping review. Nurse Educ. Today 97, 104700. https://doi.org/10.1016/j. nedt.2020.104700.
+Ho, N.T.T., Le, H.V., 2026. Empowered by AI: exploring the link between literacy, self- 
+efficacy, and career expectations. Acta Psychol. (Amst) 264, 106408. https://doi. org/10.1016/j.actpsy.2026.106408.
+
+10 
+D. Liu et al.                                                                                                                                                                                                                                      Nurse Education Today 167 (2026) 107237 
+Hoelscher, S.H., Pugh, A., 2025. Nurses embracing artificial intelligence: a guide to 
+artificial intelligence literacy for the nursing profession. Nurs. Outlook 73 (4), 102466. https://doi.org/10.1016/j.outlook.2025.102466.
+Hu, L.-t., Bentler, P.M., 1999. Cutoff criteria for fit indexes in covariance structure 
+analysis: conventional criteria versus new alternatives. Struct. Equ. Model. 6 (1), 1–55. https://www.proquest.com/scholarly-journals/cutoff-criteria-fit-indexes-co variance-structure/docview/62481431/se-2?accountid=146575.
+Ibrahim, F.M., Shahrour, G., Abuijlan, I.A.M., Abdallah, A.M., Alsuwayed, A., Alanazi, A. 
+R., 2026. NAIL-G: a conceptual best-fit framework for nursing AI literacy and governance anchored in socio-technical safety science. BMC Nurs. 25 (1), 370. https://doi.org/10.1186/s12912-026-04555-6.
+Jeon, H.G., Jeong, H.W., 2026. Development and evaluation of an AI-based virtual 
+human communication simulation for nursing students’ communication with older patients: a mixed-methods study. Clin. Simul. Nurs. 113, 101912. https://doi.org/ 
+10.1016/j.ecns.2026.101912.
+Jing, J., Fu, Y., Liu, D., Ma, Z., Qiu, H., Zhang, H., Liu, J., Chen, C., 2026b. AI technology 
+acceptance, decent work perception, and job crafting among nurses: a three-wave cross-lagged study. Int. Nurs. Rev. 73 (1), e70150. https://doi.org/10.1111/ inr.70150.
+Jing, J.T., Fu, Y.K., Liu, D.R., Ma, Z.Y., Qiu, H.N., Liu, F.L., Chen, C.R., 2026a. Nurses’ 
+ethical leadership, artificial intelligence, and moral sensitivity activation. Nurs. Ethics 33 (3), 848–861. https://doi.org/10.1177/09697330251403139.
+Kato, S., Nozue, A., Yamashita, A., 2025. Relation between career development and 
+metacognition among new graduate nurses: a cross-sectional study. Sage Open Nurs. 11, 23779608251391125. https://doi.org/10.1177/23779608251391125.
+Kelly, S., Kaye, S.-A., Oviedo-Trespalacios, O., 2023. What factors contribute to the 
+acceptance of artificial intelligence? A systematic review [Review]. Telemat. Inform. 77, 101925. https://doi.org/10.1016/j.tele.2022.101925.
+Kenny, D.A., Kaniskan, B., McCoach, D.B., 2015. The performance of RMSEA in models 
+with small degrees of freedom. Sociol. Methods Res. 44 (3), 486–507. https://doi. org/10.1177/0049124114543236.
+LaGore, A., Colby, L., Sinsabaugh, K., Grobbel, C., Piscotty, R., 2025. The effect of AI 
+education on nursing student AI literacy and anxiety. J. Nurs. Educ. 64 (9). https:// doi.org/10.3928/01484834-20250415-04.
+Li, X., Chen, D., Wang, S., Wang, C., Wang, S., Kong, C., 2026. AI literacy, information 
+cocoons, and creativity in healthcare postgraduate education: a latent profile and mediation analysis. Nurse Educ. Today 162, 107045. https://doi.org/10.1016/j. nedt.2026.107045.
+Liao, Q., 2013. Research on the Relationship between Proactive Personality, Employee- 
+Organization Value Fit, Psychological Empowerment, and Job Crafting [硕士 , Suzhou University]. https://kns.cnki.net/kcms2/article/abstract?v=weCMZZjTu L1FvE1kG1hYxC3iQ8IG1NlhSL9OZYc-1XyHJQouBQQEVSsC5Z02pW_A_ppzubA_dO Fdc_VAOeOcO-B5VDv7_ZvtXRvs3rF62HWOIJjRYLMvk_X_ipkJhWE2IY_b0BuHqe qBwuFpPGIbG2iJQKAHeVvM3MgwtJw-QWJEWS2QWRPhAaVhzXKF9CKp&uniplat form=NZKPT&language=CHS.
+Liaquat, S., Escartin, J., Coyle-Shapiro, J., 2025. Working differently, performing 
+similarly: systems intelligence and job crafting as predictors of job performance in a three-wave longitudinal study [Article]. Behav. Sci. 15 (9), 1255. https://doi.org/ 10.3390/bs15091255.
+Liu, D., Fu, Y., Lu, G., Zhang, S., Li, K., Zhou, W., Chen, C., 2026. Mobile phone addiction 
+and social anxiety among nursing students during internship: the longitudinal mediating role of physical activity and social adaptability in mental health promotion. Acta Psychol. (Amst) 266, 106818. https://doi.org/10.1016/j. actpsy.2026.106818.
+Liu, J., Yang, J., Liu, Y., Yang, Y., Zhang, H., 2015. The use of Career Growth Scale in 
+Chinese nurses: validity and reliability. Int. J. Nurs. Sci. 2 (1), 80–85. https://doi. org/10.1016/j.ijnss.2015.01.010.
+Liu, L., Liu, M., Lv, Z., Ma, F., Mao, Y., Liu, Y., 2024a. Relationship between work 
+readiness, transition shock, and job competency among new nurses in oncology hospitals - a longitudinal study based on a latent growth model. Nurse Educ. Today 142, 106347. https://doi.org/10.1016/j.nedt.2024.106347.
+Liu, L., Liu, M., Lv, Z.H., Mao, Y.S., Liu, Y., 2024b. Self-awareness and career adaptability 
+of new nurses in the oncology hospital: a chain mediating model of creative self- efficacy and work readiness. Curr. Psychol. 43 (37), 29364–29376. https://doi.org/ 10.1007/s12144-024-06540-1.
+Liu, L.T., Zhou, T., Lu, Y.M., Hu, M.J., Huang, Y., Chen, D., 2025d. Structural 
+empowerment and organisational silence of new nurses: the mediating role of role ambiguity. J. Adv. Nurs. https://doi.org/10.1111/jan.70348.
+Liu, S., Xiao, Y., Nie, M., Yuan, X., Wang, L., Wang, M., Wu, Z., 2025b. Nurses’ attitudes 
+toward artificial intelligence: AI literacy as a predictor and the mediating effect of AI anxiety [Article]. BMC Nurs. 24 (1), 1511. https://doi.org/10.1186/s12912-025- 04142-1.
+Liu, S., Xiao, Y.C., Nie, M.H., Yuan, X.Q., Wang, L.P., Wang, M., Wu, Z.M., 2025c. Nurses’ 
+attitudes toward artificial intelligence: AI literacy as a predictor and the mediating effect of AI anxiety. BMC Nurs. 24 (1), 1511. https://doi.org/10.1186/s12912-025- 04142-1.
+Liu, Y.Y., Sheng, F., Liu, R.Y., 2025a. Generative AI adoption and employee outcomes: a 
+conservation of resources perspective on job crafting, career commitment, and the moderating role of liking of AI. Hum. Soc. Sci. Commun. 12 (1), 1376. https://doi. org/10.1057/s41599-025-05656-4.
+Long, Y., Lu, C., Feng, Z., 2024. A qualitative study on clinical nurses’ perceptions of 
+lateral leadership traits. J. Nurs. (China) 31 (07), 27–31. https://doi.org/10.16460/ j.issn1008-9969.2024.07.027.
+Martini, D., Schalkwijk, H., Schoonhoven, L., Noordegraaf, M., Lalleman, P., 2025. 
+Working on differentiated nursing practices in hospitals: a learning history on 
+enacting new nursing roles [Article]. J. Adv. Nurs. 81 (1), 439–449. https://doi.org/ 10.1111/jan.16240.
+Mayer, A.S., Baygi, R.M., Buwalda, R., 2025. Generation AI: job crafting by entry-level 
+professionals in the age of generative AI. Bus. Inf. Syst. Eng. 67 (5), 595–613. https://doi.org/10.1007/s12599-025-00959-x.
+Meng, R., Jiang, Z., Su, Y., Lu, G.L., Chen, C.R., 2024. The effect of perceived 
+organizational justice on workplace deviant behavior of new nurses: the role of emotional labor and psychological capital. BMC Nurs. 23 (1), 288. https://doi.org/ 10.1186/s12912-024-01937-6.
+Miao, R.T., Yu, J., Bozionelos, N., Bozionelos, G., 2023. Organizational career growth 
+and high-performance work systems: the roles of job crafting and organizational innovation climate. J. Vocat. Behav. 143, 103879. https://doi.org/10.1016/j. jvb.2023.103879.
+Michalowski, M., Topaz, M., Peltonen, L.M., 2026. An AI-enabled nursing future with no 
+documentation burden: a vision for a new reality. J. Adv. Nurs. 82 (1), 907–912. https://doi.org/10.1111/jan.16911.
+Mudallal, R.H., Al-Modallal, H.M., Al Hassan, N.F., 2025. The impact of nursing 
+information literacy and nursing informatics competency on attitudes toward evidence-based practice. CIN Comput. Inform. Nurs. 43 (8), e01272. https://doi.org/ 10.1097/CIN.0000000000001272.
+Ni, Y.X., Li, L., Li, J.P., 2023. Development and psychometric evaluation of the career 
+growth scale for nurses. Asian Nurs. Res. 17 (4), 200–207. https://doi.org/10.1016/ j.anr.2023.08.001.
+Ni, Y.X., Li, J.P., Huang, M.J., 2025. Organizational career management and nurse career 
+growth: a serial multiple mediation model of basic psychological needs and individual career management. BMC Nurs. 24 (1), 824. https://doi.org/10.1186/ s12912-025-03498-8.
+Park, S., Ha, Y., 2025. The relationship between positive psychological capital and work 
+engagement in clinical nurses: mediation effect of job crafting. BMC Nurs. 24 (1), 117. https://doi.org/10.1186/s12912-024-02600-w.
+Qiu, H.N., Jing, J.T., Ma, Z.Y., Fu, Y.K., Liu, D.R., Zhang, H.H., Liu, J., Chen, C.R., 2025. 
+The relationship between organizational commitment, psychological capital, positive coping styles, and perceived professional benefit among new nurses: a longitudinal study. BMC Nurs. 24 (1), 886. https://doi.org/10.1186/s12912-025- 03524-9.
+Saleh, M.S.M., Abd-Elhamid, Z.N., Aldhafeeri, N.A., Dailah, H.G., Alenezi, A., 
+Zoromba, M., Elsabahy, H.E., 2024. Appreciative leadership, workplace 
+belongingness, and affective commitment of nurses: the mediating role of job 
+crafting. J. Nurs. Manag. 2024, 2311882. https://doi.org/10.1155/2024/2311882. Schiavo, G., Businaro, S., Zancanaro, M., 2024. Comprehension, apprehension, and 
+acceptance: understanding the influence of literacy and anxiety on acceptance of 
+artificial intelligence. Technol. Soc. 77, 102537. https://doi.org/10.1016/j. 
+techsoc.2024.102537.
+Sengul, T., Sarikose, S., Uncu, B., Kaya, N., 2025. The effect of artificial intelligence 
+literacy on self-directed learning skills: the mediating role of attitude towards artificial intelligence: a study on nursing and midwifery students. Nurse Educ. Pract. 88, 104516. https://doi.org/10.1016/j.nepr.2025.104516.
+Shen, C.M.H., Huang, Y.Z., Wang, B.B., Ye, X.Y., Jiang, J.Z., 2025. The impact of nurse- 
+led, AI-assisted perioperative health education on psychological status and quality of life in patients undergoing lung cancer surgery. Front. Psychol. 16, 1702256. https://doi.org/10.3389/fpsyg.2025.1702256.
+Shi, D.X., Lee, T., Maydeu-Olivares, A., 2019. Understanding the model size effect on 
+SEM fit indices. Educ. Psychol. Meas. 79 (2), 310–334. https://doi.org/10.1177/ 0013164418783530.
+Simms, R.C., 2025. Generative artificial intelligence (AI) literacy in nursing education: a 
+crucial call to action. Nurse Educ. Today 146, 106544. https://doi.org/10.1016/j. nedt.2024.106544.
+S¸ims¸ek, E., Kudubes¸, A.A., Semerci S¸ahin, R., 2025. The predictive effect of nursing 
+students’ attitudes and acceptance towards artificial intelligence on their clinical competencies. Teach. Learn. Nurs. 20 (3), e806–e814. https://doi.org/10.1016/j. teln.2025.02.036.
+Solutions, N.N., 2024. 2024 NSI national healthcare retention & RN staffing report. 
+https://www.nsinursingsolutions.com/Documents/Library/NSI_National_Health _Care_Retention_Report.pdf.
+Su, Q., Wu, Y.H., Yun, B., Zhang, H.Y., She, D.L., Han, L., 2023. The mediating effect of 
+clinical teaching behavior on transition shock and career identity among new nurses: a cross-sectional study. Nurse Educ. Today 125, 105780. https://doi.org/10.1016/j. nedt.2023.105780.
+Subasi, D., Sümengen, A.A., Semerci, R., Simsek, E., Çakir, G.N., Temizsoy, E., 2025. 
+Paediatric nurses’ perspectives on artificial intelligence applications: a cross- sectional study of concerns, literacy levels and attitudes. J. Adv. Nurs. 81 (3), 1353–1363. https://doi.org/10.1111/jan.16335.
+Sürme, Y., Topan, H., Baydogan, G.M., 2026. A new era in the education and practice of 
+nurse academics: a qualitative study on the use of artificial intelligence. Nurse Educ. Pract. 90, 104649. https://doi.org/10.1016/j.nepr.2025.104649.
+Tawfik, A.F., El-Ashry, A.M., Mohamed, S.H., Mahgoub, S.A., 2025. The mediating role 
+of authentic followership in the relationship between job crafting and nurses’ quality of work life. J. Adv. Nurs. https://doi.org/10.1111/jan.16993.
+Tims, M., Bakker, A.B., Derks, D., 2012. Development and validation of the job crafting 
+scale. J. Vocat. Behav. 80 (1), 173–186. https://doi.org/10.1016/j.jvb.2011.05.009.
+Venkatesh, V., Davis, F.D., 2000. A theoretical extension of the Technology Acceptance 
+Model: four longitudinal field studies. Manag. Sci. 46 (2), 186–204. https://doi.org/ 
+10.1287/mnsc.46.2.186.11926.
+Walden, C.M., Forbes, T.H., Swanson, M., Lake, D., Oehlert, J.K., Scott, E.S., 2022. Career 
+adaptability an innovative measurement to aid professional development of new 
+
+11 
+D. Liu et al.                                                                                                                                                                                                                                      Nurse Education Today 167 (2026) 107237 
+graduate nurses. J. Nurses Prof. Dev. 38 (3), 145–150. https://doi.org/10.1097/ NND.0000000000000752.
+Wang, B.C., Rau, P.L.P., Yuan, T.Y., 2023. Measuring user competence in using artificial 
+intelligence: validity and reliability of artificial intelligence literacy scale. Behav. Inf. 
+Technol. 42 (9), 1324–1337. https://doi.org/10.1080/0144929X.2022.2072768.
+Wen, Y., Wang, S., 2025. Examining the relationship between free will belief and job 
+crafting in nurses. J. Nurs. Manag. 2025 (1), 9991125. https://doi.org/10.1155/ 
+jonm/9991125.
+Weng, Q.X., McElroy, J.C., Morrow, P.C., Liu, R.Z., 2010. The relationship between 
+career growth and organizational commitment. J. Vocat. Behav. 77 (3), 391–400. https://doi.org/10.1016/j.jvb.2010.05.003.
+Wise, M., Ossenberg, C., Spiller, K., Henderson, A., 2023. Appraising differential 
+capabilities of new graduate nurses: development across the first nine months of employment. Nurse Educ. Today 130, 105943. https://doi.org/10.1016/j. nedt.2023.105943.
+Wu, J., Zhu, Y., Yan, D., Zhang, Y., Zhang, Y., 2025c. Comparison of the achieved and 
+expected competence level of new graduate nurses: two cross-sectional studies 
+[Article]. J. Adv. Nurs. 81 (5), 2426–2437. https://doi.org/10.1111/jan.16427.
+Wu, L.L., Sui, W.J., Xia, Y.R., Zhang, J.R., Ni, Q.Q., Zhou, H.T., Dong, J., Huang, Z.Z., 
+Zhang, C.C., Zhang, J.Y., Gong, X.Y., Zhuang, Y.Y., 2025b. The mediating effect of 
+team job crafting on the association between transformational leadership and 
+occupational well-being in newly graduated nurses. J. Adv. Nurs. https://doi.org/ 
+10.1111/jan.70313.
+Wu, Y., Zhu, H.Q., Tan, W., Liu, Y.F., Huang, W.J., 2024. Inclusive human resource 
+management and nurses’  innovative behavior during crisis events: the roles of job 
+crafting and shared leadership. J. Nurs. Manag. 2024, 3379020. https://doi.org/ 10.1155/2024/3379020.
+Wu, Z., Ma, J., Wang, S., 2025a. Analysis of the current status and influencing factors of 
+job crafting in clinical nurse teams. J. Nurs. (China) 32 (05), 71–75. https://doi.org/ 10.16460/j.issn1008-9969.2025.05.071.
+Xie, W.Y., Liu, F., Liu, J.L., Liu, S.R., 2026. Beyond literacy to clinical competency: a 
+framework for integrating generative AI into nursing education. Nurse Educ. Today 163, 107108. https://doi.org/10.1016/j.nedt.2026.107108.
+Yan, Y.H., Qu, X.Q., Lei, H.Z., Geng, Y., 2025. Approach or avoidance: how does employees’  generative AI awareness shape their job crafting behavior? A 
+sensemaking perspective. Behav. Sci. 15 (6), 789. https://doi.org/10.3390/ bs15060789.
+Zhang, X., Wei, N., Li, M., Li, L., Lv, X., Zhang, Y., Davidson, P.M., Cao, Y., 2025. Sickness 
+presenteeism, job burnout, social support and health-related productivity loss among nurses in the Chinese nurses’ health cohort study (TARGET): a cross-sectional survey [Article]. Int. J. Nurs. Stud. 162, 104962. https://doi.org/10.1016/j. ijnurstu.2024.104962.
+Zheng, S.F., Yang, L.L., Zhou, N., Zhu, H.X., 2023. New nurses’ experience during a two 
+year transition period to clinical practice: a phenomenological study. Nurse Educ. Today 121, 105682. https://doi.org/10.1016/j.nedt.2022.105682.
+Zheng, X.J., Song, J.M., Shi, X.D., Lu, G.L., Qu, Z., Lu, X.X., Chen, C.R., 2025. The effect 
+of professional identity on new nurses’  turnover intention: the mediating role of psychological capital and achievement motivation. BMC Psychol. 13 (1), 924. https://doi.org/10.1186/s40359-025-03295-7.
+12 
