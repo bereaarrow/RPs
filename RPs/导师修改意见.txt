@@ -1,6 +1,8 @@
 我的RP和相关文献地址：https://github.com/bereaarrow/RPs
 我已经提供了GitHub的txt文件链接，确认都可以访问，直接通过网页就可以查看。你不要说你检索不到。我挨个都检查了，没有任何问题。
 
+我修改的RP文件是这个：https://github.com/bereaarrow/RPs/blob/main/RPs/Academic%20Misconduct%E4%BF%AE%E6%94%B9.txt
+
 **Professor Jason Stephens**
 https://scholar.google.com/citations?user=1KjtaiAAAAAJ&hl=en
 https://www.researchgate.net/profile/Jason-Stephens-4
