@@ -8,6 +8,8 @@ Abstract
  
 2. Study 1: The Impact of Generative AI on Academic Misconduct: A Theoretical Model of GAI Academic Misconduct
 
+Abstract
+
 2.1. Introduction
 The study of academic misconduct spans generations and has a long history in the psychology literature (McCabe et al., 2001). The prevalence of students engaging in academically dishonest behaviors is alarmingly high (Rettinger et al., 2024), prompting a response from the research com-munity to better understand these behaviors and to reduce their occurrence. Although the total number of students who acknowledge misconduct has remained relatively stable, the amount of misconduct has grown dramatically (Lee et al., 2024; Newton, 2018). This increase in frequency points to a pressing need to understand the personal and contextual factors that underpin academic cheating. A number of theoretical explanations for cheating have been offered, which help to inform efforts to develop programming, interventions, and policies designed to reduce and prevent cheating, especially the most serious offenses.
 
@@ -134,6 +136,9 @@ SEM will be conducted through the following steps: model specification, model id
  
 3. Study 2: The Impact of AI Literacy on Academic Integrity: The Mediating Role of Conceptions of Assessment and Feedback Literacy
 
+Abstract
+
+
 3.1. Introduction
 As an emerging field of computer science, artificial intelligence has profoundly impacted education (Celik, 2023; Montebello, 2018). Recently, there has been growing interest in exploring the interactions between people and AI and AI education systems. However, much of this interest has concentrated on AI's instructional and technical affordances, with comparatively little attention paid to the integrity-related consequences of students' growing access to generative AI (GenAI) tools such as ChatGPT (Gruenhagen et al., 2024; Perkins et al., 2024). The rapid diffusion of GenAI into higher education has unsettled the traditional assumptions underlying assessment design, evaluation, and academic honesty (Gruenhagen et al., 2024; Xia et al., 2024). Indeed, more than a third of university students surveyed in Australia reported having used a chatbot for assistance with an assessment, and many of them did not regard this as a breach of academic integrity (Gruenhagen et al., 2024). This finding suggests that students' understanding of what counts as legitimate versus dishonest AI use—that is, their AI literacy—may be a critical yet underexamined antecedent of academic misconduct in the GenAI era.
 
@@ -253,6 +258,8 @@ SEM will be conducted through the following steps: model specification, model id
  
 4. Study 3: The Impact of AI Literacy on Academic Misconduct: The Mediating Role of Academic Motivation and Self-Regulation Learning
 
+Abstract
+
 4.1. Introduction
 Artificial intelligence has profoundly impacted education (Celik, 2023; Montebello, 2018). Recently, there has been growing interest in exploring the interactions between people and AI and AI education systems. However, much of this interest has concentrated on AI's instructional and technical affordances, with comparatively little attention paid to the integrity-related consequences of students' growing access to generative AI (GenAI) tools such as ChatGPT (Gruenhagen et al., 2024; Perkins et al., 2024). The rapid diffusion of GenAI into higher education has unsettled the traditional assumptions underlying assessment design, evaluation, and academic honesty (Gruenhagen et al., 2024; Xia et al., 2024). Indeed, more than a third of university students surveyed in Australia reported having used a chatbot for assistance with an assessment, and many of them did not regard this as a breach of academic integrity (Gruenhagen et al., 2024). This finding suggests that students' understanding of what counts as legitimate versus dishonest AI use—that is, their AI literacy—may be a critical yet underexamined antecedent of academic misconduct in the GenAI era.
 
@@ -296,6 +303,10 @@ Despite extensive research, significant gaps remain. Most existing studies preda
 Academic motivation refers to the internal and external factors that drive students to learn and perform academically (Ryan & Deci, 2020). Academic motivation—whether intrinsic, driven by internal satisfaction and interest, or extrinsic, driven by external rewards like grades and recognition—also significantly influences how engaged students are in their academic work (Ryan & Deci, 2020; Shin & Bolkan, 2021).
 
 Vallerand et al. (1992) operationalized academic motivation along a self-determination continuum comprising three types of intrinsic motivation (to know, to accomplish things, and to experience stimulation), three types of extrinsic motivation (external regulation, introjected regulation, and identified regulation), and amotivation—the relative absence of any motivation toward academic work. This taxonomy provides the basis for examining how AI literacy relates to the quality, rather than merely the quantity, of students' academic motivation, which in turn is theorized to shape their engagement in academic misconduct (Murdock & Anderman, 2006).
+
+Despite these well-established literatures, a direct empirical link between AI literacy and academic motivation has rarely been tested. Motivational achievement goal structures have long been shown to predict academic misconduct—with mastery-oriented motivation reducing, and performance-avoidance motivation increasing, students' likelihood of cheating (Anderman & Midgley, 2004; Murdock & Anderman, 2006)—yet this literature predates the widespread availability of GenAI tools and does not account for how students' competence in using these tools might itself shape their underlying motivational orientation. Separately, a growing body of self-determination theory (SDT) research has begun linking psychological need satisfaction to AI literacy, mediated by self-regulated learning strategies, but has explicitly noted a lack of empirical evidence directly connecting motivational constructs to specific elements of AI literacy (need-satisfaction-AI-literacy studies, e.g., autonomy, competence, and relatedness as antecedents of AI literacy development). These two literatures—motivation-as-predictor-of-misconduct and AI-literacy-as-outcome-of-motivation—have developed largely independently, leaving open the reverse and more policy-relevant question of how students' AI literacy shapes their academic motivation, and in turn their academic conduct.
+
+This gap is particularly consequential in the Chinese higher education context, where GenAI tools have been rapidly adopted but where empirical research on their motivational consequences for students remains scarce (A. Zhao et al., 2020). Understanding whether AI-literate students sustain stronger academic motivation—or, alternatively, experience reduced motivation as they offload cognitive effort to AI tools—has direct implications for how institutions design AI-integrated curricula and assessment policies aimed at preserving academic integrity in the GenAI era (Huang & Derakhshan, 2025; Shin & Bolkan, 2021).
 
 4.2.4. Self-Regulation Learning (SRL)
 Self-Regulation Learning refers to learners’ ability to actively set goals, monitor progress, and adjust strategies to achieve desired learning outcomes (Zimmerman, 2002). Pintrich (2000) articulated SRL as “an active, constructive process whereby learners set goals for their learning and then attempt to monitor, regulate, and control their cognition, motivation, and behavior, guided and constrained by their goals and the contextual features in the environment” (p. 453). GenAI-SRL describes how learners use GenAI systems to plan, monitor, and evaluate their learning while also managing their interactions with these intelligent tools (Banihashem et al., 2025; Chang & Sun, 2024).
@@ -422,5 +433,6 @@ Wong, G. K. W., Ma, X., Dillenbourg, P., & Huan, J. (2020). Broadening artificia
 Wu, D., Chen, M., Chen, X., & Liu, X. (2024). Analyzing K-12 AI education: A large language model study of classroom instruction on learning theories, pedagogy, tools, and AI literacy. Computers and Education.
 Zhao, A., Brown, G. T. L., & Meissel, K. (2020). Manipulating the consequences of tests: How Shanghai teens react to different consequences. Educational Research and Evaluation, 26(5–6), 221–251. https://doi.org/10.1080/13803611.2021.1963938
 Zhao, L., Wu, X., & Luo, H. (2022). Developing AI literacy for primary and middle school teachers in China: Based on a structural equation modeling analysis. Sustainability, 14(21), 14549. https://doi.org/10.3390/su142114549
+
 
 
